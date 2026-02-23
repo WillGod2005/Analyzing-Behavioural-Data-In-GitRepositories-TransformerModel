@@ -1,0 +1,723 @@
+,type,name,created_at,Hash,Add,Del,Files,Vuln
+24054,PushEvent,jmacd_xdelta-devel,2015-12-13 05:27:33 UTC,,,,,
+28071,PushEvent,jmacd_xdelta-devel,2015-12-27 05:41:41 UTC,,,,,
+43917,PushEvent,jmacd_xdelta-devel,2015-12-27 05:44:58 UTC,,,,,
+147823,WatchEvent,jmacd_xdelta-devel,2015-05-08 19:24:56 UTC,,,,,
+155109,PushEvent,jmacd_xdelta-devel,2015-03-24 05:33:38 UTC,,,,,
+163666,WatchEvent,jmacd_xdelta-devel,2015-03-24 14:26:33 UTC,,,,,
+167023,PushEvent,jmacd_xdelta-devel,2015-12-30 06:45:24 UTC,,,,,
+198948,PushEvent,jmacd_xdelta-devel,2015-03-31 06:49:49 UTC,,,,,
+222741,PushEvent,jmacd_xdelta-devel,2015-03-30 06:34:42 UTC,,,,,
+235283,WatchEvent,jmacd_xdelta-devel,2015-03-27 02:10:16 UTC,,,,,
+259052,WatchEvent,jmacd_xdelta-devel,2015-06-12 05:46:49 UTC,,,,,
+269988,ForkEvent,jmacd_xdelta-devel,2015-07-10 12:45:03 UTC,,,,,
+270017,ForkEvent,jmacd_xdelta-devel,2015-07-14 09:24:15 UTC,,,,,
+342192,WatchEvent,jmacd_xdelta-devel,2015-09-14 12:40:15 UTC,,,,,
+373253,PushEvent,jmacd_xdelta-devel,2015-11-13 05:40:43 UTC,,,,,
+428972,WatchEvent,jmacd_xdelta-devel,2015-07-29 10:35:10 UTC,,,,,
+484838,CreateEvent,jmacd_xdelta-devel,2015-07-23 07:23:38 UTC,,,,,
+491609,PushEvent,jmacd_xdelta-devel,2015-12-30 06:20:38 UTC,,,,,
+503801,WatchEvent,jmacd_xdelta-devel,2015-12-16 20:39:44 UTC,,,,,
+633630,PushEvent,jmacd_xdelta-devel,2015-11-28 07:02:04 UTC,,,,,
+641507,PushEvent,jmacd_xdelta-devel,2015-07-10 04:37:41 UTC,,,,,
+669322,PushEvent,jmacd_xdelta-devel,2015-10-21 05:22:53 UTC,,,,,
+717474,WatchEvent,jmacd_xdelta-devel,2015-11-30 18:31:22 UTC,,,,,
+863466,WatchEvent,jmacd_xdelta-devel,2015-10-20 18:43:58 UTC,,,,,
+886577,PushEvent,jmacd_xdelta-devel,2015-05-11 04:27:34 UTC,,,,,
+925955,PushEvent,jmacd_xdelta-devel,2015-11-19 04:23:33 UTC,,,,,
+945582,PushEvent,jmacd_xdelta-devel,2015-11-01 04:21:10 UTC,,,,,
+1015843,ForkEvent,jmacd_xdelta-devel,2015-12-07 09:55:46 UTC,,,,,
+1055585,PushEvent,jmacd_xdelta-devel,2015-05-05 04:14:36 UTC,,,,,
+1075499,PushEvent,jmacd_xdelta-devel,2015-03-31 05:57:56 UTC,,,,,
+1087281,PushEvent,jmacd_xdelta-devel,2015-07-13 06:42:56 UTC,,,,,
+1130567,PushEvent,jmacd_xdelta-devel,2015-12-30 06:36:51 UTC,,,,,
+1166357,PushEvent,jmacd_xdelta-devel,2015-10-02 06:11:13 UTC,,,,,
+1174144,PushEvent,jmacd_xdelta-devel,2015-11-20 07:17:36 UTC,,,,,
+1178130,PushEvent,jmacd_xdelta-devel,2016-01-01 06:35:01 UTC,,,,,
+1182125,PushEvent,jmacd_xdelta-devel,2015-07-08 07:40:57 UTC,,,,,
+1249735,PushEvent,jmacd_xdelta-devel,2015-03-31 04:33:32 UTC,,,,,
+1261406,ForkEvent,jmacd_xdelta-devel,2015-04-26 04:45:07 UTC,,,,,
+1405542,ReleaseEvent,jmacd_xdelta-devel,2015-07-23 07:57:48 UTC,,,,,
+1420011,PushEvent,jmacd_xdelta-devel,2015-10-01 06:51:07 UTC,,,,,
+1487055,PushEvent,jmacd_xdelta-devel,2015-12-27 06:00:19 UTC,,,,,
+1503429,WatchEvent,jmacd_xdelta-devel,2015-11-30 07:43:27 UTC,,,,,
+1515081,WatchEvent,jmacd_xdelta-devel,2015-07-31 03:31:06 UTC,,,,,
+1522932,WatchEvent,jmacd_xdelta-devel,2015-06-11 04:46:29 UTC,,,,,
+1561672,PushEvent,jmacd_xdelta-devel,2015-07-22 07:45:54 UTC,,,,,
+1570098,WatchEvent,jmacd_xdelta-devel,2015-12-11 00:29:36 UTC,,,,,
+1585543,PushEvent,jmacd_xdelta-devel,2015-12-01 06:44:35 UTC,,,,,
+1629002,PushEvent,jmacd_xdelta-devel,2015-05-03 05:20:54 UTC,,,,,
+1716429,PushEvent,jmacd_xdelta-devel,2015-11-30 07:14:14 UTC,,,,,
+1720437,PushEvent,jmacd_xdelta-devel,2015-07-18 07:27:03 UTC,,,,,
+1847334,PushEvent,jmacd_xdelta-devel,2015-11-14 04:54:41 UTC,,,,,
+1871755,WatchEvent,jmacd_xdelta-devel,2015-04-18 07:35:39 UTC,,,,,
+1883093,PushEvent,jmacd_xdelta-devel,2015-12-28 06:12:51 UTC,,,,,
+1910641,PushEvent,jmacd_xdelta-devel,2015-11-06 04:07:37 UTC,,,,,
+1914637,PushEvent,jmacd_xdelta-devel,2015-11-22 07:36:57 UTC,,,,,
+1934614,PushEvent,jmacd_xdelta-devel,2015-12-03 06:06:44 UTC,,,,,
+1978323,PushEvent,jmacd_xdelta-devel,2015-11-24 04:28:09 UTC,,,,,
+2018521,WatchEvent,jmacd_xdelta-devel,2015-04-06 17:39:47 UTC,,,,,
+2037789,PushEvent,jmacd_xdelta-devel,2015-11-01 05:34:51 UTC,,,,,
+2097264,ForkEvent,jmacd_xdelta-devel,2015-06-11 04:46:36 UTC,,,,,
+2109513,PushEvent,jmacd_xdelta-devel,2015-07-21 06:57:56 UTC,,,,,
+2201012,WatchEvent,jmacd_xdelta-devel,2015-04-24 19:03:31 UTC,,,,,
+2208322,PushEvent,jmacd_xdelta-devel,2015-03-31 04:35:04 UTC,,,,,
+2208331,PushEvent,jmacd_xdelta-devel,2015-12-08 07:56:45 UTC,,,,,
+2251505,ForkEvent,jmacd_xdelta-devel,2015-08-18 21:31:56 UTC,,,,,
+2295126,PushEvent,jmacd_xdelta-devel,2015-11-18 06:52:10 UTC,,,,,
+2295674,WatchEvent,jmacd_xdelta-devel,2015-05-05 21:12:02 UTC,,,,,
+2295691,WatchEvent,jmacd_xdelta-devel,2015-09-21 02:26:11 UTC,,,,,
+2302835,PushEvent,jmacd_xdelta-devel,2015-12-18 06:50:12 UTC,,,,,
+2311297,WatchEvent,jmacd_xdelta-devel,2015-12-21 20:06:42 UTC,,,,,
+2390339,WatchEvent,jmacd_xdelta-devel,2015-08-18 13:11:26 UTC,,,,,
+2413548,PushEvent,jmacd_xdelta-devel,2015-11-18 07:55:41 UTC,,,,,
+2598692,PushEvent,jmacd_xdelta-devel,2015-12-08 06:53:47 UTC,,,,,
+2603836,CreateEvent,jmacd_xdelta-devel,2015-03-31 06:22:15 UTC,,,,,
+2681406,PushEvent,jmacd_xdelta-devel,2015-07-23 05:03:48 UTC,,,,,
+2701130,PushEvent,jmacd_xdelta-devel,2015-07-23 06:38:34 UTC,,,,,
+2701660,WatchEvent,jmacd_xdelta-devel,2015-05-06 08:47:31 UTC,,,,,
+2732439,PushEvent,jmacd_xdelta-devel,2015-11-06 04:07:52 UTC,,,,,
+2832845,ReleaseEvent,jmacd_xdelta-devel,2015-03-31 06:22:18 UTC,,,,,
+2874496,PushEvent,jmacd_xdelta-devel,2015-11-01 04:27:01 UTC,,,,,
+2925324,ForkEvent,jmacd_xdelta-devel,2015-09-30 21:39:22 UTC,,,,,
+2945108,PushEvent,jmacd_xdelta-devel,2015-03-24 07:20:30 UTC,,,,,
+2996818,PushEvent,jmacd_xdelta-devel,2015-07-17 06:50:22 UTC,,,,,
+2997501,WatchEvent,jmacd_xdelta-devel,2015-12-04 13:47:56 UTC,,,,,
+3013252,WatchEvent,jmacd_xdelta-devel,2015-11-16 06:27:37 UTC,,,,,
+3115521,PushEvent,jmacd_xdelta-devel,2015-12-11 08:12:40 UTC,,,,,
+3119382,PushEvent,jmacd_xdelta-devel,2015-12-18 06:50:52 UTC,,,,,
+3135021,PushEvent,jmacd_xdelta-devel,2015-07-23 07:21:57 UTC,,,,,
+3170383,PushEvent,jmacd_xdelta-devel,2015-09-30 06:58:34 UTC,,,,,
+3233946,PushEvent,jmacd_xdelta-devel,2015-12-27 05:58:58 UTC,,,,,
+70652,CreateEvent,jmacd_xdelta-devel,2016-01-08 07:59:24 UTC,,,,,
+278026,PushEvent,jmacd_xdelta-devel,2016-01-05 08:12:24 UTC,,,,,
+435701,PushEvent,jmacd_xdelta-devel,2016-01-08 06:48:47 UTC,,,,,
+587198,PushEvent,jmacd_xdelta-devel,2016-01-03 07:32:38 UTC,,,,,
+807518,PushEvent,jmacd_xdelta-devel,2016-01-08 06:28:56 UTC,,,,,
+837030,CreateEvent,jmacd_xdelta-devel,2016-01-08 07:00:24 UTC,,,,,
+1009756,PushEvent,jmacd_xdelta-devel,2016-01-01 06:35:01 UTC,,,,,
+1357034,PushEvent,jmacd_xdelta-devel,2016-01-07 06:54:12 UTC,,,,,
+1578620,PushEvent,jmacd_xdelta-devel,2016-01-08 07:59:00 UTC,,,,,
+1875426,WatchEvent,jmacd_xdelta-devel,2016-03-22 13:49:29 UTC,,,,,
+2295837,ReleaseEvent,jmacd_xdelta-devel,2016-01-08 08:06:24 UTC,,,,,
+2298131,WatchEvent,jmacd_xdelta-devel,2016-01-16 14:43:14 UTC,,,,,
+2430592,WatchEvent,jmacd_xdelta-devel,2016-02-05 22:57:02 UTC,,,,,
+2458494,PushEvent,jmacd_xdelta-devel,2016-01-05 07:08:25 UTC,,,,,
+2796052,PushEvent,jmacd_xdelta-devel,2016-01-08 06:49:28 UTC,,,,,
+2969333,PushEvent,jmacd_xdelta-devel,2016-01-08 06:42:29 UTC,,,,,
+3061050,WatchEvent,jmacd_xdelta-devel,2016-03-09 05:28:02 UTC,,,,,
+3240037,PushEvent,jmacd_xdelta-devel,2016-01-03 07:29:01 UTC,,,,,
+3260206,ReleaseEvent,jmacd_xdelta-devel,2016-01-08 07:58:19 UTC,,,,,
+3294184,WatchEvent,jmacd_xdelta-devel,2016-02-22 06:22:15 UTC,,,,,
+3479860,WatchEvent,jmacd_xdelta-devel,2016-01-07 15:04:41 UTC,,,,,
+3621342,WatchEvent,jmacd_xdelta-devel,2016-01-13 15:28:57 UTC,,,,,
+3656156,WatchEvent,jmacd_xdelta-devel,2016-01-10 02:37:46 UTC,,,,,
+3842184,PushEvent,jmacd_xdelta-devel,2016-01-08 06:43:46 UTC,,,,,
+0,Commit,jmacd_xdelta-devel,2016-04-24 06:26:44,d16652b02a590804b486f15e66f4115ddfd84760,5.0,0.0,1.0,0.0
+1,Commit,jmacd_xdelta-devel,2016-01-08 07:58:54,4b4aed71a959fe11852e45242bb6524be85d3709,1.0,527.0,1.0,0.0
+2,Commit,jmacd_xdelta-devel,2016-01-08 06:49:10,566b1a968889cb1a9b2c9f2d8c13b3064d0c9b27,0.0,0.0,0.0,0.0
+3,Commit,jmacd_xdelta-devel,2016-01-08 06:48:42,81aebf78ae67c29f528088d65743643e5355e3d3,1.0,1.0,1.0,0.0
+4,Commit,jmacd_xdelta-devel,2016-01-08 06:43:21,54b3937e71a6c3a186c38993300908019b1cb335,0.0,0.0,0.0,0.0
+5,Commit,jmacd_xdelta-devel,2016-01-08 06:42:24,2a30911b29810a0c7024a60d892a01a321b67823,3.0,3.0,2.0,0.0
+6,Commit,jmacd_xdelta-devel,2016-01-08 06:28:47,0c692e6a1a9809bb20a5a805517ccc183b4bc8d5,29.0,3.0,2.0,0.0
+7,Commit,jmacd_xdelta-devel,2016-01-07 06:54:03,3f8916cbbfa81a54f0f6bee6f66d0da257a9cd3e,6.0,6.0,3.0,0.0
+8,Commit,jmacd_xdelta-devel,2016-01-05 08:12:13,00895d7c9d6a0cd8b86243c62eecdd7a2bdd981b,114.0,131.0,10.0,0.0
+9,Commit,jmacd_xdelta-devel,2016-01-05 07:08:10,f9f0e902b6f3a0f5eead5ac06aaf81eca3d25950,102.0,89.0,13.0,0.0
+10,Commit,jmacd_xdelta-devel,2016-01-03 07:32:31,323299bb0189f64ada2aa16107699f9684138106,0.0,40.0,1.0,0.0
+11,Commit,jmacd_xdelta-devel,2016-01-03 07:23:28,2a6a8ed9526d3e02f312cd38e65c8f159e726666,0.0,0.0,0.0,0.0
+12,Commit,jmacd_xdelta-devel,2016-01-01 06:34:33,1d815e59dcf62d0cfde682e8317e8df1f1a1a06e,0.0,0.0,0.0,0.0
+13,Commit,jmacd_xdelta-devel,2016-01-01 06:34:27,5025a49f13abe39c41d89c8c300c8790a432383b,10.0,10.0,1.0,0.0
+14,Commit,jmacd_xdelta-devel,2015-12-30 06:45:18,45a74391cf324756920cd6c4fa898fdaf4c62456,8.0,8.0,1.0,0.0
+15,Commit,jmacd_xdelta-devel,2015-12-30 06:36:45,b3c0c5c5f733d688796084c9cd500d3197f5321c,9.0,0.0,1.0,0.0
+16,Commit,jmacd_xdelta-devel,2015-12-30 06:20:25,259cf80fb6caba7c2688adeeb5b0092c3959becd,60.0,28.0,4.0,0.0
+17,Commit,jmacd_xdelta-devel,2015-12-28 06:12:34,ec9905aa755eafb64f08fc59ca7e67ea57498264,0.0,0.0,0.0,0.0
+18,Commit,jmacd_xdelta-devel,2015-12-27 06:23:12,dbbc4c4a59bb805a828bd61640ec8ba88fe92871,5.0,5.0,2.0,0.0
+19,Commit,jmacd_xdelta-devel,2015-12-27 06:00:07,9a76ffd0fa6041a28a17748614d01dcd392a8de7,2.0,3.0,1.0,0.0
+20,Commit,jmacd_xdelta-devel,2015-12-27 05:58:37,9b895e7bcfb196b40b7760020542ea02ab5390aa,0.0,0.0,0.0,0.0
+21,Commit,jmacd_xdelta-devel,2015-12-27 05:49:53,be9efeece7e5d94a7b11a90c5edd10b2182f7fca,0.0,0.0,0.0,0.0
+22,Commit,jmacd_xdelta-devel,2015-12-27 05:49:49,b5e039d536cbf750269eb5811076f613e9ee5980,0.0,5.0,1.0,0.0
+23,Commit,jmacd_xdelta-devel,2015-12-27 05:48:22,438e90db9459a4a5880f3663c4da35ed3df64da4,10.0,5.0,1.0,0.0
+24,Commit,jmacd_xdelta-devel,2015-12-27 05:47:22,2446f55fef1d9a0dcb9283a34bb540689dda7e62,9.0,10.0,1.0,0.0
+25,Commit,jmacd_xdelta-devel,2015-12-27 05:44:56,318dabfa4bd68711900f59cbc9d75c7b1d15d958,52.0,7.0,1.0,0.0
+26,Commit,jmacd_xdelta-devel,2015-12-27 05:41:27,cf662894ba5b3847f06fd44dfb91f4733d9196f4,9.0,2.0,2.0,0.0
+27,Commit,jmacd_xdelta-devel,2015-12-18 06:50:46,d6e344ee71da1727e52d8b9f127ccd0946b04a18,26.0,22.0,1.0,0.0
+28,Commit,jmacd_xdelta-devel,2015-12-18 06:50:00,24def2845b33800718d2b3f70b8cf575c42da918,4.0,6.0,1.0,0.0
+29,Commit,jmacd_xdelta-devel,2015-12-18 06:48:22,5663e6d7b9f5ae63597a6aa794bcb6bd5d6ff574,6.0,12.0,1.0,0.0
+30,Commit,jmacd_xdelta-devel,2015-12-13 05:27:26,8b44e76ba3282ebbbc7251faad24fb6235da346c,4.0,2.0,1.0,0.0
+31,Commit,jmacd_xdelta-devel,2015-12-13 04:36:07,41bc46207416ef73dab0f201c064415241af2ffc,16.0,5.0,1.0,0.0
+32,Commit,jmacd_xdelta-devel,2015-12-11 08:12:32,29a5718a2c10feb0d3b92b52dfa7dc470f7c705e,155.0,48.0,3.0,0.0
+33,Commit,jmacd_xdelta-devel,2015-12-08 07:50:05,c362b118eaeffa62b273b56d10715ab61f49fd9d,36.0,11.0,3.0,0.0
+34,Commit,jmacd_xdelta-devel,2015-12-08 06:53:32,b65269806e9b4c01f22614e93782ff4686eea72d,100.0,68.0,5.0,0.0
+35,Commit,jmacd_xdelta-devel,2015-12-03 06:06:38,6d9ad86987f926068d0d4d503c4c23efa7af511f,65.0,97.0,4.0,0.0
+36,Commit,jmacd_xdelta-devel,2015-12-01 06:44:31,fe97307cf9257460d4d9b076a00752e4e60121ba,1.0,1.0,1.0,0.0
+37,Commit,jmacd_xdelta-devel,2015-11-30 07:14:04,bdcbbc839ca7fd3e8edd1617bbf9bfdba4bf543d,37.0,71.0,4.0,0.0
+38,Commit,jmacd_xdelta-devel,2015-11-28 07:01:59,4b74451f9e9b976a2a0984130662f58bd39e1478,64.0,12.0,3.0,0.0
+39,Commit,jmacd_xdelta-devel,2015-11-27 06:53:32,21ec9031bf1703fd8f82a343f31f2964b9567428,31.0,29.0,4.0,0.0
+40,Commit,jmacd_xdelta-devel,2015-11-24 04:28:05,b24969720ac9c92f3d7327250b3ee8e86acc6def,49.0,31.0,4.0,0.0
+41,Commit,jmacd_xdelta-devel,2015-11-22 07:36:51,ede482d8f3398262adcfb23095b6caad5872d8ba,212.0,124.0,5.0,0.0
+42,Commit,jmacd_xdelta-devel,2015-11-20 07:17:28,c5884f221e281b0fa52c5e71f9329813ec9cea48,12.0,8.0,2.0,0.0
+43,Commit,jmacd_xdelta-devel,2015-11-19 04:23:26,996e84025161cd1ba8edcde70034396b55708b06,1.0,1.0,1.0,0.0
+44,Commit,jmacd_xdelta-devel,2015-11-18 07:55:35,fcf3b2ee0a00e2881f6a6b47ab84372affea9cbf,2.0,2.0,2.0,0.0
+45,Commit,jmacd_xdelta-devel,2015-11-18 06:52:01,dc410accc1e1dcef1100d4c047fadb3c6545d172,171.0,195.0,6.0,0.0
+46,Commit,jmacd_xdelta-devel,2015-11-14 04:54:34,97a6543f64e84821b638a60c88c814c2bdcdfc60,16.0,6.0,2.0,0.0
+47,Commit,jmacd_xdelta-devel,2015-11-11 07:27:29,336f37f35beee264c22f7ce9baca1300bc292aa5,36.0,26.0,4.0,0.0
+48,Commit,jmacd_xdelta-devel,2015-11-11 07:26:42,248b9eb093d04d769eee4dff0ad7999c39f35556,1.0,1.0,1.0,0.0
+49,Commit,jmacd_xdelta-devel,2015-11-11 07:26:07,1d0eceaa7630f1eb3eca8a2bad1b5c649ba19dae,7.0,6.0,1.0,0.0
+50,Commit,jmacd_xdelta-devel,2015-11-11 07:23:58,ba90d43651bfedf7bf03d9b59b1360d5c72cbd19,2.0,0.0,1.0,0.0
+51,Commit,jmacd_xdelta-devel,2015-11-04 07:34:00,6116f8879faff1a8145f55d9f537c33f39931678,30.0,21.0,2.0,0.0
+52,Commit,jmacd_xdelta-devel,2015-11-04 07:32:22,caed7d59df403dae76121baa711bb4129f42de3e,58.0,58.0,4.0,0.0
+53,Commit,jmacd_xdelta-devel,2015-11-03 05:33:51,c948e08db789d90547b45ce0a5dcbec9225bad57,42.0,14.0,4.0,0.0
+54,Commit,jmacd_xdelta-devel,2015-11-01 05:34:32,65e39a369ce7befe18cfcb350e4d3cc391cc09f2,0.0,0.0,0.0,0.0
+55,Commit,jmacd_xdelta-devel,2015-11-01 04:26:54,33bc5056a256f3a49da2062b2e383cbeed2d2b8b,1.0,7.0,1.0,0.0
+56,Commit,jmacd_xdelta-devel,2015-10-31 21:59:54,482c20590f29c91a06430d2818a140257826ac01,7.0,0.0,1.0,0.0
+57,Commit,jmacd_xdelta-devel,2015-10-31 21:17:43,51da9417144e6232832013718cbbe1f2933c102a,21.0,21.0,5.0,0.0
+58,Commit,jmacd_xdelta-devel,2015-10-30 05:44:16,e1a0a2538ff9c5a7350562f844c67bfd639fa3f5,113.0,63.0,2.0,0.0
+59,Commit,jmacd_xdelta-devel,2015-10-30 04:53:48,48e8d058d16fa945435d4059e55e1ec0f9ff5b8b,56.0,27.0,3.0,0.0
+60,Commit,jmacd_xdelta-devel,2015-10-30 04:53:24,aa7af5c9ed576f7dae9877362b5d5046a303d861,0.0,61.0,1.0,0.0
+61,Commit,jmacd_xdelta-devel,2015-10-21 05:22:37,f0e657823b1999ddeb7156d91be29e310ae2ec64,10.0,10.0,3.0,0.0
+62,Commit,jmacd_xdelta-devel,2015-10-21 04:50:14,413efde5877d8a6983ef5f567c2739d617f5cd86,13.0,3.0,2.0,0.0
+63,Commit,jmacd_xdelta-devel,2015-10-20 10:14:14,995f5e6bde7b8b27d2fd6cd278b68c2d9d9b27fd,5.0,2.0,2.0,0.0
+64,Commit,jmacd_xdelta-devel,2015-10-20 09:56:05,093e0652845fe93a7f8036e1a5c3192053023b17,15.0,5.0,4.0,0.0
+65,Commit,jmacd_xdelta-devel,2015-10-20 05:20:55,0602d66d9582c20e3e989eb075e194eff0422da0,12.0,5.0,3.0,0.0
+66,Commit,jmacd_xdelta-devel,2015-10-20 04:58:01,aad1aedc463af39a0624c0d8a2378f63b0ea32a0,1.0,0.0,1.0,0.0
+67,Commit,jmacd_xdelta-devel,2015-10-13 05:05:13,15112d6936d27dce00869d931ed0dbddae92ac61,69.0,57.0,2.0,0.0
+68,Commit,jmacd_xdelta-devel,2015-10-07 05:57:08,d027be92ad992370c431a5507db1c792fd8562da,146.0,113.0,3.0,0.0
+69,Commit,jmacd_xdelta-devel,2015-10-07 05:56:46,e605f2ff802f80e68b96f26151e06e50212bbbc5,2.0,1.0,1.0,0.0
+70,Commit,jmacd_xdelta-devel,2015-10-02 06:11:04,0a93eb7b7d1c8117fb1ec165d09d8d0ad21d08ed,15.0,13.0,3.0,0.0
+71,Commit,jmacd_xdelta-devel,2015-10-01 05:35:09,db89f26dec16ef999a782a1f90ec2e58e674e2b1,22.0,22.0,3.0,0.0
+72,Commit,jmacd_xdelta-devel,2015-09-30 06:56:19,f63acfe3692478b983df1473bc1e7a1df3397b7f,0.0,0.0,0.0,0.0
+73,Commit,jmacd_xdelta-devel,2015-07-23 07:18:31,c6493c5a57e1edc95fa27123e86fe14c3695f284,12.0,5.0,1.0,0.0
+74,Commit,jmacd_xdelta-devel,2015-07-23 06:38:26,e2a8a7b0529c99106783a719cbb0052c2616d6fd,93.0,59.0,2.0,0.0
+75,Commit,jmacd_xdelta-devel,2015-07-23 05:11:36,d08d96f5e16a45cc3e45e5f51593c6750ab07654,2.0,4.0,1.0,0.0
+76,Commit,jmacd_xdelta-devel,2015-07-23 04:58:39,3ef3534fbc6677550e55a7c0d99fa7854ab31e5a,13.0,13.0,5.0,0.0
+77,Commit,jmacd_xdelta-devel,2015-07-22 07:42:38,57f9222b301a085d20766a5a0cc97489c364466f,79.0,40.0,1.0,0.0
+78,Commit,jmacd_xdelta-devel,2015-07-21 06:55:51,806836136cec2eeb763b4b539d4d41bc2c5bbf5c,66.0,12.0,2.0,0.0
+79,Commit,jmacd_xdelta-devel,2015-07-18 07:26:11,73e7b324de6d5e2a1959b61d0619b2c4353e640d,95.0,49.0,6.0,0.0
+80,Commit,jmacd_xdelta-devel,2015-07-17 06:46:00,94b7d2c1c9ed371fb9e86d5e3355124a69f338d3,83.0,57.0,6.0,0.0
+81,Commit,jmacd_xdelta-devel,2015-07-17 04:59:24,8c44ed7581ea8190ee07e477b5c7241f7db8ca23,0.0,570.0,2.0,0.0
+82,Commit,jmacd_xdelta-devel,2015-07-13 06:42:47,53c2be245f503bc5e41b822ac2364f67a346d087,39.0,26.0,8.0,0.0
+83,Commit,jmacd_xdelta-devel,2015-07-10 04:37:34,ab5fac1b46411bdf6151013978a721d52342cc4f,48.0,28.0,2.0,0.0
+84,Commit,jmacd_xdelta-devel,2015-07-08 07:39:11,f56eeca9241a1dc570f77a419a98766e868301d5,34.0,41.0,3.0,0.0
+85,Commit,jmacd_xdelta-devel,2015-05-11 04:27:13,33340a986e29ed681f71729901bf43309c745c15,2.0,2.0,2.0,0.0
+86,Commit,jmacd_xdelta-devel,2015-05-05 04:14:27,30b5745de795fba5f9425b3f0c043d1b44e1ceaf,61.0,16.0,2.0,0.0
+87,Commit,jmacd_xdelta-devel,2015-05-03 20:26:20,aaa50352cef1452e1d3cd97d9fc90209715c0861,4.0,4.0,2.0,0.0
+88,Commit,jmacd_xdelta-devel,2015-05-03 05:20:35,7b1623ee69fd80034a5772e1ac7523af1375ddb9,0.0,0.0,0.0,0.0
+89,Commit,jmacd_xdelta-devel,2015-05-03 05:17:09,9095fce2a9cb614f5e6fbb8b91801236aa5f5510,2.0,4.0,1.0,0.0
+90,Commit,jmacd_xdelta-devel,2015-03-31 06:45:18,adcba8bb76667f648fbeac099ad1f014a781b228,20.0,2.0,1.0,0.0
+91,Commit,jmacd_xdelta-devel,2015-03-31 05:57:48,63c9404c28dbcde26a730f1c62b70e0994b240cc,14.0,9.0,7.0,0.0
+92,Commit,jmacd_xdelta-devel,2015-03-31 04:34:58,729373a05b00410b2554904747444d92944d9b26,2.0,36.0,4.0,0.0
+93,Commit,jmacd_xdelta-devel,2015-03-31 04:33:00,d33bb8605b03ea04d371a4f8a0aa7fa24866000d,6.0,5.0,1.0,0.0
+94,Commit,jmacd_xdelta-devel,2015-03-30 06:34:01,a4aba85c92f68f15421a6c2360a9a3d3851f7a8f,8.0,7.0,2.0,0.0
+95,Commit,jmacd_xdelta-devel,2015-03-24 07:20:10,c61b26a46dfbf63d06c463cd479d8069576fd128,7.0,3.0,2.0,0.0
+96,Commit,jmacd_xdelta-devel,2015-03-24 07:03:45,49af8d34a70ec3c798d1d2dcf225b12498f63cf9,0.0,331.0,1.0,0.0
+97,Commit,jmacd_xdelta-devel,2015-03-24 05:33:17,03336535b53b85f096a6b8400d0d9118a5527d8c,13.0,3.0,4.0,0.0
+98,Commit,jmacd_xdelta-devel,2015-03-11 05:18:40,66204f902496f9c5de3a82e1309c84c9ea103983,252.0,243.0,4.0,0.0
+99,Commit,jmacd_xdelta-devel,2015-03-10 06:00:16,a2e999beec49f222ab30006121eb84d8f9548fbb,56.0,3.0,2.0,0.0
+100,Commit,jmacd_xdelta-devel,2015-03-08 06:34:51,6aaf25fbceea84599a8fc5880f3b456c95feea60,20.0,4.0,2.0,0.0
+101,Commit,jmacd_xdelta-devel,2015-03-07 06:47:16,b4288ec5c426bfd89dfe1a7a92ea9b04a245fb26,41.0,49.0,8.0,0.0
+102,Commit,jmacd_xdelta-devel,2015-03-07 06:02:57,5281e33754a38f111818ffddd66b2248d1f80b25,22.0,0.0,1.0,0.0
+103,Commit,jmacd_xdelta-devel,2015-03-07 06:00:52,e6352b73d806a5705f6de87d2b10a888c224aadc,0.0,74.0,7.0,0.0
+104,Commit,jmacd_xdelta-devel,2015-03-07 05:59:44,26ef9742c102a806850bf935c17bb6524b24d9b0,1.0,1.0,1.0,0.0
+105,Commit,jmacd_xdelta-devel,2015-03-07 05:34:31,fe5f06a4955c546db67dba0b701cd526af98e281,0.0,0.0,49.0,0.0
+106,Commit,jmacd_xdelta-devel,2015-02-02 05:20:03,1e7f716f0854ad67df9a77341a829c84e4e6b1e5,60.0,28.0,8.0,0.0
+107,Commit,jmacd_xdelta-devel,2015-01-26 07:17:17,b55fcf3dc4c775ef35dce116ab23d35a5f9ff326,190.0,30.0,4.0,0.0
+108,Commit,jmacd_xdelta-devel,2015-01-25 06:55:24,57c7df665788bbb524c544ce5dea66b1aade63d3,161.0,0.0,2.0,0.0
+109,Commit,jmacd_xdelta-devel,2015-01-24 22:21:18,b45bf520df94a641133ced43aac8d3829553cd72,0.0,84.0,8.0,0.0
+110,Commit,jmacd_xdelta-devel,2014-11-02 06:36:14,ab85aeae0cbb3929bcd24873dba8a1b39c0269cb,70.0,9.0,7.0,0.0
+111,Commit,jmacd_xdelta-devel,2014-11-02 04:50:41,ddcd9413c2e46c375d81c18f5f19a32c20ff7458,61.0,49.0,3.0,0.0
+112,Commit,jmacd_xdelta-devel,2014-11-01 07:13:18,336445673c60b7c05b015114077f49493f18e7f4,5798.0,20.0,17.0,0.0
+113,Commit,jmacd_xdelta-devel,2014-10-29 06:34:53,9d4f55040311a16b32973b284e9cdfdf843ddf66,27.0,71.0,4.0,0.0
+114,Commit,jmacd_xdelta-devel,2014-10-29 05:22:36,b48e01a24e16084c1a4105eb094c445ec51bb461,572.0,355.0,10.0,0.0
+115,Commit,jmacd_xdelta-devel,2014-10-26 05:39:52,496dc7140e18747d00be720978202915d68ded99,333.0,236.0,8.0,0.0
+116,Commit,jmacd_xdelta-devel,2014-10-24 05:33:40,ee2d187cc451a277606e4a3452fdc510ac14b19a,866.0,1164.0,16.0,0.0
+117,Commit,jmacd_xdelta-devel,2014-10-19 07:56:02,bcb07d68e689c0641be5a5d9b692b779aa9deeb0,184.0,143.0,9.0,0.0
+118,Commit,jmacd_xdelta-devel,2014-10-19 06:24:50,bf0c8992055b4e66488a2b8de56c353c573268ac,90.0,72.0,11.0,0.0
+119,Commit,jmacd_xdelta-devel,2014-10-18 05:56:50,ee616b958d794c6714d117b22f0be6757b379d7e,9.0,571.0,9.0,0.0
+120,Commit,jmacd_xdelta-devel,2014-10-18 05:35:49,98bc4523a0c5d1a0743da4261e41a431a66acf2d,1.0,1.0,1.0,0.0
+121,Commit,jmacd_xdelta-devel,2014-10-12 05:24:22,ef93ff74203e030073b898c05e8b4860b5d09ef2,108.0,28.0,2.0,1.0
+122,Commit,jmacd_xdelta-devel,2014-04-03 05:45:20,7b6ff92bf4f954b70f92b04eadcf43fe69403cc8,83.0,66.0,3.0,0.0
+123,Commit,jmacd_xdelta-devel,2014-03-09 05:44:20,81498dea08759883b4bfdb3335a95da92c9278dd,333.0,93.0,8.0,0.0
+124,Commit,jmacd_xdelta-devel,2014-01-14 06:27:04,9e98593f4cbaa59b8fdef989983a4fc727685b4c,12.0,4.0,5.0,0.0
+125,Commit,jmacd_xdelta-devel,2014-01-13 06:22:27,83253f41e9c16c7c043df5930da1f57fca3d294d,0.0,0.0,2.0,0.0
+126,Commit,jmacd_xdelta-devel,2014-01-13 06:17:48,8f0f344e3f8c2bb64dbd78a1a03794b1a0afcd8c,9.0,4.0,1.0,0.0
+127,Commit,jmacd_xdelta-devel,2014-01-12 19:14:00,5011298b911992feb3c85f61546b316cda9562a4,6.0,3.0,2.0,0.0
+128,Commit,jmacd_xdelta-devel,2013-05-14 06:35:56,0043fc17a9fc0c1cf1be17f25d8b876714cd1e3a,0.0,0.0,1.0,0.0
+129,Commit,jmacd_xdelta-devel,2013-05-14 06:34:40,c044f7bcf2717f72eb4c728b75cffe9d458e351c,0.0,0.0,2.0,0.0
+130,Commit,jmacd_xdelta-devel,2013-05-14 05:35:52,0bc04475efa7611dccd291cf91411038fa5a667b,10.0,19.0,8.0,0.0
+131,Commit,jmacd_xdelta-devel,2013-05-13 16:35:07,d60e9beffed2aa6ab8e2f00ef2037fbc194960f6,382.0,242.0,7.0,0.0
+132,Commit,jmacd_xdelta-devel,2013-05-09 05:59:01,3dd6bad228fa7d6a118c3f2ed06ca0ce4816b846,56.0,25.0,3.0,0.0
+133,Commit,jmacd_xdelta-devel,2013-02-09 09:36:58,d9e99f91af7e5c52a9b5cbb998c26271249fe5b6,10.0,1.0,4.0,0.0
+134,Commit,jmacd_xdelta-devel,2013-01-21 09:09:05,9b74e9d590b431e0fb48881fcccb0f5d099bdf6a,0.0,0.0,1.0,0.0
+135,Commit,jmacd_xdelta-devel,2013-01-21 09:03:32,2045293f8bb2738185befddccb5f1c6b71db1410,6.0,5.0,4.0,0.0
+136,Commit,jmacd_xdelta-devel,2013-01-21 08:35:44,ac17b222cb4294dfeabf1aeed74dfe1a24991412,156.0,128.0,14.0,0.0
+137,Commit,jmacd_xdelta-devel,2013-01-21 07:45:51,2fa2807516df9afb29fbff9ffb18232260c66ec4,9.0,11.0,5.0,0.0
+138,Commit,jmacd_xdelta-devel,2013-01-21 06:22:47,e6b16a22f53632e1a6a2e622e792818b193e77f5,17.0,15.0,4.0,0.0
+139,Commit,jmacd_xdelta-devel,2013-01-21 04:40:11,50e06849fd4a6972f207fe6333d87cb8b459fe8e,9.0,9.0,2.0,0.0
+140,Commit,jmacd_xdelta-devel,2013-01-21 03:48:02,6dab5fb9f9ecc61e2cecc227873df55542fc5bb5,47.0,44.0,9.0,0.0
+141,Commit,jmacd_xdelta-devel,2013-01-20 10:35:03,589131e4beed56f8f2a6834f183079fe07dc1eda,17.0,18.0,5.0,0.0
+142,Commit,jmacd_xdelta-devel,2013-01-20 08:57:36,df1e90ee3c130ad7b89d2273c2b0d53cab42d6f1,54.0,80.0,6.0,0.0
+143,Commit,jmacd_xdelta-devel,2013-01-20 03:09:40,90e1af8f3e1867c33f86fe9ceccbaada01e8caef,11.0,6.0,1.0,0.0
+144,Commit,jmacd_xdelta-devel,2013-01-20 03:06:59,972579fd3cb277b2b480902cb830076f6ea6d816,1.0,2.0,2.0,0.0
+145,Commit,jmacd_xdelta-devel,2013-01-20 03:01:30,d7403297a8616ddeed0476d4d8cd48fa382342b7,110.0,71.0,10.0,0.0
+146,Commit,jmacd_xdelta-devel,2012-11-21 08:42:35,8861d6fdc0dd728af8f2987813599e1fc43d5ee5,1.0,5.0,1.0,0.0
+147,Commit,jmacd_xdelta-devel,2012-11-17 08:26:35,b0948838916a55874e89aa92ba8e72531fdea058,0.0,0.0,1.0,0.0
+148,Commit,jmacd_xdelta-devel,2012-11-17 08:13:18,5131c927493b1e9b8c1f1d7d16468a35a4bfd7e2,0.0,0.0,1.0,0.0
+149,Commit,jmacd_xdelta-devel,2012-11-17 08:04:54,517d29426946be9b73e3135e471088701560e247,78.0,49.0,6.0,0.0
+150,Commit,jmacd_xdelta-devel,2012-11-17 05:49:05,733c052865ace6971d6cc309b0d6ecfc8bc11d3b,231.0,0.0,1.0,0.0
+151,Commit,jmacd_xdelta-devel,2012-11-13 06:17:19,3debece1a6e2e9855d1f52d2c24acf8c63e61b50,0.0,0.0,1.0,0.0
+152,Commit,jmacd_xdelta-devel,2012-11-13 06:14:31,3489c129e81517a87d2f3c7b66d1e51b2935e5f2,3.0,3.0,3.0,0.0
+153,Commit,jmacd_xdelta-devel,2012-11-13 02:15:07,95250a1edb606539ef2a84b97f15fcf9ca7f045d,6.0,3.0,2.0,0.0
+154,Commit,jmacd_xdelta-devel,2012-11-12 08:37:40,cf7a6661699ee81be37b5866744440f2e4ebbd55,8.0,14.0,2.0,0.0
+155,Commit,jmacd_xdelta-devel,2012-11-05 06:53:57,21f36c26398ef1907bc43e02f4a9c2b8da9872b0,6.0,0.0,2.0,0.0
+156,Commit,jmacd_xdelta-devel,2012-09-24 04:10:10,a9e8d2f03a29f81ecb490980d64431f25296085d,100.0,30.0,5.0,0.0
+157,Commit,jmacd_xdelta-devel,2012-08-19 19:13:26,04295a524612410a206f86e9103dc4dcf7df5eca,0.0,0.0,1.0,0.0
+158,Commit,jmacd_xdelta-devel,2012-08-19 19:08:23,44d670a4f3dc866fa4bd7a80e31fd8c5d3c9b264,51.0,13.0,5.0,0.0
+159,Commit,jmacd_xdelta-devel,2012-08-18 17:29:16,353c4ae6a7f181fdbbf1c4806dca28745cacff95,0.0,0.0,1.0,0.0
+160,Commit,jmacd_xdelta-devel,2012-08-18 17:26:56,589234afb0ebe9baa615459a5dddff163fdab5cd,4.0,4.0,3.0,0.0
+161,Commit,jmacd_xdelta-devel,2012-08-18 17:14:30,2e4a3d62c6b9fe12b25f6a5d01256badbbe4df5a,8.0,14.0,7.0,0.0
+162,Commit,jmacd_xdelta-devel,2012-08-05 21:02:11,f1f956b4d86dad153f9cbb8eb87b04052c0fa96c,10.0,13.0,3.0,0.0
+163,Commit,jmacd_xdelta-devel,2012-07-19 07:30:27,d7a5351fd2aa7fd90641cb5007be60ed3332df33,12.0,6.0,4.0,0.0
+164,Commit,jmacd_xdelta-devel,2012-07-19 07:05:59,86757b7e62ce6e3a30c66eda2f2aeacbfe2450d6,292.0,43.0,13.0,0.0
+165,Commit,jmacd_xdelta-devel,2012-07-15 22:27:43,9376393d3c0c1ce7280b91c4747b0eb1c98a943a,8.0,6.0,5.0,0.0
+166,Commit,jmacd_xdelta-devel,2012-07-15 22:20:43,004eba3b3b54dd23fa8377aeb7dca9b7819bb8ca,1.0,0.0,1.0,0.0
+167,Commit,jmacd_xdelta-devel,2012-07-15 22:16:58,505be6b4cc8c142d4098f8c050e3c1075e1caf24,22.0,33.0,13.0,0.0
+168,Commit,jmacd_xdelta-devel,2012-07-09 07:55:19,7fab5abad768eed704ed7819567598b88228e790,22.0,25.0,1.0,0.0
+169,Commit,jmacd_xdelta-devel,2012-06-30 07:47:42,7202888da3a2c6b5d1b71ea0484b013d042add0e,2.0,2.0,2.0,0.0
+170,Commit,jmacd_xdelta-devel,2012-06-30 07:25:22,3aacfbf7ab34e2ef227b6e7c12f42a42c1887824,5.0,5.0,5.0,0.0
+171,Commit,jmacd_xdelta-devel,2012-06-27 09:32:08,cfb1068766390147371c14211da6d8cfac47db5c,131.0,66.0,6.0,0.0
+172,Commit,jmacd_xdelta-devel,2012-06-27 06:35:37,df30203f7af37f3a81033300f4a4790cd330d784,83.0,0.0,1.0,0.0
+173,Commit,jmacd_xdelta-devel,2012-06-27 06:34:27,65aa190617d32e4778c2b553e0f069028cf975d9,149.0,750.0,6.0,0.0
+174,Commit,jmacd_xdelta-devel,2012-06-18 15:44:02,682e6c256ce25420951faf89ec104abb856deea8,12.0,9.0,2.0,0.0
+175,Commit,jmacd_xdelta-devel,2012-06-18 12:08:49,f1d09a6659bf905e0c417b95383902e7dc52ccc4,19.0,10358.0,6.0,0.0
+176,Commit,jmacd_xdelta-devel,2012-06-17 12:14:48,87edd6f2a6738ee7ac69376e0555ef23cfe3dcfa,55.0,144.0,8.0,0.0
+177,Commit,jmacd_xdelta-devel,2012-06-17 03:21:49,63acb876b02eeb9d890a03cf9b3cff751ce51d27,4.0,4.0,5.0,0.0
+178,Commit,jmacd_xdelta-devel,2012-06-17 03:17:24,1b454c840a58f19db8da3e9312b85f7615cb7226,10832.0,1065.0,18.0,0.0
+179,Commit,jmacd_xdelta-devel,2012-06-16 21:52:59,aa790704589d3dbd8a1e9ffcba6c4e1acb692c31,51.0,77.0,5.0,0.0
+180,Commit,jmacd_xdelta-devel,2012-06-16 21:24:29,62bcc84a75e479bd20946ed9e288ee3574f4e879,7640.0,0.0,14.0,0.0
+181,Commit,jmacd_xdelta-devel,2012-06-16 15:22:13,00e24b43ffc8cc0eb2f062218646f465a8176b8f,48.0,36.0,6.0,0.0
+182,Commit,jmacd_xdelta-devel,2012-06-16 14:31:55,c53d22c90235600c9518eccc63d2dd1416320044,2372.0,405.0,18.0,0.0
+183,Commit,jmacd_xdelta-devel,2011-01-09 08:33:39,54ac3c4c0c03d7dd52db661a94ec3ecccff826b4,87.0,10.0,6.0,0.0
+184,Commit,jmacd_xdelta-devel,2011-01-09 07:42:42,cc0cbbd791870eada49da8480979ddeabf45437f,80.0,36.0,2.0,0.0
+185,Commit,jmacd_xdelta-devel,2010-11-12 02:19:26,d26de3993a0ff4927f9c1f380097f8b2ca9a511d,3.0,2.0,2.0,0.0
+186,Commit,jmacd_xdelta-devel,2010-11-07 16:48:21,1882c39affc3b224871790bfe06ac71f293e5f2b,35.0,32.0,4.0,0.0
+187,Commit,jmacd_xdelta-devel,2010-11-07 16:47:20,75fe1e3d0b617ca6ef19f145f8df0ca57977eaf6,7.0,7.0,4.0,0.0
+188,Commit,jmacd_xdelta-devel,2010-11-07 08:45:56,5c20b63301a8f58096fe32926a6ab53d6e2d2017,20.0,11.0,2.0,0.0
+189,Commit,jmacd_xdelta-devel,2010-11-07 08:16:49,1aa254921a98abec3139e9f3888c82ce2f2188c8,12.0,45.0,3.0,0.0
+190,Commit,jmacd_xdelta-devel,2010-11-07 07:44:13,176e2509eb0264d14b473c6e036daa5428b0bac7,101.0,117.0,2.0,0.0
+191,Commit,jmacd_xdelta-devel,2010-10-25 15:23:29,46593c36a012edda887a0072cf93949086f33b75,481.0,4492.0,4.0,0.0
+192,Commit,jmacd_xdelta-devel,2010-10-25 15:19:13,63836024013a4b2859efc792c8ff2aaa65193641,4051.0,0.0,1.0,0.0
+193,Commit,jmacd_xdelta-devel,2010-10-25 15:13:54,4b73dc97cad0a40dcef8b1b5363213c6483a27f3,16.0,13.0,1.0,0.0
+194,Commit,jmacd_xdelta-devel,2010-08-24 06:06:33,70791a914aac630f13aa7d57a6788aa202c30528,37.0,23.0,1.0,0.0
+195,Commit,jmacd_xdelta-devel,2010-08-03 04:21:38,fa8eb3ec609c29455485dcde100b989ccd9ad99e,159.0,7.0,5.0,0.0
+196,Commit,jmacd_xdelta-devel,2010-08-02 02:50:56,0a2d5cd15a92c842dfba6b087b414b413961dc0d,9.0,3.0,1.0,0.0
+197,Commit,jmacd_xdelta-devel,2010-08-01 04:26:30,24ff9cf7f34fa7481a71a1ecdcfe1a67d964c2b1,15.0,1.0,1.0,0.0
+198,Commit,jmacd_xdelta-devel,2010-08-01 03:54:24,cc9bb70bea56488e2524bb64386182ae2c069f4d,9.0,9.0,2.0,0.0
+199,Commit,jmacd_xdelta-devel,2010-08-01 02:41:42,f1f6f860e659b285b554641a28ba0a9933ddf9ef,157.0,113.0,6.0,0.0
+200,Commit,jmacd_xdelta-devel,2010-07-01 03:37:15,debec7aae3d3d3e5b1b2da62a9417ab3a0c72c00,144.0,47.0,1.0,0.0
+201,Commit,jmacd_xdelta-devel,2010-02-23 04:48:46,07cacc99dc5a2f9e5fd7197e1675fd923750d9e4,9.0,6.0,1.0,0.0
+202,Commit,jmacd_xdelta-devel,2010-02-21 23:03:48,0cdb6aeccd29f82ab5128a9cac2172ffd3d8386b,116.0,81.0,5.0,0.0
+203,Commit,jmacd_xdelta-devel,2010-02-21 17:41:59,03795531fa7e3d68bd18329aceeaba57859aebd3,153.0,0.0,1.0,0.0
+204,Commit,jmacd_xdelta-devel,2010-02-16 06:25:52,73fb2962725b50420081b8ff6f274dc54d203d80,10.0,9.0,6.0,0.0
+205,Commit,jmacd_xdelta-devel,2010-02-16 05:52:14,c301114d6e4f11e0a690205900cbf3186ea77ba4,1.0,1.0,1.0,0.0
+206,Commit,jmacd_xdelta-devel,2010-02-16 05:41:06,f0ff7729714bb176234a85db28273d0d6b4ea4b3,4.0,3.0,2.0,0.0
+207,Commit,jmacd_xdelta-devel,2010-02-16 05:31:28,ef262b0786a71e26112ec3dd7a5f5aad03c7313d,13.0,6.0,1.0,0.0
+208,Commit,jmacd_xdelta-devel,2010-02-16 05:15:49,2410f9aa90750bc4c9892ae631a48cb4089a4e46,158.0,111.0,3.0,0.0
+209,Commit,jmacd_xdelta-devel,2010-02-15 22:02:51,1f7cebdc141c0bae5c25201e35b4d8fd2a27bb16,28.0,11.0,4.0,0.0
+210,Commit,jmacd_xdelta-devel,2010-02-11 11:34:19,f241a281e80aaf1aa90fe1a0d9db206396cd6a79,12.0,8.0,3.0,0.0
+211,Commit,jmacd_xdelta-devel,2010-02-07 03:00:42,3dbebbe46096e17c0298f1cbe315d10b35b4f9ee,346.0,227.0,8.0,0.0
+212,Commit,jmacd_xdelta-devel,2010-01-06 04:05:08,e7a0eda2519593950a1a0dff77e42d4da9189c3e,40.0,22.0,3.0,0.0
+213,Commit,jmacd_xdelta-devel,2009-11-08 17:31:16,299d98b8710ae6e6b84ec78a759d91a15448a8b9,174.0,143.0,5.0,0.0
+214,Commit,jmacd_xdelta-devel,2009-11-05 03:16:19,a42182cd17787a521afa61b2cea719ae67b7d45b,87.0,60.0,3.0,0.0
+215,Commit,jmacd_xdelta-devel,2009-11-03 05:08:19,97eb8c8b6f2b9e9a1d124e972e86765a92c2b37e,134.0,50.0,5.0,0.0
+216,Commit,jmacd_xdelta-devel,2009-11-03 01:50:13,7f7ac45b750fe90bc0572c1a53981910d24b878a,23.0,25.0,3.0,0.0
+217,Commit,jmacd_xdelta-devel,2009-10-28 03:43:34,9c3c0e573dd63bd1a0345d38f46594293d58c9d2,3.0,0.0,1.0,0.0
+218,Commit,jmacd_xdelta-devel,2009-10-28 03:21:46,aeedaafed466bd62a9b164c8c7d9b8929eccb976,26.0,8.0,4.0,0.0
+219,Commit,jmacd_xdelta-devel,2009-10-26 06:28:22,8b1a211185018b2b80ffe950e8d82de4c8c0f214,4.0,4.0,4.0,0.0
+220,Commit,jmacd_xdelta-devel,2009-10-26 06:01:00,e73f65e11cf9afa079b2e68f7be5ca9bb1d62334,7.0,1.0,1.0,0.0
+221,Commit,jmacd_xdelta-devel,2009-10-26 05:46:28,cb3aea3a7fb33e3034004081c146f2b8d2325a14,0.0,10.0,2.0,0.0
+222,Commit,jmacd_xdelta-devel,2009-10-26 05:39:39,ce816262e6dfa8cdea8849150a6dacab202989a5,124.0,76.0,1.0,0.0
+223,Commit,jmacd_xdelta-devel,2009-10-26 03:44:43,d8237539476e01980ae977163cb078968bd071cc,50.0,32.0,1.0,0.0
+224,Commit,jmacd_xdelta-devel,2009-10-26 02:41:37,6731dfb89d79d9a9a890e67ba235e2aac7ee015f,7.0,2.0,1.0,0.0
+225,Commit,jmacd_xdelta-devel,2009-10-26 02:33:06,0fef30425e5fd7151a71dc3e63a9687caada1c96,76.0,39.0,3.0,0.0
+226,Commit,jmacd_xdelta-devel,2009-10-26 01:11:09,683ae8877b23b63a16bad3bdcb4dd612d08d73ce,35.0,32.0,2.0,0.0
+227,Commit,jmacd_xdelta-devel,2009-10-26 00:01:30,af93d0ee94f31f01554a5d9e88611fa3071b1c7a,70.0,28.0,3.0,0.0
+228,Commit,jmacd_xdelta-devel,2009-10-25 22:54:16,ce2428828250d7d643525a9c7cbc3554cd50009e,130.0,260.0,6.0,0.0
+229,Commit,jmacd_xdelta-devel,2009-10-25 19:16:41,ca626a8f838cb329c22b02bcb5c81538a09eea6f,35.0,33.0,5.0,0.0
+230,Commit,jmacd_xdelta-devel,2009-10-25 18:58:45,0e486ef0fc9d4ea3aa05e120d09459e5cc7af098,19.0,70.0,2.0,0.0
+231,Commit,jmacd_xdelta-devel,2009-10-25 18:19:30,dcb74c33f7d14d6fc9f590c9c551722498cb11ce,62.0,31.0,6.0,0.0
+232,Commit,jmacd_xdelta-devel,2009-10-25 16:38:08,f7f72abe8fe48766b545df3949b09fe25f900aee,262.0,207.0,8.0,0.0
+233,Commit,jmacd_xdelta-devel,2009-10-24 01:13:46,8681251a19d6a845a725fba60eb0a4c9fa3c375c,26.0,23.0,6.0,0.0
+234,Commit,jmacd_xdelta-devel,2009-03-12 01:47:01,80c9e15bc657b623c19cda6af2778dacd906be81,2.0,2.0,2.0,0.0
+235,Commit,jmacd_xdelta-devel,2009-03-08 03:39:35,c2ac8336ee676ec6f2d3a24e6eeb339a5fda30ba,76.0,26.0,7.0,0.0
+236,Commit,jmacd_xdelta-devel,2009-02-12 03:35:51,9be16d928d7386488efc34bd99293b3360105da0,194.0,145.0,7.0,0.0
+237,Commit,jmacd_xdelta-devel,2009-02-10 03:49:57,1b96ad8ae09b53cdcd7dd03d4bac09ba8c61e5a6,610.0,705.0,10.0,0.0
+238,Commit,jmacd_xdelta-devel,2008-10-12 16:41:45,0b19bfedbd1f17004bdc6766a7ba5e61dddc20b0,7.0,7.0,2.0,0.0
+239,Commit,jmacd_xdelta-devel,2008-09-17 03:32:47,0445e4a19055823f52ad799d0472b7331cedcf57,222.0,196.0,12.0,0.0
+240,Commit,jmacd_xdelta-devel,2008-09-13 12:26:35,3f45014f9ed4132a7f388a034237e9ab93fe7ffe,1.0,1.0,1.0,0.0
+241,Commit,jmacd_xdelta-devel,2008-09-13 12:23:29,8c432a0ff6c916d30d18a8b2d3ee33f3219976c2,15.0,14.0,8.0,0.0
+242,Commit,jmacd_xdelta-devel,2008-09-13 12:12:55,78a9c799db76946ba9c266f09a4a18075b8b6965,59.0,29.0,5.0,0.0
+243,Commit,jmacd_xdelta-devel,2008-09-07 15:58:46,1a5047d649aefdbff708f0a5d2a8de4c5edf7176,1.0,1.0,1.0,0.0
+244,Commit,jmacd_xdelta-devel,2008-09-07 09:59:42,1e2da10152f5926a906116c3f13ec0df9d1c6cfa,18.0,9.0,3.0,0.0
+245,Commit,jmacd_xdelta-devel,2008-09-07 09:42:31,b8630ef77dfe76039b3c54882750d694b81a13bd,97.0,16.0,4.0,0.0
+246,Commit,jmacd_xdelta-devel,2008-09-06 14:30:34,16d481af9d05ece1a76c6f828ef4a64d1f039434,1.0,1.0,1.0,0.0
+247,Commit,jmacd_xdelta-devel,2008-09-06 14:19:38,7c7c8a38a1810f5953e443c58e6a1609ee5c2912,23.0,7.0,1.0,0.0
+248,Commit,jmacd_xdelta-devel,2008-09-05 04:26:16,76218119a2c07f8f68b43037fabcd324616ed9ee,34.0,65.0,5.0,0.0
+249,Commit,jmacd_xdelta-devel,2008-09-05 03:06:25,f63f39248269b44a3872af19cb47f9776dea48f3,86.0,14.0,3.0,0.0
+250,Commit,jmacd_xdelta-devel,2008-08-16 15:54:21,b1898b74d388615715e1487dbb1474460d2b362c,2.0,0.0,1.0,0.0
+251,Commit,jmacd_xdelta-devel,2008-08-16 15:51:00,c2649db85aa9ef74412efd7c7e19d917646dce74,45.0,21.0,5.0,0.0
+252,Commit,jmacd_xdelta-devel,2008-08-16 15:12:07,cfa558736324be5e2068f5459a55f882c2631bc6,41.0,23.0,5.0,0.0
+253,Commit,jmacd_xdelta-devel,2008-08-09 15:25:30,d490e1971a6155e2637afbae6f13f97eee49ff95,39.0,14.0,1.0,0.0
+254,Commit,jmacd_xdelta-devel,2008-08-09 15:24:05,3f6c6bfbaf34894a6e879a39bd66491525fd552c,83.0,24.0,4.0,0.0
+255,Commit,jmacd_xdelta-devel,2008-08-09 04:34:32,0cece8d64b78073424d481e5b9f788c6f886ed44,27.0,23.0,2.0,0.0
+256,Commit,jmacd_xdelta-devel,2008-08-08 04:08:12,d21bd984620e5a095ac94120e4467aeff36788c5,35.0,10.0,3.0,0.0
+257,Commit,jmacd_xdelta-devel,2008-08-08 04:05:31,f0dd5487e10baa0e896fb0b2067151495250db40,54.0,45.0,2.0,0.0
+258,Commit,jmacd_xdelta-devel,2008-08-07 05:19:18,ba2e003158b0fb9ad95b19d73c3e1c04eb9e1e0d,100.0,9.0,4.0,0.0
+259,Commit,jmacd_xdelta-devel,2008-07-19 16:16:01,ece1ef18cb2c0d3b8883e292707b3398b7b3d23c,74.0,85.0,2.0,0.0
+260,Commit,jmacd_xdelta-devel,2008-07-10 04:10:18,cac3ff51853873ef6aa0d5b7e6d9d720218f38f6,123.0,57.0,5.0,0.0
+261,Commit,jmacd_xdelta-devel,2008-07-09 06:56:30,bd594c150533173d0340df8204824c9d6f00966b,343.0,95.0,7.0,0.0
+262,Commit,jmacd_xdelta-devel,2008-07-08 04:07:45,d0c5ff7a1847558a9264d9485e336f549b66dd38,188.0,8.0,3.0,0.0
+263,Commit,jmacd_xdelta-devel,2008-07-08 02:38:58,2f8593b1222a6e74c835a1b90e4195de0ba234d0,52.0,48.0,3.0,0.0
+264,Commit,jmacd_xdelta-devel,2008-07-07 04:09:29,4ef223a7f43b35bf2510b7f19f7c9975b3c80ce0,250.0,32.0,7.0,0.0
+265,Commit,jmacd_xdelta-devel,2008-07-07 03:11:00,e33a66616ed7912db380716310fe0641639cc17d,6.0,6.0,2.0,0.0
+266,Commit,jmacd_xdelta-devel,2008-07-06 15:19:28,7dd0248a21ecc9bd0b333d3c251b52faee532549,71.0,6.0,2.0,0.0
+267,Commit,jmacd_xdelta-devel,2008-07-06 00:39:55,e82b0cd004eadfefb9465713acbe6b62a3f99f6f,28.0,13.0,3.0,0.0
+268,Commit,jmacd_xdelta-devel,2008-07-05 17:13:49,f946a79d77bd04e0d671b3c66e926d0c1ca3a213,255.0,45.0,5.0,0.0
+269,Commit,jmacd_xdelta-devel,2008-07-05 13:24:15,1c583b507081301a0c6738eeaf541790b2393714,8.0,4.0,1.0,0.0
+270,Commit,jmacd_xdelta-devel,2008-07-03 12:59:37,d4f98ead39af5d47905166bfc2a6e1e94540bc23,96.0,44.0,6.0,0.0
+271,Commit,jmacd_xdelta-devel,2008-07-03 03:44:56,647321d6bb4c41593228c8c7a5c29e92e839885c,55.0,4.0,2.0,0.0
+272,Commit,jmacd_xdelta-devel,2008-07-02 03:52:23,39986a1759550d3d5083e710862295588837f719,235.0,26.0,4.0,0.0
+273,Commit,jmacd_xdelta-devel,2008-06-30 05:15:05,9e896b470f5a4550a7fbbdc515db08b0249f5950,591.0,286.0,8.0,0.0
+274,Commit,jmacd_xdelta-devel,2008-06-27 03:41:48,e127914b71638072798f7c02e93caf9377ba7385,149.0,56.0,5.0,0.0
+275,Commit,jmacd_xdelta-devel,2008-06-20 04:06:06,c31f63a124fc6221ee82e9563bb7aeeb238c92e8,302.0,28.0,4.0,0.0
+276,Commit,jmacd_xdelta-devel,2008-04-22 03:51:33,9cbfc47a5aa5bd5d2f61a5dc4a969336d27485fa,41.0,10.0,1.0,0.0
+277,Commit,jmacd_xdelta-devel,2008-04-22 02:44:56,705dcf8e17695a6a825af621c68ab1f67158e313,14.0,13.0,2.0,0.0
+278,Commit,jmacd_xdelta-devel,2008-04-20 22:41:24,45601a0e4de335cda615b9a653c5db2b97b37d57,3.0,3.0,1.0,0.0
+279,Commit,jmacd_xdelta-devel,2008-04-20 22:05:41,fbcf9d630679b1078221b5afc6da9074bad50492,272.0,20.0,3.0,0.0
+280,Commit,jmacd_xdelta-devel,2008-04-19 04:23:41,bbe3286bc10894036a877cb7186fe033b9872520,41.0,21.0,2.0,0.0
+281,Commit,jmacd_xdelta-devel,2008-04-19 03:25:52,38c56fe9beed20615b5570e2d833bf0827b772f7,25.0,5.0,3.0,0.0
+282,Commit,jmacd_xdelta-devel,2008-04-15 04:01:06,13a3797683e06fc55c5e19415fe70d0caef53f08,57.0,22.0,9.0,0.0
+283,Commit,jmacd_xdelta-devel,2008-04-09 02:53:26,a5fcf7340127e5f55b7cec9af06dcf2386d2dbdb,197.0,74.0,4.0,0.0
+284,Commit,jmacd_xdelta-devel,2008-04-02 06:05:55,46055387b76e4a5732fbc9896b28bbb16ede81d7,35.0,29.0,1.0,0.0
+285,Commit,jmacd_xdelta-devel,2008-04-02 04:47:26,c91bb844a7920a6d896c281da138c9b65476714f,44.0,15.0,3.0,0.0
+286,Commit,jmacd_xdelta-devel,2008-03-31 03:03:24,0536aa91d51b43afd52d4cf08ac50baa28511ca1,250.0,126.0,8.0,0.0
+287,Commit,jmacd_xdelta-devel,2008-03-14 01:42:20,81d864ca9a4c5bf24526c16d2c9387610ebc0973,10.0,0.0,2.0,0.0
+288,Commit,jmacd_xdelta-devel,2008-02-11 02:11:30,8afc788e59bf5d41a1647444c149826cb29a01d3,16.0,11.0,3.0,0.0
+289,Commit,jmacd_xdelta-devel,2007-12-28 16:55:30,d9d95ae69315581ec577d4926bc462cac35511ea,1.0,1.0,1.0,0.0
+290,Commit,jmacd_xdelta-devel,2007-12-28 06:09:23,e7b61e1ec3b00947fc8052bccb2906e8d000eff5,33.0,20.0,1.0,0.0
+291,Commit,jmacd_xdelta-devel,2007-12-27 19:46:36,2e0d675bf995f9f6e893bd41cb4b14304c6c88ab,344.0,84.0,6.0,0.0
+292,Commit,jmacd_xdelta-devel,2007-12-17 05:01:19,b7e82b2ed8eaf661aaa4548e703083474b016f04,119.0,62.0,3.0,0.0
+293,Commit,jmacd_xdelta-devel,2007-12-17 03:34:10,d22f1e1becc52f5bc41319c44d8a71225ee82742,5.0,5.0,1.0,0.0
+294,Commit,jmacd_xdelta-devel,2007-12-17 03:29:20,7e94b75cd4c567ca855514caa126632486a0f054,157.0,142.0,5.0,0.0
+295,Commit,jmacd_xdelta-devel,2007-12-15 00:36:21,df99698aa15f6b0b5a83c860b2a36cb69bad6c6c,347.0,5.0,3.0,0.0
+296,Commit,jmacd_xdelta-devel,2007-12-15 00:20:56,1371320742140dc48e1834c6a32d91147fff13de,58.0,57.0,3.0,0.0
+297,Commit,jmacd_xdelta-devel,2007-12-14 11:53:27,d9111360bb5da1076924d1762fffb5dc90e4f10c,57.0,10.0,1.0,0.0
+298,Commit,jmacd_xdelta-devel,2007-12-14 11:24:41,8f9de43ff27baf20547cbc25d3472b13fc49c24d,1.0,1.0,1.0,0.0
+299,Commit,jmacd_xdelta-devel,2007-12-14 11:19:18,a80f2ee447ecc9c22f8e2ea8ce9651fc23a1bac2,3.0,3.0,2.0,0.0
+300,Commit,jmacd_xdelta-devel,2007-12-14 09:21:13,600bf55006a53294e4cc74740442bd053ca1f05c,88.0,90.0,4.0,0.0
+301,Commit,jmacd_xdelta-devel,2007-12-14 09:12:08,0334aeb5a83eb3f3aaf34e0e483785d046d54abc,38.0,21.0,1.0,0.0
+302,Commit,jmacd_xdelta-devel,2007-12-14 08:57:25,24ee8c8b37389770330cd7b90c202d0ee3732c1a,162.0,91.0,1.0,0.0
+303,Commit,jmacd_xdelta-devel,2007-12-14 06:35:43,a528d2e869b8d910afbfc09d86b233684424a9c5,74.0,69.0,6.0,0.0
+304,Commit,jmacd_xdelta-devel,2007-12-13 06:25:01,1887f152a7ab3e043ffae6d54a9bff3e58db0d3e,46.0,23.0,2.0,0.0
+305,Commit,jmacd_xdelta-devel,2007-12-07 05:38:22,22ed9167f3ed0399f84a000aa7f1438f55eae4cb,12.0,12.0,4.0,0.0
+306,Commit,jmacd_xdelta-devel,2007-12-07 05:19:12,4f77a2c07c1a2cb306ac7ce85c93f6097701fdc7,111.0,64.0,7.0,0.0
+307,Commit,jmacd_xdelta-devel,2007-12-06 04:16:59,440ec9c30484dbb2cbd56b3762c4ba9961efcf22,16.0,13.0,2.0,0.0
+308,Commit,jmacd_xdelta-devel,2007-12-05 03:53:30,8ee35e6f26f054730333c824158464042518ff52,5.0,0.0,1.0,0.0
+309,Commit,jmacd_xdelta-devel,2007-12-02 06:53:28,d13bec62c6ab184903118bf803219b27229c214e,289.0,56.0,4.0,0.0
+310,Commit,jmacd_xdelta-devel,2007-12-02 03:09:47,179ef5eef18e8dbb84f35a6356621e7c1ed7012a,17.0,11.0,1.0,0.0
+311,Commit,jmacd_xdelta-devel,2007-12-02 01:22:59,ebd9ec25c66d21dfa5c0b1f23879f59f223fe724,576.0,277.0,9.0,0.0
+312,Commit,jmacd_xdelta-devel,2007-11-27 08:16:59,22ea0b5cd1763b3ba5e8c8580bcee9f96e915341,226.0,139.0,7.0,0.0
+313,Commit,jmacd_xdelta-devel,2007-11-26 12:15:18,ce6a092d2ac6723acd4de0b89a7832a027722027,190.0,132.0,6.0,0.0
+314,Commit,jmacd_xdelta-devel,2007-11-15 07:34:39,d8d2ab4c809485480727ee7a943163f272d22b11,282.0,109.0,1.0,0.0
+315,Commit,jmacd_xdelta-devel,2007-11-13 10:31:14,bf70327283902dad35d28f8a55285893d0f25599,284.0,135.0,2.0,0.0
+316,Commit,jmacd_xdelta-devel,2007-11-11 07:59:13,a4b5480a34e217e93e147f460b47e27741d809c1,482.0,345.0,10.0,0.0
+317,Commit,jmacd_xdelta-devel,2007-11-10 21:27:30,9c137e5d088878e6867b5de40ddefa30a7afa59c,69.0,16.0,3.0,0.0
+318,Commit,jmacd_xdelta-devel,2007-11-09 05:32:50,6c303e681012e5abf252d28eaff0a5d084a18f64,52.0,23.0,10.0,0.0
+319,Commit,jmacd_xdelta-devel,2007-11-07 03:50:30,da0238b63c9c3dbd4fc31113d73e4dde26042440,131.0,50.0,7.0,0.0
+320,Commit,jmacd_xdelta-devel,2007-11-07 03:48:13,146646b3dfffa1f2bb85cc76115df700f81bf2e0,137.0,11.0,3.0,0.0
+321,Commit,jmacd_xdelta-devel,2007-10-30 18:50:59,e38166194f764c299b8f3e6798fefd1c819701ca,15.0,15.0,2.0,0.0
+322,Commit,jmacd_xdelta-devel,2007-10-29 06:45:15,01a2cd8795dcd17288f755c370890b6b3c1aef0d,16.0,16.0,2.0,0.0
+323,Commit,jmacd_xdelta-devel,2007-10-29 05:51:43,cb5d52f0e3f93125c1e03f9750c9aab7fd8c0c89,5.0,1.0,2.0,0.0
+324,Commit,jmacd_xdelta-devel,2007-10-29 05:41:00,d7e85e2b6cce72b6b586ce0715ff24e552355b63,42.0,41.0,4.0,0.0
+325,Commit,jmacd_xdelta-devel,2007-10-29 05:11:45,ec559eabd8eac6b507c8e15cd6a54c9ab1c1df8c,111.0,74.0,6.0,0.0
+326,Commit,jmacd_xdelta-devel,2007-10-29 04:20:30,cd11aad95f3d6d054d0ef399e04c3c5a1b71622a,100.0,84.0,2.0,0.0
+327,Commit,jmacd_xdelta-devel,2007-10-29 00:15:01,7c76827a863f902cea16a2adafbb601f1b2fb76f,39.0,8.0,2.0,0.0
+328,Commit,jmacd_xdelta-devel,2007-10-28 23:15:58,946598c887a0575465601c8a1e1436e6521b5505,35.0,20.0,4.0,0.0
+329,Commit,jmacd_xdelta-devel,2007-10-28 22:20:26,93250631824866baa87bfa7aac463258250fa6b1,576.0,388.0,8.0,0.0
+330,Commit,jmacd_xdelta-devel,2007-10-28 10:18:37,49327439297ae6239f30dc77abf90e86352b7b7e,83.0,67.0,5.0,0.0
+331,Commit,jmacd_xdelta-devel,2007-10-28 10:08:29,7c16f576f4c8e292a93b5855e05eda5fedfba31a,190.0,133.0,2.0,0.0
+332,Commit,jmacd_xdelta-devel,2007-10-28 09:48:23,f920533ee0105ea7cde76fff2db37bb8fe40f0ca,264.0,193.0,3.0,0.0
+333,Commit,jmacd_xdelta-devel,2007-10-28 02:04:11,18cdf64402b2e2c937eada55f238706719131431,15.0,11.0,1.0,0.0
+334,Commit,jmacd_xdelta-devel,2007-10-28 01:46:14,b16a15e3fa741b96e69bddf8263b802e0a7f0a99,341.0,250.0,7.0,0.0
+335,Commit,jmacd_xdelta-devel,2007-10-27 23:10:51,756cbabc8e380ada4690948ffd7bd6505853fc7a,6.0,2.0,3.0,0.0
+336,Commit,jmacd_xdelta-devel,2007-10-27 23:06:56,9460b3ba09fa411aef06c62ae04140774c851f83,6.0,3.0,3.0,0.0
+337,Commit,jmacd_xdelta-devel,2007-10-21 07:56:34,93635ad98b10042bdcbfd8bb139ebb0e795ae26f,123.0,90.0,9.0,0.0
+338,Commit,jmacd_xdelta-devel,2007-10-21 07:26:33,f79ab343e49f89be06ede199a022eb3da07fd36b,118.0,6.0,2.0,0.0
+339,Commit,jmacd_xdelta-devel,2007-10-20 10:28:50,d14c20c9747073d2752af20cb5f5c55725fe3db1,153.0,154.0,5.0,0.0
+340,Commit,jmacd_xdelta-devel,2007-10-10 09:53:05,cfdf9bf3be42b455a77d72cc58bcdfca76b7a889,15.0,2.0,1.0,0.0
+341,Commit,jmacd_xdelta-devel,2007-10-10 09:29:23,1ff9f951b68e78d7358f8f64042d3493c22a0743,6.0,24.0,3.0,0.0
+342,Commit,jmacd_xdelta-devel,2007-10-10 09:22:04,0fbb5388d7c483adeb5ba872dc19b7a3589b1455,28.0,23.0,5.0,0.0
+343,Commit,jmacd_xdelta-devel,2007-09-29 17:39:11,c3e680eb87190ce1468b0e6b8fb7b9d9f4f05593,84.0,47.0,2.0,0.0
+344,Commit,jmacd_xdelta-devel,2007-09-29 16:32:29,714c6dfe476280021013fa0f51875ea935b1d388,5.0,5.0,1.0,0.0
+345,Commit,jmacd_xdelta-devel,2007-09-29 16:13:11,c5ea64c0c216b1882b2a7b5c409b4c6ec0279abc,44.0,299.0,6.0,0.0
+346,Commit,jmacd_xdelta-devel,2007-09-24 00:15:22,b36dd4d10d1176591e037863bc68809f75685fb6,208.0,4.0,4.0,0.0
+347,Commit,jmacd_xdelta-devel,2007-09-22 23:39:58,aac50eca57b177a84e7a5a17f91b87ce2b3183d0,38.0,18.0,3.0,0.0
+348,Commit,jmacd_xdelta-devel,2007-09-13 09:59:55,94fc679c61ca73182ba9d473a36253364f8f1967,59.0,51.0,6.0,0.0
+349,Commit,jmacd_xdelta-devel,2007-09-13 08:35:42,c453ed7952ef5ee3f7d799f8ed7ee113ee711e28,5.0,0.0,1.0,0.0
+350,Commit,jmacd_xdelta-devel,2007-09-12 09:51:42,6be9f4559966387c41692a39b37951d34a55af5b,15.0,10.0,2.0,0.0
+351,Commit,jmacd_xdelta-devel,2007-09-12 08:49:48,aa3d74e6f7bbc0d004d0479c595471b49cc92d0e,30.0,31.0,3.0,0.0
+352,Commit,jmacd_xdelta-devel,2007-09-12 07:36:37,a5cf569debedee47fbe8d4f3b96a200cf677c623,226.0,66.0,5.0,0.0
+353,Commit,jmacd_xdelta-devel,2007-03-25 23:35:14,a69974bdf9f5b2248829ddefabf91c87256cbdce,15.0,15.0,2.0,0.0
+354,Commit,jmacd_xdelta-devel,2007-03-25 20:41:46,000d39b5b36b618ac8a8cdd35346d43776c71881,199.0,6.0,7.0,0.0
+355,Commit,jmacd_xdelta-devel,2007-03-24 14:14:18,653ea97f54e37363c1bcb9f37d4d49e5c21bf85a,20.0,18.0,5.0,0.0
+356,Commit,jmacd_xdelta-devel,2007-03-24 13:59:04,2aa04800dcd1c4fac0e7adfff08273ef4ab60cf3,1.0,1.0,1.0,0.0
+357,Commit,jmacd_xdelta-devel,2007-03-24 13:36:45,4eafeb23fc939ddf0b127831281f73010aa87e85,1.0,0.0,1.0,0.0
+358,Commit,jmacd_xdelta-devel,2007-03-24 13:23:06,bf7c199b648e36be3cc68410d1f572ffbe2007d1,2.0,2.0,1.0,0.0
+359,Commit,jmacd_xdelta-devel,2007-03-24 13:04:09,f52e28968f4f9d782b9f98f25b10e1cafbee0b11,155.0,155.0,8.0,0.0
+360,Commit,jmacd_xdelta-devel,2007-03-08 07:29:21,ca6951c05772975cff7d67dba745c3bc33e71252,27.0,34.0,1.0,0.0
+361,Commit,jmacd_xdelta-devel,2007-03-06 08:34:52,ca80197380e9e5c2add57329d0dbf79893034b6b,183.0,82.0,3.0,0.0
+362,Commit,jmacd_xdelta-devel,2007-02-26 17:21:05,4753ff7a726b9beff5ea9f53cd3b5c0dcedaffa3,261.0,283.0,3.0,0.0
+363,Commit,jmacd_xdelta-devel,2007-02-19 10:24:32,7e10cdfc529496c0478c86b563defe2bf96f9187,30.0,29.0,3.0,0.0
+364,Commit,jmacd_xdelta-devel,2007-02-18 12:05:32,b16ffb6dbe426a19d7df90151dab1183ec14f412,5.0,4.0,3.0,0.0
+365,Commit,jmacd_xdelta-devel,2007-02-18 12:01:23,0ac9c060270d4749dc2d766339c6970981f7d65b,0.0,0.0,1.0,0.0
+366,Commit,jmacd_xdelta-devel,2007-02-18 12:00:22,eaaaa30794be3c67a9561e5a2e499424cdf98665,3.0,2.0,2.0,0.0
+367,Commit,jmacd_xdelta-devel,2007-02-18 11:49:05,9dedb9c4ffa28670d07315fbfa2589234ca9ea9f,33.0,21.0,7.0,0.0
+368,Commit,jmacd_xdelta-devel,2007-02-18 10:57:01,62df86676f3f285ae1d5510b7d47a884f7c36792,173.0,395.0,8.0,0.0
+369,Commit,jmacd_xdelta-devel,2007-02-18 02:41:57,cb24126c313a791a0705a2ecb740ab373cc5a612,153.0,166.0,7.0,0.0
+370,Commit,jmacd_xdelta-devel,2007-02-17 09:14:19,f6cfb03ce353ba50c4d8d981014c038acc363e10,82.0,46.0,5.0,0.0
+371,Commit,jmacd_xdelta-devel,2007-02-14 11:15:28,21fbdf82621e2397ef244fe8bbbb76e49bf89f29,102.0,58.0,4.0,0.0
+372,Commit,jmacd_xdelta-devel,2007-02-14 08:46:04,213b0440e117611ff89f6d3dc744952ecefa1bfe,2.0,0.0,1.0,0.0
+373,Commit,jmacd_xdelta-devel,2007-02-14 08:42:35,6b2bb82f31e71c9e60c132c00db61b51ac907126,185.0,2.0,4.0,0.0
+374,Commit,jmacd_xdelta-devel,2007-02-13 19:08:53,8c968ee7b98144c43e7453c026892abee5536e0c,8.0,4.0,2.0,0.0
+375,Commit,jmacd_xdelta-devel,2007-02-13 19:07:33,990289208d555a760499623e30682d6fe19216e7,503.0,376.0,2.0,0.0
+376,Commit,jmacd_xdelta-devel,2007-02-13 02:44:36,4be58a9a9ab199ef2b3765f57e649398e8dd5890,139.0,66.0,6.0,0.0
+377,Commit,jmacd_xdelta-devel,2007-02-12 03:05:48,792f7c0cf9cb987e3d2a0501e1b228836ec798e7,58.0,45.0,2.0,0.0
+378,Commit,jmacd_xdelta-devel,2007-02-11 02:16:27,a5f03073f9a5ce6f25255566803f9ad9fcf1c469,104.0,58.0,27.0,0.0
+379,Commit,jmacd_xdelta-devel,2007-02-08 15:14:56,e6a4d603ed05dd9d7e04311ef351700b60852dae,13.0,7.0,1.0,0.0
+380,Commit,jmacd_xdelta-devel,2007-02-08 14:36:06,ae03d4eb0d52b894fc1af662aa21da7dafc69928,60.0,5.0,1.0,0.0
+381,Commit,jmacd_xdelta-devel,2007-02-08 02:47:46,10620253c9cef6ab530887f082d7549637182ce5,6.0,6.0,2.0,0.0
+382,Commit,jmacd_xdelta-devel,2007-02-08 02:45:23,e8ad07ed159ba6439452f5ed7b18ac0cdc135df2,12.0,8.0,1.0,0.0
+383,Commit,jmacd_xdelta-devel,2007-02-08 02:38:57,7020f11558a0b3a3565e407ebfa72cd4012e17f6,2.0,2.0,1.0,0.0
+384,Commit,jmacd_xdelta-devel,2007-02-08 02:35:49,24349261eab74a3a2392d38858d143c9270441e2,9.0,3.0,2.0,0.0
+385,Commit,jmacd_xdelta-devel,2007-02-08 02:14:23,af5c96da10b2ce86c975769a3554ad9557bef431,354.0,109.0,10.0,0.0
+386,Commit,jmacd_xdelta-devel,2007-02-07 20:01:54,750fb98f99a96c390a86185383ce1739eadeae0a,69.0,57.0,7.0,0.0
+387,Commit,jmacd_xdelta-devel,2007-02-07 10:53:08,fd42cfdd13dae5ed7fa52323017df6bfe441b3e4,108.0,39.0,4.0,0.0
+388,Commit,jmacd_xdelta-devel,2007-02-07 06:07:04,bae4a7e25d8384b841f4358bd8f7eba302f602c7,31.0,25.0,1.0,0.0
+389,Commit,jmacd_xdelta-devel,2007-02-05 10:30:28,d3ab114a4f748456e63fbd0f19c89d52c8d740ae,291.0,123.0,8.0,0.0
+390,Commit,jmacd_xdelta-devel,2007-02-04 09:59:08,c1a789ab0dcfcb00462fedd3a34fc95800b2a225,1.0,1.0,2.0,0.0
+391,Commit,jmacd_xdelta-devel,2007-02-04 09:53:21,eefeeb7bb607c893872c19c9013c2fb987c287cf,12.0,5.0,1.0,0.0
+392,Commit,jmacd_xdelta-devel,2007-02-04 09:37:56,90ab158f92e3449ddec3f01ac034a6e031fb562e,79.0,659.0,9.0,0.0
+393,Commit,jmacd_xdelta-devel,2007-02-04 09:30:02,400e5c3f9edbfedfa770c94c04e62aa8657ed04a,142.0,102.0,4.0,0.0
+394,Commit,jmacd_xdelta-devel,2007-02-04 08:35:06,1e10015476fb24d78d0b14de6a7819586037382d,29.0,52.0,6.0,0.0
+395,Commit,jmacd_xdelta-devel,2007-02-02 19:57:04,869949c424e596feb732624823913740b3e4c369,20.0,5.0,1.0,0.0
+396,Commit,jmacd_xdelta-devel,2007-02-02 19:55:28,89cf3d8d1839cfc261c48718bf699e9cfca83d81,12.0,7712.0,5.0,0.0
+397,Commit,jmacd_xdelta-devel,2007-02-02 09:09:41,fd99e24f74212a442516acd28b8067d81e894a84,49.0,23.0,1.0,0.0
+398,Commit,jmacd_xdelta-devel,2007-02-02 06:40:34,cf90ff745827ea1d080cfc0ea51381838bfec38d,4.0,1.0,1.0,0.0
+399,Commit,jmacd_xdelta-devel,2007-02-01 09:17:19,8748d16e6e5bf741ede89af1940f8291fb1b8046,344.0,135.0,8.0,0.0
+400,Commit,jmacd_xdelta-devel,2007-02-01 06:15:10,9f465a9db201b97c43d69778eabd222d4fc09fd5,173.0,60.0,9.0,0.0
+401,Commit,jmacd_xdelta-devel,2007-01-29 15:51:31,e394dd3491d609868860d01456786f438a542618,42.0,37.0,8.0,0.0
+402,Commit,jmacd_xdelta-devel,2007-01-29 04:56:38,ae118dad4f77c07dc2673e6877d5fdb4098ba727,65.0,63.0,6.0,0.0
+403,Commit,jmacd_xdelta-devel,2007-01-28 20:09:48,19ab311b65d55c748672a5d1d914f2af83c27956,41.0,83.0,7.0,0.0
+404,Commit,jmacd_xdelta-devel,2007-01-28 19:12:56,f33c5dde63152070c53add0e664b9a70530ddac9,0.0,0.0,1.0,0.0
+405,Commit,jmacd_xdelta-devel,2007-01-28 19:12:08,5fedf82fa4041ee12ea636df57b7456c4b57ff6d,19.0,3395.0,19.0,0.0
+406,Commit,jmacd_xdelta-devel,2007-01-28 17:55:03,42660ea8bae2254e0a6ccf5bc7457e2ded8f8495,7461.0,2867.0,29.0,0.0
+407,Commit,jmacd_xdelta-devel,2007-01-28 01:33:54,95734ad7f4c65382226f82bc2119954b682410d9,0.0,18933.0,21.0,0.0
+408,Commit,jmacd_xdelta-devel,2007-01-28 01:27:04,08b0a40be19b61725ac74d5fddbfa7deff0e75b9,0.0,13520.0,96.0,0.0
+409,Commit,jmacd_xdelta-devel,2007-01-22 01:02:05,0393a6cd5bdd8b67fc0b7dcaf7e304d442a0c837,0.0,0.0,1.0,0.0
+410,Commit,jmacd_xdelta-devel,2007-01-22 00:44:10,1c854caf0726338f7ad38d191cab4c8796cae54b,0.0,0.0,1.0,0.0
+411,Commit,jmacd_xdelta-devel,2007-01-22 00:32:46,f606e39a0b166448aa49d404d722196742074f0c,7.0,5.0,5.0,0.0
+412,Commit,jmacd_xdelta-devel,2007-01-21 22:29:24,bd5f9148aec1b93c5642801e49e0f8b4bd73c05e,29.0,22.0,5.0,0.0
+413,Commit,jmacd_xdelta-devel,2007-01-21 21:04:11,8f66aff36a341906552a4bf7792b872fc3e2d338,14.0,12.0,3.0,0.0
+414,Commit,jmacd_xdelta-devel,2007-01-20 21:31:07,46bc79f71df9953b6b3c8c079f4621054bec44e8,143.0,70.0,5.0,0.0
+415,Commit,jmacd_xdelta-devel,2007-01-16 01:48:46,d9643866175e03a5849d1d094c98b1eb62122b10,0.0,0.0,1.0,0.0
+416,Commit,jmacd_xdelta-devel,2007-01-16 01:37:03,755f521ad96da6493ea1b163c81d1c1a5afd065a,41.0,19.0,4.0,0.0
+417,Commit,jmacd_xdelta-devel,2007-01-16 00:43:59,73994b30a85fc3ff4c25967ae18c87275f19ad65,5.0,5.0,5.0,0.0
+418,Commit,jmacd_xdelta-devel,2007-01-14 21:35:47,5da12fc106daf5d858b503a77f47a9fc22170cfa,105.0,138.0,5.0,0.0
+419,Commit,jmacd_xdelta-devel,2007-01-13 01:49:09,4fcf343c749900d354f90b6c12f0ac35518157d4,0.0,0.0,1.0,0.0
+420,Commit,jmacd_xdelta-devel,2007-01-13 01:36:05,6d8c35af4f7302ed5942734fec85e26d76ebea23,16.0,18.0,3.0,0.0
+421,Commit,jmacd_xdelta-devel,2007-01-11 07:51:58,d0e3d3e2b35bf442277d2e1b9901df6ce4bdcee9,40.0,22.0,3.0,0.0
+422,Commit,jmacd_xdelta-devel,2007-01-10 13:20:42,dd34abf7bac54838473e24d2f8c7eec62646a8cd,148.0,50.0,3.0,0.0
+423,Commit,jmacd_xdelta-devel,2007-01-08 03:02:58,c0bb815c7e93362b17c330c975a3032662349bcc,76.0,14.0,5.0,0.0
+424,Commit,jmacd_xdelta-devel,2007-01-08 00:29:21,e845f0033400ecf6e121f2188e8c221ea5a00838,114.0,106.0,2.0,0.0
+425,Commit,jmacd_xdelta-devel,2007-01-07 22:50:24,63bc8004c88dbd9e5975d3473e64a8428513d6be,1009.0,1029.0,5.0,0.0
+426,Commit,jmacd_xdelta-devel,2007-01-07 18:05:34,1b2185ed9cfb1b1afc24e255c09698fc0f1be880,0.0,0.0,1.0,0.0
+427,Commit,jmacd_xdelta-devel,2007-01-07 18:04:15,b85712bb31dda0358259d88b99cde227f71a1695,0.0,0.0,1.0,0.0
+428,Commit,jmacd_xdelta-devel,2007-01-07 17:56:53,5b4d0ab7e04e885660b531a682be4629eb09dc3c,7.0,4.0,2.0,0.0
+429,Commit,jmacd_xdelta-devel,2007-01-07 03:33:47,08fa3e3b1e873284007e44a6e8402c060f23346a,6.0,23.0,2.0,0.0
+430,Commit,jmacd_xdelta-devel,2007-01-07 03:19:22,6b8007761b66db36f7863cfb42270a8d0c8b9077,81.0,88.0,5.0,0.0
+431,Commit,jmacd_xdelta-devel,2007-01-07 00:41:49,bae7eb2b3db9664a5041a8dbefef5a2fa3847376,12.0,12.0,2.0,0.0
+432,Commit,jmacd_xdelta-devel,2006-12-17 06:29:57,23da124c2e40f51e64af4a0ad8239f438558d0c4,3.0,3.0,4.0,0.0
+433,Commit,jmacd_xdelta-devel,2006-12-17 00:25:33,ed1cfb02e18c75f5e03fe1973cfb0cd65fe15d5d,0.0,0.0,1.0,0.0
+434,Commit,jmacd_xdelta-devel,2006-12-16 23:13:12,4f033f90aa355913c7fc2bd39524200a0a0847b9,26.0,19.0,2.0,0.0
+435,Commit,jmacd_xdelta-devel,2006-12-16 22:06:35,a7d946283af8a6325fb9887fc644e27d7b7c2f59,24.0,14.0,1.0,0.0
+436,Commit,jmacd_xdelta-devel,2006-12-16 21:33:11,16a3b42d97e73a409a909b18b635134b94320932,5117.0,57.0,5.0,0.0
+437,Commit,jmacd_xdelta-devel,2006-12-16 06:25:18,45bc1408336abd3b7bb0e2ee6fdcb44bca759bbf,40.0,10.0,1.0,0.0
+438,Commit,jmacd_xdelta-devel,2006-12-10 22:53:50,9cf6c8f78deb125a5cf2c89b86ffe9f057b3318b,0.0,0.0,1.0,0.0
+439,Commit,jmacd_xdelta-devel,2006-12-10 22:07:22,ead65667677453f4fb0e792dc239365ec9078f63,1.0,0.0,2.0,0.0
+440,Commit,jmacd_xdelta-devel,2006-12-10 22:03:18,49878c5fa398a24eeb5f5a474577a1a3396c2ed4,3.0,4.0,4.0,0.0
+441,Commit,jmacd_xdelta-devel,2006-12-10 21:52:57,2874dd83f1efa51d152fc0fc15ac024e1249dd4e,2972.0,2963.0,3.0,0.0
+442,Commit,jmacd_xdelta-devel,2006-12-10 20:44:36,6674bf7d106d2ec20bdbe12cb95370b8666a1cfb,12.0,12.0,1.0,0.0
+443,Commit,jmacd_xdelta-devel,2006-12-10 20:27:45,811bb03103a6e8a307c2e59863f03dd88cd9b11c,3993.0,3957.0,4.0,0.0
+444,Commit,jmacd_xdelta-devel,2006-12-10 02:20:48,7fb75616337a50fb98c6c251f8d76825dfca9165,328.0,87.0,5.0,0.0
+445,Commit,jmacd_xdelta-devel,2006-09-30 04:47:47,ad85653ca73c8126de516b9a4294e8f08577c00d,55518.0,0.0,189.0,0.0
+446,Commit,jmacd_xdelta-devel,2006-09-30 03:12:31,5a7c245871879325d7b05c06e0b2011203986ee8,16.0,7.0,3.0,0.0
+447,Commit,jmacd_xdelta-devel,2006-09-28 04:45:30,66072e3a97778b987bb160a8aabc5e8c1f749698,43.0,40.0,2.0,0.0
+448,Commit,jmacd_xdelta-devel,2006-09-28 04:24:50,079e089020c34e098cacd7e1d1e67632c7aef5bd,7.0,1.0,2.0,0.0
+449,Commit,jmacd_xdelta-devel,2006-09-25 07:21:17,2fa879cfccfd766796f223045d6317a0bc6f20da,1.0,1.0,1.0,0.0
+450,Commit,jmacd_xdelta-devel,2006-09-25 07:20:48,1bd0bf97026c2f8ff6e80c7299f03a1470b2f2bd,41.0,90.0,9.0,0.0
+451,Commit,jmacd_xdelta-devel,2006-09-24 08:11:09,485d0b54d205a6f91e4dba20b34c9e936646e04f,86.0,195.0,9.0,0.0
+452,Commit,jmacd_xdelta-devel,2006-09-24 06:43:43,2da26b218611968ec42e6b500e825dcf46c64b3c,217.0,278.0,5.0,0.0
+453,Commit,jmacd_xdelta-devel,2006-09-24 04:47:19,a7fba1359bb4e626e6ae2711bd13d3eea957616d,14.0,15.0,1.0,0.0
+454,Commit,jmacd_xdelta-devel,2006-09-24 04:24:38,02f5cd0638aa193cc75f39e34c8e3a90eea60c52,1054.0,1029.0,2.0,0.0
+455,Commit,jmacd_xdelta-devel,2006-09-24 03:18:55,df3d83031d716abbca504cbf0c003dccda750979,24.0,14.0,3.0,0.0
+456,Commit,jmacd_xdelta-devel,2006-09-24 02:46:46,23ded1901e47c21fb0a66ea846898bb450e4f205,139.0,160.0,3.0,0.0
+457,Commit,jmacd_xdelta-devel,2006-09-24 01:14:38,88dc5e73a9d7ecacb9296a97624348bd98cf539e,235.0,151.0,7.0,0.0
+458,Commit,jmacd_xdelta-devel,2006-08-28 08:21:24,6b35b22a09ad9c83e03ca546160b02c5fc0a3704,51.0,14.0,2.0,0.0
+459,Commit,jmacd_xdelta-devel,2006-08-27 21:53:05,5b2604f05112824495e806a4e7f413b92ff9827f,142.0,477.0,5.0,0.0
+460,Commit,jmacd_xdelta-devel,2006-08-27 18:39:38,a6f202275ec093b9f8948d77b9783f0820f930d8,21160.0,0.0,30.0,0.0
+0,forks,jmacd_xdelta-devel,2015-09-30 21:39:22+00:00,,,,,
+1,forks,jmacd_xdelta-devel,2015-12-07 09:55:45+00:00,,,,,
+2,forks,jmacd_xdelta-devel,2016-10-03 06:38:29+00:00,,,,,
+3,forks,jmacd_xdelta-devel,2017-04-01 13:46:46+00:00,,,,,
+4,forks,jmacd_xdelta-devel,2017-07-01 15:12:26+00:00,,,,,
+5,forks,jmacd_xdelta-devel,2017-11-21 05:55:35+00:00,,,,,
+6,forks,jmacd_xdelta-devel,2018-05-19 04:02:06+00:00,,,,,
+7,forks,jmacd_xdelta-devel,2018-09-05 15:27:42+00:00,,,,,
+8,forks,jmacd_xdelta-devel,2018-10-26 12:02:51+00:00,,,,,
+9,forks,jmacd_xdelta-devel,2019-02-04 18:45:40+00:00,,,,,
+10,forks,jmacd_xdelta-devel,2020-06-15 12:06:03+00:00,,,,,
+11,forks,jmacd_xdelta-devel,2020-07-06 09:12:19+00:00,,,,,
+12,forks,jmacd_xdelta-devel,2020-08-16 22:38:02+00:00,,,,,
+13,forks,jmacd_xdelta-devel,2020-08-28 15:08:32+00:00,,,,,
+14,forks,jmacd_xdelta-devel,2021-03-09 17:28:46+00:00,,,,,
+15,forks,jmacd_xdelta-devel,2021-03-25 07:20:00+00:00,,,,,
+16,forks,jmacd_xdelta-devel,2021-04-03 17:37:12+00:00,,,,,
+17,forks,jmacd_xdelta-devel,2021-05-01 03:02:14+00:00,,,,,
+18,forks,jmacd_xdelta-devel,2021-06-13 02:46:14+00:00,,,,,
+19,forks,jmacd_xdelta-devel,2021-12-09 10:15:27+00:00,,,,,
+20,forks,jmacd_xdelta-devel,2022-03-24 09:15:07+00:00,,,,,
+0,pullRequests,jmacd_xdelta-devel,2018-05-19 04:09:43+00:00,,,,,
+0,releases,jmacd_xdelta-devel,2015-03-31 05:57:48+00:00,,,,,
+1,releases,jmacd_xdelta-devel,2015-07-23 07:22:20+00:00,,,,,
+2,releases,jmacd_xdelta-devel,2016-01-08 07:00:17+00:00,,,,,
+3,releases,jmacd_xdelta-devel,2016-01-08 07:59:14+00:00,,,,,
+0,stargazers,jmacd_xdelta-devel,2014-11-02 19:27:15+00:00,,,,,
+1,stargazers,jmacd_xdelta-devel,2015-03-10 04:46:27+00:00,,,,,
+2,stargazers,jmacd_xdelta-devel,2015-03-24 14:26:33+00:00,,,,,
+3,stargazers,jmacd_xdelta-devel,2015-03-27 02:10:14+00:00,,,,,
+4,stargazers,jmacd_xdelta-devel,2015-04-06 17:39:47+00:00,,,,,
+5,stargazers,jmacd_xdelta-devel,2015-04-18 07:35:39+00:00,,,,,
+6,stargazers,jmacd_xdelta-devel,2015-04-24 19:03:31+00:00,,,,,
+7,stargazers,jmacd_xdelta-devel,2015-05-06 08:47:31+00:00,,,,,
+8,stargazers,jmacd_xdelta-devel,2015-08-18 13:11:24+00:00,,,,,
+9,stargazers,jmacd_xdelta-devel,2015-09-14 12:40:15+00:00,,,,,
+10,stargazers,jmacd_xdelta-devel,2015-09-21 02:26:10+00:00,,,,,
+11,stargazers,jmacd_xdelta-devel,2015-10-20 18:43:58+00:00,,,,,
+12,stargazers,jmacd_xdelta-devel,2015-11-30 07:43:27+00:00,,,,,
+13,stargazers,jmacd_xdelta-devel,2015-11-30 18:31:22+00:00,,,,,
+14,stargazers,jmacd_xdelta-devel,2015-12-11 00:29:36+00:00,,,,,
+15,stargazers,jmacd_xdelta-devel,2015-12-16 20:39:43+00:00,,,,,
+16,stargazers,jmacd_xdelta-devel,2015-12-21 20:06:42+00:00,,,,,
+17,stargazers,jmacd_xdelta-devel,2016-01-07 15:04:41+00:00,,,,,
+18,stargazers,jmacd_xdelta-devel,2016-01-10 02:37:45+00:00,,,,,
+19,stargazers,jmacd_xdelta-devel,2016-01-13 15:28:57+00:00,,,,,
+20,stargazers,jmacd_xdelta-devel,2016-01-16 14:43:12+00:00,,,,,
+21,stargazers,jmacd_xdelta-devel,2016-02-05 22:57:01+00:00,,,,,
+22,stargazers,jmacd_xdelta-devel,2016-02-22 06:22:15+00:00,,,,,
+23,stargazers,jmacd_xdelta-devel,2016-03-09 05:28:02+00:00,,,,,
+24,stargazers,jmacd_xdelta-devel,2016-03-22 13:49:29+00:00,,,,,
+25,stargazers,jmacd_xdelta-devel,2016-04-28 05:22:06+00:00,,,,,
+26,stargazers,jmacd_xdelta-devel,2016-05-27 08:45:51+00:00,,,,,
+27,stargazers,jmacd_xdelta-devel,2016-07-05 04:54:17+00:00,,,,,
+28,stargazers,jmacd_xdelta-devel,2016-07-17 06:26:30+00:00,,,,,
+29,stargazers,jmacd_xdelta-devel,2016-07-18 12:12:45+00:00,,,,,
+30,stargazers,jmacd_xdelta-devel,2016-07-26 10:59:21+00:00,,,,,
+31,stargazers,jmacd_xdelta-devel,2016-07-26 13:14:49+00:00,,,,,
+32,stargazers,jmacd_xdelta-devel,2016-08-01 01:58:49+00:00,,,,,
+33,stargazers,jmacd_xdelta-devel,2017-04-02 01:52:18+00:00,,,,,
+34,stargazers,jmacd_xdelta-devel,2017-04-06 01:57:55+00:00,,,,,
+35,stargazers,jmacd_xdelta-devel,2017-04-07 18:59:15+00:00,,,,,
+36,stargazers,jmacd_xdelta-devel,2017-05-25 08:09:58+00:00,,,,,
+37,stargazers,jmacd_xdelta-devel,2017-06-18 12:09:58+00:00,,,,,
+38,stargazers,jmacd_xdelta-devel,2017-09-05 07:26:00+00:00,,,,,
+39,stargazers,jmacd_xdelta-devel,2017-10-16 20:52:31+00:00,,,,,
+40,stargazers,jmacd_xdelta-devel,2017-10-17 15:48:52+00:00,,,,,
+41,stargazers,jmacd_xdelta-devel,2017-10-29 02:20:14+00:00,,,,,
+42,stargazers,jmacd_xdelta-devel,2017-11-03 03:00:20+00:00,,,,,
+43,stargazers,jmacd_xdelta-devel,2017-11-13 21:09:13+00:00,,,,,
+44,stargazers,jmacd_xdelta-devel,2017-11-21 05:55:34+00:00,,,,,
+45,stargazers,jmacd_xdelta-devel,2017-12-15 17:44:55+00:00,,,,,
+46,stargazers,jmacd_xdelta-devel,2017-12-30 08:32:02+00:00,,,,,
+47,stargazers,jmacd_xdelta-devel,2018-01-24 17:43:48+00:00,,,,,
+48,stargazers,jmacd_xdelta-devel,2018-01-28 18:23:47+00:00,,,,,
+49,stargazers,jmacd_xdelta-devel,2018-05-03 13:20:51+00:00,,,,,
+50,stargazers,jmacd_xdelta-devel,2018-05-03 13:47:22+00:00,,,,,
+51,stargazers,jmacd_xdelta-devel,2018-07-03 22:02:54+00:00,,,,,
+52,stargazers,jmacd_xdelta-devel,2018-07-15 14:37:21+00:00,,,,,
+53,stargazers,jmacd_xdelta-devel,2018-07-22 12:50:42+00:00,,,,,
+54,stargazers,jmacd_xdelta-devel,2018-09-05 15:12:55+00:00,,,,,
+55,stargazers,jmacd_xdelta-devel,2018-09-08 13:03:36+00:00,,,,,
+56,stargazers,jmacd_xdelta-devel,2018-09-21 06:21:36+00:00,,,,,
+57,stargazers,jmacd_xdelta-devel,2018-12-19 20:10:16+00:00,,,,,
+58,stargazers,jmacd_xdelta-devel,2018-12-30 07:57:32+00:00,,,,,
+59,stargazers,jmacd_xdelta-devel,2019-02-16 17:53:26+00:00,,,,,
+60,stargazers,jmacd_xdelta-devel,2019-04-01 18:26:27+00:00,,,,,
+61,stargazers,jmacd_xdelta-devel,2019-04-12 08:12:29+00:00,,,,,
+62,stargazers,jmacd_xdelta-devel,2019-04-18 14:00:52+00:00,,,,,
+63,stargazers,jmacd_xdelta-devel,2019-07-05 02:26:56+00:00,,,,,
+64,stargazers,jmacd_xdelta-devel,2019-07-17 17:02:01+00:00,,,,,
+65,stargazers,jmacd_xdelta-devel,2019-08-07 10:07:06+00:00,,,,,
+66,stargazers,jmacd_xdelta-devel,2019-10-28 07:43:06+00:00,,,,,
+67,stargazers,jmacd_xdelta-devel,2019-11-27 08:46:59+00:00,,,,,
+68,stargazers,jmacd_xdelta-devel,2019-12-07 03:12:29+00:00,,,,,
+69,stargazers,jmacd_xdelta-devel,2020-01-30 05:01:13+00:00,,,,,
+70,stargazers,jmacd_xdelta-devel,2020-02-08 18:22:11+00:00,,,,,
+71,stargazers,jmacd_xdelta-devel,2020-02-19 10:10:45+00:00,,,,,
+72,stargazers,jmacd_xdelta-devel,2020-02-25 04:25:00+00:00,,,,,
+73,stargazers,jmacd_xdelta-devel,2020-03-08 23:52:53+00:00,,,,,
+74,stargazers,jmacd_xdelta-devel,2020-04-13 02:11:45+00:00,,,,,
+75,stargazers,jmacd_xdelta-devel,2020-04-30 06:25:44+00:00,,,,,
+76,stargazers,jmacd_xdelta-devel,2020-05-10 10:20:58+00:00,,,,,
+77,stargazers,jmacd_xdelta-devel,2020-05-11 16:30:25+00:00,,,,,
+78,stargazers,jmacd_xdelta-devel,2020-06-15 01:06:33+00:00,,,,,
+79,stargazers,jmacd_xdelta-devel,2020-07-06 09:12:17+00:00,,,,,
+80,stargazers,jmacd_xdelta-devel,2020-07-06 10:33:09+00:00,,,,,
+81,stargazers,jmacd_xdelta-devel,2020-07-06 12:39:53+00:00,,,,,
+82,stargazers,jmacd_xdelta-devel,2020-08-16 22:38:16+00:00,,,,,
+83,stargazers,jmacd_xdelta-devel,2020-08-25 21:26:03+00:00,,,,,
+84,stargazers,jmacd_xdelta-devel,2020-10-07 20:28:29+00:00,,,,,
+85,stargazers,jmacd_xdelta-devel,2020-11-09 15:06:34+00:00,,,,,
+86,stargazers,jmacd_xdelta-devel,2020-11-10 18:59:53+00:00,,,,,
+87,stargazers,jmacd_xdelta-devel,2020-11-19 23:28:26+00:00,,,,,
+88,stargazers,jmacd_xdelta-devel,2020-11-28 09:15:13+00:00,,,,,
+89,stargazers,jmacd_xdelta-devel,2021-01-24 15:57:58+00:00,,,,,
+90,stargazers,jmacd_xdelta-devel,2021-02-16 23:16:27+00:00,,,,,
+91,stargazers,jmacd_xdelta-devel,2021-03-09 17:28:44+00:00,,,,,
+92,stargazers,jmacd_xdelta-devel,2021-04-01 01:46:43+00:00,,,,,
+93,stargazers,jmacd_xdelta-devel,2021-04-02 10:51:15+00:00,,,,,
+94,stargazers,jmacd_xdelta-devel,2021-05-06 07:32:17+00:00,,,,,
+95,stargazers,jmacd_xdelta-devel,2021-05-26 21:36:04+00:00,,,,,
+96,stargazers,jmacd_xdelta-devel,2021-06-14 02:48:46+00:00,,,,,
+97,stargazers,jmacd_xdelta-devel,2021-07-29 14:56:35+00:00,,,,,
+98,stargazers,jmacd_xdelta-devel,2021-08-01 02:18:17+00:00,,,,,
+99,stargazers,jmacd_xdelta-devel,2021-10-03 15:38:47+00:00,,,,,
+100,stargazers,jmacd_xdelta-devel,2021-10-12 20:27:20+00:00,,,,,
+101,stargazers,jmacd_xdelta-devel,2021-10-24 05:28:15+00:00,,,,,
+102,stargazers,jmacd_xdelta-devel,2021-11-03 00:17:30+00:00,,,,,
+103,stargazers,jmacd_xdelta-devel,2021-11-25 20:03:06+00:00,,,,,
+104,stargazers,jmacd_xdelta-devel,2021-11-27 00:54:57+00:00,,,,,
+105,stargazers,jmacd_xdelta-devel,2021-12-06 03:19:04+00:00,,,,,
+106,stargazers,jmacd_xdelta-devel,2021-12-11 02:15:03+00:00,,,,,
+107,stargazers,jmacd_xdelta-devel,2021-12-21 18:53:32+00:00,,,,,
+108,stargazers,jmacd_xdelta-devel,2022-01-24 15:28:41+00:00,,,,,
+109,stargazers,jmacd_xdelta-devel,2022-02-27 23:58:53+00:00,,,,,
+110,stargazers,jmacd_xdelta-devel,2022-03-14 20:27:22+00:00,,,,,
+111,stargazers,jmacd_xdelta-devel,2022-04-01 08:17:02+00:00,,,,,
+112,stargazers,jmacd_xdelta-devel,2022-04-07 15:24:42+00:00,,,,,
+113,stargazers,jmacd_xdelta-devel,2022-05-02 17:40:51+00:00,,,,,
+114,stargazers,jmacd_xdelta-devel,2022-05-14 02:38:10+00:00,,,,,
+115,stargazers,jmacd_xdelta-devel,2022-05-15 15:05:53+00:00,,,,,
+116,stargazers,jmacd_xdelta-devel,2022-05-24 01:31:13+00:00,,,,,
+117,stargazers,jmacd_xdelta-devel,2022-05-26 10:00:43+00:00,,,,,
+118,stargazers,jmacd_xdelta-devel,2022-06-04 10:46:02+00:00,,,,,
+119,stargazers,jmacd_xdelta-devel,2022-06-07 18:10:02+00:00,,,,,
+120,stargazers,jmacd_xdelta-devel,2022-07-07 11:03:09+00:00,,,,,

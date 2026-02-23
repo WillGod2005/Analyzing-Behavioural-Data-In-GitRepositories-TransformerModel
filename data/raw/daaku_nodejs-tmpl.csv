@@ -1,0 +1,71 @@
+,type,name,created_at,Hash,Add,Del,Files,Vuln
+637619,PushEvent,daaku_nodejs-tmpl,2015-03-28 18:28:33 UTC,,,,,
+847114,ForkEvent,daaku_nodejs-tmpl,2015-03-28 13:49:29 UTC,,,,,
+1630607,PullRequestEvent,daaku_nodejs-tmpl,2015-03-28 13:51:05 UTC,,,,,
+2653955,PushEvent,daaku_nodejs-tmpl,2015-03-28 18:31:04 UTC,,,,,
+2767875,PushEvent,daaku_nodejs-tmpl,2015-03-04 18:10:58 UTC,,,,,
+3279056,PullRequestEvent,daaku_nodejs-tmpl,2015-03-28 18:28:33 UTC,,,,,
+76458,WatchEvent,daaku_nodejs-tmpl,2016-08-02 08:12:48 UTC,,,,,
+1083068,WatchEvent,daaku_nodejs-tmpl,2016-01-15 06:34:26 UTC,,,,,
+1246302,WatchEvent,daaku_nodejs-tmpl,2017-12-28 20:03:16 UTC,,,,,
+1463281,WatchEvent,daaku_nodejs-tmpl,2017-12-06 15:35:41 UTC,,,,,
+1382711,WatchEvent,daaku_nodejs-tmpl,2018-08-02 04:43:55 UTC,,,,,
+1412587,WatchEvent,daaku_nodejs-tmpl,2019-06-26 18:58:11 UTC,,,,,
+1736217,WatchEvent,daaku_nodejs-tmpl,2019-12-10 11:46:56 UTC,,,,,
+0,Commit,daaku_nodejs-tmpl,2021-09-07 06:45:49,153b36d516b581950a652cb625d6dcd2dd4e1c37,1.0,1.0,1.0,0.0
+1,Commit,daaku_nodejs-tmpl,2021-09-07 06:41:07,4c654e4d1542f329ed561fd95ccd80f30c6872d6,1.0,1.0,1.0,1.0
+2,Commit,daaku_nodejs-tmpl,2021-09-07 06:38:40,1dbd350783f04743bd759cc5ae1e1e3633d550ff,7.0,4.0,3.0,0.0
+3,Commit,daaku_nodejs-tmpl,2020-12-08 05:37:40,a061c6f70d162e77bdd01ea4c4c191ddc22b7736,1.0,0.0,1.0,0.0
+4,Commit,daaku_nodejs-tmpl,2015-03-28 18:30:42,aa7fef875b8eb2da3817940b50f58fd1d8754022,1.0,1.0,1.0,0.0
+5,Commit,daaku_nodejs-tmpl,2015-03-28 18:28:33,4b94b45440bed7231bbfd779bf730c020a659a35,0.0,0.0,0.0,0.0
+6,Commit,daaku_nodejs-tmpl,2015-03-28 13:50:58,08a40d74307a6cd9e7366d87cee39d888a1e8770,1.0,2.0,1.0,0.0
+7,Commit,daaku_nodejs-tmpl,2015-03-04 18:10:54,ba93b5b7477c5734fe0cea7922de3af6d8c9c79e,2.0,1.0,1.0,0.0
+8,Commit,daaku_nodejs-tmpl,2014-08-20 20:24:00,b141e793640248c0900829c35f6b3195243e94e8,28.0,0.0,1.0,0.0
+9,Commit,daaku_nodejs-tmpl,2013-05-08 16:57:03,c95efe11803d9b20e6219875c6ba6389c0caac7b,0.0,0.0,0.0,0.0
+10,Commit,daaku_nodejs-tmpl,2013-05-08 16:14:38,d87cb7e236c7ccee6f41acb8a94c1ff09f06c289,1.0,1.0,1.0,0.0
+11,Commit,daaku_nodejs-tmpl,2012-02-14 20:46:23,165aa65d8b716018325fe35cee3134412d3d681e,4.0,4.0,1.0,0.0
+12,Commit,daaku_nodejs-tmpl,2012-02-09 21:38:26,055f0014d6fe3cca8c1c2d8647675570f999f9fe,8.0,5.0,4.0,0.0
+13,Commit,daaku_nodejs-tmpl,2011-08-17 21:11:01,1979761fc70c0ee5c428031a1aa0900b1ceaf56e,8.0,4.0,3.0,0.0
+14,Commit,daaku_nodejs-tmpl,2011-08-08 02:25:27,8ed5bfdf82422a28710ce2656af496ee49fa7ad4,59.0,0.0,6.0,0.0
+0,forks,daaku_nodejs-tmpl,2015-03-28 13:49:29+00:00,,,,,
+1,forks,daaku_nodejs-tmpl,2020-12-07 20:36:14+00:00,,,,,
+2,forks,daaku_nodejs-tmpl,2021-09-04 16:25:10+00:00,,,,,
+3,forks,daaku_nodejs-tmpl,2021-10-03 10:17:42+00:00,,,,,
+4,forks,daaku_nodejs-tmpl,2021-10-09 10:01:18+00:00,,,,,
+5,forks,daaku_nodejs-tmpl,2021-10-22 15:26:50+00:00,,,,,
+6,forks,daaku_nodejs-tmpl,2021-11-13 01:06:38+00:00,,,,,
+7,forks,daaku_nodejs-tmpl,2021-11-24 06:40:39+00:00,,,,,
+8,forks,daaku_nodejs-tmpl,2021-11-26 19:59:52+00:00,,,,,
+9,forks,daaku_nodejs-tmpl,2021-12-07 16:09:38+00:00,,,,,
+10,forks,daaku_nodejs-tmpl,2021-12-10 23:39:39+00:00,,,,,
+11,forks,daaku_nodejs-tmpl,2021-12-11 11:28:52+00:00,,,,,
+12,forks,daaku_nodejs-tmpl,2022-01-17 11:41:01+00:00,,,,,
+13,forks,daaku_nodejs-tmpl,2022-01-18 12:01:44+00:00,,,,,
+14,forks,daaku_nodejs-tmpl,2022-04-08 10:38:39+00:00,,,,,
+15,forks,daaku_nodejs-tmpl,2022-06-27 01:11:37+00:00,,,,,
+0,issues,daaku_nodejs-tmpl,2014-07-31 17:11:47+00:00,,,,,
+1,issues,daaku_nodejs-tmpl,2021-09-04 16:23:46+00:00,,,,,
+2,issues,daaku_nodejs-tmpl,2021-12-30 02:38:41+00:00,,,,,
+0,pullRequests,daaku_nodejs-tmpl,2013-05-08 16:14:45+00:00,,,,,
+1,pullRequests,daaku_nodejs-tmpl,2015-03-28 13:51:03+00:00,,,,,
+2,pullRequests,daaku_nodejs-tmpl,2020-12-07 20:36:51+00:00,,,,,
+0,stargazers,daaku_nodejs-tmpl,2016-04-20 22:04:22+00:00,,,,,
+1,stargazers,daaku_nodejs-tmpl,2016-08-02 08:12:48+00:00,,,,,
+2,stargazers,daaku_nodejs-tmpl,2017-12-06 15:35:41+00:00,,,,,
+3,stargazers,daaku_nodejs-tmpl,2017-12-28 20:03:15+00:00,,,,,
+4,stargazers,daaku_nodejs-tmpl,2018-01-25 17:51:12+00:00,,,,,
+5,stargazers,daaku_nodejs-tmpl,2018-08-02 04:43:55+00:00,,,,,
+6,stargazers,daaku_nodejs-tmpl,2019-06-26 18:58:11+00:00,,,,,
+7,stargazers,daaku_nodejs-tmpl,2019-12-10 11:46:55+00:00,,,,,
+8,stargazers,daaku_nodejs-tmpl,2021-09-22 01:47:15+00:00,,,,,
+9,stargazers,daaku_nodejs-tmpl,2021-10-18 14:23:24+00:00,,,,,
+10,stargazers,daaku_nodejs-tmpl,2021-10-22 10:32:36+00:00,,,,,
+11,stargazers,daaku_nodejs-tmpl,2021-11-11 02:32:43+00:00,,,,,
+12,stargazers,daaku_nodejs-tmpl,2021-12-26 18:18:31+00:00,,,,,
+13,stargazers,daaku_nodejs-tmpl,2022-01-26 08:27:19+00:00,,,,,
+14,stargazers,daaku_nodejs-tmpl,2022-02-17 08:03:14+00:00,,,,,
+15,stargazers,daaku_nodejs-tmpl,2022-02-18 21:21:56+00:00,,,,,
+16,stargazers,daaku_nodejs-tmpl,2022-02-18 22:48:24+00:00,,,,,
+17,stargazers,daaku_nodejs-tmpl,2022-03-15 14:43:46+00:00,,,,,
+18,stargazers,daaku_nodejs-tmpl,2022-06-08 17:48:37+00:00,,,,,
+19,stargazers,daaku_nodejs-tmpl,2022-06-10 21:04:02+00:00,,,,,

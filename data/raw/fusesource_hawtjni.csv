@@ -1,0 +1,907 @@
+,type,name,created_at,Hash,Add,Del,Files,Vuln
+69718,PullRequestEvent,fusesource_hawtjni,2015-04-17 23:58:50 UTC,,,,,
+330835,IssuesEvent,fusesource_hawtjni,2015-02-07 06:17:11 UTC,,,,,
+667355,PullRequestEvent,fusesource_hawtjni,2015-08-10 15:34:46 UTC,,,,,
+733520,WatchEvent,fusesource_hawtjni,2015-03-07 11:19:19 UTC,,,,,
+768285,ForkEvent,fusesource_hawtjni,2015-12-22 12:28:58 UTC,,,,,
+796862,WatchEvent,fusesource_hawtjni,2015-03-31 21:44:46 UTC,,,,,
+1368389,PushEvent,fusesource_hawtjni,2015-04-18 01:28:01 UTC,,,,,
+1376114,ForkEvent,fusesource_hawtjni,2015-08-10 15:31:19 UTC,,,,,
+1384228,ForkEvent,fusesource_hawtjni,2015-12-28 09:47:31 UTC,,,,,
+1613116,ForkEvent,fusesource_hawtjni,2015-08-31 11:19:40 UTC,,,,,
+1614082,WatchEvent,fusesource_hawtjni,2015-10-21 01:36:18 UTC,,,,,
+1632877,ForkEvent,fusesource_hawtjni,2015-05-08 21:37:27 UTC,,,,,
+1681511,WatchEvent,fusesource_hawtjni,2015-04-02 16:48:21 UTC,,,,,
+1888109,WatchEvent,fusesource_hawtjni,2015-01-02 17:04:26 UTC,,,,,
+1903995,WatchEvent,fusesource_hawtjni,2015-04-07 13:01:54 UTC,,,,,
+1930753,PushEvent,fusesource_hawtjni,2015-04-21 15:03:13 UTC,,,,,
+1939479,WatchEvent,fusesource_hawtjni,2015-02-07 00:05:17 UTC,,,,,
+1944563,PullRequestEvent,fusesource_hawtjni,2015-04-18 01:28:01 UTC,,,,,
+2126265,WatchEvent,fusesource_hawtjni,2015-10-21 01:56:04 UTC,,,,,
+2231756,ForkEvent,fusesource_hawtjni,2015-04-17 18:34:22 UTC,,,,,
+2394616,WatchEvent,fusesource_hawtjni,2015-04-07 12:38:13 UTC,,,,,
+2509346,PullRequestEvent,fusesource_hawtjni,2015-12-21 05:51:24 UTC,,,,,
+2578818,ForkEvent,fusesource_hawtjni,2015-07-08 01:33:08 UTC,,,,,
+2603474,WatchEvent,fusesource_hawtjni,2015-11-08 17:01:12 UTC,,,,,
+2623329,WatchEvent,fusesource_hawtjni,2015-04-08 09:11:26 UTC,,,,,
+2651243,CreateEvent,fusesource_hawtjni,2015-04-21 15:03:23 UTC,,,,,
+2738074,PullRequestEvent,fusesource_hawtjni,2015-12-22 12:42:42 UTC,,,,,
+2843080,ForkEvent,fusesource_hawtjni,2015-11-19 19:53:43 UTC,,,,,
+2910777,WatchEvent,fusesource_hawtjni,2015-01-06 08:11:52 UTC,,,,,
+2917649,ForkEvent,fusesource_hawtjni,2015-12-21 05:48:46 UTC,,,,,
+2997629,WatchEvent,fusesource_hawtjni,2015-03-11 01:10:07 UTC,,,,,
+2998164,IssuesEvent,fusesource_hawtjni,2015-01-04 13:53:24 UTC,,,,,
+3059354,IssueCommentEvent,fusesource_hawtjni,2015-04-07 12:54:54 UTC,,,,,
+3091777,ForkEvent,fusesource_hawtjni,2015-05-14 01:47:39 UTC,,,,,
+3220360,IssueCommentEvent,fusesource_hawtjni,2015-04-18 01:27:46 UTC,,,,,
+16690,WatchEvent,fusesource_hawtjni,2016-03-21 10:27:04 UTC,,,,,
+51935,IssuesEvent,fusesource_hawtjni,2016-12-29 13:57:27 UTC,,,,,
+172293,CreateEvent,fusesource_hawtjni,2016-06-20 16:57:28 UTC,,,,,
+190863,WatchEvent,fusesource_hawtjni,2016-02-24 21:33:19 UTC,,,,,
+295661,IssueCommentEvent,fusesource_hawtjni,2016-12-29 13:57:27 UTC,,,,,
+366842,WatchEvent,fusesource_hawtjni,2016-07-06 23:20:32 UTC,,,,,
+377111,PullRequestEvent,fusesource_hawtjni,2016-06-13 19:28:57 UTC,,,,,
+588139,CreateEvent,fusesource_hawtjni,2016-04-26 16:52:11 UTC,,,,,
+707942,CreateEvent,fusesource_hawtjni,2016-04-26 13:34:47 UTC,,,,,
+770584,WatchEvent,fusesource_hawtjni,2016-04-24 16:20:46 UTC,,,,,
+814379,WatchEvent,fusesource_hawtjni,2016-12-19 19:26:27 UTC,,,,,
+926350,IssueCommentEvent,fusesource_hawtjni,2016-02-23 20:56:30 UTC,,,,,
+982574,IssuesEvent,fusesource_hawtjni,2016-09-01 18:24:11 UTC,,,,,
+1016163,PushEvent,fusesource_hawtjni,2016-06-20 17:00:13 UTC,,,,,
+1021079,IssueCommentEvent,fusesource_hawtjni,2016-06-20 16:50:34 UTC,,,,,
+1081266,IssueCommentEvent,fusesource_hawtjni,2016-06-20 14:23:23 UTC,,,,,
+1143158,WatchEvent,fusesource_hawtjni,2016-02-22 20:51:26 UTC,,,,,
+1149520,WatchEvent,fusesource_hawtjni,2016-10-18 00:06:43 UTC,,,,,
+1181381,WatchEvent,fusesource_hawtjni,2016-08-27 00:03:40 UTC,,,,,
+1333646,IssueCommentEvent,fusesource_hawtjni,2016-11-19 21:04:09 UTC,,,,,
+1355239,PullRequestEvent,fusesource_hawtjni,2016-06-20 17:00:12 UTC,,,,,
+1444142,IssueCommentEvent,fusesource_hawtjni,2016-02-18 15:41:30 UTC,,,,,
+1639458,IssuesEvent,fusesource_hawtjni,2016-02-21 22:53:03 UTC,,,,,
+1747539,IssueCommentEvent,fusesource_hawtjni,2016-05-30 06:09:32 UTC,,,,,
+1899994,PushEvent,fusesource_hawtjni,2016-06-20 15:39:56 UTC,,,,,
+1904836,IssueCommentEvent,fusesource_hawtjni,2016-06-20 16:58:14 UTC,,,,,
+2049092,IssuesEvent,fusesource_hawtjni,2016-12-22 21:14:11 UTC,,,,,
+2225493,PushEvent,fusesource_hawtjni,2016-04-26 16:52:06 UTC,,,,,
+2465320,WatchEvent,fusesource_hawtjni,2016-06-21 03:17:19 UTC,,,,,
+2486434,ForkEvent,fusesource_hawtjni,2016-06-13 10:51:45 UTC,,,,,
+2526793,IssueCommentEvent,fusesource_hawtjni,2016-06-14 20:09:02 UTC,,,,,
+2575544,ForkEvent,fusesource_hawtjni,2016-02-25 22:41:13 UTC,,,,,
+2711323,PushEvent,fusesource_hawtjni,2016-06-20 17:13:56 UTC,,,,,
+2715681,PullRequestEvent,fusesource_hawtjni,2016-06-20 15:39:56 UTC,,,,,
+2957251,WatchEvent,fusesource_hawtjni,2016-11-03 22:18:17 UTC,,,,,
+2984880,ForkEvent,fusesource_hawtjni,2016-01-06 21:19:24 UTC,,,,,
+2988060,ForkEvent,fusesource_hawtjni,2016-11-03 22:18:21 UTC,,,,,
+3218027,PushEvent,fusesource_hawtjni,2016-04-26 16:45:58 UTC,,,,,
+3224902,WatchEvent,fusesource_hawtjni,2016-04-09 21:21:11 UTC,,,,,
+3255825,PushEvent,fusesource_hawtjni,2016-06-20 16:57:25 UTC,,,,,
+3454030,PushEvent,fusesource_hawtjni,2016-04-26 13:28:08 UTC,,,,,
+3593832,IssuesEvent,fusesource_hawtjni,2016-05-28 07:32:48 UTC,,,,,
+3632133,IssueCommentEvent,fusesource_hawtjni,2016-06-20 15:39:58 UTC,,,,,
+3747469,PushEvent,fusesource_hawtjni,2016-06-20 17:03:52 UTC,,,,,
+3758663,IssueCommentEvent,fusesource_hawtjni,2016-06-20 17:05:46 UTC,,,,,
+3839193,PushEvent,fusesource_hawtjni,2016-04-26 13:34:42 UTC,,,,,
+3874697,CreateEvent,fusesource_hawtjni,2016-06-20 17:10:53 UTC,,,,,
+3957600,IssueCommentEvent,fusesource_hawtjni,2016-06-20 16:44:24 UTC,,,,,
+3963357,IssuesEvent,fusesource_hawtjni,2016-02-18 15:41:27 UTC,,,,,
+3994419,WatchEvent,fusesource_hawtjni,2016-06-29 20:42:06 UTC,,,,,
+4015917,PushEvent,fusesource_hawtjni,2016-04-26 13:17:51 UTC,,,,,
+4155712,PullRequestEvent,fusesource_hawtjni,2016-06-20 16:46:31 UTC,,,,,
+8791,MemberEvent,fusesource_hawtjni,2017-12-02 17:44:22 UTC,,,,,
+48862,ForkEvent,fusesource_hawtjni,2017-03-05 14:05:49 UTC,,,,,
+119584,ForkEvent,fusesource_hawtjni,2017-09-25 21:53:25 UTC,,,,,
+135808,ForkEvent,fusesource_hawtjni,2017-04-27 07:40:10 UTC,,,,,
+136727,ForkEvent,fusesource_hawtjni,2017-08-29 06:13:37 UTC,,,,,
+140696,ForkEvent,fusesource_hawtjni,2017-10-11 02:41:21 UTC,,,,,
+142752,ForkEvent,fusesource_hawtjni,2017-01-11 11:52:06 UTC,,,,,
+245991,ForkEvent,fusesource_hawtjni,2017-11-17 08:30:35 UTC,,,,,
+278309,ForkEvent,fusesource_hawtjni,2017-03-20 20:35:22 UTC,,,,,
+337294,ForkEvent,fusesource_hawtjni,2017-07-27 06:42:28 UTC,,,,,
+424514,PushEvent,fusesource_hawtjni,2017-12-04 08:38:39 UTC,,,,,
+433631,PushEvent,fusesource_hawtjni,2017-12-04 08:33:21 UTC,,,,,
+440001,PushEvent,fusesource_hawtjni,2017-04-27 11:58:51 UTC,,,,,
+449457,PushEvent,fusesource_hawtjni,2017-04-26 10:16:27 UTC,,,,,
+463596,PushEvent,fusesource_hawtjni,2017-04-26 12:11:39 UTC,,,,,
+465035,PushEvent,fusesource_hawtjni,2017-05-04 22:15:17 UTC,,,,,
+470344,PushEvent,fusesource_hawtjni,2017-04-26 20:22:49 UTC,,,,,
+480760,PushEvent,fusesource_hawtjni,2017-12-05 23:47:19 UTC,,,,,
+485093,PushEvent,fusesource_hawtjni,2017-04-26 12:13:59 UTC,,,,,
+549014,PushEvent,fusesource_hawtjni,2017-05-05 08:58:29 UTC,,,,,
+595217,PushEvent,fusesource_hawtjni,2017-03-13 09:34:11 UTC,,,,,
+595422,PushEvent,fusesource_hawtjni,2017-12-04 08:42:29 UTC,,,,,
+658332,PushEvent,fusesource_hawtjni,2017-12-05 23:32:36 UTC,,,,,
+695629,PushEvent,fusesource_hawtjni,2017-04-27 08:39:52 UTC,,,,,
+740394,PushEvent,fusesource_hawtjni,2017-04-27 16:33:51 UTC,,,,,
+763191,PushEvent,fusesource_hawtjni,2017-05-02 09:16:33 UTC,,,,,
+792402,PushEvent,fusesource_hawtjni,2017-03-13 09:31:50 UTC,,,,,
+793211,PushEvent,fusesource_hawtjni,2017-04-26 09:09:15 UTC,,,,,
+796554,PushEvent,fusesource_hawtjni,2017-04-26 09:21:25 UTC,,,,,
+869433,PushEvent,fusesource_hawtjni,2017-04-27 13:34:06 UTC,,,,,
+940907,PushEvent,fusesource_hawtjni,2017-04-26 10:11:29 UTC,,,,,
+947946,PushEvent,fusesource_hawtjni,2017-04-26 12:12:50 UTC,,,,,
+997023,WatchEvent,fusesource_hawtjni,2017-12-28 03:24:21 UTC,,,,,
+1072604,WatchEvent,fusesource_hawtjni,2017-12-09 20:44:53 UTC,,,,,
+1167856,WatchEvent,fusesource_hawtjni,2017-09-27 03:07:16 UTC,,,,,
+1171054,WatchEvent,fusesource_hawtjni,2017-01-08 21:27:55 UTC,,,,,
+1204307,WatchEvent,fusesource_hawtjni,2017-05-07 15:48:59 UTC,,,,,
+1236700,WatchEvent,fusesource_hawtjni,2017-01-15 22:50:31 UTC,,,,,
+1281892,WatchEvent,fusesource_hawtjni,2017-05-10 10:04:32 UTC,,,,,
+1498328,WatchEvent,fusesource_hawtjni,2017-01-09 04:51:40 UTC,,,,,
+1538227,WatchEvent,fusesource_hawtjni,2017-04-20 22:43:13 UTC,,,,,
+1660257,WatchEvent,fusesource_hawtjni,2017-03-25 11:56:24 UTC,,,,,
+1689664,WatchEvent,fusesource_hawtjni,2018-01-01 21:42:58 UTC,,,,,
+1708971,WatchEvent,fusesource_hawtjni,2017-11-01 22:59:24 UTC,,,,,
+1747439,WatchEvent,fusesource_hawtjni,2017-08-04 09:09:11 UTC,,,,,
+1876529,WatchEvent,fusesource_hawtjni,2017-11-22 03:11:06 UTC,,,,,
+1964650,CreateEvent,fusesource_hawtjni,2017-05-04 22:15:21 UTC,,,,,
+2054290,IssuesEvent,fusesource_hawtjni,2017-09-02 17:06:40 UTC,,,,,
+2078696,IssuesEvent,fusesource_hawtjni,2017-08-10 12:53:37 UTC,,,,,
+2120196,IssuesEvent,fusesource_hawtjni,2017-08-11 12:29:28 UTC,,,,,
+2125353,IssuesEvent,fusesource_hawtjni,2017-04-26 10:11:29 UTC,,,,,
+2128502,IssuesEvent,fusesource_hawtjni,2017-09-03 04:19:15 UTC,,,,,
+2151375,IssuesEvent,fusesource_hawtjni,2017-04-28 14:44:05 UTC,,,,,
+2152589,IssuesEvent,fusesource_hawtjni,2017-04-26 09:21:25 UTC,,,,,
+2158031,IssuesEvent,fusesource_hawtjni,2017-01-20 09:45:26 UTC,,,,,
+2192685,IssuesEvent,fusesource_hawtjni,2017-04-26 10:17:13 UTC,,,,,
+2225632,IssuesEvent,fusesource_hawtjni,2017-03-05 13:23:06 UTC,,,,,
+2290503,IssuesEvent,fusesource_hawtjni,2017-04-28 14:43:08 UTC,,,,,
+2292073,IssuesEvent,fusesource_hawtjni,2017-09-03 10:35:43 UTC,,,,,
+2367648,IssuesEvent,fusesource_hawtjni,2017-12-04 08:31:19 UTC,,,,,
+2382116,IssuesEvent,fusesource_hawtjni,2017-01-11 12:44:32 UTC,,,,,
+2392925,IssuesEvent,fusesource_hawtjni,2017-09-03 10:38:30 UTC,,,,,
+2425552,IssuesEvent,fusesource_hawtjni,2017-04-14 10:26:39 UTC,,,,,
+2436945,IssuesEvent,fusesource_hawtjni,2017-04-26 11:56:59 UTC,,,,,
+2440500,IssuesEvent,fusesource_hawtjni,2017-12-04 08:33:41 UTC,,,,,
+2463175,PullRequestEvent,fusesource_hawtjni,2017-04-26 10:16:26 UTC,,,,,
+2474752,PullRequestEvent,fusesource_hawtjni,2017-03-13 09:31:50 UTC,,,,,
+2500273,PullRequestEvent,fusesource_hawtjni,2017-03-18 14:31:54 UTC,,,,,
+2558174,PullRequestEvent,fusesource_hawtjni,2017-04-27 13:34:57 UTC,,,,,
+2568312,PullRequestEvent,fusesource_hawtjni,2017-07-31 17:38:30 UTC,,,,,
+2575399,PullRequestEvent,fusesource_hawtjni,2017-03-13 09:34:10 UTC,,,,,
+2636845,PullRequestEvent,fusesource_hawtjni,2017-03-05 14:09:29 UTC,,,,,
+2661448,PullRequestEvent,fusesource_hawtjni,2017-05-20 13:28:18 UTC,,,,,
+2673088,PullRequestEvent,fusesource_hawtjni,2017-04-26 12:11:38 UTC,,,,,
+2702977,PullRequestEvent,fusesource_hawtjni,2017-03-05 14:17:48 UTC,,,,,
+2712615,PullRequestEvent,fusesource_hawtjni,2017-09-25 21:56:58 UTC,,,,,
+2737269,PullRequestEvent,fusesource_hawtjni,2017-03-01 21:05:56 UTC,,,,,
+2749517,PullRequestEvent,fusesource_hawtjni,2017-12-04 08:42:43 UTC,,,,,
+2769275,PullRequestEvent,fusesource_hawtjni,2017-03-19 10:55:58 UTC,,,,,
+2773143,PullRequestEvent,fusesource_hawtjni,2017-04-26 12:12:49 UTC,,,,,
+2817715,PullRequestEvent,fusesource_hawtjni,2017-12-05 23:49:17 UTC,,,,,
+3310449,IssueCommentEvent,fusesource_hawtjni,2017-04-27 13:34:57 UTC,,,,,
+3469768,IssueCommentEvent,fusesource_hawtjni,2017-12-04 08:39:12 UTC,,,,,
+3698434,IssueCommentEvent,fusesource_hawtjni,2017-01-20 09:45:26 UTC,,,,,
+3863453,IssueCommentEvent,fusesource_hawtjni,2017-04-14 10:26:39 UTC,,,,,
+3941106,IssueCommentEvent,fusesource_hawtjni,2017-04-26 10:15:16 UTC,,,,,
+4009935,IssueCommentEvent,fusesource_hawtjni,2017-08-11 12:29:28 UTC,,,,,
+4139918,IssueCommentEvent,fusesource_hawtjni,2017-04-26 11:55:15 UTC,,,,,
+4185175,IssueCommentEvent,fusesource_hawtjni,2017-03-21 09:11:51 UTC,,,,,
+4189634,IssueCommentEvent,fusesource_hawtjni,2017-03-01 20:25:31 UTC,,,,,
+4399254,IssueCommentEvent,fusesource_hawtjni,2017-04-26 12:11:16 UTC,,,,,
+4567424,IssueCommentEvent,fusesource_hawtjni,2017-09-03 10:38:30 UTC,,,,,
+4675860,PullRequestReviewCommentEvent,fusesource_hawtjni,2017-03-20 21:35:39 UTC,,,,,
+4693694,PullRequestReviewCommentEvent,fusesource_hawtjni,2017-03-20 09:36:29 UTC,,,,,
+4812795,PullRequestReviewCommentEvent,fusesource_hawtjni,2017-03-20 09:10:52 UTC,,,,,
+4952390,PullRequestReviewCommentEvent,fusesource_hawtjni,2017-03-20 21:34:58 UTC,,,,,
+39369,ForkEvent,fusesource_hawtjni,2018-09-04 07:44:27 UTC,,,,,
+103961,ForkEvent,fusesource_hawtjni,2018-02-22 10:54:07 UTC,,,,,
+159942,ForkEvent,fusesource_hawtjni,2018-05-24 06:04:59 UTC,,,,,
+206162,ForkEvent,fusesource_hawtjni,2018-04-24 11:10:39 UTC,,,,,
+224632,ForkEvent,fusesource_hawtjni,2018-10-16 00:39:33 UTC,,,,,
+235372,ForkEvent,fusesource_hawtjni,2018-02-20 20:31:54 UTC,,,,,
+279520,ForkEvent,fusesource_hawtjni,2018-06-15 17:35:30 UTC,,,,,
+290565,ForkEvent,fusesource_hawtjni,2018-10-17 10:57:00 UTC,,,,,
+431010,PushEvent,fusesource_hawtjni,2018-09-08 15:29:12 UTC,,,,,
+520688,PushEvent,fusesource_hawtjni,2018-05-12 15:18:55 UTC,,,,,
+553649,PushEvent,fusesource_hawtjni,2018-02-02 08:36:19 UTC,,,,,
+555517,PushEvent,fusesource_hawtjni,2018-05-12 15:16:29 UTC,,,,,
+759825,PushEvent,fusesource_hawtjni,2018-02-28 20:16:12 UTC,,,,,
+800373,PushEvent,fusesource_hawtjni,2018-02-09 00:04:59 UTC,,,,,
+804335,PushEvent,fusesource_hawtjni,2018-02-09 00:03:17 UTC,,,,,
+843024,PushEvent,fusesource_hawtjni,2018-02-28 20:23:45 UTC,,,,,
+877786,PushEvent,fusesource_hawtjni,2018-07-04 20:03:04 UTC,,,,,
+1002356,WatchEvent,fusesource_hawtjni,2018-12-15 02:45:33 UTC,,,,,
+1017920,WatchEvent,fusesource_hawtjni,2018-08-08 15:43:18 UTC,,,,,
+1024492,WatchEvent,fusesource_hawtjni,2018-02-07 04:18:21 UTC,,,,,
+1033317,WatchEvent,fusesource_hawtjni,2018-04-15 01:57:29 UTC,,,,,
+1042334,WatchEvent,fusesource_hawtjni,2018-03-06 06:26:35 UTC,,,,,
+1363862,WatchEvent,fusesource_hawtjni,2018-11-17 19:52:10 UTC,,,,,
+1445655,WatchEvent,fusesource_hawtjni,2018-06-12 14:28:05 UTC,,,,,
+1580593,WatchEvent,fusesource_hawtjni,2018-07-09 13:49:53 UTC,,,,,
+1582944,WatchEvent,fusesource_hawtjni,2018-08-31 05:10:57 UTC,,,,,
+1649979,WatchEvent,fusesource_hawtjni,2018-06-07 08:20:48 UTC,,,,,
+1865913,WatchEvent,fusesource_hawtjni,2018-04-09 02:06:51 UTC,,,,,
+1886006,WatchEvent,fusesource_hawtjni,2018-09-30 03:01:56 UTC,,,,,
+2089898,IssuesEvent,fusesource_hawtjni,2018-02-26 13:11:43 UTC,,,,,
+2215235,IssuesEvent,fusesource_hawtjni,2018-04-30 10:50:14 UTC,,,,,
+2262855,IssuesEvent,fusesource_hawtjni,2019-01-03 15:52:43 UTC,,,,,
+2315060,IssuesEvent,fusesource_hawtjni,2018-07-18 13:57:17 UTC,,,,,
+2365818,IssuesEvent,fusesource_hawtjni,2018-02-04 09:22:34 UTC,,,,,
+2373129,IssuesEvent,fusesource_hawtjni,2018-06-08 07:51:00 UTC,,,,,
+2499451,PullRequestEvent,fusesource_hawtjni,2018-10-17 11:12:07 UTC,,,,,
+2505123,PullRequestEvent,fusesource_hawtjni,2018-05-24 06:11:35 UTC,,,,,
+2568571,PullRequestEvent,fusesource_hawtjni,2018-04-25 11:31:34 UTC,,,,,
+2704661,PullRequestEvent,fusesource_hawtjni,2018-04-25 11:34:33 UTC,,,,,
+2724930,PullRequestEvent,fusesource_hawtjni,2018-04-24 20:29:48 UTC,,,,,
+2818020,PullRequestEvent,fusesource_hawtjni,2018-02-20 20:40:31 UTC,,,,,
+2897901,IssueCommentEvent,fusesource_hawtjni,2018-08-28 04:01:58 UTC,,,,,
+3205592,IssueCommentEvent,fusesource_hawtjni,2018-05-28 22:04:58 UTC,,,,,
+3426338,IssueCommentEvent,fusesource_hawtjni,2018-09-03 09:14:06 UTC,,,,,
+3715438,IssueCommentEvent,fusesource_hawtjni,2018-07-25 21:08:43 UTC,,,,,
+4318992,IssueCommentEvent,fusesource_hawtjni,2018-06-13 13:03:56 UTC,,,,,
+4485632,IssueCommentEvent,fusesource_hawtjni,2018-11-12 11:43:34 UTC,,,,,
+4523987,IssueCommentEvent,fusesource_hawtjni,2018-09-05 05:06:39 UTC,,,,,
+4833162,PullRequestReviewCommentEvent,fusesource_hawtjni,2018-08-29 18:04:03 UTC,,,,,
+54786,ForkEvent,fusesource_hawtjni,2019-12-15 09:56:58 UTC,,,,,
+144422,ForkEvent,fusesource_hawtjni,2019-09-16 15:14:35 UTC,,,,,
+179988,ForkEvent,fusesource_hawtjni,2019-05-07 06:29:52 UTC,,,,,
+181439,ForkEvent,fusesource_hawtjni,2019-05-02 22:31:44 UTC,,,,,
+356053,ForkEvent,fusesource_hawtjni,2019-02-15 23:17:23 UTC,,,,,
+419376,PushEvent,fusesource_hawtjni,2019-04-02 16:18:23 UTC,,,,,
+429135,PushEvent,fusesource_hawtjni,2019-11-14 08:40:44 UTC,,,,,
+433400,PushEvent,fusesource_hawtjni,2019-04-02 08:16:36 UTC,,,,,
+554085,PushEvent,fusesource_hawtjni,2019-04-02 07:07:07 UTC,,,,,
+597580,PushEvent,fusesource_hawtjni,2019-04-02 08:20:54 UTC,,,,,
+640349,PushEvent,fusesource_hawtjni,2019-04-02 16:26:28 UTC,,,,,
+670796,PushEvent,fusesource_hawtjni,2019-04-02 08:09:29 UTC,,,,,
+684822,PushEvent,fusesource_hawtjni,2019-04-02 18:20:02 UTC,,,,,
+691432,PushEvent,fusesource_hawtjni,2019-04-02 09:11:01 UTC,,,,,
+742314,PushEvent,fusesource_hawtjni,2019-04-02 08:22:56 UTC,,,,,
+918063,PushEvent,fusesource_hawtjni,2019-04-02 08:21:41 UTC,,,,,
+984429,PushEvent,fusesource_hawtjni,2019-04-03 11:16:12 UTC,,,,,
+1226213,WatchEvent,fusesource_hawtjni,2019-04-08 09:29:25 UTC,,,,,
+1242851,WatchEvent,fusesource_hawtjni,2019-02-11 15:01:47 UTC,,,,,
+1290008,WatchEvent,fusesource_hawtjni,2019-08-16 02:14:35 UTC,,,,,
+1305202,WatchEvent,fusesource_hawtjni,2019-04-10 17:22:56 UTC,,,,,
+1306268,WatchEvent,fusesource_hawtjni,2019-09-23 07:03:27 UTC,,,,,
+1492134,WatchEvent,fusesource_hawtjni,2019-02-27 02:51:21 UTC,,,,,
+1501241,WatchEvent,fusesource_hawtjni,2019-04-21 12:43:50 UTC,,,,,
+1526349,WatchEvent,fusesource_hawtjni,2019-02-16 16:24:21 UTC,,,,,
+1627670,WatchEvent,fusesource_hawtjni,2019-03-02 01:16:40 UTC,,,,,
+1645684,WatchEvent,fusesource_hawtjni,2019-10-23 14:55:06 UTC,,,,,
+1652606,WatchEvent,fusesource_hawtjni,2020-01-02 12:03:09 UTC,,,,,
+1739313,WatchEvent,fusesource_hawtjni,2019-02-03 22:32:28 UTC,,,,,
+1757233,WatchEvent,fusesource_hawtjni,2019-06-27 16:12:36 UTC,,,,,
+1776690,WatchEvent,fusesource_hawtjni,2019-10-18 02:35:25 UTC,,,,,
+1781193,WatchEvent,fusesource_hawtjni,2019-02-27 21:12:36 UTC,,,,,
+1850306,WatchEvent,fusesource_hawtjni,2019-11-21 17:39:16 UTC,,,,,
+1937076,WatchEvent,fusesource_hawtjni,2019-12-29 13:40:39 UTC,,,,,
+2047476,WatchEvent,fusesource_hawtjni,2019-07-08 06:03:34 UTC,,,,,
+2089343,WatchEvent,fusesource_hawtjni,2019-11-26 02:33:00 UTC,,,,,
+2146299,WatchEvent,fusesource_hawtjni,2019-10-09 08:16:56 UTC,,,,,
+2229305,WatchEvent,fusesource_hawtjni,2019-12-04 02:00:16 UTC,,,,,
+2258419,WatchEvent,fusesource_hawtjni,2019-08-02 16:03:38 UTC,,,,,
+2290792,WatchEvent,fusesource_hawtjni,2019-04-16 14:02:26 UTC,,,,,
+2304202,CreateEvent,fusesource_hawtjni,2019-04-02 08:31:14 UTC,,,,,
+2352589,CreateEvent,fusesource_hawtjni,2019-06-20 09:02:10 UTC,,,,,
+2517874,IssuesEvent,fusesource_hawtjni,2019-04-01 11:12:30 UTC,,,,,
+2588291,IssuesEvent,fusesource_hawtjni,2020-01-08 17:34:09 UTC,,,,,
+2668046,IssuesEvent,fusesource_hawtjni,2019-04-02 16:04:10 UTC,,,,,
+2679702,IssuesEvent,fusesource_hawtjni,2019-04-02 08:32:23 UTC,,,,,
+2731837,IssuesEvent,fusesource_hawtjni,2019-05-03 06:20:53 UTC,,,,,
+2738826,IssuesEvent,fusesource_hawtjni,2019-07-18 09:19:34 UTC,,,,,
+2783219,IssuesEvent,fusesource_hawtjni,2019-04-02 16:04:27 UTC,,,,,
+2793368,IssuesEvent,fusesource_hawtjni,2019-04-02 07:07:29 UTC,,,,,
+2795031,IssuesEvent,fusesource_hawtjni,2019-09-23 23:29:55 UTC,,,,,
+2796597,IssuesEvent,fusesource_hawtjni,2019-04-02 07:07:06 UTC,,,,,
+2809827,IssuesEvent,fusesource_hawtjni,2019-04-02 08:29:22 UTC,,,,,
+2832788,IssuesEvent,fusesource_hawtjni,2019-04-02 08:29:10 UTC,,,,,
+2849245,IssuesEvent,fusesource_hawtjni,2019-11-22 16:32:49 UTC,,,,,
+2917791,IssuesEvent,fusesource_hawtjni,2019-04-02 16:16:57 UTC,,,,,
+3061266,PullRequestEvent,fusesource_hawtjni,2019-04-02 08:21:40 UTC,,,,,
+3075506,PullRequestEvent,fusesource_hawtjni,2019-04-02 08:16:35 UTC,,,,,
+3158088,PullRequestEvent,fusesource_hawtjni,2019-04-02 16:18:23 UTC,,,,,
+3211164,PullRequestEvent,fusesource_hawtjni,2019-04-02 08:20:52 UTC,,,,,
+3290894,PullRequestEvent,fusesource_hawtjni,2019-04-29 14:34:50 UTC,,,,,
+3293265,PullRequestEvent,fusesource_hawtjni,2019-04-02 09:11:01 UTC,,,,,
+3376067,PullRequestEvent,fusesource_hawtjni,2019-10-23 16:11:57 UTC,,,,,
+3384438,PullRequestEvent,fusesource_hawtjni,2019-09-16 15:32:24 UTC,,,,,
+3423444,PullRequestEvent,fusesource_hawtjni,2019-04-02 08:09:29 UTC,,,,,
+3552075,IssueCommentEvent,fusesource_hawtjni,2019-04-02 16:16:57 UTC,,,,,
+3568732,IssueCommentEvent,fusesource_hawtjni,2019-05-02 12:32:17 UTC,,,,,
+3579366,IssueCommentEvent,fusesource_hawtjni,2019-02-26 07:02:31 UTC,,,,,
+3613531,IssueCommentEvent,fusesource_hawtjni,2019-04-02 16:18:53 UTC,,,,,
+3746246,IssueCommentEvent,fusesource_hawtjni,2019-04-02 18:20:22 UTC,,,,,
+3772252,IssueCommentEvent,fusesource_hawtjni,2019-11-14 12:12:40 UTC,,,,,
+3897212,IssueCommentEvent,fusesource_hawtjni,2019-05-14 15:32:04 UTC,,,,,
+3898035,IssueCommentEvent,fusesource_hawtjni,2019-05-14 14:40:42 UTC,,,,,
+3969943,IssueCommentEvent,fusesource_hawtjni,2019-09-11 07:00:51 UTC,,,,,
+4109176,IssueCommentEvent,fusesource_hawtjni,2019-05-15 11:10:39 UTC,,,,,
+4120985,IssueCommentEvent,fusesource_hawtjni,2019-04-02 08:24:50 UTC,,,,,
+4140594,IssueCommentEvent,fusesource_hawtjni,2019-11-14 07:59:51 UTC,,,,,
+4217533,IssueCommentEvent,fusesource_hawtjni,2019-05-13 12:41:00 UTC,,,,,
+4270035,IssueCommentEvent,fusesource_hawtjni,2019-06-28 10:45:22 UTC,,,,,
+4375520,IssueCommentEvent,fusesource_hawtjni,2019-11-15 10:58:19 UTC,,,,,
+4504182,IssueCommentEvent,fusesource_hawtjni,2019-11-14 12:44:38 UTC,,,,,
+4514943,IssueCommentEvent,fusesource_hawtjni,2019-04-02 16:16:21 UTC,,,,,
+4557840,IssueCommentEvent,fusesource_hawtjni,2019-05-30 18:55:03 UTC,,,,,
+4732747,IssueCommentEvent,fusesource_hawtjni,2019-05-15 17:32:32 UTC,,,,,
+4735639,IssueCommentEvent,fusesource_hawtjni,2019-04-03 07:49:53 UTC,,,,,
+4748710,IssueCommentEvent,fusesource_hawtjni,2019-05-15 14:15:09 UTC,,,,,
+4791902,IssueCommentEvent,fusesource_hawtjni,2019-06-11 12:26:50 UTC,,,,,
+4805951,IssueCommentEvent,fusesource_hawtjni,2019-11-14 09:17:57 UTC,,,,,
+4815667,IssueCommentEvent,fusesource_hawtjni,2019-04-02 18:21:12 UTC,,,,,
+4818424,IssueCommentEvent,fusesource_hawtjni,2019-04-02 08:24:30 UTC,,,,,
+4861637,IssueCommentEvent,fusesource_hawtjni,2019-05-03 06:20:53 UTC,,,,,
+4918269,IssueCommentEvent,fusesource_hawtjni,2019-09-11 06:12:57 UTC,,,,,
+5025551,IssueCommentEvent,fusesource_hawtjni,2019-05-15 17:21:41 UTC,,,,,
+5093230,IssueCommentEvent,fusesource_hawtjni,2019-11-14 09:03:49 UTC,,,,,
+5172854,IssueCommentEvent,fusesource_hawtjni,2019-04-02 08:32:23 UTC,,,,,
+5176528,IssueCommentEvent,fusesource_hawtjni,2019-04-02 18:21:51 UTC,,,,,
+5196554,IssueCommentEvent,fusesource_hawtjni,2019-05-15 18:59:42 UTC,,,,,
+5255421,IssueCommentEvent,fusesource_hawtjni,2019-09-11 06:55:50 UTC,,,,,
+5305769,IssueCommentEvent,fusesource_hawtjni,2019-08-23 10:31:27 UTC,,,,,
+5305919,IssueCommentEvent,fusesource_hawtjni,2019-11-14 08:50:59 UTC,,,,,
+5550723,IssueCommentEvent,fusesource_hawtjni,2019-05-14 14:39:27 UTC,,,,,
+5664270,PullRequestReviewCommentEvent,fusesource_hawtjni,2019-06-18 11:02:55 UTC,,,,,
+5709544,PullRequestReviewCommentEvent,fusesource_hawtjni,2019-06-18 11:13:08 UTC,,,,,
+5710108,PullRequestReviewCommentEvent,fusesource_hawtjni,2019-07-04 12:50:51 UTC,,,,,
+5753520,PullRequestReviewCommentEvent,fusesource_hawtjni,2019-06-11 14:43:59 UTC,,,,,
+5790279,PullRequestReviewCommentEvent,fusesource_hawtjni,2019-07-01 11:56:07 UTC,,,,,
+5812875,PullRequestReviewCommentEvent,fusesource_hawtjni,2019-06-11 14:43:17 UTC,,,,,
+5819840,PullRequestReviewCommentEvent,fusesource_hawtjni,2019-06-18 11:14:12 UTC,,,,,
+5956707,PullRequestReviewCommentEvent,fusesource_hawtjni,2019-07-08 10:52:29 UTC,,,,,
+6015158,PullRequestReviewCommentEvent,fusesource_hawtjni,2019-06-18 11:16:05 UTC,,,,,
+6097557,PullRequestReviewCommentEvent,fusesource_hawtjni,2019-07-08 11:43:17 UTC,,,,,
+6122158,PullRequestReviewCommentEvent,fusesource_hawtjni,2019-07-01 11:51:59 UTC,,,,,
+0,Commit,fusesource_hawtjni,2020-12-13 22:41:09,f3843d0326d6b64cd749197b2d11661c1f1dc6e9,11.0,1.0,1.0,0.0
+1,Commit,fusesource_hawtjni,2020-12-02 07:04:44,3544da84f57cb6bc096ef48d1fef0b877313983a,1.0,1.0,1.0,0.0
+2,Commit,fusesource_hawtjni,2020-10-21 11:47:22,79cf72643f6b6895f1529bbbe20e0d7a7ed1806a,6.0,6.0,5.0,0.0
+3,Commit,fusesource_hawtjni,2020-10-21 11:47:22,d22bd004391c531a95e3a607b46f6089bd96b5d3,7.0,7.0,5.0,0.0
+4,Commit,fusesource_hawtjni,2020-10-21 11:26:21,82496369ac07d4ff69643fa346eb8db07fd77446,18.0,0.0,1.0,0.0
+5,Commit,fusesource_hawtjni,2020-10-21 11:06:18,84606dacef9bced4d21c2d47bb641b2737738ceb,1.0,1.0,1.0,0.0
+6,Commit,fusesource_hawtjni,2020-05-07 13:51:47,2976527a43ec256c98c383110d436bba7aff8c9c,16.0,0.0,1.0,0.0
+7,Commit,fusesource_hawtjni,2020-05-05 14:16:43,c00e2d22b4dfa105d31754bf044874845d7cacb5,76.0,28.0,8.0,0.0
+8,Commit,fusesource_hawtjni,2020-05-05 08:56:48,d145a1dea37bbd8f98c9f1e6f21d756f849d7979,2.0,7.0,1.0,0.0
+9,Commit,fusesource_hawtjni,2020-05-05 08:48:02,8ee5b2113069399c79610a1de6e01af7d5ae8c45,573.0,547.0,8.0,0.0
+10,Commit,fusesource_hawtjni,2020-05-05 08:46:39,d1f14926156d103357e7761c4182085b27e7c663,4.0,2.0,2.0,0.0
+11,Commit,fusesource_hawtjni,2020-03-08 11:39:16,b7277aff8f3b01c1c462ede437efb3a4a33973ff,5.0,4.0,2.0,0.0
+12,Commit,fusesource_hawtjni,2019-11-14 08:40:34,c14fec00b9976ff6b84e62e483d678594a7d3832,1.0,1.0,1.0,0.0
+13,Commit,fusesource_hawtjni,2019-10-23 16:08:13,2c64ed4134de9b3cefd9423382a59f60c8f3ad25,5.0,0.0,1.0,0.0
+14,Commit,fusesource_hawtjni,2019-09-16 15:31:30,e7806ff89508fce6a61c300ea9a16992324c0ce1,1.0,0.0,1.0,0.0
+15,Commit,fusesource_hawtjni,2019-04-03 11:17:18,fd0b7c81aa1d6d891651c8f179c29c75d493b4c4,6.0,6.0,5.0,0.0
+16,Commit,fusesource_hawtjni,2019-04-03 11:17:18,bb3bdf972b18630cfbc13f890447e0b019719815,6.0,6.0,5.0,0.0
+17,Commit,fusesource_hawtjni,2019-04-03 11:16:05,b47586a02caa6ff3705b23abbca12ffe69193b66,35.0,0.0,1.0,0.0
+18,Commit,fusesource_hawtjni,2019-04-02 18:19:51,1c4a17b31bf988f99df6da7085f86829b935c342,37.0,101.0,4.0,0.0
+19,Commit,fusesource_hawtjni,2019-04-02 16:26:19,d3f9d0ab71fd25d8d6f6eb9c3de6c6b47ddae92e,1.0,1.0,1.0,0.0
+20,Commit,fusesource_hawtjni,2019-04-02 16:04:56,906aa158c24d3603aca6f3766b7fa0da306d23d6,0.0,0.0,0.0,0.0
+21,Commit,fusesource_hawtjni,2019-04-02 15:57:34,c5130eb900279531f67d4734ccf1ad2f2ad95a70,1.0,1.0,1.0,0.0
+22,Commit,fusesource_hawtjni,2019-04-02 15:54:37,9d38df2f4a25ee55fbb0dc921fb2004b33c59541,0.0,0.0,0.0,0.0
+23,Commit,fusesource_hawtjni,2019-04-02 09:07:00,1c42406ec55ed1955d2fc573e3002e5fa557c984,0.0,0.0,0.0,0.0
+24,Commit,fusesource_hawtjni,2019-04-02 08:22:48,55afd361a8fe44d4d6126de30b279c5b941894ba,1.0,1.0,1.0,0.0
+25,Commit,fusesource_hawtjni,2019-04-02 08:09:08,ec9cc6c3ce72b7fcd99d356f1abbc0f36fbb9a29,0.0,0.0,0.0,0.0
+26,Commit,fusesource_hawtjni,2019-04-02 07:06:51,bd514b71878415e7091b914420a291310de3ec30,90.0,2.0,1.0,0.0
+27,Commit,fusesource_hawtjni,2019-04-02 07:06:12,40e0b2f27a2218b4d10ae3989a4ed74bcf40562d,2.0,2.0,1.0,0.0
+28,Commit,fusesource_hawtjni,2019-01-31 14:19:51,bc3f187087a043caa6737a78c10f982159bd8c2c,2.0,1.0,1.0,0.0
+29,Commit,fusesource_hawtjni,2018-10-17 10:58:28,8f464d07bc9a807acf33f0f2e355065471f15235,150.0,34.0,8.0,0.0
+30,Commit,fusesource_hawtjni,2018-10-17 10:58:28,5f52fee5720c5cbeeaae71cfaa90611bcba56e8d,24.0,10.0,1.0,0.0
+31,Commit,fusesource_hawtjni,2018-10-17 10:58:28,2b88a8f56fdbbf0e71b213f15b333a681e7dc72f,3.0,2.0,1.0,0.0
+32,Commit,fusesource_hawtjni,2018-10-17 10:58:28,235f0b985acba4559cfda588a0312287f9420791,2.0,2.0,1.0,0.0
+33,Commit,fusesource_hawtjni,2018-07-04 20:03:00,f29f84960133e5a5740bcd6b6120b8bb7f172f0d,14.0,3.0,1.0,0.0
+34,Commit,fusesource_hawtjni,2018-05-24 05:48:36,1c2d511d970ad07924ebdbb1e8566fb56e2edf6c,60.0,3.0,5.0,0.0
+35,Commit,fusesource_hawtjni,2018-05-12 15:21:32,7a6082faed85ea73945065466e68ad6035cf724d,1.0,1.0,1.0,0.0
+36,Commit,fusesource_hawtjni,2018-05-12 15:16:13,35c061ca7ffedb11fa52a18c8c087a41bbb5cd88,3.0,2.0,1.0,0.0
+37,Commit,fusesource_hawtjni,2018-04-25 10:58:36,6c1f140970a59727a102b8ee2daef909eb991b78,69.0,6.0,3.0,0.0
+38,Commit,fusesource_hawtjni,2018-04-24 20:24:51,98b1531628f236aa9a68fd49b67ac09f1b547868,2.0,1.0,1.0,0.0
+39,Commit,fusesource_hawtjni,2018-04-24 20:24:19,a103c50b1b1b357d6a5d932cac7ebc599bb0d16b,4.0,4.0,1.0,0.0
+40,Commit,fusesource_hawtjni,2018-04-24 20:23:45,6f891af96768e77f5e800fd0f723712b87e30735,13.0,9.0,2.0,0.0
+41,Commit,fusesource_hawtjni,2018-02-20 20:39:25,2c7134b4ee612af788d8486181459580811ba1d6,1.0,1.0,1.0,0.0
+42,Commit,fusesource_hawtjni,2018-02-09 00:03:14,c1a4219a9ac6e36fc58c4f15f8d8ac087ed76fd9,2.0,2.0,2.0,0.0
+43,Commit,fusesource_hawtjni,2018-02-02 08:17:51,f946c7aba451f3f69facdf37d458100c7e15f9d9,6.0,6.0,5.0,0.0
+44,Commit,fusesource_hawtjni,2018-02-02 08:17:51,fa1fd5dfdd0a1a5a67b61fa7d7ee7126b300c8f0,6.0,6.0,5.0,0.0
+45,Commit,fusesource_hawtjni,2017-12-05 23:47:16,2e99592f7be976a935beeed7d7395d4a5787e04e,20.0,18.0,6.0,0.0
+46,Commit,fusesource_hawtjni,2017-12-05 23:32:32,14f1d0564d6e2c71c74288e537fcfa4acf7f4c18,23.0,77.0,19.0,0.0
+47,Commit,fusesource_hawtjni,2017-12-04 10:37:49,743d57b25337dc1e0b5dcfc7dce63b15a4433f78,109.0,164.0,6.0,0.0
+48,Commit,fusesource_hawtjni,2017-12-04 08:42:14,4a42ee611ad66c71a6d4b32d41b78ca02ca225e4,29.0,5.0,1.0,0.0
+49,Commit,fusesource_hawtjni,2017-12-04 08:31:47,45e8a557788a8dbf9fd134df6f8e99f456e3324f,15.0,0.0,5.0,0.0
+50,Commit,fusesource_hawtjni,2017-07-31 17:38:07,f0c3b547aeecd508498871583595ab7adff54ea3,1.0,1.0,1.0,0.0
+51,Commit,fusesource_hawtjni,2017-05-04 13:20:08,11ae58ce9f2b69da4ff5a128cf977e9a8060e71a,7.0,7.0,5.0,0.0
+52,Commit,fusesource_hawtjni,2017-05-04 13:20:08,b667408bb3951ac40e0ef54d292075d9a1f0dab4,7.0,7.0,5.0,0.0
+53,Commit,fusesource_hawtjni,2017-05-02 09:16:26,7537b9d19be9806b210674ccad4b96d90a11d50b,74.0,12.0,1.0,0.0
+54,Commit,fusesource_hawtjni,2017-04-27 16:33:41,906cedb80b9661d0ea08f524fb464243610653a9,29.0,24.0,1.0,0.0
+55,Commit,fusesource_hawtjni,2017-04-27 13:32:10,ed95784f9a4d3ed1afb0a14bd3dccc815d3e3cbe,101.0,73.0,1.0,0.0
+56,Commit,fusesource_hawtjni,2017-04-27 11:58:45,477c8ccac78c3695ebcf6299d8b201adb3394d34,4.0,4.0,2.0,0.0
+57,Commit,fusesource_hawtjni,2017-04-27 07:42:21,58834e835c6f196f6188c6f35aa9c349db610d84,15.0,10.0,4.0,0.0
+58,Commit,fusesource_hawtjni,2017-04-26 20:14:43,992ee3fa28f30823913fe95a790fe3a08d19bdf3,4.0,3.0,1.0,0.0
+59,Commit,fusesource_hawtjni,2017-04-26 12:13:53,6b58328635bd181c18048387aa7d83fda51d5be8,12.0,10.0,2.0,0.0
+60,Commit,fusesource_hawtjni,2017-04-26 12:12:49,916515413152d2b25268d0f813c1f0f411388b3a,0.0,0.0,0.0,0.0
+61,Commit,fusesource_hawtjni,2017-04-26 12:11:37,1cb6770dc7348958d96b38d8d0b1f4b065f43da5,0.0,0.0,0.0,0.0
+62,Commit,fusesource_hawtjni,2017-04-26 10:16:25,4c430c6d4454b37e035c1fb7ae284b8d3ac99c03,0.0,0.0,0.0,0.0
+63,Commit,fusesource_hawtjni,2017-04-26 10:11:21,f99972b7892fd621dca1442b8c8f3234edd4b02f,26.0,9.0,1.0,0.0
+64,Commit,fusesource_hawtjni,2017-04-26 09:21:16,1c5b81fb386f74e47e776f3ba2775d15003f2ae9,25.0,5.0,2.0,0.0
+65,Commit,fusesource_hawtjni,2017-04-26 09:08:55,ef3437cde117c04793d773b25bd0627e5e260e66,4.0,3.0,1.0,0.0
+66,Commit,fusesource_hawtjni,2017-04-14 08:31:07,0072848253e100c98745725bdf5224e63103fad7,2.0,2.0,1.0,0.0
+67,Commit,fusesource_hawtjni,2017-04-14 08:27:50,c6fb9149b43292564bbc854d9942d4898a7f728d,0.0,7.0,4.0,0.0
+68,Commit,fusesource_hawtjni,2017-04-14 08:24:39,145f3ee50204c8b8f8ae728cc91533dd19424d7d,31.0,11.0,3.0,0.0
+69,Commit,fusesource_hawtjni,2017-03-18 14:27:42,81a35e1a923bb1c7b0e6ffbdd66a08c83e119324,31.0,12.0,2.0,0.0
+70,Commit,fusesource_hawtjni,2017-03-13 09:30:40,b3982d573b04878918aebe5435a5f64af6a4401f,1.0,1.0,1.0,0.0
+71,Commit,fusesource_hawtjni,2017-03-13 09:27:55,cb2ad85bc551e1628be25181acd6f9e97e04afab,0.0,0.0,0.0,0.0
+72,Commit,fusesource_hawtjni,2017-03-05 14:07:53,cd20329a801e5d904d7a43c46d3cb150b4767b66,43.0,60.0,6.0,0.0
+73,Commit,fusesource_hawtjni,2016-06-20 17:13:55,401ce1cc6f053fccae386977b695ae7a5948ef4d,3.0,6.0,1.0,0.0
+74,Commit,fusesource_hawtjni,2016-06-20 17:05:42,a73fc165306a139e8cbb82f9dc28002c05d6d206,0.0,0.0,0.0,0.0
+75,Commit,fusesource_hawtjni,2016-06-20 17:03:47,098c501c90feb20749105840eaca1f51fbae2559,1.0,10.0,1.0,0.0
+76,Commit,fusesource_hawtjni,2016-06-20 17:00:11,40f9f23b4839941e217a8415eb9799aa539e0e36,0.0,0.0,0.0,0.0
+77,Commit,fusesource_hawtjni,2016-06-20 16:53:51,2952e02d76200e0e1696439b24f5f6d14d78017c,14.0,14.0,5.0,0.0
+78,Commit,fusesource_hawtjni,2016-06-20 16:53:51,4fe6124f8c372729b56cae4fa41527875dccf0cc,14.0,14.0,5.0,0.0
+79,Commit,fusesource_hawtjni,2016-06-20 15:39:54,e2522b0ddd9f8975dc3a1cc99534ea458b807ddd,0.0,0.0,0.0,0.0
+80,Commit,fusesource_hawtjni,2016-06-13 12:49:50,6dc93fe4c3b67e68d9805b6f0cc7f2b7c36d5b06,2.0,1.0,1.0,0.0
+81,Commit,fusesource_hawtjni,2016-04-26 16:49:01,63f30efd3fedc887502b4fb6b981940c15e3f533,14.0,14.0,5.0,0.0
+82,Commit,fusesource_hawtjni,2016-04-26 16:49:00,2bf037649f8fc2ff3a36283c0856d3cbac89d9a9,14.0,14.0,5.0,0.0
+83,Commit,fusesource_hawtjni,2016-04-26 16:45:50,2d493076d264f6d8e2ac81ada4da4fcd78b2dabf,10.0,5.0,1.0,0.0
+84,Commit,fusesource_hawtjni,2016-04-26 13:29:34,ae4d50d99ae4f04220fba75d4c98f7f0b69d92a9,14.0,14.0,5.0,0.0
+85,Commit,fusesource_hawtjni,2016-04-26 13:29:34,53287ef1d40d2994c865a3075cde9b99b78ce69d,14.0,14.0,5.0,0.0
+86,Commit,fusesource_hawtjni,2016-04-26 13:27:59,70f24ba7438a698d8e1e0de599b304774e01f5d4,2.0,0.0,1.0,0.0
+87,Commit,fusesource_hawtjni,2016-04-26 13:17:39,ef931527b4ca915a53c59eb6f6ef0222f8cf3c12,10.0,12.0,1.0,0.0
+88,Commit,fusesource_hawtjni,2015-12-22 12:48:02,61ac6525a42117f0ea8820417d00616ef7f27452,34.0,5.0,1.0,0.0
+89,Commit,fusesource_hawtjni,2015-04-21 14:38:57,d83f39cb37c0dfbd207d2419a8d1969d3f18a0b8,16.0,16.0,6.0,0.0
+90,Commit,fusesource_hawtjni,2015-04-21 14:38:57,4be4abb4c9cc79093db248697f9f4f11d3ce742a,16.0,15.0,6.0,0.0
+91,Commit,fusesource_hawtjni,2015-04-21 14:37:28,e1da91aec68eda9f40350b062c4fed4e75fb4cb1,2.0,2.0,2.0,0.0
+92,Commit,fusesource_hawtjni,2015-04-21 14:24:00,354e2773cfb60008fd7500eef52ea7de8e9bb74a,2.0,0.0,1.0,0.0
+93,Commit,fusesource_hawtjni,2015-04-21 14:22:39,08cfdd0995bb298d88e87d559d2ce39018e6b509,1.0,1.0,1.0,0.0
+94,Commit,fusesource_hawtjni,2015-04-18 01:27:58,86e97d161d956009bbc92f2913dd570ece2ec3da,0.0,0.0,0.0,0.0
+95,Commit,fusesource_hawtjni,2015-04-17 22:15:59,1e2ee6330f6832a374e29b78a1fff2df62d4a52c,9.0,0.0,1.0,0.0
+96,Commit,fusesource_hawtjni,2014-10-07 20:41:50,d10c4b0914301810297f0f917ce3dba3e8868ff1,0.0,0.0,0.0,0.0
+97,Commit,fusesource_hawtjni,2014-10-07 19:30:26,3d3aa0be17cc8d35e251ea3594b1e684ce919d0d,3.0,0.0,1.0,0.0
+98,Commit,fusesource_hawtjni,2014-08-05 21:49:29,ee34079feb6ba2b29a208eeacd8980ae0d30404c,8.0,4.0,1.0,0.0
+99,Commit,fusesource_hawtjni,2014-08-05 21:11:08,2a8f2018ae035fc4507374e5adb5cc73b4026108,2.0,0.0,1.0,0.0
+100,Commit,fusesource_hawtjni,2014-08-05 17:37:30,288529a275213ac5ea339c2c6cfcc6f363c8a027,13.0,0.0,2.0,0.0
+101,Commit,fusesource_hawtjni,2014-08-04 15:07:31,8c2853238e31b6e92f61fbdeda84314e5a529254,0.0,0.0,0.0,0.0
+102,Commit,fusesource_hawtjni,2014-08-03 20:45:19,c10adf5139969f1bfa6cb6e8dd6af204d64280a9,11.0,11.0,4.0,0.0
+103,Commit,fusesource_hawtjni,2014-04-11 20:53:20,aed6cbd06b4579170617dae7146ec9c61b70d82c,13.0,0.0,2.0,0.0
+104,Commit,fusesource_hawtjni,2014-02-12 15:02:44,efa684c0a87136f16b0bca67bc518ee9bf698f85,1.0,0.0,1.0,0.0
+105,Commit,fusesource_hawtjni,2014-02-12 15:02:35,18cb7e5d98e0edf687ba2d02c724c36d631e9f65,15.0,15.0,6.0,0.0
+106,Commit,fusesource_hawtjni,2014-02-12 12:42:30,f3bd38e1d83a5563c63b1bbebadf0c77c1fb54b8,1.0,1.0,1.0,0.0
+107,Commit,fusesource_hawtjni,2014-02-12 12:40:11,175faf07fbc2ec1c42582d0b935bb05fd46fc33f,0.0,0.0,0.0,0.0
+108,Commit,fusesource_hawtjni,2014-02-12 06:35:49,b3f8609c6682bda6d6c112c2e19c0c6cdc6dcfc6,22.0,3.0,1.0,0.0
+109,Commit,fusesource_hawtjni,2013-12-02 15:04:13,c27b5a0c4640bce9437488275b0d8c360c45c1e6,1.0,0.0,1.0,0.0
+110,Commit,fusesource_hawtjni,2013-12-02 14:52:10,c1980ef32387547b0a5bba408abb00cbceaf6705,13.0,6.0,1.0,0.0
+111,Commit,fusesource_hawtjni,2013-09-09 16:33:28,5cbc5f9828868a3cbfd3383ac2d1945791e60693,15.0,15.0,6.0,0.0
+112,Commit,fusesource_hawtjni,2013-09-09 16:33:27,8408e22956683b7a286a8094f27825e4146d73ab,15.0,15.0,6.0,0.0
+113,Commit,fusesource_hawtjni,2013-09-09 16:31:57,ac04ce3a35516ff05a1b65920b0151ea1ec42c20,48.0,1.0,2.0,0.0
+114,Commit,fusesource_hawtjni,2013-09-09 16:10:56,1d27b2f1396920be7fce0be8b1995ac0459c69ef,6.0,10.0,3.0,0.0
+115,Commit,fusesource_hawtjni,2013-09-09 15:31:08,d9cd0ab660ac5acbdc5f84c806ba14b77e197385,21.0,0.0,2.0,0.0
+116,Commit,fusesource_hawtjni,2013-05-13 12:53:45,ae07fd27f586684f45db37cb9349704b397a3aff,15.0,15.0,6.0,0.0
+117,Commit,fusesource_hawtjni,2013-05-13 12:53:44,5bf6cf854cda22ed1bbfb73f1002a599dd3c9b11,15.0,15.0,6.0,0.0
+118,Commit,fusesource_hawtjni,2013-05-13 12:52:12,b4d6737fc798bbcc3deb39d8ef9c0a579a173afb,3.0,2.0,1.0,0.0
+119,Commit,fusesource_hawtjni,2013-05-13 12:50:51,83b9684d8aeb4d113a4eb2b2491f01ea027b6715,95.0,2.0,4.0,0.0
+120,Commit,fusesource_hawtjni,2013-05-13 12:41:14,92c266170ce98edc200c656bd034a237098b8aa5,29.0,50.0,1.0,1.0
+121,Commit,fusesource_hawtjni,2013-03-20 16:02:11,357bb279b0c8c67b7d357c1363efe86870ad9a81,15.0,15.0,6.0,0.0
+122,Commit,fusesource_hawtjni,2013-03-20 16:02:11,239e0e0ebf294b95ce5573efec2dc598f8537c04,15.0,15.0,6.0,0.0
+123,Commit,fusesource_hawtjni,2013-03-20 16:00:23,52f20321338275da4ceef3419cc7898c6a76156d,1.0,1.0,1.0,0.0
+124,Commit,fusesource_hawtjni,2013-03-20 15:51:55,890bae386bef6cba8680007aa401d50814be5b92,0.0,0.0,0.0,0.0
+125,Commit,fusesource_hawtjni,2013-03-20 15:51:28,3567b1d89d458bddb651df252f3bb275c9076e1a,54.0,4.0,2.0,0.0
+126,Commit,fusesource_hawtjni,2012-12-27 13:28:38,c1e105952369481e46c17d084218fb6a62545fd1,0.0,0.0,0.0,0.0
+127,Commit,fusesource_hawtjni,2012-12-21 23:29:21,d566bf7de5d6a67fa7c7b3e04352ca2630fb55fe,3.0,2.0,1.0,0.0
+128,Commit,fusesource_hawtjni,2012-08-09 14:42:51,373da49d3570f15351f2f84ba61f2faa09bd6063,15.0,15.0,6.0,0.0
+129,Commit,fusesource_hawtjni,2012-08-09 14:42:51,5bf7ab637e5867d8929ee37b8d0f08ce94031c2f,15.0,15.0,6.0,0.0
+130,Commit,fusesource_hawtjni,2012-08-09 14:32:40,5b10ae8a36af15a8c96bab4a30c08dd19568c5e8,101.0,13.0,4.0,0.0
+131,Commit,fusesource_hawtjni,2012-08-02 16:27:02,11df668cb0d1269c0f98d9c09d80c56cf0770421,33.0,10.0,3.0,0.0
+132,Commit,fusesource_hawtjni,2012-02-24 17:33:41,f0e3ace6422e5c5413445229ac79d27f68b1485b,70.0,23.0,6.0,0.0
+133,Commit,fusesource_hawtjni,2011-09-21 16:20:32,369b4d39c232888ce7343cf348c0db37b23bfad2,15.0,15.0,6.0,0.0
+134,Commit,fusesource_hawtjni,2011-09-21 16:20:30,c70bdbdab20295309005bbe837810d459058838f,15.0,15.0,6.0,0.0
+135,Commit,fusesource_hawtjni,2011-09-21 16:07:19,15d5b1a4c928fb8c39eee0705316478af30704b5,4.0,1.0,1.0,0.0
+136,Commit,fusesource_hawtjni,2011-08-19 01:35:21,cba5aef81e2cbc95bb990a656890fe36a265b090,15.0,15.0,6.0,0.0
+137,Commit,fusesource_hawtjni,2011-08-19 01:35:21,2478d5d1af45fb86cea80be2fd946901e74c9180,15.0,15.0,6.0,0.0
+138,Commit,fusesource_hawtjni,2011-08-19 01:33:12,61ee9bef8f3d21a8d0d60717c12cdddff381017c,54.0,3.0,5.0,0.0
+139,Commit,fusesource_hawtjni,2011-08-18 22:44:04,1369bf19b8118bcd4615b3e767ac359da8ccafe8,80.0,26.0,2.0,0.0
+140,Commit,fusesource_hawtjni,2011-08-18 18:56:25,d1b1079928dbca6762566c4411e14b52dca2c670,9.0,7.0,1.0,0.0
+141,Commit,fusesource_hawtjni,2011-08-12 15:29:00,5b50e7a3c2e8f25ea8cdbc6fc51632257c72c1f6,51.0,11.0,2.0,0.0
+142,Commit,fusesource_hawtjni,2011-08-09 00:13:45,934896baa24c004bfa472ed22cec53d96611d360,5.0,5.0,4.0,0.0
+143,Commit,fusesource_hawtjni,2011-08-08 20:00:43,a309664740568a414fd8d4a48734d04deeed50be,15.0,15.0,6.0,0.0
+144,Commit,fusesource_hawtjni,2011-08-08 20:00:43,96b686e12e04603c66f8fbe036edf9146b8b464f,15.0,15.0,6.0,0.0
+145,Commit,fusesource_hawtjni,2011-08-08 19:58:41,40eacf9a7e190f4336595b810ad9804374ddd69e,65.0,6.0,5.0,0.0
+146,Commit,fusesource_hawtjni,2011-08-08 19:47:17,1258be73d7a9d70ac6e8a172ab7db8a4cd598a9f,1.0,1.0,1.0,0.0
+147,Commit,fusesource_hawtjni,2011-08-08 19:46:58,407d8dd447b3a06d099b063ad6c96d66c43cae32,132.0,75.0,8.0,0.0
+148,Commit,fusesource_hawtjni,2011-08-03 17:49:38,f442c2bdfe1ef21c64f5ec49f4180f78923666fd,80.0,4.0,3.0,0.0
+149,Commit,fusesource_hawtjni,2011-08-02 15:10:12,4200ce05b6e3134769b03328f1130d0767d0327f,5.0,1.0,1.0,0.0
+150,Commit,fusesource_hawtjni,2011-08-01 18:45:24,64b123ecf7fc171ddb716585e69e2ea112b84b5a,8.0,2.0,4.0,0.0
+151,Commit,fusesource_hawtjni,2011-08-01 08:06:22,b63898d78c07c91864fe67cad6a3589105a40553,4.0,3.0,2.0,0.0
+152,Commit,fusesource_hawtjni,2011-07-31 23:59:53,ae7c473080a720f728187615c32a67007c05b666,1.0,1.0,1.0,0.0
+153,Commit,fusesource_hawtjni,2011-07-31 17:43:52,10bfe8503476841f5d301cd4731f062e85ddfb4e,26.0,13.0,1.0,0.0
+154,Commit,fusesource_hawtjni,2011-07-31 17:43:25,3d382f262c7c506842057442a375268a88de9a7a,3.0,0.0,1.0,0.0
+155,Commit,fusesource_hawtjni,2011-07-31 17:42:55,f354a0d41ed41d3f56796fe3b7300009c334d89d,6.0,2.0,1.0,0.0
+156,Commit,fusesource_hawtjni,2011-07-31 04:52:49,260a7e00129e0e54f71645a9bf4da745347decc6,95.0,57.0,9.0,0.0
+157,Commit,fusesource_hawtjni,2011-07-31 03:34:20,dcb889e3bf6e6095861cb427e7abfb6b85bd56a3,29.0,10.0,3.0,0.0
+158,Commit,fusesource_hawtjni,2011-07-31 03:23:14,2f6c5a3f9033ce7646a7b822126769fd88a3ccef,97.0,20.0,8.0,0.0
+159,Commit,fusesource_hawtjni,2011-07-31 03:22:48,0bfa3db8256b5f37d33bfc2de405626d4b804110,12.0,9.0,3.0,0.0
+160,Commit,fusesource_hawtjni,2011-07-31 03:20:45,88ce61801a56f1bdd72025353d160aa33081bfd8,8.0,12.0,2.0,0.0
+161,Commit,fusesource_hawtjni,2011-07-31 03:18:31,388a5c32bd641ea3852bc889b5365b33fc135702,50.0,36.0,1.0,0.0
+162,Commit,fusesource_hawtjni,2011-06-20 03:44:49,ecd4020912ec3869bbb4007d32a7f6408d074ece,6.0,6.0,4.0,0.0
+163,Commit,fusesource_hawtjni,2011-06-20 03:25:41,3c288b3981b8fcfa4d0d0b2f911853571054ff8b,63.0,4.0,6.0,0.0
+164,Commit,fusesource_hawtjni,2011-06-20 03:25:04,629047a026f0465dcf1152c2651d27146645af2b,31.0,0.0,1.0,0.0
+165,Commit,fusesource_hawtjni,2011-06-19 00:11:15,cb1c456233ad2a756d30fd64979d029c46f4299c,22.0,0.0,1.0,0.0
+166,Commit,fusesource_hawtjni,2011-06-19 00:04:26,3bb1bb9dec03f1cbb91d6bc0d43007701e3ab3b5,48.0,21.0,3.0,0.0
+167,Commit,fusesource_hawtjni,2011-06-18 23:29:08,9eb94ad6961c5f99f0192fbb862a7f33ca23fa28,15.0,15.0,6.0,0.0
+168,Commit,fusesource_hawtjni,2011-06-18 23:29:07,3d780cd669b651acf37550aa94f0db29e176c8aa,15.0,15.0,6.0,0.0
+169,Commit,fusesource_hawtjni,2011-06-18 23:22:53,b6b7a0d59d707d8884b2b15b52c10185ce0e3044,56.0,56.0,55.0,0.0
+170,Commit,fusesource_hawtjni,2011-06-18 23:21:16,a515786993acb3675cafcceaef273bbceae7d132,16.0,11.0,2.0,0.0
+171,Commit,fusesource_hawtjni,2011-06-18 23:10:00,a5f2eeb0de82afab6568dd9938ac99c1f5305e10,3.0,3.0,1.0,0.0
+172,Commit,fusesource_hawtjni,2011-06-18 23:08:24,7e307f58026ccb69e046b3fa2ab8615b7d8fbf6d,1747.0,1262.0,79.0,0.0
+173,Commit,fusesource_hawtjni,2011-06-18 11:30:35,98b3a1594ba836aa0d6147a581df6d49ad7c5dc4,3.0,2.0,1.0,0.0
+174,Commit,fusesource_hawtjni,2011-06-18 11:24:20,b0a1acbb1cc50a1bba724a3a885d214d323676c8,0.0,0.0,0.0,0.0
+175,Commit,fusesource_hawtjni,2011-06-18 07:17:51,142c8ef2f217b9ff0102a28803be3db362fa2f0a,1.0,0.0,1.0,0.0
+176,Commit,fusesource_hawtjni,2010-11-04 13:29:16,21fcfe4c1d41c514aaee4322beef30d19720e2ee,5.0,5.0,5.0,0.0
+177,Commit,fusesource_hawtjni,2010-11-04 13:17:44,20836c704e4ed86715f8a7670ca782e2511445ea,13.0,13.0,5.0,0.0
+178,Commit,fusesource_hawtjni,2010-11-04 13:17:44,8fae388685352d6d216a17e613d6528fcdd1482c,13.0,13.0,5.0,0.0
+179,Commit,fusesource_hawtjni,2010-11-04 12:23:27,31a930fbefee9b2019888cc6a9fba4e7604cf08c,14.0,1.0,2.0,0.0
+180,Commit,fusesource_hawtjni,2010-10-29 15:57:01,be9d61abfe1053f65a20fd4d91c9a0ea4d00f1f5,210.0,10.0,4.0,0.0
+181,Commit,fusesource_hawtjni,2010-09-13 14:58:18,30537043819e9ab0282df116c93aee9028a5f415,6.0,129.0,1.0,0.0
+182,Commit,fusesource_hawtjni,2010-09-13 14:32:39,cb169090c509dc1b9f0cea0cec20f08639362491,0.0,0.0,0.0,0.0
+183,Commit,fusesource_hawtjni,2010-08-10 20:40:01,6963a266f6d948494c2c113f8310d7b2f8714909,4.0,4.0,2.0,0.0
+184,Commit,fusesource_hawtjni,2010-07-29 08:43:49,dc39c71813b4bb24133e23936e4211a6882d0932,0.0,0.0,0.0,0.0
+185,Commit,fusesource_hawtjni,2010-07-29 08:43:35,b94d84117f1be6f446ee17e8242424fd5d3f2c71,5.0,5.0,2.0,0.0
+186,Commit,fusesource_hawtjni,2010-07-28 23:13:28,3a45115d44a51b53fed8da433c91cb1237589f5f,2.0,2.0,2.0,0.0
+187,Commit,fusesource_hawtjni,2010-07-28 23:12:31,272c55ea1e81755b6b485036a58912c2cbc7900f,1.0,10.0,1.0,0.0
+188,Commit,fusesource_hawtjni,2010-07-16 03:51:35,a8e237dbc7a00349665129a544c9442251885b35,127.0,185.0,9.0,0.0
+189,Commit,fusesource_hawtjni,2010-02-24 18:35:51,0c502e20c48b5ec18b8af3b708066988416181d7,13.0,13.0,5.0,0.0
+190,Commit,fusesource_hawtjni,2010-02-24 18:35:50,c772712e582ac11419978a30fd8311e449e6f7c5,13.0,13.0,5.0,0.0
+191,Commit,fusesource_hawtjni,2010-02-24 18:33:11,9cd23f4aba9ffd723c997f93fb5a594849fb4cc5,20.0,1.0,2.0,0.0
+192,Commit,fusesource_hawtjni,2010-02-24 17:32:52,e0e6eb7ddaa91056c84753ffa104bb29981ac971,6.0,5.0,1.0,0.0
+193,Commit,fusesource_hawtjni,2010-02-24 13:59:19,c703e088d345c0c632a0737a16f1031c450f303d,12.0,1.0,1.0,0.0
+194,Commit,fusesource_hawtjni,2010-02-24 11:55:46,23cd8e1cf4191384ca702693045beac8f8c601db,4.0,3.0,1.0,0.0
+195,Commit,fusesource_hawtjni,2010-02-24 11:46:52,4edc319951990e9571663c56f552e74a60531e6a,3.0,3.0,1.0,0.0
+196,Commit,fusesource_hawtjni,2010-02-24 11:25:17,f8407c7913eefd5c5b65df2b6f4a6afc724d648d,7.0,20.0,1.0,0.0
+197,Commit,fusesource_hawtjni,2010-02-24 04:59:57,408dce366d2046b9fe2372b3f25752166bb079d8,28.0,64.0,3.0,0.0
+198,Commit,fusesource_hawtjni,2010-02-20 22:40:50,994d0894d8d96979873749c7827a08fca02e95ff,77.0,0.0,2.0,0.0
+199,Commit,fusesource_hawtjni,2010-02-20 20:53:00,e93efb2e21fa898e0d4a08a646e6121640240bc3,23.0,8.0,1.0,0.0
+200,Commit,fusesource_hawtjni,2010-02-20 20:26:37,28df44310ffc9e7b7b7b73359d3a01178050b634,85.0,96.0,4.0,0.0
+201,Commit,fusesource_hawtjni,2010-02-20 15:44:04,b9e6dd7e09e61386e7eef134d944e9e9c26cc0a8,819.0,779.0,4.0,0.0
+202,Commit,fusesource_hawtjni,2010-02-19 23:33:25,a52496e8bec789f040dfb6fd04c584945757a005,0.0,0.0,0.0,0.0
+203,Commit,fusesource_hawtjni,2010-02-19 23:20:17,f287da5edd03cc8f2b9fe3c57d2563f8dda8a8c9,152.0,8.0,4.0,0.0
+204,Commit,fusesource_hawtjni,2010-02-19 16:24:26,012b214d85a3a7342580fa145748ce6a9db60111,51.0,26.0,6.0,0.0
+205,Commit,fusesource_hawtjni,2010-02-19 15:30:17,c5ac39fdbfcba788ebfbd15c5031a78c8a23549d,18.0,14.0,3.0,0.0
+206,Commit,fusesource_hawtjni,2010-02-19 13:32:37,8230fd4f7a4fd707997a64972ab276bbc2df1ffd,2.0,2.0,1.0,0.0
+207,Commit,fusesource_hawtjni,2010-02-19 00:52:15,973fa55eff119335bbba1db208b109666ed82310,12.0,21.0,5.0,0.0
+208,Commit,fusesource_hawtjni,2010-02-18 13:11:38,f4aef816262afca090871536d9b7de628a6a0a22,118.0,35.0,1.0,0.0
+209,Commit,fusesource_hawtjni,2010-02-18 11:21:04,7ab40e3f88f18f353c7961c28b9495e686a26437,0.0,0.0,0.0,0.0
+210,Commit,fusesource_hawtjni,2010-02-18 11:19:54,e7053340c0257b9fbdaedff6926183b4e21897d8,144.0,0.0,1.0,0.0
+211,Commit,fusesource_hawtjni,2010-02-18 11:18:45,1a237342acae4b39349b8faf3ab15de361ddb06c,275.0,181.0,1.0,0.0
+212,Commit,fusesource_hawtjni,2010-02-18 02:35:36,ccbac25600cac13a6eecfc599a44b3a17be9c2f1,328.0,142.0,12.0,0.0
+213,Commit,fusesource_hawtjni,2010-02-17 23:34:22,9212f3ee5584d5de3c85d827a9aefcc401393109,298.0,12.0,2.0,0.0
+214,Commit,fusesource_hawtjni,2010-02-17 18:00:38,f46a59a487b24b983a2e41ff42d2f752720cabb2,2.0,2.0,4.0,0.0
+215,Commit,fusesource_hawtjni,2010-02-17 15:54:40,b5890b6f2cfb4e33ad169f6b137b662ac756ad3d,93.0,50.0,1.0,0.0
+216,Commit,fusesource_hawtjni,2010-02-17 15:39:27,d4baf898ec74341afced2704677d017c5c64b1af,1.0,1.0,1.0,0.0
+217,Commit,fusesource_hawtjni,2010-02-17 15:37:04,b6070db45bb173f23c56145622ebb561190b997e,0.0,1.0,1.0,0.0
+218,Commit,fusesource_hawtjni,2010-02-17 15:34:28,572d30c36605d44e2eade1aeffa5574a36ddd245,4.0,4.0,1.0,0.0
+219,Commit,fusesource_hawtjni,2010-02-17 15:27:25,0f5b158273e60e8bfa88a9bb61bc1aef72cf7027,65.0,3.0,1.0,0.0
+220,Commit,fusesource_hawtjni,2010-02-17 13:58:10,49f49c8e3ae60a58cc8903bf2bcefc3ce4abd869,1082.0,3.0,7.0,0.0
+221,Commit,fusesource_hawtjni,2010-02-17 04:23:51,a7702326b1144f8663bf168842eaecf47b673121,2176.0,310.0,52.0,0.0
+222,Commit,fusesource_hawtjni,2010-02-17 00:00:55,ff726d4d797de331941a9d1890ef420619a3c013,0.0,756.0,4.0,0.0
+223,Commit,fusesource_hawtjni,2010-02-16 18:51:32,f801ad070e292236e0b4d67d9a867ec8467bf20b,28.0,7.0,3.0,0.0
+224,Commit,fusesource_hawtjni,2010-02-16 16:12:12,ea1a60bccd9850ce8a709ab27d8756c1734c18c3,37.0,10.0,5.0,0.0
+225,Commit,fusesource_hawtjni,2010-02-16 00:42:15,313975466225579e325bd074e081ece6787c2338,322.0,13.0,2.0,0.0
+226,Commit,fusesource_hawtjni,2009-11-23 21:03:52,ec115d3dd1f223d9b835e5d12fe238cecbf9a51c,2.0,2.0,1.0,0.0
+227,Commit,fusesource_hawtjni,2009-11-23 20:37:01,c46d3b559e0d85ea378e06cc4dee1e0e22b83e96,44.0,51.0,4.0,0.0
+228,Commit,fusesource_hawtjni,2009-11-23 15:22:24,d51150814672b4d43830a0c890ad6aac27017bfd,2.0,0.0,2.0,0.0
+229,Commit,fusesource_hawtjni,2009-11-20 16:01:22,5e91712397b31284128210517e231e89efcb0346,54.0,22.0,5.0,0.0
+230,Commit,fusesource_hawtjni,2009-11-19 18:59:03,6fb0d9e7689383ad47106286b1a9c1b3b2f88d1c,15.0,15.0,6.0,0.0
+231,Commit,fusesource_hawtjni,2009-11-17 18:59:14,dcd39f8d7a1ea73a8f05ee1fd95ad920d5b75a44,3.0,22.0,1.0,0.0
+232,Commit,fusesource_hawtjni,2009-11-17 18:44:01,f801ac6b231c9439d043af4de260b8f3500849ac,25.0,82.0,2.0,0.0
+233,Commit,fusesource_hawtjni,2009-11-17 16:03:50,8ffc728b30e49ba22aaa66326dea4c576d7e123a,36.0,64.0,12.0,0.0
+234,Commit,fusesource_hawtjni,2009-11-16 23:11:54,fd6034bcb5661fb8b8a7ea8947143e26bedff1a9,13.0,4.0,4.0,0.0
+235,Commit,fusesource_hawtjni,2009-11-13 21:56:15,d9e3cd85ee136bc366ee9c6378a2e8a4af9ecb1e,0.0,0.0,0.0,0.0
+236,Commit,fusesource_hawtjni,2009-11-13 21:53:48,42568fa18e666ea40689b9723188c80cab1d9ff7,13.0,17.0,4.0,0.0
+237,Commit,fusesource_hawtjni,2009-11-13 18:42:25,1bdb38b42e9b4e185e05cea05f244c8f176f92cf,1.0,1.0,1.0,0.0
+238,Commit,fusesource_hawtjni,2009-11-13 18:35:17,fd3c41a66057ca889dff1018647e7ae862bc03f4,275.0,186.0,6.0,0.0
+239,Commit,fusesource_hawtjni,2009-11-13 05:20:55,496b36fb984dd9e95706c996b047df6ee9b5fb1c,249.0,174.0,7.0,0.0
+240,Commit,fusesource_hawtjni,2009-11-13 04:23:37,26e2c08a2455a730f8bb1acc2e6bc22b0b28ee6a,30.0,218.0,1.0,0.0
+241,Commit,fusesource_hawtjni,2009-11-13 01:32:56,d2bf884660d473f90bbce9a172c9a3ed2620c61f,384.0,312.0,6.0,0.0
+242,Commit,fusesource_hawtjni,2009-11-13 01:11:10,b2fc7173bd2d15c1f817188ca54558bdffec72c5,320.0,0.0,2.0,0.0
+243,Commit,fusesource_hawtjni,2009-11-12 18:28:28,96df9680961889b9567ca01312f3000cbdd6568b,355.0,234.0,7.0,0.0
+244,Commit,fusesource_hawtjni,2009-11-11 21:21:04,362905cc0cb12838c1ff3b94a50d0c6cdf47794b,204.0,22.0,5.0,0.0
+245,Commit,fusesource_hawtjni,2009-11-11 15:58:44,adce69cecf312fe1705f6b706e8002261b3746d1,5.0,4.0,3.0,0.0
+246,Commit,fusesource_hawtjni,2009-11-11 15:58:28,b9ff280592e4d641d7f1186defdc47d8ee38d1f8,42.0,0.0,1.0,0.0
+247,Commit,fusesource_hawtjni,2009-11-11 14:44:50,67eac7f87bff5bb2710b218404cb71063589c3f4,29.0,13.0,3.0,0.0
+248,Commit,fusesource_hawtjni,2009-11-11 13:51:03,182ad777a05f7a2eaf09d2f713120234e207fe52,0.0,0.0,0.0,0.0
+249,Commit,fusesource_hawtjni,2009-11-11 13:49:42,9beac1fb1fbc38a1ef22e42d9f4d08e34fd7d20d,82.0,1.0,7.0,0.0
+250,Commit,fusesource_hawtjni,2009-11-11 12:30:57,921203623db06f33ed490c24ed3d504e61499a0a,252.0,0.0,2.0,0.0
+251,Commit,fusesource_hawtjni,2009-11-10 18:06:31,f20465fc161803fb39aec1ae80e07caf7a3107a9,38.0,39.0,3.0,0.0
+252,Commit,fusesource_hawtjni,2009-11-10 14:26:08,f8238e452da0602270d1af94ca0769ff6833f2e7,145.0,98.0,1.0,0.0
+253,Commit,fusesource_hawtjni,2009-11-10 13:05:17,943a48cf305f734ff73338d9e017c09c41090068,5.0,3.0,2.0,0.0
+254,Commit,fusesource_hawtjni,2009-11-10 12:13:58,4fd292f64153c6d75902bbe83bb22b6f970000d7,36.0,0.0,4.0,0.0
+255,Commit,fusesource_hawtjni,2009-11-10 04:15:00,e17ea769ed26ea7e9d2f5b543ab2c344a41bbcdd,559.0,57.0,24.0,0.0
+256,Commit,fusesource_hawtjni,2009-11-06 19:50:56,bb238cc01e6ef0fd251781f4348e196aca4af57b,176.0,10.0,4.0,0.0
+257,Commit,fusesource_hawtjni,2009-11-06 17:48:51,645bbfc4e4f3b21d9b8b494de30aed51f34dd99e,1.0,1.0,1.0,0.0
+258,Commit,fusesource_hawtjni,2009-11-06 15:39:50,7e92067be03e46662058bd0d449ffbe52ce78358,129.0,136.0,4.0,0.0
+259,Commit,fusesource_hawtjni,2009-11-06 12:16:04,3835f3b50877a189dedce9da05594276fd86fa1b,3.0,3.0,1.0,0.0
+260,Commit,fusesource_hawtjni,2009-11-06 12:05:23,c9303baeab78aacb4ce5f537075e19aac133856a,18.0,2.0,1.0,0.0
+261,Commit,fusesource_hawtjni,2009-11-05 22:49:38,c828895dc759b43b725b0a2f0ae8bc23a8eddb7e,1.0,1.0,1.0,0.0
+262,Commit,fusesource_hawtjni,2009-11-05 19:56:07,e1c6cc21464f538161878e6b7904358f7fbd5397,280.0,849.0,20.0,0.0
+263,Commit,fusesource_hawtjni,2009-11-05 17:15:41,d9c1b41614e283d359e747d954e282a92ecd260f,681.0,0.0,14.0,0.0
+264,Commit,fusesource_hawtjni,2009-11-03 19:25:24,48ea194ffafa961d61f6c8b8205a85cdae8ea735,1.0,1.0,1.0,0.0
+265,Commit,fusesource_hawtjni,2009-11-03 19:11:27,06726754473396052ecb83d6e9821d3684cfe579,12.0,8.0,3.0,0.0
+266,Commit,fusesource_hawtjni,2009-11-03 17:35:13,14976881a1b38fff3119d8b1c707ace0dcf424fc,1368.0,1052.0,48.0,0.0
+267,Commit,fusesource_hawtjni,2009-11-02 17:26:42,c7e74f9a767b57ba7d4c9556567c1defa86b864f,74.0,91.0,5.0,0.0
+268,Commit,fusesource_hawtjni,2009-11-02 15:03:50,f91642c23dbbdd0e9b067aca0a4a94bf716aa5ff,3.0,3.0,3.0,0.0
+269,Commit,fusesource_hawtjni,2009-11-02 13:04:09,21a9ff35e326df513089b9e9fbd8bbfd42ee96f4,80.0,0.0,2.0,0.0
+270,Commit,fusesource_hawtjni,2009-11-02 11:56:13,7d472e9c0bfe2ee03dee326c1dd4b7edddf3574f,59.0,68.0,4.0,0.0
+271,Commit,fusesource_hawtjni,2009-11-02 11:11:08,d4b7f5b232709b8bc05ede7dda4022d0fb605843,791.0,81.0,17.0,0.0
+272,Commit,fusesource_hawtjni,2009-11-02 03:44:12,815a9d83ba77a43000872d7b84d589bb1ede1baa,1271.0,894.0,37.0,0.0
+273,Commit,fusesource_hawtjni,2009-11-01 11:22:48,3e16fe5c88f3e25abed00dd98ca901c4180b65f1,8640.0,0.0,44.0,0.0
+0,forks,fusesource_hawtjni,2011-03-25 17:21:02+00:00,,,,,
+1,forks,fusesource_hawtjni,2011-06-16 01:36:33+00:00,,,,,
+2,forks,fusesource_hawtjni,2011-06-18 22:18:45+00:00,,,,,
+3,forks,fusesource_hawtjni,2012-05-28 11:28:02+00:00,,,,,
+4,forks,fusesource_hawtjni,2012-12-21 23:27:08+00:00,,,,,
+5,forks,fusesource_hawtjni,2013-02-14 07:16:28+00:00,,,,,
+6,forks,fusesource_hawtjni,2013-07-31 01:56:45+00:00,,,,,
+7,forks,fusesource_hawtjni,2013-10-14 03:15:34+00:00,,,,,
+8,forks,fusesource_hawtjni,2014-02-11 13:32:50+00:00,,,,,
+9,forks,fusesource_hawtjni,2014-02-11 15:35:53+00:00,,,,,
+10,forks,fusesource_hawtjni,2014-08-03 20:47:17+00:00,,,,,
+11,forks,fusesource_hawtjni,2014-09-10 20:57:49+00:00,,,,,
+12,forks,fusesource_hawtjni,2014-10-07 19:13:12+00:00,,,,,
+13,forks,fusesource_hawtjni,2014-11-28 01:33:09+00:00,,,,,
+14,forks,fusesource_hawtjni,2015-04-17 18:34:22+00:00,,,,,
+15,forks,fusesource_hawtjni,2015-05-08 21:37:26+00:00,,,,,
+16,forks,fusesource_hawtjni,2015-05-14 01:47:38+00:00,,,,,
+17,forks,fusesource_hawtjni,2015-08-10 15:31:19+00:00,,,,,
+18,forks,fusesource_hawtjni,2015-08-31 11:19:38+00:00,,,,,
+19,forks,fusesource_hawtjni,2015-11-19 19:53:42+00:00,,,,,
+20,forks,fusesource_hawtjni,2015-12-21 05:48:46+00:00,,,,,
+21,forks,fusesource_hawtjni,2015-12-22 12:28:57+00:00,,,,,
+22,forks,fusesource_hawtjni,2015-12-28 09:47:30+00:00,,,,,
+23,forks,fusesource_hawtjni,2016-01-06 21:19:24+00:00,,,,,
+24,forks,fusesource_hawtjni,2016-02-25 22:41:12+00:00,,,,,
+25,forks,fusesource_hawtjni,2016-11-03 22:18:21+00:00,,,,,
+26,forks,fusesource_hawtjni,2017-01-11 11:52:06+00:00,,,,,
+27,forks,fusesource_hawtjni,2017-03-20 20:35:22+00:00,,,,,
+28,forks,fusesource_hawtjni,2017-04-27 07:40:10+00:00,,,,,
+29,forks,fusesource_hawtjni,2017-08-29 06:13:37+00:00,,,,,
+30,forks,fusesource_hawtjni,2017-10-11 02:41:21+00:00,,,,,
+31,forks,fusesource_hawtjni,2017-11-17 08:30:35+00:00,,,,,
+32,forks,fusesource_hawtjni,2018-01-24 01:10:11+00:00,,,,,
+33,forks,fusesource_hawtjni,2018-02-20 20:31:54+00:00,,,,,
+34,forks,fusesource_hawtjni,2018-02-22 10:54:07+00:00,,,,,
+35,forks,fusesource_hawtjni,2018-04-24 11:10:39+00:00,,,,,
+36,forks,fusesource_hawtjni,2018-05-24 06:04:59+00:00,,,,,
+37,forks,fusesource_hawtjni,2018-06-15 17:35:29+00:00,,,,,
+38,forks,fusesource_hawtjni,2018-09-04 07:44:26+00:00,,,,,
+39,forks,fusesource_hawtjni,2018-10-16 00:39:33+00:00,,,,,
+40,forks,fusesource_hawtjni,2018-10-17 10:57:26+00:00,,,,,
+41,forks,fusesource_hawtjni,2019-01-31 14:17:19+00:00,,,,,
+42,forks,fusesource_hawtjni,2019-02-15 23:17:23+00:00,,,,,
+43,forks,fusesource_hawtjni,2019-05-07 06:29:52+00:00,,,,,
+44,forks,fusesource_hawtjni,2019-09-16 15:14:34+00:00,,,,,
+45,forks,fusesource_hawtjni,2019-10-23 14:55:05+00:00,,,,,
+46,forks,fusesource_hawtjni,2019-12-15 09:56:58+00:00,,,,,
+47,forks,fusesource_hawtjni,2020-04-27 11:17:24+00:00,,,,,
+48,forks,fusesource_hawtjni,2020-05-18 06:34:43+00:00,,,,,
+49,forks,fusesource_hawtjni,2020-06-03 06:20:35+00:00,,,,,
+50,forks,fusesource_hawtjni,2020-10-23 19:33:26+00:00,,,,,
+51,forks,fusesource_hawtjni,2020-12-10 14:38:53+00:00,,,,,
+52,forks,fusesource_hawtjni,2021-01-27 09:46:20+00:00,,,,,
+53,forks,fusesource_hawtjni,2021-02-16 15:13:24+00:00,,,,,
+54,forks,fusesource_hawtjni,2021-03-03 18:57:24+00:00,,,,,
+55,forks,fusesource_hawtjni,2021-09-17 14:06:52+00:00,,,,,
+56,forks,fusesource_hawtjni,2021-09-28 20:26:08+00:00,,,,,
+57,forks,fusesource_hawtjni,2022-03-13 09:52:56+00:00,,,,,
+58,forks,fusesource_hawtjni,2022-04-28 18:54:41+00:00,,,,,
+0,issues,fusesource_hawtjni,2012-02-24 17:29:57+00:00,,,,,
+1,issues,fusesource_hawtjni,2012-07-04 22:58:40+00:00,,,,,
+2,issues,fusesource_hawtjni,2013-01-31 13:08:10+00:00,,,,,
+3,issues,fusesource_hawtjni,2013-04-26 12:51:40+00:00,,,,,
+4,issues,fusesource_hawtjni,2013-09-09 08:32:31+00:00,,,,,
+5,issues,fusesource_hawtjni,2014-05-22 16:54:42+00:00,,,,,
+6,issues,fusesource_hawtjni,2014-09-10 20:33:24+00:00,,,,,
+7,issues,fusesource_hawtjni,2015-01-04 13:53:24+00:00,,,,,
+8,issues,fusesource_hawtjni,2015-02-07 06:17:11+00:00,,,,,
+9,issues,fusesource_hawtjni,2016-02-18 15:41:27+00:00,,,,,
+10,issues,fusesource_hawtjni,2016-02-21 22:53:03+00:00,,,,,
+11,issues,fusesource_hawtjni,2016-05-28 07:32:47+00:00,,,,,
+12,issues,fusesource_hawtjni,2016-09-01 18:24:10+00:00,,,,,
+13,issues,fusesource_hawtjni,2016-12-22 21:14:11+00:00,,,,,
+14,issues,fusesource_hawtjni,2017-01-11 12:44:32+00:00,,,,,
+15,issues,fusesource_hawtjni,2017-03-05 13:23:06+00:00,,,,,
+16,issues,fusesource_hawtjni,2017-08-10 12:53:37+00:00,,,,,
+17,issues,fusesource_hawtjni,2017-09-02 17:06:40+00:00,,,,,
+18,issues,fusesource_hawtjni,2017-09-03 04:19:15+00:00,,,,,
+19,issues,fusesource_hawtjni,2017-09-03 10:35:43+00:00,,,,,
+20,issues,fusesource_hawtjni,2017-12-04 08:31:18+00:00,,,,,
+21,issues,fusesource_hawtjni,2018-02-04 09:22:34+00:00,,,,,
+22,issues,fusesource_hawtjni,2018-02-26 13:11:42+00:00,,,,,
+23,issues,fusesource_hawtjni,2018-04-30 10:50:14+00:00,,,,,
+24,issues,fusesource_hawtjni,2018-06-08 07:50:59+00:00,,,,,
+25,issues,fusesource_hawtjni,2018-07-18 13:57:17+00:00,,,,,
+26,issues,fusesource_hawtjni,2019-01-03 15:52:43+00:00,,,,,
+27,issues,fusesource_hawtjni,2019-04-01 11:12:29+00:00,,,,,
+28,issues,fusesource_hawtjni,2019-07-18 09:19:33+00:00,,,,,
+29,issues,fusesource_hawtjni,2019-09-23 23:29:55+00:00,,,,,
+30,issues,fusesource_hawtjni,2019-11-22 16:32:49+00:00,,,,,
+31,issues,fusesource_hawtjni,2020-01-08 17:34:09+00:00,,,,,
+32,issues,fusesource_hawtjni,2020-04-18 16:29:00+00:00,,,,,
+33,issues,fusesource_hawtjni,2020-05-04 10:45:06+00:00,,,,,
+34,issues,fusesource_hawtjni,2020-05-07 02:33:24+00:00,,,,,
+35,issues,fusesource_hawtjni,2020-05-17 03:39:54+00:00,,,,,
+36,issues,fusesource_hawtjni,2020-05-21 11:31:13+00:00,,,,,
+37,issues,fusesource_hawtjni,2020-07-26 14:27:57+00:00,,,,,
+38,issues,fusesource_hawtjni,2020-12-18 15:33:57+00:00,,,,,
+39,issues,fusesource_hawtjni,2021-05-17 15:14:21+00:00,,,,,
+40,issues,fusesource_hawtjni,2021-10-05 03:32:08+00:00,,,,,
+41,issues,fusesource_hawtjni,2021-11-14 18:11:01+00:00,,,,,
+0,pullRequests,fusesource_hawtjni,2011-06-18 07:28:19+00:00,,,,,
+1,pullRequests,fusesource_hawtjni,2012-12-21 23:35:05+00:00,,,,,
+2,pullRequests,fusesource_hawtjni,2014-02-12 07:22:31+00:00,,,,,
+3,pullRequests,fusesource_hawtjni,2014-04-11 19:49:14+00:00,,,,,
+4,pullRequests,fusesource_hawtjni,2014-04-11 21:16:11+00:00,,,,,
+5,pullRequests,fusesource_hawtjni,2014-04-11 21:24:24+00:00,,,,,
+6,pullRequests,fusesource_hawtjni,2014-08-03 20:50:33+00:00,,,,,
+7,pullRequests,fusesource_hawtjni,2014-08-06 20:31:01+00:00,,,,,
+8,pullRequests,fusesource_hawtjni,2014-10-07 19:36:35+00:00,,,,,
+9,pullRequests,fusesource_hawtjni,2015-04-17 23:58:49+00:00,,,,,
+10,pullRequests,fusesource_hawtjni,2015-08-10 15:34:46+00:00,,,,,
+11,pullRequests,fusesource_hawtjni,2015-12-21 05:51:21+00:00,,,,,
+12,pullRequests,fusesource_hawtjni,2015-12-22 12:42:42+00:00,,,,,
+13,pullRequests,fusesource_hawtjni,2016-06-13 19:28:56+00:00,,,,,
+14,pullRequests,fusesource_hawtjni,2017-03-01 21:05:56+00:00,,,,,
+15,pullRequests,fusesource_hawtjni,2017-03-05 14:09:29+00:00,,,,,
+16,pullRequests,fusesource_hawtjni,2017-03-05 14:17:47+00:00,,,,,
+17,pullRequests,fusesource_hawtjni,2017-03-18 14:31:53+00:00,,,,,
+18,pullRequests,fusesource_hawtjni,2017-03-19 10:55:58+00:00,,,,,
+19,pullRequests,fusesource_hawtjni,2017-05-20 13:28:18+00:00,,,,,
+20,pullRequests,fusesource_hawtjni,2017-07-31 17:38:29+00:00,,,,,
+21,pullRequests,fusesource_hawtjni,2017-09-25 21:56:57+00:00,,,,,
+22,pullRequests,fusesource_hawtjni,2018-02-20 20:40:31+00:00,,,,,
+23,pullRequests,fusesource_hawtjni,2018-04-24 20:29:48+00:00,,,,,
+24,pullRequests,fusesource_hawtjni,2018-04-25 11:34:33+00:00,,,,,
+25,pullRequests,fusesource_hawtjni,2018-05-24 06:11:35+00:00,,,,,
+26,pullRequests,fusesource_hawtjni,2018-10-17 11:12:07+00:00,,,,,
+27,pullRequests,fusesource_hawtjni,2019-01-31 14:21:13+00:00,,,,,
+28,pullRequests,fusesource_hawtjni,2019-04-29 14:34:50+00:00,,,,,
+29,pullRequests,fusesource_hawtjni,2019-09-16 15:32:24+00:00,,,,,
+30,pullRequests,fusesource_hawtjni,2019-10-23 16:11:56+00:00,,,,,
+31,pullRequests,fusesource_hawtjni,2020-04-26 02:58:28+00:00,,,,,
+32,pullRequests,fusesource_hawtjni,2020-06-03 10:35:27+00:00,,,,,
+33,pullRequests,fusesource_hawtjni,2020-10-13 09:20:35+00:00,,,,,
+34,pullRequests,fusesource_hawtjni,2020-10-23 19:38:22+00:00,,,,,
+35,pullRequests,fusesource_hawtjni,2021-03-30 17:10:30+00:00,,,,,
+36,pullRequests,fusesource_hawtjni,2021-09-17 14:14:48+00:00,,,,,
+0,stargazers,fusesource_hawtjni,2010-02-16 00:49:00+00:00,,,,,
+1,stargazers,fusesource_hawtjni,2010-02-16 00:49:00+00:00,,,,,
+2,stargazers,fusesource_hawtjni,2010-02-16 00:49:00+00:00,,,,,
+3,stargazers,fusesource_hawtjni,2010-02-16 00:49:00+00:00,,,,,
+4,stargazers,fusesource_hawtjni,2010-02-16 00:49:00+00:00,,,,,
+5,stargazers,fusesource_hawtjni,2010-02-16 00:49:00+00:00,,,,,
+6,stargazers,fusesource_hawtjni,2010-02-16 00:49:00+00:00,,,,,
+7,stargazers,fusesource_hawtjni,2010-02-16 00:49:00+00:00,,,,,
+8,stargazers,fusesource_hawtjni,2010-02-16 00:49:00+00:00,,,,,
+9,stargazers,fusesource_hawtjni,2010-03-13 19:23:35+00:00,,,,,
+10,stargazers,fusesource_hawtjni,2010-11-28 11:50:55+00:00,,,,,
+11,stargazers,fusesource_hawtjni,2011-12-14 17:29:27+00:00,,,,,
+12,stargazers,fusesource_hawtjni,2012-01-10 10:22:02+00:00,,,,,
+13,stargazers,fusesource_hawtjni,2012-06-24 23:00:17+00:00,,,,,
+14,stargazers,fusesource_hawtjni,2013-04-11 13:11:07+00:00,,,,,
+15,stargazers,fusesource_hawtjni,2013-06-12 03:15:17+00:00,,,,,
+16,stargazers,fusesource_hawtjni,2013-07-06 06:09:06+00:00,,,,,
+17,stargazers,fusesource_hawtjni,2013-07-10 05:34:04+00:00,,,,,
+18,stargazers,fusesource_hawtjni,2013-07-15 11:15:53+00:00,,,,,
+19,stargazers,fusesource_hawtjni,2013-07-19 13:40:16+00:00,,,,,
+20,stargazers,fusesource_hawtjni,2013-10-12 06:28:27+00:00,,,,,
+21,stargazers,fusesource_hawtjni,2014-01-12 14:04:50+00:00,,,,,
+22,stargazers,fusesource_hawtjni,2014-02-17 13:21:40+00:00,,,,,
+23,stargazers,fusesource_hawtjni,2014-04-13 15:44:39+00:00,,,,,
+24,stargazers,fusesource_hawtjni,2014-04-22 00:57:59+00:00,,,,,
+25,stargazers,fusesource_hawtjni,2014-05-08 02:03:48+00:00,,,,,
+26,stargazers,fusesource_hawtjni,2014-05-12 02:12:04+00:00,,,,,
+27,stargazers,fusesource_hawtjni,2014-06-10 02:55:08+00:00,,,,,
+28,stargazers,fusesource_hawtjni,2014-07-15 19:57:31+00:00,,,,,
+29,stargazers,fusesource_hawtjni,2014-08-17 08:18:32+00:00,,,,,
+30,stargazers,fusesource_hawtjni,2014-10-13 23:53:13+00:00,,,,,
+31,stargazers,fusesource_hawtjni,2015-01-02 17:04:26+00:00,,,,,
+32,stargazers,fusesource_hawtjni,2015-02-07 00:05:17+00:00,,,,,
+33,stargazers,fusesource_hawtjni,2015-03-07 11:19:19+00:00,,,,,
+34,stargazers,fusesource_hawtjni,2015-03-11 01:10:07+00:00,,,,,
+35,stargazers,fusesource_hawtjni,2015-03-31 21:44:45+00:00,,,,,
+36,stargazers,fusesource_hawtjni,2015-04-02 16:48:20+00:00,,,,,
+37,stargazers,fusesource_hawtjni,2015-04-07 12:38:13+00:00,,,,,
+38,stargazers,fusesource_hawtjni,2015-04-07 13:01:54+00:00,,,,,
+39,stargazers,fusesource_hawtjni,2015-10-21 01:36:17+00:00,,,,,
+40,stargazers,fusesource_hawtjni,2015-11-08 17:01:12+00:00,,,,,
+41,stargazers,fusesource_hawtjni,2016-02-22 20:51:25+00:00,,,,,
+42,stargazers,fusesource_hawtjni,2016-02-24 21:33:19+00:00,,,,,
+43,stargazers,fusesource_hawtjni,2016-03-21 10:27:03+00:00,,,,,
+44,stargazers,fusesource_hawtjni,2016-04-09 21:21:11+00:00,,,,,
+45,stargazers,fusesource_hawtjni,2016-06-21 03:17:17+00:00,,,,,
+46,stargazers,fusesource_hawtjni,2016-06-29 20:42:06+00:00,,,,,
+47,stargazers,fusesource_hawtjni,2016-07-06 23:20:32+00:00,,,,,
+48,stargazers,fusesource_hawtjni,2016-08-27 00:03:39+00:00,,,,,
+49,stargazers,fusesource_hawtjni,2016-10-18 00:06:43+00:00,,,,,
+50,stargazers,fusesource_hawtjni,2016-11-03 22:18:17+00:00,,,,,
+51,stargazers,fusesource_hawtjni,2016-12-19 19:26:27+00:00,,,,,
+52,stargazers,fusesource_hawtjni,2017-01-08 21:27:55+00:00,,,,,
+53,stargazers,fusesource_hawtjni,2017-01-15 22:50:31+00:00,,,,,
+54,stargazers,fusesource_hawtjni,2017-03-25 11:56:24+00:00,,,,,
+55,stargazers,fusesource_hawtjni,2017-04-20 22:43:13+00:00,,,,,
+56,stargazers,fusesource_hawtjni,2017-05-07 15:48:59+00:00,,,,,
+57,stargazers,fusesource_hawtjni,2017-08-04 09:09:11+00:00,,,,,
+58,stargazers,fusesource_hawtjni,2017-09-27 03:07:16+00:00,,,,,
+59,stargazers,fusesource_hawtjni,2017-11-01 22:59:24+00:00,,,,,
+60,stargazers,fusesource_hawtjni,2017-11-22 03:11:06+00:00,,,,,
+61,stargazers,fusesource_hawtjni,2017-12-09 20:44:53+00:00,,,,,
+62,stargazers,fusesource_hawtjni,2017-12-28 03:24:21+00:00,,,,,
+63,stargazers,fusesource_hawtjni,2018-01-01 21:42:58+00:00,,,,,
+64,stargazers,fusesource_hawtjni,2018-01-09 05:11:05+00:00,,,,,
+65,stargazers,fusesource_hawtjni,2018-01-30 06:25:48+00:00,,,,,
+66,stargazers,fusesource_hawtjni,2018-02-07 04:18:21+00:00,,,,,
+67,stargazers,fusesource_hawtjni,2018-03-06 06:26:35+00:00,,,,,
+68,stargazers,fusesource_hawtjni,2018-04-15 01:57:29+00:00,,,,,
+69,stargazers,fusesource_hawtjni,2018-04-16 03:21:31+00:00,,,,,
+70,stargazers,fusesource_hawtjni,2018-06-07 08:20:48+00:00,,,,,
+71,stargazers,fusesource_hawtjni,2018-06-12 14:28:05+00:00,,,,,
+72,stargazers,fusesource_hawtjni,2018-08-08 15:43:18+00:00,,,,,
+73,stargazers,fusesource_hawtjni,2018-08-31 05:10:57+00:00,,,,,
+74,stargazers,fusesource_hawtjni,2018-09-30 03:01:56+00:00,,,,,
+75,stargazers,fusesource_hawtjni,2018-11-17 19:52:10+00:00,,,,,
+76,stargazers,fusesource_hawtjni,2018-12-15 02:45:33+00:00,,,,,
+77,stargazers,fusesource_hawtjni,2019-01-10 20:04:48+00:00,,,,,
+78,stargazers,fusesource_hawtjni,2019-01-14 06:15:20+00:00,,,,,
+79,stargazers,fusesource_hawtjni,2019-01-26 03:52:52+00:00,,,,,
+80,stargazers,fusesource_hawtjni,2019-02-03 22:32:28+00:00,,,,,
+81,stargazers,fusesource_hawtjni,2019-02-11 15:01:47+00:00,,,,,
+82,stargazers,fusesource_hawtjni,2019-02-16 16:24:21+00:00,,,,,
+83,stargazers,fusesource_hawtjni,2019-02-27 02:51:21+00:00,,,,,
+84,stargazers,fusesource_hawtjni,2019-02-27 21:12:36+00:00,,,,,
+85,stargazers,fusesource_hawtjni,2019-03-02 01:16:40+00:00,,,,,
+86,stargazers,fusesource_hawtjni,2019-04-08 09:29:25+00:00,,,,,
+87,stargazers,fusesource_hawtjni,2019-04-10 17:22:56+00:00,,,,,
+88,stargazers,fusesource_hawtjni,2019-04-16 14:02:26+00:00,,,,,
+89,stargazers,fusesource_hawtjni,2019-06-27 16:12:36+00:00,,,,,
+90,stargazers,fusesource_hawtjni,2019-07-08 06:03:34+00:00,,,,,
+91,stargazers,fusesource_hawtjni,2019-08-02 16:03:38+00:00,,,,,
+92,stargazers,fusesource_hawtjni,2019-08-16 02:14:34+00:00,,,,,
+93,stargazers,fusesource_hawtjni,2019-09-23 07:03:26+00:00,,,,,
+94,stargazers,fusesource_hawtjni,2019-10-09 08:16:56+00:00,,,,,
+95,stargazers,fusesource_hawtjni,2019-10-18 02:35:25+00:00,,,,,
+96,stargazers,fusesource_hawtjni,2019-10-23 14:55:01+00:00,,,,,
+97,stargazers,fusesource_hawtjni,2019-11-21 17:39:16+00:00,,,,,
+98,stargazers,fusesource_hawtjni,2019-11-26 02:33:00+00:00,,,,,
+99,stargazers,fusesource_hawtjni,2019-12-04 02:00:15+00:00,,,,,
+100,stargazers,fusesource_hawtjni,2019-12-29 13:40:39+00:00,,,,,
+101,stargazers,fusesource_hawtjni,2020-01-02 12:03:09+00:00,,,,,
+102,stargazers,fusesource_hawtjni,2020-01-22 16:01:40+00:00,,,,,
+103,stargazers,fusesource_hawtjni,2020-02-23 08:36:20+00:00,,,,,
+104,stargazers,fusesource_hawtjni,2020-03-20 09:02:45+00:00,,,,,
+105,stargazers,fusesource_hawtjni,2020-04-02 11:55:27+00:00,,,,,
+106,stargazers,fusesource_hawtjni,2020-04-10 08:43:14+00:00,,,,,
+107,stargazers,fusesource_hawtjni,2020-05-08 07:31:03+00:00,,,,,
+108,stargazers,fusesource_hawtjni,2020-05-14 07:23:30+00:00,,,,,
+109,stargazers,fusesource_hawtjni,2020-05-14 10:07:16+00:00,,,,,
+110,stargazers,fusesource_hawtjni,2020-05-14 10:11:24+00:00,,,,,
+111,stargazers,fusesource_hawtjni,2020-05-18 06:34:42+00:00,,,,,
+112,stargazers,fusesource_hawtjni,2020-06-08 18:23:11+00:00,,,,,
+113,stargazers,fusesource_hawtjni,2020-06-26 19:41:37+00:00,,,,,
+114,stargazers,fusesource_hawtjni,2020-07-09 06:51:59+00:00,,,,,
+115,stargazers,fusesource_hawtjni,2020-09-20 10:38:37+00:00,,,,,
+116,stargazers,fusesource_hawtjni,2020-10-01 08:53:37+00:00,,,,,
+117,stargazers,fusesource_hawtjni,2020-10-28 16:33:07+00:00,,,,,
+118,stargazers,fusesource_hawtjni,2020-11-12 10:20:58+00:00,,,,,
+119,stargazers,fusesource_hawtjni,2020-11-18 12:12:06+00:00,,,,,
+120,stargazers,fusesource_hawtjni,2020-12-09 09:40:07+00:00,,,,,
+121,stargazers,fusesource_hawtjni,2020-12-13 01:19:43+00:00,,,,,
+122,stargazers,fusesource_hawtjni,2020-12-13 15:42:17+00:00,,,,,
+123,stargazers,fusesource_hawtjni,2020-12-24 07:15:46+00:00,,,,,
+124,stargazers,fusesource_hawtjni,2021-01-02 18:39:38+00:00,,,,,
+125,stargazers,fusesource_hawtjni,2021-02-04 06:10:34+00:00,,,,,
+126,stargazers,fusesource_hawtjni,2021-02-05 03:55:16+00:00,,,,,
+127,stargazers,fusesource_hawtjni,2021-02-06 04:02:30+00:00,,,,,
+128,stargazers,fusesource_hawtjni,2021-02-24 04:30:36+00:00,,,,,
+129,stargazers,fusesource_hawtjni,2021-03-16 05:09:02+00:00,,,,,
+130,stargazers,fusesource_hawtjni,2021-03-27 08:07:21+00:00,,,,,
+131,stargazers,fusesource_hawtjni,2021-03-28 10:02:26+00:00,,,,,
+132,stargazers,fusesource_hawtjni,2021-05-04 06:33:38+00:00,,,,,
+133,stargazers,fusesource_hawtjni,2021-05-26 03:11:32+00:00,,,,,
+134,stargazers,fusesource_hawtjni,2021-06-18 20:21:42+00:00,,,,,
+135,stargazers,fusesource_hawtjni,2021-08-07 04:26:28+00:00,,,,,
+136,stargazers,fusesource_hawtjni,2021-08-10 05:29:33+00:00,,,,,
+137,stargazers,fusesource_hawtjni,2021-09-03 12:13:14+00:00,,,,,
+138,stargazers,fusesource_hawtjni,2021-12-07 03:11:42+00:00,,,,,
+139,stargazers,fusesource_hawtjni,2021-12-07 16:06:07+00:00,,,,,
+140,stargazers,fusesource_hawtjni,2021-12-20 02:42:32+00:00,,,,,
+141,stargazers,fusesource_hawtjni,2021-12-21 23:11:28+00:00,,,,,
+142,stargazers,fusesource_hawtjni,2021-12-22 07:20:51+00:00,,,,,
+143,stargazers,fusesource_hawtjni,2022-01-04 09:28:54+00:00,,,,,
+144,stargazers,fusesource_hawtjni,2022-01-08 20:20:37+00:00,,,,,
+145,stargazers,fusesource_hawtjni,2022-01-16 07:51:35+00:00,,,,,
+146,stargazers,fusesource_hawtjni,2022-01-21 11:36:47+00:00,,,,,
+147,stargazers,fusesource_hawtjni,2022-02-04 17:24:44+00:00,,,,,
+148,stargazers,fusesource_hawtjni,2022-03-08 09:21:42+00:00,,,,,
+149,stargazers,fusesource_hawtjni,2022-05-31 09:11:20+00:00,,,,,

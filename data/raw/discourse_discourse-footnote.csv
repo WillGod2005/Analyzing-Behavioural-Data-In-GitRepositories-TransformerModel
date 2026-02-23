@@ -1,0 +1,103 @@
+,type,name,created_at,Hash,Add,Del,Files,Vuln
+373728,PushEvent,discourse_discourse-footnote,2018-10-22 19:49:39 UTC,,,,,
+464907,PushEvent,discourse_discourse-footnote,2018-06-28 08:53:40 UTC,,,,,
+555501,PushEvent,discourse_discourse-footnote,2018-06-30 21:00:33 UTC,,,,,
+622827,PushEvent,discourse_discourse-footnote,2018-05-31 08:32:31 UTC,,,,,
+712242,PushEvent,discourse_discourse-footnote,2018-04-06 00:55:52 UTC,,,,,
+750284,PushEvent,discourse_discourse-footnote,2018-06-27 13:09:01 UTC,,,,,
+789663,PushEvent,discourse_discourse-footnote,2018-12-03 11:10:42 UTC,,,,,
+840176,PushEvent,discourse_discourse-footnote,2018-11-08 17:17:02 UTC,,,,,
+1375132,WatchEvent,discourse_discourse-footnote,2018-05-07 03:37:05 UTC,,,,,
+1730460,WatchEvent,discourse_discourse-footnote,2018-12-10 07:11:30 UTC,,,,,
+1912494,CreateEvent,discourse_discourse-footnote,2018-04-03 08:59:17 UTC,,,,,
+101591,ForkEvent,discourse_discourse-footnote,2019-05-13 23:59:17 UTC,,,,,
+322797,ForkEvent,discourse_discourse-footnote,2019-09-16 01:15:04 UTC,,,,,
+481564,PushEvent,discourse_discourse-footnote,2019-05-13 02:43:32 UTC,,,,,
+504794,PushEvent,discourse_discourse-footnote,2019-06-20 14:16:06 UTC,,,,,
+1557898,WatchEvent,discourse_discourse-footnote,2019-09-16 01:15:01 UTC,,,,,
+1710209,WatchEvent,discourse_discourse-footnote,2019-11-30 11:31:52 UTC,,,,,
+2156594,WatchEvent,discourse_discourse-footnote,2019-10-08 04:30:05 UTC,,,,,
+0,Commit,discourse_discourse-footnote,2020-11-15 16:09:39,5ed7471abee0b60475e24271617d09325d4636ed,5.0,25.0,1.0,0.0
+1,Commit,discourse_discourse-footnote,2020-10-14 16:27:50,4bf3bad3d343f3da050788bc0419b8087172f077,2.0,2.0,1.0,0.0
+2,Commit,discourse_discourse-footnote,2020-10-12 08:16:49,d06b438c6611747c6d2727e3e5930b95c06fcf8a,1.0,4.0,1.0,0.0
+3,Commit,discourse_discourse-footnote,2020-10-09 19:03:17,13c9a993671f67dbb3148be3ebb807551ca07e1b,6.0,3.0,1.0,0.0
+4,Commit,discourse_discourse-footnote,2020-10-09 16:15:02,ab0099e93e9abc80de0e6cd295a8fdba02ef8a99,1.0,0.0,1.0,0.0
+5,Commit,discourse_discourse-footnote,2020-10-09 15:09:43,0d5fe2d37fe5346cde433b5c3a871bc537473a89,213.0,0.0,2.0,0.0
+6,Commit,discourse_discourse-footnote,2020-09-11 12:48:30,b523f9cf986969cc7221c8a4f71c26fff09fea6d,9.0,4.0,1.0,0.0
+7,Commit,discourse_discourse-footnote,2020-09-11 12:40:45,499813cbb17328334b67ee7e586061b3c2f6b6b0,2.0,2.0,1.0,0.0
+8,Commit,discourse_discourse-footnote,2020-09-11 12:33:00,b18f00cb87fb2552e6b13e853893a58a49d8e840,1.0,0.0,1.0,0.0
+9,Commit,discourse_discourse-footnote,2020-09-11 12:22:21,6ee14274a5781030f44830180b2240375b215a2a,1.0,0.0,1.0,0.0
+10,Commit,discourse_discourse-footnote,2020-09-11 12:00:42,1d18bf28d93c688454b047ac927b8ea95a142ce8,122.0,91.0,2.0,0.0
+11,Commit,discourse_discourse-footnote,2020-08-27 00:54:57,b3dd3baabd5be40c1193bea29666cbaba12e7cf0,4.0,1.0,1.0,0.0
+12,Commit,discourse_discourse-footnote,2020-05-06 16:11:58,298f6389fed504775c182da37c1102e3f409e47e,43.0,2.0,4.0,0.0
+13,Commit,discourse_discourse-footnote,2019-06-20 14:15:57,3f8c3287a4fd996ba4f6aedc705ea69399438a82,6.0,3.0,1.0,0.0
+14,Commit,discourse_discourse-footnote,2019-05-13 02:43:20,9ddce6205be41e0b685f5e2bf84e38740aae27a7,4.0,0.0,2.0,0.0
+15,Commit,discourse_discourse-footnote,2018-12-02 23:36:44,c46995cd802fcf230f130c4381796c9f4468e1c2,2.0,0.0,2.0,0.0
+16,Commit,discourse_discourse-footnote,2018-11-08 17:16:56,669b45ecef96caca060ce7d08a88f309078cf417,6.0,1.0,2.0,0.0
+17,Commit,discourse_discourse-footnote,2018-10-22 18:49:32,4fdaeb0e7cb80aca3383d079f13c0628c7ccd7a0,54.0,45.0,3.0,0.0
+18,Commit,discourse_discourse-footnote,2018-06-28 08:53:29,81669e4d1e5bd3967e819bdf43be8329ee9049de,1.0,2.0,1.0,0.0
+19,Commit,discourse_discourse-footnote,2018-05-31 08:32:16,7b6fd64d21d0fc9d97f57e227a248e1fe51b3645,3.0,0.0,1.0,0.0
+20,Commit,discourse_discourse-footnote,2018-04-06 00:55:39,e52dc79edb4c29a10a04f2fb4f30f3eff4b66609,17.0,8.0,2.0,0.0
+21,Commit,discourse_discourse-footnote,2018-04-04 06:04:52,bd237b6fe4b77f5714df7fc30fc0af72c9461ab6,5.0,0.0,1.0,0.0
+22,Commit,discourse_discourse-footnote,2018-04-04 05:50:42,5fc3eb63239e3c21b498cad2fe6dee411231fe85,155.0,0.0,5.0,0.0
+23,Commit,discourse_discourse-footnote,2018-04-04 02:48:05,3eaa2baf068cffa0dcfa4f3baf582c76d6eafe80,30.0,4.0,5.0,0.0
+24,Commit,discourse_discourse-footnote,2018-04-04 02:21:59,8a5ab15af996fd747c1bca08f84492dac3d8dfef,81.0,17.0,4.0,0.0
+25,Commit,discourse_discourse-footnote,2018-04-03 08:49:43,0f181e474dad385afbb2fb46de03fe141c95ca61,542.0,0.0,7.0,0.0
+0,forks,discourse_discourse-footnote,2019-09-16 01:15:04+00:00,,,,,
+1,forks,discourse_discourse-footnote,2020-12-09 11:14:41+00:00,,,,,
+2,forks,discourse_discourse-footnote,2021-01-13 10:09:49+00:00,,,,,
+3,forks,discourse_discourse-footnote,2021-06-03 16:00:31+00:00,,,,,
+4,forks,discourse_discourse-footnote,2022-03-31 09:54:52+00:00,,,,,
+0,pullRequests,discourse_discourse-footnote,2020-08-25 00:23:55+00:00,,,,,
+1,pullRequests,discourse_discourse-footnote,2020-09-04 10:40:01+00:00,,,,,
+2,pullRequests,discourse_discourse-footnote,2020-10-09 17:47:14+00:00,,,,,
+3,pullRequests,discourse_discourse-footnote,2020-12-14 03:32:25+00:00,,,,,
+4,pullRequests,discourse_discourse-footnote,2020-12-22 07:17:11+00:00,,,,,
+5,pullRequests,discourse_discourse-footnote,2021-01-04 16:53:08+00:00,,,,,
+6,pullRequests,discourse_discourse-footnote,2021-01-13 10:54:05+00:00,,,,,
+7,pullRequests,discourse_discourse-footnote,2021-02-09 17:33:52+00:00,,,,,
+8,pullRequests,discourse_discourse-footnote,2021-02-23 17:59:27+00:00,,,,,
+9,pullRequests,discourse_discourse-footnote,2021-04-01 06:44:03+00:00,,,,,
+10,pullRequests,discourse_discourse-footnote,2021-04-30 20:35:52+00:00,,,,,
+11,pullRequests,discourse_discourse-footnote,2021-05-09 05:02:48+00:00,,,,,
+12,pullRequests,discourse_discourse-footnote,2021-05-10 17:34:46+00:00,,,,,
+13,pullRequests,discourse_discourse-footnote,2021-05-12 20:07:52+00:00,,,,,
+14,pullRequests,discourse_discourse-footnote,2021-06-12 05:42:34+00:00,,,,,
+15,pullRequests,discourse_discourse-footnote,2021-07-02 13:00:18+00:00,,,,,
+16,pullRequests,discourse_discourse-footnote,2021-08-12 21:09:35+00:00,,,,,
+17,pullRequests,discourse_discourse-footnote,2021-09-15 14:08:37+00:00,,,,,
+18,pullRequests,discourse_discourse-footnote,2021-09-28 11:07:00+00:00,,,,,
+19,pullRequests,discourse_discourse-footnote,2021-09-28 13:05:52+00:00,,,,,
+20,pullRequests,discourse_discourse-footnote,2021-10-05 13:06:11+00:00,,,,,
+21,pullRequests,discourse_discourse-footnote,2021-10-12 13:03:47+00:00,,,,,
+22,pullRequests,discourse_discourse-footnote,2021-12-06 07:34:30+00:00,,,,,
+23,pullRequests,discourse_discourse-footnote,2021-12-07 10:15:31+00:00,,,,,
+24,pullRequests,discourse_discourse-footnote,2021-12-07 15:30:26+00:00,,,,,
+25,pullRequests,discourse_discourse-footnote,2021-12-07 21:44:56+00:00,,,,,
+26,pullRequests,discourse_discourse-footnote,2021-12-14 05:27:58+00:00,,,,,
+27,pullRequests,discourse_discourse-footnote,2021-12-16 15:15:56+00:00,,,,,
+28,pullRequests,discourse_discourse-footnote,2022-01-04 20:14:02+00:00,,,,,
+29,pullRequests,discourse_discourse-footnote,2022-01-07 18:26:22+00:00,,,,,
+30,pullRequests,discourse_discourse-footnote,2022-01-11 13:08:45+00:00,,,,,
+31,pullRequests,discourse_discourse-footnote,2022-01-12 10:41:33+00:00,,,,,
+32,pullRequests,discourse_discourse-footnote,2022-01-18 13:08:32+00:00,,,,,
+33,pullRequests,discourse_discourse-footnote,2022-01-24 09:05:15+00:00,,,,,
+34,pullRequests,discourse_discourse-footnote,2022-01-25 10:41:01+00:00,,,,,
+35,pullRequests,discourse_discourse-footnote,2022-01-25 13:06:20+00:00,,,,,
+36,pullRequests,discourse_discourse-footnote,2022-03-22 11:48:56+00:00,,,,,
+37,pullRequests,discourse_discourse-footnote,2022-04-01 16:23:59+00:00,,,,,
+38,pullRequests,discourse_discourse-footnote,2022-04-13 13:57:16+00:00,,,,,
+39,pullRequests,discourse_discourse-footnote,2022-04-13 15:55:22+00:00,,,,,
+40,pullRequests,discourse_discourse-footnote,2022-04-29 14:44:24+00:00,,,,,
+41,pullRequests,discourse_discourse-footnote,2022-05-23 10:38:41+00:00,,,,,
+42,pullRequests,discourse_discourse-footnote,2022-06-17 19:10:54+00:00,,,,,
+43,pullRequests,discourse_discourse-footnote,2022-06-21 13:10:08+00:00,,,,,
+0,stargazers,discourse_discourse-footnote,2018-04-04 07:37:01+00:00,,,,,
+1,stargazers,discourse_discourse-footnote,2018-04-05 08:06:32+00:00,,,,,
+2,stargazers,discourse_discourse-footnote,2018-05-07 03:37:05+00:00,,,,,
+3,stargazers,discourse_discourse-footnote,2018-12-10 07:11:30+00:00,,,,,
+4,stargazers,discourse_discourse-footnote,2019-09-16 01:15:01+00:00,,,,,
+5,stargazers,discourse_discourse-footnote,2019-10-08 04:30:05+00:00,,,,,
+6,stargazers,discourse_discourse-footnote,2019-11-30 11:31:52+00:00,,,,,
+7,stargazers,discourse_discourse-footnote,2020-07-23 08:26:04+00:00,,,,,
+8,stargazers,discourse_discourse-footnote,2022-02-25 12:33:58+00:00,,,,,

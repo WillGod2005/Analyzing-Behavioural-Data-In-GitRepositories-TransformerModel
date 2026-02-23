@@ -1,0 +1,1791 @@
+,type,name,created_at,Hash,Add,Del,Files,Vuln
+3255,IssueCommentEvent,gobby_libinfinity,2015-10-13 00:05:45 UTC,,,,,
+3256,IssueCommentEvent,gobby_libinfinity,2015-10-11 23:53:16 UTC,,,,,
+8497,PushEvent,gobby_libinfinity,2015-06-10 01:21:09 UTC,,,,,
+31069,IssueCommentEvent,gobby_libinfinity,2015-10-12 19:25:06 UTC,,,,,
+61165,IssuesEvent,gobby_libinfinity,2015-10-11 23:44:33 UTC,,,,,
+90611,IssueCommentEvent,gobby_libinfinity,2015-10-13 13:45:40 UTC,,,,,
+91942,PushEvent,gobby_libinfinity,2015-05-24 17:16:44 UTC,,,,,
+107926,PushEvent,gobby_libinfinity,2015-05-13 01:49:51 UTC,,,,,
+164079,WatchEvent,gobby_libinfinity,2015-07-09 22:29:41 UTC,,,,,
+227178,PushEvent,gobby_libinfinity,2015-04-25 22:50:39 UTC,,,,,
+250889,PushEvent,gobby_libinfinity,2015-05-03 21:12:22 UTC,,,,,
+345916,PushEvent,gobby_libinfinity,2015-06-10 02:55:34 UTC,,,,,
+353807,PushEvent,gobby_libinfinity,2015-05-28 02:25:49 UTC,,,,,
+359665,IssueCommentEvent,gobby_libinfinity,2015-10-12 01:02:45 UTC,,,,,
+405186,PushEvent,gobby_libinfinity,2015-05-19 01:09:09 UTC,,,,,
+460310,PushEvent,gobby_libinfinity,2015-06-04 01:51:42 UTC,,,,,
+503391,PushEvent,gobby_libinfinity,2015-05-03 21:11:52 UTC,,,,,
+510279,IssueCommentEvent,gobby_libinfinity,2015-10-12 01:13:06 UTC,,,,,
+533745,IssueCommentEvent,gobby_libinfinity,2015-06-08 01:40:15 UTC,,,,,
+574393,PushEvent,gobby_libinfinity,2015-12-09 06:29:12 UTC,,,,,
+595954,PullRequestEvent,gobby_libinfinity,2015-06-08 01:36:18 UTC,,,,,
+610075,PushEvent,gobby_libinfinity,2015-05-07 02:00:31 UTC,,,,,
+646933,IssuesEvent,gobby_libinfinity,2015-10-14 00:12:28 UTC,,,,,
+669727,PushEvent,gobby_libinfinity,2015-05-18 02:24:54 UTC,,,,,
+685376,PushEvent,gobby_libinfinity,2015-06-08 01:36:18 UTC,,,,,
+744856,PushEvent,gobby_libinfinity,2015-01-18 01:32:33 UTC,,,,,
+915104,WatchEvent,gobby_libinfinity,2015-11-09 03:53:40 UTC,,,,,
+1122877,PushEvent,gobby_libinfinity,2015-05-23 21:26:38 UTC,,,,,
+1138796,PushEvent,gobby_libinfinity,2015-01-06 12:29:44 UTC,,,,,
+1202293,PushEvent,gobby_libinfinity,2015-04-03 17:03:58 UTC,,,,,
+1227656,PullRequestEvent,gobby_libinfinity,2015-06-07 18:34:18 UTC,,,,,
+1233936,PushEvent,gobby_libinfinity,2015-10-13 01:19:51 UTC,,,,,
+1281562,PushEvent,gobby_libinfinity,2015-05-18 03:03:35 UTC,,,,,
+1294253,CreateEvent,gobby_libinfinity,2015-05-13 01:04:18 UTC,,,,,
+1396400,PushEvent,gobby_libinfinity,2015-01-06 12:26:13 UTC,,,,,
+1396401,PushEvent,gobby_libinfinity,2015-05-23 20:52:57 UTC,,,,,
+1452079,WatchEvent,gobby_libinfinity,2015-08-07 00:33:50 UTC,,,,,
+1490066,IssueCommentEvent,gobby_libinfinity,2015-10-12 23:19:36 UTC,,,,,
+1514910,PushEvent,gobby_libinfinity,2015-01-06 13:14:12 UTC,,,,,
+1514911,PushEvent,gobby_libinfinity,2015-05-13 01:04:18 UTC,,,,,
+1613635,PushEvent,gobby_libinfinity,2015-06-10 01:22:41 UTC,,,,,
+1621602,PushEvent,gobby_libinfinity,2015-02-25 01:47:59 UTC,,,,,
+1688544,ForkEvent,gobby_libinfinity,2015-04-09 19:42:28 UTC,,,,,
+1689651,WatchEvent,gobby_libinfinity,2015-07-27 20:23:45 UTC,,,,,
+1708888,PushEvent,gobby_libinfinity,2015-10-12 23:53:46 UTC,,,,,
+1732973,PushEvent,gobby_libinfinity,2015-01-14 19:11:30 UTC,,,,,
+1748432,PushEvent,gobby_libinfinity,2015-01-14 20:27:08 UTC,,,,,
+1786120,IssueCommentEvent,gobby_libinfinity,2015-10-12 00:11:09 UTC,,,,,
+1811872,PushEvent,gobby_libinfinity,2015-05-22 23:23:23 UTC,,,,,
+1875525,PushEvent,gobby_libinfinity,2015-10-13 23:45:45 UTC,,,,,
+1915015,PushEvent,gobby_libinfinity,2015-05-12 03:05:07 UTC,,,,,
+1935014,PushEvent,gobby_libinfinity,2015-01-14 20:28:49 UTC,,,,,
+1943420,WatchEvent,gobby_libinfinity,2015-01-23 11:37:45 UTC,,,,,
+1947100,PushEvent,gobby_libinfinity,2015-12-09 06:30:07 UTC,,,,,
+1967503,WatchEvent,gobby_libinfinity,2015-08-01 18:57:21 UTC,,,,,
+1983197,WatchEvent,gobby_libinfinity,2015-10-14 19:39:16 UTC,,,,,
+1983419,CreateEvent,gobby_libinfinity,2015-10-13 23:45:14 UTC,,,,,
+2065934,PushEvent,gobby_libinfinity,2015-01-14 15:38:11 UTC,,,,,
+2085832,PushEvent,gobby_libinfinity,2015-05-05 00:32:58 UTC,,,,,
+2121853,PushEvent,gobby_libinfinity,2015-04-03 17:32:16 UTC,,,,,
+2131688,IssueCommentEvent,gobby_libinfinity,2015-10-11 23:50:14 UTC,,,,,
+2142495,CreateEvent,gobby_libinfinity,2015-01-18 01:32:38 UTC,,,,,
+2208244,ForkEvent,gobby_libinfinity,2015-06-07 18:33:26 UTC,,,,,
+2224462,PushEvent,gobby_libinfinity,2015-05-12 03:06:48 UTC,,,,,
+2236279,PushEvent,gobby_libinfinity,2015-05-23 00:13:21 UTC,,,,,
+2248117,PushEvent,gobby_libinfinity,2015-05-23 20:53:08 UTC,,,,,
+2262591,IssueCommentEvent,gobby_libinfinity,2015-10-12 01:36:05 UTC,,,,,
+2270579,IssueCommentEvent,gobby_libinfinity,2015-10-12 19:16:41 UTC,,,,,
+2283784,PushEvent,gobby_libinfinity,2015-05-01 01:34:55 UTC,,,,,
+2291269,PushEvent,gobby_libinfinity,2015-01-06 12:33:17 UTC,,,,,
+2301961,IssueCommentEvent,gobby_libinfinity,2015-10-12 00:08:32 UTC,,,,,
+2323847,CreateEvent,gobby_libinfinity,2015-01-14 15:35:48 UTC,,,,,
+2362602,PushEvent,gobby_libinfinity,2015-01-06 15:48:42 UTC,,,,,
+2480672,PushEvent,gobby_libinfinity,2015-05-24 03:53:41 UTC,,,,,
+2512027,PushEvent,gobby_libinfinity,2015-05-22 23:22:56 UTC,,,,,
+2527843,PushEvent,gobby_libinfinity,2015-01-06 13:13:04 UTC,,,,,
+2527844,PushEvent,gobby_libinfinity,2015-01-06 15:47:46 UTC,,,,,
+2603044,PushEvent,gobby_libinfinity,2015-05-05 00:32:52 UTC,,,,,
+2610881,PushEvent,gobby_libinfinity,2015-10-13 23:45:14 UTC,,,,,
+2698394,DeleteEvent,gobby_libinfinity,2015-01-14 20:29:07 UTC,,,,,
+2702114,WatchEvent,gobby_libinfinity,2015-03-27 22:22:56 UTC,,,,,
+2761007,WatchEvent,gobby_libinfinity,2015-10-15 06:25:49 UTC,,,,,
+2786591,IssueCommentEvent,gobby_libinfinity,2015-10-12 02:25:23 UTC,,,,,
+2860893,IssueCommentEvent,gobby_libinfinity,2015-10-14 00:12:28 UTC,,,,,
+2898392,PushEvent,gobby_libinfinity,2015-05-28 02:28:49 UTC,,,,,
+2918157,PushEvent,gobby_libinfinity,2015-06-10 01:23:17 UTC,,,,,
+2971898,IssueCommentEvent,gobby_libinfinity,2015-06-09 03:09:07 UTC,,,,,
+2977727,WatchEvent,gobby_libinfinity,2015-11-05 14:25:35 UTC,,,,,
+3147091,PushEvent,gobby_libinfinity,2015-10-12 23:55:06 UTC,,,,,
+3189214,IssueCommentEvent,gobby_libinfinity,2015-06-08 01:52:06 UTC,,,,,
+3214153,PushEvent,gobby_libinfinity,2015-05-31 23:14:50 UTC,,,,,
+3241945,PushEvent,gobby_libinfinity,2015-06-08 01:39:56 UTC,,,,,
+3262073,PushEvent,gobby_libinfinity,2015-05-07 02:02:17 UTC,,,,,
+3293614,PushEvent,gobby_libinfinity,2015-04-03 17:05:25 UTC,,,,,
+35770,WatchEvent,gobby_libinfinity,2016-08-12 23:55:42 UTC,,,,,
+37910,PullRequestReviewCommentEvent,gobby_libinfinity,2016-05-08 17:36:40 UTC,,,,,
+96770,PullRequestEvent,gobby_libinfinity,2016-03-18 17:52:34 UTC,,,,,
+127699,WatchEvent,gobby_libinfinity,2016-01-05 19:43:13 UTC,,,,,
+197306,WatchEvent,gobby_libinfinity,2016-01-28 09:31:45 UTC,,,,,
+233914,PullRequestReviewCommentEvent,gobby_libinfinity,2016-05-12 22:43:13 UTC,,,,,
+275142,PushEvent,gobby_libinfinity,2016-05-31 00:26:30 UTC,,,,,
+309097,PullRequestReviewCommentEvent,gobby_libinfinity,2016-05-11 23:38:19 UTC,,,,,
+338132,PushEvent,gobby_libinfinity,2016-11-01 22:30:56 UTC,,,,,
+341815,WatchEvent,gobby_libinfinity,2016-05-17 10:33:46 UTC,,,,,
+410391,PullRequestReviewCommentEvent,gobby_libinfinity,2016-05-10 21:08:48 UTC,,,,,
+470970,WatchEvent,gobby_libinfinity,2016-11-29 07:11:02 UTC,,,,,
+518615,WatchEvent,gobby_libinfinity,2016-06-22 23:43:05 UTC,,,,,
+591842,PullRequestEvent,gobby_libinfinity,2016-03-22 04:10:50 UTC,,,,,
+601988,IssueCommentEvent,gobby_libinfinity,2016-03-19 01:54:18 UTC,,,,,
+643632,PullRequestReviewCommentEvent,gobby_libinfinity,2016-05-08 16:54:22 UTC,,,,,
+690388,IssueCommentEvent,gobby_libinfinity,2016-05-08 17:45:40 UTC,,,,,
+720369,WatchEvent,gobby_libinfinity,2016-01-05 22:41:35 UTC,,,,,
+854369,IssueCommentEvent,gobby_libinfinity,2016-03-21 22:16:46 UTC,,,,,
+874893,WatchEvent,gobby_libinfinity,2016-04-16 07:17:12 UTC,,,,,
+880082,PullRequestReviewCommentEvent,gobby_libinfinity,2016-05-01 16:28:20 UTC,,,,,
+887420,WatchEvent,gobby_libinfinity,2016-01-14 09:52:13 UTC,,,,,
+893007,ForkEvent,gobby_libinfinity,2016-03-16 17:27:35 UTC,,,,,
+910938,IssueCommentEvent,gobby_libinfinity,2016-05-08 21:26:16 UTC,,,,,
+960021,WatchEvent,gobby_libinfinity,2016-09-02 13:38:33 UTC,,,,,
+962741,PushEvent,gobby_libinfinity,2016-06-05 03:50:10 UTC,,,,,
+1061801,IssuesEvent,gobby_libinfinity,2016-05-16 05:05:17 UTC,,,,,
+1088060,IssueCommentEvent,gobby_libinfinity,2016-05-10 22:20:40 UTC,,,,,
+1201797,IssueCommentEvent,gobby_libinfinity,2016-05-16 05:18:57 UTC,,,,,
+1218699,PushEvent,gobby_libinfinity,2016-03-19 02:12:07 UTC,,,,,
+1219179,WatchEvent,gobby_libinfinity,2016-01-06 04:41:52 UTC,,,,,
+1222398,WatchEvent,gobby_libinfinity,2016-01-05 18:10:32 UTC,,,,,
+1309382,PullRequestReviewCommentEvent,gobby_libinfinity,2016-05-10 21:07:48 UTC,,,,,
+1327023,PullRequestEvent,gobby_libinfinity,2016-05-08 13:33:05 UTC,,,,,
+1496662,PushEvent,gobby_libinfinity,2016-11-01 21:46:42 UTC,,,,,
+1502372,PullRequestReviewCommentEvent,gobby_libinfinity,2016-05-12 02:38:29 UTC,,,,,
+1568147,IssueCommentEvent,gobby_libinfinity,2016-03-18 18:20:24 UTC,,,,,
+1646963,IssueCommentEvent,gobby_libinfinity,2016-05-12 04:02:37 UTC,,,,,
+1675189,IssueCommentEvent,gobby_libinfinity,2016-03-19 11:52:05 UTC,,,,,
+1698954,WatchEvent,gobby_libinfinity,2016-01-05 23:54:59 UTC,,,,,
+1700445,IssueCommentEvent,gobby_libinfinity,2016-03-19 02:13:53 UTC,,,,,
+1754308,IssueCommentEvent,gobby_libinfinity,2016-05-12 04:01:13 UTC,,,,,
+1818432,PushEvent,gobby_libinfinity,2016-05-30 20:23:21 UTC,,,,,
+1907546,PullRequestEvent,gobby_libinfinity,2016-05-01 11:18:19 UTC,,,,,
+1911584,IssueCommentEvent,gobby_libinfinity,2016-03-22 04:11:03 UTC,,,,,
+1938609,WatchEvent,gobby_libinfinity,2016-04-20 09:46:32 UTC,,,,,
+1940073,IssueCommentEvent,gobby_libinfinity,2016-05-08 19:17:08 UTC,,,,,
+1974818,IssueCommentEvent,gobby_libinfinity,2016-05-12 02:39:56 UTC,,,,,
+1999208,PullRequestEvent,gobby_libinfinity,2016-03-16 17:47:30 UTC,,,,,
+2048737,WatchEvent,gobby_libinfinity,2016-01-13 00:30:28 UTC,,,,,
+2058427,CreateEvent,gobby_libinfinity,2016-11-01 21:46:30 UTC,,,,,
+2067103,PushEvent,gobby_libinfinity,2016-03-22 04:10:50 UTC,,,,,
+2088087,IssueCommentEvent,gobby_libinfinity,2016-03-19 08:57:32 UTC,,,,,
+2184996,WatchEvent,gobby_libinfinity,2016-01-06 02:06:51 UTC,,,,,
+2193524,PullRequestReviewCommentEvent,gobby_libinfinity,2016-05-10 21:59:43 UTC,,,,,
+2196043,IssueCommentEvent,gobby_libinfinity,2016-03-21 21:51:49 UTC,,,,,
+2196044,IssueCommentEvent,gobby_libinfinity,2016-05-11 18:05:15 UTC,,,,,
+2301162,PushEvent,gobby_libinfinity,2016-11-01 22:25:45 UTC,,,,,
+2312751,IssueCommentEvent,gobby_libinfinity,2016-05-11 20:16:27 UTC,,,,,
+2369915,PullRequestReviewCommentEvent,gobby_libinfinity,2016-05-12 02:38:01 UTC,,,,,
+2392023,ForkEvent,gobby_libinfinity,2016-05-01 10:44:29 UTC,,,,,
+2534341,PullRequestReviewCommentEvent,gobby_libinfinity,2016-05-01 16:29:50 UTC,,,,,
+2606876,PullRequestReviewCommentEvent,gobby_libinfinity,2016-05-10 22:14:55 UTC,,,,,
+2689924,WatchEvent,gobby_libinfinity,2016-01-05 22:37:09 UTC,,,,,
+2723739,ForkEvent,gobby_libinfinity,2016-01-06 02:06:51 UTC,,,,,
+2747344,PullRequestEvent,gobby_libinfinity,2016-05-16 05:05:17 UTC,,,,,
+2788850,IssueCommentEvent,gobby_libinfinity,2016-03-20 20:43:01 UTC,,,,,
+2818917,WatchEvent,gobby_libinfinity,2016-04-20 17:25:40 UTC,,,,,
+2822069,WatchEvent,gobby_libinfinity,2016-09-20 16:45:39 UTC,,,,,
+3039340,WatchEvent,gobby_libinfinity,2016-03-21 22:38:38 UTC,,,,,
+3064062,PushEvent,gobby_libinfinity,2016-05-11 05:13:20 UTC,,,,,
+3110069,IssueCommentEvent,gobby_libinfinity,2016-05-01 16:43:00 UTC,,,,,
+3169910,IssueCommentEvent,gobby_libinfinity,2016-05-12 21:05:43 UTC,,,,,
+3178537,PullRequestEvent,gobby_libinfinity,2016-03-19 02:12:07 UTC,,,,,
+3194832,IssueCommentEvent,gobby_libinfinity,2016-05-11 05:13:50 UTC,,,,,
+3246642,PushEvent,gobby_libinfinity,2016-11-01 21:47:34 UTC,,,,,
+3278635,WatchEvent,gobby_libinfinity,2016-01-05 21:51:52 UTC,,,,,
+3473859,WatchEvent,gobby_libinfinity,2016-01-05 22:51:30 UTC,,,,,
+3504516,ForkEvent,gobby_libinfinity,2016-05-08 13:10:16 UTC,,,,,
+3521203,WatchEvent,gobby_libinfinity,2016-01-12 00:48:07 UTC,,,,,
+3534216,IssuesEvent,gobby_libinfinity,2016-01-12 00:55:28 UTC,,,,,
+3590321,WatchEvent,gobby_libinfinity,2016-01-19 00:45:10 UTC,,,,,
+3666693,PullRequestEvent,gobby_libinfinity,2016-05-11 05:07:25 UTC,,,,,
+3746485,IssueCommentEvent,gobby_libinfinity,2016-05-10 21:18:26 UTC,,,,,
+3759659,PullRequestReviewCommentEvent,gobby_libinfinity,2016-05-11 16:19:01 UTC,,,,,
+3790017,PullRequestEvent,gobby_libinfinity,2016-03-18 17:57:38 UTC,,,,,
+3794660,PullRequestReviewCommentEvent,gobby_libinfinity,2016-05-08 17:39:45 UTC,,,,,
+3861654,WatchEvent,gobby_libinfinity,2016-03-16 19:18:51 UTC,,,,,
+3878329,PullRequestEvent,gobby_libinfinity,2016-03-18 18:01:45 UTC,,,,,
+4034780,PushEvent,gobby_libinfinity,2016-05-16 05:05:17 UTC,,,,,
+4043756,PullRequestReviewCommentEvent,gobby_libinfinity,2016-05-12 22:41:10 UTC,,,,,
+4101028,PushEvent,gobby_libinfinity,2016-05-11 05:07:25 UTC,,,,,
+4113678,PushEvent,gobby_libinfinity,2016-06-05 22:39:00 UTC,,,,,
+4153401,IssueCommentEvent,gobby_libinfinity,2016-05-16 05:05:53 UTC,,,,,
+89300,ForkEvent,gobby_libinfinity,2017-03-11 17:20:14 UTC,,,,,
+295247,ForkEvent,gobby_libinfinity,2017-10-14 14:02:43 UTC,,,,,
+441035,PushEvent,gobby_libinfinity,2017-03-26 14:01:13 UTC,,,,,
+549411,PushEvent,gobby_libinfinity,2017-02-28 05:59:29 UTC,,,,,
+648437,PushEvent,gobby_libinfinity,2017-02-28 05:38:04 UTC,,,,,
+731092,PushEvent,gobby_libinfinity,2017-02-28 05:59:28 UTC,,,,,
+756889,PushEvent,gobby_libinfinity,2017-01-08 23:34:01 UTC,,,,,
+861636,PushEvent,gobby_libinfinity,2017-11-02 15:21:02 UTC,,,,,
+869837,PushEvent,gobby_libinfinity,2017-02-28 05:37:05 UTC,,,,,
+885489,PushEvent,gobby_libinfinity,2017-02-16 06:20:54 UTC,,,,,
+934228,PushEvent,gobby_libinfinity,2017-01-13 05:45:34 UTC,,,,,
+1025457,WatchEvent,gobby_libinfinity,2017-07-15 13:57:47 UTC,,,,,
+1034434,WatchEvent,gobby_libinfinity,2017-03-22 19:29:59 UTC,,,,,
+1076914,WatchEvent,gobby_libinfinity,2017-02-09 09:15:12 UTC,,,,,
+1175256,WatchEvent,gobby_libinfinity,2017-03-27 13:54:16 UTC,,,,,
+1234658,WatchEvent,gobby_libinfinity,2017-01-28 14:48:24 UTC,,,,,
+1625311,WatchEvent,gobby_libinfinity,2017-05-29 19:28:32 UTC,,,,,
+1725897,WatchEvent,gobby_libinfinity,2017-05-29 16:03:53 UTC,,,,,
+1763804,WatchEvent,gobby_libinfinity,2017-11-19 22:23:47 UTC,,,,,
+1889957,WatchEvent,gobby_libinfinity,2017-04-24 11:27:25 UTC,,,,,
+1923340,CreateEvent,gobby_libinfinity,2017-01-09 00:48:15 UTC,,,,,
+1939970,CreateEvent,gobby_libinfinity,2017-02-28 05:59:39 UTC,,,,,
+1981047,CreateEvent,gobby_libinfinity,2017-02-28 05:59:39 UTC,,,,,
+2061030,IssuesEvent,gobby_libinfinity,2017-01-13 05:47:54 UTC,,,,,
+2232925,IssuesEvent,gobby_libinfinity,2017-01-12 21:49:50 UTC,,,,,
+4319975,IssueCommentEvent,gobby_libinfinity,2017-01-13 05:47:54 UTC,,,,,
+81162,ForkEvent,gobby_libinfinity,2018-08-26 06:32:31 UTC,,,,,
+104344,ForkEvent,gobby_libinfinity,2019-01-01 22:07:34 UTC,,,,,
+144911,ForkEvent,gobby_libinfinity,2018-03-23 03:10:28 UTC,,,,,
+245661,ForkEvent,gobby_libinfinity,2018-08-06 19:12:14 UTC,,,,,
+865165,PushEvent,gobby_libinfinity,2018-03-23 07:29:44 UTC,,,,,
+1009774,WatchEvent,gobby_libinfinity,2018-12-22 04:03:50 UTC,,,,,
+1024912,WatchEvent,gobby_libinfinity,2018-08-22 19:15:10 UTC,,,,,
+1249226,WatchEvent,gobby_libinfinity,2018-07-12 03:45:24 UTC,,,,,
+1268567,WatchEvent,gobby_libinfinity,2018-02-09 13:47:47 UTC,,,,,
+1348857,WatchEvent,gobby_libinfinity,2018-03-14 19:29:03 UTC,,,,,
+1397538,WatchEvent,gobby_libinfinity,2018-07-27 06:47:15 UTC,,,,,
+1635073,WatchEvent,gobby_libinfinity,2018-05-25 10:35:28 UTC,,,,,
+1823300,WatchEvent,gobby_libinfinity,2018-08-06 19:12:13 UTC,,,,,
+1838351,WatchEvent,gobby_libinfinity,2018-03-15 05:10:46 UTC,,,,,
+2113518,IssuesEvent,gobby_libinfinity,2018-09-28 04:46:37 UTC,,,,,
+2131396,IssuesEvent,gobby_libinfinity,2018-08-18 13:56:35 UTC,,,,,
+2306256,IssuesEvent,gobby_libinfinity,2018-02-23 16:36:42 UTC,,,,,
+2318022,IssuesEvent,gobby_libinfinity,2018-08-20 19:56:53 UTC,,,,,
+2547215,PullRequestEvent,gobby_libinfinity,2018-03-23 03:13:55 UTC,,,,,
+2774986,PullRequestEvent,gobby_libinfinity,2018-03-23 07:29:44 UTC,,,,,
+2932594,IssueCommentEvent,gobby_libinfinity,2018-02-24 10:27:09 UTC,,,,,
+3134049,IssueCommentEvent,gobby_libinfinity,2018-03-23 07:29:47 UTC,,,,,
+3719290,IssueCommentEvent,gobby_libinfinity,2018-08-18 14:00:04 UTC,,,,,
+4275465,IssueCommentEvent,gobby_libinfinity,2018-02-26 17:39:16 UTC,,,,,
+71078,ForkEvent,gobby_libinfinity,2019-03-17 13:29:24 UTC,,,,,
+239370,ForkEvent,gobby_libinfinity,2019-10-16 19:19:15 UTC,,,,,
+347683,ForkEvent,gobby_libinfinity,2019-05-22 12:17:39 UTC,,,,,
+1263656,WatchEvent,gobby_libinfinity,2019-03-17 13:29:14 UTC,,,,,
+1307472,WatchEvent,gobby_libinfinity,2019-11-21 07:06:55 UTC,,,,,
+1331569,WatchEvent,gobby_libinfinity,2019-02-17 01:30:30 UTC,,,,,
+1620669,WatchEvent,gobby_libinfinity,2019-09-26 01:17:44 UTC,,,,,
+1745138,WatchEvent,gobby_libinfinity,2019-12-13 02:54:30 UTC,,,,,
+1825338,WatchEvent,gobby_libinfinity,2019-09-26 01:17:41 UTC,,,,,
+2104745,WatchEvent,gobby_libinfinity,2019-04-10 12:28:20 UTC,,,,,
+2238761,WatchEvent,gobby_libinfinity,2020-01-12 14:40:22 UTC,,,,,
+2693282,IssuesEvent,gobby_libinfinity,2019-10-10 01:43:02 UTC,,,,,
+2814848,IssuesEvent,gobby_libinfinity,2019-12-09 16:49:39 UTC,,,,,
+2903444,IssuesEvent,gobby_libinfinity,2019-12-09 16:46:15 UTC,,,,,
+4139952,IssueCommentEvent,gobby_libinfinity,2019-10-16 19:03:35 UTC,,,,,
+4313283,IssueCommentEvent,gobby_libinfinity,2019-12-27 00:28:51 UTC,,,,,
+4418826,IssueCommentEvent,gobby_libinfinity,2019-12-15 16:11:28 UTC,,,,,
+4742300,IssueCommentEvent,gobby_libinfinity,2019-12-09 16:49:39 UTC,,,,,
+5483927,IssueCommentEvent,gobby_libinfinity,2019-10-16 20:06:35 UTC,,,,,
+5547153,IssueCommentEvent,gobby_libinfinity,2019-12-15 17:41:21 UTC,,,,,
+0,Commit,gobby_libinfinity,2020-11-26 23:19:14,00b0c5caceaaadd9477cd64cc48ebd0170a719b1,1.0,1.0,1.0,0.0
+1,Commit,gobby_libinfinity,2020-11-24 20:50:15,b769d38bbee1a9772b48bc362a264e76e53fffc5,1.0,1.0,1.0,0.0
+2,Commit,gobby_libinfinity,2020-11-24 20:32:55,96a014af254c90e8077516125184402bd9b8ed1a,8.0,0.0,1.0,0.0
+3,Commit,gobby_libinfinity,2020-11-15 18:41:56,e8650dd3f22e0f28a4b45f3175c0f6353bbc99a5,7.0,1.0,1.0,0.0
+4,Commit,gobby_libinfinity,2020-08-16 19:42:35,bd546d043d67324200a2d0f3a8cbf7b01ce7a4a6,28.0,23.0,1.0,0.0
+5,Commit,gobby_libinfinity,2017-11-02 15:20:36,67eb3cecdf65e9cb53d5270c2cf4dc89ce2f1cdf,39.0,1.0,4.0,0.0
+6,Commit,gobby_libinfinity,2017-03-26 13:58:41,61aa1dfe0de8627d693575d99d7c7644e9d839b9,226.0,228.0,30.0,0.0
+7,Commit,gobby_libinfinity,2017-02-28 05:56:04,f976baf6d7eaea054be0c20ee4db1db4b99b6561,1.0,1.0,1.0,0.0
+8,Commit,gobby_libinfinity,2017-02-28 05:51:03,9d828b4c8b8e64e33ebd8fffff1bf0b2b3fe35f0,6.0,0.0,1.0,0.0
+9,Commit,gobby_libinfinity,2017-02-28 05:37:56,67467468be4c8f44d54d69951bb9e5066e93db17,4.0,2.0,1.0,0.0
+10,Commit,gobby_libinfinity,2017-02-16 06:19:56,2929c31573d0c80456565983f20d492e14dbc673,8.0,2.0,1.0,0.0
+11,Commit,gobby_libinfinity,2017-01-13 05:43:36,fdd7d51b04c4144630badb7eae90b306bfcd31bd,2.0,2.0,2.0,0.0
+12,Commit,gobby_libinfinity,2017-01-13 05:43:11,15721326e415264294466952e802bbe6a1ee2f68,1.0,1.0,1.0,0.0
+13,Commit,gobby_libinfinity,2017-01-08 23:23:28,9658eb6968a3161d6c752d5e2185dd24359af12a,62.0,0.0,1.0,0.0
+14,Commit,gobby_libinfinity,2017-01-08 23:22:52,39757f7bd82a48008b29dc8fd08937ebb6d40df9,38.0,8.0,8.0,0.0
+15,Commit,gobby_libinfinity,2017-01-08 23:22:47,1bfb45c623fb310f4a3bb4bf981740654006242a,1650.0,1416.0,4.0,0.0
+16,Commit,gobby_libinfinity,2016-06-05 22:38:25,6c461a34568d40dc1cfcaa6863817e70101873c8,2.0,6.0,1.0,0.0
+17,Commit,gobby_libinfinity,2016-06-05 03:49:05,76984a186ba62ad26a59328c80a7b68569ddd985,194.0,122.0,1.0,0.0
+18,Commit,gobby_libinfinity,2016-05-31 00:26:16,5091b1420ef0b48675a86f29fa3dadf82e12d8de,2.0,3.0,1.0,0.0
+19,Commit,gobby_libinfinity,2016-05-30 20:22:52,8eb9560de3ef5f0d7aa7f9f48ea9e3b55af24933,1.0,1.0,1.0,0.0
+20,Commit,gobby_libinfinity,2016-05-30 20:22:41,2c6ca5d6995e2464297f5fa45eca3ff441263785,1.0,0.0,1.0,0.0
+21,Commit,gobby_libinfinity,2016-05-13 19:21:02,ffbfe5b9422389af10ca8948684dc2e3afa1c219,82.0,2.0,4.0,0.0
+22,Commit,gobby_libinfinity,2016-05-11 05:13:09,05dc6ef69a04199f5e385c574a736a04a61f92db,38.0,5.0,1.0,0.0
+23,Commit,gobby_libinfinity,2016-05-11 05:04:50,6822c4539ff7c4f67bb85aa106b42533a4ae7c33,2.0,1.0,1.0,0.0
+24,Commit,gobby_libinfinity,2016-05-01 11:11:38,8f8c1611e6df3d5747e58c5c58efe416e9acc277,102.0,9.0,7.0,0.0
+25,Commit,gobby_libinfinity,2016-03-22 03:40:29,594c44642730bb14448ced9b668ec6e8bc9bb7d5,0.0,0.0,0.0,0.0
+26,Commit,gobby_libinfinity,2016-03-21 06:50:31,ebe18aa02d9238f47ee8ff9765db3d015765b3b7,8.0,0.0,1.0,0.0
+27,Commit,gobby_libinfinity,2016-03-18 18:21:03,4f3625534db3d7dbcfb8f4a40546444149641242,1.0,1.0,1.0,0.0
+28,Commit,gobby_libinfinity,2015-12-09 06:24:53,c074c317225f3a679c47562d5dc365ceb4dff5a5,0.0,1.0,1.0,0.0
+29,Commit,gobby_libinfinity,2015-10-13 01:21:20,b4924152a839012e0b0ed0f1107c33630b7bb6e7,0.0,20.0,1.0,0.0
+30,Commit,gobby_libinfinity,2015-10-13 01:20:04,21319ad8f2647081d6571981d4bb8935b4040dde,28.0,28.0,1.0,0.0
+31,Commit,gobby_libinfinity,2015-10-12 23:54:58,6721b411590488b5131264118dd47396413a31bd,0.0,3.0,1.0,0.0
+32,Commit,gobby_libinfinity,2015-10-12 23:51:50,42064f3a4db4e42db68c222641dd117d8da371f3,28.0,1.0,1.0,0.0
+33,Commit,gobby_libinfinity,2015-10-12 23:51:40,669b3589760ea74312fa2ab7efbfcd4faed2c744,1.0,1.0,1.0,0.0
+34,Commit,gobby_libinfinity,2015-06-10 02:54:20,0d619e54bd8c351c7e6278bdab3e0cf4a57e8488,148.0,141.0,12.0,0.0
+35,Commit,gobby_libinfinity,2015-06-10 01:23:01,4e3c752f1e3c2e1d8c61c22bf56657c3f34c517e,1.0,9.0,1.0,0.0
+36,Commit,gobby_libinfinity,2015-06-10 01:20:23,869bf91b5e760eec12b21b0ac859acb164d1132b,1.0,0.0,1.0,0.0
+37,Commit,gobby_libinfinity,2015-06-08 01:35:52,f00d234951b61fac37873194cc58448fd5f65e17,293.0,293.0,293.0,0.0
+38,Commit,gobby_libinfinity,2015-06-08 01:29:41,7921fd451db3cce7fd962080bbedc7b8648be4e9,0.0,4.0,1.0,0.0
+39,Commit,gobby_libinfinity,2015-06-08 01:29:40,2c96b4edf8c1a51c07b097e21f941bf7b040c42a,1.0,1.0,1.0,0.0
+40,Commit,gobby_libinfinity,2015-06-08 01:29:40,041b0839861de32774f15df6deeaaeb2bc484d98,1.0,1.0,1.0,0.0
+41,Commit,gobby_libinfinity,2015-06-07 18:34:04,452c72aa9544199c51101d94e26e33e51ebc5bc2,1.0,1.0,1.0,0.0
+42,Commit,gobby_libinfinity,2015-06-04 01:51:17,bef26888297375caac232fff244284cb0abfcdf2,2.0,0.0,2.0,0.0
+43,Commit,gobby_libinfinity,2015-05-31 23:14:07,817639b633e611ce04d8f42ed614408734b7427b,4.0,0.0,1.0,0.0
+44,Commit,gobby_libinfinity,2015-05-28 02:25:07,11e7fb29eaded2748b739d290a5d26bb8e588e39,1.0,1.0,1.0,0.0
+45,Commit,gobby_libinfinity,2015-05-28 02:24:49,6d69aa5a97d72460cd6f0d9de866cfcb46230bb5,23.0,3.0,1.0,0.0
+46,Commit,gobby_libinfinity,2015-05-28 02:21:52,5914b9adf5c9aeb238c78669f2869f365c41c6b8,16.0,2.0,1.0,0.0
+47,Commit,gobby_libinfinity,2015-05-28 01:12:28,e55819bc7dd2a2b1581eaa01ba321de6a36956c4,1.0,1.0,1.0,0.0
+48,Commit,gobby_libinfinity,2015-05-24 17:11:02,42c55330a4c327e4db3c45a7c08cdd92068bdf9a,12.0,32.0,1.0,0.0
+49,Commit,gobby_libinfinity,2015-05-24 03:52:00,24b0ce6d986ad399b16ee695c8d15a1cd83e73de,992.0,0.0,7.0,0.0
+50,Commit,gobby_libinfinity,2015-05-24 03:51:59,32e7feba2be355a40287d410c3efe31a86ef3e32,149.0,0.0,3.0,0.0
+51,Commit,gobby_libinfinity,2015-05-23 22:30:46,54a681d204036b8e263d672681b2f3d7a0b43707,2.0,4.0,2.0,0.0
+52,Commit,gobby_libinfinity,2015-05-23 21:26:03,e4f2618d2d9c6e90c11b505182c8b79487fb47ca,64.0,0.0,2.0,0.0
+53,Commit,gobby_libinfinity,2015-05-23 20:52:47,5b88b02e379dd692b1ec85a787a1647fe21b19af,652.0,1.0,2.0,0.0
+54,Commit,gobby_libinfinity,2015-05-23 19:12:00,e2a25a38429bed21bcf7cdca25e3bce209eeb671,33.0,1.0,1.0,0.0
+55,Commit,gobby_libinfinity,2015-05-22 23:22:26,ea5b55f8e3e3d8478f91429b8ca2bd0cff21d9b4,16.0,0.0,2.0,0.0
+56,Commit,gobby_libinfinity,2015-05-19 01:08:37,a3dff98887c973d9452d0d97785a50fd7c20a60c,9.0,0.0,1.0,0.0
+57,Commit,gobby_libinfinity,2015-05-18 02:57:42,5b2e89b98ca4887392f4ee36850225d316f0f32b,1.0,0.0,1.0,0.0
+58,Commit,gobby_libinfinity,2015-05-18 02:56:20,1eda108268adb5cd5216f207be71675434e82cb1,1.0,1.0,1.0,0.0
+59,Commit,gobby_libinfinity,2015-05-18 02:23:17,05f8baeab2f07de72648eeed00723890edd31d4e,577.0,27.0,6.0,0.0
+60,Commit,gobby_libinfinity,2015-05-18 00:29:10,254eaec3c6fadd63c0ffeeeedb11e11c786a4f1e,18.0,23.0,2.0,0.0
+61,Commit,gobby_libinfinity,2015-05-18 00:29:10,ff46d6cda9b784bcf5c0243d031a0eb9b74a41d7,72.0,55.0,4.0,0.0
+62,Commit,gobby_libinfinity,2015-05-18 00:20:44,f31b75343c93bff1e14d87904c52d6a82a714f36,1325.0,777.0,11.0,0.0
+63,Commit,gobby_libinfinity,2015-05-18 00:20:44,080b0e992cc68d96e181f767e46db48bd962571d,295.0,253.0,5.0,0.0
+64,Commit,gobby_libinfinity,2015-05-13 01:49:28,2e065b3cfd1769ae256573747ad4dbc1f5db2a59,2.0,0.0,1.0,0.0
+65,Commit,gobby_libinfinity,2015-05-12 03:03:51,c97f870f5ae13112988d9f8ad464b4f679903706,4.0,2.0,1.0,1.0
+66,Commit,gobby_libinfinity,2015-05-12 03:03:51,3be299585a2fbf44811e27190435c87a4388c725,616.0,4.0,9.0,0.0
+67,Commit,gobby_libinfinity,2015-05-12 02:57:58,f321334dd28a23699069767c892811e5522f8e20,2.0,2.0,1.0,0.0
+68,Commit,gobby_libinfinity,2015-05-12 02:57:34,bdf0e9ccd914430e2eb835a3ffddd89eb3766a56,27.0,15.0,3.0,0.0
+69,Commit,gobby_libinfinity,2015-05-07 02:03:09,753bdcecf7e0a055c10a2cb0950ba8abb3953bf6,54.0,0.0,1.0,0.0
+70,Commit,gobby_libinfinity,2015-05-07 02:03:04,2bcf03391e626bb7b69ea1e2c50ea10f2a56eb22,38.0,9.0,2.0,0.0
+71,Commit,gobby_libinfinity,2015-05-06 22:22:16,117bd0b4279ab3d4ac6d374e05d7d1edd65c3355,4.0,2.0,1.0,0.0
+72,Commit,gobby_libinfinity,2015-05-05 00:31:12,ff6b3a23c15d426cdcb2a3d48df296f170adb9c9,2.0,1.0,1.0,0.0
+73,Commit,gobby_libinfinity,2015-05-03 21:07:46,7785d613a191a23f7e2340a372ed19862bde15de,10.0,0.0,1.0,0.0
+74,Commit,gobby_libinfinity,2015-05-01 01:37:23,c774fc97b5aa3414084f82e6d85faad60e23b2af,1.0,1.0,1.0,0.0
+75,Commit,gobby_libinfinity,2015-04-25 22:49:58,f8d3cf5049b2bf6dd75fb51398df4ba0bd96ec9a,72.0,1.0,2.0,0.0
+76,Commit,gobby_libinfinity,2015-04-03 17:34:36,a638bf48a01bf34660fa4b1eb29cbb922243eb01,42.0,0.0,1.0,0.0
+77,Commit,gobby_libinfinity,2015-04-03 17:05:43,ddd81af0933deab83c09c3d95a679489818053da,1.0,0.0,1.0,0.0
+78,Commit,gobby_libinfinity,2015-04-03 17:05:43,f2d8c87de90f3fa78baa71a65dd3349731b93c1e,2.0,1.0,1.0,0.0
+79,Commit,gobby_libinfinity,2015-02-25 01:49:24,4c5c4c62f57b3751042bddd8f662903b55babf56,5.0,3.0,1.0,0.0
+80,Commit,gobby_libinfinity,2015-01-14 20:28:16,c425b60d0549b898ce378db922d8926ddcffa044,35.0,1.0,1.0,0.0
+81,Commit,gobby_libinfinity,2015-01-06 23:09:55,d243a3cb81ad55ae2fca6625566dc0625301d38f,1.0,0.0,1.0,0.0
+82,Commit,gobby_libinfinity,2015-01-06 22:39:51,a85ffdea80236172ece23b7ab6751b2e0e0a1a61,1.0,1.0,1.0,0.0
+83,Commit,gobby_libinfinity,2015-01-06 22:39:01,09531b5830ebad0d6fda82a91b4ad4a8df6b59ac,0.0,1.0,1.0,0.0
+84,Commit,gobby_libinfinity,2015-01-06 22:38:40,d8d4d723a5f06f8288237990f0309c811d6de030,1.0,1.0,1.0,0.0
+85,Commit,gobby_libinfinity,2015-01-06 15:49:50,9acdde9b656110beb23aac72ef295f31121f8629,5.0,1.0,1.0,0.0
+86,Commit,gobby_libinfinity,2015-01-06 13:15:15,dd85786081ae65ea1afab3737076d5f1cbe2506d,45.0,29.0,1.0,0.0
+87,Commit,gobby_libinfinity,2015-01-06 12:34:21,847c089267494de8dcef304885094bea6c3226f5,6.0,3.0,1.0,0.0
+88,Commit,gobby_libinfinity,2014-12-23 12:32:41,7fc1aa2454d46588d37596636fbe710bb01100da,1.0,1.0,1.0,0.0
+89,Commit,gobby_libinfinity,2014-12-23 12:18:08,8231b949b4a41e420646a7d4e6a4e51af8516d3f,1.0,0.0,1.0,0.0
+90,Commit,gobby_libinfinity,2014-12-23 12:03:08,0469f348ae90922dd83e0998ad8b7a31895e9c1c,1.0,1.0,1.0,0.0
+91,Commit,gobby_libinfinity,2014-12-23 11:56:41,fb4817ed8da337b79257d72ef186cfe66a81d9f0,1.0,1.0,1.0,0.0
+92,Commit,gobby_libinfinity,2014-12-23 11:52:22,29b58e0f9b0166be93b5878a530b3b2f7272b25c,1.0,1.0,1.0,0.0
+93,Commit,gobby_libinfinity,2014-12-23 11:46:15,f17572de2cf601586ece6023d6c79267d85c2b6c,1.0,0.0,1.0,0.0
+94,Commit,gobby_libinfinity,2014-11-25 15:51:48,8b8ba82b2d587adb2de73d7592eacfb4c3271840,76.0,1.0,3.0,0.0
+95,Commit,gobby_libinfinity,2014-10-28 17:42:44,3048b6c3faf088787691501f112e883780395924,781.0,187.0,1.0,0.0
+96,Commit,gobby_libinfinity,2014-10-28 17:42:35,050e26b7f6a15b616302942d34d2c35610815b13,2.0,0.0,1.0,0.0
+97,Commit,gobby_libinfinity,2014-10-28 17:42:35,dd37b5a53f929565a785104c7a2de7f8da0df280,2.0,0.0,1.0,0.0
+98,Commit,gobby_libinfinity,2014-10-28 17:32:19,cb63d072f30f3cb9768235a05d7f6f0b73501790,85.0,82.0,1.0,0.0
+99,Commit,gobby_libinfinity,2014-10-28 14:30:45,705844df34ae9afd4c2664f075e800862f689610,24.0,7.0,2.0,0.0
+100,Commit,gobby_libinfinity,2014-10-28 14:30:35,09d040575ac650beee3eaf4d5107107fdb6fc16e,3.0,0.0,1.0,0.0
+101,Commit,gobby_libinfinity,2014-10-27 21:24:33,631d0396631c4f155cfeddaa60f68fc5f96654d3,3.0,1.0,2.0,0.0
+102,Commit,gobby_libinfinity,2014-10-26 14:37:56,7fcb1435b7d241b37ba1a31d5cb3c56812f74f8c,5.0,2.0,1.0,0.0
+103,Commit,gobby_libinfinity,2014-10-22 17:46:28,bcc3748742b8ba1c6bb0cd5487a0f5b3ef706287,7.0,1.0,2.0,0.0
+104,Commit,gobby_libinfinity,2014-10-22 17:19:04,17d1c4ca5cd063f3dcbfb026dd282fc6aeae36e3,524.0,1.0,2.0,0.0
+105,Commit,gobby_libinfinity,2014-10-22 16:38:32,096634c70bf9bb0c466df2f4cd4fea02cf8f3c96,17.0,0.0,3.0,0.0
+106,Commit,gobby_libinfinity,2014-10-18 17:39:57,c361c7042732499b0cc39e9bbf1f5e331d0791a9,17.0,1.0,1.0,0.0
+107,Commit,gobby_libinfinity,2014-10-18 17:39:06,addc7ea864f111837324805e41ec5efab7267532,2.0,0.0,1.0,0.0
+108,Commit,gobby_libinfinity,2014-10-09 17:19:14,799dab8dea1bc6f267171b2f6b1b288bdb6cc419,24.0,1.0,3.0,0.0
+109,Commit,gobby_libinfinity,2014-10-09 16:53:46,d4a53299ee2fbc1ce65c0638a0945f84a75f9169,2.0,1.0,1.0,0.0
+110,Commit,gobby_libinfinity,2014-10-09 16:53:32,a32706cb48ab2237c1d31eda9207575898fb7833,36.0,12.0,1.0,0.0
+111,Commit,gobby_libinfinity,2014-10-09 16:51:49,9ef618ba96dd59a3c54bfc56eac2aa7fc6602085,43.0,2.0,1.0,0.0
+112,Commit,gobby_libinfinity,2014-10-09 16:51:28,e95c4668f539f3876889e47e26d42f1f164d7d90,26.0,9.0,3.0,0.0
+113,Commit,gobby_libinfinity,2014-10-06 22:05:52,84332bab84749f461d167e66f60cb892f3a83e41,2.0,2.0,2.0,0.0
+114,Commit,gobby_libinfinity,2014-10-05 00:49:28,8ee092630f84541f00b94bb71bbab45bbb6d8bdc,4.0,1.0,1.0,0.0
+115,Commit,gobby_libinfinity,2014-10-01 18:39:53,3430961b51ea6ad75eea7302495d5c1a8d9b3292,287.0,6.0,4.0,0.0
+116,Commit,gobby_libinfinity,2014-10-01 16:49:32,c10300f6a4d24655c14bb230801baf897d349303,2.0,0.0,1.0,0.0
+117,Commit,gobby_libinfinity,2014-09-21 02:02:33,920bbbafb5307d365d64ef6faf2bed50a2a23c7d,16.0,4.0,1.0,0.0
+118,Commit,gobby_libinfinity,2014-09-21 02:01:37,00d1c2f3a160ffb4b60b22c038cd1a3318f8ac2d,939.0,2.0,3.0,0.0
+119,Commit,gobby_libinfinity,2014-09-20 21:41:49,e43df07b37dc2a109cb476367173530e4b7917e9,2.0,6.0,1.0,0.0
+120,Commit,gobby_libinfinity,2014-09-20 21:35:22,5004929579e2eae88294969bb72baa94fe9cbb9e,1.0,0.0,1.0,0.0
+121,Commit,gobby_libinfinity,2014-09-20 21:34:36,65c02c286a34c75112549566615d4484d4378590,82.0,4.0,1.0,0.0
+122,Commit,gobby_libinfinity,2014-09-20 21:33:58,fc691035f2fbe629b67ea4d1d8dc1d039f13a5c6,1.0,2.0,1.0,0.0
+123,Commit,gobby_libinfinity,2014-09-13 00:03:21,e9cd4639c6f98b6f8c3244b2d8281fa487bf06d0,10.0,59.0,5.0,0.0
+124,Commit,gobby_libinfinity,2014-09-12 23:47:35,3d616208ea4c505327a75a4f25b9ea22efeb658a,16.0,18.0,11.0,0.0
+125,Commit,gobby_libinfinity,2014-09-12 22:56:36,23aec76417aef64318d560246149d1ba7949f0c9,1.0,1.0,1.0,0.0
+126,Commit,gobby_libinfinity,2014-09-12 22:53:37,ae12ba76a5c67a8d6778e726d5f1db8dad93b8aa,75.0,161.0,40.0,0.0
+127,Commit,gobby_libinfinity,2014-09-12 19:02:29,37afb068e89fc1aed45f795581904c3aaec34e36,1.0,1.0,1.0,0.0
+128,Commit,gobby_libinfinity,2014-09-12 14:14:14,61f8eb8ce4a1da94b2e6d270d72ad56490d3e73b,19.0,502.0,5.0,0.0
+129,Commit,gobby_libinfinity,2014-09-11 22:55:04,7b3862a4abdbc166c34c0053e7a2293fcadf527b,189.0,348.0,37.0,0.0
+130,Commit,gobby_libinfinity,2014-09-11 22:18:48,0b933ff98317fc1b1984dd5d8c38c52ee65ec07b,82.0,257.0,18.0,0.0
+131,Commit,gobby_libinfinity,2014-09-11 18:33:30,463d7298eb26999c94193a5fc7a9285b28d090e1,926.0,73.0,16.0,0.0
+132,Commit,gobby_libinfinity,2014-09-11 18:33:30,1f548d86f750794f222def5f69cdbc13a9b6a35e,2.0,0.0,1.0,0.0
+133,Commit,gobby_libinfinity,2014-09-11 18:33:30,3401dede9e7e17f27f1289bbb0c0f4ff73696da2,19.0,11.0,1.0,0.0
+134,Commit,gobby_libinfinity,2014-09-10 17:12:10,9bee2543a503fdeee5cebb48d994f4d0bba6100f,1375.0,993.0,125.0,0.0
+135,Commit,gobby_libinfinity,2014-09-09 01:35:41,4c3032c820b9cdb23c2fbb064a78f6b0be1d264a,470.0,275.0,13.0,0.0
+136,Commit,gobby_libinfinity,2014-09-08 20:56:45,d1fa9e120bfce1b55f0ef949bfab3cc1e20aa4e5,67.0,34.0,16.0,0.0
+137,Commit,gobby_libinfinity,2014-09-08 20:56:03,24fe1b32a69f72f5d781d84e845bba464f8f94af,61.0,50.0,5.0,0.0
+138,Commit,gobby_libinfinity,2014-09-08 16:00:03,42269d8860861cec557ff8a8bc9ca336713b5996,2.0,1.0,1.0,0.0
+139,Commit,gobby_libinfinity,2014-09-08 13:32:52,ccf903ad0f058a08ad4160c247c79d00c5019ba1,5.0,0.0,1.0,0.0
+140,Commit,gobby_libinfinity,2014-09-08 01:58:54,fa03e5beab7a13950744a5c0d8177189d0128cd1,78.0,62.0,25.0,0.0
+141,Commit,gobby_libinfinity,2014-09-08 00:42:34,1150dfc5a69d931e7f796ea304a233501ed5eec6,64.0,5.0,1.0,0.0
+142,Commit,gobby_libinfinity,2014-09-08 00:41:45,42460de4e637aef690f534317924577aaab5f92b,86.0,0.0,3.0,0.0
+143,Commit,gobby_libinfinity,2014-09-07 22:43:56,82a31180d770b2f1dd6601e49b90a33d4ccd52da,1222.0,1179.0,3.0,0.0
+144,Commit,gobby_libinfinity,2014-09-07 22:43:12,193d576366a5efc2dd346bf213fd6c0fd182db2e,37.0,1.0,10.0,0.0
+145,Commit,gobby_libinfinity,2014-09-07 22:23:22,f8a8edd17271d31aed357c418a02e152c722cf6b,384.0,316.0,5.0,0.0
+146,Commit,gobby_libinfinity,2014-09-07 21:35:54,c4132254be2f9b58e620dd277d0d5477d4fba7ca,186.0,182.0,4.0,0.0
+147,Commit,gobby_libinfinity,2014-09-07 02:39:04,caaddc3d32a062cd0e43f3df65a638dd6a3e2946,277.0,228.0,6.0,0.0
+148,Commit,gobby_libinfinity,2014-09-07 00:56:36,efa352f9715c1cbbb129c12b7ccc09c505a22ebb,423.0,199.0,5.0,0.0
+149,Commit,gobby_libinfinity,2014-09-06 00:13:45,be3bdc117b3f15b84c6c7843a9731ab0d44e3791,193.0,78.0,4.0,0.0
+150,Commit,gobby_libinfinity,2014-09-05 21:54:35,cbd77892abd5a71bd904f93d3d8fc0171ea35fe0,255.0,155.0,7.0,0.0
+151,Commit,gobby_libinfinity,2014-09-05 19:17:39,b34869b0f047a29b551027af3108ac892af076f1,5.0,0.0,9.0,0.0
+152,Commit,gobby_libinfinity,2014-09-05 18:20:42,5e8db2eb8599e67cd2ac46690535907e4c3ba09c,8.0,9.0,5.0,0.0
+153,Commit,gobby_libinfinity,2014-09-05 17:53:48,fa698233b88a081307e6dd9f5982c2cdf5a944ee,2454.0,6952.0,123.0,0.0
+154,Commit,gobby_libinfinity,2014-09-03 22:34:13,604241c4fbc385191743b8646d53f9383271ff3b,4.0,4.0,1.0,0.0
+155,Commit,gobby_libinfinity,2014-09-03 22:30:16,69bb095ae3f07f384838fcf8699a7f2024e06a65,109.0,110.0,2.0,0.0
+156,Commit,gobby_libinfinity,2014-09-03 15:10:25,d3b14a40cd1f38f1455f7f0fa6da006aa83bb8cc,1.0,1.0,1.0,0.0
+157,Commit,gobby_libinfinity,2014-09-03 15:09:50,f709632c87d29c934c5c0a7159c7e2f4e565e699,8.0,3.0,1.0,0.0
+158,Commit,gobby_libinfinity,2014-09-03 13:24:41,514c3cbc0731f14ea72359c3407bed86b24dfdc0,9.0,6.0,4.0,0.0
+159,Commit,gobby_libinfinity,2014-09-03 02:28:19,986046339109346739362702ae5ce4219b4cac35,1.0,1.0,1.0,0.0
+160,Commit,gobby_libinfinity,2014-09-03 02:20:23,68b67a9aa19014e9cfc50342a3532d3a31a19e7f,36.0,135.0,6.0,0.0
+161,Commit,gobby_libinfinity,2014-09-03 01:47:56,576ff061faec3b82c12c2c155116403be937a4ec,72.0,81.0,6.0,0.0
+162,Commit,gobby_libinfinity,2014-09-03 01:22:04,6a0791cfcf0ff8a91f12b76a02f090c3b0da625c,2.0,2.0,1.0,0.0
+163,Commit,gobby_libinfinity,2014-09-03 01:18:38,59e6cf736d34088a544be141f0edad15473caf33,15.0,65.0,4.0,0.0
+164,Commit,gobby_libinfinity,2014-09-02 00:03:35,d04e500795f787445f0bdbdd9d8c8825acd1cc93,0.0,0.0,0.0,0.0
+165,Commit,gobby_libinfinity,2014-09-01 15:55:37,22be6f9d57d6476c7407007ccccc1702936fb53b,13.0,1.0,1.0,0.0
+166,Commit,gobby_libinfinity,2014-08-31 01:37:16,100254ecbfc5cea4363829b6eeb2d348149942c5,37.0,4.0,7.0,0.0
+167,Commit,gobby_libinfinity,2014-08-29 14:43:37,e234f8dfdc2c1f704ea8f23bb6545d011b591b7d,7.0,0.0,2.0,0.0
+168,Commit,gobby_libinfinity,2014-08-29 14:02:15,4a5bd2c22458240b9be99e363fc407bf7600054f,19.0,0.0,1.0,0.0
+169,Commit,gobby_libinfinity,2014-08-29 13:46:13,70948c67290736cd217353cde27db7d247a2afe0,0.0,0.0,0.0,0.0
+170,Commit,gobby_libinfinity,2014-08-28 20:11:08,1e540018518dd37db55ac5189112131603121c9c,2.0,2.0,1.0,0.0
+171,Commit,gobby_libinfinity,2014-08-27 12:47:43,7a34a422cb477c2efcfcf0c09b5faeae2bee0b5d,43.0,26.0,1.0,0.0
+172,Commit,gobby_libinfinity,2014-08-26 23:11:58,4f9dc2f47987bd2739e59c2f1e82ef8816fabec1,1.0,1.0,1.0,0.0
+173,Commit,gobby_libinfinity,2014-08-26 22:58:16,ec57016a31e99d9065afbc77e9575cfdd9411185,3.0,3.0,1.0,0.0
+174,Commit,gobby_libinfinity,2014-08-25 02:43:37,eae469370dcefdc5be0f08b3c083a5d5b79bfb77,2.0,0.0,1.0,0.0
+175,Commit,gobby_libinfinity,2014-08-24 16:31:36,23afbe1e3d8a6692b4cf962d384ff2ee98b4d42e,25.0,558.0,19.0,0.0
+176,Commit,gobby_libinfinity,2014-08-24 14:11:10,b79893e2186046e5e92f875e9d3b7ebc8300e918,2.0,0.0,1.0,0.0
+177,Commit,gobby_libinfinity,2014-08-23 17:40:08,a114b6590d2511bd994ed3e7b1c8e44f059c98c1,112.0,112.0,24.0,0.0
+178,Commit,gobby_libinfinity,2014-08-23 17:06:03,9952497a8d6ce591cc77cc7cc9a3f8e350870a30,47.0,0.0,1.0,0.0
+179,Commit,gobby_libinfinity,2014-08-23 17:05:55,85dbbc473ce05f4c2c13b7baff33fc46e1458afe,4.0,0.0,1.0,0.0
+180,Commit,gobby_libinfinity,2014-08-23 17:05:54,1cfaa3085a3029b7ae46de407bc2fd2474c964cb,1.0,1.0,1.0,0.0
+181,Commit,gobby_libinfinity,2014-08-22 19:15:32,7fb92feac55fa14a606c80fe9f8bbe408eed0cd5,37.0,5.0,4.0,0.0
+182,Commit,gobby_libinfinity,2014-08-22 17:03:50,b2bd6fc0f93b609e16be6d9b24c5d58691bba7dd,2.0,1.0,2.0,0.0
+183,Commit,gobby_libinfinity,2014-08-22 15:40:06,416d010b9ed29bf034164d31f2f7a77c2d73608a,5085.0,1396.0,4.0,0.0
+184,Commit,gobby_libinfinity,2014-08-22 02:10:27,34232a2c4c597c94d715aa0c39666d205a71464d,66.0,17.0,27.0,0.0
+185,Commit,gobby_libinfinity,2014-08-22 00:27:50,c89bcafccf5a971e8435b5d65167dc6bf4f25205,15.0,9.0,5.0,0.0
+186,Commit,gobby_libinfinity,2014-08-21 22:41:11,1604ff38b5fd64394c0264fa7af45a6594c696c4,17.0,17.0,1.0,0.0
+187,Commit,gobby_libinfinity,2014-08-21 22:29:06,a87f0ed6fc5b423e55f725d44791376588d653fb,13.0,2.0,1.0,0.0
+188,Commit,gobby_libinfinity,2014-08-21 21:58:45,00c4322842600f429c74eddfde2c36ef9f014d04,1.0,1.0,1.0,0.0
+189,Commit,gobby_libinfinity,2014-08-21 20:50:56,b6b0b404480fd7610fb24a728ec5d513b1af911b,8.0,2.0,1.0,0.0
+190,Commit,gobby_libinfinity,2014-08-21 20:50:55,365fa90ab4b9ff7698b11455c60859f3368663ea,22.0,0.0,1.0,0.0
+191,Commit,gobby_libinfinity,2014-08-21 20:50:54,943254a96d448d2faa43cebc037c0dbc99868ce2,1.0,1.0,1.0,0.0
+192,Commit,gobby_libinfinity,2014-08-21 20:50:52,a81a5b5cf93e323721e6054c593d8e67ae91bef7,10.0,3.0,1.0,0.0
+193,Commit,gobby_libinfinity,2014-08-21 20:50:51,7873c4f019b5a81ad088997e04ce34e5d75f6884,10.0,1.0,1.0,0.0
+194,Commit,gobby_libinfinity,2014-08-21 20:50:50,56d6c679c4bb737ea1dedc29a35cca3d659be4ef,24.0,1.0,1.0,0.0
+195,Commit,gobby_libinfinity,2014-08-21 20:49:55,5257f0f9f8dc80f8f9eb6397d843cc95ce313082,9.0,0.0,1.0,0.0
+196,Commit,gobby_libinfinity,2014-08-21 20:49:53,b40d04d93fd7c94eb52c2553f07e384ae7fa4220,2.0,1.0,1.0,0.0
+197,Commit,gobby_libinfinity,2014-08-21 20:49:52,c290f6d8e84654e3826f75337279a47013cc33c4,743.0,223.0,6.0,0.0
+198,Commit,gobby_libinfinity,2014-08-21 20:49:51,8401d29051448f4f2590d5d691bd15906f800356,651.0,222.0,4.0,0.0
+199,Commit,gobby_libinfinity,2014-08-21 20:49:49,ee3e24849ef65f658fddf45f16bdef104544937d,1574.0,1.0,6.0,0.0
+200,Commit,gobby_libinfinity,2014-08-19 15:08:45,0fe67f9b9be5ed9fa5918ee9cd324894bd8aedf3,7.0,2.0,1.0,0.0
+201,Commit,gobby_libinfinity,2014-08-19 02:24:52,1bb4690ab9061e1c8cd128ce14414f1ccad00017,1.0,1.0,1.0,0.0
+202,Commit,gobby_libinfinity,2014-08-18 22:10:59,0cb6099eb0601edc8dd8160635cf4ab9585ae8d1,2574.0,2227.0,15.0,0.0
+203,Commit,gobby_libinfinity,2014-08-18 22:10:54,0f5c5a88bf35113035fafee5b33f64fb8a46f2c4,11.0,7.0,1.0,0.0
+204,Commit,gobby_libinfinity,2014-08-18 21:26:54,2dc5846b243b10cb556ab5a6a6858ba7c755916a,56.0,12.0,1.0,0.0
+205,Commit,gobby_libinfinity,2014-08-18 20:26:04,01eb49a842d5e3fb292c1b51cb71a0bb0573648c,2.0,23.0,2.0,0.0
+206,Commit,gobby_libinfinity,2014-08-18 20:26:04,c666b95a8e4c8f124291c9f8f83321a80ac81cc7,23.0,0.0,1.0,0.0
+207,Commit,gobby_libinfinity,2014-08-18 20:00:36,45449b2931861e67695a2d8ad1d1e046394222ef,17.0,1.0,1.0,0.0
+208,Commit,gobby_libinfinity,2014-08-18 20:00:36,6c7f4017adab1fb4b605f4b416f25983f4fc48fa,101.0,3.0,1.0,0.0
+209,Commit,gobby_libinfinity,2014-08-18 17:09:07,e07d9978e89b7da673ebf8b3265f6a5d8cc5808b,82.0,68.0,3.0,0.0
+210,Commit,gobby_libinfinity,2014-08-18 17:09:07,fdc74988a414e526c7065574fcd2e06a86288b62,33.0,13.0,2.0,0.0
+211,Commit,gobby_libinfinity,2014-08-18 16:53:31,742ff4e1a9cf1337701c13a18b9d9c989252a063,2.0,0.0,1.0,0.0
+212,Commit,gobby_libinfinity,2014-08-18 16:53:31,3c6c896fd0d1341ad4d7b3ad4932dce41246d8a9,104.0,52.0,3.0,0.0
+213,Commit,gobby_libinfinity,2014-08-18 14:15:20,569ad7d5efc7e43bbcc0ea9659b078929431e2ee,21.0,3.0,1.0,0.0
+214,Commit,gobby_libinfinity,2014-08-18 14:15:20,c0d104245c0585a22e6ebc3f0d6b9c2e0d540d2b,4.0,0.0,1.0,0.0
+215,Commit,gobby_libinfinity,2014-08-18 14:15:20,7e6b3b17c8f5f7e6cf38b1b090beea0f78e8f18b,9.0,4.0,1.0,0.0
+216,Commit,gobby_libinfinity,2014-08-18 14:15:20,e687fd618f0dda417560ab5da2cb5fb03b49d194,26.0,0.0,1.0,0.0
+217,Commit,gobby_libinfinity,2014-08-18 14:15:20,efed7ba453e652d300545b0aee2d377d0ca8d2b6,32.0,0.0,3.0,0.0
+218,Commit,gobby_libinfinity,2014-08-18 14:15:19,c98ebb4086ef09203308a5da383b98a71f71b89e,1917.0,19.0,8.0,0.0
+219,Commit,gobby_libinfinity,2014-08-15 17:14:22,c68194a97d5ddb45aff01cb2d9f7011f3a7eadeb,284.0,203.0,3.0,0.0
+220,Commit,gobby_libinfinity,2014-08-15 15:09:46,c8a0358d529b8a99168703bb37496212341c262e,1025.0,0.0,6.0,0.0
+221,Commit,gobby_libinfinity,2014-08-15 15:08:43,0dbaea2420ee278fd4b63e93720b20c1cfb2acaa,7.0,1.0,1.0,0.0
+222,Commit,gobby_libinfinity,2014-08-14 01:54:48,8c04cf744e1b54d6a3a50ea44d6850461b57fd6f,1.0,1.0,1.0,0.0
+223,Commit,gobby_libinfinity,2014-08-14 01:54:44,58d9a57fa27356b124bb714a81eb893884025c2c,3541.0,1040.0,19.0,0.0
+224,Commit,gobby_libinfinity,2014-08-13 14:51:24,b83655140face899a87287f47af9284a5c4e4fbb,11.0,9.0,1.0,0.0
+225,Commit,gobby_libinfinity,2014-08-13 01:11:31,650a6207ee994b464f710ea28beda6d3ffa4d2f7,6.0,0.0,1.0,0.0
+226,Commit,gobby_libinfinity,2014-08-10 03:01:51,b96eef880fe8a98d551c46607a05675ed20ef40e,17.0,28.0,1.0,0.0
+227,Commit,gobby_libinfinity,2014-08-09 16:10:37,12e9a8e6274f386cffb147a35b1b560d52ac530c,1.0,1.0,1.0,0.0
+228,Commit,gobby_libinfinity,2014-08-09 02:52:12,200840eb93229aa2e6b5be3de29bdcd3108519d1,13.0,0.0,1.0,0.0
+229,Commit,gobby_libinfinity,2014-08-08 01:19:20,82f991d26f15d644720d512b3949af1439168919,227.0,49.0,7.0,0.0
+230,Commit,gobby_libinfinity,2014-08-08 01:19:20,b3035a108ebb6db7e224c2604fc6215a2e25eb7b,229.0,1.0,6.0,0.0
+231,Commit,gobby_libinfinity,2014-08-08 01:19:19,ba2f8635767671ebaa29377e988c2ce9a5ec22a4,569.0,173.0,4.0,0.0
+232,Commit,gobby_libinfinity,2014-08-07 21:03:21,086fc2f4f0265760e1db94f6ceb4ba4a014e7f39,366.0,153.0,11.0,0.0
+233,Commit,gobby_libinfinity,2014-08-07 18:31:49,66360a1e45eeb3930988ba44f21f2bab2e903c6f,96.0,15.0,5.0,0.0
+234,Commit,gobby_libinfinity,2014-08-07 18:12:16,fb4ba8d7fee8d0466b209809e32c11773363b815,55.0,14.0,3.0,0.0
+235,Commit,gobby_libinfinity,2014-08-07 15:24:06,95ad52800ada168f818210664e04e34bde6265cf,8.0,2.0,1.0,0.0
+236,Commit,gobby_libinfinity,2014-08-07 15:23:13,684bdf5ee8b003f0c4a12149446858b378cdec1f,11.0,2.0,1.0,0.0
+237,Commit,gobby_libinfinity,2014-08-07 01:20:02,2cf867636d684b00493bdfa4b006cd9922fd7854,92.0,68.0,1.0,0.0
+238,Commit,gobby_libinfinity,2014-08-06 15:32:02,f90baa048556c8dbfcb9c07cb110cfe00b951c06,574.0,176.0,45.0,0.0
+239,Commit,gobby_libinfinity,2014-08-05 02:23:47,571df75d2ae995983984214d1588cab80eddd339,0.0,10.0,1.0,0.0
+240,Commit,gobby_libinfinity,2014-08-05 02:23:02,7fccfd56a7816dc488e354f0d852e5d5652e3800,2.0,0.0,1.0,0.0
+241,Commit,gobby_libinfinity,2014-07-20 20:15:41,921fd26e896b225034296732f8db485ffcec4fac,1.0,1.0,1.0,0.0
+242,Commit,gobby_libinfinity,2014-07-20 20:09:35,8154fa4a2020843ed397b4b29f17f4dfd47c1d14,65.0,56.0,2.0,0.0
+243,Commit,gobby_libinfinity,2014-07-20 19:56:08,04c3483b5088e9acbf1c288b2c43872b1bd2243b,1.0,1.0,1.0,0.0
+244,Commit,gobby_libinfinity,2014-07-16 14:55:06,67a08838002bf6b490d9156e9b90d54799f54bea,3.0,4.0,1.0,0.0
+245,Commit,gobby_libinfinity,2014-07-16 14:38:39,c55870103984ff3800c29e56dc3f740c78678cf6,3.0,3.0,1.0,0.0
+246,Commit,gobby_libinfinity,2014-07-16 14:09:59,29fe913257c1ec4c1c53b509b4e0f89cb2c0e6f5,9.0,2.0,1.0,0.0
+247,Commit,gobby_libinfinity,2014-07-16 14:02:34,a32f2da88f15d0dae6132f6d6410410daf345eed,67.0,27.0,2.0,0.0
+248,Commit,gobby_libinfinity,2014-07-16 13:37:50,5b2ae5bff7bbb031d7c58b25cc40d62cc8c16eb5,40.0,0.0,3.0,0.0
+249,Commit,gobby_libinfinity,2014-07-14 16:42:47,c6c7dc67fa27905a26e2ec54e943a5f2defed75f,42.0,14.0,3.0,0.0
+250,Commit,gobby_libinfinity,2014-07-14 16:14:59,3a612c3ce077cf2f49b1f5c51416d308e9c4a0f8,168.0,2.0,1.0,0.0
+251,Commit,gobby_libinfinity,2014-07-13 15:18:21,a4e9db590f2dd94db6eaaecbea1977adbe402c05,19.0,19.0,1.0,0.0
+252,Commit,gobby_libinfinity,2014-07-13 15:10:35,fc6b7bcf57701cb7ae2fb4aec133fb97fe72a891,1.0,0.0,1.0,0.0
+253,Commit,gobby_libinfinity,2014-07-13 14:50:38,135ac641c2a2d0e500f69294666ec1579588adea,44.0,51.0,3.0,0.0
+254,Commit,gobby_libinfinity,2014-07-13 11:34:05,fd249542ebe7d07784301bccef16d0006d3b07c4,22.0,4.0,4.0,0.0
+255,Commit,gobby_libinfinity,2014-07-13 11:34:04,581a8b4377f0d3e73a5def62b60805137b0bbdca,3.0,3.0,1.0,0.0
+256,Commit,gobby_libinfinity,2014-07-05 20:53:18,c1a24fb73b2fe0cc3e79207e21e13d48ac54ab8f,1056.0,0.0,6.0,0.0
+257,Commit,gobby_libinfinity,2014-07-05 20:31:22,cad668dd5b51bddc7d84fd07cd94650eb43fd370,395.0,0.0,5.0,0.0
+258,Commit,gobby_libinfinity,2014-07-05 20:31:22,4bef6174b6801a02e5997577fb983801f08d299d,1.0,0.0,1.0,0.0
+259,Commit,gobby_libinfinity,2014-07-05 20:31:22,ca3eb03e1caa2ad9efb817eca6ab0b08e2938316,3.0,0.0,1.0,0.0
+260,Commit,gobby_libinfinity,2014-07-05 20:08:12,08e06015be1d76304f80dd12028ed93619d47c7d,17.0,14.0,1.0,0.0
+261,Commit,gobby_libinfinity,2014-07-05 20:00:15,29e5351cbcacb0a0469e97d4f92fa03c2157ac0e,1.0,3.0,2.0,0.0
+262,Commit,gobby_libinfinity,2014-07-05 20:00:15,8bbb19df0bb5eb1c75a07377729439fb6d21f657,1.0,2.0,1.0,0.0
+263,Commit,gobby_libinfinity,2014-07-03 12:38:31,3f776966a1ef79c206b5e44b3b59910c02fa6d72,30.0,18.0,1.0,0.0
+264,Commit,gobby_libinfinity,2014-07-02 12:56:12,7bb34e741a4d8c4d88530331db7714384fe5fcc7,36.0,27.0,2.0,0.0
+265,Commit,gobby_libinfinity,2014-07-02 12:52:35,5da56cc674dc2a43c32d83e5becb5407b0345ec8,53.0,7.0,4.0,0.0
+266,Commit,gobby_libinfinity,2014-06-30 17:47:31,5e9fdc5c9a79cd455618d336a33d67af81d3afca,0.0,0.0,0.0,0.0
+267,Commit,gobby_libinfinity,2014-06-30 17:42:24,687617baa4fbdb79d599a993183686ce09b2fd7b,2.0,2.0,1.0,0.0
+268,Commit,gobby_libinfinity,2014-06-30 15:21:17,27ef5d4a8e0c5be5899155f56374cd2988f93b35,27.0,0.0,3.0,0.0
+269,Commit,gobby_libinfinity,2014-06-30 13:55:05,ef1ccbe5492e0d086e618ce323f3910b837bcf60,1.0,1.0,1.0,0.0
+270,Commit,gobby_libinfinity,2014-06-30 13:54:43,2f9298920a647d671db59c9bce6149f27fad3db9,19.0,18.0,1.0,0.0
+271,Commit,gobby_libinfinity,2014-06-29 14:31:19,6bcf72500046a5f7c11f83e256cf534a56e70058,601.0,702.0,18.0,0.0
+272,Commit,gobby_libinfinity,2014-06-29 11:50:13,9c6504ba5ae13d5b5a29608e4342dfda4714df9d,122.0,2.0,3.0,0.0
+273,Commit,gobby_libinfinity,2014-06-29 11:20:58,9fd77a7295e5395ec02118971937e8fd28266839,196.0,71.0,1.0,0.0
+274,Commit,gobby_libinfinity,2014-06-27 12:31:17,6401fb586ec9102287e350880ea678ed23a5990b,1.0,1.0,1.0,0.0
+275,Commit,gobby_libinfinity,2014-06-09 16:18:42,208c40e6d8f21007f113932030fbbc44bb29ab35,3.0,0.0,1.0,0.0
+276,Commit,gobby_libinfinity,2014-06-03 19:42:40,e43c20849d4c9a1397ff60d3c3b7ab9ac95e74b2,1.0,0.0,1.0,0.0
+277,Commit,gobby_libinfinity,2014-06-02 19:30:18,1288cdf8f8a16f31689977e4cf70f54fc1a9520e,46.0,6.0,1.0,0.0
+278,Commit,gobby_libinfinity,2014-05-16 14:31:01,8b9df18a3a49ccedce26ffa6b81339964aa78625,442.0,0.0,1.0,0.0
+279,Commit,gobby_libinfinity,2014-05-16 14:07:19,0b35ee51e0d808c956420cea9f8061218a449e4a,1.0,1.0,1.0,0.0
+280,Commit,gobby_libinfinity,2014-05-15 17:32:39,b344804d3584bc860d60431142b6453505ec8ac7,207.0,33.0,3.0,0.0
+281,Commit,gobby_libinfinity,2014-05-15 14:41:31,adb4cb3c8045e5784b38dcfa0926dcdfd1d110fd,154.0,124.0,4.0,0.0
+282,Commit,gobby_libinfinity,2014-05-14 15:42:33,30af3fc4b0c57cce4f349cfd80d1f216fe1eb8b0,2.0,0.0,1.0,0.0
+283,Commit,gobby_libinfinity,2014-05-14 15:38:41,6be10da6ac0f130deff03a3e85d3a651f97b1e17,32.0,4.0,1.0,0.0
+284,Commit,gobby_libinfinity,2014-05-11 10:33:48,d7d5c6cdf0ed5f890d5eb14c13be4d466b615f29,1.0,1.0,1.0,0.0
+285,Commit,gobby_libinfinity,2014-05-11 10:24:03,e6919ac6b4246e964a5648e1bc24e5955e1e8b20,8.0,0.0,1.0,0.0
+286,Commit,gobby_libinfinity,2014-05-09 14:18:26,3ca30b3e2bd8881368c586a7dfa828251c39a1ab,613.0,417.0,3.0,0.0
+287,Commit,gobby_libinfinity,2014-05-09 13:21:19,9879d21e64d73d007b56e75a4cbcac9eadac33e0,70.0,20.0,4.0,0.0
+288,Commit,gobby_libinfinity,2014-05-09 13:13:49,4ea815cccb2b3388a5f33d72b42ba47a93038c80,66.0,0.0,3.0,0.0
+289,Commit,gobby_libinfinity,2014-05-06 14:55:02,1e2edf642135ee87ec0cbb582d3763b17086548b,10.0,3.0,2.0,0.0
+290,Commit,gobby_libinfinity,2014-05-06 14:55:02,67be1478d72b139937d95098326ce31ba2e99dd5,5.0,8.0,1.0,0.0
+291,Commit,gobby_libinfinity,2014-05-06 14:42:04,2d907b7eea831a4d79095cee03d62a7bfd8d8d43,59.0,42.0,1.0,0.0
+292,Commit,gobby_libinfinity,2014-05-06 14:17:09,33b90bf92d17d121cf9cac5a829f7e0f20446be0,1.0,1.0,1.0,0.0
+293,Commit,gobby_libinfinity,2014-05-06 12:18:10,8ab8c9bd841011ef7c7b119a27743b1ffe1f4800,23.0,20.0,6.0,0.0
+294,Commit,gobby_libinfinity,2014-05-04 17:31:44,7bdda5389027559f10c708aa68e35a755b7a7b68,612.0,150.0,7.0,0.0
+295,Commit,gobby_libinfinity,2014-05-04 17:31:33,4d8093bad8c3bf526e6c7f93483f69eae71c4b88,1.0,3.0,1.0,0.0
+296,Commit,gobby_libinfinity,2014-05-04 17:21:34,af92d0d91e4cf692bb2ed6db4d88f7239605b753,5.0,0.0,2.0,0.0
+297,Commit,gobby_libinfinity,2014-05-04 17:21:34,85bffce83cfe8880dbc1febf4c4af31c6ac107ed,6.0,0.0,1.0,0.0
+298,Commit,gobby_libinfinity,2014-05-04 15:26:01,53ebb250c396ad4a0de492fdd34c933459f33bb8,0.0,4.0,1.0,0.0
+299,Commit,gobby_libinfinity,2014-05-04 15:26:01,54e839839f2caa165edd58585c56da26c28254c2,9.0,1.0,4.0,0.0
+300,Commit,gobby_libinfinity,2014-05-04 15:26:00,d8a306e8cbc0a5028a7950efb4f1e196ed9fc314,33.0,1.0,4.0,0.0
+301,Commit,gobby_libinfinity,2014-05-04 15:26:00,e95548e32d86c4769a19b860138d5f54ae539280,3.0,12.0,3.0,0.0
+302,Commit,gobby_libinfinity,2014-05-04 11:58:08,02ca7b677894164ca1c202b164797402d1445727,2.0,2.0,1.0,0.0
+303,Commit,gobby_libinfinity,2014-05-04 11:46:58,054a6d88054e04185dcce1d8c332b1f6c811f5b4,8.0,8.0,3.0,0.0
+304,Commit,gobby_libinfinity,2014-05-04 11:46:58,fbfc23a38364417c48db36c92f8b0f4c0ba3c66a,180.0,41.0,4.0,0.0
+305,Commit,gobby_libinfinity,2014-05-03 19:20:35,8b781bcf8511d6e7107fcd6e0e1b8a8c6e39e065,1308.0,641.0,14.0,0.0
+306,Commit,gobby_libinfinity,2014-05-03 18:37:43,c187c67d86449688b61fa2c1ffd4e763876c9037,3.0,1.0,1.0,0.0
+307,Commit,gobby_libinfinity,2014-05-03 18:37:43,f8edd98b0984ccc870d04b2ad7f6ef29d690d13c,1.0,0.0,1.0,0.0
+308,Commit,gobby_libinfinity,2014-05-02 10:23:33,287c722099e8a9d44381ed6516eca477f18f7dc8,371.0,3.0,4.0,0.0
+309,Commit,gobby_libinfinity,2014-05-02 09:18:39,ea3893a6b73ea4d4dbf06c8f4eacbb22a67d51b2,17.0,0.0,1.0,0.0
+310,Commit,gobby_libinfinity,2014-05-01 19:15:49,3cbe8c6b6113f92213800d1777599c237174ecc8,1.0,1.0,1.0,0.0
+311,Commit,gobby_libinfinity,2014-05-01 19:15:12,5a7157e75e583bce88a1805be7cae63da0bb5810,1.0,1.0,1.0,0.0
+312,Commit,gobby_libinfinity,2014-05-01 18:15:38,e1fdb9c87e1db1f6df18dc0897657ab651b9e9dd,4.0,2.0,1.0,0.0
+313,Commit,gobby_libinfinity,2014-04-30 21:18:25,c49d3e29c538030179eeb494732e4f185d72cd0a,227.0,165.0,8.0,0.0
+314,Commit,gobby_libinfinity,2014-04-27 21:50:12,f0d448a8807af1d7814a537a7a404ea104cdf211,348.0,41.0,8.0,0.0
+315,Commit,gobby_libinfinity,2014-04-27 21:11:44,d1a7c0852b6f723cc943bf98deb1d0e098b54fc1,129.0,19.0,1.0,0.0
+316,Commit,gobby_libinfinity,2014-04-27 21:11:44,a717abf035ffc06de3389f060b8f1bb9651b28fe,17.0,4.0,4.0,0.0
+317,Commit,gobby_libinfinity,2014-04-27 21:11:43,9f0236e5e4a8447e977470bcbfdf5295df4cf1db,6.0,4.0,1.0,0.0
+318,Commit,gobby_libinfinity,2014-04-27 21:11:43,f946a63a101743c6b29d8ba3ca9ebe1f275ed3f2,9.0,8.0,1.0,0.0
+319,Commit,gobby_libinfinity,2014-04-26 19:57:41,3395af5ca3c68bd81479d3597f9c3bd92ed0acb6,904.0,42.0,7.0,0.0
+320,Commit,gobby_libinfinity,2014-04-26 19:57:36,e940fcbc46f3b400ecb2265bc83a79da54930235,48.0,148.0,2.0,0.0
+321,Commit,gobby_libinfinity,2014-04-26 19:57:36,a50ed511c754c5d23cca185eb54548dd9176b080,4.0,2.0,1.0,0.0
+322,Commit,gobby_libinfinity,2014-04-26 08:09:24,5ca0e84462bbe471d91eee00660a28a60a500b29,22.0,2.0,1.0,0.0
+323,Commit,gobby_libinfinity,2014-04-19 17:26:23,61fc849a575bb93a3fecc70478c98b3f80e6a5a1,335.0,44.0,1.0,0.0
+324,Commit,gobby_libinfinity,2014-04-19 17:25:07,598ed69384c91e4636c9bbb649d1b4ff8ea4f558,5.0,2.0,1.0,0.0
+325,Commit,gobby_libinfinity,2014-04-10 15:16:06,1171093ea96156d092a45924635b3cd7769d1ec6,191.0,28.0,2.0,0.0
+326,Commit,gobby_libinfinity,2014-04-09 17:33:12,ff19814b2a91e3442f3f536978dfc65e5132ffc6,72.0,8.0,1.0,0.0
+327,Commit,gobby_libinfinity,2014-04-07 11:27:42,ce068a20618772726ccc20f3751f04114307f474,1627.0,2.0,7.0,0.0
+328,Commit,gobby_libinfinity,2014-04-05 21:03:41,e49eb90e6f53ffb96c54d2fa2c98b7e4ff6254e7,4.0,1.0,1.0,0.0
+329,Commit,gobby_libinfinity,2014-02-28 15:02:13,0cf4bd7934024673dbd4ebc4490889432b27fb84,3227.0,5150.0,65.0,0.0
+330,Commit,gobby_libinfinity,2014-02-24 21:15:14,1e7fabfa776854711035825271e06f5c6ce4a52d,11.0,5.0,1.0,0.0
+331,Commit,gobby_libinfinity,2014-02-24 21:12:47,12d4e363692fa352d31aee65143af885a61da90f,1.0,1.0,1.0,0.0
+332,Commit,gobby_libinfinity,2014-02-24 20:55:59,cecf5112459ce7f93c354b9f80831720e31d88f6,1.0,1.0,1.0,0.0
+333,Commit,gobby_libinfinity,2014-02-23 21:25:02,af955a3e1ef7cd7753b594e72bd5446a25d1ef61,8.0,0.0,1.0,0.0
+334,Commit,gobby_libinfinity,2014-02-22 21:30:22,bb7e1741413a97c30359d0aeee32b83f3ef5d438,24.0,0.0,1.0,0.0
+335,Commit,gobby_libinfinity,2014-02-17 21:42:43,264b71eac40d00ab3643060b77a71f3d216181eb,1.0,0.0,1.0,0.0
+336,Commit,gobby_libinfinity,2014-02-14 18:18:24,a8fea1c61cf03e994b3bff072ef1a8d3ba019650,1.0,1.0,1.0,0.0
+337,Commit,gobby_libinfinity,2014-02-14 18:00:40,687fb2556da44926a7a4051131f53861faea278f,1.0,0.0,1.0,0.0
+338,Commit,gobby_libinfinity,2014-02-14 14:52:10,8e5854b462001e3ca2501b3402df466bee942ba9,2.0,2.0,1.0,0.0
+339,Commit,gobby_libinfinity,2014-02-14 14:51:51,5356b8395e1333b628017c2f102f97e2332dfccc,1.0,1.0,1.0,0.0
+340,Commit,gobby_libinfinity,2014-02-08 22:21:14,9addbcbda6660c72377513535699a764decb5f24,2243.0,1.0,7.0,0.0
+341,Commit,gobby_libinfinity,2014-02-06 17:18:58,6902b68b49a94681d380d56abd18993e09ae131e,2.0,2.0,2.0,0.0
+342,Commit,gobby_libinfinity,2014-02-06 14:33:38,4f03719e33e988d86e4c7482e4ca14f21532940b,76.0,0.0,7.0,0.0
+343,Commit,gobby_libinfinity,2014-02-06 14:33:38,21bbc30c617425fe4c2f488c760af2529bf02f15,184.0,76.0,3.0,0.0
+344,Commit,gobby_libinfinity,2014-01-27 22:15:21,69da25cd114438a478ce6d9c66fe84a014a3c957,357.0,484.0,10.0,0.0
+345,Commit,gobby_libinfinity,2014-01-27 10:15:30,8931c8b560af87c3ed11472f1c09d5074f0303a2,248.0,343.0,7.0,0.0
+346,Commit,gobby_libinfinity,2014-01-27 09:40:16,9fcac38543d6f58829309608c3ad5dc3671479e8,212.0,29.0,1.0,0.0
+347,Commit,gobby_libinfinity,2014-01-27 09:40:01,46d69bbad760689fa6df0f224fbdc3d2df98f7f9,141.0,13.0,2.0,0.0
+348,Commit,gobby_libinfinity,2014-01-27 08:35:35,6983bf41ccc35ff0b1adce211ad1ba45dbb18eff,35.0,4.0,1.0,0.0
+349,Commit,gobby_libinfinity,2014-01-27 08:08:44,f5411ac85be89c6ff62f62e8877c8dfc9ead930e,72.0,31.0,7.0,0.0
+350,Commit,gobby_libinfinity,2014-01-26 20:36:59,5c6096c612214685fed13afa5b772152571fa391,41.0,5.0,1.0,0.0
+351,Commit,gobby_libinfinity,2014-01-26 11:43:06,c7c5a5d2c86f34bc1e9557e85d47a8368aeadd0b,16.0,0.0,1.0,0.0
+352,Commit,gobby_libinfinity,2014-01-24 20:06:01,9faedb7ccf0a00849b077febda9521a68718aa19,2.0,0.0,1.0,0.0
+353,Commit,gobby_libinfinity,2014-01-24 11:06:09,945f60127a1c05ef48c4f62e3996e50d2450ffaf,17.0,1.0,3.0,0.0
+354,Commit,gobby_libinfinity,2014-01-24 09:47:49,7aae6e67a8c7e93a588c157c10a51bdac0fd8dc5,13.0,0.0,1.0,0.0
+355,Commit,gobby_libinfinity,2014-01-23 16:30:54,74ffdc70417721a587a90868323868ef8063a0a0,13.0,31.0,1.0,0.0
+356,Commit,gobby_libinfinity,2014-01-23 16:30:54,c2c8b645f970b1507e9b70b74eb3420dc70a8616,4.0,1.0,1.0,0.0
+357,Commit,gobby_libinfinity,2014-01-23 16:30:54,b8340029bdd95a9535bc7264d5a9c09784f29251,5.0,2.0,1.0,0.0
+358,Commit,gobby_libinfinity,2014-01-23 16:30:54,f3eb7a88b54a1077d618738b2c6a3d748f68e8c6,18.0,9.0,2.0,0.0
+359,Commit,gobby_libinfinity,2014-01-23 16:30:54,37ec211d0fe9694d9cad1e62823ce6b7b32e6a30,123.0,8.0,9.0,0.0
+360,Commit,gobby_libinfinity,2014-01-23 16:30:54,5d22c0e3bc563c395203a02d8863a91bd8496a3b,307.0,170.0,13.0,0.0
+361,Commit,gobby_libinfinity,2014-01-23 16:30:53,55657f00ab027cf45798f77f747acb455b6f7339,14.0,11.0,3.0,0.0
+362,Commit,gobby_libinfinity,2014-01-23 16:30:53,fb49eccb5a02c4cb5f4aa85ce31c47caf75bcba0,17.0,16.0,11.0,0.0
+363,Commit,gobby_libinfinity,2014-01-22 17:19:37,104c7233aff6061ffb596d47f9def8238feb9813,716.0,441.0,6.0,0.0
+364,Commit,gobby_libinfinity,2014-01-22 17:19:37,505d78c5e7bb197fffdea9052f9cd9329801e468,19.0,4.0,4.0,0.0
+365,Commit,gobby_libinfinity,2014-01-22 17:19:37,e9d692ea2708dfc51ee3f29fd7980d49c56c1986,21.0,9.0,3.0,0.0
+366,Commit,gobby_libinfinity,2014-01-19 19:57:47,aa3f1a6dc368fa260b64aeda2f64743773afed45,2.0,1.0,1.0,0.0
+367,Commit,gobby_libinfinity,2014-01-19 19:57:47,57d29a48259e96e121f38659036f55573dc982ad,14.0,0.0,1.0,0.0
+368,Commit,gobby_libinfinity,2014-01-19 19:57:47,db2e520d0138c400c41b7edbe517ae9897a25b88,13.0,2.0,1.0,0.0
+369,Commit,gobby_libinfinity,2014-01-17 21:28:25,21a6106cddc8340962ce94c377232072396114eb,33.0,14.0,1.0,0.0
+370,Commit,gobby_libinfinity,2014-01-17 19:03:53,3ba66e643d470c7973f729fc78a71c3b29403bf0,1.0,0.0,1.0,0.0
+371,Commit,gobby_libinfinity,2014-01-17 18:39:18,de433fe31e320ca546279acc10110b0bfecb2b6f,68.0,77.0,7.0,0.0
+372,Commit,gobby_libinfinity,2014-01-16 18:09:11,dd3919c8b54e1ab44aca3a1a53bc7dc244c97ccf,99.0,27.0,3.0,0.0
+373,Commit,gobby_libinfinity,2014-01-16 16:41:54,52c7b6e0f9ee80743cdf18f02f4b37e6ab0d572e,18.0,13.0,1.0,0.0
+374,Commit,gobby_libinfinity,2014-01-16 11:45:45,67b7aaf13b708f90ada9d41e2b133bfa0a3e8e32,12.0,8.0,1.0,0.0
+375,Commit,gobby_libinfinity,2014-01-16 11:20:44,ecc63ecec84d3a8a7bacbdece8e0f587de32603c,38.0,19.0,1.0,0.0
+376,Commit,gobby_libinfinity,2014-01-14 18:39:34,fc08baf7a4d8f2bcbd108eacffadcb06dbd8ac5b,41.0,0.0,3.0,0.0
+377,Commit,gobby_libinfinity,2014-01-13 13:18:56,5b9ad636f4e63ff5e042546b9a0b4b0e3ec3c10e,108.0,45.0,3.0,0.0
+378,Commit,gobby_libinfinity,2014-01-12 21:11:55,d9d279084ce54c6491590f5990a0aa8e642a37d7,3.0,0.0,1.0,0.0
+379,Commit,gobby_libinfinity,2014-01-12 21:08:03,08e62706db5bfad35f26b09458c78f68e325f030,664.0,786.0,10.0,0.0
+380,Commit,gobby_libinfinity,2014-01-12 15:09:45,dacaafd736f4e6c5f4630cbd462cc99a6b1b239e,705.0,311.0,7.0,0.0
+381,Commit,gobby_libinfinity,2014-01-12 14:09:11,440356d89938ae028b221e8b1fdeeb49206df2ee,0.0,3.0,1.0,0.0
+382,Commit,gobby_libinfinity,2014-01-12 14:08:53,bd3be83625164fdd84f82d57a4384193d9a9fb21,9.0,1.0,4.0,0.0
+383,Commit,gobby_libinfinity,2014-01-09 14:49:44,1982804c22d53a58f19d64be5768ae7b9bf4456f,12.0,7.0,1.0,0.0
+384,Commit,gobby_libinfinity,2014-01-09 14:22:45,027d4227963f014f8be841c1e9b5ff1f588649c2,266.0,455.0,10.0,0.0
+385,Commit,gobby_libinfinity,2014-01-08 22:03:58,69ce937baff1860de371fd1bac099c595f097eab,678.0,203.0,17.0,0.0
+386,Commit,gobby_libinfinity,2014-01-07 21:24:10,20ceb27ad613c7cc3d4611a8b244bd76f20b4cd2,7.0,3.0,2.0,0.0
+387,Commit,gobby_libinfinity,2014-01-07 15:17:09,6c282aa94e40f6606ba64454163c12c8d9a8d895,423.0,781.0,5.0,0.0
+388,Commit,gobby_libinfinity,2014-01-07 09:30:32,d4f209dff4208ea990acbd683772939825cb59fe,1.0,1.0,1.0,0.0
+389,Commit,gobby_libinfinity,2014-01-06 21:55:55,11f43d660095f58255ee999f9849bb4452fc9d80,446.0,378.0,8.0,0.0
+390,Commit,gobby_libinfinity,2014-01-06 21:55:55,bf7733152505e8b64ec3779b1508f1fada328c5c,212.0,366.0,5.0,0.0
+391,Commit,gobby_libinfinity,2014-01-06 20:15:35,c0e42798c7cae2802ec17de5b461adf78a2aecf6,17.0,1.0,1.0,0.0
+392,Commit,gobby_libinfinity,2014-01-06 20:15:06,e6a8723811525a43b2d12b85df06ce6b57fdf5b1,5.0,5.0,1.0,0.0
+393,Commit,gobby_libinfinity,2014-01-06 20:14:37,91e86f0e57e3c9c955bbd52979ad0b1c471197a4,4.0,0.0,1.0,0.0
+394,Commit,gobby_libinfinity,2014-01-05 11:50:33,fbb0bb5f96d211cf38d6149589bab4f8d92c34fa,18.0,25.0,1.0,0.0
+395,Commit,gobby_libinfinity,2014-01-05 11:45:09,bc2fd7ec1de1862ae178b5094881e94d6e6d40d9,98.0,4.0,2.0,0.0
+396,Commit,gobby_libinfinity,2014-01-05 11:18:35,7fe494a28fbb34d3a8424face7c5cc216a4b5507,9.0,1.0,1.0,0.0
+397,Commit,gobby_libinfinity,2014-01-04 16:43:19,8c283cb64598ef7164b0b613a8379b1f7c0e6e6f,283.0,283.0,283.0,0.0
+398,Commit,gobby_libinfinity,2014-01-04 16:38:34,85ff3057f03a3106095ef5bc7fa7a0c328e68294,74.0,61.0,5.0,0.0
+399,Commit,gobby_libinfinity,2014-01-04 16:25:23,bf5d68e03ed84a8886b2619e4b20c6284e041195,657.0,3.0,3.0,0.0
+400,Commit,gobby_libinfinity,2014-01-04 16:25:23,7a4f805e3e1781222756dff0fb2421121f7f5af9,1.0,1.0,1.0,0.0
+401,Commit,gobby_libinfinity,2014-01-04 15:30:03,b59fda0f3da2d764c76b6e681ff4967dacb89a20,97.0,0.0,4.0,0.0
+402,Commit,gobby_libinfinity,2014-01-04 15:29:54,8a9cebbe4865f027229119135e67da744cba12c7,38.0,3.0,2.0,0.0
+403,Commit,gobby_libinfinity,2014-01-03 22:51:54,2a87f288d0ee45b4da3fa932d85a90dcc4566b4e,35.0,10.0,6.0,0.0
+404,Commit,gobby_libinfinity,2014-01-03 22:41:49,7c7a99494eee88a93f841de3d0d7c2378ca89a0c,2.0,2.0,1.0,0.0
+405,Commit,gobby_libinfinity,2014-01-03 21:27:19,64fa02f0dd84ba6a727daf62c8497bb7df2379a5,381.0,742.0,8.0,0.0
+406,Commit,gobby_libinfinity,2013-12-30 21:34:05,b3b9d9c86eccd51b0722c584be0d93dfb3181912,371.0,613.0,10.0,0.0
+407,Commit,gobby_libinfinity,2013-12-30 21:12:25,7f3023a36586c155df63f2fb312d67235bf4b606,54.0,9.0,4.0,0.0
+408,Commit,gobby_libinfinity,2013-12-30 20:40:50,d80defa2fb532fd2d4fe83ad41990bb11cdeecd1,30.0,7.0,3.0,0.0
+409,Commit,gobby_libinfinity,2013-12-28 22:31:28,914595e2096196522c76a0c7c94124265e82c325,403.0,1.0,4.0,0.0
+410,Commit,gobby_libinfinity,2013-12-28 22:31:28,1b1ff9424bba1b58dba6a4f8ebbd8d943fb62f60,151.0,30.0,11.0,0.0
+411,Commit,gobby_libinfinity,2013-12-28 22:31:28,c13c9d9a65e25257615b0912e3006a4894bcad35,19.0,15.0,1.0,0.0
+412,Commit,gobby_libinfinity,2013-12-28 16:06:21,c167cda81ec35cf57bfac5dea6e430bec0f04ad3,0.0,20.0,1.0,0.0
+413,Commit,gobby_libinfinity,2013-12-28 15:00:48,4892fb8d20262ce5e6f0e9fe82c1ed72c8dc7875,107.0,18.0,6.0,0.0
+414,Commit,gobby_libinfinity,2013-12-28 15:00:48,d3a56cbbb63e339de77615aa72c594630eb40784,1064.0,12.0,8.0,0.0
+415,Commit,gobby_libinfinity,2013-12-28 15:00:47,ee7284589a1c7701093a67a98a8b0b75753c3526,1050.0,1363.0,28.0,0.0
+416,Commit,gobby_libinfinity,2013-12-17 14:56:46,dde5cc2ae929f148d38834cd4d48e0ac11c597e2,65.0,33.0,2.0,0.0
+417,Commit,gobby_libinfinity,2013-12-17 14:54:27,1abf4945a9309b4ee896f604e78a47e7abd4708e,731.0,463.0,5.0,0.0
+418,Commit,gobby_libinfinity,2013-12-17 14:00:05,ea3daa87be97aa2cbabb5e28911c96326e5dd18b,935.0,609.0,4.0,0.0
+419,Commit,gobby_libinfinity,2013-12-11 10:54:41,7472ca0763386af8d6ebc38cfd8d377be7ec64c3,1.0,1.0,1.0,0.0
+420,Commit,gobby_libinfinity,2013-12-11 10:35:33,2a872f06e336a707e48b999ed85bff902aea6d79,26.0,16.0,1.0,0.0
+421,Commit,gobby_libinfinity,2013-11-17 15:03:31,b1eb1dc5113e3f7c9cfd0ceae749b09a25781e02,11.0,2.0,1.0,0.0
+422,Commit,gobby_libinfinity,2013-11-17 15:03:26,d1ded09f5c266f18ddfffcc678c0fc878e5c369d,271.0,26368.0,5.0,0.0
+423,Commit,gobby_libinfinity,2013-11-17 14:43:50,68c9d3c6aad7f3ce106211253dc2e92b83e36e00,1.0,1.0,1.0,0.0
+424,Commit,gobby_libinfinity,2013-11-17 11:35:06,0a9981042cd494b982982a65db528fef788cd20f,3.0,2.0,1.0,0.0
+425,Commit,gobby_libinfinity,2013-11-17 11:35:06,562e3fcacb3e44d6aa47aa714a9be62d56a29379,1.0,1.0,1.0,0.0
+426,Commit,gobby_libinfinity,2013-11-17 11:35:06,5e6ad16039595d1062e6c04b044ed500adafc1a6,1.0,1.0,1.0,0.0
+427,Commit,gobby_libinfinity,2013-11-17 11:34:52,3aa1e7d3b9be3c7fe81eff66bb3520588b57890c,373.0,696.0,20.0,0.0
+428,Commit,gobby_libinfinity,2013-08-30 12:41:57,2fe9d50775196be4152460678d745637957ca76c,7040.0,61.0,7.0,0.0
+429,Commit,gobby_libinfinity,2013-08-30 10:17:21,d346e7af637892bb7f1bf72b40424b3c3347e512,215.0,153.0,9.0,0.0
+430,Commit,gobby_libinfinity,2013-08-23 10:57:35,4f666fee58db3fa2463d16aa62aac2214058965d,128.0,70.0,6.0,0.0
+431,Commit,gobby_libinfinity,2013-08-21 14:58:52,a89ea37e3520207035a4030ffee1a6a4feee61da,33.0,4.0,1.0,0.0
+432,Commit,gobby_libinfinity,2013-08-21 14:58:14,8bd3e23d0bde5b054e3956b8121c7774d79edb10,101.0,2.0,1.0,0.0
+433,Commit,gobby_libinfinity,2013-08-21 09:54:41,60c42982bd04ecc0d53fbc00b4f84aa280ce5945,224.0,40.0,1.0,0.0
+434,Commit,gobby_libinfinity,2013-08-20 10:14:14,dca689aeadf0b18c1d09d14df95d66cb0d49a59d,7.0,1.0,1.0,0.0
+435,Commit,gobby_libinfinity,2013-08-20 10:13:21,a8719920ce827361f1f8a118ac79ee6fc13ee02d,2.0,0.0,1.0,0.0
+436,Commit,gobby_libinfinity,2013-08-20 10:08:22,57b19fcd016e6b385314a302936f61e225cb7be5,1.0,0.0,1.0,0.0
+437,Commit,gobby_libinfinity,2013-08-18 19:31:54,58f0f1b8f9e37be5e60cf20a794cdcd96c287058,4.0,1.0,1.0,0.0
+438,Commit,gobby_libinfinity,2013-08-18 11:33:43,4ae6d7267075e52a82dceb022da38d8b90175398,52.0,1.0,4.0,0.0
+439,Commit,gobby_libinfinity,2013-08-18 11:27:53,210a7ade528e0ec119bf4c740ab3989e00f69b35,3.0,0.0,2.0,0.0
+440,Commit,gobby_libinfinity,2013-08-12 10:06:14,380beb0c5700c031f554e750816c220ccc8f41a3,80.0,61.0,2.0,0.0
+441,Commit,gobby_libinfinity,2013-08-12 10:05:10,ccb2a691554741f92951762f23aeb14f7e5ffd26,9.0,2.0,1.0,0.0
+442,Commit,gobby_libinfinity,2013-08-11 20:25:58,511a81f3f81ed5dffbc447dffec17c0cd8b20cf9,9.0,3.0,1.0,0.0
+443,Commit,gobby_libinfinity,2013-08-11 20:20:45,7ed7f593f5db2a6e5c0cccefee26e8aebfa7fc02,5.0,3.0,4.0,0.0
+444,Commit,gobby_libinfinity,2013-08-11 20:10:37,5ff938541b828de03fa37032eac06020669d168b,253.0,1.0,4.0,0.0
+445,Commit,gobby_libinfinity,2013-08-11 13:57:27,0af3d3d83a3031cff71eecfe91b33e678aed6530,4205.0,3443.0,34.0,0.0
+446,Commit,gobby_libinfinity,2013-08-11 12:01:32,bc1b8f41cc3b8d3e26681e9f86240248a71337be,5.0,1.0,1.0,0.0
+447,Commit,gobby_libinfinity,2013-08-06 07:27:35,5b68ef7efd453670435739c997af3cd50ea89e99,205.0,47.0,10.0,0.0
+448,Commit,gobby_libinfinity,2013-08-05 15:39:32,e0e2cb1c3243f52767bd9a7ba9b1389d416e38e4,83.0,0.0,4.0,0.0
+449,Commit,gobby_libinfinity,2013-08-05 13:58:26,4b4df45bd24d6b3136702f1e20b05a157b618e20,16.0,0.0,1.0,0.0
+450,Commit,gobby_libinfinity,2013-08-05 13:16:18,b0b628fbd6de907ebd2c751334f91d214ee7a823,7.0,7.0,3.0,0.0
+451,Commit,gobby_libinfinity,2013-08-03 17:10:49,6a5f7a42436fa04f1544af59ee837fb74389a2c9,1.0,3.0,1.0,0.0
+452,Commit,gobby_libinfinity,2013-08-01 10:30:23,9219688f98c1c84e515fd5ef456057f57b378b6c,13.0,5.0,3.0,0.0
+453,Commit,gobby_libinfinity,2013-07-31 17:15:50,62fea70e983e8ac4a937a57a84cb147c88409404,37.0,0.0,3.0,0.0
+454,Commit,gobby_libinfinity,2013-07-31 13:46:44,014da3537e2fd7c740e2e9348f728f290ae32858,30.0,44.0,3.0,0.0
+455,Commit,gobby_libinfinity,2013-07-31 13:37:50,3f34da0256495a5f435eecc6e00cdc217c4cfa39,3.0,0.0,1.0,0.0
+456,Commit,gobby_libinfinity,2013-07-31 12:11:44,bf767b90abe607c7a0c1263dddfb382465165eb2,54.0,2.0,2.0,0.0
+457,Commit,gobby_libinfinity,2013-07-31 12:11:32,4ece31ca272992c7234341912895fa6c183374ad,219.0,17.0,3.0,0.0
+458,Commit,gobby_libinfinity,2013-07-31 09:30:37,e24b4ac5b691066a191c92a7733799ed0188ca5d,83.0,25.0,1.0,0.0
+459,Commit,gobby_libinfinity,2013-07-31 09:01:38,a4b56505a5ea3471b70822354d89c388f5d5d0ae,6.0,2.0,1.0,0.0
+460,Commit,gobby_libinfinity,2013-07-31 06:40:20,bac7c1367f36422f596d72ba31f5902d1f993027,2.0,2.0,1.0,0.0
+461,Commit,gobby_libinfinity,2013-07-31 06:04:59,6e1f7f0276b4bfe88cf5994b3e48284ea5541135,1.0,1.0,1.0,0.0
+462,Commit,gobby_libinfinity,2013-07-31 06:04:09,146050dceccc9245b778c0be3836883c2f293308,5.0,1.0,1.0,0.0
+463,Commit,gobby_libinfinity,2013-07-31 06:03:46,b2893f118fca6fdb14132d362620563ab5a890bf,1.0,1.0,1.0,0.0
+464,Commit,gobby_libinfinity,2013-07-31 05:50:49,71f8057dee37081cc09ef6df4b0f12ab9d7f95eb,1350.0,2.0,6.0,0.0
+465,Commit,gobby_libinfinity,2013-07-30 15:36:43,341ee453b8d58a19153796ebfe1065ad0baa400d,40.0,0.0,3.0,0.0
+466,Commit,gobby_libinfinity,2013-07-30 15:36:43,8ae97cb6997b83351977c9d6cb0a0b19c525d645,26.0,4.0,3.0,0.0
+467,Commit,gobby_libinfinity,2013-07-30 15:36:43,29e50230fe0f471c69f2851472c7b1d55f454c01,890.0,0.0,5.0,0.0
+468,Commit,gobby_libinfinity,2013-07-22 20:26:32,b3b600717b4902e42e805b828745094262aa2ff0,76.0,1.0,4.0,0.0
+469,Commit,gobby_libinfinity,2013-07-21 19:36:50,4f254e05c114f0f6e4835f7c7d475d8b9a3f8c75,49.0,6.0,1.0,0.0
+470,Commit,gobby_libinfinity,2013-07-21 19:22:01,d17cacbd8a30c99dea25af3e926a2f7237cc8b66,72.0,15.0,1.0,0.0
+471,Commit,gobby_libinfinity,2013-07-21 19:21:30,33985ea64af638f22c6478437f9d8c90b01caf0f,40.0,28.0,1.0,0.0
+472,Commit,gobby_libinfinity,2013-07-21 19:20:28,ef3472ebb546e1648932574e7a7747a8c7cdf84b,4.0,0.0,1.0,0.0
+473,Commit,gobby_libinfinity,2013-07-21 15:51:42,2c7e860872b6fc3bbc8e76a83c1bd301452c1051,1.0,1.0,1.0,0.0
+474,Commit,gobby_libinfinity,2013-07-21 15:44:06,d11e38b6ee66644bff67f4c0e3fc6302c1afb8f7,17.0,8.0,2.0,0.0
+475,Commit,gobby_libinfinity,2013-07-21 10:12:24,c5b04ebca407cbdbd0f60d6ab1c43f3bb352ab9b,4.0,4.0,2.0,0.0
+476,Commit,gobby_libinfinity,2013-07-21 10:10:00,63c939f88dc1e2921ae07540f98ee521f541d29b,4.0,4.0,2.0,0.0
+477,Commit,gobby_libinfinity,2013-07-21 10:06:49,a6130fc6caef93a65c051e036f8ce159f0b93d34,12.0,4.0,2.0,0.0
+478,Commit,gobby_libinfinity,2013-07-20 21:33:35,7107d534107bcdc5b4cdf1cf5af35733e0e4f5fc,46.0,0.0,2.0,0.0
+479,Commit,gobby_libinfinity,2013-07-19 14:37:53,effd8971f72e73dba248749634ee581490f17ca1,56.0,2.0,1.0,0.0
+480,Commit,gobby_libinfinity,2013-07-19 14:21:04,781a9f540e1cb8e15d6ad55b895305d38d2d4269,135.0,64.0,3.0,0.0
+481,Commit,gobby_libinfinity,2013-07-18 21:38:11,d0b540a1ffdd4c74133d09651d3ffefcd17848c7,24.0,0.0,3.0,0.0
+482,Commit,gobby_libinfinity,2013-07-18 18:02:47,930367a41762c454819596bac419a72d0ca87290,6605.0,0.0,2.0,0.0
+483,Commit,gobby_libinfinity,2013-07-17 12:14:15,cdf4f978df6275c9228c87cb765d30c36f81fee1,10.0,80.0,5.0,0.0
+484,Commit,gobby_libinfinity,2013-07-16 17:42:14,2c6ccbd4b7a03176b188da2e41c5e1b38fde6596,30.0,38.0,1.0,0.0
+485,Commit,gobby_libinfinity,2013-07-16 15:37:14,cab8f0779006d86a4931ed6762bcfba326c6e765,3.0,0.0,1.0,0.0
+486,Commit,gobby_libinfinity,2013-07-16 15:25:39,de9cf1d34a75bb511e4dff85d82ea7f192d7fa84,2.0,2.0,1.0,0.0
+487,Commit,gobby_libinfinity,2013-07-16 15:25:00,0ae099912608da1d24c95c0310bdde1af421f899,5.0,2.0,1.0,0.0
+488,Commit,gobby_libinfinity,2013-07-16 15:19:51,25058fafbcd28c53daa62b3674382f8510183620,7.0,3.0,1.0,0.0
+489,Commit,gobby_libinfinity,2013-07-16 15:16:50,7b0034e3f7fb663f86ebb8f8eb4767e17383cda7,10.0,7.0,1.0,0.0
+490,Commit,gobby_libinfinity,2013-07-16 15:16:31,e1039666e8cc35af6967087a5ee82277cf6ae256,2.0,0.0,1.0,0.0
+491,Commit,gobby_libinfinity,2013-07-16 15:16:00,60c9b1172ca3ea5b13652266ab3beb8789b32d6d,6.0,0.0,1.0,0.0
+492,Commit,gobby_libinfinity,2013-07-16 15:07:37,3dc6cb3a5cbdb85f7735e0655e16d014b71096a1,2.0,0.0,1.0,0.0
+493,Commit,gobby_libinfinity,2013-07-16 15:07:08,514ee584b700da5ab1ee12b2495e47b5bdac485b,105.0,67.0,1.0,0.0
+494,Commit,gobby_libinfinity,2013-07-16 13:57:16,d2e0e937a5c19af22731b26ca8636389ec7f2433,275.0,275.0,275.0,0.0
+495,Commit,gobby_libinfinity,2013-07-16 13:50:50,0c304bcc6e9d57f0e6fd13fe2201866313a368c3,1.0,1.0,1.0,0.0
+496,Commit,gobby_libinfinity,2013-07-16 13:50:50,d24be134740bbfabba275a9c4bd77a38e916ff90,7016.0,351.0,26.0,0.0
+497,Commit,gobby_libinfinity,2013-07-16 13:01:28,84a7fc87acfda9225f07662612e16b4ae5e37dbc,3.0,1.0,1.0,0.0
+498,Commit,gobby_libinfinity,2013-07-16 13:00:00,88960c34bcff2781282d51f2292874c523941bb0,8.0,4.0,1.0,0.0
+499,Commit,gobby_libinfinity,2013-07-16 12:56:08,477337982cb7d9bf9780314302bae9172ea4ffa0,23.0,21.0,1.0,0.0
+500,Commit,gobby_libinfinity,2013-07-16 12:56:04,05e0f3384518ecac69a4333c3aa085fc8d2ab78e,68.0,91.0,6.0,0.0
+501,Commit,gobby_libinfinity,2013-07-16 12:03:23,e04e2b3a11a753b855a263f44c167531fe779be0,1.0,1.0,1.0,0.0
+502,Commit,gobby_libinfinity,2013-07-15 13:05:21,e95a83f8160a9901054150ab3942e6e3118cb94c,70.0,71.0,5.0,0.0
+503,Commit,gobby_libinfinity,2013-07-15 13:05:21,5dd52dd9494fafb696dd9fe15a0a334d82c8fe8f,168.0,6.0,7.0,0.0
+504,Commit,gobby_libinfinity,2013-07-15 13:05:21,fdce67d94c5112fe503bd9edecffa5abe4bbc9c7,28.0,11.0,1.0,0.0
+505,Commit,gobby_libinfinity,2013-07-15 13:05:21,e1cc01a950f69cea73d23b995524c63430f5a94c,1273.0,6.0,13.0,0.0
+506,Commit,gobby_libinfinity,2013-07-15 13:05:21,2d60f182f48c873122cdd27992206b045c315595,18.0,14.0,3.0,0.0
+507,Commit,gobby_libinfinity,2013-07-15 13:05:21,abaaa91c0efb2a78ba085a6233fda4291aa0b68b,100.0,0.0,3.0,0.0
+508,Commit,gobby_libinfinity,2013-07-15 13:05:21,01106696ac768a49ad173a40433ffa55f23a9d0d,2.0,4.0,2.0,0.0
+509,Commit,gobby_libinfinity,2013-07-15 13:05:21,be886df7763e99d744f578a688884e5f1e143ba1,230.0,40.0,3.0,0.0
+510,Commit,gobby_libinfinity,2013-07-14 19:32:46,9e78707f9a48092a70483c5ba4a556e3b70df3f0,77.0,29.0,7.0,0.0
+511,Commit,gobby_libinfinity,2013-07-14 18:54:30,05cc23f6051fc9c408e636a9261343b72bbe78ea,12.0,6.0,1.0,0.0
+512,Commit,gobby_libinfinity,2013-07-14 15:47:51,e0ce7364cfaf7ad5c1f202850f6d6a4b6ee17cfe,16.0,9.0,1.0,0.0
+513,Commit,gobby_libinfinity,2013-07-14 15:47:22,bed81c1bab1e161a5ac715b719c36411810de877,79.0,7.0,6.0,0.0
+514,Commit,gobby_libinfinity,2013-07-02 19:44:57,5242b2f332cf25069328b9abd5c67cb365f35a8e,364.0,40.0,1.0,0.0
+515,Commit,gobby_libinfinity,2013-06-30 20:33:40,568c89e3a68266ad5c9991cfda7c6347c1b23fcc,308.0,30.0,17.0,0.0
+516,Commit,gobby_libinfinity,2013-06-28 17:55:35,0d5bf73be3a4a460404cf52881fadbb8853e72e5,1.0,1.0,1.0,0.0
+517,Commit,gobby_libinfinity,2013-06-28 17:55:35,635d7e77f4d80baf864dbc0f216356512f91f8f0,20.0,19.0,1.0,0.0
+518,Commit,gobby_libinfinity,2013-06-25 07:40:09,a14f6fa51f5ac9c6a24f62e84b49dd5cdcf79473,1.0,1.0,1.0,0.0
+519,Commit,gobby_libinfinity,2013-06-24 15:18:47,c34f4fdf9656460c60ca9f94bbd1a35671d8f684,409.0,0.0,2.0,0.0
+520,Commit,gobby_libinfinity,2013-06-22 13:27:39,c402de91beb688413967d725df6eb1facf27ef4e,698.0,585.0,11.0,0.0
+521,Commit,gobby_libinfinity,2013-06-21 13:34:50,629a5c091c876b8ea9fa30c920181d43f5858ff6,18.0,5.0,1.0,0.0
+522,Commit,gobby_libinfinity,2013-06-19 13:21:01,6e6d99d5eddc4779ffd9a37b6cd6043da3677b60,2.0,1.0,1.0,0.0
+523,Commit,gobby_libinfinity,2013-06-18 16:24:31,b7f4ae3d3a50664bfdb16e403ccc1675139475cc,0.0,0.0,0.0,0.0
+524,Commit,gobby_libinfinity,2013-06-14 16:08:41,8838bf272946116372272e4740593c5330b842ef,85.0,14.0,6.0,0.0
+525,Commit,gobby_libinfinity,2013-06-14 16:07:51,535e36654ad3f20a12fdda8ba9494725d8641861,2.0,2.0,1.0,0.0
+526,Commit,gobby_libinfinity,2013-06-06 20:03:36,f94c882be6405ec47ab8b3c4a85c2cb94947405b,25.0,0.0,2.0,0.0
+527,Commit,gobby_libinfinity,2013-06-06 19:28:00,7fd13237ea7cfbe2ea3ea57a8e008e836dd67fbe,228.0,166.0,4.0,0.0
+528,Commit,gobby_libinfinity,2013-06-06 19:26:55,d4b8c608e5a7527253e663e55f0b707523c2bccf,35.0,33.0,2.0,0.0
+529,Commit,gobby_libinfinity,2013-06-04 14:56:51,68c65807482ec5465f71c7cbbcda373c5daac9fb,454.0,4.0,8.0,0.0
+530,Commit,gobby_libinfinity,2013-06-04 14:51:30,6abb08e27276e6b6549b1fdb2bb87bc97c190ba1,77.0,31.0,3.0,0.0
+531,Commit,gobby_libinfinity,2013-06-04 14:45:37,c986056a8c793063370c372f9d2f12202c96ed81,114.0,64.0,3.0,0.0
+532,Commit,gobby_libinfinity,2013-06-03 12:38:38,26870147969794199aba23ec863682bec5c2cbb5,218.0,78.0,1.0,0.0
+533,Commit,gobby_libinfinity,2013-06-03 12:38:25,e4a978e2c94942556d98fd60c4ef50de64eaef7d,0.0,4.0,1.0,0.0
+534,Commit,gobby_libinfinity,2013-06-02 20:35:06,65e8f0f271705849b8133be2adc66459d65175d4,108.0,80.0,12.0,0.0
+535,Commit,gobby_libinfinity,2013-06-02 20:34:56,61011af0388de99e9a38bfb71aecd0f0b3b16141,1.0,1.0,1.0,0.0
+536,Commit,gobby_libinfinity,2013-06-02 15:26:54,e940f939d71efe74924371858d82882314583dce,33.0,0.0,1.0,0.0
+537,Commit,gobby_libinfinity,2013-06-02 15:26:31,792af0c44b5f81a4e92ae045b12e3983737cc739,243.0,21.0,6.0,0.0
+538,Commit,gobby_libinfinity,2013-06-02 15:21:50,9035666dfce4a8466c8545cbde2c66ab20c6bcc0,2.0,1.0,1.0,0.0
+539,Commit,gobby_libinfinity,2013-05-30 15:25:58,827a5f09eaa29b0601c835faa02413e9183db03d,123.0,0.0,1.0,0.0
+540,Commit,gobby_libinfinity,2013-05-30 15:17:18,189d9d11893f519ca87e3ea5c068304ac83ed5a5,25.0,8.0,1.0,0.0
+541,Commit,gobby_libinfinity,2013-05-30 10:54:38,55a9a324a6c4a78a592ad5d0d521c78d2e6e68fd,20.0,5.0,1.0,0.0
+542,Commit,gobby_libinfinity,2013-05-28 18:57:10,949264595f1622a948e8d46e15fc8d53f0c477cd,138.0,8.0,3.0,0.0
+543,Commit,gobby_libinfinity,2013-05-09 14:00:25,dc63ce63d82be5442822b54bf1c9146bfd6360e4,359.0,4.0,5.0,0.0
+544,Commit,gobby_libinfinity,2013-05-09 14:00:25,5837910c043dc77a567648cc84471303a273325f,22.0,1.0,1.0,0.0
+545,Commit,gobby_libinfinity,2013-04-18 22:56:29,706fb1a98d0dc9cda1d0635b7f5a15749a7a5c30,2432.0,1388.0,11.0,0.0
+546,Commit,gobby_libinfinity,2013-04-18 22:56:29,72e1d9d7725fe638b096596b4b3258e1df201bd8,298.0,0.0,1.0,0.0
+547,Commit,gobby_libinfinity,2013-04-18 22:56:29,73e605a34c0b44bb65ad7c04a60b216584cb04bb,5.0,0.0,2.0,0.0
+548,Commit,gobby_libinfinity,2013-04-18 22:56:28,991f5e61a3f227cafd1e0d86500cfec5789e6dc0,13.0,9.0,3.0,0.0
+549,Commit,gobby_libinfinity,2013-04-15 19:48:04,587e14df08878164b06d831ddaa654651e93c9e1,1.0,0.0,1.0,0.0
+550,Commit,gobby_libinfinity,2013-04-15 19:47:39,83b1de1efb199552ee2f8fae8791ae4f63e4d2c7,3.0,0.0,1.0,0.0
+551,Commit,gobby_libinfinity,2013-04-15 19:46:53,204a552875adae2a4644ce3333dcf595942baa94,1.0,1.0,1.0,0.0
+552,Commit,gobby_libinfinity,2013-04-14 18:13:48,d19d7f343b56bd35b11c170b08c853549d92d2ae,740.0,182.0,12.0,0.0
+553,Commit,gobby_libinfinity,2013-04-14 15:50:40,20ad04f34c3fd09395462077490e2d12339f8be2,30.0,40.0,4.0,0.0
+554,Commit,gobby_libinfinity,2013-04-14 15:22:11,9b607bf5daaccf6442a32740a0dd077cbdd756ae,256.0,255.0,8.0,0.0
+555,Commit,gobby_libinfinity,2013-04-14 15:22:11,9f57d335ac7d2f6759be3793041da4261ff3219e,219.0,0.0,5.0,0.0
+556,Commit,gobby_libinfinity,2013-04-14 13:34:33,27ba6a2520f542b29f8b7327780c0b1ecfa3b279,7.0,24.0,4.0,0.0
+557,Commit,gobby_libinfinity,2013-04-14 13:31:18,92f00f5fa337c432660309645b12d3f7e66f17e3,262.0,80.0,8.0,0.0
+558,Commit,gobby_libinfinity,2013-04-14 13:18:25,689ee214c855c6b259362cc40e2104abd1cf2a51,294.0,247.0,13.0,0.0
+559,Commit,gobby_libinfinity,2013-04-14 13:18:25,28bb206521cd4ec8c20239faaf81ac34aa9d1276,15.0,20.0,5.0,0.0
+560,Commit,gobby_libinfinity,2013-04-14 13:18:25,83018965592d093992c378220cabeed730f2686f,159.0,162.0,12.0,0.0
+561,Commit,gobby_libinfinity,2013-04-14 11:55:43,6fd14122a7502cfc46331a60f28e0acd0e78395d,2540.0,3011.0,28.0,0.0
+562,Commit,gobby_libinfinity,2013-04-14 11:55:43,f61334b08604948a49028f50fb9fedcc9fd34d8d,31.0,23.0,2.0,0.0
+563,Commit,gobby_libinfinity,2013-04-14 11:55:43,7006e0eb6474ffd90b576ba647dcb99ec44e9aff,1.0,1.0,1.0,0.0
+564,Commit,gobby_libinfinity,2013-04-14 11:55:43,82ea7ffed0fb31c617a58c3918fe56ecd2a9bd1a,1.0,1.0,1.0,0.0
+565,Commit,gobby_libinfinity,2013-04-14 11:55:42,af894f1e60d2ec35f1bcec74b5957d4457a42f14,9.0,3.0,2.0,0.0
+566,Commit,gobby_libinfinity,2013-04-14 11:55:42,9d37b1cd8737a839c5ebed50b099c71de1865f31,15.0,15.0,2.0,0.0
+567,Commit,gobby_libinfinity,2013-04-14 11:55:42,1571ddd27941daa30a56e138583de8361f034b07,43.0,1.0,1.0,0.0
+568,Commit,gobby_libinfinity,2013-04-14 11:55:42,2bc2544ccac6c4cb4e60c43f34b20621bacd21b3,0.0,1.0,1.0,0.0
+569,Commit,gobby_libinfinity,2013-04-14 11:55:42,840c752e76eaf2f776e60e8fde76b650423a8911,2.0,2.0,2.0,0.0
+570,Commit,gobby_libinfinity,2013-04-14 11:55:42,42fedd0706d9ae74adddc14ebe734994fbb3d4f7,204.0,12.0,6.0,0.0
+571,Commit,gobby_libinfinity,2013-04-14 11:55:42,3cb4273c325ed8199da14ec1133acabba1029fa6,61.0,17.0,2.0,0.0
+572,Commit,gobby_libinfinity,2013-04-14 11:55:41,6150df688133f2671cd5b89c9bbfc92af57e370a,63.0,0.0,2.0,0.0
+573,Commit,gobby_libinfinity,2013-04-14 11:55:38,2b79c904bbec4219557487b1a908e0b91cc11cd3,1723.0,4.0,12.0,0.0
+574,Commit,gobby_libinfinity,2013-01-20 22:07:55,c53f28a28c740ef187a864d2b00e40079c2a993d,46.0,0.0,2.0,0.0
+575,Commit,gobby_libinfinity,2012-11-26 19:48:11,4021c6e493112f901fb5bfb5daf4d3546272ac69,12.0,0.0,2.0,0.0
+576,Commit,gobby_libinfinity,2012-11-26 10:26:04,b4321f8ae838809fc9bfee324e554415d5869f4e,12.0,5.0,2.0,0.0
+577,Commit,gobby_libinfinity,2012-11-12 00:16:06,1a0141a6f578c5010f6115cd6eefb90da5a61875,149.0,1.0,2.0,0.0
+578,Commit,gobby_libinfinity,2012-11-12 00:11:12,caab014d4e615bed999623f2a6d45ccc76e702d3,72.0,1.0,3.0,0.0
+579,Commit,gobby_libinfinity,2012-11-12 00:08:28,a429b3d2f61a467795b68f72d7f1a8df86dc924f,567.0,155.0,22.0,0.0
+580,Commit,gobby_libinfinity,2012-10-21 15:14:35,aafd67208d47c17f88dcd4d02011d9059e035ddc,636.0,106.0,4.0,0.0
+581,Commit,gobby_libinfinity,2012-10-21 15:04:54,a5ce61c638629fae59822d5c9573ef549c89ab0f,9.0,1.0,2.0,0.0
+582,Commit,gobby_libinfinity,2012-06-09 16:39:34,c3dfffb6486f68a651cf4a96486c931945a3b88f,11.0,5.0,2.0,0.0
+583,Commit,gobby_libinfinity,2012-06-02 22:10:41,1e3b44f7bd8e70fdf44c9606725d77e8abb08372,8.0,0.0,2.0,0.0
+584,Commit,gobby_libinfinity,2012-06-02 22:10:11,7eca4a8ef44bfcf61858a7f2619dd42e2d73182a,10.0,0.0,2.0,0.0
+585,Commit,gobby_libinfinity,2012-06-02 22:09:59,4ea1dc9b4b64506bcdf6792487c22174f8e7034a,21.0,0.0,4.0,0.0
+586,Commit,gobby_libinfinity,2012-05-13 15:58:39,8d654831c7a207f8c78d08a864931bdc63f64de0,10.0,1.0,2.0,0.0
+587,Commit,gobby_libinfinity,2012-05-13 15:56:47,d4b7d93f464019aabe9840435ab6ab7c80781b95,223.0,1.0,3.0,0.0
+588,Commit,gobby_libinfinity,2012-03-18 15:22:24,d47206c2dd8512958ebdbd48bca6a99300132f36,10.0,4.0,3.0,0.0
+589,Commit,gobby_libinfinity,2012-03-18 13:10:12,0f6d0a18b3c95ddc2749947bdb131349953778e2,9.0,3.0,3.0,0.0
+590,Commit,gobby_libinfinity,2012-03-18 12:45:25,c1485423a8029690064d4ca7b86178b6bf6cb579,7.0,2.0,2.0,0.0
+591,Commit,gobby_libinfinity,2012-03-18 12:12:59,85a44bebd5ad90dfe0afc663cb1a9aa922331dfd,80.0,20.0,5.0,0.0
+592,Commit,gobby_libinfinity,2012-03-18 12:10:36,e8d6159bf128d8305d9c6e06f230311ddd17cf48,104.0,21.0,2.0,0.0
+593,Commit,gobby_libinfinity,2012-02-06 23:00:45,5ad0cf569bb39a9022b7df17fa1e5ebf568d42ca,10.0,4.0,2.0,0.0
+594,Commit,gobby_libinfinity,2012-01-22 22:26:18,a9ce3cf02c9ad3c01debfca85094c4a2329bde56,10.0,3.0,2.0,0.0
+595,Commit,gobby_libinfinity,2012-01-22 19:20:37,16944b277d3e8bad548e4b2532ab3fe9ee8c3178,6.0,1.0,2.0,0.0
+596,Commit,gobby_libinfinity,2012-01-09 21:39:43,3de189aeecca67a01cd1c9584305550402ff101a,9.0,6.0,4.0,0.0
+597,Commit,gobby_libinfinity,2011-10-24 21:46:18,124a3ff86512e3bb5b0a491d88748aa15c9a7db0,174.0,14.0,9.0,0.0
+598,Commit,gobby_libinfinity,2011-10-13 15:14:48,9a8f7bad56c6199be6baefa8304a1ff964bc78c4,9.0,2.0,3.0,0.0
+599,Commit,gobby_libinfinity,2011-08-28 12:10:01,3fd2f0c6b4a247349ce823dbc1c34f5379ea1567,6.0,1.0,2.0,0.0
+600,Commit,gobby_libinfinity,2011-08-09 19:55:11,91a2b36ed0243eb26a44ba50bdc7aa8f0c4e13fb,22.0,0.0,2.0,0.0
+601,Commit,gobby_libinfinity,2011-08-01 21:18:12,c413a2475f4c7ddd034cdd92534d4048e39700be,31.0,0.0,2.0,0.0
+602,Commit,gobby_libinfinity,2011-08-01 21:09:54,aa8379bc44271f8a42e5b39e5a5c8676f7a4b0ee,14.0,1.0,2.0,0.0
+603,Commit,gobby_libinfinity,2011-08-01 21:05:13,7315313d895c93f348d12109842bc709df5fdb57,9.0,1.0,2.0,0.0
+604,Commit,gobby_libinfinity,2011-07-17 09:16:15,1a1589324341c92b05283b10e6b564109b555f99,9.0,0.0,2.0,0.0
+605,Commit,gobby_libinfinity,2011-06-27 20:59:50,a583b2c73d1ed9fcbec828d9403886a013247537,104.0,34.0,2.0,0.0
+606,Commit,gobby_libinfinity,2011-06-27 20:59:29,78c4b7b87d97803ae8974795cad2b5b5bd5b3040,100.0,0.0,4.0,0.0
+607,Commit,gobby_libinfinity,2011-06-23 15:04:38,42e314a4af31126342aac8d5e9e3fd633630f0d4,8.0,1.0,2.0,0.0
+608,Commit,gobby_libinfinity,2011-06-19 13:24:15,c8f5bbdefb238fb28631855873cee22bbfc7ebbb,42.0,0.0,2.0,0.0
+609,Commit,gobby_libinfinity,2011-06-19 13:22:50,2b9b281e8eb085da8644b9db92dc4116bcddd9b9,8.0,2.0,2.0,0.0
+610,Commit,gobby_libinfinity,2011-06-02 13:33:03,2cf477db783170f8e4c72b19e95b7be7449c0f7d,147.0,26.0,2.0,0.0
+611,Commit,gobby_libinfinity,2011-06-02 11:49:18,fc874f7a4704fc516c270e195597f41ae8e877e1,7.0,0.0,2.0,0.0
+612,Commit,gobby_libinfinity,2011-05-10 19:59:43,5e1bd8cca99ddcef0548874384161011a4c77bc7,12.0,1.0,2.0,0.0
+613,Commit,gobby_libinfinity,2011-03-27 17:40:28,2202145ed4c55b536986658912c3ed0314b342ab,106.0,79.0,27.0,0.0
+614,Commit,gobby_libinfinity,2011-03-27 17:40:17,475294bff99573556888f6105e177b8fdc71b9da,76.0,8.0,11.0,0.0
+615,Commit,gobby_libinfinity,2011-02-23 22:04:56,61e822d089984974d2a04ede5f771a48cbf93305,37.0,25.0,3.0,0.0
+616,Commit,gobby_libinfinity,2011-02-21 22:35:48,47de93825ba2a3de3af65ce261f7d69b396e2865,7.0,1.0,2.0,0.0
+617,Commit,gobby_libinfinity,2011-01-30 23:08:23,3842ad9eab22d81b53bf929b20e3a592b2c50cab,11.0,4.0,2.0,0.0
+618,Commit,gobby_libinfinity,2011-01-30 22:54:40,65613b900836d4d47ac67756fb850e862ae701e5,15.0,0.0,2.0,0.0
+619,Commit,gobby_libinfinity,2011-01-30 15:00:02,6f4ada6649ea5c8391755fba614ec6f9af73dca9,8.0,0.0,2.0,0.0
+620,Commit,gobby_libinfinity,2011-01-30 14:03:46,3df0c01bdcceadb3cc534c76ee359cc0493b9e4c,47.0,0.0,2.0,0.0
+621,Commit,gobby_libinfinity,2011-01-29 14:40:22,efb5c37208afb86a2fd924d95e88a734d11ff62b,36.0,8.0,2.0,0.0
+622,Commit,gobby_libinfinity,2011-01-29 13:47:39,0db25c9040430cbfbfed862f77b40c2ed81c0003,8.0,6.0,2.0,0.0
+623,Commit,gobby_libinfinity,2011-01-23 15:32:54,69caa6a477322ee68e55bc5c3f38515c02428edd,128.0,124.0,125.0,0.0
+624,Commit,gobby_libinfinity,2011-01-23 15:10:56,a31ef37b6f00e104244150212e41b7f084b1b954,10.0,2.0,4.0,0.0
+625,Commit,gobby_libinfinity,2011-01-23 10:50:42,965ee388a9647f6b5aec07d36c776c2a47fe0a26,8.0,0.0,3.0,0.0
+626,Commit,gobby_libinfinity,2011-01-17 00:22:43,eeac338d39459e0adb7c0160b0be779b3caebf90,110.0,11.0,7.0,0.0
+627,Commit,gobby_libinfinity,2011-01-17 00:22:43,c9b28faa73768d459463ca6003650aa657cfa0c1,6.0,2.0,2.0,0.0
+628,Commit,gobby_libinfinity,2011-01-17 00:22:43,409556797d9d00fe8a97c463484f2dc2e245ea49,5.0,0.0,2.0,0.0
+629,Commit,gobby_libinfinity,2011-01-13 23:48:27,8186ce862abf21d0b337f2bd15c13449f9ba11da,5.0,0.0,1.0,0.0
+630,Commit,gobby_libinfinity,2011-01-13 23:42:57,ef9aa78da849c279d6cf5da79c5d037c9863ccdb,74.0,0.0,2.0,0.0
+631,Commit,gobby_libinfinity,2011-01-02 20:44:32,17820a2fad6044a80a1f5da61af69e93fb84eb60,9.0,1.0,2.0,0.0
+632,Commit,gobby_libinfinity,2010-12-25 19:42:28,cd6bc8c402f5f01a0f2fe56e6ccb0336e70f5fe8,1695.0,255.0,19.0,0.0
+633,Commit,gobby_libinfinity,2010-12-25 19:37:35,989a4830b094ce07169b2fdc80fc512f115d88fe,36.0,3.0,5.0,0.0
+634,Commit,gobby_libinfinity,2010-12-25 19:37:35,83f65e4176ecce84f99e5db32b32e97d9fbb1761,9.0,7.0,2.0,0.0
+635,Commit,gobby_libinfinity,2010-12-25 19:37:35,da59f9de67e246dd1f55079d4ac33296525082c0,5.0,2.0,2.0,0.0
+636,Commit,gobby_libinfinity,2010-12-25 19:37:35,19c8b5a637315964587cecf67069e91473f8f790,7.0,1.0,2.0,0.0
+637,Commit,gobby_libinfinity,2010-12-14 20:45:42,d8e1a40782ab60cd2d22655265fb953a5ecb6a8f,46.0,5.0,2.0,0.0
+638,Commit,gobby_libinfinity,2010-11-27 16:16:21,8bc3d113b1675f6bb318ef16f4d0181e10ab57c6,6.0,1.0,2.0,0.0
+639,Commit,gobby_libinfinity,2010-11-27 16:14:52,6fa250bb5efb3dbb70c08629e44fbe87d2d54933,0.0,4.0,1.0,0.0
+640,Commit,gobby_libinfinity,2010-11-27 15:22:55,90e9349d9ecdc2c2bc04659270e1186dc002aa0b,155.0,11.0,5.0,0.0
+641,Commit,gobby_libinfinity,2010-11-27 14:07:58,ed54395cc2418f75211fb926cd81c9fbbba3ba63,13.0,3.0,2.0,0.0
+642,Commit,gobby_libinfinity,2010-11-23 23:08:53,16c6eb906aa169ed6b6be7242ecbb73f1727f397,12.0,3.0,2.0,0.0
+643,Commit,gobby_libinfinity,2010-11-21 16:58:10,22057b8b2e5abab6a33b0755b803d9567f8b6aab,199.0,50.0,24.0,0.0
+644,Commit,gobby_libinfinity,2010-11-15 22:14:17,b0995fbf406e5785e53d8390fecc92b9087cf74f,0.0,0.0,0.0,0.0
+645,Commit,gobby_libinfinity,2010-11-14 12:31:59,b2bf590f8fef48ecbc529602280581dcbffd40e6,4.0,3.0,1.0,0.0
+646,Commit,gobby_libinfinity,2010-11-01 19:02:13,c5ca0416c6e8e83cffb1b383f9d3cf219d813324,7.0,1.0,2.0,0.0
+647,Commit,gobby_libinfinity,2010-11-01 17:38:57,6930ff4cea624dd0c6764d8b8d9dd5f44c63f6ea,7.0,2.0,3.0,0.0
+648,Commit,gobby_libinfinity,2010-10-31 21:40:07,b22f0053ded9c9d4f851d39e392429e6f1ecb1c2,6.0,0.0,2.0,0.0
+649,Commit,gobby_libinfinity,2010-10-31 21:39:32,33c0f1d1e9f2ba8e00f53797622ab4aa0238bf4b,1544.0,444.0,24.0,0.0
+650,Commit,gobby_libinfinity,2010-10-31 17:43:03,fd55d93baab341ea61f8d9ccf83b13fa0fdacb36,33.0,51.0,1.0,0.0
+651,Commit,gobby_libinfinity,2010-10-31 15:30:30,f230321fb028adbb38f3132308edad369a20650e,1.0,21.0,3.0,0.0
+652,Commit,gobby_libinfinity,2010-10-31 10:47:19,05e90cba8fcb6d34d547742ce46a1a80465d523a,2.0,0.0,1.0,0.0
+653,Commit,gobby_libinfinity,2010-10-31 10:14:11,9e0a42f73591e65866aa9fcb49e1cc7bf54c0318,55.0,235.0,2.0,0.0
+654,Commit,gobby_libinfinity,2010-10-26 17:25:33,53ef792825fd3dabda95ea33d94dc63543419adf,57.0,0.0,2.0,0.0
+655,Commit,gobby_libinfinity,2010-10-09 22:07:12,374b23fb2aacef366dba9bad416de6c2f5e3044b,28.0,0.0,2.0,0.0
+656,Commit,gobby_libinfinity,2010-10-09 19:47:40,13c1714c05f98c5a6ccf62674d0f156403cfa174,5.0,0.0,2.0,0.0
+657,Commit,gobby_libinfinity,2010-10-06 21:14:17,719aeba0b202b918739315068161bed70be0b64c,26.0,4.0,2.0,0.0
+658,Commit,gobby_libinfinity,2010-10-03 21:18:26,1f2e7dc7f937fe3f6da4440e90cb09e22f8835c3,60.0,9.0,2.0,0.0
+659,Commit,gobby_libinfinity,2010-10-03 15:52:02,ace2d2f92b6cea1b80f1faed877d98641f9005d2,11785.0,2.0,4.0,0.0
+660,Commit,gobby_libinfinity,2010-10-03 00:17:17,b931ff6c9d967dccfe27ace2f579fa5df44023f7,47.0,1.0,2.0,0.0
+661,Commit,gobby_libinfinity,2010-10-02 18:07:08,0102830b0f05e435bfb0bb72f224b9a7cda1e1e3,222.0,18.0,5.0,0.0
+662,Commit,gobby_libinfinity,2010-09-22 00:15:33,96fff99968f1fd263bdc0b58a4c7ec0e82580de4,806.0,509.0,6.0,0.0
+663,Commit,gobby_libinfinity,2010-09-19 11:40:54,b28ac078600fcb27c3657f04ae71586216b1ebb6,57.0,0.0,6.0,0.0
+664,Commit,gobby_libinfinity,2010-09-19 11:30:19,58312fa5503fc8b3b4246a8f3186a343e4a76fc8,7.0,0.0,2.0,0.0
+665,Commit,gobby_libinfinity,2010-09-19 09:53:52,1f44302ce1d1cec9e792c5ac431ea3c894859b40,6.0,1.0,2.0,0.0
+666,Commit,gobby_libinfinity,2010-09-17 20:39:52,7c11e9e0ceaa0e466ebe669f927a0d403265a7b0,20.0,14.0,6.0,0.0
+667,Commit,gobby_libinfinity,2010-08-22 22:45:30,32b81556df81166d4fde8c990feb43aa08dc9519,38.0,4.0,8.0,0.0
+668,Commit,gobby_libinfinity,2010-08-22 21:54:13,83d8450c20d5347cb30b238ebd0ce8d780a1e8ab,7.0,1.0,2.0,0.0
+669,Commit,gobby_libinfinity,2010-08-15 19:32:19,6753bc751f273493bd2ef38d3581438c3d447cac,279.0,103.0,20.0,0.0
+670,Commit,gobby_libinfinity,2010-08-15 19:09:11,aa3a17061d9e9d940df64bf48abea44e3a55d045,8.0,0.0,2.0,0.0
+671,Commit,gobby_libinfinity,2010-08-15 18:46:42,0d8bb35dc46f248ac8e9dcb65396eacff61af5f8,7.0,1.0,2.0,0.0
+672,Commit,gobby_libinfinity,2010-08-15 18:25:57,b3927850d896daa85221d83386dba50963373a6b,70.0,2.0,2.0,0.0
+673,Commit,gobby_libinfinity,2010-08-15 17:55:52,9c0f12a0fe7a9b03460af3df00ab5bff4d00a16e,29.0,15.0,1.0,0.0
+674,Commit,gobby_libinfinity,2010-08-08 12:26:03,b7af48be760792ec7a48dde5e411c99fa839c4af,27.0,1.0,2.0,0.0
+675,Commit,gobby_libinfinity,2010-06-25 14:28:44,308f0d2ed97c9556f442c1e9f53297552f6a81fb,33.0,0.0,4.0,0.0
+676,Commit,gobby_libinfinity,2010-06-05 22:15:28,4b3eab821e7387f6c8b51eedda3fa29fefd76519,50.0,12.0,2.0,0.0
+677,Commit,gobby_libinfinity,2010-06-05 11:59:51,691708ddaebf7aa9dfc05c6bdc082850c3860bfb,22.0,7.0,3.0,0.0
+678,Commit,gobby_libinfinity,2010-06-04 21:42:06,ab8defa3b3dd22185765406ce3673a4f86be330e,1056.0,551.0,9.0,0.0
+679,Commit,gobby_libinfinity,2010-05-21 21:33:05,b04ee47b1c32bfd6f948957b1c0aec0c89d2afae,89.0,62.0,5.0,0.0
+680,Commit,gobby_libinfinity,2010-05-08 16:56:43,9ec3bfe511ef0ac3be3cfd1309917553e1166475,6.0,0.0,2.0,0.0
+681,Commit,gobby_libinfinity,2010-03-12 17:54:24,c63dca29f43ac4c9f0a4a6af19df6e4e65b1a1c3,108.0,23.0,7.0,0.0
+682,Commit,gobby_libinfinity,2010-03-12 14:40:37,6a2696fd8d207354ea12391dbc40588ba3e8f02a,6.0,1.0,2.0,0.0
+683,Commit,gobby_libinfinity,2010-03-12 14:39:55,aa51cd79868b4597dd5465a8b43e575d223214d3,12.0,3.0,3.0,0.0
+684,Commit,gobby_libinfinity,2010-03-05 10:54:49,86e18b524dfe74c566e64e6874448eb39332e7ac,11.0,0.0,2.0,0.0
+685,Commit,gobby_libinfinity,2010-03-02 12:48:12,4d31254248dd32237ae9f9616f9df62ec2136bbe,9.0,3.0,3.0,0.0
+686,Commit,gobby_libinfinity,2010-02-27 19:44:45,c0e2be697ee83e04d93c465d27cacb0b96b92ce0,21.0,11.0,2.0,0.0
+687,Commit,gobby_libinfinity,2010-02-26 13:13:33,ff0c60e1872e61f7b36515236053acb1801d7682,10.0,1.0,2.0,0.0
+688,Commit,gobby_libinfinity,2010-02-26 13:09:10,577fb7fb6a99ac20b3d5ff5aeaa03bf9f4cf0930,25.0,54.0,2.0,0.0
+689,Commit,gobby_libinfinity,2010-02-25 19:14:38,6ed8aa19435b1366a34ecd336ca836c25ed788fe,1226.0,2.0,7.0,0.0
+690,Commit,gobby_libinfinity,2010-02-24 16:30:32,0f128c9dc83d800967ac14abe08f38b7e9e76c45,1.0,0.0,1.0,0.0
+691,Commit,gobby_libinfinity,2010-02-24 16:28:32,08cbe727d466fab68ce69c624abeca3679a08440,2.0,1.0,1.0,0.0
+692,Commit,gobby_libinfinity,2010-02-21 19:40:00,a069c843a7444bf7b908d2710016c3469b461302,180.0,0.0,2.0,0.0
+693,Commit,gobby_libinfinity,2010-02-21 17:15:29,d29f369f6853e2d77c4b139c3908c0c77f4b900a,8.0,1.0,2.0,0.0
+694,Commit,gobby_libinfinity,2010-02-19 23:50:44,c32cb239dfd51cfde9a2bc7be0508234171d5366,63.0,8.0,2.0,0.0
+695,Commit,gobby_libinfinity,2010-02-19 21:51:43,c3f66a491debc8c7c6df6e4e53fda0b24423c027,7.0,1.0,2.0,0.0
+696,Commit,gobby_libinfinity,2010-02-18 22:42:51,a9a4707bc82136b2a1b02cb01ee2f273f616cc94,650.0,38.0,2.0,0.0
+697,Commit,gobby_libinfinity,2010-02-18 13:11:19,bb81bd78e27db54560e5755fbbda031437ffc7d6,1.0,1.0,1.0,0.0
+698,Commit,gobby_libinfinity,2010-02-17 20:54:01,bc7ff4d782a784f90233eb23ba8a85f7a4370abc,54.0,15.0,8.0,0.0
+699,Commit,gobby_libinfinity,2010-02-15 22:02:24,852f72a79c47d3e09bff8232c56eca64f14bc75f,19.0,3.0,2.0,0.0
+700,Commit,gobby_libinfinity,2010-02-15 21:24:11,881dd5cd8269243748533a98ef88cf289777d498,8.0,1.0,2.0,0.0
+701,Commit,gobby_libinfinity,2010-02-14 23:23:43,f7585f5a102300752657f1b3ff5fbe6259fe113f,63.0,2.0,5.0,0.0
+702,Commit,gobby_libinfinity,2010-02-14 22:57:30,e3c8ab479b1200e0bf5940c8bfca533b5a303e0b,132.0,1.0,5.0,0.0
+703,Commit,gobby_libinfinity,2010-02-14 21:40:29,bdd713297aa827ca88caaecc9dec8c199c11310a,81.0,2.0,5.0,0.0
+704,Commit,gobby_libinfinity,2010-02-14 12:57:27,8ffd7e435890adb21046b358c69ce9dc4d755269,22.0,4.0,2.0,0.0
+705,Commit,gobby_libinfinity,2010-02-14 00:41:06,f33ad11388fa1ee613edf2ebdd455f166fa65897,7.0,1.0,2.0,0.0
+706,Commit,gobby_libinfinity,2010-02-13 22:56:55,f257a6cca022beaf19eb854f8899a910a32d7d38,1301.0,3.0,8.0,0.0
+707,Commit,gobby_libinfinity,2010-02-13 17:33:00,f1007b596eca511193c0bf8123879ae50518cec9,96.0,15.0,2.0,0.0
+708,Commit,gobby_libinfinity,2010-02-13 15:57:51,75e9422d2ebf4bae4a1bd11b444c71775f925b36,128.0,7.0,5.0,0.0
+709,Commit,gobby_libinfinity,2010-02-13 14:25:25,ce12aca9cd14ff904954298e603fbf9fb62a5011,37.0,0.0,5.0,0.0
+710,Commit,gobby_libinfinity,2010-02-13 13:25:25,5b919d0bc78db9a2327a2bb235de6045f103d128,11.0,7.0,3.0,0.0
+711,Commit,gobby_libinfinity,2010-02-12 15:11:08,b082841dbd0e5dd3e3645a4bf8f7eedb8e6486f3,234.0,230.0,231.0,0.0
+712,Commit,gobby_libinfinity,2010-02-12 10:23:34,1e645399270f2a64dd69d928d59e4941834ef09a,331.0,33.0,10.0,0.0
+713,Commit,gobby_libinfinity,2010-02-11 22:06:07,45e7f6adfa8cff33674ab6db7aa2673a58d38eff,76.0,18.0,4.0,0.0
+714,Commit,gobby_libinfinity,2010-02-11 20:38:18,6df2547b9d0e104c5e07416aac1675635702600e,12.0,1.0,2.0,0.0
+715,Commit,gobby_libinfinity,2010-02-10 17:03:10,3593a6816d9065be6d1137b4f4f8048ab8b0db8d,73.0,21.0,4.0,0.0
+716,Commit,gobby_libinfinity,2010-02-09 13:14:40,4039af4b88435cf0b5c8a76efdeeda5d99275ba8,10.0,2.0,3.0,0.0
+717,Commit,gobby_libinfinity,2010-02-09 13:11:06,ef5278f8cc221060602eea3b68b2040c718b5438,19.0,3.0,3.0,0.0
+718,Commit,gobby_libinfinity,2010-02-09 13:04:42,c8f56933a47a81fa3a3c173fbc5dc270786db678,23.0,6.0,2.0,0.0
+719,Commit,gobby_libinfinity,2010-02-09 12:52:54,c4818760a6ed58467ec882143031b32df83d7700,44.0,12.0,2.0,0.0
+720,Commit,gobby_libinfinity,2010-02-07 22:31:23,8ee9437bc53e2983159d97b4bf24307bf9cecef2,137.0,51.0,4.0,0.0
+721,Commit,gobby_libinfinity,2010-02-07 22:28:24,c918db4594782cb6e4184b4a1f73098ccb0680ff,1.0,0.0,1.0,0.0
+722,Commit,gobby_libinfinity,2010-02-07 22:14:00,c321ef2d9d8e0092f281893d678889f7719cb5ea,10231.0,0.0,3.0,0.0
+723,Commit,gobby_libinfinity,2010-02-07 17:50:57,bb3f37402ebc9934412ab2d6e992cb22405009c3,27146.0,3.0,5.0,0.0
+724,Commit,gobby_libinfinity,2010-02-07 16:40:07,92614d2e40400bc4a7cfeaba9d8977cac8eb3fb4,566.0,1.0,4.0,0.0
+725,Commit,gobby_libinfinity,2010-02-07 16:40:07,015601294ba391123b1c78557b694dcec74d2b9c,148.0,623.0,2.0,0.0
+726,Commit,gobby_libinfinity,2010-02-07 16:40:07,bcb4b8694693680fa937463b89c54f977a5bd312,10.0,10.0,2.0,0.0
+727,Commit,gobby_libinfinity,2010-02-07 16:40:07,29be67c6065b9b8b4a860e07a60258d918d0d8ef,1250.0,6.0,8.0,0.0
+728,Commit,gobby_libinfinity,2010-01-31 18:42:05,1941521b149f6cadbbf5fc6d5259889ebb336d5f,479.0,524.0,12.0,0.0
+729,Commit,gobby_libinfinity,2010-01-29 18:45:59,f8c1958a4bc2f17ea9d6c8d88ace7f842ab928e2,17.0,6.0,2.0,0.0
+730,Commit,gobby_libinfinity,2010-01-29 14:53:44,c8b369116d9cb0e9a6a5c0308bd9951965ac8dd8,116.0,23.0,4.0,0.0
+731,Commit,gobby_libinfinity,2010-01-28 17:28:57,280caaa8c025720d627ce7c52be28c850ea7d331,85.0,0.0,2.0,0.0
+732,Commit,gobby_libinfinity,2010-01-27 22:53:39,cfbaadf29c87441ca15a1d4f05d959f8cfc5bc8f,4.0,4.0,1.0,0.0
+733,Commit,gobby_libinfinity,2010-01-27 22:22:46,bf17983387fb6ea3d46ea160b254716a708209e2,80.0,35.0,2.0,0.0
+734,Commit,gobby_libinfinity,2010-01-27 21:02:54,3cf44d96b44cf1062ed8b81211b0efab36249325,4.0,0.0,1.0,0.0
+735,Commit,gobby_libinfinity,2010-01-27 20:53:52,671b1372e35fa2497a9826c0cb925030410c70ac,320.0,173.0,7.0,0.0
+736,Commit,gobby_libinfinity,2010-01-27 20:45:45,fd58a92a53c9fbae2bc1e6019da4de8fd75fe46c,220.0,4.0,8.0,0.0
+737,Commit,gobby_libinfinity,2010-01-27 18:53:42,a6314bdb26ce1e0445cd2954fd72f67576d34dd0,0.0,0.0,0.0,0.0
+738,Commit,gobby_libinfinity,2010-01-27 18:51:51,10909418b195c66a09e4439cbb182931937a64e3,5.0,0.0,1.0,0.0
+739,Commit,gobby_libinfinity,2010-01-27 17:48:14,387c8ffe17b74d518811f98f27b89119b8b79e8e,1.0,1.0,1.0,0.0
+740,Commit,gobby_libinfinity,2010-01-27 17:46:28,4998b1ac68c4967c3993dbfc451e428121f412b7,7.0,4.0,1.0,0.0
+741,Commit,gobby_libinfinity,2010-01-27 17:39:14,835e8eaeac638b61df8359766071eed13b3b7686,1.0,1.0,1.0,0.0
+742,Commit,gobby_libinfinity,2010-01-27 17:37:42,c75fdfedd066295d73cd382911fae6d97f33acab,3.0,3.0,2.0,0.0
+743,Commit,gobby_libinfinity,2010-01-27 15:56:28,91982f20b449cab07745f20d40bd0aed2a777a9f,112.0,52.0,6.0,0.0
+744,Commit,gobby_libinfinity,2010-01-23 15:15:21,4189452e91000b31ad36ee3e1a3a148912925c02,197.0,1.0,5.0,0.0
+745,Commit,gobby_libinfinity,2010-01-22 10:01:27,1fbfe512bba273b572d9f2ce8d54c4780a524704,13.0,2.0,2.0,0.0
+746,Commit,gobby_libinfinity,2010-01-20 17:42:43,b771101968f71445db078371675b4b3cc9bb5f91,47.0,22.0,5.0,0.0
+747,Commit,gobby_libinfinity,2010-01-20 16:33:50,9d80987e473d5b6f0b04256a01eda3ae3f00e3a3,173.0,6.0,6.0,0.0
+748,Commit,gobby_libinfinity,2010-01-11 22:26:42,8fb269f4c869edc10061edfddfd660520b0bce40,39.0,23.0,3.0,0.0
+749,Commit,gobby_libinfinity,2010-01-11 08:23:36,aea4e021b6a7346ccf3daa92f9045f9706a29304,37.0,0.0,5.0,0.0
+750,Commit,gobby_libinfinity,2010-01-02 21:20:13,b2e4bd0a801b9da2036939faeeb871fc1cb2b5ff,48.0,0.0,5.0,0.0
+751,Commit,gobby_libinfinity,2009-12-25 14:24:08,4c8562089c123f61ee574a10dbb32491d07c1853,10639.0,2.0,3.0,0.0
+752,Commit,gobby_libinfinity,2009-12-24 12:49:27,f5bcb562837b618e4960fb2f87c5b1129bd06114,9054.0,1.0,3.0,0.0
+753,Commit,gobby_libinfinity,2009-12-22 15:31:04,d741bd62f7719f18be121958c68073247ef22f2e,5875.0,5.0,44.0,0.0
+754,Commit,gobby_libinfinity,2009-12-22 15:00:33,e8a38c5912269317dfd6074db3c92058eee69264,24.0,5.0,3.0,0.0
+755,Commit,gobby_libinfinity,2009-12-20 16:56:40,7d040c13af68b99db454debc2d880b85694e2411,39.0,0.0,2.0,0.0
+756,Commit,gobby_libinfinity,2009-12-20 01:10:14,1c94b47b5dfc2a8d016111047070e77e0a802efb,101.0,75.0,26.0,0.0
+757,Commit,gobby_libinfinity,2009-12-19 23:04:53,8b6b67f5d7cc6a23241afcbba4e1cc5aa077b7d5,29.0,9.0,5.0,0.0
+758,Commit,gobby_libinfinity,2009-12-19 23:02:52,3dd997cc4ca3c94ad3a44ae0318c42bec1fb63ae,35.0,4.0,2.0,0.0
+759,Commit,gobby_libinfinity,2009-12-19 21:52:21,803893b478ae4f565529cbf865b3731fc972b2cc,23.0,1.0,2.0,0.0
+760,Commit,gobby_libinfinity,2009-12-19 21:15:28,891a12ca6bcfa5c93377fd1ee2229b9fac64c995,6.0,1.0,2.0,0.0
+761,Commit,gobby_libinfinity,2009-12-19 19:09:24,11791f640a16cad49dc04dc55c33dc162d503a34,2043.0,341.0,4.0,0.0
+762,Commit,gobby_libinfinity,2009-12-19 19:05:34,d973349cabb78eba548d2afe5fc24038e83b7c1e,1430.0,1.0,4.0,0.0
+763,Commit,gobby_libinfinity,2009-12-19 18:47:47,70cfcfb791e50e33689714e79a74d62d5a768c3c,9.0,2.0,2.0,0.0
+764,Commit,gobby_libinfinity,2009-12-19 18:25:18,7adfbfd1bf26bed02ece1d9d297bf7dd93e94a3e,7.0,3.0,2.0,0.0
+765,Commit,gobby_libinfinity,2009-12-19 14:57:25,ebb9d79bbd7dba477b7a86ded2fb45dd38f6e88a,36.0,2.0,3.0,0.0
+766,Commit,gobby_libinfinity,2009-12-19 14:42:24,ded11bbc6dd35f8d6227937bf10270a100f69fc1,10.0,0.0,2.0,0.0
+767,Commit,gobby_libinfinity,2009-12-18 23:00:01,525f8d40b2e7491a73041674d300130795813640,8.0,2.0,2.0,0.0
+768,Commit,gobby_libinfinity,2009-12-18 22:46:53,0a8e6013ba2892e53f22aceb685f93507c97d60e,677.0,14.0,8.0,0.0
+769,Commit,gobby_libinfinity,2009-12-18 22:27:49,b9e17b2697dc264004121972a22238f712324fb2,6.0,1.0,2.0,0.0
+770,Commit,gobby_libinfinity,2009-12-18 19:38:30,13c26c64ed63986b7008ff58bb9afa97c59947a4,289.0,107.0,4.0,0.0
+771,Commit,gobby_libinfinity,2009-12-18 15:39:30,0ddb74575f421d8759f385dea8a098cac5f897a5,26.0,3.0,2.0,0.0
+772,Commit,gobby_libinfinity,2009-12-18 15:05:11,fd47503e11ad54f4a6bee9b1eb7ce4387ce67ebe,14.0,7.0,3.0,0.0
+773,Commit,gobby_libinfinity,2009-12-16 22:20:59,09b5a2809ca346229b466214fcdd16151cf957da,50.0,10.0,6.0,0.0
+774,Commit,gobby_libinfinity,2009-12-16 16:57:41,621f88c6d8f9cf4076eee496a481d78dc7a2a059,108.0,4.0,2.0,0.0
+775,Commit,gobby_libinfinity,2009-12-15 16:52:48,3a2f17e0887265e86ca4f4791728b322dd42e990,0.0,0.0,0.0,0.0
+776,Commit,gobby_libinfinity,2009-12-14 23:14:18,e937cb4dd66af85788d10256e729abf92a30a739,13.0,0.0,2.0,0.0
+777,Commit,gobby_libinfinity,2009-12-14 22:50:18,c3290ea4bd270b6bcad2b96142fa3308335f5b54,8.0,5.0,2.0,0.0
+778,Commit,gobby_libinfinity,2009-12-14 19:40:27,c6a48554613c3cdf3aa4eb7084e2fa2f10abbbe5,560.0,120.0,11.0,0.0
+779,Commit,gobby_libinfinity,2009-12-14 17:44:20,14c223301db9cfaf41c24082e783433ef23add0b,46.0,23.0,1.0,0.0
+780,Commit,gobby_libinfinity,2009-12-14 12:47:23,97c1d635ef6c3e378fb66fe4877fc76a31d23674,21.0,13.0,2.0,0.0
+781,Commit,gobby_libinfinity,2009-12-14 11:48:07,f492f524a6e682225c2721205dff23b94b56a90d,5.0,2.0,2.0,0.0
+782,Commit,gobby_libinfinity,2009-12-14 11:45:06,e64b6ec68b0d819cb668909a1c617d1f98cca279,0.0,0.0,0.0,0.0
+783,Commit,gobby_libinfinity,2009-12-13 18:04:08,50a5ef74832671ec0fd45c00d3bcb5376a68ea6d,688.0,318.0,69.0,0.0
+784,Commit,gobby_libinfinity,2009-12-13 00:27:57,5c443b13d89994a09114c2d98b003892bfcc328e,53.0,71.0,13.0,0.0
+785,Commit,gobby_libinfinity,2009-12-13 00:19:37,818c51be14454cf1503fd44df6e4cdd53455d8e0,3.0,0.0,1.0,0.0
+786,Commit,gobby_libinfinity,2009-12-12 12:41:49,fbe46baed92c87381b1c23b7259cab6c90a2aa58,0.0,223.0,3.0,0.0
+787,Commit,gobby_libinfinity,2009-12-11 23:49:24,3ec099161158cab3206dc51d31fdc29b51c086e1,551.0,326.0,10.0,0.0
+788,Commit,gobby_libinfinity,2009-12-11 23:49:24,ba5894bac876f957b43075fd74807e8203f905a6,505.0,15.0,10.0,0.0
+789,Commit,gobby_libinfinity,2009-12-11 19:43:53,3f1f717af4e766109cbd3f18c592c2e83fc4fe30,8.0,0.0,2.0,0.0
+790,Commit,gobby_libinfinity,2009-12-11 19:41:18,4e1934b116e23470acba1ed40b8794f275fbd651,9.0,0.0,1.0,0.0
+791,Commit,gobby_libinfinity,2009-12-11 09:32:07,26ed0672b5f0e36912566120801150613db7f992,77.0,3.0,8.0,0.0
+792,Commit,gobby_libinfinity,2009-12-10 22:32:06,51585db495b4ba99732c838c04c3d53534bfc904,58.0,26.0,5.0,0.0
+793,Commit,gobby_libinfinity,2009-12-10 16:31:23,c4f437ad1e3ce4430379c2f736340baf0619ecb7,118.0,56.0,9.0,0.0
+794,Commit,gobby_libinfinity,2009-12-08 22:40:52,795601f38bc9b1ad171e7a1955bc6a83e7b20835,12.0,0.0,2.0,0.0
+795,Commit,gobby_libinfinity,2009-12-08 22:36:30,1ff52dc38b2f845ec8feb2e1f0084dcb76a75402,7.0,0.0,2.0,0.0
+796,Commit,gobby_libinfinity,2009-12-07 23:22:59,4ee80f7f0b180c76a120d0fae2b80beae7d4e55e,32.0,14.0,2.0,0.0
+797,Commit,gobby_libinfinity,2009-12-07 23:15:04,61a8fa2b67246dc8e66e55fe9009755e178e7e51,486.0,215.0,9.0,0.0
+798,Commit,gobby_libinfinity,2009-12-07 20:02:38,7968533b3b203bf4a4fecddda2f2adb883017077,163.0,68.0,3.0,0.0
+799,Commit,gobby_libinfinity,2009-12-07 16:34:38,6acf55c9eb7707029ace6312131c5a3f5e6bd999,21.0,10.0,2.0,0.0
+800,Commit,gobby_libinfinity,2009-12-06 21:08:49,1610e660e515e9755305b5a5ba432d346a546dee,1406.0,0.0,12.0,0.0
+801,Commit,gobby_libinfinity,2009-12-05 23:28:28,5c16fd3905d7b50c934e08043b82d7adbe9abdf9,18.0,170.0,6.0,0.0
+802,Commit,gobby_libinfinity,2009-12-02 23:26:42,51ce3c9faab937c5f6ee6f9283681297a9d1a929,9.0,0.0,2.0,0.0
+803,Commit,gobby_libinfinity,2009-12-02 23:23:24,51a2c2f3334662d7e12f80bfe384a790a249939d,227.0,159.0,3.0,0.0
+804,Commit,gobby_libinfinity,2009-12-02 23:22:07,6ab5dce3fbb098c07978cb7cc2314bc1f88ff573,2.0,1.0,1.0,0.0
+805,Commit,gobby_libinfinity,2009-12-02 22:57:37,d7613f2374c95838eb3f41d347f8c5975d882d66,129.0,83.0,4.0,0.0
+806,Commit,gobby_libinfinity,2009-12-02 21:33:19,f40c4e8d50b9cc4d539f574fae705673c8ef33b2,136.0,58.0,4.0,0.0
+807,Commit,gobby_libinfinity,2009-12-01 22:46:24,2c40bd6c89bda083a2b7bba4907b6444058b1372,7.0,0.0,2.0,0.0
+808,Commit,gobby_libinfinity,2009-11-30 20:59:09,05bd2c020398390716b1480fa29325fb63f0de1e,113.0,68.0,2.0,0.0
+809,Commit,gobby_libinfinity,2009-11-30 20:54:29,b4148f7308ca3fa533956677d5f2051bc1168198,423.0,160.0,17.0,0.0
+810,Commit,gobby_libinfinity,2009-11-30 12:49:09,06c53fe71a8f79354a9725e3f368305c018d108b,17.0,0.0,2.0,0.0
+811,Commit,gobby_libinfinity,2009-11-30 12:49:01,c4cdc893fc701e8155b8ae66ae3779e0c8f81d57,397.0,3.0,6.0,0.0
+812,Commit,gobby_libinfinity,2009-11-30 01:11:00,1955352a74278050a27707f3e1bd26147740a4ed,7.0,0.0,2.0,0.0
+813,Commit,gobby_libinfinity,2009-11-30 01:11:00,c53c51760361a07f86aedf494269b9d6cc4acd00,131.0,65.0,6.0,0.0
+814,Commit,gobby_libinfinity,2009-11-30 01:11:00,3503ebeebaba3ee89b01cf39f4e069e24345c07d,56.0,37.0,4.0,0.0
+815,Commit,gobby_libinfinity,2009-11-30 00:18:57,eaf9cbbff8007e0910624d9f0f7caccf9291d298,8.0,0.0,2.0,0.0
+816,Commit,gobby_libinfinity,2009-11-29 23:00:20,1b8a5d94742617f84618dab2dd47d0532fda8ff9,319.0,68.0,18.0,0.0
+817,Commit,gobby_libinfinity,2009-11-29 12:30:07,d417d4e740b621698bf0d7d4dd3f037dcd808129,158.0,76.0,7.0,0.0
+818,Commit,gobby_libinfinity,2009-11-28 20:06:53,5f36ad75b3d053cbd7fb3c91fd4840845458b77b,197.0,81.0,5.0,0.0
+819,Commit,gobby_libinfinity,2009-11-28 19:31:04,f70f0a84261f08fde744bb888f53db670ee73d85,49.0,5.0,2.0,0.0
+820,Commit,gobby_libinfinity,2009-11-28 18:55:52,956c0c5989128abaac24d9857bf29287e8c51174,61.0,18.0,3.0,0.0
+821,Commit,gobby_libinfinity,2009-11-28 18:52:18,784610f868e5d1778280efcfbe6694dc32902385,31.0,20.0,7.0,0.0
+822,Commit,gobby_libinfinity,2009-11-28 16:00:56,61c98532cc313bfe243fe6a75718a593d2d2b553,92.0,18.0,8.0,0.0
+823,Commit,gobby_libinfinity,2009-11-28 15:36:53,16f790527f1c4898bf30844d6e0e91b9ea40687a,13.0,8.0,2.0,0.0
+824,Commit,gobby_libinfinity,2009-11-28 15:34:07,f5964104253974d520c2bf98900d9ee84b455d02,101.0,60.0,5.0,0.0
+825,Commit,gobby_libinfinity,2009-11-28 15:19:58,397ce44d3930386351ba7ddee2c1b5e2e144dfc1,44.0,9.0,2.0,0.0
+826,Commit,gobby_libinfinity,2009-11-28 15:14:52,af6cef6f9d3549203f9c846d37f5154ca15e9952,24.0,16.0,2.0,0.0
+827,Commit,gobby_libinfinity,2009-11-28 12:23:47,c14b141b4f9e1a71d367c0b62fd10077ff841d96,119.0,1.0,3.0,0.0
+828,Commit,gobby_libinfinity,2009-11-28 12:21:01,a9d0f8943a5ced594d70a64d5c63fd797b461c53,7.0,1.0,2.0,0.0
+829,Commit,gobby_libinfinity,2009-11-25 22:17:01,e7d4a47a011c33e8ccdff4116afe484ed704d857,149.0,9.0,9.0,0.0
+830,Commit,gobby_libinfinity,2009-11-25 22:08:51,2aabe15ab0b22add0a97afc3a629d3c5806f698b,7.0,2.0,2.0,0.0
+831,Commit,gobby_libinfinity,2009-11-24 22:51:02,98a0a2faee8b261086171d8ccc961fd4afb5a025,9.0,4.0,2.0,0.0
+832,Commit,gobby_libinfinity,2009-11-24 00:00:18,5ade5790d0ffa8bf08714da45c1f914c8e747db0,307.0,133.0,6.0,0.0
+833,Commit,gobby_libinfinity,2009-11-23 23:36:52,1ecb2ba8575dc6328fcc7ad52460616c7be4f24a,308.0,158.0,12.0,0.0
+834,Commit,gobby_libinfinity,2009-11-23 23:31:05,fc6685af3c35d07a0fa37ff8d9c1ed95302ee28a,138.0,66.0,5.0,0.0
+835,Commit,gobby_libinfinity,2009-11-23 16:42:25,b3f9f116307901a0e5c07a52e46d74d0caf57203,35.0,1.0,3.0,0.0
+836,Commit,gobby_libinfinity,2009-11-22 16:21:29,1617445270b34e4d603f7464a4fc361a1cf2b276,7.0,1.0,2.0,0.0
+837,Commit,gobby_libinfinity,2009-11-22 13:56:18,f6b9afe2f41fd36272d2ca007fe12a132bbb7d6f,11.0,1.0,2.0,0.0
+838,Commit,gobby_libinfinity,2009-11-21 23:13:42,2191ee602202bb8cdac848842405c16710872663,94.0,26.0,4.0,0.0
+839,Commit,gobby_libinfinity,2009-11-21 22:51:52,f64c2b8a3f6b11ee41d7ac7eaac1824634d7c073,11.0,1.0,3.0,0.0
+840,Commit,gobby_libinfinity,2009-11-18 22:22:25,905da593873906e486b64cf16d76ac7e09c1d212,7.0,1.0,2.0,0.0
+841,Commit,gobby_libinfinity,2009-11-17 21:35:55,371a4fbbb34c45cb816e8b7082e828d0667d9078,40.0,10.0,2.0,0.0
+842,Commit,gobby_libinfinity,2009-11-15 22:06:39,709fe4b8799cd2f5221876b434a344fc1e9a8098,67.0,0.0,3.0,0.0
+843,Commit,gobby_libinfinity,2009-11-13 10:18:52,9ebdd047d30cd55a29b9e48dbfc8a9eb559a2515,54.0,51.0,2.0,0.0
+844,Commit,gobby_libinfinity,2009-11-13 09:26:42,43fcfcdeaccaab957448f52526f078cd6c233cd0,61.0,41.0,5.0,0.0
+845,Commit,gobby_libinfinity,2009-11-12 00:28:00,cd1dc0a06b227ebfb0d5e643c6714cfdba4b2025,263.0,0.0,2.0,0.0
+846,Commit,gobby_libinfinity,2009-11-11 23:47:06,45a218066c1252462ab958f92bb0521ab2717b0f,8.0,0.0,2.0,0.0
+847,Commit,gobby_libinfinity,2009-11-11 16:49:42,9d978d08fd65c40632d19324489f98f21c95f24c,20.0,7.0,2.0,0.0
+848,Commit,gobby_libinfinity,2009-11-11 16:40:23,0f4e36b1adac579129d5c24927f3296382f188a1,181.0,5.0,4.0,0.0
+849,Commit,gobby_libinfinity,2009-11-10 23:32:32,faafd453e18acea364c742d4918de3270f9d4b2e,11.0,1.0,2.0,0.0
+850,Commit,gobby_libinfinity,2009-11-10 23:26:08,a43e57dac284922b74dcd5c5485d7f3efc984d9c,6.0,0.0,2.0,0.0
+851,Commit,gobby_libinfinity,2009-11-10 23:06:26,e35c065331668946cff2c2cbd93389b25b778456,9.0,0.0,2.0,0.0
+852,Commit,gobby_libinfinity,2009-11-10 22:45:57,7cb43b0f7c4569ef4c1efd871ea484c14390418e,7.0,1.0,2.0,0.0
+853,Commit,gobby_libinfinity,2009-11-10 17:06:53,35db54060584d8d799ee93473d19d3b9e8a58a18,146.0,90.0,2.0,0.0
+854,Commit,gobby_libinfinity,2009-11-09 22:13:17,4d7e92d9bce1b9519216618ab689a780437cc867,12.0,6.0,2.0,0.0
+855,Commit,gobby_libinfinity,2009-11-08 23:23:02,04f2dfae6f2182a63f05467996b245b391c93827,119.0,11.0,2.0,0.0
+856,Commit,gobby_libinfinity,2009-11-08 21:10:10,19f15d40bbe6eeec9d371fee12243460801c18f5,6.0,1.0,2.0,0.0
+857,Commit,gobby_libinfinity,2009-11-08 19:55:52,0f285ebd0c9c9fdf2ea211bde188acefa6259e20,6.0,0.0,2.0,0.0
+858,Commit,gobby_libinfinity,2009-11-07 22:31:29,b144bd258301d51476d4d79f0327b330652b4110,25.0,0.0,3.0,0.0
+859,Commit,gobby_libinfinity,2009-11-07 20:24:16,ee1ae93d72d295c4d056b6e8274f42ddd9dcea45,7.0,1.0,2.0,0.0
+860,Commit,gobby_libinfinity,2009-11-07 13:56:18,f640adf86ba1d1307fba8b604eea734fd17a65d0,8.0,0.0,2.0,0.0
+861,Commit,gobby_libinfinity,2009-11-07 12:07:21,112a57295069e504b653fc486aade234b5309387,144.0,1.0,4.0,0.0
+862,Commit,gobby_libinfinity,2009-11-06 23:49:01,ae0d1e4b767891eaed7a1e8b4fdd4d5d7f5775c2,29.0,24.0,4.0,0.0
+863,Commit,gobby_libinfinity,2009-11-06 23:37:01,6fb6f7863656db6b574a3d6a2ae360648c8dcf16,6.0,15.0,2.0,0.0
+864,Commit,gobby_libinfinity,2009-11-06 23:19:03,9eddda623aad3c0b4bf2d72317dad13f01235fcf,7.0,2.0,2.0,0.0
+865,Commit,gobby_libinfinity,2009-11-06 23:19:03,787dd0dd653b9ad62c7bafd6743a7dfea12125d7,53.0,22.0,2.0,0.0
+866,Commit,gobby_libinfinity,2009-11-06 23:19:03,462964dd0d4f233e9adc7d9d24361bb59512740b,13.0,1.0,2.0,0.0
+867,Commit,gobby_libinfinity,2009-11-06 19:19:14,a60b5a2ebcbdf58e1a06c8e36cb195c9cc4cd8b2,19.0,1.0,2.0,0.0
+868,Commit,gobby_libinfinity,2009-11-06 16:05:06,7491209e64fe9156ac42497ec51e12088854f7c3,176.0,52.0,9.0,0.0
+869,Commit,gobby_libinfinity,2009-10-27 17:07:20,9d97e3893b719f78fa1f7d0ef44a13c94cc43738,44.0,30.0,2.0,0.0
+870,Commit,gobby_libinfinity,2009-10-22 23:14:44,044813a548d288008190f706dc0b615f9e334d02,12.0,0.0,2.0,0.0
+871,Commit,gobby_libinfinity,2009-10-13 03:12:26,bf6830d90c0b286f6ade97c9de341a3431750146,1439.0,9.0,7.0,0.0
+872,Commit,gobby_libinfinity,2009-10-11 02:57:28,e9554d54802517cfe9b09843fcb5e2df4555d3ce,11.0,3.0,4.0,0.0
+873,Commit,gobby_libinfinity,2009-10-10 02:40:08,7fc587f639d4a9029811a273666e832e8381193e,425.0,1.0,5.0,0.0
+874,Commit,gobby_libinfinity,2009-10-10 02:36:45,6843c2477f81bf8b327fbc0b4f87dba73369c193,84.0,47.0,4.0,0.0
+875,Commit,gobby_libinfinity,2009-10-10 02:36:45,78955f03de00221a5da44969ff2b361904a6b8b2,8.0,0.0,2.0,0.0
+876,Commit,gobby_libinfinity,2009-10-10 02:36:45,559d39a9c4c1f1b1924b39af4180a70a58111b21,6.0,1.0,2.0,0.0
+877,Commit,gobby_libinfinity,2009-10-10 02:36:45,aec9ad2a64d6773c6879a2e366a4f4f34bb57f61,425.0,43.0,6.0,0.0
+878,Commit,gobby_libinfinity,2009-10-10 02:36:44,91473cbf5ae92f1ce9ab40b1e1789e948aa73f88,330.0,21.0,6.0,0.0
+879,Commit,gobby_libinfinity,2009-10-10 02:36:39,527576055bb55c4197edf03b2895bb37f9c64d4f,2422.0,0.0,8.0,0.0
+880,Commit,gobby_libinfinity,2009-10-09 03:07:06,5341ccee1343c4edbfd086439fbb14ddd6469a1d,6.0,1.0,2.0,0.0
+881,Commit,gobby_libinfinity,2009-10-09 03:04:54,3c242108c3bd1f3fff017e1b278ba8a18b8bb63c,11.0,3.0,2.0,0.0
+882,Commit,gobby_libinfinity,2009-10-08 23:14:50,991c7a8d40f9f3533f5fd40c4eadbd1b1068974b,37.0,27.0,2.0,0.0
+883,Commit,gobby_libinfinity,2009-10-08 03:25:07,be14f4c3a0f91db4337837777b88c49ab759de63,6.0,1.0,2.0,0.0
+884,Commit,gobby_libinfinity,2009-10-08 03:23:04,cdfb9f7f36c0d1d8a7146a5deb137723dec4c05d,7.0,1.0,2.0,0.0
+885,Commit,gobby_libinfinity,2009-10-08 00:26:13,a834d60cf16221c5ed1ad436d9b064fd2c852e72,31.0,6.0,11.0,0.0
+886,Commit,gobby_libinfinity,2009-06-03 16:40:12,759dc020edbc38aed8f9a9ad0fd0a0c0260bc9f7,6.0,2.0,2.0,0.0
+887,Commit,gobby_libinfinity,2009-05-13 21:35:10,82d7e6625828b38cc80fd1ba39702864483048f2,6.0,1.0,2.0,0.0
+888,Commit,gobby_libinfinity,2009-05-11 16:02:57,ef4e5e95f8ad5d44e9ed509ecb77a95dc4224fb8,42.0,36.0,3.0,0.0
+889,Commit,gobby_libinfinity,2009-05-02 18:33:41,496e7b996519b0c56cf4323fa73a77945fb7b0c6,5.0,1.0,2.0,0.0
+890,Commit,gobby_libinfinity,2009-05-02 18:33:16,5f8928cec072a6dfc0c2129a7e2ddc8b30cecdb9,8.0,1.0,2.0,0.0
+891,Commit,gobby_libinfinity,2009-05-02 18:31:15,4a8318629779dbe3cd03820ff82183a0f6b978be,59.0,12.0,5.0,0.0
+892,Commit,gobby_libinfinity,2009-04-26 10:46:45,a3c769ab501441afcb84c2c2e4b7358cb85b6394,14.0,4.0,2.0,0.0
+893,Commit,gobby_libinfinity,2009-04-26 10:43:32,c8ac439ff9ec0433255fca0af001b70ae053057a,104.0,77.0,26.0,0.0
+894,Commit,gobby_libinfinity,2009-04-26 10:23:58,aa535ad5bf1d79cb184c01620e7b2ec70e7ae2d8,5.0,5.0,1.0,0.0
+895,Commit,gobby_libinfinity,2009-04-26 09:43:18,5271a77296925f6b86102dcca8f2cf85605e74ab,0.0,0.0,0.0,0.0
+896,Commit,gobby_libinfinity,2009-04-25 22:13:13,8d5fd82854f52923972701d74475cab75bcd85ce,396.0,198.0,198.0,0.0
+897,Commit,gobby_libinfinity,2009-04-24 22:12:23,71a9d20584daca692f86ab0acafbb3466197a127,139.0,92.0,3.0,0.0
+898,Commit,gobby_libinfinity,2009-04-24 22:11:43,7149e55838f99c7f51dcc58afab37020697231e5,6.0,1.0,2.0,0.0
+899,Commit,gobby_libinfinity,2009-04-24 17:02:30,a08626ae00e48ba0c5ae6f428d882810ff0ec897,8.0,4.0,3.0,0.0
+900,Commit,gobby_libinfinity,2009-04-24 10:59:30,2e722d4afa96c2a6e6eaa0bb92ae193de6c51fc0,30.0,4.0,6.0,0.0
+901,Commit,gobby_libinfinity,2009-04-24 10:59:30,529d6aa28eda38222037c426217e688485ae629b,30.0,30.0,3.0,0.0
+902,Commit,gobby_libinfinity,2009-04-23 07:52:42,25336942d1d702b6161468a2667b64e595792c98,4.0,0.0,1.0,0.0
+903,Commit,gobby_libinfinity,2009-04-22 21:27:05,d6de7cf11f2b9aec307b1acff1c47794a1b849c0,21.0,3.0,13.0,0.0
+904,Commit,gobby_libinfinity,2009-04-22 17:11:28,2ca6c6289944e364ee1878cbc677475a50e000d8,1.0,0.0,1.0,0.0
+905,Commit,gobby_libinfinity,2009-04-21 22:38:40,58f83ff51677ce790cca808c2f49420365461454,67.0,24.0,15.0,0.0
+906,Commit,gobby_libinfinity,2009-04-21 20:20:07,c9a367cbecc10657dff8f071385dd589cf830a0c,8.0,4.0,2.0,0.0
+907,Commit,gobby_libinfinity,2009-04-21 19:10:46,c991896b176bd7f0b3620e03975df99626c910ca,10.0,2.0,2.0,0.0
+908,Commit,gobby_libinfinity,2009-04-21 16:18:02,efdd20758106362e1aad06fed1306d96c1c21126,6.0,2.0,3.0,0.0
+909,Commit,gobby_libinfinity,2009-04-21 11:07:35,a6aa1039d269970ab7b6740641e3db8eff51201d,2.0,2.0,1.0,0.0
+910,Commit,gobby_libinfinity,2009-04-20 21:57:52,0857843a1c9ac7d5ebfc0e91adeefb45181eaac5,1.0,0.0,1.0,0.0
+911,Commit,gobby_libinfinity,2009-04-20 20:00:57,062a22a8d509f44cd99e614b527c5b261a63c794,6.0,0.0,1.0,0.0
+912,Commit,gobby_libinfinity,2009-04-20 19:53:37,d68b36d26ba859ce8772f9eb062b8cbc76160d48,180.0,116.0,26.0,0.0
+913,Commit,gobby_libinfinity,2009-04-20 15:09:47,4223d62a50fed26f59e4bd6aaf6c47b0e6bee028,7.0,2.0,2.0,0.0
+914,Commit,gobby_libinfinity,2009-02-28 21:10:58,af65c5a75fc06c73b45c1847f83ac022baa440c6,0.0,0.0,4.0,0.0
+915,Commit,gobby_libinfinity,2009-02-28 21:10:49,d59357b3c343dcb68e5b3f3c85c7cc373e9ceb70,2019.0,765.0,8.0,0.0
+916,Commit,gobby_libinfinity,2009-02-28 21:03:43,52103eba535ae3fe17bcf76adeed001d9c01fe4b,8.0,1.0,2.0,0.0
+917,Commit,gobby_libinfinity,2009-02-26 18:28:35,9f712b74b53818865566b0798e20cf3e19dbddb1,7.0,0.0,2.0,0.0
+918,Commit,gobby_libinfinity,2009-02-15 23:18:44,c8d0adba35df7ac3876fa082fea2a4ed319f2603,14.0,0.0,3.0,0.0
+919,Commit,gobby_libinfinity,2009-02-15 23:13:31,c437eeb06c76d5c21dd70510c3a8dc1d549f7d3e,219.0,16.0,3.0,0.0
+920,Commit,gobby_libinfinity,2009-02-14 15:11:52,73f03b06ce1d145a13dd41ff7b2f2b5b804ebf82,7.0,1.0,2.0,0.0
+921,Commit,gobby_libinfinity,2009-02-14 13:19:30,f2491d23f96ad1ad2c51b348b8695f14ce135831,3.0,3.0,1.0,0.0
+922,Commit,gobby_libinfinity,2009-02-14 13:19:19,0ad52415afb82323c5293706fc9f2b389b7a68e1,7.0,1.0,2.0,0.0
+923,Commit,gobby_libinfinity,2009-02-14 13:09:42,093a398c5246f7b5b5bc287b5c42d8c445f8e053,77.0,11.0,7.0,0.0
+924,Commit,gobby_libinfinity,2009-01-15 21:51:03,b9db1c80428e1dc9a7f2102e7ecc37192fa78f3e,201.0,198.0,199.0,0.0
+925,Commit,gobby_libinfinity,2009-01-05 02:02:03,98b62e8b4ed29a83163c1f069bc11514dfca61ed,5.0,1.0,2.0,0.0
+926,Commit,gobby_libinfinity,2009-01-05 01:58:36,0e637bd4b889817e2b76d5e93cbe69c20e0f9803,219.0,203.0,5.0,0.0
+927,Commit,gobby_libinfinity,2009-01-05 01:26:37,12e6ffceeeb802b235835b21934627426d6602b4,9.0,2.0,2.0,0.0
+928,Commit,gobby_libinfinity,2009-01-05 01:18:38,adcc234b3247a2d249bc5b046c4dec82bc25200b,2.0,95.0,6.0,0.0
+929,Commit,gobby_libinfinity,2009-01-05 00:56:01,8f579b1866bb5b9295d6ed271091343e9d80a765,5.0,1.0,2.0,0.0
+930,Commit,gobby_libinfinity,2009-01-05 00:50:14,8d036f9dee9802f2c2ba4d10b2578ef35edb536a,127.0,86.0,5.0,0.0
+931,Commit,gobby_libinfinity,2009-01-04 23:41:56,88308b5d63688802ab5baf2b31609a20b03a092a,28.0,3.0,3.0,0.0
+932,Commit,gobby_libinfinity,2009-01-04 20:51:25,4c9e7c0c2d1b94cda4952de27ccd03c9fa56b9b0,43.0,0.0,3.0,0.0
+933,Commit,gobby_libinfinity,2009-01-04 19:03:15,35d09c63cb9e38a95eefcdc654f26e52fa40538d,15.0,4.0,2.0,0.0
+934,Commit,gobby_libinfinity,2008-12-30 18:50:44,29329d54de430c260caf7924022a4fae228c219f,90.0,76.0,7.0,0.0
+935,Commit,gobby_libinfinity,2008-12-30 17:43:55,97287fca1b69a593f8615619128340572216905c,80.0,85.0,2.0,0.0
+936,Commit,gobby_libinfinity,2008-12-30 17:38:39,8540fcfb00fffb12d35cc7d5acca0f7b0e264d45,2.0,0.0,2.0,0.0
+937,Commit,gobby_libinfinity,2008-12-30 16:34:31,499e1c0c4068ae385d3d84dbdc59b38dfb1e4d5a,132.0,56.0,4.0,0.0
+938,Commit,gobby_libinfinity,2008-12-30 14:13:01,2228d7836ea763dcf586d23bfbc2792398f2af3b,62.0,2.0,5.0,0.0
+939,Commit,gobby_libinfinity,2008-12-30 13:38:30,42d1a0e149d3f21413f046d8422e7d46c82e6ea9,8.0,1.0,2.0,0.0
+940,Commit,gobby_libinfinity,2008-12-30 00:16:35,94a06a64649efb32a921fe9cab343eb60a9f72d9,50.0,115.0,6.0,0.0
+941,Commit,gobby_libinfinity,2008-12-29 20:10:23,1382877da73a8583d45ad9cf1c06b544a925b312,181.0,82.0,2.0,0.0
+942,Commit,gobby_libinfinity,2008-12-29 18:54:10,c99603bbe39a045e05b4e1a55602b0f9e6985a91,44.0,2.0,2.0,0.0
+943,Commit,gobby_libinfinity,2008-12-29 18:18:54,37e4481b2deace24f8d26586cf86185d256ecd03,7.0,2.0,2.0,0.0
+944,Commit,gobby_libinfinity,2008-12-29 18:15:27,ce380c33c9f982cb76457e8406c541d7ed1d8c38,6.0,1.0,2.0,0.0
+945,Commit,gobby_libinfinity,2008-12-29 13:44:33,0dc6b370cae9db2a408908775ed46f22b56dd196,44.0,12.0,2.0,0.0
+946,Commit,gobby_libinfinity,2008-12-29 00:48:53,fc800b5ed5823e55184f048e65887e3b28d9d67f,7.0,1.0,2.0,0.0
+947,Commit,gobby_libinfinity,2008-12-29 00:46:43,3eb9c78fd7161a1f06fcb5d88bce525f75e0584a,7.0,6.0,2.0,0.0
+948,Commit,gobby_libinfinity,2008-12-29 00:44:29,dd15630a620d2f48ffbf22f03cea7d4fe5e907a3,23.0,9.0,2.0,0.0
+949,Commit,gobby_libinfinity,2008-12-28 23:55:44,f074bd6f0bb0a225a5f71373dc52b54eb61f1a23,27.0,12.0,2.0,0.0
+950,Commit,gobby_libinfinity,2008-12-28 23:41:07,4d1217b2634707f8c1a5f6db976860cb11ee6080,47.0,16.0,3.0,0.0
+951,Commit,gobby_libinfinity,2008-12-28 19:19:15,0d243fa4858dd5204f824815f4c06b338f1c02a3,87.0,0.0,1.0,0.0
+952,Commit,gobby_libinfinity,2008-12-28 18:36:07,44b8847f030f762bdedd5ba207a424e5550e59f7,6.0,6.0,1.0,0.0
+953,Commit,gobby_libinfinity,2008-12-28 18:36:07,6463330f5feeb0c24ca34ef578b1b4b32626f2a1,7.0,0.0,1.0,0.0
+954,Commit,gobby_libinfinity,2008-12-28 18:36:07,60796aaaca0f5a1bbdc01c9a52291fab8315ca33,1.0,7.0,1.0,0.0
+955,Commit,gobby_libinfinity,2008-12-28 18:36:07,702f565a9c7bca124cbf255e53bef0ccb5a87994,72.0,40.0,5.0,0.0
+956,Commit,gobby_libinfinity,2008-12-28 18:36:07,41e838da2061dbfda3f51ec620629ac38f8c450b,28.0,32.0,1.0,0.0
+957,Commit,gobby_libinfinity,2008-12-28 18:36:07,feb87e550caa0ddd0d74b9496a926341d58ec61c,3.0,0.0,1.0,0.0
+958,Commit,gobby_libinfinity,2008-12-28 18:36:07,f96ca1700860b0548b1190a4bb0c662064a5ebda,37.0,1.0,3.0,0.0
+959,Commit,gobby_libinfinity,2008-12-28 18:36:07,a10edb405d50fec5ca50de8912fbabf216ba92eb,6.0,1.0,1.0,0.0
+960,Commit,gobby_libinfinity,2008-12-28 18:36:07,8049650ff59dd3071f4dd169c996d7813c76263f,4.0,6.0,1.0,0.0
+961,Commit,gobby_libinfinity,2008-12-28 18:36:07,14170c4014375e656ec5acafcc38ff517ae912fd,1.0,1.0,1.0,0.0
+962,Commit,gobby_libinfinity,2008-12-28 18:36:07,3b4d0d2ed0e202309e79608e26ab8b35879a2610,22.0,14.0,1.0,0.0
+963,Commit,gobby_libinfinity,2008-12-28 18:36:07,9e3e6f7558c50b0600a48aa6f60c74281ed8545a,1.0,1.0,1.0,0.0
+964,Commit,gobby_libinfinity,2008-12-28 18:36:07,f3999b48534a207f09366fafc9d5fc129f1f37af,23.0,45.0,1.0,0.0
+965,Commit,gobby_libinfinity,2008-12-28 18:36:07,29fbbc9b029bc739e9c4ea41d5123dc95692b4e8,25.0,2.0,1.0,0.0
+966,Commit,gobby_libinfinity,2008-12-28 18:36:07,01ece6c273f6d27d336966f3725adfdfcf29a666,118.0,233.0,2.0,0.0
+967,Commit,gobby_libinfinity,2008-12-28 18:36:07,45b9a1d4b7cfad2ad442b8b4ecc1ac6cd236782c,67.0,6.0,1.0,0.0
+968,Commit,gobby_libinfinity,2008-12-28 18:36:06,aab769d2320761b5b1845fd16d36d1a8068ba567,9.0,3.0,2.0,0.0
+969,Commit,gobby_libinfinity,2008-12-28 18:36:06,3ae58f00ab7815d25f9af1e12b91207ee3c8d184,2.0,0.0,1.0,0.0
+970,Commit,gobby_libinfinity,2008-12-28 18:36:06,ed2c9d16ba44de3394708e2c9f1f241e72c8afed,27.0,10.0,2.0,0.0
+971,Commit,gobby_libinfinity,2008-12-28 18:36:06,13d379103860a7bfb2340d8ce05d2fc2d2ab6c3e,2.0,2.0,1.0,0.0
+972,Commit,gobby_libinfinity,2008-12-28 18:36:06,2fde20770417977af4b4c1fca20069d68fd142ce,1.0,1.0,1.0,0.0
+973,Commit,gobby_libinfinity,2008-12-28 18:36:06,dcaee821a46fd632c233eefe0bbcedfd4b1d8795,1.0,1.0,1.0,0.0
+974,Commit,gobby_libinfinity,2008-12-28 18:36:06,73a6ecb2e1920fb27fba38ae25cd47adccee5afa,12.0,17.0,5.0,0.0
+975,Commit,gobby_libinfinity,2008-12-28 18:36:06,9152bf9fddf3f4325cccfec0782d03d5f00dc926,4.0,4.0,3.0,0.0
+976,Commit,gobby_libinfinity,2008-12-28 18:36:06,02b19fb04bf3c2b888a7f4a11628cee351dd9e99,11.0,3.0,1.0,0.0
+977,Commit,gobby_libinfinity,2008-12-28 18:36:06,a0cbc6528bb97620e7f5d96e4da7f99bd18b7c41,886.0,0.0,5.0,0.0
+978,Commit,gobby_libinfinity,2008-12-28 18:36:06,39f8986e3ad262acc1166b4209f516a50193f532,1.0,1.0,1.0,0.0
+979,Commit,gobby_libinfinity,2008-12-28 18:36:06,30523a7e9bcbe6e1d82df36f5f9e964c64c7a5da,17.0,19.0,4.0,0.0
+980,Commit,gobby_libinfinity,2008-12-28 18:36:06,ad66a1eb643b41891ff4fbf58cba875e0849ee4b,7.0,3.0,2.0,0.0
+981,Commit,gobby_libinfinity,2008-12-28 18:36:06,5cb862f3b23b5bfa71d8f3c981d85843fa6d853e,15.0,14.0,4.0,0.0
+982,Commit,gobby_libinfinity,2008-12-28 18:36:06,6f8442f4371da9fcba9db7cff23aee3928cdec5b,60.0,76.0,6.0,0.0
+983,Commit,gobby_libinfinity,2008-12-28 18:36:06,821f63de48e1652e8b6bc759d683b487eda9c86d,731.0,26.0,4.0,0.0
+984,Commit,gobby_libinfinity,2008-12-28 18:36:06,ac9aea1ad33e520aabb5f3fd38d3542380c00c49,324.0,1.0,2.0,0.0
+985,Commit,gobby_libinfinity,2008-12-28 18:36:06,2abc74780908e148f4aff798ca4effba3a13166b,3.0,0.0,1.0,0.0
+986,Commit,gobby_libinfinity,2008-12-28 18:36:06,05b6160d5140c3bbab3c1bcdfbf51089857ec1ed,529.0,0.0,2.0,0.0
+987,Commit,gobby_libinfinity,2008-12-28 18:36:06,79459518afa499b7c2952f28df9a3c4337907907,14.0,11.0,3.0,0.0
+988,Commit,gobby_libinfinity,2008-12-28 18:36:06,25ebeacc14eaa612d154c483bd75a453ec005b25,422.0,0.0,2.0,0.0
+989,Commit,gobby_libinfinity,2008-12-28 18:36:06,e66cdab47ea8d4c101a885abda6761d33a8dd96b,47.0,1.0,3.0,0.0
+990,Commit,gobby_libinfinity,2008-12-28 18:36:06,850fd2f3d22f0891eef980a0ed3fa908d58276ab,330.0,59.0,5.0,0.0
+991,Commit,gobby_libinfinity,2008-12-28 18:36:06,27e2b7f666c944a379bdad7772441e5867f62461,247.0,1.0,3.0,0.0
+992,Commit,gobby_libinfinity,2008-12-28 18:36:06,f9cdb015ce69e1f9cf4da89bfba5b63481ee0f2a,21.0,16.0,2.0,0.0
+993,Commit,gobby_libinfinity,2008-12-28 18:36:06,1041bd058ced1a8ac136c10e958e22a08ea62db0,151.0,32.0,5.0,0.0
+994,Commit,gobby_libinfinity,2008-12-28 18:36:06,a554f42350d3b1d2e02a770a648a79970d71e215,65.0,1.0,2.0,0.0
+995,Commit,gobby_libinfinity,2008-12-28 18:36:06,22ef72c506a4fbb35972e41e5c844a941046cd74,123.0,0.0,1.0,0.0
+996,Commit,gobby_libinfinity,2008-12-28 18:36:06,61e0f0ef26eca2b13d4099d4fa7d5151a703a25d,563.0,0.0,2.0,0.0
+997,Commit,gobby_libinfinity,2008-12-28 18:36:05,1c5fb611eb9a85a680d952ab464066e64e92aa64,32.0,10.0,6.0,0.0
+998,Commit,gobby_libinfinity,2008-12-28 18:36:05,cb9d6562fe319c573f53d4f5409696f7241e7246,3.0,3.0,1.0,0.0
+999,Commit,gobby_libinfinity,2008-12-28 18:36:05,d23a355820c3522f4a9f940652a7e72d0ec193b2,140.0,0.0,1.0,0.0
+1000,Commit,gobby_libinfinity,2008-12-28 18:36:05,b26f7584dcb2726239d375a91e9713de44fd5560,362.0,0.0,1.0,0.0
+1001,Commit,gobby_libinfinity,2008-12-28 18:36:05,5e39ce9c8f5ce7cdcffca6b1bcfe85c9b3441740,2.0,0.0,1.0,0.0
+1002,Commit,gobby_libinfinity,2008-12-28 18:36:05,be7b63d03de2d4c2fcfc962f5ae4c7271a7092dd,5.0,0.0,1.0,0.0
+1003,Commit,gobby_libinfinity,2008-12-28 18:36:05,21f07f2117f4798f262441bda408691c56f78aff,37.0,4.0,1.0,0.0
+1004,Commit,gobby_libinfinity,2008-12-28 18:36:05,d58efe8af94231955c3d02918051f0a4bbc24980,228.0,153.0,5.0,0.0
+1005,Commit,gobby_libinfinity,2008-12-28 18:36:05,b59ffd654225bf9fd71da7f985ff67edf3040948,7.0,4.0,1.0,0.0
+1006,Commit,gobby_libinfinity,2008-12-28 18:36:05,8cb6c248cfdc9b2d2c09a515a60117317f559e23,1.0,1.0,1.0,0.0
+1007,Commit,gobby_libinfinity,2008-12-28 18:36:05,db31687be030157262b589b6e6bcddb7790c678a,763.0,986.0,27.0,0.0
+1008,Commit,gobby_libinfinity,2008-12-28 18:36:05,cd2a79854dd6e9bd06380565a3f6a74a7ae066f4,27.0,5.0,5.0,0.0
+1009,Commit,gobby_libinfinity,2008-12-28 18:36:05,91b4c2e3fdbb4b3d467ce83da260e906ec4cacb2,1.0,1.0,1.0,0.0
+1010,Commit,gobby_libinfinity,2008-12-28 16:18:18,c94a09363375a0da5534bba909b9f4da76003bfe,0.0,3467.0,7.0,0.0
+1011,Commit,gobby_libinfinity,2008-12-28 16:18:18,9ce91f4e444308d1a977fc126382b44b549ec7ec,63.0,83.0,2.0,0.0
+1012,Commit,gobby_libinfinity,2008-12-28 16:18:18,33564cc992039bec409b5ac033d6a3566f61bbdf,57.0,12.0,2.0,0.0
+1013,Commit,gobby_libinfinity,2008-12-28 16:18:18,2df7cd6ff12d02dd81e2ce6d4dc779649f55db0e,47.0,26.0,7.0,0.0
+1014,Commit,gobby_libinfinity,2008-12-28 16:18:18,8846c73fc171a29f279a1805dbd5089d6bb707db,406.0,2.0,7.0,0.0
+1015,Commit,gobby_libinfinity,2008-12-28 16:18:18,b388e633fe434d826c706edc4ac856e273e399bb,84.0,0.0,1.0,0.0
+1016,Commit,gobby_libinfinity,2008-12-28 16:18:18,a6b5f98c76ea30313f2dc5dbe1dbfbbf8ea33e00,100.0,0.0,1.0,0.0
+1017,Commit,gobby_libinfinity,2008-12-28 16:17:46,4c97dc0fa17f284c8062c3407ed6890ebe1365bf,31.0,8.0,3.0,0.0
+1018,Commit,gobby_libinfinity,2008-12-28 15:15:59,96447fecb0977f2c53f6a1cb208179b6b6a997cf,9.0,3.0,4.0,0.0
+1019,Commit,gobby_libinfinity,2008-12-27 22:01:42,e00cc38b4e1ff94d9871534d9fbda885af11a53d,29.0,11.0,5.0,0.0
+1020,Commit,gobby_libinfinity,2008-12-27 21:23:53,b1b316f4f6be5bb394686532925b042b3698577d,23.0,10.0,3.0,0.0
+1021,Commit,gobby_libinfinity,2008-12-27 13:41:01,f25c4de3f0dbae456fbf46bc3671775053261882,21.0,6.0,2.0,0.0
+1022,Commit,gobby_libinfinity,2008-12-23 23:37:36,0ff52951b74ee7710692950146d957093de3df26,13.0,2.0,3.0,0.0
+1023,Commit,gobby_libinfinity,2008-12-23 23:28:11,031c113915d7a8ab3cd96c5ab544e30cfd01ea03,8.0,0.0,2.0,0.0
+1024,Commit,gobby_libinfinity,2008-12-23 23:16:16,cd91ff9c152359f0fd4726c66b819fa4bda1a826,7.0,0.0,2.0,0.0
+1025,Commit,gobby_libinfinity,2008-12-22 16:35:55,1830df72fad16b4bae3f0c12786485dc82bb7112,74.0,20.0,1.0,0.0
+1026,Commit,gobby_libinfinity,2008-12-22 12:32:54,42f4d4dfca62e167d1e01aed2ef64d05afabf121,9.0,0.0,2.0,0.0
+1027,Commit,gobby_libinfinity,2008-12-21 23:55:15,b5b6ef4cfeb11cac0b0fe4e7153859e0cb0a1337,25.0,5.0,6.0,0.0
+1028,Commit,gobby_libinfinity,2008-12-21 17:58:59,99679584fdacd30f32982c64c444433d8d46474e,14.0,2.0,3.0,0.0
+1029,Commit,gobby_libinfinity,2008-12-21 17:49:21,4a5d4e0e1ced2934604cfcca08293758dc0d7139,10.0,2.0,2.0,0.0
+1030,Commit,gobby_libinfinity,2008-12-21 17:24:53,a574ca1a379e562ef708c0bc514955b885d0dc21,5.0,0.0,2.0,0.0
+1031,Commit,gobby_libinfinity,2008-12-13 22:02:23,e82808ea1d4849ecf859a52d5822a2a254593e0e,32.0,20.0,2.0,0.0
+1032,Commit,gobby_libinfinity,2008-12-07 17:51:28,55bf10fad75d082238dcd8edbb472999f33f84fd,141.0,1.0,2.0,0.0
+1033,Commit,gobby_libinfinity,2008-12-02 21:56:10,bf0a198e19c070a66dd9c781bac8537b74a19f37,1109.0,18.0,17.0,0.0
+1034,Commit,gobby_libinfinity,2008-11-27 22:58:31,e9582d9c31c4995f6dc10688a1fa57018cccbf76,309.0,191.0,4.0,0.0
+1035,Commit,gobby_libinfinity,2008-11-14 12:00:31,66271e87d7bafb3fded3ec5ff77253ac30bb4901,7.0,4.0,2.0,0.0
+1036,Commit,gobby_libinfinity,2008-11-08 22:08:38,3ce43a35c181c9b3b514ba82ab26be17bba2c0a6,177.0,26.0,7.0,0.0
+1037,Commit,gobby_libinfinity,2008-11-08 21:46:09,ddd073ce82ce4201e99937fcbd5f88a6617a310f,7.0,2.0,2.0,0.0
+1038,Commit,gobby_libinfinity,2008-11-08 18:22:13,f2dc46ba37ca2b748236e90831ae40bdfc224b93,12.0,5.0,2.0,0.0
+1039,Commit,gobby_libinfinity,2008-11-05 22:52:55,c7f026860951669fddf85f96e97867a0c8ab2ffc,102.0,37.0,5.0,0.0
+1040,Commit,gobby_libinfinity,2008-11-02 13:39:26,973d952fa92336b8efa0411ad5a5ffb3a8a7483b,9.0,0.0,2.0,0.0
+1041,Commit,gobby_libinfinity,2008-11-02 13:18:05,31812f36b0cb3af635a60dbb62389528647be59c,49.0,25.0,9.0,0.0
+1042,Commit,gobby_libinfinity,2008-11-02 11:37:12,56f2beb3333b2e330778649ab517053d2aa8e67f,15.0,24.0,5.0,0.0
+1043,Commit,gobby_libinfinity,2008-10-30 11:15:50,af2411d41bded3ac75ab31bccdfcf90bd5b81282,10.0,1.0,2.0,0.0
+1044,Commit,gobby_libinfinity,2008-10-25 11:23:44,26e2c9a8cca8538dfcfcdd7581ed8c2b0c2ed45b,21.0,1.0,3.0,0.0
+1045,Commit,gobby_libinfinity,2008-10-19 22:04:23,b0296591f089ded2d50566da2e3a06ac25c77e10,316.0,48.0,19.0,0.0
+1046,Commit,gobby_libinfinity,2008-10-19 12:35:24,150b70854d3b9443e1cbdc89ac5b2087baf4c619,278.0,127.0,11.0,0.0
+1047,Commit,gobby_libinfinity,2008-10-18 19:23:28,9e335e742b82e74b82fbb8a0b5a656ed3ad0e020,32.0,1.0,2.0,0.0
+1048,Commit,gobby_libinfinity,2008-10-18 15:11:39,782766c25ea09a9e3c70a97922680aa9e38054fc,5.0,1.0,2.0,0.0
+1049,Commit,gobby_libinfinity,2008-10-18 14:02:25,2b6cc18c3cd513b7850555e26cdcb765286b04e0,7.0,2.0,2.0,0.0
+1050,Commit,gobby_libinfinity,2008-10-18 13:58:47,135c610bdc0563e171033772291b1e5635478212,21.0,2.0,4.0,0.0
+1051,Commit,gobby_libinfinity,2008-10-17 23:27:05,47b9ba6dd496648d12969f9c578a6f5e16d6de23,4.0,4.0,4.0,0.0
+1052,Commit,gobby_libinfinity,2008-10-17 23:26:38,f52408a64e4bd84fda3bd6ce26231286dacd90b8,21.0,13.0,4.0,0.0
+1053,Commit,gobby_libinfinity,2008-10-17 23:24:31,21ebd178e14541a340dbece899c455699bce6401,7.0,2.0,2.0,0.0
+1054,Commit,gobby_libinfinity,2008-10-17 17:41:34,34041fb30a6be8ecf391c98c95dae90f9919c0b5,40.0,39.0,1.0,0.0
+1055,Commit,gobby_libinfinity,2008-10-17 17:41:19,d986bd7e8016a8eb9b9c2099e45a76cdf5c78869,30.0,10.0,8.0,0.0
+1056,Commit,gobby_libinfinity,2008-10-17 11:54:22,d2dcbfa9564676684190843f05530b47ddc3e916,100.0,76.0,3.0,0.0
+1057,Commit,gobby_libinfinity,2008-10-17 11:51:37,e085e84818f956cbc7c1c6395a63f271e7087f5e,21.0,2.0,2.0,0.0
+1058,Commit,gobby_libinfinity,2008-10-17 11:50:59,07286cba6d4d7efe7278e144d5a073eca8c32283,15.0,17.0,3.0,0.0
+1059,Commit,gobby_libinfinity,2008-10-17 00:49:38,d6d9dde87c5b0ed09c5461076790692261a70ca2,2.0,0.0,1.0,0.0
+1060,Commit,gobby_libinfinity,2008-10-17 00:43:01,378fe0f139dee3b9808f69180ba5327ea1c9d0e2,21.0,2.0,3.0,0.0
+1061,Commit,gobby_libinfinity,2008-10-17 00:06:35,d66bae4cdd5436f2a3b184532dc6aa4c01255280,57.0,26.0,2.0,0.0
+1062,Commit,gobby_libinfinity,2008-10-16 22:40:27,7c1ff3e3cdd9ae9142e8b29bf0784ae1e4499b0d,7.0,0.0,2.0,0.0
+1063,Commit,gobby_libinfinity,2008-10-16 22:21:31,af918cd63549282262d39cb45539704f738459b8,16.0,2.0,2.0,0.0
+1064,Commit,gobby_libinfinity,2008-10-16 22:20:09,8eccff30ad06db3effd0edd6cfbf4b55b6fb0307,7.0,1.0,2.0,0.0
+1065,Commit,gobby_libinfinity,2008-10-16 22:03:39,d196beb4bfa5c5ff377349aa9c676f298e2a934b,11.0,1.0,2.0,0.0
+1066,Commit,gobby_libinfinity,2008-10-16 20:38:45,1b28b652be7a9958c0203fcc0ca77da43e52324d,10.0,0.0,2.0,0.0
+1067,Commit,gobby_libinfinity,2008-10-16 20:35:41,7a7ea709cdb864966f010b3289f5df04c23a6d82,6.0,1.0,2.0,0.0
+1068,Commit,gobby_libinfinity,2008-10-16 20:18:55,c1790813dd0d95ec90df307f97aa0e11cc04cd95,90.0,68.0,20.0,0.0
+1069,Commit,gobby_libinfinity,2008-10-16 19:36:13,0b9fe572a2792fc8a1ce96a553d3281cec771338,72.0,36.0,3.0,0.0
+1070,Commit,gobby_libinfinity,2008-10-16 18:52:12,c6a2299ea86920fbb9ff6cb41be58a09fdf04ce1,48.0,10.0,5.0,0.0
+1071,Commit,gobby_libinfinity,2008-10-16 17:44:36,c91343b6001f52356dd7f14ef6b3d2f99bc9e1ad,61.0,43.0,4.0,0.0
+1072,Commit,gobby_libinfinity,2008-10-16 16:57:27,809b3452d713655c98e76644bb8847f6cc384234,14.0,0.0,2.0,0.0
+1073,Commit,gobby_libinfinity,2008-10-16 16:40:16,7e1c8c652f1bec848ccffb8689b3eff18cd21ad2,8.0,8.0,1.0,0.0
+1074,Commit,gobby_libinfinity,2008-10-16 13:36:21,4a3c49c59191e5ab71079f7bee2eb59cf9cdcbca,366.0,361.0,184.0,0.0
+1075,Commit,gobby_libinfinity,2008-10-16 00:21:16,9fcac3003021ecfcecad49d692c72284518bde3c,2.0,2.0,1.0,0.0
+1076,Commit,gobby_libinfinity,2008-10-16 00:19:55,225f0701c3f4fe547db1fed262520147604c66b0,37.0,23.0,9.0,0.0
+1077,Commit,gobby_libinfinity,2008-10-15 23:59:31,856e52302bdcde0d2187cafdf20a6b0af125a6b6,177.0,48.0,3.0,0.0
+1078,Commit,gobby_libinfinity,2008-10-15 23:57:46,94780996349237da365835601904d64dd0e8d84c,1.0,1.0,1.0,0.0
+1079,Commit,gobby_libinfinity,2008-10-15 22:03:51,bf64e188433070e4d9e090f520598564ff9fdfc5,136.0,6.0,7.0,0.0
+1080,Commit,gobby_libinfinity,2008-10-15 21:14:54,0c1c0bb2259a4a1823f88699725c7468ca96a906,5.0,1.0,2.0,0.0
+1081,Commit,gobby_libinfinity,2008-10-15 21:05:35,6959390029f625b4a9bb3b5550ec3e61bf524ff5,31.0,26.0,2.0,0.0
+1082,Commit,gobby_libinfinity,2008-10-15 21:03:23,13b0fd7cc944d234211a6123c6222fdbae1a3662,282.0,189.0,4.0,0.0
+1083,Commit,gobby_libinfinity,2008-10-15 01:10:36,60238fd50016df663c14a9bb47926acb038678a7,9.0,1.0,2.0,0.0
+1084,Commit,gobby_libinfinity,2008-10-15 01:06:43,e3e1e1039477284acfb583378251746e25cc081c,542.0,133.0,10.0,0.0
+1085,Commit,gobby_libinfinity,2008-10-15 01:04:12,4455e73b9a52ccfd4ed1c8aa1d1824458a1c33ff,0.0,1.0,1.0,0.0
+1086,Commit,gobby_libinfinity,2008-10-15 01:03:43,c86ab07e02003f7f234f0456d647717b1d1fa713,7.0,3.0,2.0,0.0
+1087,Commit,gobby_libinfinity,2008-10-15 01:02:27,f9557e784876691141adef8fcbf1d090a19176ad,58.0,34.0,7.0,0.0
+1088,Commit,gobby_libinfinity,2008-10-15 00:59:44,97afba68ae9aecfc37bc46bcb6fc827f6b9d4477,19.0,7.0,3.0,0.0
+1089,Commit,gobby_libinfinity,2008-10-15 00:56:29,36625256207b4fb6ecbf6eb76e983ecc792e5157,10.0,2.0,3.0,0.0
+1090,Commit,gobby_libinfinity,2008-10-14 20:50:29,9cece0fb9bc8ef5df9230e620cdd0531ca3d7d8e,587.0,632.0,4.0,0.0
+1091,Commit,gobby_libinfinity,2008-10-14 20:13:06,691730f7c737cd6df7405db20e71fbb99c5f685c,134.0,19.0,10.0,0.0
+1092,Commit,gobby_libinfinity,2008-10-14 17:53:49,2913197642b5348086862e0ab0520615ce8f1d2d,0.0,0.0,0.0,0.0
+1093,Commit,gobby_libinfinity,2008-10-14 17:45:06,85ddbe97edf3248d62a89bab63c85d54c50e7501,237.0,11.0,4.0,0.0
+1094,Commit,gobby_libinfinity,2008-10-13 21:47:30,b13cbf6a1e14d739a831a5af55fb3b5809c19985,46.0,3.0,2.0,0.0
+1095,Commit,gobby_libinfinity,2008-10-13 20:42:25,ecfdc127360d0cebf24ff21f95d543cf9c1ca2af,12.0,0.0,2.0,0.0
+1096,Commit,gobby_libinfinity,2008-10-12 19:04:46,9ff157847d0f097beb0f209b5bec80ac785dead2,18.0,1.0,2.0,0.0
+1097,Commit,gobby_libinfinity,2008-10-12 17:41:06,d6536df42ec6e2bac0c557bb45932ee1090ee3a6,196.0,61.0,3.0,0.0
+1098,Commit,gobby_libinfinity,2008-10-11 23:09:20,a5da7b6f386066c60b907fca319eb3b708f1a2eb,45.0,10.0,7.0,0.0
+1099,Commit,gobby_libinfinity,2008-10-09 22:19:22,2fe0bce548cb94e8d3f36ba2935aa114c383d008,45.0,22.0,2.0,0.0
+1100,Commit,gobby_libinfinity,2008-10-09 20:02:35,f9cee7a42f6e3f9d88ecfe4b02603fcdae995a73,26.0,2.0,4.0,0.0
+1101,Commit,gobby_libinfinity,2008-10-09 19:55:53,2fc2773f0932abe3356d33796826686e09a46303,15.0,9.0,2.0,0.0
+1102,Commit,gobby_libinfinity,2008-10-09 19:42:46,86ca48b6299395f85f53e3b3f9b8bef27394e5fb,89.0,5.0,3.0,0.0
+1103,Commit,gobby_libinfinity,2008-10-09 19:14:34,82c60e49928e151ac6a903ae75324419dbba3000,418.0,100.0,11.0,0.0
+1104,Commit,gobby_libinfinity,2008-10-08 20:42:58,1250718061807c89be6f7352fd7d775cd3cef5a7,42.0,7.0,12.0,0.0
+1105,Commit,gobby_libinfinity,2008-10-08 20:04:56,c363ae9c8e142f5dfa1634ac9a2b35c6301c164d,21.0,0.0,2.0,0.0
+1106,Commit,gobby_libinfinity,2008-10-08 20:03:17,d6a6ae0917a6740419488004b56693fc71643d22,11.0,5.0,2.0,0.0
+1107,Commit,gobby_libinfinity,2008-10-08 20:01:48,98644ef10cbcd987ba5d5b8477e6584d85d86428,109.0,95.0,2.0,0.0
+1108,Commit,gobby_libinfinity,2008-10-08 19:15:33,7120872ca21d5af34a3c5d4b87d035e4648f6b66,11.0,1.0,2.0,0.0
+1109,Commit,gobby_libinfinity,2008-10-08 18:05:41,d6856bde16c884f105b3138649c23fab50e8c7b3,281.0,77.0,13.0,0.0
+1110,Commit,gobby_libinfinity,2008-10-07 21:35:08,b7b6eb034d6f097c268a17d079266c87d6f005e3,56.0,41.0,6.0,0.0
+1111,Commit,gobby_libinfinity,2008-10-07 20:20:55,5f19b9a2781ab092b856cd4dd7a2947492124529,158.0,29.0,7.0,0.0
+1112,Commit,gobby_libinfinity,2008-10-07 19:24:43,3bda1afd3bd3b751e6b65bc73d5939ca99d4ba37,105.0,102.0,3.0,0.0
+1113,Commit,gobby_libinfinity,2008-10-07 17:36:49,3f7d98d3990f3da0e773b91b6a5daae600dc3236,38.0,6.0,7.0,0.0
+1114,Commit,gobby_libinfinity,2008-10-07 16:59:38,1fd880fd21141920303dcfc602e4948a6e7bfaf9,57.0,37.0,3.0,0.0
+1115,Commit,gobby_libinfinity,2008-10-07 16:37:23,2f73a631680258716bf796b1992cf8b9336d32d0,139.0,106.0,4.0,0.0
+1116,Commit,gobby_libinfinity,2008-10-07 13:46:01,e8dadc2a00886c88ac2154a72fc432eb420f5428,109.0,20.0,3.0,0.0
+1117,Commit,gobby_libinfinity,2008-10-06 22:08:32,3771aa8b116eef30e3f353a5d73755c7d742e29d,13.0,5.0,5.0,0.0
+1118,Commit,gobby_libinfinity,2008-10-06 22:03:33,65eac5ac56ca53bc69cb05aee67038e723b7de96,1858.0,1387.0,76.0,0.0
+1119,Commit,gobby_libinfinity,2008-10-06 21:45:41,755ff78f4cd51a8cb0a42ec713371c6ead0639a4,95.0,0.0,6.0,0.0
+1120,Commit,gobby_libinfinity,2008-10-03 20:00:48,3b1e125da2d14bef7b4c8d9f51f6152d8d6001dd,20.0,4.0,2.0,0.0
+1121,Commit,gobby_libinfinity,2008-10-01 22:07:13,1c724ea7657b6b065314a5aa30a6d61edee8a8ec,0.0,0.0,0.0,0.0
+1122,Commit,gobby_libinfinity,2008-10-01 22:01:26,c3010bbd53633a9d96bb4ce0935549b78682c266,1166.0,342.0,13.0,0.0
+1123,Commit,gobby_libinfinity,2008-09-29 19:08:00,8fe2a311a932fae8475840848b775c9d4cb9246b,2.0,1.0,1.0,0.0
+1124,Commit,gobby_libinfinity,2008-09-29 19:07:57,8941579cfbbdc4b2980a24457fca6a046896ffcf,6.0,1.0,2.0,0.0
+1125,Commit,gobby_libinfinity,2008-09-25 14:29:16,d2e1659f46a296f610bb10926942e24ba80b1fdb,5891.0,6.0,5.0,0.0
+1126,Commit,gobby_libinfinity,2008-09-23 19:36:14,29448c82e25e738150c28e262bc9599a8056cb87,23.0,12.0,3.0,0.0
+1127,Commit,gobby_libinfinity,2008-09-22 22:31:48,338d71880ce4806383c12349b9a19cf1fb1014d3,54.0,21.0,3.0,0.0
+1128,Commit,gobby_libinfinity,2008-09-22 21:48:46,de5881db20b56c944ff6c22aa6fe3c36a782dbbd,27163.0,4.0,6.0,0.0
+1129,Commit,gobby_libinfinity,2008-09-22 20:37:49,a24d5b5ddad6b7207fea204b96d112810a62f457,228.0,166.0,4.0,0.0
+1130,Commit,gobby_libinfinity,2008-09-21 16:29:35,f1080750010e4c037d69d3e53d27d38601a5f79e,97.0,28.0,4.0,0.0
+1131,Commit,gobby_libinfinity,2008-09-21 14:31:43,7a9ea52912c0ce9770c83f68c1b350b14279c2a9,8.0,0.0,2.0,0.0
+1132,Commit,gobby_libinfinity,2008-09-21 13:17:29,f8d4ab4e99ddd29805f594bb176a3d42cba87d45,25.0,5.0,3.0,0.0
+1133,Commit,gobby_libinfinity,2008-09-21 12:56:13,3c9ce661f15f4e238ec1b853fd771330bb5c7306,27.0,13.0,2.0,0.0
+1134,Commit,gobby_libinfinity,2008-09-21 12:33:40,8fdb9a462b14e35d487a44e586fffe1b25b1552c,75.0,14.0,2.0,0.0
+1135,Commit,gobby_libinfinity,2008-09-19 17:42:24,f650937e89823e1de5299be2de54d04db34eb67f,14.0,5.0,3.0,0.0
+1136,Commit,gobby_libinfinity,2008-09-19 14:32:32,358952f52fae68eeaa0a5779b4f53618c77c344e,7.0,1.0,2.0,0.0
+1137,Commit,gobby_libinfinity,2008-09-18 23:09:08,397a417949fd8796057edea5f7bd77ae9c66efaa,23.0,14.0,5.0,0.0
+1138,Commit,gobby_libinfinity,2008-09-18 22:24:08,7af0685d9593967efb10a04efbdd810ca8cd7174,289.0,99.0,14.0,0.0
+1139,Commit,gobby_libinfinity,2008-09-18 19:32:57,436c6f33cc2a34f16fc6245164092efe40208864,139.0,66.0,2.0,0.0
+1140,Commit,gobby_libinfinity,2008-09-18 19:02:25,03453777c3e92b41e5b439806450f8cdda0785b5,6.0,0.0,2.0,0.0
+1141,Commit,gobby_libinfinity,2008-09-18 19:01:01,91b2a41cc872d4b27d646326aa7f99480ae5cc07,353.0,24.0,12.0,0.0
+1142,Commit,gobby_libinfinity,2008-09-17 22:30:48,03a623b93c49615fb39b0207867702717e5440ec,1414.0,278.0,40.0,0.0
+1143,Commit,gobby_libinfinity,2008-09-17 14:28:49,4e23b9d404bae527ae07da1a8adce14ec735906d,175.0,155.0,10.0,0.0
+1144,Commit,gobby_libinfinity,2008-09-17 12:09:58,968bcd686d24b5fcb37801eb0e0c4ec19f080ff2,14.0,4.0,2.0,0.0
+1145,Commit,gobby_libinfinity,2008-09-17 12:04:06,d2ca1ea72e387b3cd2a927badc8d437e48f047e2,62.0,55.0,6.0,0.0
+1146,Commit,gobby_libinfinity,2008-09-17 11:14:34,d1dac0ea31fee45777b76be7390bf224cc288fff,199.0,174.0,6.0,0.0
+1147,Commit,gobby_libinfinity,2008-09-16 23:27:18,e0e8aac305c0ee6dc67cc96a46d551278ec5f479,27.0,6.0,4.0,0.0
+1148,Commit,gobby_libinfinity,2008-09-16 23:23:32,b55d774ab8126576e48887d7e25eaa64e6ebd1b8,2780.0,1.0,11.0,0.0
+1149,Commit,gobby_libinfinity,2008-09-16 23:19:30,0900bd01ae009a622789221a3e7b4e4be2730ac2,5.0,0.0,2.0,0.0
+1150,Commit,gobby_libinfinity,2008-09-16 23:18:32,ba07528f3cfe6a6527e550f7d9a2c0f4a523c729,726.0,20.0,13.0,0.0
+1151,Commit,gobby_libinfinity,2008-09-16 23:09:36,be6cb6a250674a645d8e8d35de1979843629013c,1.0,427.0,9.0,0.0
+1152,Commit,gobby_libinfinity,2008-09-13 20:02:56,28c2ccbca23ecbef2dc798bc86777ab742a21374,322.0,98.0,12.0,0.0
+1153,Commit,gobby_libinfinity,2008-09-11 21:42:04,7f6e4f1d68c196a6b4c3822cf5009507a72d766f,69.0,0.0,2.0,0.0
+1154,Commit,gobby_libinfinity,2008-09-10 21:52:10,bbebfb19b4a38191329d20ed6cbdb9092c278197,7.0,1.0,2.0,0.0
+1155,Commit,gobby_libinfinity,2008-09-10 20:08:30,ab991e8f422c30635f0a066cb5c2f575bfa19374,6.0,0.0,2.0,0.0
+1156,Commit,gobby_libinfinity,2008-09-10 16:14:33,9856aeb1a918f76eda55878b18883d2bfc2f6884,166.0,31.0,4.0,0.0
+1157,Commit,gobby_libinfinity,2008-09-10 16:12:32,91d2952fa6ab2e20429739a2f40811115e7832cc,19.0,3.0,2.0,0.0
+1158,Commit,gobby_libinfinity,2008-09-10 16:05:09,045e0e73a6f24794c925d230e1753646ea8a818f,3.0,1186.0,17.0,0.0
+1159,Commit,gobby_libinfinity,2008-09-09 22:23:52,d7b542815eee1663db17f84024453f3a00b52f64,1194.0,3.0,10.0,0.0
+1160,Commit,gobby_libinfinity,2008-09-09 19:39:24,cb3fdbea89642ad1545bd327b38e4b4c5fd55168,2.0,78.0,4.0,0.0
+1161,Commit,gobby_libinfinity,2008-09-07 18:21:29,51973ce0c31333eb28b684bc30f8bf41e94042a4,246.0,288.0,8.0,0.0
+1162,Commit,gobby_libinfinity,2008-08-27 22:18:53,d972668ca0de90b5ea047c186ff1fc0cdc03a1bb,0.0,0.0,0.0,0.0
+1163,Commit,gobby_libinfinity,2008-08-27 22:18:12,745a5d92026d31a745dadef10d7a222fc609e870,2.0,0.0,1.0,0.0
+1164,Commit,gobby_libinfinity,2008-08-27 22:14:34,30499522a925f368e2a7113239fb6a66b7805fe0,1.0,0.0,1.0,0.0
+1165,Commit,gobby_libinfinity,2008-08-27 21:53:00,4cd4b2b32a8f92199e7fac8cddb0ee467da31455,74.0,12.0,3.0,0.0
+1166,Commit,gobby_libinfinity,2008-08-27 20:13:31,b7de7b310ea26ff54bd759aa9b97724c4ec4036a,10.0,5.0,2.0,0.0
+1167,Commit,gobby_libinfinity,2008-08-27 15:56:28,9a14a3dc0a09576be82062061e2f4a1fbd414fc2,6.0,1.0,2.0,0.0
+1168,Commit,gobby_libinfinity,2008-08-27 14:34:25,da5ae4a6e4a2f485c0a6dd3d34c372aa9c1252ca,6.0,1.0,2.0,0.0
+1169,Commit,gobby_libinfinity,2008-08-26 09:59:59,9007865398201953a9156fd0fa2633a81893d57f,42.0,8.0,7.0,0.0
+1170,Commit,gobby_libinfinity,2008-08-25 12:04:23,6fcee4f178622e1a34f8e6c66881f6cd63ed49f6,247.0,180.0,14.0,0.0
+1171,Commit,gobby_libinfinity,2008-08-24 21:57:53,39f641679217ea9ae33ec5f4a66db1934ecca777,0.0,0.0,0.0,0.0
+1172,Commit,gobby_libinfinity,2008-08-24 21:55:26,aec301b198f9367e74fca446541afff977e8c736,44.0,8.0,5.0,0.0
+1173,Commit,gobby_libinfinity,2008-08-24 16:41:39,c67c897d905df9bd61e41fc1d3785d7f0470b423,55.0,0.0,5.0,0.0
+1174,Commit,gobby_libinfinity,2008-08-23 21:19:11,9bd3c1eb31d1bf6ce44decfabe74ca71d06e653c,255.0,0.0,4.0,0.0
+1175,Commit,gobby_libinfinity,2008-08-22 21:15:10,52d965a985126ebc5dd5a962d81214a8df4e602b,1332.0,19.0,16.0,0.0
+1176,Commit,gobby_libinfinity,2008-08-22 16:04:38,814db24600b04f8efbb9fea1f1ac4ef754ecec72,95.0,13.0,6.0,0.0
+1177,Commit,gobby_libinfinity,2008-08-22 14:52:15,16e972ffabeac1e3b28b712964427d22591cbd42,378.0,6195.0,55.0,0.0
+1178,Commit,gobby_libinfinity,2008-08-14 22:51:10,553f461de540a19cc9c2eb9451ac7ec7aa314347,9.0,2.0,2.0,0.0
+1179,Commit,gobby_libinfinity,2008-08-14 22:49:32,4bab735731ee8aa671a5ef51aabc490ca482be56,801.0,3.0,7.0,0.0
+1180,Commit,gobby_libinfinity,2008-08-14 19:00:59,d058a52dc7ec6e4439cace78abff1e147116c84d,179.0,348.0,2.0,0.0
+1181,Commit,gobby_libinfinity,2008-08-08 17:16:42,fe6060df478b3d59f5502f03e882f0fcb35ade38,6.0,1.0,2.0,0.0
+1182,Commit,gobby_libinfinity,2008-08-08 14:29:06,7b37b6a86b9ea9e0484e4f85f241ab767b4f8ac1,25.0,3.0,4.0,0.0
+1183,Commit,gobby_libinfinity,2008-07-23 17:55:46,3acc2ed6292a39ccd1fc590c3c25ca171857529b,8.0,3.0,2.0,0.0
+1184,Commit,gobby_libinfinity,2008-07-23 16:58:50,dd03ea5679982a0bfe32317949b0b3c289b9bbe4,8.0,1.0,2.0,0.0
+1185,Commit,gobby_libinfinity,2008-07-18 14:50:27,8d4f3729d2f66c8a4efdf37bf22dc0a4225ee448,589.0,177.0,6.0,0.0
+1186,Commit,gobby_libinfinity,2008-07-17 19:45:54,67c7969ae2d66244940fe79dbcfa40691728f4b7,207.0,12.0,15.0,0.0
+1187,Commit,gobby_libinfinity,2008-07-17 08:51:52,6f45d7d82ef9a013edc05f699e5c385c54098542,273.0,190.0,4.0,0.0
+1188,Commit,gobby_libinfinity,2008-07-15 20:50:00,ba6a5e2e28efa680b723e8aa320a722479ccc8a3,81.0,12.0,7.0,0.0
+1189,Commit,gobby_libinfinity,2008-07-15 16:59:24,d431f3bcfb15626c41594786630151bed375267b,7.0,0.0,1.0,0.0
+1190,Commit,gobby_libinfinity,2008-07-15 16:51:41,761869bfe0a3f3ba70d9910ba22bbc3b6f239ed0,296.0,179.0,3.0,0.0
+1191,Commit,gobby_libinfinity,2008-07-15 13:21:22,791f19c7f7cc7efd297f1bea8b578ffa4071e11d,20.0,28.0,2.0,0.0
+1192,Commit,gobby_libinfinity,2008-07-12 21:07:48,63a11dea7b70b8508c5e247f21970cce73b446c2,590.0,306.0,47.0,0.0
+1193,Commit,gobby_libinfinity,2008-07-12 09:56:37,d622ca78bc50cb81d6e129a380c3ad14dfa1c9e0,12.0,2.0,3.0,0.0
+1194,Commit,gobby_libinfinity,2008-07-12 08:14:21,1c9e77b11036bb4216e31866fe7608a6cb8d257d,7.0,1.0,2.0,0.0
+1195,Commit,gobby_libinfinity,2008-07-12 07:39:18,896f1b240e6185dc4c30b8e2ecf580b685a8f8df,54.0,17.0,2.0,0.0
+1196,Commit,gobby_libinfinity,2008-07-06 18:09:18,68c51174c4cbd15312e76d719a747db3a1586c87,145.0,77.0,6.0,0.0
+1197,Commit,gobby_libinfinity,2008-07-06 15:51:28,ea3cbfa929e94c8cf72af46386bc7f3c1e973416,209.0,64.0,8.0,0.0
+1198,Commit,gobby_libinfinity,2008-07-06 11:03:42,89993ae625b6ee961ab29ddc637e2a489b5e32d5,25.0,9.0,4.0,0.0
+1199,Commit,gobby_libinfinity,2008-07-05 22:28:47,53a27cf0c7a5e372b319b837613a678077bf024d,132.0,11.0,9.0,0.0
+1200,Commit,gobby_libinfinity,2008-07-05 22:24:21,0fadd6a97832a6cab5aef583ad046a933cb0c3e4,566.0,0.0,6.0,0.0
+1201,Commit,gobby_libinfinity,2008-07-05 19:50:56,602f052a52bfc6a5abfee89f1d2f16da54a2785f,385.0,240.0,66.0,0.0
+1202,Commit,gobby_libinfinity,2008-07-03 19:08:56,e88314926dbd64a7d2ddc1fd91f3a84342bd3cfc,28.0,4.0,2.0,0.0
+1203,Commit,gobby_libinfinity,2008-06-29 18:37:16,a84a48bb484f0fbfa744f594121b306d9cecb14b,26.0,0.0,2.0,0.0
+1204,Commit,gobby_libinfinity,2008-06-28 13:40:06,a40244071e6d71a5e23c0b1cb3414b71647cc630,111.0,11.0,10.0,0.0
+1205,Commit,gobby_libinfinity,2008-06-27 19:39:19,38be7579fb565d3c7b54f638d439a7a2dc711645,203.0,4340.0,10.0,0.0
+1206,Commit,gobby_libinfinity,2008-06-27 11:31:11,75242e562109ce37ffa766d49ec1f0c4218e1905,110.0,12.0,5.0,0.0
+1207,Commit,gobby_libinfinity,2008-06-25 22:09:28,e2dc0b0af44c03ae7b0bba547ff06b1f51a09c0e,61.0,38.0,3.0,0.0
+1208,Commit,gobby_libinfinity,2008-06-24 20:26:01,0ace8a144ebb7c654adba3b30c06f1681da52a02,27.0,2.0,3.0,0.0
+1209,Commit,gobby_libinfinity,2008-06-22 21:29:10,68787a57e0e0d2141fb1ba0e9ade51958be5581e,9.0,3.0,2.0,0.0
+1210,Commit,gobby_libinfinity,2008-06-22 20:59:15,187b7400edcf0e4d895fb754e33f2ce92c850d53,48.0,11.0,5.0,0.0
+1211,Commit,gobby_libinfinity,2008-06-22 18:58:31,58fa2f05bde1be3ce484678bfb078019a3aa7f4a,152.0,33.0,10.0,0.0
+1212,Commit,gobby_libinfinity,2008-06-21 18:29:10,6ef1eebcd54b3bbcb895e9a30da3e0c4f4dcddce,92.0,1.0,4.0,0.0
+1213,Commit,gobby_libinfinity,2008-06-15 17:41:56,cadfd9867d700fcb8817ef2b9c79ff43d679d571,240.0,60.0,7.0,0.0
+1214,Commit,gobby_libinfinity,2008-06-14 18:03:35,bd4fff6f42f690365c0d3e14663deb3058720e96,572.0,96.0,9.0,0.0
+1215,Commit,gobby_libinfinity,2008-05-18 17:06:42,4bf84d35872be44a2292cc710b148cc7d3e4ded7,425.0,408.0,3.0,0.0
+1216,Commit,gobby_libinfinity,2008-05-17 19:10:19,d3c58a4772d6b97f2cc443fa3955d26339c89a0d,57.0,49.0,4.0,0.0
+1217,Commit,gobby_libinfinity,2008-05-17 17:27:23,4753fac20e58413b5a2f503f6294b43aa7004f80,1005.0,313.0,8.0,0.0
+1218,Commit,gobby_libinfinity,2008-05-13 09:12:09,bdf461d86dd32277ad1998553403cd1835a11304,235.0,79.0,2.0,0.0
+1219,Commit,gobby_libinfinity,2008-05-12 16:14:15,d8bb5231b66d5b52f2439f3d784c2a943444642f,6.0,1.0,2.0,0.0
+1220,Commit,gobby_libinfinity,2008-05-12 15:00:37,90b83edf37b7cfbf4210f0825cb5f5f116368962,584.0,107.0,5.0,0.0
+1221,Commit,gobby_libinfinity,2008-05-09 19:00:37,19516090b0bac95899123230b16864724f7a6359,48.0,25.0,2.0,0.0
+1222,Commit,gobby_libinfinity,2008-05-09 18:03:47,7897ec0feb29dbf16b3848aebd03789c8c3f73c6,38.0,25.0,4.0,0.0
+1223,Commit,gobby_libinfinity,2008-05-09 17:03:59,566051736b113b6cbee20710fb911c1acb20f49e,6.0,1.0,2.0,0.0
+1224,Commit,gobby_libinfinity,2008-05-09 15:58:58,f4b6c1877b81323cced3d414e386d096441310c3,56.0,6.0,3.0,0.0
+1225,Commit,gobby_libinfinity,2008-05-09 15:45:12,bac7b66766d4fb0cdde5020a9ae2ca679bdee6eb,60.0,10.0,4.0,0.0
+1226,Commit,gobby_libinfinity,2008-05-09 12:37:32,34289c6e973a4158a6dbba36834cdedb6539da3a,8.0,1.0,2.0,0.0
+1227,Commit,gobby_libinfinity,2008-05-09 08:33:57,fed79b6dde6bebace0688724b01c25482a985f63,4298.0,2.0,4.0,0.0
+1228,Commit,gobby_libinfinity,2008-05-09 08:19:07,2bca7fcbb58bb9a9e65fd40c6f2e6ad28db3a840,47.0,0.0,5.0,0.0
+1229,Commit,gobby_libinfinity,2008-05-08 09:16:14,580dcf89b2e589f82581ae75fa27828b98fb28b5,35.0,19.0,8.0,0.0
+1230,Commit,gobby_libinfinity,2008-05-08 09:11:31,593eb0e00e543f698c91012821e95ceb4f7690ba,2788.0,310.0,89.0,0.0
+1231,Commit,gobby_libinfinity,2008-05-08 07:43:40,e657a5abeb2d6ba9fb21af6ede26d1821efbc033,398.0,36.0,5.0,0.0
+1232,Commit,gobby_libinfinity,2008-05-08 07:30:12,3d2d82c1420d8ff59cabc2401eeddebfaaf66b67,418.0,3.0,5.0,0.0
+1233,Commit,gobby_libinfinity,2008-04-20 20:06:57,78f3270b22c7a4f73abcda2f73ce0c4f22dd8c08,2464.0,2188.0,8.0,0.0
+1234,Commit,gobby_libinfinity,2008-04-20 15:30:20,a6ec7c30e1908d28e357bf73c3a6dc26d15d2911,22.0,3.0,4.0,0.0
+1235,Commit,gobby_libinfinity,2008-04-13 19:01:41,f5569c52ca73a18bf1931c9e5d6bbb3a873851e3,93.0,6.0,2.0,0.0
+1236,Commit,gobby_libinfinity,2008-04-13 16:51:40,b0a8c68c74538acd46ca4ea580cbce2c54c976e4,17.0,0.0,2.0,0.0
+1237,Commit,gobby_libinfinity,2008-04-12 21:21:23,7fb3db44465e74f25f2a04ad0b51826b49a5f2a6,6.0,4.0,2.0,0.0
+1238,Commit,gobby_libinfinity,2008-04-12 21:12:04,7990a32c49e2983297017fce54222b5ef139e893,32.0,10.0,4.0,0.0
+1239,Commit,gobby_libinfinity,2008-03-06 21:42:50,e0d3cc292ba4e91173291dc548e8ebd5c5ed6ba7,11.0,2.0,3.0,0.0
+1240,Commit,gobby_libinfinity,2008-03-06 21:16:52,0f0b986b4b4518a682aab6bf98fa30945dbedc6d,100.0,32.0,6.0,0.0
+1241,Commit,gobby_libinfinity,2008-03-06 19:49:40,c0941c66520f09f0116eee59a66c914926befa62,46.0,5.0,8.0,0.0
+1242,Commit,gobby_libinfinity,2008-03-04 15:19:44,daa018d47641cf33301f4906406b872bfcf11fb0,16.0,5.0,8.0,0.0
+1243,Commit,gobby_libinfinity,2008-03-04 14:39:04,6926d2d05c38228368a6d07c7f9772a9481cc909,141.0,7.0,10.0,0.0
+1244,Commit,gobby_libinfinity,2008-02-24 20:20:23,b9604233ff96aa8b58037230e311a99bded0de2c,331.0,55.0,13.0,0.0
+1245,Commit,gobby_libinfinity,2008-02-24 18:40:23,3a5df8b683764074bd0a336050a17b68ff957ce5,475.0,173.0,14.0,0.0
+1246,Commit,gobby_libinfinity,2008-02-23 22:37:34,2bdd4f84e1c28b5fc524d8e4da8c87c365be160a,192.0,94.0,3.0,0.0
+1247,Commit,gobby_libinfinity,2008-02-23 16:00:54,8d76b916e7f9f5e7203e9b280f5223abcd5d2df2,1081.0,427.0,48.0,0.0
+1248,Commit,gobby_libinfinity,2008-02-22 22:26:29,e569f91814294ee52815906ae7167556f6eed817,635.0,123.0,8.0,0.0
+1249,Commit,gobby_libinfinity,2008-02-22 14:34:24,8cd75d47fb489e274753c9931cff248b17656006,628.0,336.0,15.0,0.0
+1250,Commit,gobby_libinfinity,2008-02-17 20:03:11,145770433b98f96cfed585d5260b661aebf52478,29.0,0.0,3.0,0.0
+1251,Commit,gobby_libinfinity,2008-02-17 18:54:09,3ccc27fb7bc4336eafd4b857893af991ee4f0fa4,113.0,31.0,7.0,0.0
+1252,Commit,gobby_libinfinity,2008-02-17 18:41:11,c00a7b0498a627c7356c19d78f9a5c69d2970857,929.0,864.0,43.0,0.0
+1253,Commit,gobby_libinfinity,2008-02-17 18:05:36,6a7869ddaf239374c737ff45643e548a13a5a1c7,95.0,1.0,4.0,0.0
+1254,Commit,gobby_libinfinity,2008-02-17 17:18:18,463c99d5a8cce70b281b9a4e0b16e661dd27df51,913.0,763.0,49.0,0.0
+1255,Commit,gobby_libinfinity,2008-02-17 13:19:01,61f72ba8e9caa1dcc27d0e39e665874211a29287,5519.0,0.0,48.0,0.0
+1256,Commit,gobby_libinfinity,2008-02-17 13:14:45,3c71e4a6b0263c76d05e0e1751779a12b21c5ff4,636.0,632.0,57.0,0.0
+1257,Commit,gobby_libinfinity,2008-02-17 13:04:27,621f01ee440ed4dfa52bb81a814932c2395e49e2,1871.0,89.0,17.0,0.0
+1258,Commit,gobby_libinfinity,2008-02-15 20:45:46,06874c7e7fe2d2bce440d5d197a049bded740faa,40.0,6.0,3.0,0.0
+1259,Commit,gobby_libinfinity,2008-02-15 20:26:35,8e74d3632f8dad29f2b2ea95e47cb450aaf62ffc,63.0,170.0,2.0,0.0
+1260,Commit,gobby_libinfinity,2008-02-15 19:43:46,8b19f0af83a5b4623e4d39a64641c54c1d01f2b7,261.0,196.0,4.0,0.0
+1261,Commit,gobby_libinfinity,2008-02-15 16:15:08,8f8bc4c2129d22d1c0a7c4dc366f7a5733fc3d4c,98.0,104.0,2.0,0.0
+1262,Commit,gobby_libinfinity,2008-02-14 21:02:57,8e92c62dc61558993688e020375dd61154583a8b,9.0,4.0,2.0,0.0
+1263,Commit,gobby_libinfinity,2008-02-14 15:21:11,de46f38f5c0a6e8aa6151bb40decfc9ec8a25753,608.0,99.0,13.0,0.0
+1264,Commit,gobby_libinfinity,2008-02-11 18:38:22,0609edf294130d107fd73351a45ed8315a81183d,481.0,57.0,7.0,0.0
+1265,Commit,gobby_libinfinity,2008-02-11 18:18:26,8c40607d18d7f49edbe192c412335adcd15c9fd2,12.0,4.0,3.0,0.0
+1266,Commit,gobby_libinfinity,2008-02-10 21:28:44,7af744e27988706d74feb3e943803928d64e0381,3028.0,1544.0,40.0,0.0
+1267,Commit,gobby_libinfinity,2007-12-22 18:44:29,6d3f8ca445302a1fbafa415b7e8c972637637ea2,26.0,22.0,10.0,0.0
+1268,Commit,gobby_libinfinity,2007-12-22 16:04:32,5a4097845f04d8f9c0449526a432950c87bd70b6,65.0,9.0,3.0,0.0
+1269,Commit,gobby_libinfinity,2007-12-22 15:10:44,64ca5b8fc288d600196f4d914bf74b59ce3b682f,145.0,83.0,9.0,0.0
+1270,Commit,gobby_libinfinity,2007-12-22 12:00:15,236fcbf3564f8fecf495be3278213742b813ec20,36.0,11.0,5.0,0.0
+1271,Commit,gobby_libinfinity,2007-12-21 19:53:05,47eb53c30a2cfc087d54cd2fe10dbf66326a2354,37.0,52.0,7.0,0.0
+1272,Commit,gobby_libinfinity,2007-12-21 18:33:08,4557eec3f94595623ddf3bbaedd354b746fb87e5,84.0,23.0,3.0,0.0
+1273,Commit,gobby_libinfinity,2007-12-04 22:56:05,2c2fe720a0010a53c7842eeb5968b6c8f5411b4e,9.0,4.0,3.0,0.0
+1274,Commit,gobby_libinfinity,2007-12-04 13:51:18,5822c7c4adce062df2a0351780b841ac79ce51b3,37.0,8.0,8.0,0.0
+1275,Commit,gobby_libinfinity,2007-12-02 23:19:12,085397433fb3bd12fcf24407907da17fe83324f5,15.0,0.0,2.0,0.0
+1276,Commit,gobby_libinfinity,2007-12-02 11:46:47,ae9d2a40f5b33069508622cec4f4f6f1c761dc6d,73.0,47.0,5.0,0.0
+1277,Commit,gobby_libinfinity,2007-10-21 22:26:42,340bbf4d290209bda863869eebf25360b1fafcf4,308.0,115.0,16.0,0.0
+1278,Commit,gobby_libinfinity,2007-10-17 23:05:50,de94269878034a35888180fed5055ce6a4957a4b,1192.0,451.0,25.0,0.0
+1279,Commit,gobby_libinfinity,2007-10-16 22:18:40,dc46fbba95aa40895003d44f4f4d6c06ef723721,1219.0,70.0,12.0,0.0
+1280,Commit,gobby_libinfinity,2007-10-12 23:13:18,510d34e2efc40901163a2480578e03a0b8824eb1,1150.0,6.0,8.0,0.0
+1281,Commit,gobby_libinfinity,2007-10-11 22:06:39,4e02a5817ae199b088e738b0ffd1ac881296df97,680.0,70.0,13.0,0.0
+1282,Commit,gobby_libinfinity,2007-10-10 21:58:58,de4cb96d8dfe168f41560032f27d5a962e988e16,267.0,7.0,7.0,0.0
+1283,Commit,gobby_libinfinity,2007-10-09 23:19:49,2cc692efb6090439db936bdb72e1da747277bce0,544.0,283.0,4.0,0.0
+1284,Commit,gobby_libinfinity,2007-10-09 00:06:34,5665d1d5b5797f5b9bd35a4eea3bfb50b7c4b56e,714.0,19.0,12.0,0.0
+1285,Commit,gobby_libinfinity,2007-10-07 21:05:33,fa2ff33a8ce25016873c6e1868bcf63ae3dfeafe,2061.0,484.0,28.0,0.0
+1286,Commit,gobby_libinfinity,2007-10-04 20:27:31,af623afe8ab54e18feaba3f3c87e2257f3aed316,1755.0,34.0,13.0,0.0
+1287,Commit,gobby_libinfinity,2007-10-03 23:11:04,28c28edbe32a40a419aac69328e8d77f20dfa793,1512.0,12.0,8.0,0.0
+1288,Commit,gobby_libinfinity,2007-10-03 14:43:11,6bb6928c7e4bd778576bf9d99e78507238e62f11,190.0,20.0,16.0,0.0
+1289,Commit,gobby_libinfinity,2007-10-02 21:37:44,9bad9ccd6a233f8f267c333ee5de0fcc810bc233,2113.0,259.0,13.0,0.0
+1290,Commit,gobby_libinfinity,2007-09-27 22:04:36,e444a925dac1d17fcc726aab1f0a90d9923c5e5f,13.0,1.0,2.0,0.0
+1291,Commit,gobby_libinfinity,2007-09-27 21:47:53,56a6b509ea34de117650a78bb34f541f3580bd52,598.0,15.0,15.0,0.0
+1292,Commit,gobby_libinfinity,2007-09-26 00:08:27,f2f89deb05b99c3cc92478396fc48ef60e92913d,64.0,3.0,8.0,0.0
+1293,Commit,gobby_libinfinity,2007-09-25 17:25:27,baf310ef2a524166840e614cb57a33fa47294aae,4142.0,238.0,79.0,0.0
+1294,Commit,gobby_libinfinity,2007-09-17 17:46:46,fc636f1bf0054c3f251cba2b005e8bb9af1c4474,1423.0,0.0,6.0,0.0
+1295,Commit,gobby_libinfinity,2007-09-17 15:11:06,8e0586cf45cd6d30c2887a2afe879e043b057f96,2194.0,1548.0,27.0,0.0
+1296,Commit,gobby_libinfinity,2007-09-15 18:14:45,7424f1a96639139ef5444aadde97c8a7a27d5672,1866.0,4.0,10.0,0.0
+1297,Commit,gobby_libinfinity,2007-09-14 19:47:45,a32cae6e87935f5a3898eafb28ac38875ac3e723,1650.0,41.0,14.0,0.0
+1298,Commit,gobby_libinfinity,2007-09-10 21:22:28,9b7982c2eb5692553abb845c3b0fbc522b70c1c9,416.0,3.0,5.0,0.0
+1299,Commit,gobby_libinfinity,2007-09-10 20:22:23,f1560d897a6449dd712f86adeddbf59565af5e3b,1287.0,950.0,19.0,0.0
+1300,Commit,gobby_libinfinity,2007-09-10 08:14:51,6022c3a1e9230bf6dbe10cf9e8ba76fc81a574df,20.0,8.0,2.0,0.0
+1301,Commit,gobby_libinfinity,2007-09-09 23:23:59,afadc0b6381f49b28e3751ccb25ce2e59869ce1e,109.0,822.0,13.0,0.0
+1302,Commit,gobby_libinfinity,2007-09-09 23:04:01,c16f3eefdecf71fd11a5dfd7226e23dcf5445803,1529.0,0.0,5.0,0.0
+1303,Commit,gobby_libinfinity,2007-09-07 00:19:45,fc784ddc290eb2f23461ecf964de833e720e01fa,2115.0,291.0,25.0,0.0
+1304,Commit,gobby_libinfinity,2007-09-02 20:57:18,4acc0c42d9b398aa0ba5656706efc21b0c7b75d7,2564.0,2394.0,21.0,0.0
+1305,Commit,gobby_libinfinity,2007-09-01 22:32:16,825ab3252fb5185115cb0b9f889a33700ac70db0,142.0,15.0,4.0,0.0
+1306,Commit,gobby_libinfinity,2007-08-31 16:12:24,489b92d56b6b56d1a657d52f8814ebfe9fc319a0,1517.0,836.0,15.0,0.0
+1307,Commit,gobby_libinfinity,2007-08-27 22:57:07,2f2977d0d7d65f499a1ed36c5ac407997d9e614f,229.0,25.0,5.0,0.0
+1308,Commit,gobby_libinfinity,2007-08-26 21:44:51,55d2688b3c1885a3802bd75e2bb74c2a37aa2ae4,1879.0,8.0,9.0,0.0
+1309,Commit,gobby_libinfinity,2007-08-22 23:56:21,738aa1b65420477344a9922308f239a7ccce999c,79.0,15.0,2.0,0.0
+1310,Commit,gobby_libinfinity,2007-08-22 22:11:45,0774952260ebee6150c2a51222aabebce7771040,479.0,0.0,3.0,0.0
+1311,Commit,gobby_libinfinity,2007-08-22 18:42:25,206aba2ebc80fea2e245dc75cf8e071319d6b41d,313.0,0.0,91.0,0.0
+1312,Commit,gobby_libinfinity,2007-08-20 22:02:43,5cb648b65e995a791b3acbd8df4894d3c2fcf9a7,1038.0,110.0,6.0,0.0
+1313,Commit,gobby_libinfinity,2007-08-18 23:36:04,fd58219809cb9132a96dbdbdcd4e91cd7037d919,761.0,1.0,7.0,0.0
+1314,Commit,gobby_libinfinity,2007-08-18 19:37:14,4b02fbc2b9265d3f142789727b5c33406003010c,1923.0,4.0,18.0,0.0
+1315,Commit,gobby_libinfinity,2007-08-15 22:16:57,ba84d334771c94061e82c59a721d156c7447c6e8,190.0,30.0,10.0,0.0
+1316,Commit,gobby_libinfinity,2007-07-22 21:36:05,d59efab9d21aded9c63694f832c25a13c05d51a8,479.0,51.0,12.0,0.0
+1317,Commit,gobby_libinfinity,2007-07-20 22:10:12,d843e0a3e1efd6045669b71fa07862a76b9946a1,2703.0,56.0,16.0,0.0
+1318,Commit,gobby_libinfinity,2007-07-19 15:31:54,6e2afd4eaa9428a83e485f1cf5e48fe3bc1ce49d,459.0,211.0,11.0,0.0
+1319,Commit,gobby_libinfinity,2007-07-18 18:55:20,225c89241afc9abfa3866faf2e011258e519138f,1410.0,153.0,19.0,0.0
+1320,Commit,gobby_libinfinity,2007-07-15 19:24:23,78b2d471fa9c3449cf2166172f30b7554317a3c7,611.0,0.0,2.0,0.0
+1321,Commit,gobby_libinfinity,2007-06-21 21:18:26,2ab89c6d7d11142cb3ccfff0f17d9390ff62a0d3,297.0,124.0,5.0,0.0
+1322,Commit,gobby_libinfinity,2007-06-21 15:47:47,2e3962f5f789699a3f003d86de44a5298e41b80b,170.0,144.0,6.0,0.0
+1323,Commit,gobby_libinfinity,2007-05-27 21:19:21,b5ed9d95aa27536408a88a42c5a9c380f7a04cb6,1475.0,11.0,10.0,0.0
+1324,Commit,gobby_libinfinity,2007-05-19 17:55:09,ac830bc60494f3678559cbba98011f163554127e,206.0,106.0,9.0,0.0
+1325,Commit,gobby_libinfinity,2007-04-18 13:42:47,145473f11e29c2107f33c9d3f467012628a5e020,348.0,16.0,10.0,0.0
+1326,Commit,gobby_libinfinity,2007-04-12 22:15:26,37a20a6828caaf813dde5bc7eaff723c67a84637,98.0,1.0,3.0,0.0
+1327,Commit,gobby_libinfinity,2007-04-12 21:34:35,37203aef59db10bb98db8277051c8f9df500a43e,583.0,0.0,4.0,0.0
+1328,Commit,gobby_libinfinity,2007-04-11 21:56:00,eb2f5fc4f6a44f9e2da3a54164323762eccbc350,393.0,491.0,6.0,0.0
+1329,Commit,gobby_libinfinity,2007-04-10 22:50:27,d0fdc7cb0723d99d826ddcaf3e940a312f3c50d3,114.0,73.0,5.0,0.0
+1330,Commit,gobby_libinfinity,2007-04-10 19:01:33,a129543769bd753ec451434c52535b2ada31f427,363.0,60.0,9.0,0.0
+1331,Commit,gobby_libinfinity,2007-04-08 18:52:26,7f9f767635dd440639f2eed477146effade1d3ca,742.0,3.0,5.0,0.0
+1332,Commit,gobby_libinfinity,2007-04-08 18:49:16,4a52bc58015b109c4f1af13298cdad507859e257,63.0,0.0,2.0,0.0
+1333,Commit,gobby_libinfinity,2007-03-30 00:07:02,8ca381c9a55bce453faf2c041d5dd2fcad872e3d,1416.0,24.0,9.0,0.0
+1334,Commit,gobby_libinfinity,2007-03-28 21:54:32,a244c9768055654008d7ff5dd2373c0a08a1b549,288.0,59.0,6.0,0.0
+1335,Commit,gobby_libinfinity,2007-03-28 13:27:32,95c36988ee94fa6b92f52eae292bd8b751dc9ebe,104.0,159.0,45.0,0.0
+1336,Commit,gobby_libinfinity,2007-03-27 23:44:56,813d2771e81cccfde0b5e2524e5acf1b58e455e5,3393.0,471.0,9.0,0.0
+1337,Commit,gobby_libinfinity,2007-03-20 00:04:22,98ea619fa461fbb165e333201a55e9b216b029b3,1716.0,117.0,14.0,0.0
+1338,Commit,gobby_libinfinity,2007-03-18 23:32:56,4af413b91281f2401517dbfbf619b18e53a5d046,420.0,1.0,4.0,0.0
+1339,Commit,gobby_libinfinity,2007-03-18 21:52:40,15b7376454f6a6ad024f0682a10c629f6f60c9d2,507.0,1.0,7.0,0.0
+1340,Commit,gobby_libinfinity,2007-03-17 22:02:53,e1f5a1a3aeec8168f7a82b9eee3df971786d6b58,486.0,287.0,18.0,0.0
+1341,Commit,gobby_libinfinity,2007-03-16 00:12:56,fffb6417cc51d1b875c0f7a31dc8c6f9eabcf6dc,574.0,463.0,22.0,0.0
+1342,Commit,gobby_libinfinity,2007-03-15 18:56:48,096186a8e0579beeb038699a14877be6aa04a46b,1116.0,305.0,6.0,0.0
+1343,Commit,gobby_libinfinity,2007-03-12 20:17:55,82c54e157d45e7a4896f0626dbc2e7e131fc561e,1781.0,625.0,10.0,0.0
+1344,Commit,gobby_libinfinity,2007-03-12 20:03:57,55fdb9a2df7845f632c0862689aa798cc7421fe9,232.0,126.0,8.0,0.0
+1345,Commit,gobby_libinfinity,2007-03-08 23:04:40,809529dfff394423e466f17600c3de0b17960387,61.0,40.0,3.0,0.0
+1346,Commit,gobby_libinfinity,2007-03-08 22:19:37,fbc74d490b2d7a44df3cc956f0a75ff536d9cd48,47.0,0.0,3.0,0.0
+1347,Commit,gobby_libinfinity,2007-03-08 21:53:11,3a223185a41a9d9c683133d452204c007c283719,78.0,31.0,3.0,0.0
+1348,Commit,gobby_libinfinity,2007-03-08 20:22:41,3fd640585ea402f170f719a0fdf7c0707f03c2e0,146.0,11.0,4.0,0.0
+1349,Commit,gobby_libinfinity,2007-03-08 00:37:29,964a25fe5ac50e455de7cb638d7c214a8c5f8ddd,62.0,0.0,2.0,0.0
+1350,Commit,gobby_libinfinity,2007-03-07 01:09:40,216e1535f21c5f3169e3e0d17a03f49f12bc2344,2326.0,231.0,11.0,0.0
+1351,Commit,gobby_libinfinity,2007-03-02 00:45:34,3ff66a5a4ea914a40733b8fba96d624452af0525,629.0,53.0,8.0,0.0
+1352,Commit,gobby_libinfinity,2007-03-02 00:39:35,0ccff479523c9520ef28892f697d3285f4ab9701,211.0,2.0,7.0,0.0
+1353,Commit,gobby_libinfinity,2007-02-27 23:27:09,ab5e0da7a7ddbe59a001bf654a2829bae0565a40,591.0,83.0,4.0,0.0
+1354,Commit,gobby_libinfinity,2007-02-27 21:15:15,9a981590a20f1a14e5de3da14ce0a11fce5bd337,494.0,15.0,7.0,0.0
+1355,Commit,gobby_libinfinity,2007-02-27 01:07:19,c69eae782d82c2167d4a091b56f6d6ffb119b478,874.0,170.0,8.0,0.0
+1356,Commit,gobby_libinfinity,2007-02-26 19:05:41,112aed411dec11f50239c59104b5246263f7e651,824.0,9.0,9.0,0.0
+1357,Commit,gobby_libinfinity,2007-02-23 20:49:08,f46e9bdf81ad047b9af2681b05f6e1894ba7e012,608.0,640.0,11.0,0.0
+1358,Commit,gobby_libinfinity,2007-02-21 22:19:03,5c46159a794e56a8748d5edc1ac1fc55c7e0e351,172.0,11.0,3.0,0.0
+1359,Commit,gobby_libinfinity,2007-02-21 19:37:34,f386602007b65fbf715bfecec2fb973af4cd57ef,826.0,7.0,11.0,0.0
+1360,Commit,gobby_libinfinity,2007-02-21 16:29:33,40814927c9c60a90d87f4270d535efe93efed85f,40.0,16.0,17.0,0.0
+1361,Commit,gobby_libinfinity,2007-02-21 16:15:52,1bd081673fcb92db8921f58a4b9e6e0afea466d7,6.0,0.0,2.0,0.0
+1362,Commit,gobby_libinfinity,2007-02-20 21:39:13,42d98be165a82fc07b8d392425521939cace360a,459.0,0.0,7.0,0.0
+1363,Commit,gobby_libinfinity,2007-02-20 18:07:28,da94e28913a08f49ee893dfc2505dfdb7a026fe8,35.0,0.0,3.0,0.0
+1364,Commit,gobby_libinfinity,2007-02-20 17:38:20,a92cd6c99cd6834b27fa2a86dfa42171c1e774a1,223.0,29.0,7.0,0.0
+1365,Commit,gobby_libinfinity,2007-02-19 20:10:30,f8d373f1e1e974f833418c226016015cd512e2a3,1.0,0.0,1.0,0.0
+1366,Commit,gobby_libinfinity,2007-02-19 19:11:15,2566c251edd720f7b051ff56ff911047c5c0a77d,273.0,1.0,3.0,0.0
+1367,Commit,gobby_libinfinity,2007-02-19 17:23:28,4d90f3b5b80f3d3dfce8c2137570bd9ec75bd562,605.0,6.0,10.0,0.0
+1368,Commit,gobby_libinfinity,2007-02-18 23:49:26,9648a6d1486084675e51f207db399827d2d8dca4,629.0,18.0,6.0,0.0
+1369,Commit,gobby_libinfinity,2007-02-18 14:54:02,267aafb73dcb3e3a63d907273e763ce60dc59dab,11.0,0.0,3.0,0.0
+1370,Commit,gobby_libinfinity,2007-02-18 14:52:29,1bbfb88d8627e3be62cc6653b59ce80e7091c7cc,7.0,7.0,1.0,0.0
+1371,Commit,gobby_libinfinity,2007-02-18 14:24:51,40492075afc432d9f96774afec576fc4a3762127,217.0,203.0,7.0,0.0
+0,forks,gobby_libinfinity,2014-05-14 10:05:54+00:00,,,,,
+1,forks,gobby_libinfinity,2014-06-09 15:50:36+00:00,,,,,
+2,forks,gobby_libinfinity,2014-08-28 20:10:51+00:00,,,,,
+3,forks,gobby_libinfinity,2014-09-01 15:53:33+00:00,,,,,
+4,forks,gobby_libinfinity,2014-11-09 15:15:43+00:00,,,,,
+5,forks,gobby_libinfinity,2015-04-09 19:42:27+00:00,,,,,
+6,forks,gobby_libinfinity,2015-06-07 18:33:25+00:00,,,,,
+7,forks,gobby_libinfinity,2016-01-06 02:06:51+00:00,,,,,
+8,forks,gobby_libinfinity,2016-05-01 10:44:29+00:00,,,,,
+9,forks,gobby_libinfinity,2016-05-08 13:10:16+00:00,,,,,
+10,forks,gobby_libinfinity,2017-10-14 14:02:42+00:00,,,,,
+11,forks,gobby_libinfinity,2018-03-23 03:10:28+00:00,,,,,
+12,forks,gobby_libinfinity,2018-08-26 06:32:31+00:00,,,,,
+13,forks,gobby_libinfinity,2019-03-17 13:29:24+00:00,,,,,
+14,forks,gobby_libinfinity,2019-05-22 12:17:39+00:00,,,,,
+15,forks,gobby_libinfinity,2019-10-16 19:19:15+00:00,,,,,
+16,forks,gobby_libinfinity,2020-04-30 03:56:22+00:00,,,,,
+17,forks,gobby_libinfinity,2020-06-11 07:37:13+00:00,,,,,
+18,forks,gobby_libinfinity,2022-06-18 19:18:58+00:00,,,,,
+0,issues,gobby_libinfinity,2014-08-24 11:57:44+00:00,,,,,
+1,issues,gobby_libinfinity,2014-10-05 23:06:28+00:00,,,,,
+2,issues,gobby_libinfinity,2014-10-18 02:00:38+00:00,,,,,
+3,issues,gobby_libinfinity,2014-11-25 13:04:55+00:00,,,,,
+4,issues,gobby_libinfinity,2015-10-11 23:44:33+00:00,,,,,
+5,issues,gobby_libinfinity,2016-01-12 00:55:28+00:00,,,,,
+6,issues,gobby_libinfinity,2017-01-12 21:49:50+00:00,,,,,
+7,issues,gobby_libinfinity,2018-02-23 16:36:42+00:00,,,,,
+8,issues,gobby_libinfinity,2018-08-18 13:56:35+00:00,,,,,
+9,issues,gobby_libinfinity,2018-09-28 04:46:37+00:00,,,,,
+10,issues,gobby_libinfinity,2019-10-10 01:43:02+00:00,,,,,
+11,issues,gobby_libinfinity,2019-12-09 16:46:14+00:00,,,,,
+12,issues,gobby_libinfinity,2020-09-24 23:13:32+00:00,,,,,
+13,issues,gobby_libinfinity,2020-09-27 21:05:28+00:00,,,,,
+14,issues,gobby_libinfinity,2021-01-24 18:46:30+00:00,,,,,
+15,issues,gobby_libinfinity,2021-02-13 00:11:03+00:00,,,,,
+16,issues,gobby_libinfinity,2022-03-07 11:01:47+00:00,,,,,
+0,pullRequests,gobby_libinfinity,2014-06-29 03:21:27+00:00,,,,,
+1,pullRequests,gobby_libinfinity,2014-07-11 22:10:15+00:00,,,,,
+2,pullRequests,gobby_libinfinity,2014-08-28 20:12:42+00:00,,,,,
+3,pullRequests,gobby_libinfinity,2014-09-01 21:33:25+00:00,,,,,
+4,pullRequests,gobby_libinfinity,2015-06-07 18:34:18+00:00,,,,,
+5,pullRequests,gobby_libinfinity,2016-03-16 17:47:30+00:00,,,,,
+6,pullRequests,gobby_libinfinity,2016-03-18 17:52:34+00:00,,,,,
+7,pullRequests,gobby_libinfinity,2016-03-18 18:01:45+00:00,,,,,
+8,pullRequests,gobby_libinfinity,2016-05-01 11:18:18+00:00,,,,,
+9,pullRequests,gobby_libinfinity,2016-05-08 13:33:05+00:00,,,,,
+10,pullRequests,gobby_libinfinity,2018-03-23 03:13:55+00:00,,,,,
+11,pullRequests,gobby_libinfinity,2020-06-11 22:22:32+00:00,,,,,
+12,pullRequests,gobby_libinfinity,2020-06-11 22:25:03+00:00,,,,,
+0,releases,gobby_libinfinity,2017-02-28 05:55:48+00:00,,,,,
+1,releases,gobby_libinfinity,2020-12-11 21:09:51+00:00,,,,,
+2,releases,gobby_libinfinity,2017-02-28 05:57:48+00:00,,,,,
+3,releases,gobby_libinfinity,2008-10-18 14:31:46+00:00,,,,,
+4,releases,gobby_libinfinity,2008-11-09 00:34:53+00:00,,,,,
+5,releases,gobby_libinfinity,2008-12-28 20:14:30+00:00,,,,,
+6,releases,gobby_libinfinity,2009-01-05 02:00:14+00:00,,,,,
+7,releases,gobby_libinfinity,2009-04-20 21:34:09+00:00,,,,,
+8,releases,gobby_libinfinity,2009-04-26 09:45:43+00:00,,,,,
+9,releases,gobby_libinfinity,2009-10-25 21:19:56+00:00,,,,,
+10,releases,gobby_libinfinity,2009-12-20 00:21:30+00:00,,,,,
+11,releases,gobby_libinfinity,2010-02-17 18:12:43+00:00,,,,,
+12,releases,gobby_libinfinity,2010-11-20 12:36:20+00:00,,,,,
+13,releases,gobby_libinfinity,2011-03-27 17:41:30+00:00,,,,,
+14,releases,gobby_libinfinity,2011-08-01 21:56:51+00:00,,,,,
+15,releases,gobby_libinfinity,2012-03-25 12:18:31+00:00,,,,,
+16,releases,gobby_libinfinity,2012-10-21 15:31:08+00:00,,,,,
+17,releases,gobby_libinfinity,2013-07-20 20:51:21+00:00,,,,,
+18,releases,gobby_libinfinity,2014-01-13 13:37:45+00:00,,,,,
+19,releases,gobby_libinfinity,2014-08-23 17:25:57+00:00,,,,,
+20,releases,gobby_libinfinity,2014-08-24 14:05:31+00:00,,,,,
+21,releases,gobby_libinfinity,2014-09-12 19:14:48+00:00,,,,,
+22,releases,gobby_libinfinity,2014-10-09 18:52:19+00:00,,,,,
+23,releases,gobby_libinfinity,2014-10-18 17:47:30+00:00,,,,,
+24,releases,gobby_libinfinity,2015-01-18 01:21:28+00:00,,,,,
+25,releases,gobby_libinfinity,2015-05-13 00:57:40+00:00,,,,,
+26,releases,gobby_libinfinity,2015-10-13 23:46:28+00:00,,,,,
+27,releases,gobby_libinfinity,2017-01-08 23:33:20+00:00,,,,,
+0,stargazers,gobby_libinfinity,2014-05-26 05:31:28+00:00,,,,,
+1,stargazers,gobby_libinfinity,2014-06-13 06:07:43+00:00,,,,,
+2,stargazers,gobby_libinfinity,2014-06-16 05:47:11+00:00,,,,,
+3,stargazers,gobby_libinfinity,2014-08-17 04:47:07+00:00,,,,,
+4,stargazers,gobby_libinfinity,2014-08-24 02:26:51+00:00,,,,,
+5,stargazers,gobby_libinfinity,2014-09-13 11:35:46+00:00,,,,,
+6,stargazers,gobby_libinfinity,2014-10-22 05:57:57+00:00,,,,,
+7,stargazers,gobby_libinfinity,2015-01-23 11:37:45+00:00,,,,,
+8,stargazers,gobby_libinfinity,2015-03-27 22:22:56+00:00,,,,,
+9,stargazers,gobby_libinfinity,2015-07-09 22:29:41+00:00,,,,,
+10,stargazers,gobby_libinfinity,2015-07-27 20:23:43+00:00,,,,,
+11,stargazers,gobby_libinfinity,2015-08-01 18:57:21+00:00,,,,,
+12,stargazers,gobby_libinfinity,2015-08-07 00:33:50+00:00,,,,,
+13,stargazers,gobby_libinfinity,2015-10-15 06:25:48+00:00,,,,,
+14,stargazers,gobby_libinfinity,2015-11-05 14:25:35+00:00,,,,,
+15,stargazers,gobby_libinfinity,2015-11-09 03:53:40+00:00,,,,,
+16,stargazers,gobby_libinfinity,2016-01-05 18:10:32+00:00,,,,,
+17,stargazers,gobby_libinfinity,2016-01-05 21:51:52+00:00,,,,,
+18,stargazers,gobby_libinfinity,2016-01-05 22:41:35+00:00,,,,,
+19,stargazers,gobby_libinfinity,2016-01-05 22:51:30+00:00,,,,,
+20,stargazers,gobby_libinfinity,2016-01-05 23:54:59+00:00,,,,,
+21,stargazers,gobby_libinfinity,2016-01-06 02:06:49+00:00,,,,,
+22,stargazers,gobby_libinfinity,2016-01-06 04:41:52+00:00,,,,,
+23,stargazers,gobby_libinfinity,2016-01-12 00:48:07+00:00,,,,,
+24,stargazers,gobby_libinfinity,2016-01-13 00:30:26+00:00,,,,,
+25,stargazers,gobby_libinfinity,2016-01-14 09:52:13+00:00,,,,,
+26,stargazers,gobby_libinfinity,2016-01-19 00:45:10+00:00,,,,,
+27,stargazers,gobby_libinfinity,2016-01-28 09:31:45+00:00,,,,,
+28,stargazers,gobby_libinfinity,2016-03-16 19:18:51+00:00,,,,,
+29,stargazers,gobby_libinfinity,2016-03-21 22:38:38+00:00,,,,,
+30,stargazers,gobby_libinfinity,2016-04-16 07:17:12+00:00,,,,,
+31,stargazers,gobby_libinfinity,2016-04-20 09:46:32+00:00,,,,,
+32,stargazers,gobby_libinfinity,2016-04-20 17:25:40+00:00,,,,,
+33,stargazers,gobby_libinfinity,2016-05-17 10:33:46+00:00,,,,,
+34,stargazers,gobby_libinfinity,2016-06-22 23:43:05+00:00,,,,,
+35,stargazers,gobby_libinfinity,2016-08-12 23:55:42+00:00,,,,,
+36,stargazers,gobby_libinfinity,2016-09-02 13:38:32+00:00,,,,,
+37,stargazers,gobby_libinfinity,2016-09-20 16:45:39+00:00,,,,,
+38,stargazers,gobby_libinfinity,2016-11-29 07:11:02+00:00,,,,,
+39,stargazers,gobby_libinfinity,2017-01-28 14:48:24+00:00,,,,,
+40,stargazers,gobby_libinfinity,2017-02-09 09:15:12+00:00,,,,,
+41,stargazers,gobby_libinfinity,2017-03-22 19:29:59+00:00,,,,,
+42,stargazers,gobby_libinfinity,2017-03-27 13:54:15+00:00,,,,,
+43,stargazers,gobby_libinfinity,2017-04-24 11:27:25+00:00,,,,,
+44,stargazers,gobby_libinfinity,2017-05-29 16:03:53+00:00,,,,,
+45,stargazers,gobby_libinfinity,2017-05-29 19:28:32+00:00,,,,,
+46,stargazers,gobby_libinfinity,2017-07-15 13:57:47+00:00,,,,,
+47,stargazers,gobby_libinfinity,2017-11-19 22:23:47+00:00,,,,,
+48,stargazers,gobby_libinfinity,2018-02-09 13:47:47+00:00,,,,,
+49,stargazers,gobby_libinfinity,2018-03-14 19:29:02+00:00,,,,,
+50,stargazers,gobby_libinfinity,2018-03-14 20:18:13+00:00,,,,,
+51,stargazers,gobby_libinfinity,2018-03-15 05:10:46+00:00,,,,,
+52,stargazers,gobby_libinfinity,2018-05-25 10:35:28+00:00,,,,,
+53,stargazers,gobby_libinfinity,2018-07-12 03:45:24+00:00,,,,,
+54,stargazers,gobby_libinfinity,2018-08-06 19:12:13+00:00,,,,,
+55,stargazers,gobby_libinfinity,2018-08-22 19:15:10+00:00,,,,,
+56,stargazers,gobby_libinfinity,2018-11-22 20:27:05+00:00,,,,,
+57,stargazers,gobby_libinfinity,2018-12-22 04:03:50+00:00,,,,,
+58,stargazers,gobby_libinfinity,2019-01-10 09:15:58+00:00,,,,,
+59,stargazers,gobby_libinfinity,2019-02-17 01:30:30+00:00,,,,,
+60,stargazers,gobby_libinfinity,2019-03-17 13:29:14+00:00,,,,,
+61,stargazers,gobby_libinfinity,2019-04-10 12:28:20+00:00,,,,,
+62,stargazers,gobby_libinfinity,2019-09-26 01:17:44+00:00,,,,,
+63,stargazers,gobby_libinfinity,2019-11-21 07:06:55+00:00,,,,,
+64,stargazers,gobby_libinfinity,2019-12-13 02:54:30+00:00,,,,,
+65,stargazers,gobby_libinfinity,2020-01-12 14:40:22+00:00,,,,,
+66,stargazers,gobby_libinfinity,2020-02-10 00:12:14+00:00,,,,,
+67,stargazers,gobby_libinfinity,2020-03-17 15:36:40+00:00,,,,,
+68,stargazers,gobby_libinfinity,2020-04-07 20:46:25+00:00,,,,,
+69,stargazers,gobby_libinfinity,2020-04-20 09:56:51+00:00,,,,,
+70,stargazers,gobby_libinfinity,2020-05-16 07:15:43+00:00,,,,,
+71,stargazers,gobby_libinfinity,2020-05-16 09:26:00+00:00,,,,,
+72,stargazers,gobby_libinfinity,2020-05-16 11:20:28+00:00,,,,,
+73,stargazers,gobby_libinfinity,2020-06-11 07:35:54+00:00,,,,,
+74,stargazers,gobby_libinfinity,2020-06-23 16:30:29+00:00,,,,,
+75,stargazers,gobby_libinfinity,2020-07-14 21:16:38+00:00,,,,,
+76,stargazers,gobby_libinfinity,2020-08-12 08:05:25+00:00,,,,,
+77,stargazers,gobby_libinfinity,2020-10-23 19:54:24+00:00,,,,,
+78,stargazers,gobby_libinfinity,2020-11-27 12:13:13+00:00,,,,,
+79,stargazers,gobby_libinfinity,2020-12-25 01:55:40+00:00,,,,,
+80,stargazers,gobby_libinfinity,2021-01-22 13:28:16+00:00,,,,,
+81,stargazers,gobby_libinfinity,2021-09-11 15:16:48+00:00,,,,,
+82,stargazers,gobby_libinfinity,2021-12-28 10:05:25+00:00,,,,,

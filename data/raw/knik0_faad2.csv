@@ -1,0 +1,1311 @@
+,type,name,created_at,Hash,Add,Del,Files,Vuln
+49348,ForkEvent,knik0_faad2,2017-12-21 11:56:07 UTC,,,,,
+70170,ForkEvent,knik0_faad2,2017-12-18 13:18:49 UTC,,,,,
+89115,ForkEvent,knik0_faad2,2017-12-21 00:35:08 UTC,,,,,
+140574,ForkEvent,knik0_faad2,2017-12-16 18:41:58 UTC,,,,,
+258441,ForkEvent,knik0_faad2,2017-10-01 15:33:45 UTC,,,,,
+318410,ForkEvent,knik0_faad2,2017-11-13 10:06:23 UTC,,,,,
+352304,PushEvent,knik0_faad2,2017-10-07 09:15:30 UTC,,,,,
+371907,PushEvent,knik0_faad2,2017-07-27 12:27:32 UTC,,,,,
+374011,PushEvent,knik0_faad2,2017-10-09 19:36:39 UTC,,,,,
+397322,PushEvent,knik0_faad2,2017-12-19 14:28:57 UTC,,,,,
+405155,PushEvent,knik0_faad2,2017-10-06 09:32:53 UTC,,,,,
+429411,PushEvent,knik0_faad2,2017-09-06 09:59:36 UTC,,,,,
+444197,PushEvent,knik0_faad2,2017-09-30 12:34:48 UTC,,,,,
+479236,PushEvent,knik0_faad2,2017-12-16 20:15:36 UTC,,,,,
+481110,PushEvent,knik0_faad2,2017-09-23 09:03:38 UTC,,,,,
+491362,PushEvent,knik0_faad2,2017-09-29 11:29:05 UTC,,,,,
+492237,PushEvent,knik0_faad2,2017-12-23 14:24:44 UTC,,,,,
+521370,PushEvent,knik0_faad2,2017-09-16 08:38:29 UTC,,,,,
+610451,PushEvent,knik0_faad2,2017-12-17 16:15:42 UTC,,,,,
+633205,PushEvent,knik0_faad2,2017-12-17 19:55:41 UTC,,,,,
+663876,PushEvent,knik0_faad2,2017-12-17 11:33:35 UTC,,,,,
+667667,PushEvent,knik0_faad2,2017-09-30 12:06:38 UTC,,,,,
+744106,PushEvent,knik0_faad2,2017-09-29 11:33:08 UTC,,,,,
+766599,PushEvent,knik0_faad2,2017-07-26 10:19:01 UTC,,,,,
+816513,PushEvent,knik0_faad2,2017-08-09 14:08:02 UTC,,,,,
+832164,PushEvent,knik0_faad2,2017-09-06 10:18:55 UTC,,,,,
+854470,PushEvent,knik0_faad2,2017-12-22 13:06:47 UTC,,,,,
+863941,PushEvent,knik0_faad2,2017-10-10 10:05:14 UTC,,,,,
+864584,PushEvent,knik0_faad2,2017-09-23 13:10:59 UTC,,,,,
+869555,PushEvent,knik0_faad2,2017-12-21 11:36:27 UTC,,,,,
+938029,PushEvent,knik0_faad2,2017-12-19 14:43:15 UTC,,,,,
+942523,PushEvent,knik0_faad2,2017-12-17 16:22:01 UTC,,,,,
+944966,PushEvent,knik0_faad2,2017-10-09 19:28:17 UTC,,,,,
+994385,WatchEvent,knik0_faad2,2017-09-04 21:43:47 UTC,,,,,
+1164441,WatchEvent,knik0_faad2,2017-09-04 07:20:37 UTC,,,,,
+1166091,WatchEvent,knik0_faad2,2017-12-06 21:39:12 UTC,,,,,
+1229314,WatchEvent,knik0_faad2,2017-09-07 03:18:03 UTC,,,,,
+1311856,WatchEvent,knik0_faad2,2017-08-29 06:30:19 UTC,,,,,
+1474897,WatchEvent,knik0_faad2,2017-10-11 10:45:12 UTC,,,,,
+1726792,WatchEvent,knik0_faad2,2017-12-22 20:06:45 UTC,,,,,
+1974547,CreateEvent,knik0_faad2,2017-07-25 07:37:25 UTC,,,,,
+1980123,CreateEvent,knik0_faad2,2017-07-25 07:35:55 UTC,,,,,
+2141873,IssuesEvent,knik0_faad2,2017-12-19 11:08:40 UTC,,,,,
+2144785,IssuesEvent,knik0_faad2,2017-09-16 08:38:52 UTC,,,,,
+2260469,IssuesEvent,knik0_faad2,2017-12-17 19:36:50 UTC,,,,,
+2349935,IssuesEvent,knik0_faad2,2017-09-15 18:04:34 UTC,,,,,
+2456449,PullRequestEvent,knik0_faad2,2017-12-17 16:15:42 UTC,,,,,
+2508318,PullRequestEvent,knik0_faad2,2017-12-19 16:52:06 UTC,,,,,
+2568108,PullRequestEvent,knik0_faad2,2017-12-19 14:28:56 UTC,,,,,
+2603164,PullRequestEvent,knik0_faad2,2017-12-18 13:34:50 UTC,,,,,
+2643239,PullRequestEvent,knik0_faad2,2017-12-21 00:40:47 UTC,,,,,
+2649230,PullRequestEvent,knik0_faad2,2017-12-22 20:05:57 UTC,,,,,
+2669885,PullRequestEvent,knik0_faad2,2017-12-16 18:49:46 UTC,,,,,
+2704638,PullRequestEvent,knik0_faad2,2017-12-23 14:24:44 UTC,,,,,
+2783734,PullRequestEvent,knik0_faad2,2017-12-21 11:36:26 UTC,,,,,
+2788012,PullRequestEvent,knik0_faad2,2017-12-16 20:15:36 UTC,,,,,
+2794160,PullRequestEvent,knik0_faad2,2017-12-21 12:00:04 UTC,,,,,
+2812838,PullRequestEvent,knik0_faad2,2017-12-17 14:00:19 UTC,,,,,
+2844317,PullRequestEvent,knik0_faad2,2017-12-21 11:44:38 UTC,,,,,
+2854786,PullRequestEvent,knik0_faad2,2017-10-09 19:28:17 UTC,,,,,
+2855976,PullRequestEvent,knik0_faad2,2017-12-22 13:06:47 UTC,,,,,
+2863301,PullRequestEvent,knik0_faad2,2017-10-06 09:32:52 UTC,,,,,
+2884151,PullRequestEvent,knik0_faad2,2017-10-05 21:23:29 UTC,,,,,
+2916954,IssueCommentEvent,knik0_faad2,2017-12-16 20:00:47 UTC,,,,,
+2945784,IssueCommentEvent,knik0_faad2,2017-10-09 19:18:00 UTC,,,,,
+2949498,IssueCommentEvent,knik0_faad2,2017-10-10 05:26:30 UTC,,,,,
+2959086,IssueCommentEvent,knik0_faad2,2017-12-19 12:05:10 UTC,,,,,
+2959398,IssueCommentEvent,knik0_faad2,2017-12-16 19:55:32 UTC,,,,,
+3033719,IssueCommentEvent,knik0_faad2,2017-12-21 12:04:12 UTC,,,,,
+3064890,IssueCommentEvent,knik0_faad2,2017-12-17 19:59:55 UTC,,,,,
+3078682,IssueCommentEvent,knik0_faad2,2017-12-21 12:20:54 UTC,,,,,
+3081181,IssueCommentEvent,knik0_faad2,2017-12-16 19:15:55 UTC,,,,,
+3483204,IssueCommentEvent,knik0_faad2,2017-12-21 10:53:58 UTC,,,,,
+3524499,IssueCommentEvent,knik0_faad2,2017-12-18 13:41:16 UTC,,,,,
+3866758,IssueCommentEvent,knik0_faad2,2017-12-19 11:30:35 UTC,,,,,
+3875127,IssueCommentEvent,knik0_faad2,2017-12-21 11:44:38 UTC,,,,,
+3909423,IssueCommentEvent,knik0_faad2,2017-12-16 19:47:54 UTC,,,,,
+3944097,IssueCommentEvent,knik0_faad2,2017-10-09 18:42:29 UTC,,,,,
+3964900,IssueCommentEvent,knik0_faad2,2017-12-19 17:44:50 UTC,,,,,
+3984095,IssueCommentEvent,knik0_faad2,2017-12-21 15:33:44 UTC,,,,,
+3996426,IssueCommentEvent,knik0_faad2,2017-09-16 08:32:52 UTC,,,,,
+4172406,IssueCommentEvent,knik0_faad2,2017-12-21 12:11:00 UTC,,,,,
+4232720,IssueCommentEvent,knik0_faad2,2017-12-19 11:09:38 UTC,,,,,
+4296141,IssueCommentEvent,knik0_faad2,2017-12-16 19:35:06 UTC,,,,,
+4325258,IssueCommentEvent,knik0_faad2,2017-12-19 16:48:33 UTC,,,,,
+4352054,IssueCommentEvent,knik0_faad2,2017-12-21 11:52:38 UTC,,,,,
+4393953,IssueCommentEvent,knik0_faad2,2017-12-19 18:07:07 UTC,,,,,
+4435382,IssueCommentEvent,knik0_faad2,2017-10-06 09:34:28 UTC,,,,,
+4583483,IssueCommentEvent,knik0_faad2,2017-10-07 09:23:56 UTC,,,,,
+4600861,IssueCommentEvent,knik0_faad2,2017-12-21 15:25:07 UTC,,,,,
+3735,MemberEvent,knik0_faad2,2018-06-03 21:04:19 UTC,,,,,
+61749,ForkEvent,knik0_faad2,2018-11-16 09:29:39 UTC,,,,,
+116846,ForkEvent,knik0_faad2,2018-12-09 03:03:24 UTC,,,,,
+160847,ForkEvent,knik0_faad2,2018-06-26 08:07:53 UTC,,,,,
+253746,ForkEvent,knik0_faad2,2018-10-19 08:20:36 UTC,,,,,
+260263,ForkEvent,knik0_faad2,2018-09-14 03:08:04 UTC,,,,,
+984394,WatchEvent,knik0_faad2,2018-09-15 02:53:16 UTC,,,,,
+1000349,WatchEvent,knik0_faad2,2018-09-14 10:29:37 UTC,,,,,
+1001057,WatchEvent,knik0_faad2,2018-10-23 18:21:41 UTC,,,,,
+1020881,WatchEvent,knik0_faad2,2018-06-11 10:50:04 UTC,,,,,
+1038667,WatchEvent,knik0_faad2,2018-12-21 07:57:39 UTC,,,,,
+1138760,WatchEvent,knik0_faad2,2018-08-21 15:06:46 UTC,,,,,
+1192437,WatchEvent,knik0_faad2,2018-11-17 06:08:47 UTC,,,,,
+1207147,WatchEvent,knik0_faad2,2018-11-13 22:55:52 UTC,,,,,
+1256545,WatchEvent,knik0_faad2,2018-10-05 13:49:15 UTC,,,,,
+1427971,WatchEvent,knik0_faad2,2018-09-04 14:36:45 UTC,,,,,
+1518060,WatchEvent,knik0_faad2,2018-07-25 14:07:51 UTC,,,,,
+1547146,WatchEvent,knik0_faad2,2018-11-30 08:39:10 UTC,,,,,
+1602400,WatchEvent,knik0_faad2,2018-12-21 12:08:36 UTC,,,,,
+1625551,WatchEvent,knik0_faad2,2018-05-12 10:49:58 UTC,,,,,
+2061663,IssuesEvent,knik0_faad2,2018-10-09 02:31:27 UTC,,,,,
+2067403,IssuesEvent,knik0_faad2,2018-12-17 05:15:59 UTC,,,,,
+2076911,IssuesEvent,knik0_faad2,2018-03-05 19:18:02 UTC,,,,,
+2101062,IssuesEvent,knik0_faad2,2018-12-17 04:11:40 UTC,,,,,
+2172014,IssuesEvent,knik0_faad2,2018-12-17 06:17:36 UTC,,,,,
+2208474,IssuesEvent,knik0_faad2,2018-12-17 06:55:50 UTC,,,,,
+2217255,IssuesEvent,knik0_faad2,2018-12-17 05:12:17 UTC,,,,,
+2228151,IssuesEvent,knik0_faad2,2018-12-17 04:02:04 UTC,,,,,
+2243832,IssuesEvent,knik0_faad2,2018-12-17 06:51:29 UTC,,,,,
+2284100,IssuesEvent,knik0_faad2,2018-12-17 04:08:19 UTC,,,,,
+2291401,IssuesEvent,knik0_faad2,2018-12-17 03:56:41 UTC,,,,,
+2299338,IssuesEvent,knik0_faad2,2018-12-17 06:36:12 UTC,,,,,
+2311968,IssuesEvent,knik0_faad2,2018-06-02 10:38:31 UTC,,,,,
+2313194,IssuesEvent,knik0_faad2,2018-12-17 06:49:16 UTC,,,,,
+2353387,IssuesEvent,knik0_faad2,2018-12-17 06:39:54 UTC,,,,,
+2353962,IssuesEvent,knik0_faad2,2018-12-17 06:45:32 UTC,,,,,
+2385234,IssuesEvent,knik0_faad2,2018-11-17 10:00:28 UTC,,,,,
+2388386,IssuesEvent,knik0_faad2,2018-11-17 17:52:41 UTC,,,,,
+2477214,PullRequestEvent,knik0_faad2,2018-08-04 11:34:48 UTC,,,,,
+3137764,IssueCommentEvent,knik0_faad2,2018-12-11 14:08:41 UTC,,,,,
+3412249,IssueCommentEvent,knik0_faad2,2018-11-17 17:52:41 UTC,,,,,
+3528108,IssueCommentEvent,knik0_faad2,2018-11-18 08:19:11 UTC,,,,,
+4106585,IssueCommentEvent,knik0_faad2,2018-10-09 19:36:32 UTC,,,,,
+4227800,IssueCommentEvent,knik0_faad2,2018-11-20 13:10:09 UTC,,,,,
+4315965,IssueCommentEvent,knik0_faad2,2018-06-03 13:07:52 UTC,,,,,
+4373388,IssueCommentEvent,knik0_faad2,2018-06-04 10:51:09 UTC,,,,,
+4403402,IssueCommentEvent,knik0_faad2,2018-10-31 05:52:49 UTC,,,,,
+1644,CommitCommentEvent,knik0_faad2,2020-01-01 18:30:33 UTC,,,,,
+10150,CommitCommentEvent,knik0_faad2,2019-09-04 20:28:58 UTC,,,,,
+14567,CommitCommentEvent,knik0_faad2,2020-01-01 17:45:00 UTC,,,,,
+15775,CommitCommentEvent,knik0_faad2,2020-01-01 18:13:18 UTC,,,,,
+17563,CommitCommentEvent,knik0_faad2,2019-09-04 20:19:45 UTC,,,,,
+17765,CommitCommentEvent,knik0_faad2,2019-11-07 20:20:18 UTC,,,,,
+24538,ReleaseEvent,knik0_faad2,2019-11-04 10:19:35 UTC,,,,,
+32771,ReleaseEvent,knik0_faad2,2019-09-09 11:03:04 UTC,,,,,
+32914,CommitCommentEvent,knik0_faad2,2019-11-08 15:22:00 UTC,,,,,
+35253,CommitCommentEvent,knik0_faad2,2019-09-07 14:57:48 UTC,,,,,
+35287,CommitCommentEvent,knik0_faad2,2019-09-04 20:43:27 UTC,,,,,
+36788,CommitCommentEvent,knik0_faad2,2020-01-01 18:30:14 UTC,,,,,
+36859,CommitCommentEvent,knik0_faad2,2019-11-08 08:38:53 UTC,,,,,
+37161,CommitCommentEvent,knik0_faad2,2019-09-04 09:01:22 UTC,,,,,
+55849,ForkEvent,knik0_faad2,2019-05-30 11:16:32 UTC,,,,,
+90271,ForkEvent,knik0_faad2,2019-03-27 10:03:51 UTC,,,,,
+96893,ForkEvent,knik0_faad2,2019-12-30 16:39:27 UTC,,,,,
+130610,ForkEvent,knik0_faad2,2019-06-11 08:22:52 UTC,,,,,
+177920,ForkEvent,knik0_faad2,2019-07-12 02:33:13 UTC,,,,,
+178227,ForkEvent,knik0_faad2,2019-02-25 10:30:46 UTC,,,,,
+200635,ForkEvent,knik0_faad2,2019-04-08 23:30:20 UTC,,,,,
+246462,ForkEvent,knik0_faad2,2019-09-19 11:42:47 UTC,,,,,
+284324,ForkEvent,knik0_faad2,2019-09-19 07:53:53 UTC,,,,,
+349042,ForkEvent,knik0_faad2,2019-11-13 23:58:41 UTC,,,,,
+447975,PushEvent,knik0_faad2,2019-10-02 10:51:23 UTC,,,,,
+462145,PushEvent,knik0_faad2,2019-12-12 13:05:05 UTC,,,,,
+478911,PushEvent,knik0_faad2,2019-09-04 09:00:00 UTC,,,,,
+487557,PushEvent,knik0_faad2,2019-06-11 15:03:49 UTC,,,,,
+507542,PushEvent,knik0_faad2,2019-09-09 11:00:46 UTC,,,,,
+633754,PushEvent,knik0_faad2,2019-11-04 10:22:22 UTC,,,,,
+668623,PushEvent,knik0_faad2,2019-08-26 12:20:31 UTC,,,,,
+678995,PushEvent,knik0_faad2,2019-06-10 12:01:23 UTC,,,,,
+755247,PushEvent,knik0_faad2,2019-11-14 09:48:40 UTC,,,,,
+802057,PushEvent,knik0_faad2,2019-11-14 09:25:03 UTC,,,,,
+858159,PushEvent,knik0_faad2,2019-09-08 19:05:49 UTC,,,,,
+960643,PushEvent,knik0_faad2,2019-08-19 12:52:09 UTC,,,,,
+981239,PushEvent,knik0_faad2,2019-11-14 09:25:25 UTC,,,,,
+1089423,PushEvent,knik0_faad2,2019-09-22 20:07:50 UTC,,,,,
+1091616,PushEvent,knik0_faad2,2019-04-11 10:05:14 UTC,,,,,
+1127925,PushEvent,knik0_faad2,2019-09-03 14:16:40 UTC,,,,,
+1164537,PushEvent,knik0_faad2,2019-08-26 13:12:10 UTC,,,,,
+1261396,WatchEvent,knik0_faad2,2019-11-21 03:01:17 UTC,,,,,
+1309196,WatchEvent,knik0_faad2,2019-03-06 15:38:24 UTC,,,,,
+1323172,WatchEvent,knik0_faad2,2019-07-21 09:26:39 UTC,,,,,
+1411499,WatchEvent,knik0_faad2,2019-11-11 10:41:13 UTC,,,,,
+1605275,WatchEvent,knik0_faad2,2019-11-20 06:16:14 UTC,,,,,
+1611801,WatchEvent,knik0_faad2,2019-03-21 02:12:14 UTC,,,,,
+1630174,WatchEvent,knik0_faad2,2019-08-12 09:30:52 UTC,,,,,
+1645962,WatchEvent,knik0_faad2,2019-07-04 11:26:45 UTC,,,,,
+1654944,WatchEvent,knik0_faad2,2019-10-24 13:25:59 UTC,,,,,
+1688761,WatchEvent,knik0_faad2,2019-12-11 17:22:23 UTC,,,,,
+1734824,WatchEvent,knik0_faad2,2019-09-01 07:26:41 UTC,,,,,
+1760760,WatchEvent,knik0_faad2,2019-05-26 20:21:18 UTC,,,,,
+1767510,WatchEvent,knik0_faad2,2019-08-11 13:09:49 UTC,,,,,
+1767743,WatchEvent,knik0_faad2,2019-04-09 15:49:33 UTC,,,,,
+1820373,WatchEvent,knik0_faad2,2019-07-31 09:34:31 UTC,,,,,
+1875279,WatchEvent,knik0_faad2,2019-11-07 05:30:04 UTC,,,,,
+1922456,WatchEvent,knik0_faad2,2019-03-18 19:41:53 UTC,,,,,
+2023715,WatchEvent,knik0_faad2,2019-03-21 02:59:56 UTC,,,,,
+2164582,WatchEvent,knik0_faad2,2019-07-12 14:45:11 UTC,,,,,
+2187128,WatchEvent,knik0_faad2,2020-01-01 15:58:57 UTC,,,,,
+2190242,WatchEvent,knik0_faad2,2019-12-02 18:12:35 UTC,,,,,
+2194115,WatchEvent,knik0_faad2,2019-11-14 10:52:36 UTC,,,,,
+2222627,WatchEvent,knik0_faad2,2019-09-05 23:53:50 UTC,,,,,
+2367394,CreateEvent,knik0_faad2,2019-11-04 10:19:35 UTC,,,,,
+2394427,CreateEvent,knik0_faad2,2019-09-09 11:02:37 UTC,,,,,
+2523071,IssuesEvent,knik0_faad2,2019-08-20 14:00:30 UTC,,,,,
+2524265,IssuesEvent,knik0_faad2,2019-09-22 20:07:50 UTC,,,,,
+2538612,IssuesEvent,knik0_faad2,2019-05-06 12:40:05 UTC,,,,,
+2541250,IssuesEvent,knik0_faad2,2019-08-19 12:58:32 UTC,,,,,
+2542267,IssuesEvent,knik0_faad2,2019-09-22 07:55:53 UTC,,,,,
+2561132,IssuesEvent,knik0_faad2,2019-08-19 12:52:08 UTC,,,,,
+2584419,IssuesEvent,knik0_faad2,2019-08-20 12:52:46 UTC,,,,,
+2611066,IssuesEvent,knik0_faad2,2019-08-19 12:58:04 UTC,,,,,
+2614727,IssuesEvent,knik0_faad2,2019-05-17 08:37:44 UTC,,,,,
+2638044,IssuesEvent,knik0_faad2,2019-12-11 20:53:33 UTC,,,,,
+2668708,IssuesEvent,knik0_faad2,2019-04-11 10:05:13 UTC,,,,,
+2688653,IssuesEvent,knik0_faad2,2019-10-03 19:03:00 UTC,,,,,
+2704457,IssuesEvent,knik0_faad2,2019-08-20 17:59:23 UTC,,,,,
+2715593,IssuesEvent,knik0_faad2,2019-08-26 12:20:30 UTC,,,,,
+2743965,IssuesEvent,knik0_faad2,2019-05-05 08:29:32 UTC,,,,,
+2748715,IssuesEvent,knik0_faad2,2019-08-19 12:52:07 UTC,,,,,
+2748803,IssuesEvent,knik0_faad2,2019-08-26 12:20:30 UTC,,,,,
+2757345,IssuesEvent,knik0_faad2,2020-01-13 23:59:45 UTC,,,,,
+2764995,IssuesEvent,knik0_faad2,2019-08-19 12:52:08 UTC,,,,,
+2772850,IssuesEvent,knik0_faad2,2019-05-06 12:39:14 UTC,,,,,
+2831872,IssuesEvent,knik0_faad2,2019-12-11 17:49:18 UTC,,,,,
+2842118,IssuesEvent,knik0_faad2,2019-05-06 12:40:35 UTC,,,,,
+2871797,IssuesEvent,knik0_faad2,2019-10-03 19:03:10 UTC,,,,,
+2889434,IssuesEvent,knik0_faad2,2019-04-11 10:05:14 UTC,,,,,
+2918874,IssuesEvent,knik0_faad2,2019-08-26 12:20:31 UTC,,,,,
+2919961,IssuesEvent,knik0_faad2,2019-05-06 12:39:52 UTC,,,,,
+2927706,IssuesEvent,knik0_faad2,2019-08-19 17:49:09 UTC,,,,,
+2933841,IssuesEvent,knik0_faad2,2019-08-20 13:08:37 UTC,,,,,
+2962591,PullRequestEvent,knik0_faad2,2019-05-25 06:36:31 UTC,,,,,
+2974515,PullRequestEvent,knik0_faad2,2019-08-19 16:43:57 UTC,,,,,
+3002952,PullRequestEvent,knik0_faad2,2019-08-26 12:20:30 UTC,,,,,
+3009395,PullRequestEvent,knik0_faad2,2019-06-11 09:06:51 UTC,,,,,
+3071442,PullRequestEvent,knik0_faad2,2019-11-13 23:59:30 UTC,,,,,
+3121057,PullRequestEvent,knik0_faad2,2019-08-19 12:52:07 UTC,,,,,
+3155456,PullRequestEvent,knik0_faad2,2019-09-08 19:05:48 UTC,,,,,
+3228001,PullRequestEvent,knik0_faad2,2019-11-14 09:25:03 UTC,,,,,
+3269714,PullRequestEvent,knik0_faad2,2019-11-14 00:01:41 UTC,,,,,
+3291747,PullRequestEvent,knik0_faad2,2019-11-14 00:02:50 UTC,,,,,
+3341426,PullRequestEvent,knik0_faad2,2019-11-14 09:25:25 UTC,,,,,
+3374656,PullRequestEvent,knik0_faad2,2019-04-11 10:05:13 UTC,,,,,
+3407786,PullRequestEvent,knik0_faad2,2019-06-11 08:30:41 UTC,,,,,
+3446348,PullRequestEvent,knik0_faad2,2019-09-03 14:16:39 UTC,,,,,
+3496905,PullRequestEvent,knik0_faad2,2019-11-14 09:48:39 UTC,,,,,
+3512369,PullRequestEvent,knik0_faad2,2019-09-07 14:55:50 UTC,,,,,
+3519971,PullRequestEvent,knik0_faad2,2019-02-25 12:49:16 UTC,,,,,
+3560270,IssueCommentEvent,knik0_faad2,2019-08-19 16:44:20 UTC,,,,,
+3594444,IssueCommentEvent,knik0_faad2,2019-08-27 13:31:51 UTC,,,,,
+3604261,IssueCommentEvent,knik0_faad2,2019-08-27 16:37:43 UTC,,,,,
+3620612,IssueCommentEvent,knik0_faad2,2019-06-09 10:19:04 UTC,,,,,
+3642742,IssueCommentEvent,knik0_faad2,2019-02-25 12:53:23 UTC,,,,,
+3662826,IssueCommentEvent,knik0_faad2,2019-12-12 11:31:38 UTC,,,,,
+3715872,IssueCommentEvent,knik0_faad2,2019-05-06 12:39:14 UTC,,,,,
+3728625,IssueCommentEvent,knik0_faad2,2019-08-10 13:43:25 UTC,,,,,
+3755743,IssueCommentEvent,knik0_faad2,2019-08-26 12:52:01 UTC,,,,,
+3779775,IssueCommentEvent,knik0_faad2,2019-08-19 12:57:27 UTC,,,,,
+3791645,IssueCommentEvent,knik0_faad2,2019-12-12 05:29:08 UTC,,,,,
+3795653,IssueCommentEvent,knik0_faad2,2019-08-11 10:28:29 UTC,,,,,
+3829318,IssueCommentEvent,knik0_faad2,2019-08-18 15:28:36 UTC,,,,,
+3846580,IssueCommentEvent,knik0_faad2,2019-05-06 12:40:34 UTC,,,,,
+3867406,IssueCommentEvent,knik0_faad2,2019-05-05 10:25:06 UTC,,,,,
+3875633,IssueCommentEvent,knik0_faad2,2019-08-18 14:52:44 UTC,,,,,
+3888306,IssueCommentEvent,knik0_faad2,2019-06-09 07:48:47 UTC,,,,,
+3919318,IssueCommentEvent,knik0_faad2,2019-04-26 11:28:03 UTC,,,,,
+3992848,IssueCommentEvent,knik0_faad2,2019-06-09 06:58:27 UTC,,,,,
+4008864,IssueCommentEvent,knik0_faad2,2019-08-20 14:05:20 UTC,,,,,
+4023095,IssueCommentEvent,knik0_faad2,2019-08-10 13:13:05 UTC,,,,,
+4085845,IssueCommentEvent,knik0_faad2,2019-10-03 19:03:00 UTC,,,,,
+4099359,IssueCommentEvent,knik0_faad2,2019-02-15 16:42:41 UTC,,,,,
+4141137,IssueCommentEvent,knik0_faad2,2019-08-19 12:53:50 UTC,,,,,
+4160716,IssueCommentEvent,knik0_faad2,2019-08-10 13:48:09 UTC,,,,,
+4185410,IssueCommentEvent,knik0_faad2,2019-06-11 08:34:50 UTC,,,,,
+4207801,IssueCommentEvent,knik0_faad2,2019-08-20 12:48:53 UTC,,,,,
+4267686,IssueCommentEvent,knik0_faad2,2019-08-11 09:59:30 UTC,,,,,
+4284657,IssueCommentEvent,knik0_faad2,2019-08-18 15:21:11 UTC,,,,,
+4361319,IssueCommentEvent,knik0_faad2,2019-05-05 10:02:50 UTC,,,,,
+4373592,IssueCommentEvent,knik0_faad2,2019-04-10 17:00:52 UTC,,,,,
+4445792,IssueCommentEvent,knik0_faad2,2019-12-12 08:39:51 UTC,,,,,
+4447818,IssueCommentEvent,knik0_faad2,2019-08-20 17:11:48 UTC,,,,,
+4479686,IssueCommentEvent,knik0_faad2,2019-05-05 10:10:22 UTC,,,,,
+4495655,IssueCommentEvent,knik0_faad2,2019-05-05 11:41:53 UTC,,,,,
+4519418,IssueCommentEvent,knik0_faad2,2019-02-11 18:01:55 UTC,,,,,
+4643642,IssueCommentEvent,knik0_faad2,2019-09-22 08:03:27 UTC,,,,,
+4742638,IssueCommentEvent,knik0_faad2,2019-06-09 07:54:51 UTC,,,,,
+4760239,IssueCommentEvent,knik0_faad2,2019-05-06 12:42:32 UTC,,,,,
+4768353,IssueCommentEvent,knik0_faad2,2019-12-12 10:54:16 UTC,,,,,
+4785831,IssueCommentEvent,knik0_faad2,2019-08-23 12:30:10 UTC,,,,,
+4834765,IssueCommentEvent,knik0_faad2,2019-02-15 15:13:14 UTC,,,,,
+4868710,IssueCommentEvent,knik0_faad2,2019-09-22 20:09:26 UTC,,,,,
+4868715,IssueCommentEvent,knik0_faad2,2019-06-11 09:06:51 UTC,,,,,
+4942798,IssueCommentEvent,knik0_faad2,2019-08-19 15:56:35 UTC,,,,,
+4956633,IssueCommentEvent,knik0_faad2,2019-06-09 07:29:37 UTC,,,,,
+4992555,IssueCommentEvent,knik0_faad2,2019-08-19 12:58:04 UTC,,,,,
+5003467,IssueCommentEvent,knik0_faad2,2019-10-03 19:03:10 UTC,,,,,
+5035957,IssueCommentEvent,knik0_faad2,2019-04-11 08:51:55 UTC,,,,,
+5048425,IssueCommentEvent,knik0_faad2,2019-05-06 12:40:05 UTC,,,,,
+5093610,IssueCommentEvent,knik0_faad2,2019-05-05 10:16:39 UTC,,,,,
+5094423,IssueCommentEvent,knik0_faad2,2019-09-08 19:06:09 UTC,,,,,
+5107892,IssueCommentEvent,knik0_faad2,2019-08-18 15:09:36 UTC,,,,,
+5122655,IssueCommentEvent,knik0_faad2,2019-05-05 18:51:42 UTC,,,,,
+5122659,IssueCommentEvent,knik0_faad2,2019-08-20 17:59:23 UTC,,,,,
+5130494,IssueCommentEvent,knik0_faad2,2019-05-05 10:25:46 UTC,,,,,
+5171262,IssueCommentEvent,knik0_faad2,2019-05-06 12:20:10 UTC,,,,,
+5183583,IssueCommentEvent,knik0_faad2,2019-09-23 10:35:56 UTC,,,,,
+5190529,IssueCommentEvent,knik0_faad2,2019-12-12 10:20:13 UTC,,,,,
+5226232,IssueCommentEvent,knik0_faad2,2019-08-26 12:21:10 UTC,,,,,
+5236537,IssueCommentEvent,knik0_faad2,2019-03-04 09:51:09 UTC,,,,,
+5246007,IssueCommentEvent,knik0_faad2,2019-12-11 20:53:33 UTC,,,,,
+5282700,IssueCommentEvent,knik0_faad2,2019-08-19 12:59:08 UTC,,,,,
+5282703,IssueCommentEvent,knik0_faad2,2019-08-20 13:08:36 UTC,,,,,
+5287627,IssueCommentEvent,knik0_faad2,2019-08-27 16:40:53 UTC,,,,,
+5291415,IssueCommentEvent,knik0_faad2,2019-08-20 13:03:52 UTC,,,,,
+5311566,IssueCommentEvent,knik0_faad2,2019-08-20 12:52:45 UTC,,,,,
+5313240,IssueCommentEvent,knik0_faad2,2019-08-19 12:58:32 UTC,,,,,
+5326071,IssueCommentEvent,knik0_faad2,2019-06-08 21:42:23 UTC,,,,,
+5385161,IssueCommentEvent,knik0_faad2,2019-08-19 17:49:09 UTC,,,,,
+5398151,IssueCommentEvent,knik0_faad2,2019-08-26 13:02:31 UTC,,,,,
+5416438,IssueCommentEvent,knik0_faad2,2019-04-07 13:06:55 UTC,,,,,
+5439841,IssueCommentEvent,knik0_faad2,2019-08-18 15:10:30 UTC,,,,,
+5452251,IssueCommentEvent,knik0_faad2,2019-11-14 09:25:08 UTC,,,,,
+5453895,IssueCommentEvent,knik0_faad2,2019-08-19 17:47:32 UTC,,,,,
+5454315,IssueCommentEvent,knik0_faad2,2019-08-10 13:44:59 UTC,,,,,
+5528111,IssueCommentEvent,knik0_faad2,2019-08-27 22:44:24 UTC,,,,,
+5551197,IssueCommentEvent,knik0_faad2,2019-05-06 12:39:51 UTC,,,,,
+5553727,IssueCommentEvent,knik0_faad2,2019-08-10 12:37:16 UTC,,,,,
+5572239,IssueCommentEvent,knik0_faad2,2019-04-07 11:02:44 UTC,,,,,
+5601794,IssueCommentEvent,knik0_faad2,2019-11-14 09:25:29 UTC,,,,,
+5624675,PullRequestReviewCommentEvent,knik0_faad2,2019-03-04 09:46:05 UTC,,,,,
+5704776,PullRequestReviewCommentEvent,knik0_faad2,2019-04-19 10:24:56 UTC,,,,,
+5929225,PullRequestReviewCommentEvent,knik0_faad2,2019-04-12 06:55:59 UTC,,,,,
+5975690,PullRequestReviewCommentEvent,knik0_faad2,2019-04-12 07:44:23 UTC,,,,,
+5976760,PullRequestReviewCommentEvent,knik0_faad2,2019-04-11 07:58:57 UTC,,,,,
+6059908,PullRequestReviewCommentEvent,knik0_faad2,2019-11-14 09:34:23 UTC,,,,,
+0,Commit,knik0_faad2,2022-10-20 19:59:26,3918dee56063500d0aa23d6c3c94b211ac471a8c,10.0,1.0,2.0,0.0
+1,Commit,knik0_faad2,2021-07-27 11:36:28,a65ecabd13a6b991781d75856e1b6870ce00fc70,1.0,1.0,1.0,0.0
+2,Commit,knik0_faad2,2020-10-20 06:24:05,f97f6e933a4ee3cf00b4e1ba4e3a1f05bc9de165,26.0,1.0,2.0,0.0
+3,Commit,knik0_faad2,2020-10-09 14:00:22,4ed30d3d232b6a7a150cc06aed14eb47e4eda14e,4.0,0.0,1.0,0.0
+4,Commit,knik0_faad2,2020-10-09 14:00:22,b58840121d1827b4b6c7617e2431589af1776ddc,24.0,0.0,1.0,0.0
+5,Commit,knik0_faad2,2020-10-08 01:33:44,34534b2fd4d9ba5b89d4514770e6739fa651131d,21.0,13.0,1.0,0.0
+6,Commit,knik0_faad2,2020-10-08 01:33:44,072b7889bc5a2e8c18d4aa4dc4a30529b2d83488,2.0,0.0,1.0,0.0
+7,Commit,knik0_faad2,2020-10-08 01:33:44,9facdf1b7641dde54829c84a14fdfcc1258c655a,7.0,1.0,1.0,0.0
+8,Commit,knik0_faad2,2020-10-06 07:26:55,ef7a59d2ff64dce6ac53b091cf86ad099efad0f7,8.0,2.0,3.0,0.0
+9,Commit,knik0_faad2,2020-10-05 11:54:53,2783bdac5d524a0574b7eca273e8ca6b9a6b8014,11.0,9.0,1.0,0.0
+10,Commit,knik0_faad2,2020-10-05 11:54:53,fd7a5f8ba3b130319bc184ada17a77a08be5cd56,1.0,1.0,1.0,0.0
+11,Commit,knik0_faad2,2020-10-05 11:54:53,d35cf8f24d55112451074424f8896e695ce9ee6b,7.0,3.0,1.0,0.0
+12,Commit,knik0_faad2,2020-10-05 11:10:54,c78251b2b5d41ea840fd61ab9502b3d3036bd747,19.0,1.0,3.0,0.0
+13,Commit,knik0_faad2,2020-10-05 11:10:48,e19a5e491354e0e4664d02b796dacee28fb2521e,4.0,1.0,1.0,0.0
+14,Commit,knik0_faad2,2020-09-04 03:39:06,0a84fa364cde28641e64129fe1035a6f4313416d,851.0,851.0,131.0,0.0
+15,Commit,knik0_faad2,2020-09-04 03:21:57,cd14b6052a08ee0d0419ccdd2d78f4156f159c92,3.0,3.0,2.0,0.0
+16,Commit,knik0_faad2,2020-08-31 08:02:37,1b71a6ba963d131375f5e489b3b25e36f19f3f24,4.0,1.0,1.0,1.0
+17,Commit,knik0_faad2,2020-08-17 05:37:09,1073aeef823cafd844704389e9a497c257768e2f,1.0,0.0,1.0,0.0
+18,Commit,knik0_faad2,2020-05-04 19:53:45,f13d8d0c279dd84018365f7944a00cbfee0ba712,28.0,1.0,2.0,0.0
+19,Commit,knik0_faad2,2020-04-28 11:20:48,793d77ad81eb0782fa91dd6337a3e44fb238188f,18.0,0.0,4.0,0.0
+20,Commit,knik0_faad2,2020-04-24 08:55:44,79b9ff97f8c809f0bdd7e02ff8053aeb4e6b498b,7.0,1.0,1.0,0.0
+21,Commit,knik0_faad2,2020-04-23 21:48:05,5cc622b87a85467a804572f9b621b5a1d63ee3d8,3.0,1.0,1.0,0.0
+22,Commit,knik0_faad2,2020-04-23 10:25:30,25fbe5d61b3745fd0f00d962334232b72e09b644,2.0,2.0,2.0,0.0
+23,Commit,knik0_faad2,2020-03-11 14:43:53,00aa7320472c2c7fa55337dc170242ff49b66ee8,0.0,2.0,1.0,0.0
+24,Commit,knik0_faad2,2019-12-12 13:04:41,6494791b6bd4bd644ca9aecb7f1b9b7ade79c925,10.0,26.0,1.0,0.0
+25,Commit,knik0_faad2,2019-11-14 00:02:10,3aba163b9b729a5d8c2856f425fb41e50fafc76b,4.0,4.0,1.0,0.0
+26,Commit,knik0_faad2,2019-11-14 00:00:42,6aed840902284cb896d253801e0b078f06018c9d,2.0,2.0,2.0,0.0
+27,Commit,knik0_faad2,2019-11-04 10:22:03,043d37b60cdded2abed7c4054f954e6f9f5cada6,6.0,1.0,2.0,0.0
+28,Commit,knik0_faad2,2019-10-02 10:51:10,7c3e60a51492f6a88525d0c419d1841920aab987,1.0,1.0,1.0,0.0
+29,Commit,knik0_faad2,2019-09-22 20:07:38,fae8a83584faaf9fadac76a1611b489aed7ab427,1.0,0.0,1.0,0.0
+30,Commit,knik0_faad2,2019-09-09 10:28:33,365532ebc7772464a1aa17cefd3bfdce6648266d,1.0,1.0,1.0,0.0
+31,Commit,knik0_faad2,2019-09-09 10:20:25,b20a5d2a6fab63219981bdb29de74bf280f14451,7.0,13.0,1.0,0.0
+32,Commit,knik0_faad2,2019-09-07 14:49:57,1e1d4477c7fda07ea5117a5cd706c579abe7b652,12.0,11.0,1.0,0.0
+33,Commit,knik0_faad2,2019-09-04 08:59:49,9332789ad9810f833f8007eabf3970d249a1c8fa,47.0,0.0,1.0,0.0
+34,Commit,knik0_faad2,2019-08-26 13:11:40,a2c4357825c73ef93133df2152be0d6bb6ad8343,5.0,1.0,1.0,0.0
+35,Commit,knik0_faad2,2019-08-23 12:17:48,6823e6610c9af1b0080cb22b9da03efb208d7d57,14.0,0.0,1.0,0.0
+36,Commit,knik0_faad2,2019-08-19 15:24:55,3b80a57483a6bc822d3ce3cc640fa81737a87c54,9.0,9.0,1.0,0.0
+37,Commit,knik0_faad2,2019-08-10 13:06:51,6aeeaa1af0caf986daf22852a97f7c13c5edd879,4.0,2.0,2.0,0.0
+38,Commit,knik0_faad2,2019-08-10 13:06:47,805be6bd1e0670916a41d0cd33623608b44f78a2,13.0,6.0,1.0,0.0
+39,Commit,knik0_faad2,2019-06-11 15:03:27,920ec985a74c6f88fe507181df07a0cd7e51d519,4.0,1.0,1.0,0.0
+40,Commit,knik0_faad2,2019-06-10 11:59:49,f1f8e002622196de3aa650163e5dc2888ebc7a63,2.0,2.0,1.0,0.0
+41,Commit,knik0_faad2,2019-06-10 11:58:40,942c3e0aee748ea6fe97cb2c1aa5893225316174,6.0,1.0,2.0,1.0
+42,Commit,knik0_faad2,2019-05-05 08:31:12,b9862e2e3d585d1de25143b27ca19df79e9921c5,6.0,1.0,1.0,0.0
+43,Commit,knik0_faad2,2019-04-11 07:43:50,6b4a7cde30f2e2cb03e78ef476cc73179cfffda3,18.0,0.0,1.0,0.0
+44,Commit,knik0_faad2,2019-04-11 07:27:56,466b01d504d7e45f1e9169ac90b3e34ab94aed14,12.0,0.0,1.0,0.0
+45,Commit,knik0_faad2,2018-08-04 11:22:00,5d380279cb00ea7a8b24f647f3790a1fc5342731,1.0,0.0,1.0,0.0
+46,Commit,knik0_faad2,2018-08-04 11:21:44,b591c73a97034b44161220814944ebc9fdc91467,8.0,0.0,1.0,0.0
+47,Commit,knik0_faad2,2017-12-22 20:04:35,b85c7449be81f0f707dca329c2fc67733d4c6856,1.0,1.0,1.0,0.0
+48,Commit,knik0_faad2,2017-12-21 11:58:42,5dd845076324d829f6f977deb940eeba97fd3500,1.0,7.0,1.0,0.0
+49,Commit,knik0_faad2,2017-12-21 11:58:09,58fff5ceabc652747240a8fd2b929f33da192947,12.0,10.0,1.0,0.0
+50,Commit,knik0_faad2,2017-12-21 00:34:00,8e28afb1d0ccc92d47cb852401049b5bca9be9ba,3.0,1.0,1.0,0.0
+51,Commit,knik0_faad2,2017-12-19 14:41:54,f930bf895924ffacfbe88662f139508aaf1cc337,1.0,1.0,1.0,0.0
+52,Commit,knik0_faad2,2017-12-19 14:40:48,5530ffdfa6e9d89f5956b8a0901b5d168ce7d46b,1.0,5816.0,21.0,0.0
+53,Commit,knik0_faad2,2017-12-19 12:16:37,ebec9f94879fcb6390a7a1ada2d596a446af1d78,86.0,83.0,1.0,0.0
+54,Commit,knik0_faad2,2017-12-19 12:02:21,678aaac12a93ea496bb037730a1c13db73e70924,37.0,36.0,3.0,0.0
+55,Commit,knik0_faad2,2017-12-17 19:54:42,334e7647a5f31903aca33dde39bb8683e9d8cccd,1.0,1.0,1.0,0.0
+56,Commit,knik0_faad2,2017-12-17 19:54:26,40617a1c0d16fdd9b2b047f40ae92c5d240541c3,1.0,1.0,1.0,0.0
+57,Commit,knik0_faad2,2017-12-17 16:25:41,20a0a2675017c51034c173dcf5b5ad00f255e51c,4.0,1.0,2.0,0.0
+58,Commit,knik0_faad2,2017-12-17 16:21:09,c3c99389869f2db2532ba512842edc8ada3c6878,1.0,1.0,1.0,0.0
+59,Commit,knik0_faad2,2017-12-17 13:54:23,ce72f5808b085c0c3525cc8869c42e9503184b77,138.0,22.0,10.0,0.0
+60,Commit,knik0_faad2,2017-12-17 11:30:04,5e500e977f018a9b61ea4624d61b3fcb774aad0f,1.0,1.0,1.0,0.0
+61,Commit,knik0_faad2,2017-12-16 19:59:34,623026a394cfb634788f8f238084b932674ede56,2.0,7.0,4.0,0.0
+62,Commit,knik0_faad2,2017-12-16 18:47:46,372b2e44049f355c52c13d75112db9f14d0ae4f7,5.0,4.0,1.0,0.0
+63,Commit,knik0_faad2,2017-12-16 18:45:34,00adf5c33e051fcb97b91d4a530efe59fe0eb14a,7.0,2.0,1.0,0.0
+64,Commit,knik0_faad2,2017-12-16 18:44:24,435ec28d156b4db5362d442e67dce50028dc6462,258.0,12.0,5.0,0.0
+65,Commit,knik0_faad2,2017-12-16 18:43:55,5a036511227b01a6957fe8e42016b5552ac9f7a6,15.0,3.0,1.0,0.0
+66,Commit,knik0_faad2,2017-10-10 09:58:17,f27df30594f3751d36c95f9d2e58a42a924b3413,2.0,1.0,2.0,0.0
+67,Commit,knik0_faad2,2017-10-09 19:32:08,9fb50f9fd80aad6057f6cfb272cbe6785e2c1ff7,1.0,1.0,1.0,0.0
+68,Commit,knik0_faad2,2017-10-09 19:28:16,983a1533c9698afec7d466aa5f83eb98ac34d9e9,0.0,0.0,0.0,0.0
+69,Commit,knik0_faad2,2017-10-09 18:55:27,cec452c072eae96907165f19500927b353b7e239,32.0,36.0,3.0,0.0
+70,Commit,knik0_faad2,2017-10-07 09:13:05,66fe7de70d3ab468a7cd4229c82ca5839bf05d5c,34.0,32.0,3.0,0.0
+71,Commit,knik0_faad2,2017-10-06 09:30:00,1111ed43e82eaea2b93f4e4e99914807fe772776,0.0,0.0,0.0,0.0
+72,Commit,knik0_faad2,2017-10-06 09:26:54,2e9e68b17558372963789ec8fbc9ea81c18683e9,34.0,37.0,3.0,0.0
+73,Commit,knik0_faad2,2017-10-05 21:20:58,022b3e5c4ef3f7a557bf262d2ca4eff276a1a96c,6.0,6.0,2.0,0.0
+74,Commit,knik0_faad2,2017-10-05 21:20:29,bdab10530bb74ecc469dd748a845ea148c697e22,1239.0,2362.0,19.0,0.0
+75,Commit,knik0_faad2,2017-09-30 12:33:36,f62f22614702bb84c7522b34bc426644162ab27c,1.0,1.0,1.0,0.0
+76,Commit,knik0_faad2,2017-09-30 07:44:01,4e60057dc01af9efe227dc8b746eee6f24883654,4.0,2.0,3.0,0.0
+77,Commit,knik0_faad2,2017-09-29 11:32:43,44419c988300f1567119da8a07561fa3c289b202,2.0,0.0,1.0,0.0
+78,Commit,knik0_faad2,2017-09-29 11:20:37,35fffb62eea3de4c5793f48c0a14b682e223158b,2.0,2.0,2.0,0.0
+79,Commit,knik0_faad2,2017-09-23 13:08:31,e899f1d443f1481c9500b70ebf6e0d1c0a55a41d,3.0,1.0,2.0,0.0
+80,Commit,knik0_faad2,2017-09-23 13:06:28,d34519c54bfc7c76a5a68b0e8831a9ad5ad49458,4.0,2.0,2.0,0.0
+81,Commit,knik0_faad2,2017-09-23 09:02:41,de3ae8b40dea36ec825fd1b55b2e5968e711be9e,17.0,16.0,1.0,0.0
+82,Commit,knik0_faad2,2017-09-22 10:06:15,37d7acc5606f69a36e634c9a3f0f780d6bb57d75,2.0,1.0,2.0,0.0
+83,Commit,knik0_faad2,2017-09-16 08:35:24,1b7910fedc996e71e37dac9cd1de05f727ec9b58,3.0,2.0,2.0,0.0
+84,Commit,knik0_faad2,2017-09-06 10:16:44,da52b8d1570c8bdd83d19ad0dc2dd4ce9d81aff5,1.0,1.0,1.0,0.0
+85,Commit,knik0_faad2,2017-09-06 09:57:52,fbd505b3433c8ce0e4694413e079caaae9c5b99d,2.0,3.0,2.0,0.0
+86,Commit,knik0_faad2,2017-08-09 14:06:59,e2d3ad8e2ba155aa097735c4b0376f361521fbc2,7.0,1.0,1.0,0.0
+87,Commit,knik0_faad2,2017-07-26 12:04:45,706209c9be5a157ca0dd215358eeb9c0aceb00a6,0.0,2.0,1.0,0.0
+88,Commit,knik0_faad2,2017-07-26 10:14:01,8d045444cb72091b8b479684ffe7ee8e662afb43,1118.0,158.0,5.0,0.0
+89,Commit,knik0_faad2,2017-07-20 10:14:35,f58984cbceb6dd62589069f9b7e8ae5425c3438c,2.0,0.0,1.0,0.0
+90,Commit,knik0_faad2,2017-07-19 12:08:07,ce90f3b2c478d0b94caa721f3e008e96dfe298f2,1.0,1.0,1.0,0.0
+91,Commit,knik0_faad2,2017-07-19 11:56:51,3a59b952c68379bc460072d3f1fb8613239a81af,8.0,0.0,1.0,0.0
+92,Commit,knik0_faad2,2017-07-19 11:55:54,10c4ca7ae1e5c28c22e2ad438a73f9e2243f9a6f,30.0,11.0,3.0,0.0
+93,Commit,knik0_faad2,2017-07-17 12:37:38,6c2b587f9d120e591fca74dee60b3f320f1c6099,1.0,1.0,1.0,0.0
+94,Commit,knik0_faad2,2017-07-17 12:04:50,3e8a74a0dee05e300b4b5b723e43545b451ff0dd,1.0,1.0,1.0,0.0
+95,Commit,knik0_faad2,2017-07-17 12:02:28,d8e1ff74089f3a0125bcf56c0c1797015feeb0c9,0.0,4.0,1.0,0.0
+96,Commit,knik0_faad2,2017-07-17 10:52:53,0c3e2b52ee8003b52ba13fa487573223d38489f5,1.0,28.0,2.0,0.0
+97,Commit,knik0_faad2,2017-07-17 07:28:47,a67c75ed600cf4b41205d69664d3d9106e9c5380,197.0,136.0,6.0,0.0
+98,Commit,knik0_faad2,2017-07-16 06:29:02,062400233caf4dffbb462c8c0dc071fc2483bea2,11.0,96.0,5.0,0.0
+99,Commit,knik0_faad2,2017-07-14 08:49:28,ef31633af61cd197e50a65893c85a3b36c2c3025,55.0,53.0,5.0,0.0
+100,Commit,knik0_faad2,2017-07-13 05:45:33,85420dc7813c4b7da372df15275154aa5bbc8b0a,6.0,0.0,1.0,0.0
+101,Commit,knik0_faad2,2017-07-12 08:06:57,7c348bdbd1424d5a088507b9cca665bf9609b040,42.0,52.0,5.0,0.0
+102,Commit,knik0_faad2,2017-07-11 06:12:10,09b0228f634999f13995d9a4cf47142098aff3bd,85.0,16.0,3.0,0.0
+103,Commit,knik0_faad2,2017-07-10 13:50:07,cfb21cfbafc8cabe978f938d75ea8b0ce6c4295c,31.0,7.0,2.0,0.0
+104,Commit,knik0_faad2,2017-07-10 13:38:26,8e846b64725b1462f66e419159fca9a74d2026d6,2.0,2.0,1.0,0.0
+105,Commit,knik0_faad2,2017-07-10 13:31:10,c9daaeb229aa629e7a39aaaf2d3d99e0a7eb9be4,25.0,5.0,1.0,0.0
+106,Commit,knik0_faad2,2017-07-07 12:17:29,25e39415cd46dc226023bc46a235e535e212f051,1.0,1.0,1.0,0.0
+107,Commit,knik0_faad2,2017-07-06 19:04:16,5739fd20e16ae618d7021410c87de1a083e96c36,1.0,1.0,1.0,0.0
+108,Commit,knik0_faad2,2017-07-06 18:56:59,99773883dfcc541d4edfdcfa555ebc19ad8e8cca,2.0,0.0,1.0,0.0
+109,Commit,knik0_faad2,2017-07-06 18:35:21,6c435a74980d7f5397425a78fea262bf3e65bc70,14.0,6.0,5.0,0.0
+110,Commit,knik0_faad2,2017-07-05 18:04:04,3256f1739824a7a8f1dc1d7d90d4ea1e7af5c06f,0.0,0.0,1.0,0.0
+111,Commit,knik0_faad2,2017-07-04 16:41:35,a5f9bb807e1ed1597213378532304de44d6ef0e4,0.0,0.0,1.0,0.0
+112,Commit,knik0_faad2,2017-07-04 16:30:19,85f3e2e78cf7acc0eb0f2331229565d99d3544ac,9.0,0.0,1.0,0.0
+113,Commit,knik0_faad2,2017-07-03 11:55:17,eac0bcb0a1566acdd24a20344b57d66942b5bb8d,6.0,5.0,4.0,0.0
+114,Commit,knik0_faad2,2016-11-11 11:25:58,f84bc9bf3c47e900923afb18795dcf6822bbc330,2.0,2.0,1.0,0.0
+115,Commit,knik0_faad2,2015-02-22 10:09:29,b44f998fd131d47960f6bf97b290e7b7cff9d767,3.0,3.0,1.0,0.0
+116,Commit,knik0_faad2,2015-01-26 17:48:53,37365c52f772209be58bad1f7acace60cf54e26b,3.0,1.0,1.0,0.0
+117,Commit,knik0_faad2,2015-01-24 14:21:05,712d0cf914f258be501344d116f6a461fcaecb86,4.0,1.0,1.0,0.0
+118,Commit,knik0_faad2,2015-01-22 10:04:06,7d0b06cb0ac64a0e9249e67a2addbc4df7c80bde,1.0,1.0,1.0,0.0
+119,Commit,knik0_faad2,2015-01-22 09:40:52,00cea4f4df3c204869b0102a76ec4cfb44ff9e21,5.0,3.0,1.0,0.0
+120,Commit,knik0_faad2,2015-01-22 08:55:49,157eb063acc5492fbb9d5e871ba584840124959d,4.0,4.0,1.0,0.0
+121,Commit,knik0_faad2,2015-01-19 09:46:12,023295e070a26f9b025383ea5c19ba3a4b0e5e86,13.0,6.0,1.0,0.0
+122,Commit,knik0_faad2,2014-11-25 07:42:50,802af12a9125ff1d17efbcc4ca920fd2dcaecb99,531.0,0.0,1.0,0.0
+123,Commit,knik0_faad2,2014-11-10 08:10:37,881b5e263f25a8a8b714e83407fc2c9dab407e40,6.0,1.0,1.0,0.0
+124,Commit,knik0_faad2,2012-03-04 09:59:02,720f7004d6c4aabee19aad16e7c456ed76a3ebfa,36.0,4.0,1.0,1.0
+125,Commit,knik0_faad2,2012-03-02 15:29:47,bfab0b0a72a8b1c233b09fe37afa1263f241ca03,10.0,5.0,2.0,0.0
+126,Commit,knik0_faad2,2012-03-02 15:28:44,ae68cd1f2bf299003b5d6efabaf285f7ae9208a3,137.0,31.0,1.0,0.0
+127,Commit,knik0_faad2,2012-03-02 15:27:10,35b2e5b093e8c753a5a36dfbf5f9276b9935116d,2.0,2.0,1.0,0.0
+128,Commit,knik0_faad2,2012-03-02 15:25:24,39dd3421427254429d49025cb692e1e5fb258132,2.0,2.0,1.0,0.0
+129,Commit,knik0_faad2,2010-06-04 20:47:56,41a763e53557af499b4885d647641cbaeb276f56,33.0,32.0,2.0,0.0
+130,Commit,knik0_faad2,2009-10-12 21:06:24,b42afd421a3be5fc11319a58f5828fe2661a988e,2.0,0.0,1.0,0.0
+131,Commit,knik0_faad2,2009-07-27 18:12:04,d32a490091094c6c84e0dbc9c39c0c47daa8f817,1.0,1.0,1.0,0.0
+132,Commit,knik0_faad2,2009-06-05 16:32:27,a8e8a915d3d2f3071b43a8ffcff91f6d464173a1,5.0,3.0,2.0,0.0
+133,Commit,knik0_faad2,2009-03-09 21:22:22,42b2e4697882503c5dcdc6ddfcfb138ebefc5f7a,59.0,16.0,3.0,0.0
+134,Commit,knik0_faad2,2009-02-06 16:03:37,f04f98d216797a099b0e6234b8fe85bd7dd23807,1.0,0.0,1.0,0.0
+135,Commit,knik0_faad2,2009-02-06 14:24:21,b54f42f0eedb7f69c13b1a316fef5b0b57d11bd0,1.0,2.0,1.0,0.0
+136,Commit,knik0_faad2,2009-02-06 03:39:58,66d2a35dec86f0208f6cfc29642aefc7977458ae,4.0,4.0,1.0,0.0
+137,Commit,knik0_faad2,2009-02-05 00:51:03,0878897bd04eaf93099d56ddc663f9f6440550c2,25.0,16.0,5.0,0.0
+138,Commit,knik0_faad2,2009-02-02 23:37:32,583b72bd587731822ed92ff2784cc365244842ec,7.0,164.0,2.0,0.0
+139,Commit,knik0_faad2,2009-01-29 00:41:08,bf186d7ca12a7f1cf6240f3e860fcb860914e824,6.0,1.0,2.0,0.0
+140,Commit,knik0_faad2,2009-01-26 23:51:17,c320c723ba96e15c3f172ed4e21de3102d9f4868,151.0,323.0,17.0,0.0
+141,Commit,knik0_faad2,2009-01-26 23:01:41,d2f41a3b8c3dc8d6cf89d652cc2b28222df84c72,87.0,2.0,2.0,0.0
+142,Commit,knik0_faad2,2009-01-26 22:51:44,815548b57ccb4f5813c405b9fd23566642e5a520,11.0,11.0,3.0,0.0
+143,Commit,knik0_faad2,2009-01-26 22:32:31,bb4d5f6e30689298bab8060996cc20e4ec689588,27.0,25.0,4.0,0.0
+144,Commit,knik0_faad2,2009-01-25 20:32:41,e1d13b171c77ab0f1b9fc4ae2d43b263094b7fcf,0.0,4521.0,16.0,0.0
+145,Commit,knik0_faad2,2009-01-25 20:25:29,220c2d5ae2a847b59fa5fc27cfdbe5f55934cc54,716.0,4722.0,28.0,0.0
+146,Commit,knik0_faad2,2009-01-25 20:14:34,b98919ac46cb331ea5fcd6bd4c30db272e6f4a63,9.0,54.0,2.0,0.0
+147,Commit,knik0_faad2,2009-01-25 18:33:52,9e74e752b2f9a7f892b7f1f1c064d56496d7bbf4,1.0,1.0,1.0,0.0
+148,Commit,knik0_faad2,2009-01-19 23:56:30,cf4fcaf9b455557ed99725b662cd81d3160da268,69.0,8.0,3.0,0.0
+149,Commit,knik0_faad2,2008-12-23 01:24:49,a432dd721ceda6bf59e4a51d338cb8920d245219,36.0,7.0,4.0,0.0
+150,Commit,knik0_faad2,2008-11-24 22:03:12,65a42927fa9d5bbe1ec173fdf3abb32d52d49799,1.0,1.0,1.0,0.0
+151,Commit,knik0_faad2,2008-11-24 21:53:21,677baf16f24d0ed2efe27dc86e9ad337db5d0ef4,10.0,10.0,2.0,0.0
+152,Commit,knik0_faad2,2008-11-24 21:40:36,ec15d74c882a82925d3c45c2683972b06d801acb,12.0,10.0,1.0,0.0
+153,Commit,knik0_faad2,2008-11-24 21:27:12,0697afd4be97bbdbea6ae78389460c864b0619e3,3.0,1907.0,7.0,0.0
+154,Commit,knik0_faad2,2008-09-22 17:55:09,9a71d064d3f3d40c5f855b0ed40f27f8dd4cb0d0,33.0,29.0,6.0,0.0
+155,Commit,knik0_faad2,2008-09-19 23:31:40,96eeea189ca734359c7707ecb942771e3ec95138,12.0,6.0,4.0,0.0
+156,Commit,knik0_faad2,2008-09-19 22:50:20,b6b4f6080f9e7dda16d2d1c6c2cb2ab08c87a742,16.0,11.0,5.0,0.0
+157,Commit,knik0_faad2,2008-04-06 00:52:10,d4d4ca170af541d51c566a3d5b2dcdf8ffb9fe60,373.0,199.0,3.0,0.0
+158,Commit,knik0_faad2,2008-04-06 00:34:30,b79b5a24a8dd65568aaef6a9f909b948ef5b94cd,24.0,6.0,2.0,0.0
+159,Commit,knik0_faad2,2008-03-29 21:10:24,d15dbae160ab2a27b43bd78e2fdcfb6484659ae8,4.0,4.0,2.0,0.0
+160,Commit,knik0_faad2,2008-03-23 23:03:30,facf1c46148257b9fc33c4b5552e187bd7e5f461,363.0,65.0,13.0,0.0
+161,Commit,knik0_faad2,2007-12-04 14:41:04,2ed7cad8bfd9b8bec0ac6856e92963cfe8ee36bf,2.0,1.0,1.0,0.0
+162,Commit,knik0_faad2,2007-11-01 12:34:11,d4a65c064d3a22ff32764d7d72d5428fed9d6c6a,337.0,561.0,112.0,0.0
+163,Commit,knik0_faad2,2007-10-11 18:41:52,3bd54e209b0b6c8a374dd28b75e46e5f80bc2777,201.0,198.0,99.0,0.0
+164,Commit,knik0_faad2,2007-09-11 20:34:01,830fab4aacc7ff6bc5456d935f15f773f6367f0d,5.0,5.0,1.0,0.0
+165,Commit,knik0_faad2,2007-09-11 18:21:28,dca1dfb44be688da802604635a151d38235be993,19.0,1.0,1.0,0.0
+166,Commit,knik0_faad2,2007-09-11 18:20:37,d5261b3b2f1cf6cad5b9b134322aa631de91f7a3,5.0,1.0,1.0,0.0
+167,Commit,knik0_faad2,2007-08-22 18:31:08,ac792aefc0cb7e5fcf41eac21ea8320f231bd21e,1119.0,603.0,7.0,0.0
+168,Commit,knik0_faad2,2007-06-05 19:00:18,e2defb318bc7f8fec0a515c703dc7a660a4e2454,4.0,4.0,3.0,0.0
+169,Commit,knik0_faad2,2007-06-05 18:38:57,a952619a3ea1d1924ca7e8605ce495f0d121a167,13.0,6.0,2.0,0.0
+170,Commit,knik0_faad2,2007-03-19 19:58:11,5cfc298514b652c1fa3753f7fd7fb7bd70da05a1,21.0,17.0,2.0,0.0
+171,Commit,knik0_faad2,2006-09-25 19:52:53,09f57eed9ac6cf4aef4980b224379fa70585990a,0.0,22.0,3.0,0.0
+172,Commit,knik0_faad2,2006-09-25 19:46:25,588f58881659672f919dd91027e408f12ad3a05a,40.0,1.0,2.0,0.0
+173,Commit,knik0_faad2,2006-08-15 19:22:15,639b9c8ff29c0000a494e91fac4d224bd7064578,3.0,3.0,1.0,0.0
+174,Commit,knik0_faad2,2006-08-15 19:05:11,ee772c4bc50a9ff0743198825a5dca9b0038c056,13.0,10.0,4.0,0.0
+175,Commit,knik0_faad2,2006-08-13 14:13:31,0620c3632f842f43d6e9224a9d040c668b6dae16,7.0,7.0,3.0,0.0
+176,Commit,knik0_faad2,2006-08-07 18:47:45,5643b9731b690376104867561becc82be4b4047e,39.0,12.0,4.0,0.0
+177,Commit,knik0_faad2,2006-08-07 18:13:28,89376cc948ebcb72572d599ae82f2baca5422344,3.0,2.0,1.0,0.0
+178,Commit,knik0_faad2,2006-08-07 18:09:05,41961f64c340ae02929a076c6bf981bed78d6b99,3.0,3.0,1.0,0.0
+179,Commit,knik0_faad2,2006-08-07 18:00:49,26f82786559869ef07f4809b71bd3db6ab5922bf,2.0,2.0,1.0,0.0
+180,Commit,knik0_faad2,2006-08-06 18:57:15,519d283e3ff39a129ed2b095a5f673f518291756,10.0,5.0,3.0,0.0
+181,Commit,knik0_faad2,2006-07-22 14:13:21,b737ae4a9564da46ca31b70be2c87df22b1fbeb8,2.0,2.0,1.0,0.0
+182,Commit,knik0_faad2,2006-07-07 12:35:24,e19fec5c35a674e2355a14afebd373531d3e2ef2,5.0,5.0,1.0,0.0
+183,Commit,knik0_faad2,2006-05-26 19:21:35,542ddb70cb7f23baefda7129370dd4d73a075ba8,413.0,6.0,2.0,0.0
+184,Commit,knik0_faad2,2006-05-17 18:49:21,5ad0c0afd4c11aea61e4fb981eca7ebb496929d5,58.0,24.0,8.0,0.0
+185,Commit,knik0_faad2,2006-05-07 18:09:41,e879a90e5469b503113ae27a84999c403f4f17d8,1087.0,1257.0,112.0,0.0
+186,Commit,knik0_faad2,2005-02-01 13:28:56,90b0884012b832806f2ba2c2c6f6eef91f398edb,275.0,63.0,11.0,0.0
+187,Commit,knik0_faad2,2005-02-01 13:23:35,baf45c811ae6a1a0691d16ee367ace9ff690375b,1329.0,630.0,93.0,0.0
+188,Commit,knik0_faad2,2004-11-08 08:06:09,23379b57a2a748622f925ad5eebcfcc8c806e2a4,47.0,56.0,3.0,0.0
+189,Commit,knik0_faad2,2004-11-01 19:44:33,8cfe7d4f44a76d1430ceaa2d99e87aa0d3cb88cc,0.0,4456.0,21.0,0.0
+190,Commit,knik0_faad2,2004-10-25 21:53:54,2108cdfee01328b35c50d8f260870c661d5d2711,4456.0,0.0,21.0,0.0
+191,Commit,knik0_faad2,2004-10-19 18:02:10,8498be7f35f42ef1d32c4de67428dbf05a6057bf,2.0,2.0,1.0,0.0
+192,Commit,knik0_faad2,2004-10-18 19:29:01,891c7d0545e6138e23373883eacf2d10442a7e36,1.0,1.0,1.0,0.0
+193,Commit,knik0_faad2,2004-10-18 19:25:00,dd018ff492773b6be8bd786a026cbb1d5ca9c24e,19.0,6.0,3.0,0.0
+194,Commit,knik0_faad2,2004-10-17 20:44:51,4d4850f5de853099d2e2883057458ad48ccec477,482.0,76.0,2.0,0.0
+195,Commit,knik0_faad2,2004-09-23 04:49:37,cc021be2f301154f53385861a13856a33aec05bb,0.0,0.0,1.0,0.0
+196,Commit,knik0_faad2,2004-09-08 09:43:40,8ab8622bc39fb152ab2062b78bfe19f44236c00a,40.0,900.0,14.0,0.0
+197,Commit,knik0_faad2,2004-09-07 14:51:53,befcd24885655130d24f8a45f5b2c93ab417714c,0.0,0.0,1.0,0.0
+198,Commit,knik0_faad2,2004-09-04 18:40:48,5b91dee5a25fcfdc1d2615022cb8cd92e3fed8dc,40.0,23.0,2.0,0.0
+199,Commit,knik0_faad2,2004-09-04 14:56:30,cc4fc2b2ab2a843237afdbef1f53def4506494af,286.0,38.0,10.0,0.0
+200,Commit,knik0_faad2,2004-09-03 21:49:56,52b83233750cd76d5b364217bac8075d3f8555fe,5.0,5.0,1.0,0.0
+201,Commit,knik0_faad2,2004-09-03 19:38:58,b5330cb64af703185462b3a28eb0d1ee16f36789,412.0,461.0,8.0,0.0
+202,Commit,knik0_faad2,2004-09-02 18:04:40,b9ec5d0956e8f128a0afa2bf200fe577de7084fb,2.0,1.0,1.0,0.0
+203,Commit,knik0_faad2,2004-09-02 15:49:29,4ce32dbcf13fb7b6f3869706afaf6911577e48e0,17.0,4.0,2.0,0.0
+204,Commit,knik0_faad2,2004-09-02 15:02:36,fb2e3a60f5bd0aded7e420fc619081146040651d,26.0,5.0,2.0,0.0
+205,Commit,knik0_faad2,2004-09-02 14:47:34,766d1b9c9854d925705ecc8552db8087c3092be1,1.0,36.0,2.0,0.0
+206,Commit,knik0_faad2,2004-09-02 14:02:02,336d6cabd617079710432094c53e075b6e67f53d,50.0,21.0,2.0,0.0
+207,Commit,knik0_faad2,2004-08-23 19:20:49,b288de8383dbf2f6ed278ceb1bfe80bff8b92129,0.0,1969.0,10.0,0.0
+208,Commit,knik0_faad2,2004-08-23 19:19:26,6779c81f5180956da1103e29ca0d15d6955c578d,0.0,2154.0,15.0,0.0
+209,Commit,knik0_faad2,2004-08-23 19:16:11,58b5f3d3568d3c904fc0b9cece3f520f09625b8a,24.0,1.0,2.0,0.0
+210,Commit,knik0_faad2,2004-08-22 17:48:38,3355b74f09a966b393fd49c7230e1161ba4bcfaf,243.0,265.0,13.0,0.0
+211,Commit,knik0_faad2,2004-08-20 08:31:32,2405cc8d9bf2ce6317d975424776942857b7580d,1.0,2.0,1.0,0.0
+212,Commit,knik0_faad2,2004-08-20 08:30:53,570827bdea6579cc1bd0cb42160c7a5ffff1ebf1,2.0,2.0,1.0,0.0
+213,Commit,knik0_faad2,2004-08-19 18:58:14,9dcbf0e64f2ede7645e79a01f320a3f07daae8eb,0.0,1.0,1.0,0.0
+214,Commit,knik0_faad2,2004-08-19 18:50:39,2d6b47cfe76fdcc048c891a8f207e1c4f2322e7c,10.0,44.0,1.0,0.0
+215,Commit,knik0_faad2,2004-08-19 18:41:31,3020282d63798137b8f68d0968955775237aac78,2.0,2.0,1.0,0.0
+216,Commit,knik0_faad2,2004-08-19 18:35:11,14ca39c06d2baa12727f22258c095315a2ec64b3,5.0,5.0,2.0,0.0
+217,Commit,knik0_faad2,2004-08-19 18:12:25,7529a38245ee6d0d0520a8ff42b13e9d943dcae6,1.0,0.0,1.0,0.0
+218,Commit,knik0_faad2,2004-08-06 08:09:45,1b1b73750f75f98502dd841659c678bfce2c3533,4.0,4.0,1.0,0.0
+219,Commit,knik0_faad2,2004-08-04 19:13:43,383622975cee87d199db91eab231b24e9d200eae,2.0,1.0,1.0,0.0
+220,Commit,knik0_faad2,2004-08-04 11:12:56,916dbed535c5520eddb18209d40bb171941b2ee0,0.0,15.0,1.0,0.0
+221,Commit,knik0_faad2,2004-08-03 20:29:21,7421a3b9696af2b4468332f57776d2abf9e1b1d6,7.0,1.0,2.0,0.0
+222,Commit,knik0_faad2,2004-07-31 15:48:57,a1f471d10a3e22cf0da36c08c26349f5df7e7f3a,1551.0,355.0,17.0,0.0
+223,Commit,knik0_faad2,2004-07-27 09:06:57,37da9bcec4e98d7bbc29407e534ac4c857d4ddb4,0.0,5016.0,27.0,0.0
+224,Commit,knik0_faad2,2004-07-27 09:02:46,776e8953fca4796a7b80e03784005f243d842395,3.0,3.0,1.0,0.0
+225,Commit,knik0_faad2,2004-07-27 08:56:41,faea72241fabf4697cd59038c7938544edd3d0ef,1.0,8.0,2.0,0.0
+226,Commit,knik0_faad2,2004-07-27 08:52:20,5ff3ed73a41f2bfa8156a3e2e66ca3040fafcae8,4.0,4.0,1.0,0.0
+227,Commit,knik0_faad2,2004-07-27 08:51:42,f87209d5685429f725e31fd09b986b5ed6df0949,4.0,4.0,1.0,0.0
+228,Commit,knik0_faad2,2004-07-27 08:47:22,4b97499c9241eca256d0d9d03e0d4c59df2c39ef,1.0,0.0,1.0,0.0
+229,Commit,knik0_faad2,2004-07-27 08:36:25,4823d3c9fa30871f3c1873c3ce035a9fb06181c1,0.0,26929.0,124.0,0.0
+230,Commit,knik0_faad2,2004-06-30 12:45:57,b5d4f6affc6a9107faaa60a2b58a4d15aea11b95,1003.0,1103.0,17.0,0.0
+231,Commit,knik0_faad2,2004-05-17 20:51:41,729fda91ea43acd9d8c7d26808d3c9c65114740a,0.0,2204.0,23.0,0.0
+232,Commit,knik0_faad2,2004-05-17 20:32:45,fabe417fd214e21c7b12db661be16c6c0e24a1de,3652.0,0.0,1.0,0.0
+233,Commit,knik0_faad2,2004-05-17 10:18:03,f479330acfa41b89b5345173251fb188e524bf6d,8793.0,1054.0,29.0,0.0
+234,Commit,knik0_faad2,2004-05-02 19:14:09,8f48df6f9767c5746f1bde6be7cfc933dae033fd,14.0,14.0,1.0,0.0
+235,Commit,knik0_faad2,2004-04-21 11:34:19,f039a4fbb81a76f531df2a7b3bf405a89072bf5e,14.0,4.0,4.0,0.0
+236,Commit,knik0_faad2,2004-04-12 18:17:42,62336dee445b3938cb71600d19efe96aa96f121e,451.0,230.0,17.0,0.0
+237,Commit,knik0_faad2,2004-04-03 19:08:38,c095b2fdc5c1dc599dcfe9e2b93d23c2224617c7,201.0,110.0,7.0,0.0
+238,Commit,knik0_faad2,2004-04-03 10:49:15,3eb36590b9a63b1b719b0f3167c602d1f1bae049,287.0,120.0,16.0,0.0
+239,Commit,knik0_faad2,2004-03-31 17:40:15,9f66d4715e4ec93e00dd5cb88579d7f37b36ad0e,1605.0,1328.0,7.0,0.0
+240,Commit,knik0_faad2,2004-03-30 08:16:09,e021cc2bc392b43b187846a154b18f448ba549aa,3597.0,4380.0,42.0,0.0
+241,Commit,knik0_faad2,2004-03-27 11:14:49,877579bfaf220ce9d28f5254b4893ed136a03b3a,278.0,427.0,20.0,0.0
+242,Commit,knik0_faad2,2004-03-19 15:35:59,d8578de53c9a0af9bf3cc9d2a008cc0a66eb9b1d,22.0,6.0,4.0,0.0
+243,Commit,knik0_faad2,2004-03-19 10:37:56,d657db3bf49b42561161ef60d6e3e182e517a5ab,912.0,519.0,13.0,0.0
+244,Commit,knik0_faad2,2004-03-14 21:26:22,0593e000f78574d00dd77e03269fa34d3daba1f0,5.0,5.0,1.0,0.0
+245,Commit,knik0_faad2,2004-03-12 13:31:25,6aad5dd7bac83d88b1d085da4ccfa877420b277a,3.0,3.0,1.0,0.0
+246,Commit,knik0_faad2,2004-03-11 14:34:10,430570bcb5f7b3cd0d83c620fbeeb08bcda7fc6a,7.0,7.0,1.0,0.0
+247,Commit,knik0_faad2,2004-03-11 13:32:39,9fb0bb21466d559ade746a380cb1454cf86c2a00,11.0,11.0,2.0,0.0
+248,Commit,knik0_faad2,2004-03-11 11:40:13,00626046473379e2be1594539504f8c43761ba61,8.0,12.0,3.0,0.0
+249,Commit,knik0_faad2,2004-03-10 20:49:50,52bf7848677fea697a0d96711495606f7bb6f43b,3.0,3.0,1.0,0.0
+250,Commit,knik0_faad2,2004-03-10 20:00:31,08d0b43b16a370d3afb5215b7ad511ab9334cfd8,552.0,5.0,2.0,0.0
+251,Commit,knik0_faad2,2004-03-10 19:53:40,eff0f1f44d046520d60c10fa10e09a3dea12fb57,2056.0,1.0,3.0,0.0
+252,Commit,knik0_faad2,2004-03-10 19:45:42,52186c2ec7365c630bd5362fdc6d40e8e491189f,1753.0,1767.0,16.0,0.0
+253,Commit,knik0_faad2,2004-03-05 16:03:22,1f051ca7ef55783d09c16c012334a52897d855c3,6.0,3.0,1.0,0.0
+254,Commit,knik0_faad2,2004-03-04 19:06:01,72ee2353e48bdda961fdcec0e9a21a865f33ac91,328.0,290.0,14.0,0.0
+255,Commit,knik0_faad2,2004-03-02 23:13:50,cd2a605682181958d9d0f136f7c61b87674b9e59,15.0,5.0,3.0,0.0
+256,Commit,knik0_faad2,2004-03-02 20:53:56,24ab866538a0dd2aabd7423eaa484216c353544c,2.0,1.0,1.0,0.0
+257,Commit,knik0_faad2,2004-03-02 20:09:58,dc0ef687a8ba3854af43f34d6381388f384febab,231.0,210.0,14.0,0.0
+258,Commit,knik0_faad2,2004-03-02 19:37:27,493e73cf0b0c76ce1d7d2cbe8a5fc6d7357765f6,99.0,64.0,10.0,0.0
+259,Commit,knik0_faad2,2004-02-26 09:32:50,0800217ce58d978ce9bb762179ee02477cba8e89,2.0,2.0,1.0,0.0
+260,Commit,knik0_faad2,2004-02-26 09:29:29,e1d8c8ab61ac3b8108516893cc04196fb8628cc7,3299.0,2180.0,73.0,0.0
+261,Commit,knik0_faad2,2004-02-18 09:18:04,31703a27d9c753d0fe8b8aa039a2463742e6df53,4.0,4.0,1.0,0.0
+262,Commit,knik0_faad2,2004-02-08 10:20:15,5da3cfe2e9707e7ce9b91aadd507833425055788,3.0,3.0,2.0,0.0
+263,Commit,knik0_faad2,2004-02-07 19:37:30,b4dc02ce6404e384ffa2b15a2b85d9ab8fe26156,7.0,7.0,2.0,0.0
+264,Commit,knik0_faad2,2004-02-06 18:50:28,6d586dd56c5ef71abdaf5ea5245d5e9a21749fd1,3.0,0.0,1.0,0.0
+265,Commit,knik0_faad2,2004-02-06 16:14:31,960d0b5da3f617d9416e5635816a05c3caf4ff88,0.0,0.0,1.0,0.0
+266,Commit,knik0_faad2,2004-02-06 16:05:07,65a708ac330ddc83d16ddaa5387d368276c888cb,8.0,4.0,1.0,0.0
+267,Commit,knik0_faad2,2004-02-06 16:04:39,e2634aa96270d47ff82c6b355f84665d62f22e89,48.0,32.0,4.0,0.0
+268,Commit,knik0_faad2,2004-02-06 13:12:28,bafbfab54cc147223da4dd4a3ae9dda60a46216b,2.0,3.0,2.0,0.0
+269,Commit,knik0_faad2,2004-02-06 12:55:24,03909f9041a382eeee5b6c5d3a9f89934a8b72e9,11.0,8.0,1.0,0.0
+270,Commit,knik0_faad2,2004-02-06 12:47:04,6c6392f7709f2c6de0764ee09e79c722570b3740,546.0,540.0,5.0,0.0
+271,Commit,knik0_faad2,2004-02-06 10:23:28,42c2fe93a7e7ab1cc1e6b8578834355cefd0c7f1,731.0,3185.0,13.0,0.0
+272,Commit,knik0_faad2,2004-02-04 20:07:24,6dfe72f142947c22f7f9f7c8e4894c3f35657656,13.0,6.0,3.0,0.0
+273,Commit,knik0_faad2,2004-02-04 19:55:03,b823b1ec32373b28794aa01cca69ea9c472ec20a,275.0,37.0,3.0,0.0
+274,Commit,knik0_faad2,2004-01-29 11:31:11,a620eaf54c2d009298287d41158bfeb9745ee8f9,247.0,48.0,7.0,0.0
+275,Commit,knik0_faad2,2004-01-28 19:17:26,7c7d6306a2f7bbd4ea419277be5f35a35abe8167,256.0,195.0,13.0,0.0
+276,Commit,knik0_faad2,2004-01-20 18:42:51,fcae268a4273f53783e4ca67de3896499a6c983f,38.0,265.0,5.0,0.0
+277,Commit,knik0_faad2,2004-01-20 09:23:53,f5de6d8ba2d1ba17a1fff5a19a60bb3ef7351832,2.0,10.0,1.0,0.0
+278,Commit,knik0_faad2,2004-01-20 08:42:54,01cddaa708bc7ca637dd69cd9b90af53b740f836,2.0,282.0,3.0,0.0
+279,Commit,knik0_faad2,2004-01-19 21:49:53,7f3a73551ab8b2018fba0f0f4811778549c0e944,307.0,13.0,6.0,0.0
+280,Commit,knik0_faad2,2004-01-16 20:20:32,dcebb7ecc54d95970cf9e6667c8dbe985a396751,287.0,117.0,17.0,0.0
+281,Commit,knik0_faad2,2004-01-14 20:50:22,394d1b79f128883302ab80c879f7c611e92f11fe,3.0,1.0,1.0,0.0
+282,Commit,knik0_faad2,2004-01-14 20:39:59,09e5becbbed6c7b0f7424e67afa3e74d0d8a2b6e,3.0,3.0,1.0,0.0
+283,Commit,knik0_faad2,2004-01-14 20:36:22,9ea647b768d3a5633b8ce8858e4d7d92b06b3577,129.0,64.0,8.0,0.0
+284,Commit,knik0_faad2,2004-01-14 20:32:30,d59a88f783e2630fc4e6953907231ded85d39445,16.0,10.0,1.0,0.0
+285,Commit,knik0_faad2,2004-01-14 09:09:13,10ba59a196bd84a3ef00095d3611d45d9be35b54,13.0,6.0,1.0,0.0
+286,Commit,knik0_faad2,2004-01-13 20:35:14,cac7ac2ce53d263d07f7203479f35d007218cee3,173.0,198.0,5.0,0.0
+287,Commit,knik0_faad2,2004-01-13 14:24:10,fe96a4c620af18665c7097727ae1e50ebc4437d6,282.0,199.0,12.0,0.0
+288,Commit,knik0_faad2,2004-01-12 18:55:40,9027402e9c72bfd413bf9a94239ac331c25caf57,26.0,21.0,2.0,0.0
+289,Commit,knik0_faad2,2004-01-11 15:53:51,1a1e8a9df4c4f9ad3a038c8cba0b94f4e8609319,91.0,299.0,6.0,0.0
+290,Commit,knik0_faad2,2004-01-11 15:46:19,cffc4a4bd2891ea84082ea0801cb8271cef17f6e,4.0,4.0,1.0,0.0
+291,Commit,knik0_faad2,2004-01-11 15:29:10,891c06aa22f6b92b8021a5f622493ee460e3b8ed,2.0,2.0,1.0,0.0
+292,Commit,knik0_faad2,2004-01-11 13:59:33,deb00934e5084f5e171bc2a831e5af779f13d8c2,314.0,82.0,4.0,0.0
+293,Commit,knik0_faad2,2004-01-10 18:55:24,cae41322be6cba155c5344922f671d8784e5fb21,1721.0,6.0,6.0,0.0
+294,Commit,knik0_faad2,2004-01-10 18:52:47,faa53495f9a92232ccf8bf7631c8e05b0882b5cc,156.0,135.0,9.0,0.0
+295,Commit,knik0_faad2,2004-01-06 11:59:48,580f32e643ef52c2e7603fee6064917d332df61b,31.0,13.0,9.0,0.0
+296,Commit,knik0_faad2,2004-01-05 20:03:29,5ecb2ee2de967a861a3e0bfb2e2a3990fde08d53,21.0,1.0,4.0,0.0
+297,Commit,knik0_faad2,2004-01-05 14:47:27,3e1f2d409f2cbd7894e6ca91267b68987ef867c1,10.0,10.0,1.0,0.0
+298,Commit,knik0_faad2,2004-01-05 14:05:12,189f5ac4c6ba5d0f872bbdd6429ef1ae40514e72,1009.0,783.0,90.0,0.0
+299,Commit,knik0_faad2,2004-01-02 16:38:48,7c895402b9b3f9798c78f78a0036983839a1372e,43.0,39.0,1.0,0.0
+300,Commit,knik0_faad2,2003-12-29 18:36:01,4d8f6a436a1732260ca0caaae643ab4dd1cb68be,12.0,8.0,1.0,0.0
+301,Commit,knik0_faad2,2003-12-24 16:04:56,074949652fa938d235f574b6e8a2f373b7e69e07,2.0,1.0,1.0,0.0
+302,Commit,knik0_faad2,2003-12-23 18:53:24,5a1ffaa6a50fd05e7a4a8079941d1b7eb2ef3db9,200.0,252.0,3.0,0.0
+303,Commit,knik0_faad2,2003-12-23 18:41:42,922513e1151f9cfa68768e4d7d0d914d5b1248a2,1062.0,354.0,12.0,0.0
+304,Commit,knik0_faad2,2003-12-20 09:56:46,178d2f4e52662b325a770a58dee562f7461e9ce0,0.0,2549.0,10.0,0.0
+305,Commit,knik0_faad2,2003-12-17 18:41:56,d1e15f69a0813f68fe0af4478fb59a5b32ce8921,11.0,1.0,1.0,0.0
+306,Commit,knik0_faad2,2003-12-17 16:37:34,44c69a9de9e43b10300cd04fc5308afa373bd305,25.0,9.0,3.0,0.0
+307,Commit,knik0_faad2,2003-12-17 14:43:17,ac3398aa16ced0bc75de9640f93c1348f986d5dc,11486.0,2296.0,47.0,0.0
+308,Commit,knik0_faad2,2003-12-17 10:50:21,eabc03b9c4ce3ed4039eb1c4e9637c896853accf,19.0,10.0,1.0,0.0
+309,Commit,knik0_faad2,2003-12-15 17:48:33,a3454cd7fcfcc215017a51419c6b4bcf1c859153,3.0,3.0,1.0,0.0
+310,Commit,knik0_faad2,2003-12-15 17:47:56,fa036e6261e0eeabbe9ef410abc5acf75cba2ff5,178.0,53.0,3.0,0.0
+311,Commit,knik0_faad2,2003-12-14 16:47:32,d79790588cb4a863b20d8303bf4df10bfb02d11f,5.0,5.0,3.0,0.0
+312,Commit,knik0_faad2,2003-12-14 16:47:08,6a37599b964a61cf7a06f8a6a5a76ff4af4326dd,5.0,34.0,3.0,0.0
+313,Commit,knik0_faad2,2003-12-14 13:50:50,62ce5ca7bf6cea0f129cc2ff2f55ce39d9a451d2,19.0,36.0,1.0,0.0
+314,Commit,knik0_faad2,2003-12-14 13:50:10,e6206848fd4b0ccee21ff4d55865bfb83b6935c3,71.0,9.0,3.0,0.0
+315,Commit,knik0_faad2,2003-12-13 22:27:58,428cc5c278aca667ae975a6476f8dda92a496b76,684.0,492.0,5.0,0.0
+316,Commit,knik0_faad2,2003-12-13 22:26:56,d0d358260cb40bacb324cdc37c426a24a858e6be,213.0,116.0,7.0,0.0
+317,Commit,knik0_faad2,2003-12-11 18:38:14,3cb7da83d454c960f48fbb589a7372873a322c5c,419.0,845.0,3.0,0.0
+318,Commit,knik0_faad2,2003-12-11 18:32:58,0703acd9be241cc1121d7f37d5177f67ca11c17f,4.0,4.0,1.0,0.0
+319,Commit,knik0_faad2,2003-12-11 18:32:39,7b5ba33ae15aaa2a01dd04bac88ffa6f0fb09d8c,1093.0,291.0,11.0,0.0
+320,Commit,knik0_faad2,2003-12-06 04:24:17,976c310f1d8d21d5f76415d124522dbda55f0b79,1062.0,108.0,4.0,0.0
+321,Commit,knik0_faad2,2003-12-05 15:40:47,054797bf657887d453b7d2ad8fb24fe385ef287b,3.0,3.0,1.0,0.0
+322,Commit,knik0_faad2,2003-12-04 21:29:52,18e4504118237d080ceaa0f02f773ac185801e48,141.0,85.0,8.0,0.0
+323,Commit,knik0_faad2,2003-12-03 18:38:09,c7c6d38a6e0223e9a210fde529fc84cf4cebce01,592.0,1380.0,21.0,0.0
+324,Commit,knik0_faad2,2003-11-25 13:18:42,9e7e4c1abd383bd519551222d3e553c32729b035,117.0,39.0,10.0,0.0
+325,Commit,knik0_faad2,2003-11-23 20:01:05,db2046678ef6046c6c0561ae6db0dfc999712f72,74.0,28.0,4.0,0.0
+326,Commit,knik0_faad2,2003-11-23 19:55:12,f059c30c120ca619c59d53674ec97940b4bad694,855.0,285.0,10.0,0.0
+327,Commit,knik0_faad2,2003-11-22 18:08:05,346020cc7ba14528f2d54b29cfc71f51d900aafc,53.0,53.0,1.0,0.0
+328,Commit,knik0_faad2,2003-11-22 16:37:58,e6f89688b664e96f6dd58bb45e611536a3acc00e,8.0,13.0,1.0,0.0
+329,Commit,knik0_faad2,2003-11-22 15:38:31,593d9c3caed1588271c91984308efaa2f22c6039,743.0,0.0,2.0,0.0
+330,Commit,knik0_faad2,2003-11-22 15:34:06,4f469f5ce50621af6b7f40cb89095216dd5fb4d0,3.0,2.0,1.0,0.0
+331,Commit,knik0_faad2,2003-11-22 15:30:19,e41eb73bd0685c8ce47e08fcce64f639398b071a,176.0,231.0,8.0,0.0
+332,Commit,knik0_faad2,2003-11-22 11:48:16,ed5b482f2272e9f447fe7b9d188f0d5e4221899c,17.0,3.0,1.0,0.0
+333,Commit,knik0_faad2,2003-11-22 11:38:46,e2ff809bbdd8b84ec767293cbca1e2693b0122cb,7.0,1.0,1.0,0.0
+334,Commit,knik0_faad2,2003-11-22 11:12:13,571ea294b58a6b39eb15a58570aa0dac39655e56,100.0,81.0,1.0,0.0
+335,Commit,knik0_faad2,2003-11-21 19:07:32,3fc490ae3d1b82ee1212720482371852e52db1ce,1.0,2.0,1.0,0.0
+336,Commit,knik0_faad2,2003-11-21 19:02:03,0bb1af0581fd67b41814b9f6e01daad76b328bda,22.0,21.0,5.0,0.0
+337,Commit,knik0_faad2,2003-11-21 18:20:57,779598b7a137b8eefaae16af0a3e97c66bd8d26e,9.0,9.0,4.0,0.0
+338,Commit,knik0_faad2,2003-11-21 17:08:27,66d8df22327a5fdbd814681e8d38be4ffdf896db,604.0,41.0,1.0,0.0
+339,Commit,knik0_faad2,2003-11-21 15:09:16,7563189691c3c02ce0cc1e593bb011d4638fe96e,44.0,78.0,1.0,0.0
+340,Commit,knik0_faad2,2003-11-21 15:08:48,f3e79702fa8f102089633a9ac8b39c9b485415b4,1075.0,6198.0,40.0,0.0
+341,Commit,knik0_faad2,2003-11-19 11:43:57,dbdd0f664f37a11b8e06e07905d12527509e2723,4.0,4.0,1.0,0.0
+342,Commit,knik0_faad2,2003-11-18 10:57:19,c0ae72652fc9619e8b1e8f365ab977614179779a,1.0,1.0,1.0,0.0
+343,Commit,knik0_faad2,2003-11-17 19:40:12,b3fd3e25319431d72ea55fae62b691b506bea7a9,26.0,24.0,6.0,0.0
+344,Commit,knik0_faad2,2003-11-16 19:52:41,e9b4be45b8eb828ddd32a5a1c0b1e1f7f921c624,3011.0,1398.0,24.0,0.0
+345,Commit,knik0_faad2,2003-11-14 15:16:43,9cb5698f51570f4512fe74471d558a0502b289b4,2.0,2.0,1.0,0.0
+346,Commit,knik0_faad2,2003-11-14 15:15:51,dc591b9f36d635da708da37f98e7b250f8b85328,7.0,7.0,1.0,0.0
+347,Commit,knik0_faad2,2003-11-12 21:00:18,cc1d15b0c3435a341d5f043dc4ae1f70fd99a56a,2.0,2.0,1.0,0.0
+348,Commit,knik0_faad2,2003-11-12 20:47:59,3b2e3d159a714243528bc259f4e20e4858bd4db6,11410.0,11772.0,45.0,0.0
+349,Commit,knik0_faad2,2003-11-10 18:57:59,7be9972c11f3f7383594f389ba753c20cc724371,28.0,14.0,2.0,0.0
+350,Commit,knik0_faad2,2003-11-07 21:04:14,056bcd7aa532463f1fc3421fcd612360c0f35c8a,81.0,24.0,3.0,0.0
+351,Commit,knik0_faad2,2003-11-06 18:41:55,e6c584d53be18a56d628409c77fee356d7401f85,17.0,15.0,1.0,0.0
+352,Commit,knik0_faad2,2003-11-06 15:45:08,753d04bf7a94497f92989b83da8208c6f9bccf56,2.0,2.0,1.0,0.0
+353,Commit,knik0_faad2,2003-11-06 15:43:59,d87188b5b1bbe8e9a806eefa8de1b076e76578be,5869.0,5847.0,3.0,0.0
+354,Commit,knik0_faad2,2003-11-06 14:08:58,2164315135ce7240b6bbca893cd9911bd792d9ed,74.0,80.0,4.0,0.0
+355,Commit,knik0_faad2,2003-11-06 11:04:14,9c136163859aeccbfaff07e0553eefbf73cca7f6,293.0,48.0,13.0,0.0
+356,Commit,knik0_faad2,2003-11-05 14:41:46,064740662b4b78775c62f610a84dc17969a1aabf,82.0,1.0,1.0,0.0
+357,Commit,knik0_faad2,2003-11-05 09:32:04,dc165c1eac5da19de0d4daffb916f2b1b524965b,3.0,1.0,1.0,0.0
+358,Commit,knik0_faad2,2003-11-04 21:50:34,f241b4e7b6279624c80989cf084320d301e9c2b9,5.0,249.0,1.0,0.0
+359,Commit,knik0_faad2,2003-11-04 21:48:05,530f9d1acfa5f6b7d5541217d19552801fba8710,1.0,10.0,1.0,0.0
+360,Commit,knik0_faad2,2003-11-04 21:43:30,91082ce9a12c7bceaef1b806a8cffa3781699d59,684.0,150.0,13.0,0.0
+361,Commit,knik0_faad2,2003-11-02 20:24:05,34148793ec79f0d0c46c38d3648b573d9d48bcfb,127.0,393.0,23.0,0.0
+362,Commit,knik0_faad2,2003-11-02 14:59:06,2cfe0e13e96fe21d3a132af144740c391c7a7327,9.0,2.0,1.0,0.0
+363,Commit,knik0_faad2,2003-11-02 14:18:56,c7dfb435debd775adde0fcee27d287c6ab12dca5,36.0,34.0,1.0,0.0
+364,Commit,knik0_faad2,2003-10-29 18:14:46,0f811a00b09c72e87a84031465dd023b3b295c94,9.0,2.0,1.0,0.0
+365,Commit,knik0_faad2,2003-10-20 15:43:52,2737378f8dbd9e362909e19956f817adc78df16a,16.0,23.0,1.0,0.0
+366,Commit,knik0_faad2,2003-10-20 14:46:55,24b3fe86e5ab0d35a40475eb043ace1f1b640c1d,55.0,10.0,2.0,0.0
+367,Commit,knik0_faad2,2003-10-20 14:05:39,5055d746ffa9134f432901122c73d13dbb6596dc,24.0,17.0,5.0,0.0
+368,Commit,knik0_faad2,2003-10-20 13:57:33,42ce0306d62d795bb9ead55d71c1ae418657d048,63.0,59.0,15.0,0.0
+369,Commit,knik0_faad2,2003-10-19 19:33:16,800c0a082a7e7aeb011752439bf882eede33b2a3,3.0,4.0,1.0,0.0
+370,Commit,knik0_faad2,2003-10-19 19:28:41,544ab69bfab3f755851ec071a4687a4942436345,29.0,13.0,5.0,0.0
+371,Commit,knik0_faad2,2003-10-19 19:18:53,19834178b65d4b28d731c6abffbcfe8c38594afe,2.0,2.0,1.0,0.0
+372,Commit,knik0_faad2,2003-10-19 18:49:38,758d6529393420352cbfd10785a14ea2b79a6488,35.0,40.0,1.0,0.0
+373,Commit,knik0_faad2,2003-10-19 18:11:20,927eb0f39c35def488f0577df684a2edac2f6cc0,6586.0,7328.0,61.0,0.0
+374,Commit,knik0_faad2,2003-10-17 17:11:38,6ca72a90fc5ab19a40f74b544e153bf62e95f7a3,2.0,299.0,1.0,0.0
+375,Commit,knik0_faad2,2003-10-17 17:05:34,97334a539e561699d0c296fe51e8c50a86fd9998,3.0,1.0,1.0,0.0
+376,Commit,knik0_faad2,2003-10-17 16:23:05,0f800fc0de7b316559eedfa3aa681400eb1ce633,84.0,4.0,1.0,0.0
+377,Commit,knik0_faad2,2003-10-17 13:37:22,a9308005676e8daf4f9edf1732489de9e882b460,81.0,2.0,2.0,0.0
+378,Commit,knik0_faad2,2003-10-14 16:56:26,516916a8cd0ae7c8bff45d91ec720ae2484e3fae,10.0,10.0,1.0,0.0
+379,Commit,knik0_faad2,2003-10-14 11:42:48,adc10e7f04826f7e48121ebc4a2b75a6ead8c16a,7.0,7.0,1.0,0.0
+380,Commit,knik0_faad2,2003-10-12 15:44:31,490093a9715259d469e111668e02e829f0fe0679,603.0,0.0,2.0,0.0
+381,Commit,knik0_faad2,2003-10-12 15:38:47,aa64fa89274fa62f79f151e7b3954bff7ed10bc8,172.0,20.0,3.0,0.0
+382,Commit,knik0_faad2,2003-10-12 13:30:06,a880397b5ae1334b2846745973f2ff225b089902,2.0,2.0,1.0,0.0
+383,Commit,knik0_faad2,2003-10-10 13:29:38,181682e90ddb6f6975f6651f5d8e05b985b198b9,633.0,45.0,2.0,0.0
+384,Commit,knik0_faad2,2003-10-10 13:28:36,0447babcc4d9b003817bc68e61650e60f0efdc5c,180.0,176.0,1.0,0.0
+385,Commit,knik0_faad2,2003-10-10 12:23:43,1b804dfaa0f31fe2b083b5f9df9e0aa156444be1,3.0,2.0,1.0,0.0
+386,Commit,knik0_faad2,2003-10-09 20:04:25,e8edc600fe786cd49fe4a9bd0771f154ded463bd,866.0,726.0,33.0,0.0
+387,Commit,knik0_faad2,2003-10-07 11:35:53,2569c47767a3ea4a308d510ea1ac296573e0ffa2,2.0,2.0,1.0,0.0
+388,Commit,knik0_faad2,2003-10-05 15:22:10,2cff3a9f96eabd25287392db3454bdb40d14f4b2,32.0,26.0,5.0,0.0
+389,Commit,knik0_faad2,2003-10-02 19:23:10,b4d17ba5333a35523a25a37d46638789a964bba9,6.0,28.0,1.0,0.0
+390,Commit,knik0_faad2,2003-09-30 16:32:02,800f550eabc3155fcbae4c4b8dad3edcb61f3b5f,18.0,18.0,2.0,0.0
+391,Commit,knik0_faad2,2003-09-30 12:43:05,7778db108536ffa6ebdf18e3591c92ec2bd14972,139.0,148.0,6.0,0.0
+392,Commit,knik0_faad2,2003-09-30 08:07:47,bbdbf311656bb20e93a9bc4d3dc427d8b0276390,17.0,17.0,2.0,0.0
+393,Commit,knik0_faad2,2003-09-29 17:54:17,162e0015ec094669e30cfacb7c4f8088a14141e9,3.0,4.0,1.0,0.0
+394,Commit,knik0_faad2,2003-09-29 17:14:15,635f1edc98fe8f8ce0f327e8151e3afa0c99a73c,148.0,253.0,10.0,0.0
+395,Commit,knik0_faad2,2003-09-25 18:05:48,763275b0c54ee025bdfd7429eed213f6a080b251,13.0,9.0,3.0,0.0
+396,Commit,knik0_faad2,2003-09-25 12:40:20,a90d40ff0244d81ceab8af48b81ae32d1ea5d60d,25.0,170.0,2.0,0.0
+397,Commit,knik0_faad2,2003-09-25 12:04:31,cee530ebf697214ed884926fd79146ef591f86ed,79.0,86.0,4.0,0.0
+398,Commit,knik0_faad2,2003-09-24 19:55:34,b1299db24cc5817dba58ef02e73d8526eff25072,92.0,36.0,4.0,0.0
+399,Commit,knik0_faad2,2003-09-24 18:11:22,d6c4b459bd60e2de824aba7927f64d781a84b5a7,44.0,39.0,1.0,0.0
+400,Commit,knik0_faad2,2003-09-24 12:37:08,6aabec8324a0ba265d9b497fe2e61d5f70575475,118.0,95.0,5.0,0.0
+401,Commit,knik0_faad2,2003-09-24 11:52:12,0c44115a21f56a1f26e53de8c41382f4fba51bf0,8.0,1625.0,3.0,0.0
+402,Commit,knik0_faad2,2003-09-24 08:05:45,ed830d652600db23d798c63f4b8d6b658a9084c5,87.0,114.0,6.0,0.0
+403,Commit,knik0_faad2,2003-09-23 16:55:00,047e5aa00c4b30a0c320a1abe1b3ddaa34a51c70,74.0,104.0,2.0,0.0
+404,Commit,knik0_faad2,2003-09-23 08:12:29,9c1ab867b5933d0d87412f814957e01771ddbae1,44.0,45.0,5.0,0.0
+405,Commit,knik0_faad2,2003-09-22 20:05:32,27191ef56ec52ba2688d941198aca82588904274,243.0,56.0,5.0,0.0
+406,Commit,knik0_faad2,2003-09-22 18:22:19,281db6ceec174d040229ca88d20499d006541c78,54.0,23.0,5.0,0.0
+407,Commit,knik0_faad2,2003-09-22 13:15:38,263ee2a907db25fb6624cc36c09b80adf1372b6c,552.0,501.0,5.0,0.0
+408,Commit,knik0_faad2,2003-09-22 13:09:43,b147e83b7bb44b42c1b9c4e31e278bcb0e811944,5.0,3.0,1.0,0.0
+409,Commit,knik0_faad2,2003-09-22 12:52:15,9a10dd1e1f74eb132e597f89cfca33d5660babab,10.0,65.0,3.0,0.0
+410,Commit,knik0_faad2,2003-09-20 11:11:19,f6620a7381f17eb64e41c2da6665f0ca3dd87d78,71.0,54.0,2.0,0.0
+411,Commit,knik0_faad2,2003-09-20 08:58:06,21dd222efddce8f6edf4651d739d56cc3175cb68,37.0,85.0,1.0,0.0
+412,Commit,knik0_faad2,2003-09-19 19:08:17,bfa3eb8e2b42be7b4c7bc0c5be7edc32735d2d3a,165.0,128.0,8.0,0.0
+413,Commit,knik0_faad2,2003-09-18 13:42:04,502d0c44f4fcbabffa6dfcf90e0b3498005e6389,8.0,2.0,1.0,0.0
+414,Commit,knik0_faad2,2003-09-18 13:38:38,812396b5ae1ef852acc5a722998d4dc917848c2f,202.0,442.0,7.0,0.0
+415,Commit,knik0_faad2,2003-09-12 18:52:57,df8d07226f8134eb598ebde842811c9ce939b819,23.0,28.0,1.0,0.0
+416,Commit,knik0_faad2,2003-09-10 12:25:54,df15fc14a83c77af73c59839fc79cf3b1364a80a,69.0,11.0,6.0,0.0
+417,Commit,knik0_faad2,2003-09-09 18:52:21,76aaa6d04038d6ec0dc48f9c9aa071a4a5574950,3.0,2.0,1.0,0.0
+418,Commit,knik0_faad2,2003-09-09 18:37:32,edf72d4467ff564a5f8676d8eda51eea33655f70,43.0,9.0,7.0,0.0
+419,Commit,knik0_faad2,2003-09-09 18:12:01,0aa2ca7ee392ce54ca6273409165a3febb59e1a9,516.0,13.0,14.0,0.0
+420,Commit,knik0_faad2,2003-09-09 18:09:52,6ebce05644e9075403e1405eec1e813c1af32669,18800.0,17477.0,82.0,0.0
+421,Commit,knik0_faad2,2003-09-08 17:02:05,d126dc69a58f7fbdcdf9a97bcd699fa0b5f3beb1,3.0,2.0,1.0,0.0
+422,Commit,knik0_faad2,2003-09-06 12:14:24,18993a5eda8ef1f024aeac722c20532916a6d4e0,3.0,3.0,1.0,0.0
+423,Commit,knik0_faad2,2003-09-04 18:35:46,70bde995b7c8d1b75a156cfdd6c34c179296081e,6.0,6.0,1.0,0.0
+424,Commit,knik0_faad2,2003-09-04 17:43:40,56bf3d803998f47df96f42d16d6c70dced304568,90.0,22.0,1.0,0.0
+425,Commit,knik0_faad2,2003-09-03 20:19:29,cbe4880728c45081b70ee1b731a8a89dbc065269,75.0,16.0,3.0,0.0
+426,Commit,knik0_faad2,2003-09-03 20:19:07,7fdb7f1ee9faa796a2a615fe2450273c6340ef53,160.0,18.0,5.0,0.0
+427,Commit,knik0_faad2,2003-09-03 17:31:43,6f3fe7ef4467047775b03ee52671d73c82b5cdec,22.0,14.0,1.0,0.0
+428,Commit,knik0_faad2,2003-09-02 20:12:18,e4b87483df3b5a4cb2a42d69fbfea649908aa71b,475.0,0.0,4.0,0.0
+429,Commit,knik0_faad2,2003-09-02 20:11:18,01584c198c3052681db9309914afd92543182ff8,7.0,7.0,2.0,0.0
+430,Commit,knik0_faad2,2003-08-31 17:39:39,d19c11a68d8ac46e5592b273ce836be733f4b8bd,22.0,5.0,1.0,0.0
+431,Commit,knik0_faad2,2003-08-31 10:27:51,7c218bda33ff363e3dde1b737e7a443823cb3001,10.0,4.0,1.0,0.0
+432,Commit,knik0_faad2,2003-08-31 10:26:48,1175ddf4fa78af763389920bf2818b4e0c155ea0,0.0,0.0,0.0,0.0
+433,Commit,knik0_faad2,2003-08-31 09:59:00,3f32a17323e26659f3e3ada02e1a4c709757c814,6.0,5.0,1.0,0.0
+434,Commit,knik0_faad2,2003-08-30 19:33:06,ceeab11ed460a0ececdb5cb771e5369a63cd60dd,10.0,2.0,1.0,0.0
+435,Commit,knik0_faad2,2003-08-30 09:08:38,46302c5d6df2c20631600b17d252e7b8dd8787b2,5.0,5.0,1.0,0.0
+436,Commit,knik0_faad2,2003-08-27 08:50:32,41017b7887646806b5eac2884f974dc4bc354033,11.0,7.0,1.0,0.0
+437,Commit,knik0_faad2,2003-08-17 19:36:54,3b4bd3b3a9fe05d468babe5d654a5f0cd4b0e28c,146.0,187.0,1.0,0.0
+438,Commit,knik0_faad2,2003-08-16 13:14:51,c63edacc48d2209d212d178c951cbdb324701cb5,19.0,28.0,1.0,0.0
+439,Commit,knik0_faad2,2003-08-14 18:40:08,04891cb0c2928283d518c488222bf070277880bb,46.0,20.0,1.0,0.0
+440,Commit,knik0_faad2,2003-08-14 18:06:05,fe8186b4736ec1d57828d5b1ad5e777b832322fb,10.0,8.0,1.0,0.0
+441,Commit,knik0_faad2,2003-08-13 19:54:13,6c93b4fdda100e449e25d57102a44d9bb63318b0,1490.0,1487.0,1.0,0.0
+442,Commit,knik0_faad2,2003-08-09 11:28:43,733421d40eee2a54756ce800eed4196ab6ef52a8,165.0,86.0,1.0,0.0
+443,Commit,knik0_faad2,2003-08-08 11:10:35,3cbad24c861f5bb5126aa5984a97ee69f8c180fe,49.0,24.0,1.0,0.0
+444,Commit,knik0_faad2,2003-08-08 09:24:08,5107a46aad77cdb9687f3b876794770a5185b638,94.0,77.0,1.0,0.0
+445,Commit,knik0_faad2,2003-08-07 19:06:11,92f05bd3e35cf3a0f94ae4e067500621586fcd06,2.0,1.0,1.0,0.0
+446,Commit,knik0_faad2,2003-08-07 18:58:43,d2663a0bb271b9a4e6df3e081f76bfb2d93b2136,49.0,0.0,2.0,0.0
+447,Commit,knik0_faad2,2003-08-07 18:58:10,05ed1c55a1c43b8746c7d4ca5efd7641b3ba80e9,42.0,23.0,1.0,0.0
+448,Commit,knik0_faad2,2003-08-07 17:31:19,4ac3f9ddec70673bd62a4a34b00748c4e6d99f9d,3.0,2.0,1.0,0.0
+449,Commit,knik0_faad2,2003-08-07 17:26:26,6c3ec62f298e88165a0a0aeb0c819b8d212d9825,8.0,8.0,1.0,0.0
+450,Commit,knik0_faad2,2003-08-07 17:21:21,9ebb1719095577af43e4cfcc36b76bd9c671afc4,811.0,9.0,12.0,0.0
+451,Commit,knik0_faad2,2003-08-03 18:00:15,6e780526004821251344c8612cae1bb65705b312,78.0,17.0,5.0,0.0
+452,Commit,knik0_faad2,2003-08-03 12:17:20,5866a7cbffd838b0bc79b267969b373de0b6c8b4,4.0,2.0,1.0,0.0
+453,Commit,knik0_faad2,2003-08-03 08:57:32,95192f051ae87f4cee8ccc285893690446acd79c,8.0,10.0,1.0,0.0
+454,Commit,knik0_faad2,2003-08-02 23:08:17,87f85fdfb793a840ded7f3148276362c5e2e0430,26.0,15.0,3.0,0.0
+455,Commit,knik0_faad2,2003-08-02 22:34:46,e8a21effe6c52cb0d3c4789acf68d81c5c6b3964,32.0,13.0,5.0,0.0
+456,Commit,knik0_faad2,2003-08-02 18:07:39,00ca67bc570551e0ad5a5af6c23c8a2637deb17f,5.0,388.0,4.0,0.0
+457,Commit,knik0_faad2,2003-07-29 10:50:35,c9472c6c3d2d974cac60890e772266a16157b5c0,1514.0,1094.0,21.0,0.0
+458,Commit,knik0_faad2,2003-07-29 08:20:14,6bd8442bfc16bf6ba218fda8eba3abb6901669cf,12599.0,1079.0,135.0,0.0
+459,Commit,knik0_faad2,2003-07-25 10:17:54,6790125a3734b8a00c595784df1de7b1a2537cad,1.0,21.0,2.0,0.0
+460,Commit,knik0_faad2,2003-07-25 10:08:55,28fb109e2ba59b859fd313162488c0cdb7c975d7,0.0,49469.0,152.0,0.0
+461,Commit,knik0_faad2,2003-07-09 18:32:43,49179daaf56a9ddde3ce1ab82c37ce5e83b5fa87,10.0,39.0,3.0,0.0
+462,Commit,knik0_faad2,2003-07-09 15:11:25,4ec9a8f39dbd88813601b448ec07849bac4caa6b,154.0,23.0,3.0,0.0
+463,Commit,knik0_faad2,2003-07-09 13:55:59,9596ecdf5d384c896dbb32e13eb9d3856b9d09f8,98.0,41.0,6.0,0.0
+464,Commit,knik0_faad2,2003-07-09 12:33:08,401e13ef1ffdaff4ca970bfc0b7ca4c31d37b7f1,89.0,50.0,2.0,0.0
+465,Commit,knik0_faad2,2003-07-09 11:53:07,4b4241830d669436bff595a1deaa5148f9562d79,320.0,54.0,11.0,0.0
+466,Commit,knik0_faad2,2003-07-08 13:45:45,c12d8b8c3a448a01865b6b3f15b0452ea67b9a8f,299.0,479.0,14.0,0.0
+467,Commit,knik0_faad2,2003-07-07 21:11:18,e98a69b9db88ef00994bbc7a95add426a36adcf6,685.0,208.0,17.0,0.0
+468,Commit,knik0_faad2,2003-07-07 12:27:55,9831e451d4dffcfe05f7d8d60e3c96c8f04d7eef,3.0,0.0,1.0,0.0
+469,Commit,knik0_faad2,2003-07-07 09:48:31,13fb62b6009c89363d1990e09cc3daa33c015b2c,6.0,4.0,3.0,0.0
+470,Commit,knik0_faad2,2003-07-06 20:23:38,3254623f0745837118e0d5d739fa6c402fd5b9d3,945.0,792.0,16.0,0.0
+471,Commit,knik0_faad2,2003-07-02 15:12:01,728303a6c691b84920a557f116633cdffcf67359,16.0,5.0,1.0,0.0
+472,Commit,knik0_faad2,2003-07-01 21:26:32,b75f3026a0663937207c78eb39e4d108f24f707b,163.0,92.0,8.0,0.0
+473,Commit,knik0_faad2,2003-06-29 21:41:00,0ab055fe640979fa9161ae5ddea6160e2340fd16,3276.0,763.0,37.0,0.0
+474,Commit,knik0_faad2,2003-06-25 19:18:35,0b2ef5faeb07dbc043cc925da4177b69b2146c84,29.0,15.0,1.0,0.0
+475,Commit,knik0_faad2,2003-06-25 15:03:24,a2ab4c0038a4894017f476e8014368690299bda6,33.0,7.0,1.0,0.0
+476,Commit,knik0_faad2,2003-06-24 20:41:41,e7a86f9e7d40a6d6354453109fc1c8b6852b0a38,6.0,4.0,1.0,0.0
+477,Commit,knik0_faad2,2003-06-23 15:21:20,db2d1012adc7c9391f08aa77a2f05e7beee7548b,617.0,435.0,15.0,0.0
+478,Commit,knik0_faad2,2003-06-19 21:30:13,596df37e0820fe8cdafed3c077d9b1bbb2991803,4.0,0.0,1.0,0.0
+479,Commit,knik0_faad2,2003-06-19 21:20:59,345a313f90dc665c7d66ce4efd7a60afafac71cd,1415.0,116.0,6.0,0.0
+480,Commit,knik0_faad2,2003-06-16 21:24:50,e7a69a62164a19f1382b2de4e3c5e641a0588c55,9.0,1.0,1.0,0.0
+481,Commit,knik0_faad2,2003-06-13 18:36:43,4f70299f939079eb3745470e0631b4c664b17a90,26.0,26.0,1.0,0.0
+482,Commit,knik0_faad2,2003-06-08 21:47:10,5832cdbbeeda87d0f62d82c584bb374bdc298d89,1.0,1.0,1.0,0.0
+483,Commit,knik0_faad2,2003-06-08 21:15:37,e6a1e1139515a63ca69849a0723b7e1c2c08d9b2,1.0,1.0,1.0,0.0
+484,Commit,knik0_faad2,2003-06-08 13:47:26,c0bcb7e0f1e32ec34f8b49d0ea0aa426e1460418,6.0,7.0,1.0,0.0
+485,Commit,knik0_faad2,2003-06-07 11:06:38,3dbf360ea76223dc53385368441eb9685badf150,25.0,22.0,2.0,0.0
+486,Commit,knik0_faad2,2003-05-31 13:18:05,2750dae23aa7753b3e9cd9a54813fb9b59057b1c,17.0,13.0,2.0,0.0
+487,Commit,knik0_faad2,2003-05-29 19:56:50,57f4d33729c77675019237604ed04b8af70f67f0,74.0,155.0,2.0,0.0
+488,Commit,knik0_faad2,2003-05-29 19:22:31,edcf077d7c04c69d9123ef0e07b4883ce9233dee,481.0,86.0,1.0,0.0
+489,Commit,knik0_faad2,2003-05-22 20:03:27,3ade1a7f63615c67453091af46209c8b511eba12,1784.0,0.0,13.0,0.0
+490,Commit,knik0_faad2,2003-05-21 21:16:03,7931bb59b42c060b984a43c60c784e8bf31ccaf4,8.0,7.0,1.0,0.0
+491,Commit,knik0_faad2,2003-05-18 18:14:38,91aee39a35c34eb38011fae29741884c8b91b996,98.0,116.0,15.0,0.0
+492,Commit,knik0_faad2,2003-05-16 08:31:14,6a18eb700ab4197a815396917209b183b2d403ac,1035.0,1033.0,3.0,0.0
+493,Commit,knik0_faad2,2003-05-15 20:58:47,1083f9ce328c246d5c537507cd1227e89eae50fd,1113.0,1068.0,7.0,0.0
+494,Commit,knik0_faad2,2003-05-07 18:30:49,d04e5193e35696ba1b3de26d4a3070c281c6cbea,23.0,32.0,5.0,0.0
+495,Commit,knik0_faad2,2003-04-28 19:07:57,33656858ad9f69ed9ea1e7fe565f1ce28987205c,3687.0,0.0,23.0,0.0
+496,Commit,knik0_faad2,2003-04-28 19:04:36,2ac355532dc6bd13696bb8b06be924ed1a097d23,188.0,156.0,5.0,0.0
+497,Commit,knik0_faad2,2003-04-28 10:16:03,03339bb0a5314887affd3e5b7ececaf3bfa134e4,10.0,8.0,1.0,0.0
+498,Commit,knik0_faad2,2003-04-27 18:53:22,b981e66894a0eda198e87aff74a712f80a3a5faf,86.0,11.0,3.0,0.0
+499,Commit,knik0_faad2,2003-04-27 17:42:59,69f8ee6997fcce04ca64fa9dd5e79d8fc977d96a,3.0,2.0,1.0,0.0
+500,Commit,knik0_faad2,2003-04-27 17:22:33,a00ace376fd9a64be5423268d00c3fcf2c9bb478,196.0,56.0,1.0,0.0
+501,Commit,knik0_faad2,2003-04-27 12:16:15,783631ddf502782473605d8a91be9eac70631d54,8.0,3.0,1.0,0.0
+502,Commit,knik0_faad2,2003-04-27 12:05:33,54df1bf7fbbc9da3364ee6213b19696f2d0b6961,2.0,8.0,1.0,0.0
+503,Commit,knik0_faad2,2003-04-27 11:56:58,fb62edd297138ad67d1c3197d05d784bb9ab0be8,251.0,217.0,1.0,0.0
+504,Commit,knik0_faad2,2003-04-26 13:57:56,1a5d3ce0469964fd49bb080451f4a4af20b7054f,5.0,2.0,1.0,0.0
+505,Commit,knik0_faad2,2003-04-26 13:25:13,c5bcf24778a2de34d369e7d95de1d85d3f2b73e1,10.0,4.0,2.0,0.0
+506,Commit,knik0_faad2,2003-04-26 12:25:23,2bc0f84e01dfb29b9253d7b7313a0f0bd619f5a1,3.0,3.0,1.0,0.0
+507,Commit,knik0_faad2,2003-04-26 10:02:42,94641c20ec3a009c19c256d7a3f751bef7eca4dc,213.0,48.0,1.0,0.0
+508,Commit,knik0_faad2,2003-04-15 19:53:42,6dfb69251fda7c62b3313def17af3e1c4c3eff6d,6.0,1.0,1.0,0.0
+509,Commit,knik0_faad2,2003-04-13 18:27:10,323eccb93a870117de76b97aace1958f61e36139,56.0,26.0,5.0,0.0
+510,Commit,knik0_faad2,2003-04-02 21:11:56,24ea3e1ec9b06738df21731fbf4ce344a53b5432,12.0,5.0,1.0,0.0
+511,Commit,knik0_faad2,2003-04-02 20:36:54,a71a4f52c8a96c1b5b9bfd271a57a91d7070e5d7,65.0,7.0,2.0,0.0
+512,Commit,knik0_faad2,2003-04-02 20:07:46,2b65b584656d94459a29da0ebfef673e5c5d9ca1,67.0,44.0,7.0,0.0
+513,Commit,knik0_faad2,2003-04-02 19:09:49,a0ba9ba615f9ad5429bb2d50add1e7bdb42fa55f,4.0,4.0,1.0,0.0
+514,Commit,knik0_faad2,2003-04-02 18:31:08,d4dba8d18950596d3bbd6bdc45ffce94ea42341c,18.0,15.0,5.0,0.0
+515,Commit,knik0_faad2,2003-04-01 16:34:35,2e8547789313ae2b0a99a724177805b51c642b55,70.0,10.0,5.0,0.0
+516,Commit,knik0_faad2,2003-03-05 14:36:44,529d431ad29d8382c55ea24259298b4d4a7112d2,48.0,105.0,3.0,0.0
+517,Commit,knik0_faad2,2003-03-05 14:24:55,e743e6011523c606726e39f6ff8d47af5377b178,61.0,8.0,4.0,0.0
+518,Commit,knik0_faad2,2003-02-27 11:37:26,038d26cd2251feec441a438a5b54b733aa025039,22.0,20.0,2.0,0.0
+519,Commit,knik0_faad2,2003-02-25 18:22:16,03d2510f995f05759473a12398c3b4f834c0322b,6.0,5.0,2.0,0.0
+520,Commit,knik0_faad2,2003-02-25 18:15:59,0e2d830404f2fa71f63d6a133ce2d1d01dd2629a,138.0,10.0,6.0,0.0
+521,Commit,knik0_faad2,2003-02-25 17:45:04,130c46862751338fdb7085f738496aed60fef5a8,38.0,22.0,5.0,0.0
+522,Commit,knik0_faad2,2003-02-25 17:44:16,31b537ecac196e6836d83ed9fe1a93b2ef1669ce,2.0,2.0,2.0,0.0
+523,Commit,knik0_faad2,2003-02-25 12:03:52,7c2d54efdb12c03309522f48e2dc195e0b85d3e2,20.0,0.0,1.0,0.0
+524,Commit,knik0_faad2,2003-02-25 10:51:24,9052d1ff6bad37f28a58e19763104aa93ad45298,3.0,122.0,4.0,0.0
+525,Commit,knik0_faad2,2003-02-24 15:02:25,4dfc6c8fa70d3109591a1f51cf0d8a7849aeb4dd,7.0,2.0,2.0,0.0
+526,Commit,knik0_faad2,2003-02-16 19:16:12,2e3485429bccbf7793d1d5a7e47b0d69c06a3bc9,7.0,7.0,1.0,0.0
+527,Commit,knik0_faad2,2003-02-16 18:17:11,b00a2415ffe2895620baf6bae968d547cc723f21,120.0,66.0,11.0,0.0
+528,Commit,knik0_faad2,2003-02-14 14:54:25,c44c0332357abb38513127baeb4303c2c4663e44,8.0,102.0,2.0,0.0
+529,Commit,knik0_faad2,2003-02-13 14:20:15,584e5f7e8212f70af2d8480f580ce7005a6579c5,1.0,1.0,1.0,0.0
+530,Commit,knik0_faad2,2003-02-13 13:02:27,f33c4f4c24125caa86b0a3e446017b67ee85f6ef,7.0,4.0,3.0,0.0
+531,Commit,knik0_faad2,2003-02-09 20:42:52,9fb151c0a1fbf4c956982ec1b93d59c36681f49f,141.0,142.0,13.0,0.0
+532,Commit,knik0_faad2,2003-02-09 18:55:19,068acec8fe917fe572cbf11d0732bb0359be0321,1886.0,0.0,9.0,0.0
+533,Commit,knik0_faad2,2003-02-06 20:26:44,cdae0e79ef653b0166596891b9bb278cb5f1fdaa,3.0,3.0,1.0,0.0
+534,Commit,knik0_faad2,2003-02-06 20:01:53,1a316246f5a023c955fcb6e63373d341c92d22a7,84.0,86.0,14.0,0.0
+535,Commit,knik0_faad2,2003-02-04 16:49:38,877dfb805676e0d53b8aab970327e44fc7364814,28.0,19.0,5.0,0.0
+536,Commit,knik0_faad2,2003-01-17 14:56:18,b92e2e27c42b004b31fc2394d53180e50a760ec3,8.0,9.0,3.0,0.0
+537,Commit,knik0_faad2,2003-01-12 10:18:37,367d20be44225752b3974addd9789a821f88b692,130.0,137.0,6.0,0.0
+538,Commit,knik0_faad2,2002-12-29 13:13:36,b5b68e541c7164b5be892b3f56d2d2b2a2f511a2,26.0,20.0,5.0,0.0
+539,Commit,knik0_faad2,2002-12-29 12:26:30,4c96445961d393dd08e924b8d430612cda152261,83.0,11.0,5.0,0.0
+540,Commit,knik0_faad2,2002-12-29 11:10:18,82bc6ccd76179f01824177ed8b7ce5905ec929e2,3.0,2.0,1.0,0.0
+541,Commit,knik0_faad2,2002-12-29 11:05:13,4cebe678d736d6bf846d8d80e8243a3efa48e090,15.0,11.0,2.0,0.0
+542,Commit,knik0_faad2,2002-12-29 10:46:50,b3b26efdbae258ed54d186bbfd0a4375128b2db1,451.0,38.0,15.0,0.0
+543,Commit,knik0_faad2,2002-12-27 23:06:37,4443c0c223baa34eeab013604a33e37cfeeaf519,6.0,6.0,1.0,0.0
+544,Commit,knik0_faad2,2002-12-27 20:20:11,59090e7598999cbdf48f3faadaac7c0a9ae5b545,40.0,46.0,11.0,0.0
+545,Commit,knik0_faad2,2002-12-27 20:01:52,70d8b0d6858c03a2de235e070e12f8e55859cf65,1182.0,34.0,18.0,0.0
+546,Commit,knik0_faad2,2002-12-26 22:51:12,4139a363f7759de8928a833de7b7b29613817b1e,1300.0,1211.0,25.0,0.0
+547,Commit,knik0_faad2,2002-12-26 20:22:09,fffe3e713df85d20c43ac99b0a475963cbff20b5,2.0,2.0,1.0,0.0
+548,Commit,knik0_faad2,2002-12-26 19:47:55,e9f3355cb9b2b26154a1b8a70ade9b2f43b811f1,5.0,5.0,1.0,0.0
+549,Commit,knik0_faad2,2002-12-26 17:51:49,839d8a813af86affd5a54a79293ce127dd9131de,7.0,6.0,1.0,0.0
+550,Commit,knik0_faad2,2002-12-26 17:41:15,287b855fcdcc220d1c133562708c72864558257f,21.0,1.0,1.0,0.0
+551,Commit,knik0_faad2,2002-12-26 17:35:17,d73787d5b9d14fe0086c0b0b3b6ec928dd3dbce6,739.0,0.0,6.0,0.0
+552,Commit,knik0_faad2,2002-12-22 21:36:28,8a8fa3b09ef3dc7dba3c763e078bceb403809b6d,65.0,22.0,1.0,0.0
+553,Commit,knik0_faad2,2002-12-22 20:19:24,cadbe96167bb71c3b105ed2ff8d44b3b1b2b6e9a,5.0,3.0,1.0,0.0
+554,Commit,knik0_faad2,2002-12-22 19:58:31,58d9ce79f10730277bb79db6c07d68451c6baacf,70.0,45.0,7.0,0.0
+555,Commit,knik0_faad2,2002-12-11 11:36:13,302034653eeac5500edad16484ac199b9d282389,11.0,4.0,1.0,0.0
+556,Commit,knik0_faad2,2002-12-11 09:52:57,b2aec36134f39421dc3a434d973409d98bffb3aa,1.0,1.0,1.0,0.0
+557,Commit,knik0_faad2,2002-12-10 19:45:36,46ee73267fc46d0f0f229ab8aff4262e554c86f6,1143.0,1098.0,14.0,0.0
+558,Commit,knik0_faad2,2002-12-10 14:53:15,99a01ee867743997e40318c6456af79fdc77dea0,316.0,220.0,9.0,0.0
+559,Commit,knik0_faad2,2002-12-06 11:30:01,cd48b77ea6f3675155ae07e4408e14e26b9d6f99,7.0,1.0,1.0,0.0
+560,Commit,knik0_faad2,2002-12-06 11:05:15,0898971ef03a9aa1b20f904ea1cc74152e6971a3,35.0,3.0,1.0,0.0
+561,Commit,knik0_faad2,2002-12-06 10:42:55,3a89986b4cc7108f727992e22641477c853d5d76,5.0,5.0,1.0,0.0
+562,Commit,knik0_faad2,2002-12-06 10:24:33,4035bdd6d3cedb3f7dcd63fb37f75896db86480e,12.0,10.0,1.0,0.0
+563,Commit,knik0_faad2,2002-12-05 19:28:22,f5944cbe42a23d36ac58d45b2d0abfd670bf1afe,235.0,69.0,9.0,0.0
+564,Commit,knik0_faad2,2002-12-05 18:01:57,9f3c31d25eb3a94eb25aa9a6345a7dfa7b939dbc,53.0,7.0,3.0,0.0
+565,Commit,knik0_faad2,2002-12-02 20:28:04,44e7816658ea0f995343ee7bb288001b3647925b,90.0,31.0,5.0,0.0
+566,Commit,knik0_faad2,2002-11-28 18:48:30,6e334f585508b2e4f92f331f4553a6dae93820a9,2050.0,961.0,44.0,0.0
+567,Commit,knik0_faad2,2002-11-08 13:12:33,f0add29e73e7aa143b43f562f46218d598c254cb,12.0,13.0,7.0,0.0
+568,Commit,knik0_faad2,2002-11-08 13:00:35,9efcb7cd2bfb0aa0dc8e8399986c7bb55329578a,24.0,8.0,2.0,0.0
+569,Commit,knik0_faad2,2002-11-07 18:24:53,7e5718e75af5bc49156923f627dae26af50700fc,2143.0,7.0,8.0,0.0
+570,Commit,knik0_faad2,2002-11-01 11:19:36,7193768ac9ff3236ce7615b866f6d0e0ba53c5dc,307.0,296.0,22.0,0.0
+571,Commit,knik0_faad2,2002-10-30 19:19:48,2d236187d50077313e38fe0e7b0e178eb60f5218,12.0,0.0,1.0,0.0
+572,Commit,knik0_faad2,2002-10-27 20:43:47,cea2d6d9678f2d5ae6102b5bada2757471ffab8c,2311.0,1049.0,24.0,0.0
+573,Commit,knik0_faad2,2002-10-26 11:43:12,e90b1677ba523ad10d09f1cf77fb364513a3423e,9.0,60.0,4.0,0.0
+574,Commit,knik0_faad2,2002-10-20 15:43:30,528eeb796b548555b3d32119c4510f2cc277ad0f,116.0,57.0,19.0,0.0
+575,Commit,knik0_faad2,2002-10-16 19:18:10,b890573fa1aa6ef5c6e4bc64eba64dd220ad09c1,11.0,2300.0,15.0,0.0
+576,Commit,knik0_faad2,2002-10-11 18:05:01,f525ec421ab9734de9eeb231c2797baf2ee12c44,8.0,1.0,1.0,0.0
+577,Commit,knik0_faad2,2002-10-09 18:40:31,a601532d6578651bdee85e5cb6651529ec9cbb8f,7.0,4.0,3.0,0.0
+578,Commit,knik0_faad2,2002-10-05 15:21:31,3fc6ad0d7c312a7aea77ad7f0d52dae330a30488,4086.0,159.0,33.0,0.0
+579,Commit,knik0_faad2,2002-10-02 18:49:55,b8dedfd0147dbd2c548a4ecd7da9e3bd2c009190,3.0,3.0,1.0,0.0
+580,Commit,knik0_faad2,2002-10-01 21:55:49,31e91fdd154690af55d8a043ec96a86ecc414172,60.0,89.0,4.0,0.0
+581,Commit,knik0_faad2,2002-09-29 22:19:48,a2a56b3ea59188e2e2b60b69a0a8f77aa3093144,555.0,179.0,13.0,0.0
+582,Commit,knik0_faad2,2002-09-29 10:34:00,8e9935e445dd2988b93a5d0410c0344e9efac506,188.0,29.0,3.0,0.0
+583,Commit,knik0_faad2,2002-09-28 21:57:37,91c3d6d0e3f82f9ffddd3fd2e95ea7fafb403111,11.0,5.0,2.0,0.0
+584,Commit,knik0_faad2,2002-09-28 14:03:07,84bff2c915145927daac490b6c93bb83ebd3b530,98.0,2.0,2.0,0.0
+585,Commit,knik0_faad2,2002-09-27 08:37:22,ab56ea59d3a49486c15200f1db08a3d50b1df964,442.0,332.0,10.0,0.0
+586,Commit,knik0_faad2,2002-09-26 19:01:45,d81e3555e2df1b812f83e267bbcf0644edf4174f,2222.0,3944.0,12.0,0.0
+587,Commit,knik0_faad2,2002-09-24 09:23:55,e6651e57c8f32b278a94e36b75ab94ffb193a293,14.0,4.0,2.0,0.0
+588,Commit,knik0_faad2,2002-09-18 11:22:36,69a466f523d183c679db07ef1b4da04ec3b0089c,93.0,20.0,2.0,0.0
+589,Commit,knik0_faad2,2002-09-16 20:43:37,8328e1320cdd1231fc958ab50759cdc569379ef7,17.0,5.0,2.0,0.0
+590,Commit,knik0_faad2,2002-09-16 11:07:04,450fed9d988ef8dad6819df9ca6da7cbb0f4d82f,5.0,2.0,1.0,0.0
+591,Commit,knik0_faad2,2002-09-15 22:02:30,876a4ad85ff46d98b907bc051290f1e2ece556cf,96.0,31.0,5.0,0.0
+592,Commit,knik0_faad2,2002-09-13 13:08:45,b2880393d0216a9d5c3ad876d5ca44d1aacd8f5e,3519.0,77.0,10.0,0.0
+593,Commit,knik0_faad2,2002-09-08 18:14:37,dea62248dc147184c47d922e9a449d5e6440eee0,14409.0,395.0,28.0,0.0
+594,Commit,knik0_faad2,2002-09-05 20:10:53,b7b44ef77e27b65b020abe45eb92f159a3901d84,14.0,98.0,4.0,0.0
+595,Commit,knik0_faad2,2002-09-04 10:22:18,6c85fee8f0ffb7c6687f82596288f72d5bd33ef2,7.0,7.0,3.0,0.0
+596,Commit,knik0_faad2,2002-09-04 09:33:17,297680298fbf90e08122af8f1c55a09354aef030,3.0,3.0,1.0,0.0
+597,Commit,knik0_faad2,2002-09-04 09:17:42,be3cdaf29006c2b53bd3899f08dc2752ddba9bf6,7.0,7.0,1.0,0.0
+598,Commit,knik0_faad2,2002-09-03 21:22:53,9681f24773d7db5456b2ee91fd2902970faef5ba,35.0,17.0,4.0,0.0
+599,Commit,knik0_faad2,2002-08-30 21:10:36,1022473b1236454b7f11f005331a447938863eb8,27.0,3.0,1.0,0.0
+600,Commit,knik0_faad2,2002-08-30 20:52:43,ea1e898cfc7519e0f539007ed771c2329dc32d2e,1475.0,11.0,18.0,0.0
+601,Commit,knik0_faad2,2002-08-30 19:03:48,d7fd5cfc180d6f110527f5ccebeb7d6463570dd8,19.0,13.0,2.0,0.0
+602,Commit,knik0_faad2,2002-08-30 18:14:26,3655d4b9ff799a6765205fa8a6a308354fe0af9f,14.0,12.0,2.0,0.0
+603,Commit,knik0_faad2,2002-08-30 18:06:26,35a47287fa2dbae56347a5c12a324d712301f83a,96.0,49.0,3.0,0.0
+604,Commit,knik0_faad2,2002-08-30 14:32:28,7d5bdda48ab6c229d6186beb9ec8b97f820e4bba,1052.0,1083.0,16.0,0.0
+605,Commit,knik0_faad2,2002-08-30 12:11:57,10436dfe2186658722a5167b329739bccd8e264d,10.0,3.0,1.0,0.0
+606,Commit,knik0_faad2,2002-08-30 12:10:57,b9c91dbb598721be05a21034877deac322c5c80a,143.0,10.0,5.0,0.0
+607,Commit,knik0_faad2,2002-08-27 18:16:12,c5c3fc3f9ffcd7d06e3a565ba31162193cb9d065,27.0,51.0,7.0,0.0
+608,Commit,knik0_faad2,2002-08-27 10:24:57,4208c44ee74d94a434da96e364a9dd028acfbbec,121.0,113.0,19.0,0.0
+609,Commit,knik0_faad2,2002-08-26 19:08:39,5a3586372506a3bf38f16985f00a5a44aa11c43c,391.0,85.0,15.0,0.0
+610,Commit,knik0_faad2,2002-08-26 18:41:47,fb9d1d265e8cd35a9ca377a78484bcbe87803405,732.0,721.0,22.0,0.0
+611,Commit,knik0_faad2,2002-08-21 16:23:15,da29a5eefaff382ce76c4f7ff41003b2d5280584,18.0,18.0,2.0,0.0
+612,Commit,knik0_faad2,2002-08-20 16:59:58,eb346839313b5a5ff4c863574ce8a10d09e0b309,3.0,3.0,1.0,0.0
+613,Commit,knik0_faad2,2002-08-18 18:18:37,449969de3863a5d674815d24243c3cdb6b3f2073,15.0,3.0,1.0,0.0
+614,Commit,knik0_faad2,2002-08-17 12:27:33,7a97eaed2b106ff43f6f3fea945c6aa1225196f9,85.0,77.0,15.0,0.0
+615,Commit,knik0_faad2,2002-08-17 11:46:48,c51b2bc5fb16770c4e6703c43e33a44135418249,59.0,59.0,1.0,0.0
+616,Commit,knik0_faad2,2002-08-17 11:17:39,fe4d6628ab50158cd5f47d1126ee0dec4fc50ae4,13.0,16.0,2.0,0.0
+617,Commit,knik0_faad2,2002-08-17 11:16:40,707ae6e5bee8fb4dcd24b39ff71c072c0e29e02d,0.0,3.0,1.0,0.0
+618,Commit,knik0_faad2,2002-08-17 11:16:11,4f19defb4a07f3f14aeb7797e454c27a73f91b8a,30.0,41.0,1.0,0.0
+619,Commit,knik0_faad2,2002-08-17 11:15:32,77614c45fa3647a1bd927a8c7bd5d7599376d584,32.0,23.0,4.0,0.0
+620,Commit,knik0_faad2,2002-08-17 10:03:16,28139279d1c1df736e0db341f30b70ab080e1326,84.0,68.0,11.0,0.0
+621,Commit,knik0_faad2,2002-08-15 17:41:44,fccac308645a539807dd5916d9e66ac1e02f70c2,30.0,82.0,4.0,0.0
+622,Commit,knik0_faad2,2002-08-15 17:32:51,3cccff77ee05fa0751e7cee0f3e0aef040973450,346.0,344.0,2.0,0.0
+623,Commit,knik0_faad2,2002-08-14 18:21:55,edf20d4fb2b9c857f28544e4db692d1a185eaa4f,0.0,15.0,1.0,0.0
+624,Commit,knik0_faad2,2002-08-14 17:59:53,2244f7c92f733cd69fa014252bb9ded3ac59266b,60.0,218.0,4.0,0.0
+625,Commit,knik0_faad2,2002-08-14 17:55:49,3192dd937a71f737af84273806d91b306526cece,545.0,266.0,9.0,0.0
+626,Commit,knik0_faad2,2002-08-14 12:12:42,c6050d407a25bfa81573cff01bdadb65ef6cfb5f,2.0,2.0,1.0,0.0
+627,Commit,knik0_faad2,2002-08-14 10:55:28,f5c0a0d0448802ae1b2a1146f4b7171a64ef3309,164.0,65.0,6.0,0.0
+628,Commit,knik0_faad2,2002-08-14 10:55:03,710b205e19d68d14516c76c86f3d27e83e8a4827,21.0,5.0,1.0,0.0
+629,Commit,knik0_faad2,2002-08-13 19:28:08,aed66866cc63b01f8d66e1f381ca7a26c514887d,5.0,2.0,1.0,0.0
+630,Commit,knik0_faad2,2002-08-13 19:18:59,802ecda1ad2bac9c50a4e9e0398ca8255d0d329f,16.0,19.0,4.0,0.0
+631,Commit,knik0_faad2,2002-08-13 19:16:07,35f8e224dba9885e99c7e3fff80c9706def70d1d,285.0,34.0,20.0,0.0
+632,Commit,knik0_faad2,2002-08-13 14:39:03,86c9aebfb42aa5909ae2eed6b438f16411909789,465.0,56468.0,126.0,0.0
+633,Commit,knik0_faad2,2002-08-10 19:01:21,2ab9625b16378b210268b5a386b9b525c0f5d99a,3916.0,16.0,32.0,0.0
+634,Commit,knik0_faad2,2002-08-09 21:48:12,b402e6771bfad52a2d4170a090e2feaf753daa78,575.0,216.0,6.0,0.0
+635,Commit,knik0_faad2,2002-08-08 19:05:27,7390d86a7e1c5e8be663396278c6ec3eef34168c,26.0,7.0,2.0,0.0
+636,Commit,knik0_faad2,2002-08-07 14:34:31,f153d804411d9373cdebda0d5b6cc8a4d2783669,1.0,4.0,1.0,0.0
+637,Commit,knik0_faad2,2002-08-07 14:07:41,c5a305c15eeb5ba236586d202cbb39f8378f84b5,2.0,6.0,1.0,0.0
+638,Commit,knik0_faad2,2002-08-07 13:57:41,9a9fa10c760b59e48c567d408de3878498755f84,11.0,12.0,1.0,0.0
+639,Commit,knik0_faad2,2002-08-07 11:23:43,44c7b98d129afe60aac5bf8a688902a67623c27f,13.0,10.0,1.0,0.0
+640,Commit,knik0_faad2,2002-08-07 09:24:53,4f050e1ad2987d905969e97e9b98790427cad476,1124.0,341.0,1.0,0.0
+641,Commit,knik0_faad2,2002-08-07 08:37:16,5a241403dd9338b0b46ef16ae88f7abde9b5dfdc,68.0,20.0,9.0,0.0
+642,Commit,knik0_faad2,2002-08-07 08:14:31,29f38986701109e9da9972e7d6bba9f7df8ef7cd,289.0,102.0,5.0,0.0
+643,Commit,knik0_faad2,2002-08-05 20:33:38,7af9c20656f528fe2329d91197d4f83094d7715a,423.0,189.0,12.0,0.0
+644,Commit,knik0_faad2,2002-07-25 16:00:29,46d58fc082a8537f9de79342cd7d7d24974c984d,1.0,1.0,1.0,0.0
+645,Commit,knik0_faad2,2002-07-25 15:59:43,258669fab72174b62ad0f87d213570e0ad680e3c,3.0,3.0,1.0,0.0
+646,Commit,knik0_faad2,2002-07-25 13:43:24,ec86c1da5fe568b519be2a16c8e47f2355dea4db,1.0,1.0,1.0,0.0
+647,Commit,knik0_faad2,2002-07-25 12:35:34,ad5b1783d5774323ad21a4d9216cef7fb6f22fbb,1.0,7.0,3.0,0.0
+648,Commit,knik0_faad2,2002-07-25 12:30:57,ae1941edd7045fe0722e77e452dabb29cd0ecb02,8.0,12.0,2.0,0.0
+649,Commit,knik0_faad2,2002-07-25 12:22:13,99bd519a4df4601f868f2bd601d958f6f631d1d2,25386.0,9774.0,105.0,0.0
+650,Commit,knik0_faad2,2002-07-25 11:54:43,ca6c484158cf560424d7eb68e12e1814cc8dab0c,0.0,34827.0,79.0,0.0
+651,Commit,knik0_faad2,2002-07-25 11:49:29,accbb9767cd632250bfd8c30fe629410fe4dc474,3294.0,1798.0,27.0,0.0
+652,Commit,knik0_faad2,2002-07-24 11:41:01,aedfc3e7ba86301b10c39cb131f5562fd4c99ce9,8.0,296.0,2.0,0.0
+653,Commit,knik0_faad2,2002-07-14 19:11:12,1a8846b50eb297b9faa06e1273b1589a7ee833ca,827.0,309.0,7.0,0.0
+654,Commit,knik0_faad2,2002-07-09 11:02:52,1f194f58d0de59460c8fdeda7eac01a9573f2836,51.0,39.0,1.0,0.0
+655,Commit,knik0_faad2,2002-07-09 11:02:24,4c7a6be0fe45d7486add85a295e595108b256791,1.0,1.0,1.0,0.0
+656,Commit,knik0_faad2,2002-06-19 15:07:46,4a9f2b0566345b7d0a1c7192a8583a9d25a294b5,1.0,2.0,1.0,0.0
+657,Commit,knik0_faad2,2002-06-17 18:14:35,daceb93901a630ff1b6a0a02da171195d5fcde3f,13.0,29.0,1.0,0.0
+658,Commit,knik0_faad2,2002-06-15 15:38:22,3e5c46259ac3a65720ff99cc546833e753e28f58,59.0,41.0,3.0,0.0
+659,Commit,knik0_faad2,2002-06-15 15:10:47,5857a18ba4498e9bd73e3893ea59d460c5abe8b5,112.0,11.0,7.0,0.0
+660,Commit,knik0_faad2,2002-06-13 11:03:28,5cef46a6c51d565622907fa49a38a16d0932a760,201.0,148.0,24.0,0.0
+661,Commit,knik0_faad2,2002-06-13 08:04:18,fa46c1456ca95af03465b549c042a7d135b48766,4.0,0.0,1.0,0.0
+662,Commit,knik0_faad2,2002-06-13 08:01:17,55a7978edf3511760bb23a268780846e5a6f25c3,35.0,5.0,3.0,0.0
+663,Commit,knik0_faad2,2002-06-13 08:00:28,2cc7ab32cea062fa9f10241bf5a8195a34296ff7,606.0,14.0,4.0,0.0
+664,Commit,knik0_faad2,2002-06-03 15:03:46,939e4cf680afd277d9174eb4fdc1b90655f790f9,4.0,4.0,1.0,0.0
+665,Commit,knik0_faad2,2002-05-31 18:06:50,7592cc985f084dbfab7f941100d1f09b33a43e22,20.0,13.0,4.0,0.0
+666,Commit,knik0_faad2,2002-05-31 17:18:34,ceb107d19c8719a75edd2be1fae4666cfbc91936,113.0,4.0,3.0,0.0
+667,Commit,knik0_faad2,2002-05-30 18:31:51,e8d63fca010802f97552a4e3aaebc61f6802e640,68.0,24.0,6.0,0.0
+668,Commit,knik0_faad2,2002-05-30 18:01:37,8375349476e7df19b35005f148e6175fa8d05d0e,10.0,7.0,2.0,0.0
+669,Commit,knik0_faad2,2002-05-30 17:55:08,95b26ea83a1a4e62640bc3f13b47d35ea9baa6bd,202.0,44.0,9.0,0.0
+670,Commit,knik0_faad2,2002-05-30 17:20:05,9b53c17284995a80830741f4d0e89b935957f46c,301.0,5.0,1.0,0.0
+671,Commit,knik0_faad2,2002-05-24 17:26:12,1328d84e8b10421e3db2e0c778f359532b0a9cc4,70.0,65.0,10.0,0.0
+672,Commit,knik0_faad2,2002-05-14 13:40:31,6d726c2e024ac310553c8483f0db44a762d6a461,14.0,12.0,1.0,0.0
+673,Commit,knik0_faad2,2002-05-02 12:29:57,e79f5009f833fbbe65b213c59e2e5c27e1ee1ce1,1.0,0.0,1.0,0.0
+674,Commit,knik0_faad2,2002-05-01 19:25:19,8405ad628d6c83d74e84ae61622c735914631c9c,66.0,60.0,11.0,0.0
+675,Commit,knik0_faad2,2002-04-23 21:08:26,d6839757dffdf592ae300726a64e0f3199a9cd56,752.0,29.0,7.0,0.0
+676,Commit,knik0_faad2,2002-04-21 09:00:40,d192652be0d3eb46ef2c96c073ef183fef1eb063,111.0,29.0,8.0,0.0
+677,Commit,knik0_faad2,2002-04-20 22:20:15,c8e86c51125df3a307e1d674534a537287b079f4,216.0,75.0,6.0,0.0
+678,Commit,knik0_faad2,2002-04-20 14:45:13,b1d957de163081057eac05c26d502f6c28fc6dc8,1076.0,17.0,11.0,0.0
+679,Commit,knik0_faad2,2002-04-18 18:08:07,5f078c13f02d9d3cbfd562d29b72a490a58822f0,87.0,96.0,2.0,0.0
+680,Commit,knik0_faad2,2002-04-14 16:31:02,b4989014824433c9f048b0066a84b9f9e99611d2,56.0,42.0,7.0,0.0
+681,Commit,knik0_faad2,2002-04-08 12:18:37,4f9a9087f16b92662389be3dc0589629359ac8a4,8.0,63.0,1.0,0.0
+682,Commit,knik0_faad2,2002-04-07 21:26:05,e16df4a3051259468aca30c2ee3cb172feff7f74,35541.0,3767.0,87.0,0.0
+683,Commit,knik0_faad2,2002-03-28 19:53:34,52f98baf9162f841e69d23a9fd5d3dd707310842,79.0,68.0,23.0,0.0
+684,Commit,knik0_faad2,2002-03-27 19:09:29,5c797740cb2c9e6dd6a86f3829e1ff0ef029f5e3,55.0,45.0,4.0,0.0
+685,Commit,knik0_faad2,2002-03-16 19:18:11,86439f26b27ba6ae1a06704181a2dec722001a38,2589.0,4.0,26.0,0.0
+686,Commit,knik0_faad2,2002-03-16 15:49:58,4041be70bf23c172dda3d107e19d84c2fb58f644,13.0,13.0,1.0,0.0
+687,Commit,knik0_faad2,2002-03-16 15:43:28,89b8ee4d3bb58e01998568672231c546636a2461,14.0,1.0,1.0,0.0
+688,Commit,knik0_faad2,2002-03-16 15:09:59,d5e2f7ac5b9a0744f6bf5f57c5de0f2f7189a234,7.0,10.0,2.0,0.0
+689,Commit,knik0_faad2,2002-03-16 14:43:11,416ad0460c18287b963404dbc6c13841f117d683,790.0,790.0,6.0,0.0
+690,Commit,knik0_faad2,2002-03-16 14:36:28,7de46d7fc931ca48d104e999332310cdea71048b,549.0,549.0,4.0,0.0
+691,Commit,knik0_faad2,2002-03-16 14:05:22,f6b6ac07ea8f9cbe0cafa6545c016783809a48e6,2.0,2.0,1.0,0.0
+692,Commit,knik0_faad2,2002-03-16 14:03:53,064c55ab7a632a8a5e18b4698469295fc22e4fdb,348.0,348.0,2.0,0.0
+693,Commit,knik0_faad2,2002-03-16 13:38:37,01565e17da503b6b50fa0a575932598cfbbb81b4,264.0,76.0,22.0,0.0
+694,Commit,knik0_faad2,2002-02-27 17:38:34,1117181826387b1043fd5ad975df2005fc6feb8d,2.0,2.0,1.0,0.0
+695,Commit,knik0_faad2,2002-02-25 20:46:00,cb9fdcebbc96424f7e4f8e9c312eace1977f1975,3.0,2.0,1.0,0.0
+696,Commit,knik0_faad2,2002-02-25 20:19:14,f1e44957dfbcedbad16ef87ff3296a97727c7e7e,362.0,0.0,3.0,0.0
+697,Commit,knik0_faad2,2002-02-25 19:58:33,7272621bf3177cac339957f1a1f401b3c23f1dfa,2978.0,2100.0,38.0,0.0
+698,Commit,knik0_faad2,2002-02-20 13:05:57,0b79b1c3c52c4ad1535bf8429ae5b7c701c4a907,317.0,255.0,12.0,0.0
+699,Commit,knik0_faad2,2002-02-20 10:06:33,e82315d28bb5b1e866dad32fadc801c14c5cb1b4,15.0,12.0,3.0,0.0
+700,Commit,knik0_faad2,2002-02-19 15:31:56,c13fd2a1bb16abef815a5ca95fb685b0a4902402,6.0,5.0,1.0,0.0
+701,Commit,knik0_faad2,2002-02-18 10:01:06,26d190b3b044f04affebc0ea91152cae4c8203ca,1283.0,965.0,61.0,0.0
+702,Commit,knik0_faad2,2002-02-17 11:10:21,3c9ab2e25aaeac7a39ed5e745a252794f569a960,20.0,0.0,1.0,0.0
+703,Commit,knik0_faad2,2002-02-17 11:09:51,c1dd89578af9826ca60903b962f40d8b0e11c62a,12.0,228.0,3.0,0.0
+704,Commit,knik0_faad2,2002-02-15 20:52:10,283d7384fb6480fdfa6ef47cf28bfb83d5d7329b,3134.0,1620.0,18.0,0.0
+705,Commit,knik0_faad2,2002-02-11 11:34:18,8890a518126adebba303763033fcd6de015a0305,34.0,8.0,2.0,0.0
+706,Commit,knik0_faad2,2002-02-11 11:33:44,ce7117ae8702c3ab086d408ddd14df17cdeccdfd,2.0,1.0,1.0,0.0
+707,Commit,knik0_faad2,2002-02-08 10:05:59,b077292778791b645ae85bc6fc44723aa731d43e,1096.0,0.0,4.0,0.0
+708,Commit,knik0_faad2,2002-02-04 09:17:43,7e49aa4ec42404622aadfad2f0a360d162a31f5d,3.0,8.0,1.0,0.0
+709,Commit,knik0_faad2,2002-01-27 09:10:46,7d6e0c3877a7381ed4a9af79d40e4ae34fb3cc51,5.0,5.0,1.0,0.0
+710,Commit,knik0_faad2,2002-01-26 13:13:59,ce712bf57a00df57dcb548bf4dfe649289be1e27,40.0,0.0,2.0,0.0
+711,Commit,knik0_faad2,2002-01-25 23:20:42,1f22101f578affc9dbc249836ca3095b648cd6b3,4.0,4.0,1.0,0.0
+712,Commit,knik0_faad2,2002-01-25 20:26:33,eb2474536120f5b6391c391883b4cb68880b8155,77.0,1.0,6.0,0.0
+713,Commit,knik0_faad2,2002-01-25 20:15:07,8df0891e36371b20cbdcf620bbb1385a9e4faacb,45.0,34.0,4.0,0.0
+714,Commit,knik0_faad2,2002-01-24 19:42:19,c8df480d2b56da715019481fc063b6dd9958f40a,469.0,5.0,3.0,0.0
+715,Commit,knik0_faad2,2002-01-24 14:30:08,50cd3b2fbb9a3993164e0ff25f700b8fe9d27e9f,4.0,3.0,1.0,0.0
+716,Commit,knik0_faad2,2002-01-24 09:27:54,bca4f2b1da059fbf49a117f447b16b244fa7329a,1.0,5.0,1.0,0.0
+717,Commit,knik0_faad2,2002-01-23 23:42:25,ec8e4093c3354d1248374f8e27ea1e388d1f922a,8.0,8.0,2.0,0.0
+718,Commit,knik0_faad2,2002-01-23 23:17:31,ea248e71132f156dcc1d2b9b5bfc9f6826ef34d5,26.0,6.0,1.0,0.0
+719,Commit,knik0_faad2,2002-01-22 20:09:41,f1a25692ec05e896866281bbf725fe915e3646fe,3.0,3.0,1.0,0.0
+720,Commit,knik0_faad2,2002-01-22 09:11:24,f116386606467fb4563610b5d8bc4fcea2f2211c,10.0,10.0,4.0,0.0
+721,Commit,knik0_faad2,2002-01-21 23:27:10,7dbc6a2bb7c956b11dde52aa5972152dfeff8722,11.0,8.0,1.0,0.0
+722,Commit,knik0_faad2,2002-01-21 23:19:54,5cfbfd4668dc51caf0f707266ce5bdfb71267731,53.0,11.0,6.0,0.0
+723,Commit,knik0_faad2,2002-01-21 22:58:27,b5f271f8c73a2c4df3a5cebf4f90131ecb5e68fc,13.0,3.0,2.0,0.0
+724,Commit,knik0_faad2,2002-01-21 20:38:34,36ac51109224df99ad0e96609d37d126864f51ff,719.0,0.0,6.0,0.0
+725,Commit,knik0_faad2,2002-01-21 17:04:27,233ca4b6e61450f6acddd4ba0a3fae5d93b2ee7b,48.0,48.0,4.0,0.0
+726,Commit,knik0_faad2,2002-01-21 08:16:23,a78f38542dd5f4774ed651eb26218f53001fc6d4,48856.0,0.0,148.0,0.0
+727,Commit,knik0_faad2,2002-01-20 23:19:13,27a4c0f5bc30ef3a84eef0a312901a153f29348a,1710.0,0.0,7.0,0.0
+728,Commit,knik0_faad2,2002-01-20 17:00:48,c6320bdc10062f0fc1cedbf90fd96fd96c48ab6f,208.0,57.0,7.0,0.0
+729,Commit,knik0_faad2,2002-01-20 16:59:26,3501993184b7b711ab99d442ac651a6fb1310b6f,1438.0,0.0,7.0,0.0
+730,Commit,knik0_faad2,2002-01-19 16:19:54,58fc702265e87f43f286f958ca79cc1a47e926ce,144.0,141.0,4.0,0.0
+731,Commit,knik0_faad2,2002-01-19 16:06:14,6532c5d9236d10de5f9670286700222a7fa982d5,38.0,7.0,1.0,0.0
+732,Commit,knik0_faad2,2002-01-19 09:39:41,9d43d85c34011019a5d7d8e8e3f68158b0656acb,591.0,223.0,14.0,0.0
+733,Commit,knik0_faad2,2002-01-16 08:22:10,c3ec6d5ff3050628f6e2120ae9e9e7521e7c4191,0.0,201.0,1.0,0.0
+734,Commit,knik0_faad2,2002-01-16 08:18:30,3def44dfa46085e1d8ccaf9688a6817853bfcee9,3.0,1.0,1.0,0.0
+735,Commit,knik0_faad2,2002-01-15 19:55:09,c71144243747dd599cb9ff73fb70219adae968cb,8.0,8.0,1.0,0.0
+736,Commit,knik0_faad2,2002-01-15 13:51:42,32b2bf15a4e7bfe62338ce800a1e288cdeba9cca,3.0,3.0,1.0,0.0
+737,Commit,knik0_faad2,2002-01-15 13:49:42,faa21c4ffe1778245a4d3f258baa8b368351d4a5,9.0,6.0,1.0,0.0
+738,Commit,knik0_faad2,2002-01-15 13:20:13,ca0f0a41b215eb0bc74602dc0da151042f74c0fb,11.0,7.0,1.0,0.0
+739,Commit,knik0_faad2,2002-01-15 12:59:48,f007cb73f33286454e881969a377c7f1d90201c5,21556.0,196.0,117.0,0.0
+740,Commit,knik0_faad2,2002-01-14 19:15:57,c7dc7254c1ecfeb2227275f56bddac4f4e822760,55610.0,0.0,162.0,0.0
+0,forks,knik0_faad2,2017-11-13 10:06:23+00:00,,,,,
+1,forks,knik0_faad2,2018-09-14 03:08:03+00:00,,,,,
+2,forks,knik0_faad2,2018-10-19 08:20:36+00:00,,,,,
+3,forks,knik0_faad2,2018-12-09 03:03:24+00:00,,,,,
+4,forks,knik0_faad2,2019-02-25 10:30:46+00:00,,,,,
+5,forks,knik0_faad2,2019-03-27 10:03:51+00:00,,,,,
+6,forks,knik0_faad2,2019-04-08 23:30:20+00:00,,,,,
+7,forks,knik0_faad2,2019-06-11 08:22:51+00:00,,,,,
+8,forks,knik0_faad2,2019-07-12 02:33:12+00:00,,,,,
+9,forks,knik0_faad2,2019-09-19 07:53:53+00:00,,,,,
+10,forks,knik0_faad2,2019-09-19 11:42:46+00:00,,,,,
+11,forks,knik0_faad2,2019-11-13 23:58:41+00:00,,,,,
+12,forks,knik0_faad2,2019-12-30 16:39:26+00:00,,,,,
+13,forks,knik0_faad2,2020-03-19 04:22:11+00:00,,,,,
+14,forks,knik0_faad2,2020-04-06 12:52:45+00:00,,,,,
+15,forks,knik0_faad2,2020-04-15 09:54:36+00:00,,,,,
+16,forks,knik0_faad2,2020-05-01 16:30:04+00:00,,,,,
+17,forks,knik0_faad2,2020-05-04 08:03:49+00:00,,,,,
+18,forks,knik0_faad2,2020-05-25 11:29:21+00:00,,,,,
+19,forks,knik0_faad2,2020-07-09 05:32:52+00:00,,,,,
+20,forks,knik0_faad2,2020-08-13 08:08:55+00:00,,,,,
+21,forks,knik0_faad2,2020-09-04 03:40:03+00:00,,,,,
+22,forks,knik0_faad2,2020-10-05 11:46:53+00:00,,,,,
+23,forks,knik0_faad2,2020-10-10 05:05:47+00:00,,,,,
+24,forks,knik0_faad2,2020-11-23 07:36:48+00:00,,,,,
+25,forks,knik0_faad2,2020-12-17 06:41:51+00:00,,,,,
+26,forks,knik0_faad2,2021-01-01 06:36:46+00:00,,,,,
+27,forks,knik0_faad2,2021-01-28 09:49:21+00:00,,,,,
+28,forks,knik0_faad2,2021-02-12 09:19:08+00:00,,,,,
+29,forks,knik0_faad2,2021-04-08 10:50:02+00:00,,,,,
+30,forks,knik0_faad2,2021-05-12 10:29:49+00:00,,,,,
+31,forks,knik0_faad2,2021-05-19 07:58:48+00:00,,,,,
+32,forks,knik0_faad2,2021-07-15 19:49:40+00:00,,,,,
+33,forks,knik0_faad2,2021-07-25 23:11:11+00:00,,,,,
+34,forks,knik0_faad2,2021-07-30 07:23:22+00:00,,,,,
+35,forks,knik0_faad2,2021-11-02 14:51:48+00:00,,,,,
+36,forks,knik0_faad2,2021-12-10 01:34:15+00:00,,,,,
+37,forks,knik0_faad2,2021-12-16 10:51:37+00:00,,,,,
+38,forks,knik0_faad2,2021-12-29 01:37:24+00:00,,,,,
+39,forks,knik0_faad2,2022-01-25 09:56:54+00:00,,,,,
+40,forks,knik0_faad2,2022-03-17 03:03:18+00:00,,,,,
+41,forks,knik0_faad2,2022-04-13 16:40:30+00:00,,,,,
+42,forks,knik0_faad2,2022-04-24 04:44:41+00:00,,,,,
+43,forks,knik0_faad2,2022-07-02 08:34:10+00:00,,,,,
+0,issues,knik0_faad2,2017-09-15 18:04:34+00:00,,,,,
+1,issues,knik0_faad2,2017-12-17 19:36:50+00:00,,,,,
+2,issues,knik0_faad2,2018-03-05 19:18:02+00:00,,,,,
+3,issues,knik0_faad2,2018-06-02 10:38:31+00:00,,,,,
+4,issues,knik0_faad2,2018-10-09 02:31:27+00:00,,,,,
+5,issues,knik0_faad2,2018-11-17 10:00:28+00:00,,,,,
+6,issues,knik0_faad2,2018-12-17 03:56:41+00:00,,,,,
+7,issues,knik0_faad2,2018-12-17 04:02:04+00:00,,,,,
+8,issues,knik0_faad2,2018-12-17 04:08:19+00:00,,,,,
+9,issues,knik0_faad2,2018-12-17 04:11:39+00:00,,,,,
+10,issues,knik0_faad2,2018-12-17 05:12:17+00:00,,,,,
+11,issues,knik0_faad2,2018-12-17 05:15:59+00:00,,,,,
+12,issues,knik0_faad2,2018-12-17 06:17:36+00:00,,,,,
+13,issues,knik0_faad2,2018-12-17 06:22:35+00:00,,,,,
+14,issues,knik0_faad2,2018-12-17 06:25:35+00:00,,,,,
+15,issues,knik0_faad2,2018-12-17 06:28:49+00:00,,,,,
+16,issues,knik0_faad2,2018-12-17 06:36:12+00:00,,,,,
+17,issues,knik0_faad2,2018-12-17 06:39:54+00:00,,,,,
+18,issues,knik0_faad2,2018-12-17 06:45:31+00:00,,,,,
+19,issues,knik0_faad2,2018-12-17 06:49:16+00:00,,,,,
+20,issues,knik0_faad2,2018-12-17 06:51:28+00:00,,,,,
+21,issues,knik0_faad2,2018-12-17 06:55:49+00:00,,,,,
+22,issues,knik0_faad2,2019-05-05 08:29:32+00:00,,,,,
+23,issues,knik0_faad2,2019-05-17 08:37:42+00:00,,,,,
+24,issues,knik0_faad2,2019-08-20 14:00:29+00:00,,,,,
+25,issues,knik0_faad2,2019-09-22 07:55:53+00:00,,,,,
+26,issues,knik0_faad2,2019-12-11 17:49:17+00:00,,,,,
+27,issues,knik0_faad2,2020-01-13 23:59:45+00:00,,,,,
+28,issues,knik0_faad2,2020-04-22 16:22:20+00:00,,,,,
+29,issues,knik0_faad2,2020-05-11 09:13:07+00:00,,,,,
+30,issues,knik0_faad2,2020-06-30 01:00:12+00:00,,,,,
+31,issues,knik0_faad2,2020-08-16 07:27:58+00:00,,,,,
+32,issues,knik0_faad2,2020-08-30 15:27:09+00:00,,,,,
+33,issues,knik0_faad2,2020-08-30 15:29:51+00:00,,,,,
+34,issues,knik0_faad2,2020-08-30 15:32:46+00:00,,,,,
+35,issues,knik0_faad2,2020-08-30 15:53:54+00:00,,,,,
+36,issues,knik0_faad2,2020-09-04 14:47:28+00:00,,,,,
+37,issues,knik0_faad2,2020-11-01 22:09:16+00:00,,,,,
+38,issues,knik0_faad2,2020-11-02 01:56:24+00:00,,,,,
+39,issues,knik0_faad2,2020-12-31 00:44:56+00:00,,,,,
+40,issues,knik0_faad2,2021-01-23 15:00:55+00:00,,,,,
+41,issues,knik0_faad2,2021-03-10 02:33:54+00:00,,,,,
+42,issues,knik0_faad2,2021-08-11 21:45:28+00:00,,,,,
+43,issues,knik0_faad2,2022-04-01 22:07:55+00:00,,,,,
+0,pullRequests,knik0_faad2,2017-10-05 21:23:25+00:00,,,,,
+1,pullRequests,knik0_faad2,2017-10-09 18:58:15+00:00,,,,,
+2,pullRequests,knik0_faad2,2017-12-16 18:49:46+00:00,,,,,
+3,pullRequests,knik0_faad2,2017-12-17 14:00:18+00:00,,,,,
+4,pullRequests,knik0_faad2,2017-12-18 13:34:50+00:00,,,,,
+5,pullRequests,knik0_faad2,2017-12-19 16:52:06+00:00,,,,,
+6,pullRequests,knik0_faad2,2017-12-21 00:40:47+00:00,,,,,
+7,pullRequests,knik0_faad2,2017-12-21 12:00:03+00:00,,,,,
+8,pullRequests,knik0_faad2,2017-12-22 20:05:57+00:00,,,,,
+9,pullRequests,knik0_faad2,2018-08-04 11:34:48+00:00,,,,,
+10,pullRequests,knik0_faad2,2019-02-25 12:49:15+00:00,,,,,
+11,pullRequests,knik0_faad2,2019-05-25 06:36:31+00:00,,,,,
+12,pullRequests,knik0_faad2,2019-06-11 08:30:41+00:00,,,,,
+13,pullRequests,knik0_faad2,2019-08-19 16:43:57+00:00,,,,,
+14,pullRequests,knik0_faad2,2019-09-07 14:55:50+00:00,,,,,
+15,pullRequests,knik0_faad2,2019-11-13 23:59:29+00:00,,,,,
+16,pullRequests,knik0_faad2,2019-11-14 00:01:40+00:00,,,,,
+17,pullRequests,knik0_faad2,2019-11-14 00:02:50+00:00,,,,,
+18,pullRequests,knik0_faad2,2020-03-11 00:40:13+00:00,,,,,
+19,pullRequests,knik0_faad2,2020-03-11 03:14:52+00:00,,,,,
+20,pullRequests,knik0_faad2,2020-05-01 16:33:21+00:00,,,,,
+21,pullRequests,knik0_faad2,2020-05-04 08:08:36+00:00,,,,,
+22,pullRequests,knik0_faad2,2020-05-04 08:13:48+00:00,,,,,
+23,pullRequests,knik0_faad2,2020-06-04 11:15:38+00:00,,,,,
+24,pullRequests,knik0_faad2,2020-09-04 03:48:43+00:00,,,,,
+25,pullRequests,knik0_faad2,2020-10-05 11:56:35+00:00,,,,,
+26,pullRequests,knik0_faad2,2020-10-06 07:41:43+00:00,,,,,
+27,pullRequests,knik0_faad2,2020-10-08 01:36:50+00:00,,,,,
+28,pullRequests,knik0_faad2,2020-10-09 14:04:38+00:00,,,,,
+29,pullRequests,knik0_faad2,2021-01-01 06:38:01+00:00,,,,,
+30,pullRequests,knik0_faad2,2021-07-15 20:00:30+00:00,,,,,
+31,pullRequests,knik0_faad2,2021-07-25 23:12:50+00:00,,,,,
+0,releases,knik0_faad2,2019-09-09 10:28:33+00:00,,,,,
+1,releases,knik0_faad2,2019-11-04 10:22:03+00:00,,,,,
+2,releases,knik0_faad2,2020-05-04 19:53:45+00:00,,,,,
+3,releases,knik0_faad2,2020-10-20 06:24:05+00:00,,,,,
+0,stargazers,knik0_faad2,2017-08-23 14:56:52+00:00,,,,,
+1,stargazers,knik0_faad2,2017-08-29 06:30:19+00:00,,,,,
+2,stargazers,knik0_faad2,2017-09-04 07:20:37+00:00,,,,,
+3,stargazers,knik0_faad2,2017-09-04 21:43:46+00:00,,,,,
+4,stargazers,knik0_faad2,2017-09-07 03:18:03+00:00,,,,,
+5,stargazers,knik0_faad2,2017-10-11 10:45:12+00:00,,,,,
+6,stargazers,knik0_faad2,2017-12-06 21:39:12+00:00,,,,,
+7,stargazers,knik0_faad2,2017-12-22 20:06:45+00:00,,,,,
+8,stargazers,knik0_faad2,2018-01-04 04:39:06+00:00,,,,,
+9,stargazers,knik0_faad2,2018-01-25 11:39:17+00:00,,,,,
+10,stargazers,knik0_faad2,2018-05-12 10:49:58+00:00,,,,,
+11,stargazers,knik0_faad2,2018-06-11 10:50:04+00:00,,,,,
+12,stargazers,knik0_faad2,2018-07-25 14:07:51+00:00,,,,,
+13,stargazers,knik0_faad2,2018-08-21 15:06:46+00:00,,,,,
+14,stargazers,knik0_faad2,2018-09-04 14:36:45+00:00,,,,,
+15,stargazers,knik0_faad2,2018-09-14 10:29:37+00:00,,,,,
+16,stargazers,knik0_faad2,2018-10-05 13:49:15+00:00,,,,,
+17,stargazers,knik0_faad2,2018-10-23 18:21:41+00:00,,,,,
+18,stargazers,knik0_faad2,2018-11-13 22:55:52+00:00,,,,,
+19,stargazers,knik0_faad2,2018-11-17 06:08:47+00:00,,,,,
+20,stargazers,knik0_faad2,2018-11-19 13:29:08+00:00,,,,,
+21,stargazers,knik0_faad2,2018-11-30 08:39:09+00:00,,,,,
+22,stargazers,knik0_faad2,2018-12-21 07:57:39+00:00,,,,,
+23,stargazers,knik0_faad2,2018-12-21 12:08:36+00:00,,,,,
+24,stargazers,knik0_faad2,2019-01-26 16:59:36+00:00,,,,,
+25,stargazers,knik0_faad2,2019-03-06 15:38:24+00:00,,,,,
+26,stargazers,knik0_faad2,2019-03-18 19:41:53+00:00,,,,,
+27,stargazers,knik0_faad2,2019-03-21 02:12:14+00:00,,,,,
+28,stargazers,knik0_faad2,2019-03-21 02:59:56+00:00,,,,,
+29,stargazers,knik0_faad2,2019-04-09 15:49:33+00:00,,,,,
+30,stargazers,knik0_faad2,2019-05-26 20:21:18+00:00,,,,,
+31,stargazers,knik0_faad2,2019-07-04 11:26:45+00:00,,,,,
+32,stargazers,knik0_faad2,2019-07-12 14:45:10+00:00,,,,,
+33,stargazers,knik0_faad2,2019-07-21 09:26:39+00:00,,,,,
+34,stargazers,knik0_faad2,2019-07-31 09:34:31+00:00,,,,,
+35,stargazers,knik0_faad2,2019-08-11 13:09:49+00:00,,,,,
+36,stargazers,knik0_faad2,2019-08-12 09:30:51+00:00,,,,,
+37,stargazers,knik0_faad2,2019-09-01 07:26:41+00:00,,,,,
+38,stargazers,knik0_faad2,2019-09-05 23:53:50+00:00,,,,,
+39,stargazers,knik0_faad2,2019-10-24 13:25:59+00:00,,,,,
+40,stargazers,knik0_faad2,2019-11-07 05:30:04+00:00,,,,,
+41,stargazers,knik0_faad2,2019-11-14 10:52:36+00:00,,,,,
+42,stargazers,knik0_faad2,2019-11-20 06:16:14+00:00,,,,,
+43,stargazers,knik0_faad2,2019-11-21 03:01:17+00:00,,,,,
+44,stargazers,knik0_faad2,2019-12-02 18:12:35+00:00,,,,,
+45,stargazers,knik0_faad2,2020-01-01 15:58:57+00:00,,,,,
+46,stargazers,knik0_faad2,2020-02-09 12:43:33+00:00,,,,,
+47,stargazers,knik0_faad2,2020-02-12 04:48:56+00:00,,,,,
+48,stargazers,knik0_faad2,2020-02-20 11:58:48+00:00,,,,,
+49,stargazers,knik0_faad2,2020-03-09 09:10:56+00:00,,,,,
+50,stargazers,knik0_faad2,2020-03-29 04:03:04+00:00,,,,,
+51,stargazers,knik0_faad2,2020-04-15 06:03:10+00:00,,,,,
+52,stargazers,knik0_faad2,2020-04-19 15:42:39+00:00,,,,,
+53,stargazers,knik0_faad2,2020-04-21 21:16:13+00:00,,,,,
+54,stargazers,knik0_faad2,2020-05-01 16:33:56+00:00,,,,,
+55,stargazers,knik0_faad2,2020-05-01 17:17:24+00:00,,,,,
+56,stargazers,knik0_faad2,2020-06-30 16:43:33+00:00,,,,,
+57,stargazers,knik0_faad2,2020-07-09 16:13:37+00:00,,,,,
+58,stargazers,knik0_faad2,2020-07-30 23:12:14+00:00,,,,,
+59,stargazers,knik0_faad2,2020-08-06 13:11:50+00:00,,,,,
+60,stargazers,knik0_faad2,2020-08-07 01:58:31+00:00,,,,,
+61,stargazers,knik0_faad2,2020-08-11 11:13:34+00:00,,,,,
+62,stargazers,knik0_faad2,2020-08-11 13:43:09+00:00,,,,,
+63,stargazers,knik0_faad2,2020-08-26 14:35:36+00:00,,,,,
+64,stargazers,knik0_faad2,2020-08-30 22:05:41+00:00,,,,,
+65,stargazers,knik0_faad2,2020-09-01 22:19:25+00:00,,,,,
+66,stargazers,knik0_faad2,2020-09-16 16:18:50+00:00,,,,,
+67,stargazers,knik0_faad2,2020-09-17 10:48:17+00:00,,,,,
+68,stargazers,knik0_faad2,2020-09-22 07:50:12+00:00,,,,,
+69,stargazers,knik0_faad2,2020-10-10 05:05:42+00:00,,,,,
+70,stargazers,knik0_faad2,2020-10-10 07:35:32+00:00,,,,,
+71,stargazers,knik0_faad2,2020-10-12 02:19:40+00:00,,,,,
+72,stargazers,knik0_faad2,2020-10-14 03:47:40+00:00,,,,,
+73,stargazers,knik0_faad2,2020-11-09 05:37:01+00:00,,,,,
+74,stargazers,knik0_faad2,2020-11-12 13:09:19+00:00,,,,,
+75,stargazers,knik0_faad2,2020-12-17 06:41:30+00:00,,,,,
+76,stargazers,knik0_faad2,2021-01-10 14:54:31+00:00,,,,,
+77,stargazers,knik0_faad2,2021-02-18 08:21:58+00:00,,,,,
+78,stargazers,knik0_faad2,2021-02-18 12:48:50+00:00,,,,,
+79,stargazers,knik0_faad2,2021-02-21 12:07:27+00:00,,,,,
+80,stargazers,knik0_faad2,2021-03-04 05:52:36+00:00,,,,,
+81,stargazers,knik0_faad2,2021-03-09 12:01:20+00:00,,,,,
+82,stargazers,knik0_faad2,2021-03-29 11:00:12+00:00,,,,,
+83,stargazers,knik0_faad2,2021-03-31 13:55:53+00:00,,,,,
+84,stargazers,knik0_faad2,2021-03-31 16:57:18+00:00,,,,,
+85,stargazers,knik0_faad2,2021-04-07 15:02:31+00:00,,,,,
+86,stargazers,knik0_faad2,2021-04-26 05:22:54+00:00,,,,,
+87,stargazers,knik0_faad2,2021-04-27 07:27:14+00:00,,,,,
+88,stargazers,knik0_faad2,2021-06-22 01:50:01+00:00,,,,,
+89,stargazers,knik0_faad2,2021-06-22 15:21:51+00:00,,,,,
+90,stargazers,knik0_faad2,2021-07-01 06:18:15+00:00,,,,,
+91,stargazers,knik0_faad2,2021-07-10 10:43:39+00:00,,,,,
+92,stargazers,knik0_faad2,2021-10-17 01:38:46+00:00,,,,,
+93,stargazers,knik0_faad2,2021-10-30 10:20:08+00:00,,,,,
+94,stargazers,knik0_faad2,2021-11-20 11:42:36+00:00,,,,,
+95,stargazers,knik0_faad2,2021-12-13 09:58:21+00:00,,,,,
+96,stargazers,knik0_faad2,2021-12-22 03:40:50+00:00,,,,,
+97,stargazers,knik0_faad2,2022-01-05 01:59:21+00:00,,,,,
+98,stargazers,knik0_faad2,2022-01-25 09:56:43+00:00,,,,,
+99,stargazers,knik0_faad2,2022-02-01 05:15:37+00:00,,,,,
+100,stargazers,knik0_faad2,2022-02-04 14:54:34+00:00,,,,,
+101,stargazers,knik0_faad2,2022-03-02 02:33:23+00:00,,,,,
+102,stargazers,knik0_faad2,2022-03-09 00:59:39+00:00,,,,,
+103,stargazers,knik0_faad2,2022-04-06 17:18:37+00:00,,,,,
+104,stargazers,knik0_faad2,2022-04-07 16:28:48+00:00,,,,,
+105,stargazers,knik0_faad2,2022-04-24 04:44:22+00:00,,,,,
+106,stargazers,knik0_faad2,2022-05-09 02:51:36+00:00,,,,,
+107,stargazers,knik0_faad2,2022-06-09 03:15:39+00:00,,,,,
+108,stargazers,knik0_faad2,2022-06-17 00:02:37+00:00,,,,,
+109,stargazers,knik0_faad2,2022-06-22 07:36:13+00:00,,,,,

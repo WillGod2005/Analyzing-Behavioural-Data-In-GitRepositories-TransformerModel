@@ -1,0 +1,1639 @@
+,type,name,created_at,Hash,Add,Del,Files,Vuln
+60375,PushEvent,codehaus-plexus_plexus-utils,2015-04-07 15:59:18 UTC,,,,,
+264349,PullRequestEvent,codehaus-plexus_plexus-utils,2015-03-31 12:32:37 UTC,,,,,
+338595,WatchEvent,codehaus-plexus_plexus-utils,2015-11-24 08:27:02 UTC,,,,,
+342750,CreateEvent,codehaus-plexus_plexus-utils,2015-04-07 15:59:19 UTC,,,,,
+377634,PushEvent,codehaus-plexus_plexus-utils,2015-01-27 16:50:33 UTC,,,,,
+401314,PushEvent,codehaus-plexus_plexus-utils,2015-03-31 22:12:47 UTC,,,,,
+534108,IssueCommentEvent,codehaus-plexus_plexus-utils,2015-11-22 16:17:29 UTC,,,,,
+574800,PushEvent,codehaus-plexus_plexus-utils,2015-02-10 22:26:09 UTC,,,,,
+618383,PushEvent,codehaus-plexus_plexus-utils,2015-09-26 19:50:08 UTC,,,,,
+887066,PushEvent,codehaus-plexus_plexus-utils,2015-04-07 15:59:22 UTC,,,,,
+890434,ForkEvent,codehaus-plexus_plexus-utils,2015-03-31 12:26:53 UTC,,,,,
+1059542,ForkEvent,codehaus-plexus_plexus-utils,2015-05-22 11:58:04 UTC,,,,,
+1060865,DeleteEvent,codehaus-plexus_plexus-utils,2015-01-27 16:48:59 UTC,,,,,
+1159611,CreateEvent,codehaus-plexus_plexus-utils,2015-11-22 16:12:31 UTC,,,,,
+1272781,IssueCommentEvent,codehaus-plexus_plexus-utils,2015-11-23 11:11:52 UTC,,,,,
+1381476,WatchEvent,codehaus-plexus_plexus-utils,2015-03-29 20:39:33 UTC,,,,,
+1452527,WatchEvent,codehaus-plexus_plexus-utils,2015-04-22 16:23:36 UTC,,,,,
+1495990,WatchEvent,codehaus-plexus_plexus-utils,2015-04-19 15:01:20 UTC,,,,,
+1638641,IssuesEvent,codehaus-plexus_plexus-utils,2015-10-05 09:01:49 UTC,,,,,
+1661965,DeleteEvent,codehaus-plexus_plexus-utils,2015-01-27 16:49:10 UTC,,,,,
+1706020,IssuesEvent,codehaus-plexus_plexus-utils,2015-02-11 08:28:52 UTC,,,,,
+1752782,PushEvent,codehaus-plexus_plexus-utils,2015-09-26 19:52:47 UTC,,,,,
+1779845,ForkEvent,codehaus-plexus_plexus-utils,2015-12-02 21:51:11 UTC,,,,,
+1902878,ForkEvent,codehaus-plexus_plexus-utils,2015-12-10 14:36:25 UTC,,,,,
+2047087,DeleteEvent,codehaus-plexus_plexus-utils,2015-01-27 16:49:19 UTC,,,,,
+2066777,CreateEvent,codehaus-plexus_plexus-utils,2015-09-26 19:29:40 UTC,,,,,
+2147153,PullRequestEvent,codehaus-plexus_plexus-utils,2015-03-31 22:12:47 UTC,,,,,
+2224596,PushEvent,codehaus-plexus_plexus-utils,2015-09-26 19:23:04 UTC,,,,,
+2371276,CreateEvent,codehaus-plexus_plexus-utils,2015-04-10 22:58:55 UTC,,,,,
+2377320,IssueCommentEvent,codehaus-plexus_plexus-utils,2015-11-21 19:31:46 UTC,,,,,
+2423076,IssuesEvent,codehaus-plexus_plexus-utils,2015-11-20 14:30:50 UTC,,,,,
+2444583,IssueCommentEvent,codehaus-plexus_plexus-utils,2015-11-22 15:59:28 UTC,,,,,
+2560153,WatchEvent,codehaus-plexus_plexus-utils,2015-05-12 08:41:50 UTC,,,,,
+2635959,IssuesEvent,codehaus-plexus_plexus-utils,2015-11-22 16:17:29 UTC,,,,,
+2638798,PushEvent,codehaus-plexus_plexus-utils,2015-11-22 15:56:41 UTC,,,,,
+2681926,PushEvent,codehaus-plexus_plexus-utils,2015-09-26 20:17:53 UTC,,,,,
+2769492,IssuesEvent,codehaus-plexus_plexus-utils,2015-11-22 15:59:28 UTC,,,,,
+2820907,IssuesEvent,codehaus-plexus_plexus-utils,2015-09-21 09:53:22 UTC,,,,,
+2894621,PushEvent,codehaus-plexus_plexus-utils,2015-04-07 15:56:16 UTC,,,,,
+2911552,IssuesEvent,codehaus-plexus_plexus-utils,2015-09-21 09:41:02 UTC,,,,,
+2938444,WatchEvent,codehaus-plexus_plexus-utils,2015-11-28 06:18:28 UTC,,,,,
+101558,ForkEvent,codehaus-plexus_plexus-utils,2016-05-10 07:26:21 UTC,,,,,
+131408,IssuesEvent,codehaus-plexus_plexus-utils,2016-03-07 08:51:26 UTC,,,,,
+238828,PullRequestEvent,codehaus-plexus_plexus-utils,2016-05-27 23:08:09 UTC,,,,,
+321929,ForkEvent,codehaus-plexus_plexus-utils,2016-11-01 00:13:00 UTC,,,,,
+350768,PushEvent,codehaus-plexus_plexus-utils,2016-05-07 16:39:34 UTC,,,,,
+392322,WatchEvent,codehaus-plexus_plexus-utils,2016-07-06 21:13:47 UTC,,,,,
+657626,CreateEvent,codehaus-plexus_plexus-utils,2016-05-07 22:24:07 UTC,,,,,
+686217,IssuesEvent,codehaus-plexus_plexus-utils,2016-06-08 23:56:26 UTC,,,,,
+714606,IssuesEvent,codehaus-plexus_plexus-utils,2016-05-10 16:47:48 UTC,,,,,
+748136,PushEvent,codehaus-plexus_plexus-utils,2016-06-14 01:32:26 UTC,,,,,
+801587,PushEvent,codehaus-plexus_plexus-utils,2016-05-22 22:02:57 UTC,,,,,
+803802,IssueCommentEvent,codehaus-plexus_plexus-utils,2016-05-22 22:09:18 UTC,,,,,
+914985,ForkEvent,codehaus-plexus_plexus-utils,2016-05-03 22:47:20 UTC,,,,,
+997536,PushEvent,codehaus-plexus_plexus-utils,2016-05-07 22:18:17 UTC,,,,,
+1015488,IssueCommentEvent,codehaus-plexus_plexus-utils,2016-06-12 17:01:05 UTC,,,,,
+1085218,IssueCommentEvent,codehaus-plexus_plexus-utils,2016-06-12 17:02:07 UTC,,,,,
+1101969,PushEvent,codehaus-plexus_plexus-utils,2016-05-07 22:24:05 UTC,,,,,
+1319553,PushEvent,codehaus-plexus_plexus-utils,2016-05-22 22:08:10 UTC,,,,,
+1331265,IssueCommentEvent,codehaus-plexus_plexus-utils,2016-06-13 17:55:16 UTC,,,,,
+1338446,PushEvent,codehaus-plexus_plexus-utils,2016-03-07 09:28:53 UTC,,,,,
+1352209,PullRequestEvent,codehaus-plexus_plexus-utils,2016-05-03 23:22:07 UTC,,,,,
+1363607,PushEvent,codehaus-plexus_plexus-utils,2016-05-04 18:30:57 UTC,,,,,
+1560967,IssuesEvent,codehaus-plexus_plexus-utils,2016-01-21 21:14:16 UTC,,,,,
+1572620,PushEvent,codehaus-plexus_plexus-utils,2016-05-07 22:34:15 UTC,,,,,
+1589574,PullRequestEvent,codehaus-plexus_plexus-utils,2016-05-04 18:07:28 UTC,,,,,
+1628540,IssueCommentEvent,codehaus-plexus_plexus-utils,2016-06-12 16:41:09 UTC,,,,,
+1646224,PullRequestEvent,codehaus-plexus_plexus-utils,2016-06-14 21:29:22 UTC,,,,,
+1660340,ForkEvent,codehaus-plexus_plexus-utils,2016-10-26 21:46:27 UTC,,,,,
+1746057,PushEvent,codehaus-plexus_plexus-utils,2016-03-07 19:39:24 UTC,,,,,
+1784371,WatchEvent,codehaus-plexus_plexus-utils,2016-08-24 12:13:25 UTC,,,,,
+1831162,PushEvent,codehaus-plexus_plexus-utils,2016-06-14 01:29:24 UTC,,,,,
+1883828,IssueCommentEvent,codehaus-plexus_plexus-utils,2016-06-12 16:59:16 UTC,,,,,
+1894103,PushEvent,codehaus-plexus_plexus-utils,2016-06-14 21:29:22 UTC,,,,,
+1955075,PullRequestEvent,codehaus-plexus_plexus-utils,2016-06-14 01:32:26 UTC,,,,,
+2016897,PushEvent,codehaus-plexus_plexus-utils,2016-03-07 09:02:25 UTC,,,,,
+2083031,PushEvent,codehaus-plexus_plexus-utils,2016-03-07 19:41:09 UTC,,,,,
+2270502,IssuesEvent,codehaus-plexus_plexus-utils,2016-05-07 22:12:07 UTC,,,,,
+2285111,ForkEvent,codehaus-plexus_plexus-utils,2016-11-09 17:33:58 UTC,,,,,
+2339291,PushEvent,codehaus-plexus_plexus-utils,2016-05-22 22:07:08 UTC,,,,,
+2348297,ForkEvent,codehaus-plexus_plexus-utils,2016-04-02 16:53:53 UTC,,,,,
+2364271,PushEvent,codehaus-plexus_plexus-utils,2016-03-07 08:56:24 UTC,,,,,
+2468170,PushEvent,codehaus-plexus_plexus-utils,2016-05-07 22:24:10 UTC,,,,,
+2484657,IssuesEvent,codehaus-plexus_plexus-utils,2016-05-07 22:12:07 UTC,,,,,
+2740815,IssuesEvent,codehaus-plexus_plexus-utils,2016-03-07 09:28:53 UTC,,,,,
+2854119,IssuesEvent,codehaus-plexus_plexus-utils,2016-05-07 22:12:07 UTC,,,,,
+2868740,ForkEvent,codehaus-plexus_plexus-utils,2016-09-17 07:00:06 UTC,,,,,
+2917029,IssuesEvent,codehaus-plexus_plexus-utils,2016-06-12 17:00:53 UTC,,,,,
+2990786,IssueCommentEvent,codehaus-plexus_plexus-utils,2016-05-12 22:00:48 UTC,,,,,
+3003709,PullRequestReviewCommentEvent,codehaus-plexus_plexus-utils,2016-06-14 00:41:43 UTC,,,,,
+3025948,ForkEvent,codehaus-plexus_plexus-utils,2016-05-24 22:00:53 UTC,,,,,
+3069478,IssueCommentEvent,codehaus-plexus_plexus-utils,2016-06-12 17:00:53 UTC,,,,,
+3268857,PushEvent,codehaus-plexus_plexus-utils,2016-06-14 01:42:33 UTC,,,,,
+3335525,IssuesEvent,codehaus-plexus_plexus-utils,2016-05-13 12:08:35 UTC,,,,,
+3407895,IssuesEvent,codehaus-plexus_plexus-utils,2016-11-13 16:51:23 UTC,,,,,
+3434916,ForkEvent,codehaus-plexus_plexus-utils,2016-06-15 15:47:01 UTC,,,,,
+3501400,ForkEvent,codehaus-plexus_plexus-utils,2016-05-10 16:48:00 UTC,,,,,
+3574660,WatchEvent,codehaus-plexus_plexus-utils,2016-07-11 14:08:37 UTC,,,,,
+3604759,IssueCommentEvent,codehaus-plexus_plexus-utils,2016-06-12 16:58:24 UTC,,,,,
+3614057,IssueCommentEvent,codehaus-plexus_plexus-utils,2016-06-13 15:58:31 UTC,,,,,
+3644531,PullRequestEvent,codehaus-plexus_plexus-utils,2016-11-12 17:33:41 UTC,,,,,
+3714099,PullRequestEvent,codehaus-plexus_plexus-utils,2016-11-13 15:45:03 UTC,,,,,
+3761555,PullRequestEvent,codehaus-plexus_plexus-utils,2016-05-24 22:06:09 UTC,,,,,
+3836889,CreateEvent,codehaus-plexus_plexus-utils,2016-05-04 18:31:00 UTC,,,,,
+3886721,PushEvent,codehaus-plexus_plexus-utils,2016-05-07 22:12:07 UTC,,,,,
+3942387,IssueCommentEvent,codehaus-plexus_plexus-utils,2016-06-13 22:09:07 UTC,,,,,
+3952858,PushEvent,codehaus-plexus_plexus-utils,2016-05-04 18:07:29 UTC,,,,,
+3971159,IssueCommentEvent,codehaus-plexus_plexus-utils,2016-06-14 17:59:00 UTC,,,,,
+4001280,IssuesEvent,codehaus-plexus_plexus-utils,2016-05-07 22:18:17 UTC,,,,,
+4106518,IssueCommentEvent,codehaus-plexus_plexus-utils,2016-06-12 20:40:52 UTC,,,,,
+4136502,IssuesEvent,codehaus-plexus_plexus-utils,2016-05-22 22:09:18 UTC,,,,,
+4170659,PushEvent,codehaus-plexus_plexus-utils,2016-05-04 18:31:05 UTC,,,,,
+161412,ForkEvent,codehaus-plexus_plexus-utils,2017-01-12 04:53:02 UTC,,,,,
+197913,ForkEvent,codehaus-plexus_plexus-utils,2017-07-19 11:41:37 UTC,,,,,
+219005,ForkEvent,codehaus-plexus_plexus-utils,2017-04-02 16:33:58 UTC,,,,,
+251843,ForkEvent,codehaus-plexus_plexus-utils,2017-01-29 22:11:46 UTC,,,,,
+298483,ForkEvent,codehaus-plexus_plexus-utils,2017-06-27 02:25:45 UTC,,,,,
+309137,ForkEvent,codehaus-plexus_plexus-utils,2017-01-22 09:42:57 UTC,,,,,
+408040,PushEvent,codehaus-plexus_plexus-utils,2017-08-02 18:44:43 UTC,,,,,
+410630,PushEvent,codehaus-plexus_plexus-utils,2017-06-28 12:57:46 UTC,,,,,
+411626,PushEvent,codehaus-plexus_plexus-utils,2017-04-27 08:23:48 UTC,,,,,
+479205,PushEvent,codehaus-plexus_plexus-utils,2017-06-28 12:50:26 UTC,,,,,
+492197,PushEvent,codehaus-plexus_plexus-utils,2017-02-06 21:52:39 UTC,,,,,
+495509,PushEvent,codehaus-plexus_plexus-utils,2017-06-18 20:04:30 UTC,,,,,
+500735,PushEvent,codehaus-plexus_plexus-utils,2017-02-06 21:43:40 UTC,,,,,
+520753,PushEvent,codehaus-plexus_plexus-utils,2017-08-03 18:03:25 UTC,,,,,
+570959,PushEvent,codehaus-plexus_plexus-utils,2017-08-03 17:58:17 UTC,,,,,
+586188,PushEvent,codehaus-plexus_plexus-utils,2017-06-18 20:02:53 UTC,,,,,
+603865,PushEvent,codehaus-plexus_plexus-utils,2017-02-06 22:00:47 UTC,,,,,
+645780,PushEvent,codehaus-plexus_plexus-utils,2017-02-26 11:01:49 UTC,,,,,
+703973,PushEvent,codehaus-plexus_plexus-utils,2017-12-28 14:55:22 UTC,,,,,
+771114,PushEvent,codehaus-plexus_plexus-utils,2017-08-03 17:58:11 UTC,,,,,
+771592,PushEvent,codehaus-plexus_plexus-utils,2017-07-02 14:23:42 UTC,,,,,
+1075802,WatchEvent,codehaus-plexus_plexus-utils,2017-01-22 09:48:56 UTC,,,,,
+1172968,WatchEvent,codehaus-plexus_plexus-utils,2017-09-26 09:43:37 UTC,,,,,
+1238642,WatchEvent,codehaus-plexus_plexus-utils,2017-06-27 02:25:31 UTC,,,,,
+1547338,WatchEvent,codehaus-plexus_plexus-utils,2017-05-30 19:15:00 UTC,,,,,
+1556509,WatchEvent,codehaus-plexus_plexus-utils,2017-11-25 17:56:20 UTC,,,,,
+1716652,WatchEvent,codehaus-plexus_plexus-utils,2017-10-11 20:31:05 UTC,,,,,
+1911930,CreateEvent,codehaus-plexus_plexus-utils,2017-08-03 17:49:38 UTC,,,,,
+1929487,CreateEvent,codehaus-plexus_plexus-utils,2017-08-03 17:58:13 UTC,,,,,
+1940738,CreateEvent,codehaus-plexus_plexus-utils,2017-12-28 13:39:02 UTC,,,,,
+1981189,CreateEvent,codehaus-plexus_plexus-utils,2017-08-03 17:49:41 UTC,,,,,
+2005129,DeleteEvent,codehaus-plexus_plexus-utils,2017-08-03 17:50:34 UTC,,,,,
+2010940,DeleteEvent,codehaus-plexus_plexus-utils,2017-08-03 18:07:19 UTC,,,,,
+2079335,IssuesEvent,codehaus-plexus_plexus-utils,2017-05-26 08:35:58 UTC,,,,,
+2131623,IssuesEvent,codehaus-plexus_plexus-utils,2017-02-19 12:49:46 UTC,,,,,
+2147915,IssuesEvent,codehaus-plexus_plexus-utils,2017-06-20 21:14:15 UTC,,,,,
+2187835,IssuesEvent,codehaus-plexus_plexus-utils,2017-02-23 13:52:08 UTC,,,,,
+2193625,IssuesEvent,codehaus-plexus_plexus-utils,2017-06-19 21:44:51 UTC,,,,,
+2217930,IssuesEvent,codehaus-plexus_plexus-utils,2017-06-18 20:02:52 UTC,,,,,
+2252819,IssuesEvent,codehaus-plexus_plexus-utils,2017-10-13 22:11:23 UTC,,,,,
+2323515,IssuesEvent,codehaus-plexus_plexus-utils,2017-06-28 12:50:26 UTC,,,,,
+2335063,IssuesEvent,codehaus-plexus_plexus-utils,2017-04-18 00:48:23 UTC,,,,,
+2447747,PullRequestEvent,codehaus-plexus_plexus-utils,2017-02-06 21:43:40 UTC,,,,,
+2468634,PullRequestEvent,codehaus-plexus_plexus-utils,2017-07-02 14:23:42 UTC,,,,,
+2523529,PullRequestEvent,codehaus-plexus_plexus-utils,2017-02-06 21:52:39 UTC,,,,,
+2537695,PullRequestEvent,codehaus-plexus_plexus-utils,2017-06-28 12:57:46 UTC,,,,,
+2568432,PullRequestEvent,codehaus-plexus_plexus-utils,2017-06-18 20:04:55 UTC,,,,,
+2599962,PullRequestEvent,codehaus-plexus_plexus-utils,2017-04-27 08:23:47 UTC,,,,,
+2656611,PullRequestEvent,codehaus-plexus_plexus-utils,2017-06-24 16:31:22 UTC,,,,,
+2668280,PullRequestEvent,codehaus-plexus_plexus-utils,2017-06-20 12:05:15 UTC,,,,,
+2736620,PullRequestEvent,codehaus-plexus_plexus-utils,2017-06-29 22:14:55 UTC,,,,,
+2750954,PullRequestEvent,codehaus-plexus_plexus-utils,2017-02-06 22:00:47 UTC,,,,,
+2763786,PullRequestEvent,codehaus-plexus_plexus-utils,2017-02-07 16:44:10 UTC,,,,,
+2765172,PullRequestEvent,codehaus-plexus_plexus-utils,2017-06-28 12:50:26 UTC,,,,,
+2795691,PullRequestEvent,codehaus-plexus_plexus-utils,2017-07-02 13:40:20 UTC,,,,,
+2800493,PullRequestEvent,codehaus-plexus_plexus-utils,2017-06-25 17:27:20 UTC,,,,,
+2847009,PullRequestEvent,codehaus-plexus_plexus-utils,2017-01-29 22:31:02 UTC,,,,,
+2857092,PullRequestEvent,codehaus-plexus_plexus-utils,2017-04-02 15:56:49 UTC,,,,,
+2860443,PullRequestEvent,codehaus-plexus_plexus-utils,2017-01-29 22:31:17 UTC,,,,,
+2926237,IssueCommentEvent,codehaus-plexus_plexus-utils,2017-06-30 11:41:08 UTC,,,,,
+2930500,IssueCommentEvent,codehaus-plexus_plexus-utils,2017-02-19 17:23:10 UTC,,,,,
+2973358,IssueCommentEvent,codehaus-plexus_plexus-utils,2017-06-20 11:25:49 UTC,,,,,
+3013102,IssueCommentEvent,codehaus-plexus_plexus-utils,2017-06-24 13:02:52 UTC,,,,,
+3056055,IssueCommentEvent,codehaus-plexus_plexus-utils,2017-06-24 18:40:51 UTC,,,,,
+3064446,IssueCommentEvent,codehaus-plexus_plexus-utils,2017-04-18 00:48:23 UTC,,,,,
+3089235,IssueCommentEvent,codehaus-plexus_plexus-utils,2017-06-24 17:45:59 UTC,,,,,
+3095843,IssueCommentEvent,codehaus-plexus_plexus-utils,2017-04-17 14:12:55 UTC,,,,,
+3161846,IssueCommentEvent,codehaus-plexus_plexus-utils,2017-06-24 17:22:19 UTC,,,,,
+3190317,IssueCommentEvent,codehaus-plexus_plexus-utils,2017-06-21 18:13:47 UTC,,,,,
+3210314,IssueCommentEvent,codehaus-plexus_plexus-utils,2017-06-25 16:52:36 UTC,,,,,
+3406706,IssueCommentEvent,codehaus-plexus_plexus-utils,2017-02-19 16:46:41 UTC,,,,,
+3419029,IssueCommentEvent,codehaus-plexus_plexus-utils,2017-02-07 15:33:59 UTC,,,,,
+3433636,IssueCommentEvent,codehaus-plexus_plexus-utils,2017-06-24 16:22:08 UTC,,,,,
+3437699,IssueCommentEvent,codehaus-plexus_plexus-utils,2017-06-24 17:44:24 UTC,,,,,
+3453531,IssueCommentEvent,codehaus-plexus_plexus-utils,2017-06-19 21:48:22 UTC,,,,,
+3459693,IssueCommentEvent,codehaus-plexus_plexus-utils,2017-02-06 22:04:36 UTC,,,,,
+3463024,IssueCommentEvent,codehaus-plexus_plexus-utils,2017-04-27 05:51:49 UTC,,,,,
+3509306,IssueCommentEvent,codehaus-plexus_plexus-utils,2017-06-24 16:58:26 UTC,,,,,
+3528818,IssueCommentEvent,codehaus-plexus_plexus-utils,2017-04-14 18:54:11 UTC,,,,,
+3531963,IssueCommentEvent,codehaus-plexus_plexus-utils,2017-07-02 13:43:03 UTC,,,,,
+3544115,IssueCommentEvent,codehaus-plexus_plexus-utils,2017-06-24 17:26:33 UTC,,,,,
+3596208,IssueCommentEvent,codehaus-plexus_plexus-utils,2017-04-02 16:36:39 UTC,,,,,
+3614607,IssueCommentEvent,codehaus-plexus_plexus-utils,2017-06-21 11:54:10 UTC,,,,,
+3641376,IssueCommentEvent,codehaus-plexus_plexus-utils,2017-06-25 09:24:17 UTC,,,,,
+3688211,IssueCommentEvent,codehaus-plexus_plexus-utils,2017-06-24 13:09:31 UTC,,,,,
+3696534,IssueCommentEvent,codehaus-plexus_plexus-utils,2017-06-24 17:23:28 UTC,,,,,
+3716829,IssueCommentEvent,codehaus-plexus_plexus-utils,2017-06-23 08:27:43 UTC,,,,,
+3769948,IssueCommentEvent,codehaus-plexus_plexus-utils,2017-06-24 17:06:18 UTC,,,,,
+3774853,IssueCommentEvent,codehaus-plexus_plexus-utils,2017-06-24 16:47:31 UTC,,,,,
+3779651,IssueCommentEvent,codehaus-plexus_plexus-utils,2017-01-30 20:19:07 UTC,,,,,
+3839257,IssueCommentEvent,codehaus-plexus_plexus-utils,2017-06-25 08:29:46 UTC,,,,,
+3841419,IssueCommentEvent,codehaus-plexus_plexus-utils,2017-06-20 19:47:54 UTC,,,,,
+3846235,IssueCommentEvent,codehaus-plexus_plexus-utils,2017-06-20 17:14:46 UTC,,,,,
+3848950,IssueCommentEvent,codehaus-plexus_plexus-utils,2017-04-27 08:24:22 UTC,,,,,
+3860912,IssueCommentEvent,codehaus-plexus_plexus-utils,2017-04-17 18:33:57 UTC,,,,,
+3914509,IssueCommentEvent,codehaus-plexus_plexus-utils,2017-04-17 18:43:20 UTC,,,,,
+4014539,IssueCommentEvent,codehaus-plexus_plexus-utils,2017-07-01 06:34:24 UTC,,,,,
+4021733,IssueCommentEvent,codehaus-plexus_plexus-utils,2017-08-04 14:42:05 UTC,,,,,
+4030249,IssueCommentEvent,codehaus-plexus_plexus-utils,2017-06-24 18:54:57 UTC,,,,,
+4079985,IssueCommentEvent,codehaus-plexus_plexus-utils,2017-01-30 09:02:36 UTC,,,,,
+4083799,IssueCommentEvent,codehaus-plexus_plexus-utils,2017-10-16 06:59:02 UTC,,,,,
+4100568,IssueCommentEvent,codehaus-plexus_plexus-utils,2017-02-07 14:37:39 UTC,,,,,
+4114063,IssueCommentEvent,codehaus-plexus_plexus-utils,2017-06-28 13:26:58 UTC,,,,,
+4129098,IssueCommentEvent,codehaus-plexus_plexus-utils,2017-04-14 19:22:34 UTC,,,,,
+4129099,IssueCommentEvent,codehaus-plexus_plexus-utils,2017-06-24 17:17:32 UTC,,,,,
+4176503,IssueCommentEvent,codehaus-plexus_plexus-utils,2017-06-24 09:19:56 UTC,,,,,
+4177523,IssueCommentEvent,codehaus-plexus_plexus-utils,2017-06-30 16:49:56 UTC,,,,,
+4201846,IssueCommentEvent,codehaus-plexus_plexus-utils,2017-06-24 12:38:10 UTC,,,,,
+4212557,IssueCommentEvent,codehaus-plexus_plexus-utils,2017-06-24 23:42:31 UTC,,,,,
+4215276,IssueCommentEvent,codehaus-plexus_plexus-utils,2017-04-02 18:09:05 UTC,,,,,
+4221685,IssueCommentEvent,codehaus-plexus_plexus-utils,2017-06-19 18:34:10 UTC,,,,,
+4227161,IssueCommentEvent,codehaus-plexus_plexus-utils,2017-06-21 13:54:19 UTC,,,,,
+4248589,IssueCommentEvent,codehaus-plexus_plexus-utils,2017-06-21 21:26:40 UTC,,,,,
+4253380,IssueCommentEvent,codehaus-plexus_plexus-utils,2017-04-26 20:35:26 UTC,,,,,
+4278966,IssueCommentEvent,codehaus-plexus_plexus-utils,2017-06-22 18:53:23 UTC,,,,,
+4280702,IssueCommentEvent,codehaus-plexus_plexus-utils,2017-06-20 09:22:27 UTC,,,,,
+4310493,IssueCommentEvent,codehaus-plexus_plexus-utils,2017-04-17 18:40:26 UTC,,,,,
+4324545,IssueCommentEvent,codehaus-plexus_plexus-utils,2017-06-24 17:00:59 UTC,,,,,
+4369692,IssueCommentEvent,codehaus-plexus_plexus-utils,2017-02-19 17:44:40 UTC,,,,,
+4386587,IssueCommentEvent,codehaus-plexus_plexus-utils,2017-06-30 14:47:46 UTC,,,,,
+4395970,IssueCommentEvent,codehaus-plexus_plexus-utils,2017-08-04 14:53:59 UTC,,,,,
+4400472,IssueCommentEvent,codehaus-plexus_plexus-utils,2017-02-06 22:50:55 UTC,,,,,
+4411215,IssueCommentEvent,codehaus-plexus_plexus-utils,2017-10-14 14:56:19 UTC,,,,,
+4430743,IssueCommentEvent,codehaus-plexus_plexus-utils,2017-04-26 20:53:51 UTC,,,,,
+4436297,IssueCommentEvent,codehaus-plexus_plexus-utils,2017-06-30 14:46:29 UTC,,,,,
+4468670,IssueCommentEvent,codehaus-plexus_plexus-utils,2017-06-28 13:22:20 UTC,,,,,
+4497393,IssueCommentEvent,codehaus-plexus_plexus-utils,2017-06-20 18:20:58 UTC,,,,,
+4498719,IssueCommentEvent,codehaus-plexus_plexus-utils,2017-08-03 20:58:10 UTC,,,,,
+4526927,IssueCommentEvent,codehaus-plexus_plexus-utils,2017-06-25 09:00:46 UTC,,,,,
+4554280,IssueCommentEvent,codehaus-plexus_plexus-utils,2017-02-19 13:32:44 UTC,,,,,
+4821347,PullRequestReviewCommentEvent,codehaus-plexus_plexus-utils,2017-06-18 21:19:35 UTC,,,,,
+4898808,PullRequestReviewCommentEvent,codehaus-plexus_plexus-utils,2017-06-18 20:24:19 UTC,,,,,
+5021136,PullRequestReviewCommentEvent,codehaus-plexus_plexus-utils,2017-06-18 21:18:37 UTC,,,,,
+105735,ForkEvent,codehaus-plexus_plexus-utils,2018-04-08 19:29:22 UTC,,,,,
+164021,ForkEvent,codehaus-plexus_plexus-utils,2018-04-25 13:57:36 UTC,,,,,
+177098,ForkEvent,codehaus-plexus_plexus-utils,2018-12-29 22:12:37 UTC,,,,,
+208398,ForkEvent,codehaus-plexus_plexus-utils,2018-07-11 11:50:41 UTC,,,,,
+211713,ForkEvent,codehaus-plexus_plexus-utils,2018-11-29 23:24:57 UTC,,,,,
+333909,PushEvent,codehaus-plexus_plexus-utils,2018-05-23 19:23:59 UTC,,,,,
+523954,PushEvent,codehaus-plexus_plexus-utils,2018-12-01 15:19:08 UTC,,,,,
+590167,PushEvent,codehaus-plexus_plexus-utils,2018-12-21 14:53:04 UTC,,,,,
+685543,PushEvent,codehaus-plexus_plexus-utils,2018-12-21 12:16:57 UTC,,,,,
+764207,PushEvent,codehaus-plexus_plexus-utils,2018-05-22 17:18:16 UTC,,,,,
+927713,PushEvent,codehaus-plexus_plexus-utils,2018-12-21 13:12:42 UTC,,,,,
+1013386,WatchEvent,codehaus-plexus_plexus-utils,2018-12-29 07:43:57 UTC,,,,,
+1487870,WatchEvent,codehaus-plexus_plexus-utils,2018-03-28 21:08:22 UTC,,,,,
+1593780,WatchEvent,codehaus-plexus_plexus-utils,2018-02-12 04:04:49 UTC,,,,,
+1946056,CreateEvent,codehaus-plexus_plexus-utils,2018-12-21 12:04:37 UTC,,,,,
+2000018,DeleteEvent,codehaus-plexus_plexus-utils,2018-12-21 12:38:21 UTC,,,,,
+2044041,IssuesEvent,codehaus-plexus_plexus-utils,2018-11-19 11:22:45 UTC,,,,,
+2094435,IssuesEvent,codehaus-plexus_plexus-utils,2018-04-02 20:08:34 UTC,,,,,
+2185655,IssuesEvent,codehaus-plexus_plexus-utils,2018-12-21 13:13:07 UTC,,,,,
+2260874,IssuesEvent,codehaus-plexus_plexus-utils,2018-03-10 22:21:14 UTC,,,,,
+2290074,IssuesEvent,codehaus-plexus_plexus-utils,2018-11-21 09:44:22 UTC,,,,,
+2297966,IssuesEvent,codehaus-plexus_plexus-utils,2018-11-30 20:19:12 UTC,,,,,
+2354474,IssuesEvent,codehaus-plexus_plexus-utils,2018-04-08 19:57:02 UTC,,,,,
+2355029,IssuesEvent,codehaus-plexus_plexus-utils,2018-04-02 19:31:01 UTC,,,,,
+2358774,IssuesEvent,codehaus-plexus_plexus-utils,2018-03-11 01:04:43 UTC,,,,,
+2385143,IssuesEvent,codehaus-plexus_plexus-utils,2018-07-11 11:36:01 UTC,,,,,
+2420108,IssuesEvent,codehaus-plexus_plexus-utils,2018-10-10 16:49:10 UTC,,,,,
+2422704,PullRequestEvent,codehaus-plexus_plexus-utils,2018-12-05 01:44:28 UTC,,,,,
+2468924,PullRequestEvent,codehaus-plexus_plexus-utils,2018-05-23 19:04:46 UTC,,,,,
+2489482,PullRequestEvent,codehaus-plexus_plexus-utils,2018-11-30 19:02:02 UTC,,,,,
+2495012,PullRequestEvent,codehaus-plexus_plexus-utils,2018-12-21 12:14:12 UTC,,,,,
+2584787,PullRequestEvent,codehaus-plexus_plexus-utils,2018-12-21 13:12:40 UTC,,,,,
+2605685,PullRequestEvent,codehaus-plexus_plexus-utils,2018-05-23 08:58:43 UTC,,,,,
+2617770,PullRequestEvent,codehaus-plexus_plexus-utils,2018-11-30 21:40:58 UTC,,,,,
+2631260,PullRequestEvent,codehaus-plexus_plexus-utils,2018-12-01 15:19:06 UTC,,,,,
+2667994,PullRequestEvent,codehaus-plexus_plexus-utils,2018-12-21 13:09:58 UTC,,,,,
+2685945,PullRequestEvent,codehaus-plexus_plexus-utils,2018-05-22 17:18:16 UTC,,,,,
+2691259,PullRequestEvent,codehaus-plexus_plexus-utils,2018-04-25 16:10:54 UTC,,,,,
+2704571,PullRequestEvent,codehaus-plexus_plexus-utils,2018-05-23 19:06:38 UTC,,,,,
+2725423,PullRequestEvent,codehaus-plexus_plexus-utils,2018-05-23 19:23:59 UTC,,,,,
+2748782,PullRequestEvent,codehaus-plexus_plexus-utils,2018-05-23 08:44:49 UTC,,,,,
+2771347,PullRequestEvent,codehaus-plexus_plexus-utils,2018-07-11 11:55:03 UTC,,,,,
+2817680,PullRequestEvent,codehaus-plexus_plexus-utils,2018-05-22 18:38:42 UTC,,,,,
+2828931,PullRequestEvent,codehaus-plexus_plexus-utils,2018-12-21 12:16:56 UTC,,,,,
+2851500,PullRequestEvent,codehaus-plexus_plexus-utils,2018-04-08 20:02:28 UTC,,,,,
+2870445,PullRequestEvent,codehaus-plexus_plexus-utils,2018-12-21 13:13:55 UTC,,,,,
+2978189,IssueCommentEvent,codehaus-plexus_plexus-utils,2018-11-12 22:45:22 UTC,,,,,
+3110684,IssueCommentEvent,codehaus-plexus_plexus-utils,2018-05-22 07:55:43 UTC,,,,,
+3154019,IssueCommentEvent,codehaus-plexus_plexus-utils,2018-11-26 08:08:08 UTC,,,,,
+3165002,IssueCommentEvent,codehaus-plexus_plexus-utils,2018-12-08 17:14:20 UTC,,,,,
+3183818,IssueCommentEvent,codehaus-plexus_plexus-utils,2018-05-22 18:57:58 UTC,,,,,
+3209641,IssueCommentEvent,codehaus-plexus_plexus-utils,2018-12-07 12:56:52 UTC,,,,,
+3250423,IssueCommentEvent,codehaus-plexus_plexus-utils,2018-12-06 15:51:36 UTC,,,,,
+3395429,IssueCommentEvent,codehaus-plexus_plexus-utils,2018-05-21 18:42:03 UTC,,,,,
+3400855,IssueCommentEvent,codehaus-plexus_plexus-utils,2018-05-22 20:20:43 UTC,,,,,
+3412545,IssueCommentEvent,codehaus-plexus_plexus-utils,2018-12-04 20:43:41 UTC,,,,,
+3420538,IssueCommentEvent,codehaus-plexus_plexus-utils,2018-05-18 10:28:46 UTC,,,,,
+3449116,IssueCommentEvent,codehaus-plexus_plexus-utils,2018-05-23 19:06:38 UTC,,,,,
+3465106,IssueCommentEvent,codehaus-plexus_plexus-utils,2018-05-20 09:50:52 UTC,,,,,
+3504879,IssueCommentEvent,codehaus-plexus_plexus-utils,2018-05-22 18:39:47 UTC,,,,,
+3519414,IssueCommentEvent,codehaus-plexus_plexus-utils,2018-05-21 18:36:55 UTC,,,,,
+3534451,IssueCommentEvent,codehaus-plexus_plexus-utils,2018-05-23 08:48:22 UTC,,,,,
+3536588,IssueCommentEvent,codehaus-plexus_plexus-utils,2018-05-21 18:19:17 UTC,,,,,
+3556277,IssueCommentEvent,codehaus-plexus_plexus-utils,2018-05-22 07:13:43 UTC,,,,,
+3562413,IssueCommentEvent,codehaus-plexus_plexus-utils,2018-03-11 09:20:38 UTC,,,,,
+3602573,IssueCommentEvent,codehaus-plexus_plexus-utils,2018-05-22 07:48:59 UTC,,,,,
+3646821,IssueCommentEvent,codehaus-plexus_plexus-utils,2018-12-04 20:57:06 UTC,,,,,
+3664300,IssueCommentEvent,codehaus-plexus_plexus-utils,2018-04-08 20:06:18 UTC,,,,,
+3666983,IssueCommentEvent,codehaus-plexus_plexus-utils,2018-05-21 19:51:06 UTC,,,,,
+3721735,IssueCommentEvent,codehaus-plexus_plexus-utils,2018-12-07 02:17:00 UTC,,,,,
+3742253,IssueCommentEvent,codehaus-plexus_plexus-utils,2018-05-22 09:07:02 UTC,,,,,
+3788220,IssueCommentEvent,codehaus-plexus_plexus-utils,2018-05-23 20:25:53 UTC,,,,,
+3841895,IssueCommentEvent,codehaus-plexus_plexus-utils,2018-12-07 12:55:44 UTC,,,,,
+3876158,IssueCommentEvent,codehaus-plexus_plexus-utils,2018-05-23 06:58:28 UTC,,,,,
+3939263,IssueCommentEvent,codehaus-plexus_plexus-utils,2018-05-23 20:32:19 UTC,,,,,
+3977783,IssueCommentEvent,codehaus-plexus_plexus-utils,2018-03-11 00:39:03 UTC,,,,,
+3988936,IssueCommentEvent,codehaus-plexus_plexus-utils,2018-05-23 08:37:50 UTC,,,,,
+3996871,IssueCommentEvent,codehaus-plexus_plexus-utils,2018-04-25 17:49:28 UTC,,,,,
+4032231,IssueCommentEvent,codehaus-plexus_plexus-utils,2018-11-21 10:58:18 UTC,,,,,
+4042311,IssueCommentEvent,codehaus-plexus_plexus-utils,2018-05-19 17:56:39 UTC,,,,,
+4044642,IssueCommentEvent,codehaus-plexus_plexus-utils,2018-11-30 10:30:13 UTC,,,,,
+4091668,IssueCommentEvent,codehaus-plexus_plexus-utils,2018-05-23 18:45:57 UTC,,,,,
+4294089,IssueCommentEvent,codehaus-plexus_plexus-utils,2018-12-17 11:33:18 UTC,,,,,
+4325036,IssueCommentEvent,codehaus-plexus_plexus-utils,2018-12-06 15:40:14 UTC,,,,,
+4424221,IssueCommentEvent,codehaus-plexus_plexus-utils,2018-12-17 11:30:27 UTC,,,,,
+4459766,IssueCommentEvent,codehaus-plexus_plexus-utils,2018-12-04 23:33:27 UTC,,,,,
+4460349,IssueCommentEvent,codehaus-plexus_plexus-utils,2018-05-21 20:35:25 UTC,,,,,
+4486914,IssueCommentEvent,codehaus-plexus_plexus-utils,2018-12-07 13:00:21 UTC,,,,,
+4511551,IssueCommentEvent,codehaus-plexus_plexus-utils,2018-12-12 19:54:54 UTC,,,,,
+4532907,IssueCommentEvent,codehaus-plexus_plexus-utils,2018-12-21 13:13:55 UTC,,,,,
+4566923,IssueCommentEvent,codehaus-plexus_plexus-utils,2018-04-25 19:11:56 UTC,,,,,
+4708005,PullRequestReviewCommentEvent,codehaus-plexus_plexus-utils,2018-11-30 23:56:10 UTC,,,,,
+4715564,PullRequestReviewCommentEvent,codehaus-plexus_plexus-utils,2018-11-30 21:17:58 UTC,,,,,
+4831555,PullRequestReviewCommentEvent,codehaus-plexus_plexus-utils,2018-12-01 13:46:49 UTC,,,,,
+4838290,PullRequestReviewCommentEvent,codehaus-plexus_plexus-utils,2018-12-01 10:40:26 UTC,,,,,
+19283,CommitCommentEvent,codehaus-plexus_plexus-utils,2019-09-19 14:31:37 UTC,,,,,
+29828,CommitCommentEvent,codehaus-plexus_plexus-utils,2019-12-10 02:19:30 UTC,,,,,
+42473,ForkEvent,codehaus-plexus_plexus-utils,2019-12-19 17:45:55 UTC,,,,,
+64497,ForkEvent,codehaus-plexus_plexus-utils,2019-05-08 17:19:09 UTC,,,,,
+99992,ForkEvent,codehaus-plexus_plexus-utils,2020-01-12 06:47:54 UTC,,,,,
+104560,ForkEvent,codehaus-plexus_plexus-utils,2019-04-26 13:55:36 UTC,,,,,
+108119,ForkEvent,codehaus-plexus_plexus-utils,2019-07-03 19:39:44 UTC,,,,,
+109603,ForkEvent,codehaus-plexus_plexus-utils,2019-07-16 04:59:41 UTC,,,,,
+142868,ForkEvent,codehaus-plexus_plexus-utils,2019-11-25 16:54:58 UTC,,,,,
+169384,ForkEvent,codehaus-plexus_plexus-utils,2019-02-04 17:50:57 UTC,,,,,
+399111,PushEvent,codehaus-plexus_plexus-utils,2019-03-10 18:25:54 UTC,,,,,
+433578,PushEvent,codehaus-plexus_plexus-utils,2019-03-09 16:35:41 UTC,,,,,
+487547,PushEvent,codehaus-plexus_plexus-utils,2019-12-07 19:52:12 UTC,,,,,
+499382,PushEvent,codehaus-plexus_plexus-utils,2019-07-03 20:23:40 UTC,,,,,
+510278,PushEvent,codehaus-plexus_plexus-utils,2019-07-10 18:44:32 UTC,,,,,
+534040,PushEvent,codehaus-plexus_plexus-utils,2019-03-10 18:17:10 UTC,,,,,
+537078,PushEvent,codehaus-plexus_plexus-utils,2019-07-10 18:29:46 UTC,,,,,
+595936,PushEvent,codehaus-plexus_plexus-utils,2019-09-28 16:52:19 UTC,,,,,
+600095,PushEvent,codehaus-plexus_plexus-utils,2019-10-12 14:41:01 UTC,,,,,
+634566,PushEvent,codehaus-plexus_plexus-utils,2019-09-28 16:47:17 UTC,,,,,
+707169,PushEvent,codehaus-plexus_plexus-utils,2019-12-07 19:19:08 UTC,,,,,
+731738,PushEvent,codehaus-plexus_plexus-utils,2019-03-10 17:35:44 UTC,,,,,
+768209,PushEvent,codehaus-plexus_plexus-utils,2019-07-03 19:32:04 UTC,,,,,
+776067,PushEvent,codehaus-plexus_plexus-utils,2019-03-10 11:50:19 UTC,,,,,
+786309,PushEvent,codehaus-plexus_plexus-utils,2019-12-08 12:27:20 UTC,,,,,
+809587,PushEvent,codehaus-plexus_plexus-utils,2019-02-01 00:47:23 UTC,,,,,
+834998,PushEvent,codehaus-plexus_plexus-utils,2019-07-10 18:12:15 UTC,,,,,
+888039,PushEvent,codehaus-plexus_plexus-utils,2019-03-10 18:18:39 UTC,,,,,
+891363,PushEvent,codehaus-plexus_plexus-utils,2019-12-07 11:41:32 UTC,,,,,
+902498,PushEvent,codehaus-plexus_plexus-utils,2019-12-03 17:55:23 UTC,,,,,
+923119,PushEvent,codehaus-plexus_plexus-utils,2019-03-10 18:18:46 UTC,,,,,
+930179,PushEvent,codehaus-plexus_plexus-utils,2019-03-09 16:24:37 UTC,,,,,
+938808,PushEvent,codehaus-plexus_plexus-utils,2019-07-03 19:39:37 UTC,,,,,
+948204,PushEvent,codehaus-plexus_plexus-utils,2019-10-10 17:37:12 UTC,,,,,
+977336,PushEvent,codehaus-plexus_plexus-utils,2019-08-25 17:50:00 UTC,,,,,
+993553,PushEvent,codehaus-plexus_plexus-utils,2019-07-04 18:17:22 UTC,,,,,
+1005517,PushEvent,codehaus-plexus_plexus-utils,2019-07-10 18:44:40 UTC,,,,,
+1046864,PushEvent,codehaus-plexus_plexus-utils,2019-03-10 17:53:58 UTC,,,,,
+1060405,PushEvent,codehaus-plexus_plexus-utils,2019-07-03 19:57:42 UTC,,,,,
+1187837,PushEvent,codehaus-plexus_plexus-utils,2019-03-10 11:52:58 UTC,,,,,
+1443688,WatchEvent,codehaus-plexus_plexus-utils,2019-08-07 03:20:06 UTC,,,,,
+1732028,WatchEvent,codehaus-plexus_plexus-utils,2019-06-27 07:51:02 UTC,,,,,
+1847061,WatchEvent,codehaus-plexus_plexus-utils,2019-04-22 09:33:06 UTC,,,,,
+2310101,CreateEvent,codehaus-plexus_plexus-utils,2019-02-21 14:53:08 UTC,,,,,
+2321055,CreateEvent,codehaus-plexus_plexus-utils,2019-12-07 12:26:28 UTC,,,,,
+2336538,CreateEvent,codehaus-plexus_plexus-utils,2019-03-10 18:18:41 UTC,,,,,
+2410302,CreateEvent,codehaus-plexus_plexus-utils,2019-07-03 20:06:43 UTC,,,,,
+2417921,CreateEvent,codehaus-plexus_plexus-utils,2019-07-10 18:44:35 UTC,,,,,
+2450389,DeleteEvent,codehaus-plexus_plexus-utils,2019-10-12 14:42:44 UTC,,,,,
+2451897,DeleteEvent,codehaus-plexus_plexus-utils,2019-10-12 14:43:13 UTC,,,,,
+2461076,DeleteEvent,codehaus-plexus_plexus-utils,2019-03-09 16:36:15 UTC,,,,,
+2505479,DeleteEvent,codehaus-plexus_plexus-utils,2019-10-12 14:42:51 UTC,,,,,
+2522969,IssuesEvent,codehaus-plexus_plexus-utils,2019-12-03 19:08:46 UTC,,,,,
+2542945,IssuesEvent,codehaus-plexus_plexus-utils,2019-12-03 23:33:31 UTC,,,,,
+2590174,IssuesEvent,codehaus-plexus_plexus-utils,2019-07-03 19:32:03 UTC,,,,,
+2615609,IssuesEvent,codehaus-plexus_plexus-utils,2019-07-22 23:55:36 UTC,,,,,
+2634799,IssuesEvent,codehaus-plexus_plexus-utils,2019-08-25 17:47:23 UTC,,,,,
+2646472,IssuesEvent,codehaus-plexus_plexus-utils,2019-09-10 13:43:51 UTC,,,,,
+2651865,IssuesEvent,codehaus-plexus_plexus-utils,2019-12-07 11:47:02 UTC,,,,,
+2700867,IssuesEvent,codehaus-plexus_plexus-utils,2019-03-10 17:54:59 UTC,,,,,
+2725715,IssuesEvent,codehaus-plexus_plexus-utils,2019-12-18 18:38:26 UTC,,,,,
+2746431,IssuesEvent,codehaus-plexus_plexus-utils,2019-03-10 11:53:48 UTC,,,,,
+2757166,IssuesEvent,codehaus-plexus_plexus-utils,2019-03-09 16:37:46 UTC,,,,,
+2763656,IssuesEvent,codehaus-plexus_plexus-utils,2019-08-25 17:50:15 UTC,,,,,
+2800155,IssuesEvent,codehaus-plexus_plexus-utils,2019-07-03 19:39:37 UTC,,,,,
+2829355,IssuesEvent,codehaus-plexus_plexus-utils,2019-03-26 16:30:23 UTC,,,,,
+2839569,IssuesEvent,codehaus-plexus_plexus-utils,2019-03-10 17:36:30 UTC,,,,,
+2892727,IssuesEvent,codehaus-plexus_plexus-utils,2019-05-08 17:09:58 UTC,,,,,
+2901246,IssuesEvent,codehaus-plexus_plexus-utils,2019-07-03 20:23:40 UTC,,,,,
+2903184,IssuesEvent,codehaus-plexus_plexus-utils,2019-02-21 11:45:29 UTC,,,,,
+2918075,IssuesEvent,codehaus-plexus_plexus-utils,2019-12-07 19:31:56 UTC,,,,,
+2964419,PullRequestEvent,codehaus-plexus_plexus-utils,2019-02-04 18:02:04 UTC,,,,,
+2968944,PullRequestEvent,codehaus-plexus_plexus-utils,2019-11-25 17:05:56 UTC,,,,,
+2979111,PullRequestEvent,codehaus-plexus_plexus-utils,2019-12-03 17:55:23 UTC,,,,,
+3050159,PullRequestEvent,codehaus-plexus_plexus-utils,2019-03-10 11:54:59 UTC,,,,,
+3070483,PullRequestEvent,codehaus-plexus_plexus-utils,2019-03-10 17:38:27 UTC,,,,,
+3079081,PullRequestEvent,codehaus-plexus_plexus-utils,2019-03-09 16:35:39 UTC,,,,,
+3124721,PullRequestEvent,codehaus-plexus_plexus-utils,2019-07-04 18:17:21 UTC,,,,,
+3155574,PullRequestEvent,codehaus-plexus_plexus-utils,2019-12-07 19:19:07 UTC,,,,,
+3173648,PullRequestEvent,codehaus-plexus_plexus-utils,2019-03-27 02:38:20 UTC,,,,,
+3183821,PullRequestEvent,codehaus-plexus_plexus-utils,2019-02-24 17:57:17 UTC,,,,,
+3194045,PullRequestEvent,codehaus-plexus_plexus-utils,2019-12-07 19:11:05 UTC,,,,,
+3194189,PullRequestEvent,codehaus-plexus_plexus-utils,2019-07-03 20:23:40 UTC,,,,,
+3224073,PullRequestEvent,codehaus-plexus_plexus-utils,2019-07-03 19:57:42 UTC,,,,,
+3230518,PullRequestEvent,codehaus-plexus_plexus-utils,2019-12-06 02:51:36 UTC,,,,,
+3280160,PullRequestEvent,codehaus-plexus_plexus-utils,2019-05-08 17:20:31 UTC,,,,,
+3285718,PullRequestEvent,codehaus-plexus_plexus-utils,2019-03-10 17:56:24 UTC,,,,,
+3292480,PullRequestEvent,codehaus-plexus_plexus-utils,2019-09-28 16:52:18 UTC,,,,,
+3301206,PullRequestEvent,codehaus-plexus_plexus-utils,2019-07-03 19:39:37 UTC,,,,,
+3402626,PullRequestEvent,codehaus-plexus_plexus-utils,2019-07-03 19:32:04 UTC,,,,,
+3409594,PullRequestEvent,codehaus-plexus_plexus-utils,2019-07-03 19:49:06 UTC,,,,,
+3433796,PullRequestEvent,codehaus-plexus_plexus-utils,2019-04-12 21:53:07 UTC,,,,,
+3452359,PullRequestEvent,codehaus-plexus_plexus-utils,2019-12-07 11:41:31 UTC,,,,,
+3498108,PullRequestEvent,codehaus-plexus_plexus-utils,2019-07-16 06:33:59 UTC,,,,,
+3568389,IssueCommentEvent,codehaus-plexus_plexus-utils,2019-07-03 19:40:36 UTC,,,,,
+3737737,IssueCommentEvent,codehaus-plexus_plexus-utils,2019-02-04 23:07:24 UTC,,,,,
+3755187,IssueCommentEvent,codehaus-plexus_plexus-utils,2019-03-27 01:30:13 UTC,,,,,
+3832441,IssueCommentEvent,codehaus-plexus_plexus-utils,2019-03-10 03:39:55 UTC,,,,,
+3870566,IssueCommentEvent,codehaus-plexus_plexus-utils,2019-12-07 19:31:56 UTC,,,,,
+3880085,IssueCommentEvent,codehaus-plexus_plexus-utils,2019-12-03 19:06:48 UTC,,,,,
+3896836,IssueCommentEvent,codehaus-plexus_plexus-utils,2019-07-23 07:55:38 UTC,,,,,
+4056726,IssueCommentEvent,codehaus-plexus_plexus-utils,2019-12-06 13:25:46 UTC,,,,,
+4061198,IssueCommentEvent,codehaus-plexus_plexus-utils,2019-03-10 17:56:23 UTC,,,,,
+4087439,IssueCommentEvent,codehaus-plexus_plexus-utils,2019-10-15 11:52:03 UTC,,,,,
+4140676,IssueCommentEvent,codehaus-plexus_plexus-utils,2019-03-09 17:10:03 UTC,,,,,
+4200400,IssueCommentEvent,codehaus-plexus_plexus-utils,2019-05-08 17:28:43 UTC,,,,,
+4211834,IssueCommentEvent,codehaus-plexus_plexus-utils,2019-02-05 11:47:50 UTC,,,,,
+4370647,IssueCommentEvent,codehaus-plexus_plexus-utils,2019-10-15 10:31:15 UTC,,,,,
+4385082,IssueCommentEvent,codehaus-plexus_plexus-utils,2019-02-05 02:54:42 UTC,,,,,
+4433314,IssueCommentEvent,codehaus-plexus_plexus-utils,2019-03-10 17:38:27 UTC,,,,,
+4436565,IssueCommentEvent,codehaus-plexus_plexus-utils,2019-03-09 16:37:46 UTC,,,,,
+4514407,IssueCommentEvent,codehaus-plexus_plexus-utils,2019-11-21 01:21:57 UTC,,,,,
+4533268,IssueCommentEvent,codehaus-plexus_plexus-utils,2019-12-06 10:02:54 UTC,,,,,
+4778393,IssueCommentEvent,codehaus-plexus_plexus-utils,2019-02-07 16:16:15 UTC,,,,,
+4799648,IssueCommentEvent,codehaus-plexus_plexus-utils,2019-12-06 12:53:25 UTC,,,,,
+4801418,IssueCommentEvent,codehaus-plexus_plexus-utils,2019-02-27 12:31:37 UTC,,,,,
+4871777,IssueCommentEvent,codehaus-plexus_plexus-utils,2019-02-07 16:36:32 UTC,,,,,
+4976530,IssueCommentEvent,codehaus-plexus_plexus-utils,2019-02-07 12:06:15 UTC,,,,,
+5017720,IssueCommentEvent,codehaus-plexus_plexus-utils,2019-02-01 00:45:24 UTC,,,,,
+5036347,IssueCommentEvent,codehaus-plexus_plexus-utils,2019-03-10 11:53:48 UTC,,,,,
+5161472,IssueCommentEvent,codehaus-plexus_plexus-utils,2019-04-13 16:07:52 UTC,,,,,
+5164255,IssueCommentEvent,codehaus-plexus_plexus-utils,2019-02-05 07:19:37 UTC,,,,,
+5219283,IssueCommentEvent,codehaus-plexus_plexus-utils,2019-12-07 11:47:01 UTC,,,,,
+5247289,IssueCommentEvent,codehaus-plexus_plexus-utils,2019-03-10 11:54:58 UTC,,,,,
+5334228,IssueCommentEvent,codehaus-plexus_plexus-utils,2019-02-24 05:55:22 UTC,,,,,
+5379818,IssueCommentEvent,codehaus-plexus_plexus-utils,2019-02-05 11:46:47 UTC,,,,,
+5538820,IssueCommentEvent,codehaus-plexus_plexus-utils,2019-02-01 10:33:39 UTC,,,,,
+5599297,IssueCommentEvent,codehaus-plexus_plexus-utils,2019-02-04 23:02:39 UTC,,,,,
+5609151,PullRequestReviewCommentEvent,codehaus-plexus_plexus-utils,2019-07-03 20:43:20 UTC,,,,,
+5610536,PullRequestReviewCommentEvent,codehaus-plexus_plexus-utils,2019-02-24 21:39:43 UTC,,,,,
+5613010,PullRequestReviewCommentEvent,codehaus-plexus_plexus-utils,2019-12-07 20:12:10 UTC,,,,,
+5647846,PullRequestReviewCommentEvent,codehaus-plexus_plexus-utils,2019-02-28 17:56:04 UTC,,,,,
+5653827,PullRequestReviewCommentEvent,codehaus-plexus_plexus-utils,2019-07-03 20:22:45 UTC,,,,,
+5670166,PullRequestReviewCommentEvent,codehaus-plexus_plexus-utils,2019-07-03 21:11:02 UTC,,,,,
+5717322,PullRequestReviewCommentEvent,codehaus-plexus_plexus-utils,2019-03-09 23:01:58 UTC,,,,,
+5746895,PullRequestReviewCommentEvent,codehaus-plexus_plexus-utils,2019-07-03 20:51:32 UTC,,,,,
+5774296,PullRequestReviewCommentEvent,codehaus-plexus_plexus-utils,2019-03-09 17:01:24 UTC,,,,,
+5778470,PullRequestReviewCommentEvent,codehaus-plexus_plexus-utils,2019-02-27 07:37:13 UTC,,,,,
+5801944,PullRequestReviewCommentEvent,codehaus-plexus_plexus-utils,2019-02-24 23:16:22 UTC,,,,,
+5802171,PullRequestReviewCommentEvent,codehaus-plexus_plexus-utils,2019-11-27 10:27:53 UTC,,,,,
+5830126,PullRequestReviewCommentEvent,codehaus-plexus_plexus-utils,2019-03-09 17:04:21 UTC,,,,,
+5832263,PullRequestReviewCommentEvent,codehaus-plexus_plexus-utils,2019-03-10 11:42:59 UTC,,,,,
+5845585,PullRequestReviewCommentEvent,codehaus-plexus_plexus-utils,2019-11-27 02:40:22 UTC,,,,,
+5848183,PullRequestReviewCommentEvent,codehaus-plexus_plexus-utils,2019-02-28 21:25:07 UTC,,,,,
+5848726,PullRequestReviewCommentEvent,codehaus-plexus_plexus-utils,2019-11-28 10:48:01 UTC,,,,,
+5875116,PullRequestReviewCommentEvent,codehaus-plexus_plexus-utils,2019-11-25 19:20:52 UTC,,,,,
+5883594,PullRequestReviewCommentEvent,codehaus-plexus_plexus-utils,2019-11-26 10:39:55 UTC,,,,,
+5900515,PullRequestReviewCommentEvent,codehaus-plexus_plexus-utils,2019-07-03 21:09:15 UTC,,,,,
+5978269,PullRequestReviewCommentEvent,codehaus-plexus_plexus-utils,2019-07-03 19:57:13 UTC,,,,,
+5993548,PullRequestReviewCommentEvent,codehaus-plexus_plexus-utils,2019-07-03 20:17:05 UTC,,,,,
+6039031,PullRequestReviewCommentEvent,codehaus-plexus_plexus-utils,2019-12-08 12:28:22 UTC,,,,,
+6039264,PullRequestReviewCommentEvent,codehaus-plexus_plexus-utils,2019-02-25 08:52:38 UTC,,,,,
+6097773,PullRequestReviewCommentEvent,codehaus-plexus_plexus-utils,2019-11-28 01:59:16 UTC,,,,,
+6175863,PullRequestReviewCommentEvent,codehaus-plexus_plexus-utils,2019-12-07 22:07:45 UTC,,,,,
+0,Commit,codehaus-plexus_plexus-utils,2022-10-26 05:53:16,7f7929f6ec70228968c4ba1159777827c15cdd7e,1.0,1.0,1.0,0.0
+1,Commit,codehaus-plexus_plexus-utils,2022-10-23 08:40:17,c4c3f3ecdfac8d90b8940a13cb3db9d8346c313d,2.0,2.0,1.0,0.0
+2,Commit,codehaus-plexus_plexus-utils,2022-10-23 08:40:12,2b784ba7f518257c2215a34103c38bbda2a45056,3.0,3.0,1.0,0.0
+3,Commit,codehaus-plexus_plexus-utils,2022-10-15 18:46:09,f3771379bce9e64d985f0c1e73dbc6aae48b6d5b,1.0,5.0,1.0,0.0
+4,Commit,codehaus-plexus_plexus-utils,2022-10-15 18:38:57,67ac243dbc6434c03a9b1582d94aef6bf2b5cf95,15.0,9.0,2.0,0.0
+5,Commit,codehaus-plexus_plexus-utils,2022-10-10 13:14:21,748933c5442ff13c9cca12bcdd88f64a209924ff,26.0,2.0,2.0,0.0
+6,Commit,codehaus-plexus_plexus-utils,2022-10-10 13:05:21,e2cafcf899e032d391f811c121a6d6cb7e2b8bdd,12.0,4.0,1.0,0.0
+7,Commit,codehaus-plexus_plexus-utils,2022-09-12 08:11:46,7f5114af7d0c4d19838a9e0082758ec0f5e0269e,17.0,12.0,2.0,0.0
+8,Commit,codehaus-plexus_plexus-utils,2022-07-21 13:41:48,d1fc4dc3c11cd2840b5d0750271bd4e21337b75c,12.0,8.0,2.0,0.0
+9,Commit,codehaus-plexus_plexus-utils,2022-06-12 22:07:36,18a9836fbf0a30a1bf271e623da2a69c00d494b6,1.0,1.0,1.0,0.0
+10,Commit,codehaus-plexus_plexus-utils,2022-06-09 16:42:05,6581567ecfc6d90cbaaff7ad1b09c81a3d91bd54,5.0,0.0,1.0,0.0
+11,Commit,codehaus-plexus_plexus-utils,2022-06-09 16:41:56,3a6db158deb2347f6691ca772a8b3e72cca9dfaa,1.0,1.0,1.0,0.0
+12,Commit,codehaus-plexus_plexus-utils,2022-05-17 20:32:02,b011e208cf1e9380a3224257bb9e1e90d93e42b0,2.0,2.0,1.0,0.0
+13,Commit,codehaus-plexus_plexus-utils,2022-05-17 20:31:58,01908b2979d4104a1e87f7e1eb0e157c9e1a3f8c,3.0,3.0,1.0,0.0
+14,Commit,codehaus-plexus_plexus-utils,2022-05-17 19:54:19,0d97c8ba8dfa4663e86c5827555f980fd47c27a9,53.0,1.0,2.0,0.0
+15,Commit,codehaus-plexus_plexus-utils,2022-05-17 19:53:50,11c749d677176b5b04573a1acd37997ec61dcc05,35.0,0.0,2.0,0.0
+16,Commit,codehaus-plexus_plexus-utils,2022-05-17 19:52:46,2c6fe7e293425795835766319bff524ef47bb94a,3.0,3.0,1.0,0.0
+17,Commit,codehaus-plexus_plexus-utils,2022-05-17 19:51:58,89b8ef5e9cb4079b2f9cf4f23a6b17370708ad07,42.0,7.0,2.0,0.0
+18,Commit,codehaus-plexus_plexus-utils,2022-05-17 19:07:48,407a93cf5bb2864d35462b3d4a05bb293dafc230,70.0,9.0,2.0,0.0
+19,Commit,codehaus-plexus_plexus-utils,2022-04-28 12:23:25,8dec9319639a4f9772d99264669b63cc3e9c2fe6,3.0,3.0,1.0,0.0
+20,Commit,codehaus-plexus_plexus-utils,2022-04-23 20:33:48,0808fe36dde238e6824043d5ca597b7cec1bd5c7,201.0,0.0,1.0,0.0
+21,Commit,codehaus-plexus_plexus-utils,2022-04-23 18:35:46,2f68e930054aae96ca8f694774b07fd63741301c,6.0,1.0,1.0,0.0
+22,Commit,codehaus-plexus_plexus-utils,2022-04-23 17:44:35,d3823dc54686cbd268b0cd8f7c6ef6058d163817,1.0,1.0,1.0,0.0
+23,Commit,codehaus-plexus_plexus-utils,2022-04-17 15:47:39,0d384e75ba5f950d389281226e56515be195b604,8.0,4.0,6.0,0.0
+24,Commit,codehaus-plexus_plexus-utils,2022-04-17 00:33:40,10f729542509b039a748fc7085826e43137bba35,1.0,1.0,1.0,0.0
+25,Commit,codehaus-plexus_plexus-utils,2022-04-17 00:33:31,11be3b5bf2a8b9853ab2e7f2e1245233220ca46a,1.0,1.0,1.0,0.0
+26,Commit,codehaus-plexus_plexus-utils,2022-04-17 00:33:22,52d64eadb7d4f8a543d43cc49194cdf74b93f944,1.0,1.0,1.0,0.0
+27,Commit,codehaus-plexus_plexus-utils,2022-04-17 00:33:10,298fd8d626a7dd1271dcc4ae8e2029a2eba2c1ad,1.0,1.0,1.0,0.0
+28,Commit,codehaus-plexus_plexus-utils,2022-04-16 17:45:05,b99f7c0e46d8b08d63afa4c2c7d274ebf5ebcc94,637.0,45.0,6.0,0.0
+29,Commit,codehaus-plexus_plexus-utils,2022-03-11 18:34:02,3896620b4fbf031b1b02b4d46b328c5839a231da,4.0,4.0,1.0,0.0
+30,Commit,codehaus-plexus_plexus-utils,2022-02-07 04:11:01,667ce0ee7ce353a09f38511e91a51c94c2aa7e36,1.0,1.0,1.0,0.0
+31,Commit,codehaus-plexus_plexus-utils,2022-02-07 04:10:44,9468fd780d9611fb96215f6532da9d62926ebf48,1.0,1.0,1.0,0.0
+32,Commit,codehaus-plexus_plexus-utils,2022-02-07 04:10:07,f3f41548bed5935b69af3caa56373b461f11068b,1.0,1.0,1.0,0.0
+33,Commit,codehaus-plexus_plexus-utils,2021-11-07 16:54:24,e8a8433894eae9e8f82cbba4b903508362e9322a,9.0,9.0,1.0,0.0
+34,Commit,codehaus-plexus_plexus-utils,2021-10-01 19:43:55,138d57efe3756f2d505f01720747b89af826b851,1.0,1.0,1.0,0.0
+35,Commit,codehaus-plexus_plexus-utils,2021-08-27 00:07:22,e2a3c0b59b0b8218dbb6ceaf2694d00c83e115c4,3.0,3.0,1.0,0.0
+36,Commit,codehaus-plexus_plexus-utils,2021-08-27 00:07:15,abc5db68410568c4c95c72f948353cbe8cd44d01,3.0,3.0,1.0,0.0
+37,Commit,codehaus-plexus_plexus-utils,2021-08-21 12:26:14,938e6f860d364ebebdb1e25a60be0d4bf499318c,1.0,1.0,1.0,0.0
+38,Commit,codehaus-plexus_plexus-utils,2021-08-21 12:25:58,e797c88ad4b450400f938e34133aadcfa7231fb3,1.0,1.0,1.0,0.0
+39,Commit,codehaus-plexus_plexus-utils,2021-08-21 12:25:44,9f8c3ba2b36f5fefa5bb1eb5c25ed825e20bb3d6,1.0,1.0,1.0,0.0
+40,Commit,codehaus-plexus_plexus-utils,2021-07-30 07:49:38,0a18bb8af8eef7d8d33b1b466a4ad2889128ef02,1.0,1.0,1.0,0.0
+41,Commit,codehaus-plexus_plexus-utils,2021-07-30 03:22:07,85b7e7f271847640d146ddbd409360f3878adae0,1.0,1.0,1.0,0.0
+42,Commit,codehaus-plexus_plexus-utils,2021-07-29 18:03:35,fe646bf079eeae5a2e188dc1f91c529b0334e470,3.0,3.0,1.0,0.0
+43,Commit,codehaus-plexus_plexus-utils,2021-07-29 18:03:29,6f2b70a826dc4885b2a3206ec374cba75a4f09bc,3.0,3.0,1.0,0.0
+44,Commit,codehaus-plexus_plexus-utils,2021-07-29 18:02:31,7d26d046d7ec167788aea58635d4333f30519e23,1958.0,172.0,53.0,0.0
+45,Commit,codehaus-plexus_plexus-utils,2021-07-29 17:55:12,17ed658995ab01a5439800223bb85881719b641d,7.0,6.0,1.0,0.0
+46,Commit,codehaus-plexus_plexus-utils,2021-04-18 08:14:57,8210833bbc8d1b1db94aa237d1385a4eb722ccee,2.0,3.0,2.0,0.0
+47,Commit,codehaus-plexus_plexus-utils,2021-04-17 14:21:09,a2efde329a88804235e18a97fd0941e3b2e59f36,1.0,1.0,1.0,0.0
+48,Commit,codehaus-plexus_plexus-utils,2021-04-17 13:23:53,2db9aac74a7bba5791bfe337cf4ca5d11bd813c8,25.0,0.0,1.0,0.0
+49,Commit,codehaus-plexus_plexus-utils,2021-04-12 16:20:20,67ca06dc7d772555a99c34f4739f3943107caff4,1.0,1.0,1.0,0.0
+50,Commit,codehaus-plexus_plexus-utils,2021-04-12 16:19:09,7aff941b59fd51ba8e98be5c233e4aa709a6ed5c,1.0,1.0,1.0,0.0
+51,Commit,codehaus-plexus_plexus-utils,2021-04-04 00:28:38,b52d0e5839dd75a18d276f30b4ec40632b4aac63,1.0,1.0,1.0,0.0
+52,Commit,codehaus-plexus_plexus-utils,2021-04-02 17:48:53,d9824e2d8b68f397bec45751d2647d464929cdfa,6.0,18.0,4.0,0.0
+53,Commit,codehaus-plexus_plexus-utils,2021-04-02 17:48:53,e13989678eb054db978c2c0269ac2d66c7b92ca7,64.0,27.0,1.0,0.0
+54,Commit,codehaus-plexus_plexus-utils,2021-04-02 17:48:53,a51503777ce910ed8cd4e32030a082ab8cde7259,2.0,10.0,1.0,0.0
+55,Commit,codehaus-plexus_plexus-utils,2021-04-02 17:48:53,31813d7ee5d5019941a57dec7d8aacaa105fec21,10.0,2.0,1.0,0.0
+56,Commit,codehaus-plexus_plexus-utils,2021-04-02 17:48:53,4338b3809bd5865f4b675005db57ae1f02d4803e,34.0,41.0,5.0,0.0
+57,Commit,codehaus-plexus_plexus-utils,2021-04-02 17:48:53,733b2809783dce199f9de089d783d3d8f20726ca,100.0,1774.0,7.0,0.0
+58,Commit,codehaus-plexus_plexus-utils,2021-04-02 17:48:53,53cbf247b5ed33a1938453e8389376ca94a559ac,1824.0,2.0,4.0,0.0
+59,Commit,codehaus-plexus_plexus-utils,2021-04-02 17:48:53,994b554742b7789e2ab6637a59b7099c9337a641,1.0,1.0,1.0,0.0
+60,Commit,codehaus-plexus_plexus-utils,2021-04-02 17:48:53,6e7950308e573fa7c35141d69f2847ab5b9e25e9,1.0,1.0,1.0,0.0
+61,Commit,codehaus-plexus_plexus-utils,2020-12-29 09:29:15,60bee8aca6298a3d29fea554d71db586bd1d2578,21.0,0.0,2.0,0.0
+62,Commit,codehaus-plexus_plexus-utils,2020-12-23 23:01:23,7e2e788e118adde3dea0a98fad430731631b6e21,11.0,14.0,4.0,0.0
+63,Commit,codehaus-plexus_plexus-utils,2020-12-23 23:01:23,99a001f69f8358c90190dcd076cbc8140810f5aa,13.0,17.0,3.0,0.0
+64,Commit,codehaus-plexus_plexus-utils,2020-12-23 23:01:23,659aca39328892b204128dcec973ef2ac22bbae0,1.0,1.0,1.0,0.0
+65,Commit,codehaus-plexus_plexus-utils,2020-12-23 14:12:04,2d0fb07fe417101819d3a433fed5ff8d03ed52e2,1.0,1.0,1.0,0.0
+66,Commit,codehaus-plexus_plexus-utils,2020-12-14 11:09:36,ad1a668b54c4c77b496d2a80448698d251696aed,29.0,36.0,9.0,0.0
+67,Commit,codehaus-plexus_plexus-utils,2020-12-14 11:09:36,3dc33d1d95ba8a1c0185abf7c68c2af4b46d5f3b,34.0,34.0,9.0,0.0
+68,Commit,codehaus-plexus_plexus-utils,2020-10-22 11:19:13,bec2f5370f83da0c6a72d0dc648fdeec2704a7e8,1.0,1.0,1.0,0.0
+69,Commit,codehaus-plexus_plexus-utils,2020-10-17 15:03:50,dcd9f0a7e43726b3b73d01dc9c7282ffb8111f61,1.0,1.0,1.0,0.0
+70,Commit,codehaus-plexus_plexus-utils,2020-07-29 05:54:55,e9d453ac8530c60e04ddec65a6283232475d1021,2.0,57.0,1.0,0.0
+71,Commit,codehaus-plexus_plexus-utils,2020-07-29 05:48:10,df3ae99df4630b24d6108ab56aadfcddf6991ab4,57.0,2.0,1.0,0.0
+72,Commit,codehaus-plexus_plexus-utils,2020-07-29 05:46:16,e230b6f492101808ba1d69e38c02779a4aea6f71,66.0,0.0,3.0,0.0
+73,Commit,codehaus-plexus_plexus-utils,2020-01-21 18:44:19,f9e9bef36dbe7a5f19c454c4c7252814b343b5c7,5.0,20.0,1.0,0.0
+74,Commit,codehaus-plexus_plexus-utils,2019-12-08 12:27:08,e1304ddeb9aef72ac27a1b7f7e58908cc7cee286,6.0,5.0,2.0,0.0
+75,Commit,codehaus-plexus_plexus-utils,2019-12-07 19:52:00,b93d9fa862f281292ffb335f92195b1980042f86,293.0,320.0,40.0,0.0
+76,Commit,codehaus-plexus_plexus-utils,2019-12-07 12:26:17,177a0cd86dda0cc07045628b2a5ad47a2559edb9,73.0,3.0,3.0,0.0
+77,Commit,codehaus-plexus_plexus-utils,2019-12-07 11:41:30,89f74c56f4e15b0603c5e8f76cbe4b3c0a1e880a,51.0,3.0,2.0,0.0
+78,Commit,codehaus-plexus_plexus-utils,2019-12-03 13:27:01,ecdbeebdbc38f73b8b4cf10fbf13590a81f87463,28.0,3.0,2.0,0.0
+79,Commit,codehaus-plexus_plexus-utils,2019-10-10 17:37:16,905a516d151d26627f63ac6af714928c3dfa5095,2.0,2.0,1.0,0.0
+80,Commit,codehaus-plexus_plexus-utils,2019-10-10 17:37:07,0e25d74d16b8ce748038f572806052bb37ccbb38,2.0,2.0,1.0,0.0
+81,Commit,codehaus-plexus_plexus-utils,2019-09-28 16:52:17,6f15ab2bc33ffb26a541254b27a3d5252db48a59,10.0,1.0,1.0,0.0
+82,Commit,codehaus-plexus_plexus-utils,2019-08-25 17:49:55,5e238665d008f99db4766ffba882d306b20d0fe0,28.0,1.0,4.0,0.0
+83,Commit,codehaus-plexus_plexus-utils,2019-07-10 18:44:39,6102699b8f6030091fc647e01b2de41e21c3106f,2.0,2.0,1.0,0.0
+84,Commit,codehaus-plexus_plexus-utils,2019-07-10 18:44:30,0a3cd62dece044be0950a8453467a9a6cb29d696,2.0,2.0,1.0,0.0
+85,Commit,codehaus-plexus_plexus-utils,2019-07-10 18:29:38,2b1353480564cd2c87b02d92df9b78521ce8cab5,1.0,1.0,1.0,0.0
+86,Commit,codehaus-plexus_plexus-utils,2019-07-10 18:12:06,ec8b25f8ff21feacc4416d3b6f3ecdf5b9edaef5,1.0,2.0,1.0,0.0
+87,Commit,codehaus-plexus_plexus-utils,2019-07-04 18:16:52,6dfc0a66a763d25ab534c8f8b223e465bbf9779e,145.0,25.0,3.0,0.0
+88,Commit,codehaus-plexus_plexus-utils,2019-07-03 20:01:13,0438170588606aa535fe670731c9525a79b00645,1.0,1.0,1.0,0.0
+89,Commit,codehaus-plexus_plexus-utils,2019-07-03 19:52:03,d00901b1fd902d35f211f7d1770b259d8ce474b4,9.0,2.0,1.0,0.0
+90,Commit,codehaus-plexus_plexus-utils,2019-07-03 19:37:38,d0b12c6f3bf0dfd3f5a3a818749ade8f5b4534b5,106.0,1.0,3.0,0.0
+91,Commit,codehaus-plexus_plexus-utils,2019-07-03 19:29:31,59cf121cba636d76b7788d63667b1a112845d767,25.0,6.0,2.0,0.0
+92,Commit,codehaus-plexus_plexus-utils,2019-03-10 18:18:41,b53c04c6d67d38c5c81c0c0f3e1711c6ae2047e5,2.0,2.0,1.0,0.0
+93,Commit,codehaus-plexus_plexus-utils,2019-03-10 18:18:34,42455f74a94ca96cc87b36a88131650301c95aaa,2.0,2.0,1.0,0.0
+94,Commit,codehaus-plexus_plexus-utils,2019-03-10 18:17:05,1d3290a5b5a909d00bc5d7c34501ea29d0f094e3,3.0,6.0,1.0,0.0
+95,Commit,codehaus-plexus_plexus-utils,2019-03-10 17:53:34,56e862ee73007ba33568a1dbb628fe3ce7aaf0f0,153.0,19.0,2.0,0.0
+96,Commit,codehaus-plexus_plexus-utils,2019-03-10 17:35:07,7e54bff868584cd3bfd7be59b9499e762f0d70ac,152.0,1.0,2.0,0.0
+97,Commit,codehaus-plexus_plexus-utils,2019-03-10 11:52:43,1dafbae437fbd6b924c6cffa775ef63989aae5a4,153.0,15.0,2.0,0.0
+98,Commit,codehaus-plexus_plexus-utils,2019-03-09 16:35:38,dd8d35ae706d64567422bf1fa77a74a16bf8f173,175.0,45.0,4.0,0.0
+99,Commit,codehaus-plexus_plexus-utils,2019-03-09 16:35:38,26cc2bf8b3fc802d45d3a8825ab571296be1f6bd,109.0,3.0,4.0,0.0
+100,Commit,codehaus-plexus_plexus-utils,2018-12-21 15:29:24,c3e8d88c44cb7a8135ed5ba2e6ddd4fa380579d8,2.0,2.0,1.0,0.0
+101,Commit,codehaus-plexus_plexus-utils,2018-12-21 15:29:13,8cbc868ba4647e5c3838a3a9fc391323b158c012,2.0,2.0,1.0,0.0
+102,Commit,codehaus-plexus_plexus-utils,2018-12-21 14:52:51,30d2d950df1b2a79212d68cd9d76369d5ace7a8e,9.0,0.0,1.0,0.0
+103,Commit,codehaus-plexus_plexus-utils,2018-12-21 14:47:31,17681cafc9ce7e6eb0d3c7ce826b589cab67250d,283.0,343.0,25.0,0.0
+104,Commit,codehaus-plexus_plexus-utils,2018-12-21 13:05:53,7bd193a906331106013f24636a58a3c216c77195,55.0,10.0,1.0,0.0
+105,Commit,codehaus-plexus_plexus-utils,2018-12-01 17:21:55,7143d9ba9a9a9d8ba291e24f537a0dd2b4b7eb7f,0.0,1.0,1.0,0.0
+106,Commit,codehaus-plexus_plexus-utils,2018-12-01 15:19:05,571340b282ac75afbb0d8a6b50252bb377cd700c,83.0,1.0,2.0,0.0
+107,Commit,codehaus-plexus_plexus-utils,2018-05-23 19:22:42,b762b9963311718f195552686f4675771cfa98fe,1.0,1.0,1.0,0.0
+108,Commit,codehaus-plexus_plexus-utils,2018-05-22 17:16:35,62b4a860cfbb5f48be886e1bd4f8e78dd6f78f11,26.0,7.0,2.0,0.0
+109,Commit,codehaus-plexus_plexus-utils,2017-08-03 17:58:13,ac81ee2dfc757a27d3e7a5315a65822f3033ec00,2.0,2.0,1.0,0.0
+110,Commit,codehaus-plexus_plexus-utils,2017-08-03 17:58:07,9063d79ca6732c4b45566a7784a1888c4ef78fb0,2.0,2.0,1.0,0.0
+111,Commit,codehaus-plexus_plexus-utils,2017-08-02 18:43:39,3ee50197af2d518ff06a9dd503b2dd7070758396,8383.0,7795.0,115.0,0.0
+112,Commit,codehaus-plexus_plexus-utils,2017-07-02 14:22:00,7c6e0ae6dd420a0fabe23868969b52e8aaf114b7,5.0,5.0,1.0,0.0
+113,Commit,codehaus-plexus_plexus-utils,2017-06-28 12:56:25,8b3721ea3ee1b8c60db5e45962e3fc1f3a0b99d5,15.0,0.0,1.0,0.0
+114,Commit,codehaus-plexus_plexus-utils,2017-06-28 12:49:50,ef9a78f019b109d7d9232e78aa2998fcbfb40234,42.0,5.0,2.0,0.0
+115,Commit,codehaus-plexus_plexus-utils,2017-06-18 20:04:09,a9bc91d66dc421fe22c4fbaabc38acc2b7d267cf,4.0,4.0,1.0,0.0
+116,Commit,codehaus-plexus_plexus-utils,2017-06-18 20:01:10,a49305fb52674cfec3a180cb5fae11baea1423e3,35.0,20.0,3.0,0.0
+117,Commit,codehaus-plexus_plexus-utils,2017-04-27 08:23:46,dd1c85f268f2e56cf0b8b4116119738431c98522,69.0,5.0,2.0,0.0
+118,Commit,codehaus-plexus_plexus-utils,2017-02-26 10:56:46,21cedc9b2fb7ecd3e0b15b3c055c3b17e520f393,292.0,104.0,7.0,0.0
+119,Commit,codehaus-plexus_plexus-utils,2017-02-06 22:00:15,0cd03527afcdc58d9f6811abefe79f495ff81041,17.0,9.0,4.0,0.0
+120,Commit,codehaus-plexus_plexus-utils,2017-02-06 21:51:35,5965ff0140240693265049280e1805c16a8cce63,166.0,166.0,37.0,0.0
+121,Commit,codehaus-plexus_plexus-utils,2017-02-06 21:41:56,9df4f30d2c00766c069260744a019dcc14fd2ea7,10.0,4.0,1.0,0.0
+122,Commit,codehaus-plexus_plexus-utils,2016-06-14 21:29:21,c9d57275198add557294e592c2a5125c5021895d,4.0,3.0,1.0,0.0
+123,Commit,codehaus-plexus_plexus-utils,2016-06-14 01:42:21,06a5df99ddcdba3d9b27cd88f5eccb1274224d7d,4.0,0.0,1.0,0.0
+124,Commit,codehaus-plexus_plexus-utils,2016-06-14 01:32:26,49a1662cc85f8d7994e5f5ae16844ccd426edd63,0.0,0.0,0.0,0.0
+125,Commit,codehaus-plexus_plexus-utils,2016-06-14 01:01:53,513b3a8a2e08d5932f570602f344d61828bc3cc1,4.0,0.0,1.0,0.0
+126,Commit,codehaus-plexus_plexus-utils,2016-06-13 22:07:28,8b16d8b61abfaac13aa5df3ef9894ca857b6623a,16.0,0.0,1.0,0.0
+127,Commit,codehaus-plexus_plexus-utils,2016-05-22 22:08:09,658fb005ee7ec05fe81c44a8faaa21855750029f,1.0,1.0,1.0,0.0
+128,Commit,codehaus-plexus_plexus-utils,2016-05-22 22:07:08,b37e5c26779dbafcc10d64ec5cbd3d3655c00e6a,7.0,0.0,1.0,0.0
+129,Commit,codehaus-plexus_plexus-utils,2016-05-07 22:24:07,91baf320d426a3590ac603e3ecf270b3f3050d79,2.0,2.0,1.0,0.0
+130,Commit,codehaus-plexus_plexus-utils,2016-05-07 22:23:59,fd36d8b80ba10955ef065230571ce2be2d4c1bbb,2.0,2.0,1.0,0.0
+131,Commit,codehaus-plexus_plexus-utils,2016-05-07 22:17:51,33a2853df8185b4519b1b8bfae284f03392618ef,6.0,0.0,1.0,0.0
+132,Commit,codehaus-plexus_plexus-utils,2016-05-07 22:11:44,f933e5e78dc2637e485447ed821fe14904f110de,10.0,0.0,1.0,0.0
+133,Commit,codehaus-plexus_plexus-utils,2016-05-07 22:11:41,fcd94e57a05474cf0db0a34e5a2f3e8c49fb2c29,5.0,1.0,1.0,0.0
+134,Commit,codehaus-plexus_plexus-utils,2016-05-07 22:11:37,2644af5a8a51bbaf2cc307386b81d63069954e46,16.0,6.0,1.0,0.0
+135,Commit,codehaus-plexus_plexus-utils,2016-05-07 22:11:33,ba1c194dc0d57b49ffb2220b7571e68caf09f18b,85.0,115.0,5.0,0.0
+136,Commit,codehaus-plexus_plexus-utils,2016-05-04 18:31:00,8399a2eeee7c2ba90cc090c2b5589ff0579e8960,2.0,2.0,1.0,0.0
+137,Commit,codehaus-plexus_plexus-utils,2016-05-04 18:30:53,6176f91bb843eecddac857591ed20bda38e01470,2.0,2.0,1.0,0.0
+138,Commit,codehaus-plexus_plexus-utils,2016-05-04 18:07:28,5d94a602392cbf3f9f6175bee42fee1c1b97d128,0.0,0.0,0.0,0.0
+139,Commit,codehaus-plexus_plexus-utils,2016-05-03 23:18:03,05df14eb6bc5304f1370baebe6d46368bafa9f9d,37.0,10.0,3.0,0.0
+140,Commit,codehaus-plexus_plexus-utils,2016-03-07 19:40:54,ea5e38c17986be0786389111a4b8d9b99350c0a2,0.0,1.0,1.0,0.0
+141,Commit,codehaus-plexus_plexus-utils,2016-03-07 19:39:04,e87642a5b0d6e3f9321f6093d25bc4281200c4f3,24.0,0.0,2.0,0.0
+142,Commit,codehaus-plexus_plexus-utils,2016-03-07 09:28:46,5986afccb9230ac72f3d0462e884b49582a724d1,2.0,2.0,1.0,0.0
+143,Commit,codehaus-plexus_plexus-utils,2016-03-07 09:28:22,c4967be8af257921d0a6bbe7bdb3b47787aa8d6d,2.0,2.0,1.0,0.0
+144,Commit,codehaus-plexus_plexus-utils,2016-03-07 09:01:25,31d2233b2793e5b38690cb5713c9d47ffe7d5212,1.0,1.0,1.0,0.0
+145,Commit,codehaus-plexus_plexus-utils,2016-03-07 08:55:59,7220ed350f3135f72fc834507f2e0256f061f5ff,12.0,12.0,1.0,0.0
+146,Commit,codehaus-plexus_plexus-utils,2015-09-26 19:51:41,1e7e8a7d23880301270e36961f8a3602aedd10fe,1.0,0.0,1.0,0.0
+147,Commit,codehaus-plexus_plexus-utils,2015-09-26 19:46:30,184d79b0fedcc824c8c797696aa4f4aca679aaf3,0.0,14.0,1.0,0.0
+148,Commit,codehaus-plexus_plexus-utils,2015-09-26 19:23:01,6c25fd8d10eebbfd3826810bb49d66de26c17210,25.0,4.0,1.0,0.0
+149,Commit,codehaus-plexus_plexus-utils,2015-04-07 15:59:19,f7513e2568ee2920ef17b194598b7da7af48ebc0,2.0,2.0,1.0,0.0
+150,Commit,codehaus-plexus_plexus-utils,2015-04-07 15:59:15,b4217444289ade35c1972af9fc3bfa42f972e1c8,2.0,2.0,1.0,0.0
+151,Commit,codehaus-plexus_plexus-utils,2015-04-07 15:56:10,21a09142dd74b0802b56b84557e33ee97eb89be3,2.0,8.0,1.0,0.0
+152,Commit,codehaus-plexus_plexus-utils,2015-03-31 22:12:47,dfd7dc3d03c59b4b12774c0f2aa81b19813d7d86,0.0,0.0,0.0,0.0
+153,Commit,codehaus-plexus_plexus-utils,2015-03-31 12:31:30,03e07adfceb167b04ec3fdbde0aec749be5c79fd,2.0,2.0,1.0,0.0
+154,Commit,codehaus-plexus_plexus-utils,2015-02-10 22:26:09,13a7cf1995e2ece4b2715df431a6e33cf569bf97,3.0,3.0,1.0,0.0
+155,Commit,codehaus-plexus_plexus-utils,2015-01-27 16:50:13,5ba6cfcca911200b5b9d2b313bb939e6d7cbbac6,4.0,0.0,1.0,0.0
+156,Commit,codehaus-plexus_plexus-utils,2015-01-24 14:32:13,8722586723f2a2838b1657737decded2dbaa91b0,87.0,8.0,2.0,0.0
+157,Commit,codehaus-plexus_plexus-utils,2015-01-15 16:28:58,57071aa4724cc1b627a2ae79dcf7f59dbcf896a0,0.0,0.0,172.0,0.0
+158,Commit,codehaus-plexus_plexus-utils,2015-01-15 16:20:30,237d605b9e39e178e2c016c3160c6f3cd58d3568,172.0,0.0,172.0,0.0
+159,Commit,codehaus-plexus_plexus-utils,2014-11-14 18:36:53,31e51d0d8593a89757e4b2955bfafdda9ad6ede6,2.0,2.0,1.0,0.0
+160,Commit,codehaus-plexus_plexus-utils,2014-11-14 18:36:49,859590100d6177108424ed120e1bb8ca86ff0b54,2.0,2.0,1.0,0.0
+161,Commit,codehaus-plexus_plexus-utils,2014-11-14 18:35:46,585f9fd466167da4b22848156e47f087cdb81862,107.0,107.0,2.0,0.0
+162,Commit,codehaus-plexus_plexus-utils,2014-11-14 18:34:19,87a3a9c45c5d4d5986a4291a2c0d787c09c65686,22.0,0.0,1.0,0.0
+163,Commit,codehaus-plexus_plexus-utils,2014-11-14 18:14:50,60b24c700935dea25e79a0249bafd97e9034c5fd,2.0,2.0,1.0,0.0
+164,Commit,codehaus-plexus_plexus-utils,2014-11-14 18:14:45,a6230d68e74d96f8ae272a98d06a39de717f46ca,2.0,2.0,1.0,0.0
+165,Commit,codehaus-plexus_plexus-utils,2014-11-14 18:09:44,840c72371bdc154a2638627aa898b60151736517,182.0,38.0,6.0,0.0
+166,Commit,codehaus-plexus_plexus-utils,2014-10-18 19:59:07,84de1610d9e886f07842663668c3f4ee5b5094c7,2.0,2.0,1.0,0.0
+167,Commit,codehaus-plexus_plexus-utils,2014-10-18 19:59:03,dc6ed699c644d649622f85bdf85d0684e54c11f6,2.0,2.0,1.0,0.0
+168,Commit,codehaus-plexus_plexus-utils,2014-10-18 19:57:50,7c22e4e632a2abc0e155a5f84e41e6fdac3ab89b,3.0,3.0,1.0,0.0
+169,Commit,codehaus-plexus_plexus-utils,2014-10-18 09:27:53,020f2abc6c7011053b51dbaf2ff68aa0fb799965,2.0,2.0,1.0,0.0
+170,Commit,codehaus-plexus_plexus-utils,2014-10-18 09:27:21,08e46b90d2b8ebd7adfcdb5cc9cfb3df37c43cd0,2.0,2.0,1.0,0.0
+171,Commit,codehaus-plexus_plexus-utils,2014-10-18 09:25:27,44246a3761f10e2e2d4dfbff5bcc41c7c7b10c0c,6.0,1.0,1.0,0.0
+172,Commit,codehaus-plexus_plexus-utils,2014-10-18 09:17:06,0bde0ac31bd1749405251083077a4fd9edadd0f6,5.0,22.0,2.0,0.0
+173,Commit,codehaus-plexus_plexus-utils,2014-10-18 08:52:27,c8a473bf71a6d4ae231f6f63e77213b741e8e7cd,37.0,0.0,2.0,0.0
+174,Commit,codehaus-plexus_plexus-utils,2014-09-27 17:12:50,63b7fe1978d4b5a93f444a0f31bdb2e865a3ad2d,2.0,2.0,1.0,0.0
+175,Commit,codehaus-plexus_plexus-utils,2014-09-27 17:12:46,a4ef5af0a58e4b0f1d08db4fc25a793139a1ad21,2.0,2.0,1.0,0.0
+176,Commit,codehaus-plexus_plexus-utils,2014-09-27 17:11:15,f56b59d8dc6a2e99d9c9902562b9c98143ccda0b,2.0,2.0,1.0,0.0
+177,Commit,codehaus-plexus_plexus-utils,2014-09-27 08:40:56,6eb7fdfb83c5b83901e99322785dfb3ed8dd11ec,101.0,2.0,18.0,0.0
+178,Commit,codehaus-plexus_plexus-utils,2014-09-19 17:01:44,81434938704a82f6b2b8f7698f881237f4bf5fb8,4.0,4.0,2.0,0.0
+179,Commit,codehaus-plexus_plexus-utils,2014-09-19 16:57:02,e5c932de717130854850a65bd3f6e9a9397eec6a,43.0,45.0,8.0,0.0
+180,Commit,codehaus-plexus_plexus-utils,2014-09-19 16:41:43,7b8ffc2ad4bfef23a1fabab94b81385b1fbe05a1,314.0,341.0,42.0,0.0
+181,Commit,codehaus-plexus_plexus-utils,2014-01-27 15:09:45,462b7d4bb899207723f437cf326a33c362ed4f1d,2.0,2.0,1.0,0.0
+182,Commit,codehaus-plexus_plexus-utils,2014-01-27 15:09:42,3dd5750645d806aeeae174e5268609d927660e0b,2.0,2.0,1.0,0.0
+183,Commit,codehaus-plexus_plexus-utils,2014-01-07 19:55:37,8cd6c43693b3e6944e83db0561bdfd0050a6876e,10.0,0.0,2.0,0.0
+184,Commit,codehaus-plexus_plexus-utils,2013-12-21 18:02:04,9471e4ed8b6b74e3edb00703774e3d27cc8a5433,2.0,2.0,1.0,0.0
+185,Commit,codehaus-plexus_plexus-utils,2013-12-21 18:02:01,cf317f9b4070c3c619e9ee75a3e38bea3ff621c1,2.0,1.0,1.0,0.0
+186,Commit,codehaus-plexus_plexus-utils,2013-12-21 18:00:55,26e3ae87b56a7f389f1a1ce1fa563686b924256a,0.0,1.0,1.0,0.0
+187,Commit,codehaus-plexus_plexus-utils,2013-12-21 16:38:55,99639d6558620da489b7c6d1b0c88491cde75884,85.0,0.0,1.0,0.0
+188,Commit,codehaus-plexus_plexus-utils,2013-12-20 18:36:14,5d4697966d4c6161fc4bde1fd3fa27be6440eec0,8.0,5.0,1.0,0.0
+189,Commit,codehaus-plexus_plexus-utils,2013-12-20 18:31:11,18bd77d716ff73a707e09af7efc4d5ef5658ac35,5.0,0.0,1.0,0.0
+190,Commit,codehaus-plexus_plexus-utils,2013-12-20 18:29:41,3cf855c6403061ae216b0f805debbfda09be9245,0.0,94.0,1.0,0.0
+191,Commit,codehaus-plexus_plexus-utils,2013-12-19 22:24:56,3196d4c3c1fa42d11cfeb4e39c418c2f75c5a138,1.0,0.0,1.0,0.0
+192,Commit,codehaus-plexus_plexus-utils,2013-12-19 15:37:07,57b636d2c57f3c023a95be3fcb8270fb6ff6780c,17.0,4.0,1.0,0.0
+193,Commit,codehaus-plexus_plexus-utils,2013-12-19 14:47:44,33091f9b1e5a9abc0927bc51a1670d9d5ba85a1c,18.0,9.0,1.0,0.0
+194,Commit,codehaus-plexus_plexus-utils,2013-12-18 15:13:15,a153249c24c32d3ab81850aaf7a263a78ca23f99,387.0,156.0,2.0,0.0
+195,Commit,codehaus-plexus_plexus-utils,2013-10-23 17:48:13,b38a1b3a4352303e4312b2bb601a0d7ec6e28f41,107.0,82.0,5.0,1.0
+196,Commit,codehaus-plexus_plexus-utils,2013-08-19 20:07:33,86c37983bb2bd92b1df43fe73f321ffbfa155070,1.0,1.0,1.0,0.0
+197,Commit,codehaus-plexus_plexus-utils,2013-08-19 19:55:50,f2beca21c75084986b49b3ab7b5f0f988021dcea,2.0,2.0,1.0,0.0
+198,Commit,codehaus-plexus_plexus-utils,2013-08-19 19:55:42,3b271b43f9e5021b4232fc2ffdfb4e469c7f8685,2.0,2.0,1.0,0.0
+199,Commit,codehaus-plexus_plexus-utils,2013-08-19 19:35:53,ad6d1ad6b3edbc4b4a2f26e31ae94babbb07513c,2.0,0.0,1.0,0.0
+200,Commit,codehaus-plexus_plexus-utils,2013-08-19 19:29:20,1267e1b1126bb3d89b1fd60901370c8b6bcd3d60,1.0,4.0,1.0,0.0
+201,Commit,codehaus-plexus_plexus-utils,2013-08-18 20:19:09,02eed78e4abcfad06de8014f5f7623cb26ad34f8,1.0,1.0,1.0,0.0
+202,Commit,codehaus-plexus_plexus-utils,2013-08-06 19:54:15,d5fdf54d84dba41ac54d50974b8ddbedf374c9d3,1.0,1.0,1.0,0.0
+203,Commit,codehaus-plexus_plexus-utils,2013-08-06 19:54:07,e434f28f0a2f9175a493be39c47176aeb3d00469,1.0,1.0,1.0,0.0
+204,Commit,codehaus-plexus_plexus-utils,2013-08-06 19:53:20,f9df68c1529f172e1e2a4145777c4e66d8d6a4d1,3.0,19.0,3.0,0.0
+205,Commit,codehaus-plexus_plexus-utils,2013-08-06 19:49:41,fa655497a473c2582c8a9aa3f89145d1f106133a,122.0,8.0,4.0,0.0
+206,Commit,codehaus-plexus_plexus-utils,2013-08-06 19:31:00,8779fbdeb6eaa5851c3b4a0a8df8739c2477836a,32.0,13.0,2.0,0.0
+207,Commit,codehaus-plexus_plexus-utils,2013-08-06 18:58:28,8b79a66d9783b15c390eefd88745b193cf5e3c41,6.0,4.0,1.0,0.0
+208,Commit,codehaus-plexus_plexus-utils,2013-08-04 20:31:29,546ff78f01a897011be5fda7da139a4c55dbb7e9,2.0,2.0,1.0,0.0
+209,Commit,codehaus-plexus_plexus-utils,2013-08-04 20:31:22,5d446205de12702bf1734e2893a919bf599c3c12,2.0,2.0,1.0,0.0
+210,Commit,codehaus-plexus_plexus-utils,2013-08-04 20:29:44,a28b1cef1093421da4208ae4da3b4fcaf76325a3,74.0,0.0,1.0,0.0
+211,Commit,codehaus-plexus_plexus-utils,2013-08-04 20:05:27,8329259231a7029315052bbe57b81fd24c012c71,2.0,2.0,1.0,0.0
+212,Commit,codehaus-plexus_plexus-utils,2013-08-04 20:05:18,6783214b0315280745fb02a97abdabb49029d40c,2.0,2.0,1.0,0.0
+213,Commit,codehaus-plexus_plexus-utils,2013-08-04 20:02:59,235796a03400472840626cf3195d05932158c71c,139.0,2.0,3.0,0.0
+214,Commit,codehaus-plexus_plexus-utils,2013-08-04 13:11:32,981a6075e204550380ebe663084ca6b35a762d03,2.0,2.0,1.0,0.0
+215,Commit,codehaus-plexus_plexus-utils,2013-08-04 13:11:25,9166ef3a795fb306faed88b68072ce792be51759,2.0,2.0,1.0,0.0
+216,Commit,codehaus-plexus_plexus-utils,2013-08-04 13:09:45,aa6739dc2871e01d6d0ca4564a3a66bcf044c84a,249.0,17.0,7.0,0.0
+217,Commit,codehaus-plexus_plexus-utils,2013-08-01 22:52:25,8c0801c3178dae2b577a36e079b45ae19b814838,2.0,2.0,1.0,0.0
+218,Commit,codehaus-plexus_plexus-utils,2013-08-01 22:52:20,b60b2d5f5dc534ec7f9ef23ea31cef42d0dda2ea,2.0,2.0,1.0,0.0
+219,Commit,codehaus-plexus_plexus-utils,2013-08-01 22:35:34,41f9363023b49a190c97357802ddc09222173d1d,0.0,35.0,1.0,0.0
+220,Commit,codehaus-plexus_plexus-utils,2013-07-31 15:46:34,6882f47c1e457b45225b04ab2d04b265bbacef29,2.0,2.0,1.0,0.0
+221,Commit,codehaus-plexus_plexus-utils,2013-07-31 15:46:27,9f1b1dffcfe474c574b2b3041201f5c6692d8b7f,2.0,2.0,1.0,0.0
+222,Commit,codehaus-plexus_plexus-utils,2013-07-31 15:44:21,5572436a9f5e20f90bc61ca9f3cc901fe7df452d,108.0,94.0,22.0,0.0
+223,Commit,codehaus-plexus_plexus-utils,2013-07-31 15:44:21,25fc3a2059275be83d25626064ca826848485797,35.0,0.0,1.0,0.0
+224,Commit,codehaus-plexus_plexus-utils,2013-07-31 15:44:12,3217c5d2c9d56a3a849d9325ebeaebfa6a583eb4,4.0,1.0,1.0,0.0
+225,Commit,codehaus-plexus_plexus-utils,2013-07-27 20:50:39,286a5980977d154392853a54035f2c16e38f29fd,80.0,123.0,9.0,0.0
+226,Commit,codehaus-plexus_plexus-utils,2013-01-11 06:31:36,763d6bc011a23334dbf126a43f2db0561dab417f,1.0,1.0,1.0,0.0
+227,Commit,codehaus-plexus_plexus-utils,2012-12-01 23:52:32,8474758efb9847cd6478a49dd118fac086ceb49b,1.0,1.0,1.0,0.0
+228,Commit,codehaus-plexus_plexus-utils,2012-11-28 22:44:46,ccb7af9bc8ae340ef9269b759a1b5797924da726,2.0,2.0,1.0,0.0
+229,Commit,codehaus-plexus_plexus-utils,2012-11-28 22:44:39,a09697db5ee87f97180b1c84b5bbdef47ba28658,2.0,2.0,1.0,0.0
+230,Commit,codehaus-plexus_plexus-utils,2012-11-28 10:56:39,f787a5a5f5577f7c743987158d95fecf1278f47b,0.0,16.0,1.0,0.0
+231,Commit,codehaus-plexus_plexus-utils,2012-11-28 10:50:24,6a2ad293e18e9ab51d686377be6314d2c5143301,8.0,120.0,1.0,0.0
+232,Commit,codehaus-plexus_plexus-utils,2012-11-27 08:01:43,edeb37d624a2cee66ab09e5b9cefc92e14e0492a,6.0,11.0,1.0,0.0
+233,Commit,codehaus-plexus_plexus-utils,2012-11-27 07:54:57,0ffb38a98e13b0ffa3957e9e093db5eb567bd406,9.0,4.0,1.0,0.0
+234,Commit,codehaus-plexus_plexus-utils,2012-11-27 07:53:00,ccc7b11dc7c35e3226e279ff612d879beb28a055,6.0,0.0,1.0,0.0
+235,Commit,codehaus-plexus_plexus-utils,2012-11-18 23:02:41,4b4d7c22b2ae790c8a0ea5cce5f69919cca22cc0,2.0,2.0,1.0,0.0
+236,Commit,codehaus-plexus_plexus-utils,2012-11-18 20:47:43,244226d693f6a816fdba0f33f269e9e71f3e8984,2.0,2.0,1.0,0.0
+237,Commit,codehaus-plexus_plexus-utils,2012-11-18 12:10:56,d7b3c8ae2bd8947f5fce395c87324030d3d0497c,17.0,6.0,2.0,0.0
+238,Commit,codehaus-plexus_plexus-utils,2012-10-31 15:04:46,acf8cd8d1d35afa78f39cfd61a6ebebc06b2b069,1.0,1.0,1.0,0.0
+239,Commit,codehaus-plexus_plexus-utils,2012-09-20 19:32:17,f500a607fb3479496a02e09a0f9fe2ff89e88871,2.0,2.0,1.0,0.0
+240,Commit,codehaus-plexus_plexus-utils,2012-09-20 19:32:09,b0c708017f813ec9b7799fe82b4bc4bfd1631c53,3.0,3.0,1.0,0.0
+241,Commit,codehaus-plexus_plexus-utils,2012-09-20 19:29:07,6397c3e439528cd1c319c7e3eae448768f7a4552,109.0,2.0,4.0,0.0
+242,Commit,codehaus-plexus_plexus-utils,2012-09-19 20:54:41,d854834f4c0d33ea95df373ea966b3d3770f90ac,1.0,1.0,1.0,0.0
+243,Commit,codehaus-plexus_plexus-utils,2012-09-16 07:15:58,aef9a6924ef3c942fbce3422a9aab2f2f85d530c,1.0,1.0,1.0,0.0
+244,Commit,codehaus-plexus_plexus-utils,2012-09-16 07:15:45,23cb9cba9d7ba020547802a45b2991dee99dbcb1,1.0,1.0,1.0,0.0
+245,Commit,codehaus-plexus_plexus-utils,2012-09-15 20:38:53,0e99794fbaf156a281ccbceea7cd3660c5d4d376,19.0,0.0,1.0,0.0
+246,Commit,codehaus-plexus_plexus-utils,2012-09-15 20:24:32,7834a317d0b9ca4c6dc4d89bb0c0fad8d81e8897,1.0,1.0,1.0,0.0
+247,Commit,codehaus-plexus_plexus-utils,2012-09-15 20:05:35,66ef487d7f2d82f0b136b8112967050d939c8a1e,8.0,8.0,1.0,0.0
+248,Commit,codehaus-plexus_plexus-utils,2012-09-15 20:04:58,74eba576223fd231404d7019b9368e69614b760e,4.0,6.0,1.0,0.0
+249,Commit,codehaus-plexus_plexus-utils,2012-09-15 10:50:42,93ca53f2e588e2a277c3c61b26a91c813be07822,1.0,1.0,1.0,0.0
+250,Commit,codehaus-plexus_plexus-utils,2012-09-15 10:50:33,4332f7bd3c51ff3496998fdcb2d00a38e067630d,1.0,1.0,1.0,0.0
+251,Commit,codehaus-plexus_plexus-utils,2012-09-15 10:35:51,a5b09677d9fdb82512edfb80e14f53ae03025e83,198.0,165.0,3.0,0.0
+252,Commit,codehaus-plexus_plexus-utils,2012-08-20 14:20:58,f39264673198dd21a24b783a50e9df4cbadc8b23,1.0,1.0,1.0,0.0
+253,Commit,codehaus-plexus_plexus-utils,2012-08-20 14:20:50,b50fe89cfb368e06dabc340b851504a2a2f25c47,1.0,1.0,1.0,0.0
+254,Commit,codehaus-plexus_plexus-utils,2012-08-20 14:15:07,e7b72534b3f68b9e75331a2badbd421bc65395ac,576.0,346.0,7.0,0.0
+255,Commit,codehaus-plexus_plexus-utils,2012-08-06 18:34:38,97601113fcc349aec60e937c3dca886a2f75d01d,1.0,1.0,1.0,0.0
+256,Commit,codehaus-plexus_plexus-utils,2012-08-06 18:34:29,76880d4187130c8142b887c55d05c1cb349e2dc2,1.0,1.0,1.0,0.0
+257,Commit,codehaus-plexus_plexus-utils,2012-08-02 23:15:40,920f43fffe99ccb93176c558bb9bb8267a0c01a9,71.0,11.0,5.0,0.0
+258,Commit,codehaus-plexus_plexus-utils,2012-08-01 21:05:44,c628a025b6dace0622c7007a93cc952ba7a55058,1.0,1.0,1.0,0.0
+259,Commit,codehaus-plexus_plexus-utils,2012-08-01 21:05:35,c07eb85ab8a59dd73d00449f33e3bc57924123e2,1.0,1.0,1.0,0.0
+260,Commit,codehaus-plexus_plexus-utils,2012-07-31 23:16:04,ef26d83d3b6638ebfc0ac550e413c89ab98723ff,12.0,1.0,2.0,0.0
+261,Commit,codehaus-plexus_plexus-utils,2012-07-09 15:03:18,4734a0cae9e9ec32c1a04241c0287d881d5a1048,1.0,1.0,1.0,0.0
+262,Commit,codehaus-plexus_plexus-utils,2012-07-09 15:03:07,2b5a6c3645602fd19932d6a6bce07e9c9bf9b29f,1.0,1.0,1.0,0.0
+263,Commit,codehaus-plexus_plexus-utils,2012-07-09 14:52:45,a976c5231c14707ff7241634673f6ed528e67c4b,54.0,47.0,1.0,0.0
+264,Commit,codehaus-plexus_plexus-utils,2012-06-05 22:54:55,4305d47b13c97bfddbef11d684e882261a292e3a,8.0,0.0,1.0,0.0
+265,Commit,codehaus-plexus_plexus-utils,2012-05-05 22:36:01,008275f86b5824fa530ec7666b1ae4c4c346304c,1.0,1.0,1.0,0.0
+266,Commit,codehaus-plexus_plexus-utils,2012-05-05 22:35:52,f1ee873df4113eae791face1984e14e2b37440ad,1.0,1.0,1.0,0.0
+267,Commit,codehaus-plexus_plexus-utils,2012-04-11 14:49:27,6905c00395fcfb68e39dc0e270c4299f6b6b66ea,74.0,0.0,1.0,0.0
+268,Commit,codehaus-plexus_plexus-utils,2012-04-10 14:00:15,ec0763d88e0cc4c4ed9700fd9bfe2b075d6c254b,15.0,10.0,1.0,0.0
+269,Commit,codehaus-plexus_plexus-utils,2012-03-03 22:31:07,7309fd17dc093868427a679a5c75d053abe832e9,0.0,0.0,0.0,0.0
+270,Commit,codehaus-plexus_plexus-utils,2012-03-03 22:27:17,7a1e58ff7b6309b56e1abe395666683e42e086b5,1.0,1.0,1.0,0.0
+271,Commit,codehaus-plexus_plexus-utils,2012-02-28 08:33:46,8bf6428dae78cc6bee9314f6c7134ac3ec9da34b,0.0,0.0,0.0,0.0
+272,Commit,codehaus-plexus_plexus-utils,2012-02-28 08:33:13,2071163a005a84142dbc9c5a7f6ed02ba5ab826d,2.0,1.0,1.0,0.0
+273,Commit,codehaus-plexus_plexus-utils,2012-02-28 08:01:24,5479734d6250b09e0205e892a94e81b76e66140c,6.0,0.0,1.0,0.0
+274,Commit,codehaus-plexus_plexus-utils,2012-01-03 11:05:19,7f8d80f4feb8b7f9b83652839c9643b2c7b47644,8.0,14.0,6.0,0.0
+275,Commit,codehaus-plexus_plexus-utils,2011-08-07 20:08:01,7541e13a11952a205ec334c28a6aa96a94e0a491,1.0,1.0,1.0,0.0
+276,Commit,codehaus-plexus_plexus-utils,2011-08-07 19:50:23,285ea2cfddee961092e9fb57f2f5aaae2cd9982c,3.0,54.0,1.0,0.0
+277,Commit,codehaus-plexus_plexus-utils,2011-08-07 13:07:36,808551a59694bab5739d4934b5eb7a1d8d839336,132.0,4.0,9.0,0.0
+278,Commit,codehaus-plexus_plexus-utils,2011-08-05 19:50:41,dc2af9ae0dd58b8be58bee29cd52d7a75ccab047,3.0,1.0,1.0,0.0
+279,Commit,codehaus-plexus_plexus-utils,2011-08-05 19:47:46,0c34c0598d6fb63759af9660e41767b776934f74,45.0,3.0,1.0,0.0
+280,Commit,codehaus-plexus_plexus-utils,2011-07-02 21:32:20,f3888692f862a9ea30de409452217a7956698953,77.0,104.0,10.0,0.0
+281,Commit,codehaus-plexus_plexus-utils,2011-07-02 21:03:10,a9786dcd82d3df0f3d28baf812221d1e7554c139,15.0,2.0,1.0,0.0
+282,Commit,codehaus-plexus_plexus-utils,2011-07-02 20:56:53,69fe0e89edb5f2a57cbbaf62864e50b7c7e22c8f,3.0,45.0,1.0,0.0
+283,Commit,codehaus-plexus_plexus-utils,2011-06-23 21:48:46,5c59e85020103c74eefe0b531d00e04959c545f5,1.0,1.0,1.0,0.0
+284,Commit,codehaus-plexus_plexus-utils,2011-06-23 21:48:15,b0e8713ff665f7fb5c8fcf6ae40d1ee03147db97,1.0,1.0,1.0,0.0
+285,Commit,codehaus-plexus_plexus-utils,2011-06-23 21:47:18,12bb5ae874b48bcffcadc4aafb376034feced124,1.0,1.0,1.0,0.0
+286,Commit,codehaus-plexus_plexus-utils,2011-06-23 21:42:52,fc21469bf1e33c06db30d7bf3c533dca6a085a95,37.0,21.0,2.0,0.0
+287,Commit,codehaus-plexus_plexus-utils,2011-06-22 14:29:48,8e38ad4624aad25f7f96fa0d74054bbc341dab99,1.0,1.0,1.0,0.0
+288,Commit,codehaus-plexus_plexus-utils,2011-06-22 14:29:43,efae8034ae3ce0b85dd77f67bfa242555a37379d,1.0,1.0,1.0,0.0
+289,Commit,codehaus-plexus_plexus-utils,2011-06-22 14:24:11,0de92b1259d4182fc9245db2dfa0b0fee356d425,115.0,80.0,1.0,0.0
+290,Commit,codehaus-plexus_plexus-utils,2011-06-19 14:19:24,c71baa8c55669bfaa4a72b81dfbc5f109a04e1af,202.0,202.0,14.0,0.0
+291,Commit,codehaus-plexus_plexus-utils,2011-06-09 20:48:50,990b8d18556179cc1e1acc6ca30668375ab84e2c,1.0,1.0,1.0,0.0
+292,Commit,codehaus-plexus_plexus-utils,2011-06-09 20:47:39,01d252ac6be7f132d37a632b9ddbdd345b037181,1.0,1.0,1.0,0.0
+293,Commit,codehaus-plexus_plexus-utils,2011-06-09 20:46:08,972962533b2cfec983796a271242b6c297a617c1,17.0,0.0,1.0,0.0
+294,Commit,codehaus-plexus_plexus-utils,2011-06-09 20:30:48,91498db9542cdb832410238eccccd6b5fef45074,15.0,0.0,1.0,0.0
+295,Commit,codehaus-plexus_plexus-utils,2011-05-16 18:49:18,3b455498e62f8bd72fa1f82b022b206de7c983e9,4.0,0.0,1.0,0.0
+296,Commit,codehaus-plexus_plexus-utils,2011-05-16 18:49:12,2e68f9519147eadb2dc27da3bdfe942529f054d4,82.0,69.0,1.0,0.0
+297,Commit,codehaus-plexus_plexus-utils,2011-05-16 17:28:14,dff209e5a1f7c1bb4a4de2a19582bbc2cb3c6f0c,88.0,80.0,2.0,0.0
+298,Commit,codehaus-plexus_plexus-utils,2011-05-12 13:01:11,7826e20ebec8242a234f6a5804879623da9c2bc9,2.0,1.0,1.0,0.0
+299,Commit,codehaus-plexus_plexus-utils,2011-04-15 21:19:28,bf26a7fdf6e744dd1880e0e9613ca8ff4661e990,13.0,5.0,1.0,0.0
+300,Commit,codehaus-plexus_plexus-utils,2011-03-03 17:17:22,275b2ae60e7a0e3e0671cc19878cb0ae31402312,1.0,1.0,1.0,0.0
+301,Commit,codehaus-plexus_plexus-utils,2011-03-03 17:17:16,e282b22a3ddbb2ea4ae4d4b429b3b93b89409584,1.0,1.0,1.0,0.0
+302,Commit,codehaus-plexus_plexus-utils,2011-03-03 16:54:23,a3f0eea4f476ae35073e294dfb7d88f4990aa3c4,6.0,2.0,1.0,0.0
+303,Commit,codehaus-plexus_plexus-utils,2011-03-03 08:23:58,ab197741e751b9358febdbe9b1483ab5e4e5ebc5,89.0,63.0,4.0,0.0
+304,Commit,codehaus-plexus_plexus-utils,2011-03-02 22:26:42,401347173783947805458893210afb3d37ade0ae,75.0,45.0,3.0,0.0
+305,Commit,codehaus-plexus_plexus-utils,2011-03-01 07:07:48,8d084c7911dbf98d5531358b408fa4037229b66a,8.0,5.0,1.0,0.0
+306,Commit,codehaus-plexus_plexus-utils,2011-02-13 15:08:40,e7b92afa33a41656273d888f53bfd7d55aa85bbe,18.0,7.0,2.0,0.0
+307,Commit,codehaus-plexus_plexus-utils,2011-02-09 18:59:02,0b313b6f8b1e489b80b502189194ac559f748ac2,1.0,1.0,1.0,0.0
+308,Commit,codehaus-plexus_plexus-utils,2011-02-09 18:58:56,4c5e6b97645a3523caeb4aa3c5ec5c4d79e2a0dd,1.0,1.0,1.0,0.0
+309,Commit,codehaus-plexus_plexus-utils,2011-02-09 18:56:26,4617e1f1b021a84b820de912131764081f731c8b,0.0,7.0,1.0,0.0
+310,Commit,codehaus-plexus_plexus-utils,2011-02-02 20:49:42,4a944bf134b9a6dbab78509352b3968f39ddbcd4,4.0,0.0,1.0,0.0
+311,Commit,codehaus-plexus_plexus-utils,2011-01-30 00:32:02,4990aebbbc89b7ee044ab5d909d324813f3f13a2,105.0,105.0,1.0,0.0
+312,Commit,codehaus-plexus_plexus-utils,2010-11-02 22:31:49,711360d0c682ba6cd7ec48ff1f5e4ecc8320bfca,3.0,3.0,1.0,0.0
+313,Commit,codehaus-plexus_plexus-utils,2010-11-02 18:18:13,f9310dbc25207eed99d1e334fdb4944a386d705b,5.0,0.0,1.0,0.0
+314,Commit,codehaus-plexus_plexus-utils,2010-11-02 18:17:45,e17f40d6c7a78d799ddb0be9e7d3cb4110fc6a1c,2.0,0.0,2.0,0.0
+315,Commit,codehaus-plexus_plexus-utils,2010-09-15 04:02:17,767ee5137cf2c4024eccf03ee72a802f17e11e85,40.0,5.0,1.0,0.0
+316,Commit,codehaus-plexus_plexus-utils,2010-09-14 01:38:55,9ef27866a7b362706117411b796e39b7d4cb0c69,2.0,2.0,1.0,0.0
+317,Commit,codehaus-plexus_plexus-utils,2010-07-03 12:39:01,6d30b48068d4aefbf17068d9c2b487074303ebb9,1.0,1.0,1.0,0.0
+318,Commit,codehaus-plexus_plexus-utils,2010-04-28 11:40:25,6e1d292d593d8c16cadf50ec559f47434984882d,13.0,7.0,2.0,0.0
+319,Commit,codehaus-plexus_plexus-utils,2010-04-25 16:14:38,977b9c2f2a323ec4c452059d5b492adcf70e3345,4.0,4.0,1.0,0.0
+320,Commit,codehaus-plexus_plexus-utils,2010-04-25 16:14:27,238b15a697cab1448a2b3cf94f42f51918f6e083,4.0,4.0,1.0,0.0
+321,Commit,codehaus-plexus_plexus-utils,2010-04-24 12:40:20,7a7dd2747f5214ba82b3664302a0be435ebd2860,61.0,0.0,1.0,0.0
+322,Commit,codehaus-plexus_plexus-utils,2010-04-24 12:15:57,545deeff9b4e1c3a2d52a18f6c0a5895ae6b9382,44.0,43.0,1.0,0.0
+323,Commit,codehaus-plexus_plexus-utils,2010-04-24 12:10:17,5beee0fdf4965da223bf83940c57465de6e33952,17.0,25.0,1.0,0.0
+324,Commit,codehaus-plexus_plexus-utils,2010-04-24 12:03:28,599f9c98ff475a89b697fb3c7595d3b951382b36,1.0,1.0,1.0,0.0
+325,Commit,codehaus-plexus_plexus-utils,2010-04-24 12:01:33,8a2d3f1999e4bf9b7c1d9b95165fb261ce8b31d5,53.0,25.0,2.0,0.0
+326,Commit,codehaus-plexus_plexus-utils,2010-04-22 08:08:54,f6ff0be765b7056bc4aa91002af2b3dce4302b13,4.0,4.0,1.0,0.0
+327,Commit,codehaus-plexus_plexus-utils,2010-04-22 08:08:43,3d4263a60c1318d83bc3a2425b2e38d430326b78,4.0,4.0,1.0,0.0
+328,Commit,codehaus-plexus_plexus-utils,2010-04-20 18:37:36,b84450cde499e5ec06c40b04753f0f05aaaaa27c,13.0,9.0,4.0,0.0
+329,Commit,codehaus-plexus_plexus-utils,2010-04-06 20:39:26,f3c4ed319ab201822f56dd05b7317354e7dc05d2,4.0,4.0,1.0,0.0
+330,Commit,codehaus-plexus_plexus-utils,2010-04-06 20:39:14,92fa600c41a08e4822e6d4d2024bddde5888700a,4.0,4.0,1.0,0.0
+331,Commit,codehaus-plexus_plexus-utils,2010-04-06 20:38:06,a501a5c1fa313821ef43424c1b3c5610afd131e8,1.0,3.0,1.0,0.0
+332,Commit,codehaus-plexus_plexus-utils,2010-04-06 20:23:46,2ee19af4e97fd26bb12353e98e6fd5665099368e,4.0,4.0,1.0,0.0
+333,Commit,codehaus-plexus_plexus-utils,2010-04-06 20:23:33,5942372628a184dc808b10b6c8547cda98c3ea52,4.0,4.0,1.0,0.0
+334,Commit,codehaus-plexus_plexus-utils,2010-04-06 20:05:21,c12e6cf16ebeeb1aa73c05675e2cbc1f6d49606d,91.0,35.0,2.0,0.0
+335,Commit,codehaus-plexus_plexus-utils,2010-03-29 10:12:43,a454f96d543c7af63cf797e4a56737a4bf70908d,4.0,4.0,1.0,0.0
+336,Commit,codehaus-plexus_plexus-utils,2010-03-29 10:12:27,e2fad69480d3bcd24f5b1cf4d675a8d182134065,4.0,4.0,1.0,0.0
+337,Commit,codehaus-plexus_plexus-utils,2010-03-29 10:06:09,766bed0ad0634807b7080be270a7ab07a2c326bc,1.0,1.0,1.0,0.0
+338,Commit,codehaus-plexus_plexus-utils,2010-03-29 08:38:59,d560538fc1eb5300bf075f94efc604083db2e9f6,2.0,0.0,1.0,0.0
+339,Commit,codehaus-plexus_plexus-utils,2010-03-27 22:27:26,0e4ba9118834068f92587adcd68f10d190927435,61.0,1.0,1.0,0.0
+340,Commit,codehaus-plexus_plexus-utils,2010-03-05 21:50:36,83cbb8bff455c0ad56bf9f7502e9f3b856712f98,24.0,27.0,11.0,0.0
+341,Commit,codehaus-plexus_plexus-utils,2010-03-05 21:42:20,1da21ebdcc2c942695ed42cc0ee7225e0f8de5ab,1.0,1.0,1.0,0.0
+342,Commit,codehaus-plexus_plexus-utils,2010-03-05 10:23:44,369f7605f6737469bb23b2a9fd1cc93bbb3043a9,13.0,2.0,1.0,0.0
+343,Commit,codehaus-plexus_plexus-utils,2009-10-19 16:44:08,310133c03ccc3f30e7f976f02be4460caf638d98,4.0,4.0,1.0,0.0
+344,Commit,codehaus-plexus_plexus-utils,2009-10-19 16:44:01,ed653edb6262343cc6ea8933ac4473ffa1f95a21,4.0,4.0,1.0,0.0
+345,Commit,codehaus-plexus_plexus-utils,2009-10-18 19:09:52,2308f9d2b5a122a56b5d603bfb34af4200793f56,84.0,41.0,3.0,0.0
+346,Commit,codehaus-plexus_plexus-utils,2009-10-18 19:06:30,a73a68ffcc5dbfd6cce0051dee8e3099b325cd63,0.0,0.0,0.0,0.0
+347,Commit,codehaus-plexus_plexus-utils,2009-10-18 16:41:14,2a59e73294638e9f9f9dafcc2a47a5542a703d8a,2.0,0.0,1.0,0.0
+348,Commit,codehaus-plexus_plexus-utils,2009-09-22 13:51:28,ad7a5d785edbbf9e5906f959ea5418617e23d62d,4.0,4.0,1.0,0.0
+349,Commit,codehaus-plexus_plexus-utils,2009-09-22 13:51:17,db9f7a2c604c3f7df219e89381d75e1f8eecab68,4.0,4.0,1.0,0.0
+350,Commit,codehaus-plexus_plexus-utils,2009-09-15 15:27:51,198f273a70716922935600dd76a5a6405b163203,1.0,1.0,1.0,0.0
+351,Commit,codehaus-plexus_plexus-utils,2009-09-13 21:13:32,bf034c7f66085ac36f3438e42f6e8507cb86dce4,4.0,83.0,2.0,0.0
+352,Commit,codehaus-plexus_plexus-utils,2009-09-11 21:37:33,63dcebe0359f9d3ae620f6eeaa81b2f4cdc1e266,1.0,563.0,11.0,0.0
+353,Commit,codehaus-plexus_plexus-utils,2009-08-08 20:04:03,9a720728f784953b2bba8449192d46bf20442c76,28.0,20.0,1.0,0.0
+354,Commit,codehaus-plexus_plexus-utils,2009-07-21 17:34:31,3726a0cd2e734d73a3c434958e0303680d5fba71,2.0,2.0,1.0,0.0
+355,Commit,codehaus-plexus_plexus-utils,2009-07-21 17:33:54,2416606f4a5e068a20bf0477bfd1cbb665bae2c7,8.0,2.0,1.0,0.0
+356,Commit,codehaus-plexus_plexus-utils,2009-07-21 16:52:34,b0144660074642bcba0fa87c71ad87b9d01ff2f2,80.0,11.0,3.0,0.0
+357,Commit,codehaus-plexus_plexus-utils,2009-07-18 17:27:30,1eb3eda579c1e48325434f8fab2db23fb61cb630,1.0,1.0,1.0,0.0
+358,Commit,codehaus-plexus_plexus-utils,2009-06-05 17:48:46,4af9c2e7fb5499a1ff0d75c05859540a8d44fab1,4.0,4.0,1.0,0.0
+359,Commit,codehaus-plexus_plexus-utils,2009-06-05 17:48:41,ded8c4eaaa66dd29c285abafac23a83ab23b81fc,4.0,4.0,1.0,0.0
+360,Commit,codehaus-plexus_plexus-utils,2009-06-05 17:48:00,e2aa236649fa7c01cc1e84765008097e4e666bec,1.0,1.0,1.0,0.0
+361,Commit,codehaus-plexus_plexus-utils,2009-06-05 17:41:42,d7efffa8ea240ae332bffcd1cef0da8d35a99e1b,4.0,4.0,1.0,0.0
+362,Commit,codehaus-plexus_plexus-utils,2009-06-05 17:41:36,3110f75ae29fa24b57743aa9f1699f433d860515,4.0,4.0,1.0,0.0
+363,Commit,codehaus-plexus_plexus-utils,2009-06-05 17:41:03,5fd23425971a7e3b6ea375b7b552b67bb030e1eb,4.0,4.0,1.0,0.0
+364,Commit,codehaus-plexus_plexus-utils,2009-06-05 17:39:07,8acb6e1e1d1772b48e2c05dcfe4c6cf1648c7e8f,4.0,4.0,1.0,0.0
+365,Commit,codehaus-plexus_plexus-utils,2009-06-05 17:38:29,21b5549dd17d85f8b1afad378d377956ef0c68e4,2.0,2.0,1.0,0.0
+366,Commit,codehaus-plexus_plexus-utils,2009-06-05 16:47:34,0aa6812c6f6cb11c84390926e709541a5b6899ca,4.0,4.0,1.0,0.0
+367,Commit,codehaus-plexus_plexus-utils,2009-06-05 16:47:29,0d1e4c66b6bb70b663239384b67796e01b72b96d,4.0,4.0,1.0,0.0
+368,Commit,codehaus-plexus_plexus-utils,2009-06-05 16:46:56,b81d7e7ba7d5b325dbd0541af367fcbc878877d1,1.0,1.0,1.0,0.0
+369,Commit,codehaus-plexus_plexus-utils,2009-06-05 16:25:30,fc80f488ad0b68cc85b49f401d9e142cb347e864,1.0,1.0,1.0,0.0
+370,Commit,codehaus-plexus_plexus-utils,2009-06-05 16:10:34,21fed28dcf035b16a6f39f68fcee59566b5a22f5,9.0,1.0,1.0,0.0
+371,Commit,codehaus-plexus_plexus-utils,2009-06-05 03:01:31,20e4d12c333abce4c8a85e9a6c089dfed6ca6633,1.0,1.0,1.0,0.0
+372,Commit,codehaus-plexus_plexus-utils,2009-06-05 00:18:27,7fcea3656429560affe4f27864d8d5903a426a63,30.0,12.0,1.0,0.0
+373,Commit,codehaus-plexus_plexus-utils,2009-05-29 18:23:49,82eb25362da8f9e8678bede4419b01ea4a66147c,4.0,4.0,1.0,0.0
+374,Commit,codehaus-plexus_plexus-utils,2009-05-29 18:23:40,0991f9ca45031b8ada80b9b7f9200f527c346f3c,4.0,4.0,1.0,0.0
+375,Commit,codehaus-plexus_plexus-utils,2009-05-29 18:22:58,6dea35435c8eb0bb3bb4391ff5d7bc17aa72deb7,0.0,1.0,1.0,0.0
+376,Commit,codehaus-plexus_plexus-utils,2009-05-29 17:20:41,e942f695218434f1976b9b8fede44b80fe32e5b0,3.0,2.0,1.0,0.0
+377,Commit,codehaus-plexus_plexus-utils,2009-05-29 12:34:03,37c2614fe29ff6c423794be53987645425e8fdec,4.0,4.0,1.0,0.0
+378,Commit,codehaus-plexus_plexus-utils,2009-05-29 12:33:49,827fca6663cf507a89cd633656e65bff20624a43,4.0,4.0,1.0,0.0
+379,Commit,codehaus-plexus_plexus-utils,2009-05-29 02:22:09,81e6ef6ec41d33d55932f9afefebb46215b67c0e,4.0,4.0,1.0,0.0
+380,Commit,codehaus-plexus_plexus-utils,2009-05-29 02:22:04,d63f3baab2f1284b6d9782f37e99838e8e8f0905,4.0,4.0,1.0,0.0
+381,Commit,codehaus-plexus_plexus-utils,2009-05-28 23:51:31,592b418373cc9cc68ebe1ae75923cb803776d87a,2.0,2.0,1.0,0.0
+382,Commit,codehaus-plexus_plexus-utils,2009-05-28 22:57:46,f524c16d9b62a12777b62c0373590cdca6791f65,21.0,5.0,2.0,0.0
+383,Commit,codehaus-plexus_plexus-utils,2009-05-28 22:36:21,a7d0f4c155b2d327e2e1df525a8eca685fff5564,96.0,0.0,2.0,0.0
+384,Commit,codehaus-plexus_plexus-utils,2009-05-28 21:45:26,25280f47316574998759adb0df0a830e31619ca9,77.0,51.0,1.0,0.0
+385,Commit,codehaus-plexus_plexus-utils,2009-05-24 16:32:26,c2e774b702d71b0fb2a4988d796d962179db5905,9.0,1.0,1.0,0.0
+386,Commit,codehaus-plexus_plexus-utils,2009-05-22 23:17:46,f5078b5091863fac3274934db09cb169ebfec9eb,2.0,15.0,2.0,0.0
+387,Commit,codehaus-plexus_plexus-utils,2009-05-22 23:15:36,a09b988cadb22b5333b2289ac82f1d857a761056,4.0,49.0,2.0,0.0
+388,Commit,codehaus-plexus_plexus-utils,2009-05-22 23:07:29,1c9e3fe692cb60ca5a1435b5fd42893c2648f8e0,26.0,4.0,1.0,0.0
+389,Commit,codehaus-plexus_plexus-utils,2009-05-22 22:58:50,803424a294121401c3697d9f1532ce2d773986e5,11.0,7.0,2.0,0.0
+390,Commit,codehaus-plexus_plexus-utils,2009-05-22 22:48:01,a4696a5d6e4bc22c1672f927b1f318c0d8879f4f,3.0,0.0,1.0,0.0
+391,Commit,codehaus-plexus_plexus-utils,2009-05-22 22:43:33,6f5e4fe4c242a2148e9b6fe3c0a83829cad0838f,2.0,2.0,1.0,0.0
+392,Commit,codehaus-plexus_plexus-utils,2009-05-22 22:40:47,131acc22d680a074fab85e40386e13a9b8754960,2.0,2.0,1.0,0.0
+393,Commit,codehaus-plexus_plexus-utils,2009-05-22 22:39:02,f3811d757ca3da525dd1364545aa758c7acf4dab,3.0,3.0,2.0,0.0
+394,Commit,codehaus-plexus_plexus-utils,2009-05-22 22:37:08,bce885b53f89e07a27ea79b4df721cd0e3d0e0a7,8.0,3.0,1.0,0.0
+395,Commit,codehaus-plexus_plexus-utils,2009-05-22 22:34:10,abf8fe86bd61c98154d980bfe3e6c9423296199f,6.0,4.0,2.0,0.0
+396,Commit,codehaus-plexus_plexus-utils,2009-05-22 22:29:00,de5de1624aaaf6e3474f5c99d2b7928d591b8ae6,2.0,11.0,2.0,0.0
+397,Commit,codehaus-plexus_plexus-utils,2009-05-22 22:25:43,2f29506370ef45c20668882d526ba53de654bb34,2.0,0.0,1.0,0.0
+398,Commit,codehaus-plexus_plexus-utils,2009-05-22 22:11:58,6deee2ca2f72dc054e246f180f12c74b5c6da1ec,1.0,0.0,1.0,0.0
+399,Commit,codehaus-plexus_plexus-utils,2009-05-22 22:10:21,9c84512bc282b8ac341bab31d0c066a809e812a5,3.0,1.0,1.0,0.0
+400,Commit,codehaus-plexus_plexus-utils,2009-05-22 22:04:54,cd8bdd28960ae3cb11f1e03c5f6fb9da1694e375,3.0,1.0,1.0,0.0
+401,Commit,codehaus-plexus_plexus-utils,2009-05-22 22:01:25,c2c3e72048f50c69c03fdfe95bbe8bb7aa72cb94,20.0,0.0,1.0,0.0
+402,Commit,codehaus-plexus_plexus-utils,2009-05-22 21:53:34,8589a49bdc03fa682702a1c5e446a2abdc0d54c4,29.0,6.0,1.0,0.0
+403,Commit,codehaus-plexus_plexus-utils,2009-05-22 21:46:27,46ecec0c2149d2e5621449abf3e359ed0603e425,35.0,190.0,2.0,0.0
+404,Commit,codehaus-plexus_plexus-utils,2009-05-22 21:19:40,b99e115f7d2d98ae1c54430d992340d6c9529955,51.0,4.0,1.0,0.0
+405,Commit,codehaus-plexus_plexus-utils,2009-05-22 20:47:02,37ea7977389584d64619ce5a645fdb1d33cc4974,1.0,1.0,1.0,0.0
+406,Commit,codehaus-plexus_plexus-utils,2009-05-22 20:39:20,c629891f697e7b0fdcbc114c8278a893f2938e16,4.0,4.0,1.0,0.0
+407,Commit,codehaus-plexus_plexus-utils,2009-05-22 20:39:13,761dab61889f5a54a97dd1bffe331fc695e118a9,4.0,4.0,1.0,0.0
+408,Commit,codehaus-plexus_plexus-utils,2009-05-21 22:51:59,97e638c36557588223150bf089409fa86e57798b,404.0,16.0,3.0,0.0
+409,Commit,codehaus-plexus_plexus-utils,2009-04-28 20:58:54,cdf62df74167a651ae6a1e4871f66e3a03092112,4.0,4.0,1.0,0.0
+410,Commit,codehaus-plexus_plexus-utils,2009-04-28 20:58:47,a153c45733c43e7686219cbd55531d18d49626fd,4.0,4.0,1.0,0.0
+411,Commit,codehaus-plexus_plexus-utils,2009-04-25 22:18:37,8dc0991e72b831cefe7754f359f17ea28aa0fe60,34.0,0.0,1.0,0.0
+412,Commit,codehaus-plexus_plexus-utils,2009-04-25 22:07:51,3fa879b7d86975c2f7bceb6ccc8fd59175e35e4c,1.0,1.0,1.0,0.0
+413,Commit,codehaus-plexus_plexus-utils,2009-04-25 21:34:08,a0b09476a95ebc26da8f44ef952e06bffc9a2054,59.0,1.0,2.0,0.0
+414,Commit,codehaus-plexus_plexus-utils,2009-03-25 19:54:54,55cc116f1b5787789217d77b2663e934409419a7,28.0,37.0,3.0,0.0
+415,Commit,codehaus-plexus_plexus-utils,2009-02-26 20:54:26,9a6acba6e2ebd08991de47f11f14a8c55fd315b0,3.0,4.0,1.0,0.0
+416,Commit,codehaus-plexus_plexus-utils,2009-02-09 16:20:59,914240f4394d3d6c528ac9d25583559f4e01c0e1,4.0,4.0,1.0,0.0
+417,Commit,codehaus-plexus_plexus-utils,2009-02-09 16:20:54,d74ef087c385ae150b47b855adfef8d29ec1f693,4.0,4.0,1.0,0.0
+418,Commit,codehaus-plexus_plexus-utils,2009-02-09 15:45:01,2ea6c22026e48743826a64513a0457292db08276,9.0,0.0,1.0,0.0
+419,Commit,codehaus-plexus_plexus-utils,2009-02-04 20:31:53,010afc3ba3983f56cca5f52de8c75947435e8686,516.0,398.0,3.0,0.0
+420,Commit,codehaus-plexus_plexus-utils,2009-01-16 12:57:08,b7f0477401e59278ca6dbf35bcc5774dca332a15,4.0,4.0,1.0,0.0
+421,Commit,codehaus-plexus_plexus-utils,2009-01-16 12:51:08,09cb08d346873b0742631552d40d43a43eb5e1eb,4.0,4.0,1.0,0.0
+422,Commit,codehaus-plexus_plexus-utils,2009-01-16 12:49:17,a0b1e7c735c5f9cea5fa8437cdc0557b6da7af5a,1.0,1.0,1.0,0.0
+423,Commit,codehaus-plexus_plexus-utils,2009-01-16 12:45:47,6959d352a4ae3a83bc16164aa0fb1a359767dc28,10.0,0.0,1.0,0.0
+424,Commit,codehaus-plexus_plexus-utils,2009-01-16 12:45:08,d825e2342301308cbdca369f6d6a0057da6fd7a8,0.0,1.0,1.0,0.0
+425,Commit,codehaus-plexus_plexus-utils,2009-01-12 23:39:16,f8dd180aa898c0ad9190ef52048fcb2a2245fbd2,32.0,4.0,2.0,0.0
+426,Commit,codehaus-plexus_plexus-utils,2009-01-12 21:50:35,3dca81ac6c4de8459f8076c4b9bcf4c2372e2613,44.0,44.0,4.0,0.0
+427,Commit,codehaus-plexus_plexus-utils,2009-01-07 13:18:41,b2e894adcf5f46be47016c2b7f11c45f2797e7c2,1.0,1.0,1.0,0.0
+428,Commit,codehaus-plexus_plexus-utils,2009-01-07 13:17:11,2fb5daec9f0e66aa928063f04d97c14ec6ec98a3,19.0,17.0,1.0,0.0
+429,Commit,codehaus-plexus_plexus-utils,2009-01-07 13:11:29,502cc2809c7ba2ba8e29d1aa88c6dcba8036ca60,11.0,8.0,1.0,0.0
+430,Commit,codehaus-plexus_plexus-utils,2009-01-07 13:06:33,42691c8b0a7924ecbc2638f5b0e6454962362f9c,202.0,0.0,2.0,0.0
+431,Commit,codehaus-plexus_plexus-utils,2009-01-07 13:03:36,2eff64c9e198c3bb59da674aad827fc4db7c20bb,7.0,1.0,1.0,0.0
+432,Commit,codehaus-plexus_plexus-utils,2009-01-07 12:59:50,30cfd6a18028c33eb7856b5f8d6636b042158411,1376.0,1447.0,102.0,0.0
+433,Commit,codehaus-plexus_plexus-utils,2009-01-07 00:36:51,57cf7c9b7b50973b6f40d734a3b62ee4e4af56fc,213.0,76.0,2.0,0.0
+434,Commit,codehaus-plexus_plexus-utils,2009-01-06 23:52:43,6fac12db7813a1de5e0468bc22b1a97d1528c95b,219.0,21.0,2.0,0.0
+435,Commit,codehaus-plexus_plexus-utils,2009-01-05 17:57:13,8fedd699c7d82d6b8fdb50e934517b477fd14a2c,168.0,129.0,2.0,0.0
+436,Commit,codehaus-plexus_plexus-utils,2009-01-03 15:09:49,7e48471c8f1ad2dbad8f325ce57c4eb9ac8e9ce7,1.0,1.0,1.0,0.0
+437,Commit,codehaus-plexus_plexus-utils,2009-01-03 14:36:28,f17a89307013a7eca0ee8169079297e7f692102e,12.0,6.0,1.0,0.0
+438,Commit,codehaus-plexus_plexus-utils,2009-01-03 13:17:09,333a619ecd394732a265ac9e79bf138fc2c888ee,69.0,4.0,1.0,0.0
+439,Commit,codehaus-plexus_plexus-utils,2009-01-03 13:03:33,96a79b050b19add76bc258966849ec14ef20b7fa,58.0,0.0,1.0,0.0
+440,Commit,codehaus-plexus_plexus-utils,2009-01-03 12:54:39,b4a7a7a249f5cd4fb7e29fd8ff7199900f3d9f68,68.0,67.0,2.0,0.0
+441,Commit,codehaus-plexus_plexus-utils,2009-01-03 12:42:11,6d26b9d684eb772c069b83e161951efeb13677de,8.0,7.0,2.0,0.0
+442,Commit,codehaus-plexus_plexus-utils,2009-01-02 21:23:35,0890c34e52427fb9a262485d83d7043bbbab0301,45.0,3.0,1.0,0.0
+443,Commit,codehaus-plexus_plexus-utils,2009-01-02 20:36:27,72d06552654bda4cfd7d0e0133aaae7eea3bb7e2,12.0,8.0,1.0,0.0
+444,Commit,codehaus-plexus_plexus-utils,2009-01-02 14:35:32,342fa03fe4473fa28fda741f072fe5c414a62fa9,86.0,1.0,2.0,0.0
+445,Commit,codehaus-plexus_plexus-utils,2008-12-27 13:58:38,485b4895c19d3f315ce2277aa0b90e5117b9dcea,23.0,2.0,2.0,0.0
+446,Commit,codehaus-plexus_plexus-utils,2008-12-27 13:44:06,1c2409ae725cf2c6c2e781b2c0c18274feda5349,214.0,123.0,1.0,0.0
+447,Commit,codehaus-plexus_plexus-utils,2008-12-27 13:18:13,a67dc5cf0d30492b1852bfbdee58170ebfc1d7a5,14.0,11.0,1.0,0.0
+448,Commit,codehaus-plexus_plexus-utils,2008-12-26 13:58:45,b1cff2d657abcada0d1cf14684ee496961770013,34.0,3.0,2.0,0.0
+449,Commit,codehaus-plexus_plexus-utils,2008-10-29 23:18:30,eecc7b8c0efac324eeb158375491ab43d26813b8,561.0,0.0,4.0,0.0
+450,Commit,codehaus-plexus_plexus-utils,2008-10-29 22:35:10,1c8ee0a34a8e883144eed6c2913790cc459075ea,30.0,4.0,2.0,0.0
+451,Commit,codehaus-plexus_plexus-utils,2008-10-29 11:58:42,109368b0ef20022bb2d02f679b5e89cabd9375c4,78.0,0.0,1.0,0.0
+452,Commit,codehaus-plexus_plexus-utils,2008-10-29 11:54:32,ed545e0eabe001ed557bf306fac16dbdd22bc68e,76.0,5.0,2.0,0.0
+453,Commit,codehaus-plexus_plexus-utils,2008-10-29 11:39:49,79692eebd9c324d987889e8aaa94f8457b24672e,2.0,6.0,1.0,0.0
+454,Commit,codehaus-plexus_plexus-utils,2008-10-22 12:46:32,274b79693c696c5d0cef47951f3999bfdb884637,297.0,286.0,2.0,0.0
+455,Commit,codehaus-plexus_plexus-utils,2008-10-13 22:02:56,b23874a0d31a28e9a9329c1024904e56162c8258,1.0,1.0,1.0,0.0
+456,Commit,codehaus-plexus_plexus-utils,2008-09-26 21:58:13,87d1b25bd0dc4e4d2984ad374f2df8d5775f2c25,7.0,0.0,1.0,0.0
+457,Commit,codehaus-plexus_plexus-utils,2008-09-26 11:22:57,675d4349e47f48f8e49dd02543c87250172c791b,91.0,8.0,1.0,0.0
+458,Commit,codehaus-plexus_plexus-utils,2008-09-26 11:06:45,51d6d73567379c54f989c1302602806af32476f3,221.0,19.0,2.0,0.0
+459,Commit,codehaus-plexus_plexus-utils,2008-09-16 20:54:55,d28555eb03f79adfc06d68da6c62c7a88054a6dc,7.0,18.0,3.0,0.0
+460,Commit,codehaus-plexus_plexus-utils,2008-09-15 21:52:30,8cfe5a74b8757caa29f673c517d21869a72f2728,135.0,8.0,3.0,0.0
+461,Commit,codehaus-plexus_plexus-utils,2008-09-15 20:29:04,f3269218e502648bb3cee85c56e2b0d4ea47494b,1.0,1.0,1.0,0.0
+462,Commit,codehaus-plexus_plexus-utils,2008-09-13 08:05:04,e3514bf3b6eaead4e1029dd301aef2caa2a5e233,2.0,2.0,2.0,0.0
+463,Commit,codehaus-plexus_plexus-utils,2008-08-25 14:54:55,f8e2e412d242493008aa2178b65b755e5e412797,30.0,0.0,1.0,0.0
+464,Commit,codehaus-plexus_plexus-utils,2008-08-20 01:58:29,bfa5e3721ef9e8f68d76fd9bb20532c896b428dd,1.0,1.0,1.0,0.0
+465,Commit,codehaus-plexus_plexus-utils,2008-08-06 20:23:02,a4346288f65422488c07d50dd274f900df6f7fb5,1.0,1.0,1.0,0.0
+466,Commit,codehaus-plexus_plexus-utils,2008-08-01 12:15:25,4e80309a25d0d313278004c9acbf1f9468317279,24.0,14.0,1.0,0.0
+467,Commit,codehaus-plexus_plexus-utils,2008-08-01 09:09:07,bc1b29bde495091bdaaabfbd5363d77c215f937a,1.0,0.0,1.0,0.0
+468,Commit,codehaus-plexus_plexus-utils,2008-08-01 08:10:17,18556016f15f94599cb0fd10d5d4b211568d65f1,4.0,4.0,1.0,0.0
+469,Commit,codehaus-plexus_plexus-utils,2008-08-01 08:10:04,91d6be1390bda17a0c312dd1aa4924c8852cbcaa,4.0,4.0,1.0,0.0
+470,Commit,codehaus-plexus_plexus-utils,2008-08-01 08:06:11,8839290107c5b46f6d367e9703e32e936d6853d4,4.0,4.0,1.0,0.0
+471,Commit,codehaus-plexus_plexus-utils,2008-08-01 08:04:37,1258fcdf806c4dadb392a45c9d848e405abc1ac6,4.0,4.0,1.0,0.0
+472,Commit,codehaus-plexus_plexus-utils,2008-07-28 17:47:42,91533fdea43d04a83255deedd2c76535924cd7cb,2.0,0.0,1.0,0.0
+473,Commit,codehaus-plexus_plexus-utils,2008-07-27 22:49:10,772b07e8d98df3546eff111c793714c5a26c96c5,1.0,1.0,1.0,0.0
+474,Commit,codehaus-plexus_plexus-utils,2008-07-27 22:21:10,d825c558e138291cdd5a17c6644817b18763d310,22.0,18.0,5.0,0.0
+475,Commit,codehaus-plexus_plexus-utils,2008-07-24 08:28:18,3d3c4627bc5b6470d409947b9855e6d01aad65fc,29.0,0.0,1.0,0.0
+476,Commit,codehaus-plexus_plexus-utils,2008-07-20 23:24:47,be097b1546ccf96b0b896fbfbfe120e844f5a325,86.0,6.0,3.0,0.0
+477,Commit,codehaus-plexus_plexus-utils,2008-07-20 20:16:31,4054feb0ef750faf7e4345c59df5714ac7d20b40,4.0,0.0,1.0,0.0
+478,Commit,codehaus-plexus_plexus-utils,2008-07-20 18:30:52,4125773af9eea3e462bc26422998296ee5102a91,33.0,0.0,1.0,0.0
+479,Commit,codehaus-plexus_plexus-utils,2008-07-20 18:19:23,f9e512fd0e1629cfd153b6cda2c62ad22f84281d,3.0,3.0,1.0,0.0
+480,Commit,codehaus-plexus_plexus-utils,2008-07-20 17:56:05,5735f12141dfcd3d64cac9b2ad1ca17eec3a3bd3,29.0,2.0,2.0,0.0
+481,Commit,codehaus-plexus_plexus-utils,2008-07-20 17:24:22,ab68d7e0721d828a2f02a862a6b9bda88179b472,17.0,14.0,6.0,0.0
+482,Commit,codehaus-plexus_plexus-utils,2008-07-20 17:02:27,671a3505649d887ccd3c8135bc4a00021b159c08,48.0,1.0,2.0,0.0
+483,Commit,codehaus-plexus_plexus-utils,2008-07-09 13:31:05,120c58b3cd2fe0e23b133985e7c577138e07f5d0,1.0,1.0,1.0,0.0
+484,Commit,codehaus-plexus_plexus-utils,2008-07-03 22:08:07,f566d22ee8a53238808c4d1919578e873d023d60,4.0,4.0,1.0,0.0
+485,Commit,codehaus-plexus_plexus-utils,2008-07-03 22:08:05,5c13ecc55db5a6769eaa9258f70709a1d0ba43e4,4.0,4.0,1.0,0.0
+486,Commit,codehaus-plexus_plexus-utils,2008-07-03 22:00:30,c15f0ce70139c7a190044f09e7e04f831fe5f218,1.0,1.0,1.0,0.0
+487,Commit,codehaus-plexus_plexus-utils,2008-07-03 21:57:55,93fe5bb8dc95206cb43c4adba342bbc1576e3207,4.0,4.0,1.0,0.0
+488,Commit,codehaus-plexus_plexus-utils,2008-07-03 21:57:43,44acbbe3cded4c784a231dda48597fc48ae9dd0e,4.0,4.0,1.0,0.0
+489,Commit,codehaus-plexus_plexus-utils,2008-07-03 21:55:13,bf7014baaad1189670c60a0596aeddde9f442b91,1.0,1.0,1.0,0.0
+490,Commit,codehaus-plexus_plexus-utils,2008-07-03 21:54:13,401e3deb1070374284bc542e00ce259083165e8e,2.0,2.0,1.0,0.0
+491,Commit,codehaus-plexus_plexus-utils,2008-07-03 21:52:29,e67c0afa099d3100669c167a3e71dd97b0763e88,4.0,4.0,1.0,0.0
+492,Commit,codehaus-plexus_plexus-utils,2008-07-03 21:52:26,cc249147d3075df8ff187d4abecc5e2927388a27,4.0,4.0,1.0,0.0
+493,Commit,codehaus-plexus_plexus-utils,2008-07-03 21:30:31,a6350d1d664132fc948cde309e2c6c9c2987e5c5,4.0,4.0,1.0,0.0
+494,Commit,codehaus-plexus_plexus-utils,2008-07-03 21:30:29,224ef80e8237884330de80626057868a88558edc,4.0,4.0,1.0,0.0
+495,Commit,codehaus-plexus_plexus-utils,2008-07-03 20:38:42,90cafc531fd75975aa8fbd654a26364fc07d62f3,1.0,1.0,1.0,0.0
+496,Commit,codehaus-plexus_plexus-utils,2008-07-03 20:32:28,bd9f31204e9997ef8beb74c0092305f2d4fa4800,1.0,1.0,1.0,0.0
+497,Commit,codehaus-plexus_plexus-utils,2008-07-03 20:28:25,90f15ad0af986079a20cdec304954a869a37439d,4.0,4.0,1.0,0.0
+498,Commit,codehaus-plexus_plexus-utils,2008-07-03 20:28:22,1352041e0ec4cd7053d615a40e687d82cacced7d,4.0,4.0,1.0,0.0
+499,Commit,codehaus-plexus_plexus-utils,2008-07-03 20:27:33,493328dc27f031a8b08640fbfbb35af211bd8260,1.0,1.0,1.0,0.0
+500,Commit,codehaus-plexus_plexus-utils,2008-07-03 20:18:57,0f5cf38b172438cda6537a234b88e6632530673b,4.0,4.0,1.0,0.0
+501,Commit,codehaus-plexus_plexus-utils,2008-07-03 20:18:55,258b6ee7f466200453f67cfd3236e72119e45836,4.0,4.0,1.0,0.0
+502,Commit,codehaus-plexus_plexus-utils,2008-07-03 20:17:26,048e6d254dfeadcbbab24dc87e7c3a8696eee936,1.0,1.0,1.0,0.0
+503,Commit,codehaus-plexus_plexus-utils,2008-07-03 20:09:24,f5d4ff29d82380b245af4a0a2c6b97a8015dc3c5,4.0,4.0,1.0,0.0
+504,Commit,codehaus-plexus_plexus-utils,2008-07-03 20:09:19,dc0e5e41aaa6bbf7db34bd405e66c72c276e9b93,4.0,4.0,1.0,0.0
+505,Commit,codehaus-plexus_plexus-utils,2008-07-03 20:02:53,7701eda8ddaf08b1e220f0d58356ca8e7698ed60,1.0,1.0,1.0,0.0
+506,Commit,codehaus-plexus_plexus-utils,2008-07-03 19:59:58,eb12c8743761d61326c9be201e52eaa4a6e87d4c,4.0,4.0,1.0,0.0
+507,Commit,codehaus-plexus_plexus-utils,2008-07-03 19:59:56,373fe7966b408959953ab563d69cfa6b205cd2da,4.0,4.0,1.0,0.0
+508,Commit,codehaus-plexus_plexus-utils,2008-07-03 19:48:37,5f8e3b189c353cafc9a111b004f4415ac9f90828,1.0,1.0,1.0,0.0
+509,Commit,codehaus-plexus_plexus-utils,2008-07-03 19:45:20,c4b566c283f405de209e99d07e46359888b1fb0b,4.0,4.0,1.0,0.0
+510,Commit,codehaus-plexus_plexus-utils,2008-07-03 19:45:18,d0524b6dd47d5315d639ce6ff1f3ab1c28708a54,4.0,4.0,1.0,0.0
+511,Commit,codehaus-plexus_plexus-utils,2008-07-03 19:44:26,3f0563fb0d15b56bd7efb9719523be281e799759,4.0,4.0,1.0,0.0
+512,Commit,codehaus-plexus_plexus-utils,2008-07-03 19:25:09,31e6d52b7ca41b6a1fd1c1842d4c9a7ee1c5eb2e,4.0,4.0,1.0,0.0
+513,Commit,codehaus-plexus_plexus-utils,2008-07-03 19:21:53,a35aa6b90cab212af39486a8185302dd92eec137,4.0,4.0,1.0,0.0
+514,Commit,codehaus-plexus_plexus-utils,2008-07-03 19:21:47,85c1274603b745351fd941aadd2c01a3f2e78261,4.0,4.0,1.0,0.0
+515,Commit,codehaus-plexus_plexus-utils,2008-07-03 19:20:03,7741a7672515aff509c605ee65b2c8d49a3c505b,4.0,4.0,1.0,0.0
+516,Commit,codehaus-plexus_plexus-utils,2008-07-03 17:53:40,b0127939cced27e756a5a9775e06bdf4991ae8f9,4.0,4.0,1.0,0.0
+517,Commit,codehaus-plexus_plexus-utils,2008-07-03 17:45:28,b837876162b10313d469a48452c946a81bed7e0b,4.0,4.0,1.0,0.0
+518,Commit,codehaus-plexus_plexus-utils,2008-07-03 17:45:26,a18668117eea2891ac5140d86e2443d53a878711,4.0,4.0,1.0,0.0
+519,Commit,codehaus-plexus_plexus-utils,2008-06-25 12:21:16,963ddab192ba3a0f9907eacba4f33c66503f0c99,584.0,41.0,2.0,0.0
+520,Commit,codehaus-plexus_plexus-utils,2008-06-18 18:02:50,8afc2dae53b09106aa5fe8797e8e82ba20937b61,4.0,4.0,1.0,0.0
+521,Commit,codehaus-plexus_plexus-utils,2008-06-18 18:02:36,3d61a7766b8b7191caa5be42967204e440d6036e,4.0,4.0,1.0,0.0
+522,Commit,codehaus-plexus_plexus-utils,2008-06-17 18:43:56,ab2418bc032417b4f3a301174380dbd4932c63f6,233.0,0.0,1.0,0.0
+523,Commit,codehaus-plexus_plexus-utils,2008-06-14 08:22:13,d00540df35e00f7deb723684834294e2da14a43e,69.0,25.0,1.0,0.0
+524,Commit,codehaus-plexus_plexus-utils,2008-06-14 07:59:43,afd8f1d294d703b0b33ad00d365cd41d162655e5,8.0,0.0,4.0,0.0
+525,Commit,codehaus-plexus_plexus-utils,2008-06-14 07:47:49,2b28595da18789a418848aa255e1f8ef384c520c,9.0,0.0,2.0,0.0
+526,Commit,codehaus-plexus_plexus-utils,2008-06-13 22:33:14,a86226517e12986589ca36182e78151e876fc2f8,4.0,4.0,1.0,0.0
+527,Commit,codehaus-plexus_plexus-utils,2008-06-13 22:33:09,fff723a2b5284df4f34b6d6e0460da218cc51aab,4.0,4.0,1.0,0.0
+528,Commit,codehaus-plexus_plexus-utils,2008-06-13 22:20:35,4bbb13ce46fa002ea259536f6203103d2e404b09,4.0,4.0,1.0,0.0
+529,Commit,codehaus-plexus_plexus-utils,2008-06-13 22:20:23,056b34aa7c386ea4dc12fd090bfd5c7d7ff1c5ce,4.0,4.0,1.0,0.0
+530,Commit,codehaus-plexus_plexus-utils,2008-06-13 22:19:46,29b8a8a5d8f9b6901071472baa0887530f6f2594,1.0,1.0,1.0,0.0
+531,Commit,codehaus-plexus_plexus-utils,2008-06-13 22:06:27,c660b0a51384a58c669a4c171119da838d31ae24,98.0,29.0,2.0,0.0
+532,Commit,codehaus-plexus_plexus-utils,2008-06-13 20:53:50,db266a6ff499b8c58843e063daade51a95d4b138,103.0,420.0,10.0,0.0
+533,Commit,codehaus-plexus_plexus-utils,2008-06-13 20:21:21,77289dcf20349668ff42363f50d006d5ff849bd7,1.0,1.0,1.0,0.0
+534,Commit,codehaus-plexus_plexus-utils,2008-06-12 21:23:53,85a928e0078393be892206dbc9760b14fe8457c4,13.0,0.0,1.0,0.0
+535,Commit,codehaus-plexus_plexus-utils,2008-06-12 21:14:02,2e95542ac093e6c91c5a17bb7d54a4955da5a109,60.0,1.0,2.0,0.0
+536,Commit,codehaus-plexus_plexus-utils,2008-06-04 23:32:07,59a21a6350be934857983376e997bbc96b76d965,107.0,5.0,3.0,0.0
+537,Commit,codehaus-plexus_plexus-utils,2008-06-04 12:30:15,783265758f110abc6f8dc9ed664236aa2abcf3ff,141.0,22.0,2.0,0.0
+538,Commit,codehaus-plexus_plexus-utils,2008-05-02 11:15:34,0fb5887639f87045ad720d3eb52596996783a152,7.0,1.0,2.0,0.0
+539,Commit,codehaus-plexus_plexus-utils,2008-04-25 10:17:01,7873726ea7444f798ee48f4a14d198075b2fc2f0,1.0,3.0,1.0,0.0
+540,Commit,codehaus-plexus_plexus-utils,2008-04-23 21:59:11,b84b2cfdf590d88faae5661f1061a8eb3ecb09ca,45.0,51.0,8.0,0.0
+541,Commit,codehaus-plexus_plexus-utils,2008-04-23 18:45:16,800c53c0be4eca73c6e4f76eed590c1e436597ec,99.0,0.0,2.0,0.0
+542,Commit,codehaus-plexus_plexus-utils,2008-04-19 11:09:23,a50847d318e59ceb76ab9d5a54315e8bb08177a5,8.0,14.0,1.0,0.0
+543,Commit,codehaus-plexus_plexus-utils,2008-04-19 10:38:14,6a7465856a751ec822bf7a1c3a5c2b35c0653cdd,3.0,1.0,1.0,0.0
+544,Commit,codehaus-plexus_plexus-utils,2008-04-18 20:04:29,a267cc896a5550736836a98019eebf6b0ef5e611,0.0,0.0,0.0,0.0
+545,Commit,codehaus-plexus_plexus-utils,2008-04-11 18:28:40,1c6ed77340f24943c119781f0f0c533600157e0f,7.0,0.0,1.0,0.0
+546,Commit,codehaus-plexus_plexus-utils,2008-04-11 18:23:01,9c3be19e9690583828cc793883a427ca77f3e7bc,36.0,2.0,2.0,0.0
+547,Commit,codehaus-plexus_plexus-utils,2008-04-11 18:12:21,05572bbf8630b4a1e5891104d3af17af1649bdf8,109.0,109.0,2.0,0.0
+548,Commit,codehaus-plexus_plexus-utils,2008-04-11 17:50:25,3e4e0bb3e342bde12aae7610218fcf87104d6f2c,0.0,0.0,3.0,0.0
+549,Commit,codehaus-plexus_plexus-utils,2008-03-02 22:59:03,bb520840a3a9eb0a4d274550355e1a66ea166c2a,1.0,45.0,1.0,0.0
+550,Commit,codehaus-plexus_plexus-utils,2008-03-02 22:53:16,8fc7b51e9856899571159c0309be744bf3768fce,128.0,0.0,2.0,0.0
+551,Commit,codehaus-plexus_plexus-utils,2008-03-02 18:14:08,26637d58baa0b4a69bc5359d5ccd109704351a15,8.0,0.0,1.0,0.0
+552,Commit,codehaus-plexus_plexus-utils,2008-02-23 22:41:14,fb1af3c44ff6371b2210f503fc1ac7a640330449,8.0,4.0,1.0,0.0
+553,Commit,codehaus-plexus_plexus-utils,2008-02-23 15:21:57,743654648e7c27b6c9985a51e9566b29d014bcb0,1.0,1.0,1.0,0.0
+554,Commit,codehaus-plexus_plexus-utils,2008-02-23 07:33:18,6b14d628a79598b2a863c0d4ea5f33e6cca68712,4.0,0.0,1.0,0.0
+555,Commit,codehaus-plexus_plexus-utils,2008-02-21 17:13:35,4dbce1e2dda9a9151a02628f6ae017d502acaef8,4.0,4.0,1.0,0.0
+556,Commit,codehaus-plexus_plexus-utils,2008-02-21 17:13:23,4bd78c11d086dd466b962c421c4cac4788de5037,4.0,4.0,1.0,0.0
+557,Commit,codehaus-plexus_plexus-utils,2008-02-20 00:45:04,d89fd70a2f4f27b26d84b74ae74e0fe0aa29ebbb,155.0,72.0,4.0,0.0
+558,Commit,codehaus-plexus_plexus-utils,2008-02-19 22:42:32,7c162c26740b5f17b98c9d0f4e8d72c2532be018,466.0,142.0,9.0,0.0
+559,Commit,codehaus-plexus_plexus-utils,2008-02-18 09:53:47,7f6f76e2702dc41655bfa0ee3cd29b257318df61,4.0,4.0,1.0,0.0
+560,Commit,codehaus-plexus_plexus-utils,2008-02-18 09:53:33,dc24f15f495bf07b2fbb1057a72aa2f95d3f9967,4.0,4.0,1.0,0.0
+561,Commit,codehaus-plexus_plexus-utils,2008-02-18 09:21:30,9c5439f8b04e9dbeda723e4474930e71875a2bde,4.0,4.0,1.0,0.0
+562,Commit,codehaus-plexus_plexus-utils,2008-02-12 21:53:00,9e2f1f5fe381ee5485d36267e08df916cc695471,47.0,25.0,2.0,0.0
+563,Commit,codehaus-plexus_plexus-utils,2008-02-12 21:24:37,dd73db5f5d200d84974d27e87b32bb09a6c86e75,377.0,37.0,2.0,0.0
+564,Commit,codehaus-plexus_plexus-utils,2008-02-02 21:39:39,e680e67bdf0bfc8cb0a816b32a9eb3fc0bb9988b,5.0,0.0,1.0,0.0
+565,Commit,codehaus-plexus_plexus-utils,2008-01-29 23:44:27,0f2bb1d0353eb10aaf42b0d39a47e90f4353975c,34.0,1.0,2.0,0.0
+566,Commit,codehaus-plexus_plexus-utils,2008-01-12 12:21:39,19968a5686dc9fda1ced55558d286cb4460befef,10.0,7.0,2.0,0.0
+567,Commit,codehaus-plexus_plexus-utils,2008-01-12 12:01:10,903bdce67f96604cc9ad406f71ac2718843bb2ef,2.0,1.0,1.0,0.0
+568,Commit,codehaus-plexus_plexus-utils,2008-01-12 08:56:03,c6939e858c29b049c1fc6da70fe3b8c1d5e00371,20.0,1.0,2.0,0.0
+569,Commit,codehaus-plexus_plexus-utils,2008-01-09 20:11:00,184a08836ebec078efa0afbfdb866476d51cd522,438.0,1.0,4.0,0.0
+570,Commit,codehaus-plexus_plexus-utils,2008-01-03 01:11:03,9b66cadf0514c0745bcfcc7333c74426aa5368da,339.0,27.0,5.0,0.0
+571,Commit,codehaus-plexus_plexus-utils,2007-12-25 20:07:12,2aebc2bf28240e0db44940e1c947825e47468411,12.0,11.0,4.0,0.0
+572,Commit,codehaus-plexus_plexus-utils,2007-12-19 09:30:45,ee1e36150b2f2d2035681c18e8dcc6add91b31b1,4.0,4.0,1.0,0.0
+573,Commit,codehaus-plexus_plexus-utils,2007-12-19 09:30:23,91d392a121f3757f007870ec335111fc5ebefc9a,4.0,4.0,1.0,0.0
+574,Commit,codehaus-plexus_plexus-utils,2007-12-10 18:04:41,cd04b2b3fa1d36c8d13b1998a7dcd98c4a2c80a4,33.0,1.0,2.0,0.0
+575,Commit,codehaus-plexus_plexus-utils,2007-12-01 13:01:07,6b0db7d66602f26fae3b83f6c7c4ba7a23e9b402,48.0,5.0,1.0,0.0
+576,Commit,codehaus-plexus_plexus-utils,2007-11-27 17:43:45,555c604c0f5f236bfc3cf9e4c6dfbb6bcdc5298f,4.0,4.0,1.0,0.0
+577,Commit,codehaus-plexus_plexus-utils,2007-11-27 17:43:31,5849d09a4363a0ba6ef576d1759b219da0b8c45c,4.0,4.0,1.0,0.0
+578,Commit,codehaus-plexus_plexus-utils,2007-11-25 08:04:31,3aa81765b4353d9ef19239e884cc4bca5371dba2,1.0,0.0,1.0,0.0
+579,Commit,codehaus-plexus_plexus-utils,2007-11-25 07:57:45,d213592764c43ecfdf595628bbb5d78ec348f8d6,43.0,2.0,1.0,0.0
+580,Commit,codehaus-plexus_plexus-utils,2007-11-14 21:48:34,d525dbe9ab35afbfd922f27076877f38c34f17e8,41.0,1.0,2.0,0.0
+581,Commit,codehaus-plexus_plexus-utils,2007-10-24 21:47:02,9ccbd1c30fbcf975a720c6dfa0dff626934af726,15.0,3.0,1.0,0.0
+582,Commit,codehaus-plexus_plexus-utils,2007-10-16 14:45:56,2e000751d91e2bd72af52b0ef6d675c64d04c91e,4.0,4.0,1.0,0.0
+583,Commit,codehaus-plexus_plexus-utils,2007-10-16 14:45:39,b07ee044b87d7a5c0abf067d239613488d3980e5,4.0,4.0,1.0,0.0
+584,Commit,codehaus-plexus_plexus-utils,2007-10-14 20:39:53,a5a4081f6ec064829b40d1789a2c1a122196ca8d,44.0,6.0,2.0,0.0
+585,Commit,codehaus-plexus_plexus-utils,2007-09-19 12:48:21,f6352f2cad38b5838316e02ceac841619c28fe8b,6.0,0.0,1.0,0.0
+586,Commit,codehaus-plexus_plexus-utils,2007-09-13 19:54:00,9157779947f9595d4df1647c91908905d37e7c60,4.0,4.0,1.0,0.0
+587,Commit,codehaus-plexus_plexus-utils,2007-09-13 19:53:40,678bdf62ee78d217ea5497078d6d59c1991965ba,4.0,4.0,1.0,0.0
+588,Commit,codehaus-plexus_plexus-utils,2007-08-21 21:01:27,33faf8b6e67a43113bbb0442fad8670a5a6b8cbe,23.0,0.0,2.0,0.0
+589,Commit,codehaus-plexus_plexus-utils,2007-08-21 14:58:40,1816a1f62d511487cfb3e0ead59c032ed5eceae3,6.0,5.0,2.0,0.0
+590,Commit,codehaus-plexus_plexus-utils,2007-07-30 23:32:21,34964d5e59ecc22372feba2043d089712841986d,4.0,4.0,1.0,0.0
+591,Commit,codehaus-plexus_plexus-utils,2007-07-30 23:32:06,8435f75ab4f206ba33bcb63fc771fe9952ada596,4.0,4.0,1.0,0.0
+592,Commit,codehaus-plexus_plexus-utils,2007-07-30 23:30:09,73217794216d8688257ec5d556cc5f72ba536a85,1.0,0.0,1.0,0.0
+593,Commit,codehaus-plexus_plexus-utils,2007-07-28 23:03:53,9e554d2150769747d9cbd981385e2b293ae0bdcf,3.0,3.0,1.0,0.0
+594,Commit,codehaus-plexus_plexus-utils,2007-07-28 22:55:06,b4d8947308eceb321a1e4bacac644e01418121af,7.0,7.0,2.0,0.0
+595,Commit,codehaus-plexus_plexus-utils,2007-07-28 22:43:37,dd3bfd85eb2054174a616a2dd85cf0b2ef4c3126,1.0,1.0,1.0,0.0
+596,Commit,codehaus-plexus_plexus-utils,2007-07-28 12:25:52,474e616718b3024ad920bcf460eb878501c5bb8e,0.0,0.0,0.0,0.0
+597,Commit,codehaus-plexus_plexus-utils,2007-07-28 12:04:08,bb43a831ac679305834d0bfa811c0b16b1eb5029,8.0,8.0,1.0,0.0
+598,Commit,codehaus-plexus_plexus-utils,2007-07-28 12:03:30,5d4b428e3496846971eeb2f54f3a76d5930edb23,9.0,4.0,6.0,0.0
+599,Commit,codehaus-plexus_plexus-utils,2007-07-21 00:35:13,1d61e1efac0dced76958a8c4685720e2b568992c,4.0,4.0,1.0,0.0
+600,Commit,codehaus-plexus_plexus-utils,2007-07-21 00:34:29,d3ce8ffca58ec05e27f80985cd382951f6e65947,4.0,4.0,1.0,0.0
+601,Commit,codehaus-plexus_plexus-utils,2007-07-21 00:33:49,d29acbb814a7c7c4cf6903700a4a217ee5f9b53c,1.0,1.0,1.0,0.0
+602,Commit,codehaus-plexus_plexus-utils,2007-07-20 22:28:20,c95157f0664d1b6d5626de8c46b63fe988da164e,0.0,26.0,1.0,0.0
+603,Commit,codehaus-plexus_plexus-utils,2007-07-20 21:30:49,42732f1510252f0411d8ea69d4d43d6e5aacc081,1.0,1.0,1.0,0.0
+604,Commit,codehaus-plexus_plexus-utils,2007-07-20 21:22:49,44d65fe04b36975e8c5099009f0bebb7d3a32aa9,10.0,2.0,2.0,0.0
+605,Commit,codehaus-plexus_plexus-utils,2007-07-20 14:49:04,037d50dcd902c0d9ccc3484737fb6c605afcbf34,4.0,4.0,1.0,0.0
+606,Commit,codehaus-plexus_plexus-utils,2007-07-20 14:48:49,73c9ef72a7d038e11a1775af3adfbcb3f1574289,4.0,4.0,1.0,0.0
+607,Commit,codehaus-plexus_plexus-utils,2007-07-19 21:09:04,2686255826c310b8ed9d00580e43a11e963c3b8c,3.0,3.0,1.0,0.0
+608,Commit,codehaus-plexus_plexus-utils,2007-07-19 21:07:19,112f8a842978d1371365675ccc97eac5d43a5309,10.0,10.0,1.0,0.0
+609,Commit,codehaus-plexus_plexus-utils,2007-07-19 21:05:53,bb31b8ea818503743c27cc6e8169a6617eb9faea,377.0,39.0,4.0,0.0
+610,Commit,codehaus-plexus_plexus-utils,2007-07-19 06:21:32,34d4ad06a41012c86a1662a4051a5bccdaf64096,13.0,13.0,3.0,0.0
+611,Commit,codehaus-plexus_plexus-utils,2007-07-18 21:26:30,72e025994447237795719cc7d446dbb288c0cae5,467.0,12.0,6.0,0.0
+612,Commit,codehaus-plexus_plexus-utils,2007-07-13 14:51:13,08252a25287cf94c81c0e0eb7e0636490e30c5cb,4.0,4.0,1.0,0.0
+613,Commit,codehaus-plexus_plexus-utils,2007-07-13 14:50:54,e38ac88020dc4171b4a06b5a1203ae44f8ef8089,4.0,4.0,1.0,0.0
+614,Commit,codehaus-plexus_plexus-utils,2007-07-10 21:25:37,fbe6c67436cbd52f130cdb922967ff32d284751f,31.0,0.0,9.0,0.0
+615,Commit,codehaus-plexus_plexus-utils,2007-07-08 18:38:36,eb47f3d7dd523c909187812858b6d83af8632015,1276.0,15.0,5.0,0.0
+616,Commit,codehaus-plexus_plexus-utils,2007-07-07 12:19:00,e6cd90dd8d7a9627ef59abc50010265439bdcff9,110.0,19.0,2.0,0.0
+617,Commit,codehaus-plexus_plexus-utils,2007-06-30 11:31:19,669b6610c7c51cd94561c40cf8cd05f710b5d58a,1.0,3.0,2.0,0.0
+618,Commit,codehaus-plexus_plexus-utils,2007-06-18 10:25:28,02b5bb34e9ae1294811a9471e6c1ee5efb847546,171.0,130.0,3.0,0.0
+619,Commit,codehaus-plexus_plexus-utils,2007-06-16 07:59:46,4eacc9d0277ce77a85678b58557bb6075897fb9d,14.0,11.0,1.0,0.0
+620,Commit,codehaus-plexus_plexus-utils,2007-06-14 11:58:58,9ebc6b69b8367651658d81deb8b6d0afa7c3784e,8.0,8.0,1.0,0.0
+621,Commit,codehaus-plexus_plexus-utils,2007-06-13 15:26:55,c7c496d548244f14cd31218af7d04f76058d2609,1.0,1.0,1.0,0.0
+622,Commit,codehaus-plexus_plexus-utils,2007-06-07 21:11:22,ff3b066229bd9d94b3fb7b7d7bbdb39e4ddc3e8c,111.0,48.0,2.0,0.0
+623,Commit,codehaus-plexus_plexus-utils,2007-06-07 19:52:42,c1e5fc4bd30b3276f5fa4c7180c3628dd92e2cba,21.0,0.0,1.0,0.0
+624,Commit,codehaus-plexus_plexus-utils,2007-06-01 22:09:59,aa36135275cfe4c9f0ece78ce8fe0cdfef68b113,0.0,0.0,0.0,0.0
+625,Commit,codehaus-plexus_plexus-utils,2007-05-31 13:07:05,1da820b0933c56f5a887f4b56a203da122506953,267.0,89.0,2.0,0.0
+626,Commit,codehaus-plexus_plexus-utils,2007-05-26 20:27:56,0a682fdbe6288c3616f94b99c26c01b6ff624ccc,70.0,21.0,3.0,0.0
+627,Commit,codehaus-plexus_plexus-utils,2007-05-20 19:36:10,ea5b63ba69f0ca5c03554aef46b46ad1a19e6f1f,4.0,4.0,1.0,0.0
+628,Commit,codehaus-plexus_plexus-utils,2007-05-20 19:35:59,57da21b2e9a738a74d3539db68ab680aac4f53a9,4.0,4.0,1.0,0.0
+629,Commit,codehaus-plexus_plexus-utils,2007-05-13 20:56:58,7477b4b72b1e8baab2546888dc135c44b2eadd0c,0.0,0.0,0.0,0.0
+630,Commit,codehaus-plexus_plexus-utils,2007-05-13 20:54:54,7715ab720956385d466113a5c0b5d7bddaff1224,53.0,11.0,2.0,0.0
+631,Commit,codehaus-plexus_plexus-utils,2007-05-13 20:37:27,92ff2807e41b891214b17b6bb52c23fde4a2d8d2,12.0,1.0,1.0,0.0
+632,Commit,codehaus-plexus_plexus-utils,2007-05-02 00:29:52,0c09091937d98fd5405d422105250266696ea048,182.0,9.0,2.0,0.0
+633,Commit,codehaus-plexus_plexus-utils,2007-04-22 21:18:32,4743d0d7f949ab16fe2bc27831945c6499eea9e3,211.0,0.0,2.0,0.0
+634,Commit,codehaus-plexus_plexus-utils,2007-04-22 21:08:38,7fc7b7aff464523c665ae51eb5b1520a4a336f92,15.0,5.0,1.0,0.0
+635,Commit,codehaus-plexus_plexus-utils,2007-03-10 17:51:48,2829fd54ed3d3aee7fcec739117627ddc3020799,4.0,4.0,1.0,0.0
+636,Commit,codehaus-plexus_plexus-utils,2007-03-10 17:51:32,9214b49cb177122633ba85082713db77f4075af1,5.0,5.0,1.0,0.0
+637,Commit,codehaus-plexus_plexus-utils,2007-03-04 07:33:51,bf2b5b6800e38c8dd327b7df27160270c4f53a0f,9.0,0.0,1.0,0.0
+638,Commit,codehaus-plexus_plexus-utils,2007-03-02 19:57:54,49cc22e3541bc65e63ce4dd3daca47690d443b9f,63.0,19.0,1.0,0.0
+639,Commit,codehaus-plexus_plexus-utils,2007-03-02 09:49:37,5eea91f64a66935d584e8355385e3798c7915b0f,44.0,24.0,1.0,0.0
+640,Commit,codehaus-plexus_plexus-utils,2007-03-02 09:21:23,9b5ef25b08748a7ae58febbe6d2eeabf3d833a94,43.0,0.0,2.0,0.0
+641,Commit,codehaus-plexus_plexus-utils,2007-02-28 22:35:43,7d9bbcf058d1ce0e33e50cc6aa4cfb8a9fa36e5d,740.0,362.0,8.0,0.0
+642,Commit,codehaus-plexus_plexus-utils,2007-02-28 15:30:35,1d8ec70bebbc590d4a62a39e6cece7c00a425e46,22.0,56.0,2.0,0.0
+643,Commit,codehaus-plexus_plexus-utils,2007-02-28 10:29:55,f0782961aaeb61e7799aece51b611337ccd4e6fa,1178.0,783.0,46.0,0.0
+644,Commit,codehaus-plexus_plexus-utils,2007-02-28 08:27:37,3ce91bd43877cb26ca8020df0379e1a5cb9a2b47,72.0,0.0,3.0,0.0
+645,Commit,codehaus-plexus_plexus-utils,2007-02-28 08:26:16,975e8c96c1c813921f02f296d7b2030fdaa91889,979.0,1215.0,53.0,0.0
+646,Commit,codehaus-plexus_plexus-utils,2007-02-27 23:58:35,a2534b832ef8f6867558f6251e6715bf0ca69d36,1.0,1.0,1.0,0.0
+647,Commit,codehaus-plexus_plexus-utils,2007-02-17 12:46:08,5c10e889a731f35571ea8dd3f72c348195c155c7,35.0,0.0,2.0,0.0
+648,Commit,codehaus-plexus_plexus-utils,2007-02-16 14:05:33,628ffbba65da8e8b1020f7f1842c49b5b185671f,1.0,1.0,1.0,0.0
+649,Commit,codehaus-plexus_plexus-utils,2007-02-13 02:39:09,3b10a04f75eef72084984b0f4a7aac6962b4f57d,1.0,1.0,1.0,0.0
+650,Commit,codehaus-plexus_plexus-utils,2007-02-13 01:12:58,3398b44be6759f275fe4b552c25fec6faa0fe1a6,29.0,2.0,1.0,0.0
+651,Commit,codehaus-plexus_plexus-utils,2007-02-12 23:32:12,9dad2cfcdd7f57f31ad5fef5c53865ded340429d,18.0,0.0,1.0,0.0
+652,Commit,codehaus-plexus_plexus-utils,2007-02-09 17:31:02,e2e42d6a22d087dee8bab170fc63aee2ba45eb2a,56.0,6.0,2.0,0.0
+653,Commit,codehaus-plexus_plexus-utils,2007-02-07 09:32:39,9e1ba0b68e59a89245c5834e32deb42de3658cd7,21.0,0.0,2.0,0.0
+654,Commit,codehaus-plexus_plexus-utils,2007-01-09 23:51:40,d0c61555f514d621796a347b6b38f83d6818ec33,1.0,1.0,1.0,0.0
+655,Commit,codehaus-plexus_plexus-utils,2007-01-09 23:49:08,d11a55593f95b0943a51f09f656422d5d3b0c916,4.0,4.0,1.0,0.0
+656,Commit,codehaus-plexus_plexus-utils,2007-01-09 23:48:50,cb28e8eaf5f9cdf4268ca3cf02a0d6f87b04f0ef,4.0,4.0,1.0,0.0
+657,Commit,codehaus-plexus_plexus-utils,2006-12-26 23:47:31,fca4144bc0fe0b72028835b9364e0c1ca288c85f,56.0,10.0,2.0,0.0
+658,Commit,codehaus-plexus_plexus-utils,2006-12-11 14:29:45,8abc7bf804b035b4fce820ec7904775e9e59784e,4.0,4.0,1.0,0.0
+659,Commit,codehaus-plexus_plexus-utils,2006-12-11 14:29:22,99b4f622a18485fefbba27a8649bb0f59c76ec30,4.0,4.0,1.0,0.0
+660,Commit,codehaus-plexus_plexus-utils,2006-12-03 13:24:27,69240bc0dafde89f7df5a974a42e265a1acf676f,1.0,1.0,1.0,0.0
+661,Commit,codehaus-plexus_plexus-utils,2006-11-13 11:32:24,fa69cc9f39c24e6a00cb6117306e70655136c5ee,5.0,4.0,1.0,0.0
+662,Commit,codehaus-plexus_plexus-utils,2006-11-08 21:06:36,8a20ce9aed82a72ef8389da320f71e3d397e58b2,4.0,0.0,1.0,0.0
+663,Commit,codehaus-plexus_plexus-utils,2006-11-04 09:59:18,2e9a8bb2d78c96faef189875d6881e069edf2390,0.0,0.0,0.0,0.0
+664,Commit,codehaus-plexus_plexus-utils,2006-10-26 02:05:08,04afde829bad3cb2fbecc14bcb54f29dd0763faa,69.0,31.0,4.0,0.0
+665,Commit,codehaus-plexus_plexus-utils,2006-10-15 17:57:15,cb7bc79c14912aa9d0ea06acf51a9ebadec66671,10.0,2.0,2.0,0.0
+666,Commit,codehaus-plexus_plexus-utils,2006-10-15 17:47:21,2b725b45e4c3b1f7625e1117d64269a825715bac,4.0,4.0,1.0,0.0
+667,Commit,codehaus-plexus_plexus-utils,2006-10-14 23:37:06,69ddf1785d025840b2698d2d35222a3930ae3a7a,26.0,3.0,3.0,0.0
+668,Commit,codehaus-plexus_plexus-utils,2006-09-29 01:09:25,4a52ca15ee4ccf77027f1f39eebd7005aa9f48af,1.0,6.0,1.0,0.0
+669,Commit,codehaus-plexus_plexus-utils,2006-09-29 01:08:52,6bd103bdc7d1fbf056732a56c3788f4455ffbc42,6.0,1.0,1.0,0.0
+670,Commit,codehaus-plexus_plexus-utils,2006-09-08 22:58:22,69ae2b6de70e4e648e196a5d2b5567fbbdb80098,1.0,1.0,1.0,0.0
+671,Commit,codehaus-plexus_plexus-utils,2006-09-01 17:23:27,d56230afd5cbe412e9e556c06477d44fed477f83,1.0,1.0,1.0,0.0
+672,Commit,codehaus-plexus_plexus-utils,2006-09-01 16:39:46,b4df77e68f646dfaa94137d79cea29e09abcf15d,33.0,16.0,1.0,0.0
+673,Commit,codehaus-plexus_plexus-utils,2006-08-31 19:42:33,10bdd43a7a764c4a32485f44f9559e3f8b1186a5,10.0,4.0,1.0,0.0
+674,Commit,codehaus-plexus_plexus-utils,2006-08-31 19:31:06,229864110c19ff898373cbbfe169ade814ac23ca,49.0,58.0,2.0,0.0
+675,Commit,codehaus-plexus_plexus-utils,2006-08-31 19:07:43,b542a6e14d6a0c2d53fdfd8a57dd0959b2425591,247.0,255.0,1.0,0.0
+676,Commit,codehaus-plexus_plexus-utils,2006-08-31 16:05:40,bac06ee96157d470ed8809d68dff331acd638c73,49.0,6.0,2.0,0.0
+677,Commit,codehaus-plexus_plexus-utils,2006-08-29 07:59:38,6ca21d116e63d0fdf972ccb3ca56de104cd97a80,1.0,187.0,1.0,0.0
+678,Commit,codehaus-plexus_plexus-utils,2006-08-29 07:32:01,66912b1622399a4087955515818f0fba2281e7b1,3.0,2.0,1.0,0.0
+679,Commit,codehaus-plexus_plexus-utils,2006-08-25 20:15:23,138291df1c52405e59f90ee970b26011de2ca3e5,47.0,12.0,2.0,0.0
+680,Commit,codehaus-plexus_plexus-utils,2006-08-25 16:12:43,2a168e167c983dee912e324e8c41761fe238db2b,13.0,2.0,1.0,0.0
+681,Commit,codehaus-plexus_plexus-utils,2006-08-16 21:37:02,bf9115d417d35fd51354bd7a35af92764486198c,84.0,9.0,1.0,0.0
+682,Commit,codehaus-plexus_plexus-utils,2006-08-16 20:37:43,1e0ec3d5f545404adc92fcfeba3a50d26d79a50d,1.0,1.0,1.0,0.0
+683,Commit,codehaus-plexus_plexus-utils,2006-08-15 09:51:12,ddb952278d5c21f1e3c671d01d8968044f2a0269,589.0,0.0,8.0,0.0
+684,Commit,codehaus-plexus_plexus-utils,2006-07-31 16:32:16,a29e94e16faa73a5c6f9526bcc75c1fda7667b24,1.0,1.0,1.0,0.0
+685,Commit,codehaus-plexus_plexus-utils,2006-07-31 16:28:02,26ffd3f21e861fa927ecc171ccf423a11a63bd4c,14.0,1.0,1.0,0.0
+686,Commit,codehaus-plexus_plexus-utils,2006-07-09 14:19:43,c60e05b249ae07fb375788a7175c2ebf38922d62,2.0,2.0,1.0,0.0
+687,Commit,codehaus-plexus_plexus-utils,2006-07-08 14:35:05,68e5ec312620f0e4eff3404fb692722c20dc6707,85.0,27.0,2.0,0.0
+688,Commit,codehaus-plexus_plexus-utils,2006-06-19 15:54:59,40555dfb6b0a65f08a30140cca80a6c797713fca,1.0,1.0,1.0,0.0
+689,Commit,codehaus-plexus_plexus-utils,2006-06-09 21:49:44,8ce4226fff4e879c36e07393e45bdbb3e071d474,152.0,233.0,2.0,0.0
+690,Commit,codehaus-plexus_plexus-utils,2006-05-31 06:01:53,fdb20604882951108a0dbc644248606f97cd3500,3.0,1.0,1.0,0.0
+691,Commit,codehaus-plexus_plexus-utils,2006-05-31 05:59:41,f03af62ad3ac0c4e30e06b4f97141eab665342ea,3.0,1.0,1.0,0.0
+692,Commit,codehaus-plexus_plexus-utils,2006-05-31 05:55:39,9d04b465dc022a0da17ea1f672b05ded47b4d3ad,7.0,3.0,1.0,0.0
+693,Commit,codehaus-plexus_plexus-utils,2006-05-22 14:03:21,f8e183384f6afc7fc4e259344e616f385517d523,1.0,1.0,1.0,0.0
+694,Commit,codehaus-plexus_plexus-utils,2006-05-22 14:02:27,920ec8997af6c9b0b829af84c522f6df5b3c82d6,5.0,1.0,1.0,0.0
+695,Commit,codehaus-plexus_plexus-utils,2006-05-22 14:01:25,7cce58e382ae4ec7799730180622f5dfffa99680,18.0,15.0,1.0,0.0
+696,Commit,codehaus-plexus_plexus-utils,2006-04-27 05:51:30,cf6931c89aada1dbdb353b21cbfc9f31480b45f2,34.0,13.0,3.0,0.0
+697,Commit,codehaus-plexus_plexus-utils,2006-04-27 05:49:46,2f8b6b05cd8c19d0626635b193ddb8c1c1585a6e,95.0,14.0,1.0,0.0
+698,Commit,codehaus-plexus_plexus-utils,2006-04-26 02:55:25,3faae1b8d22ab9adf32c3486c7b22866db6d6e66,22.0,0.0,1.0,0.0
+699,Commit,codehaus-plexus_plexus-utils,2006-04-19 19:12:08,87e982cd23be90885b59d9307d0374469796d1ce,1.0,1.0,1.0,0.0
+700,Commit,codehaus-plexus_plexus-utils,2006-04-19 19:11:57,a8868b3bd0154322887411b7ed1cae30d5a45769,1.0,1.0,1.0,0.0
+701,Commit,codehaus-plexus_plexus-utils,2006-04-19 18:12:03,352955096cd3bcc728ee565945da8505182ccba9,26.0,5.0,4.0,0.0
+702,Commit,codehaus-plexus_plexus-utils,2006-04-19 11:06:46,43ff8b06f74ba02ff23ac5f7196796807a0664fc,92.0,74.0,10.0,0.0
+703,Commit,codehaus-plexus_plexus-utils,2006-04-19 08:18:56,d3a79f8a06199aa87ee11b0c9d7a88fab37306ee,306.0,89.0,5.0,0.0
+704,Commit,codehaus-plexus_plexus-utils,2006-04-18 12:56:49,4d59aae96097dced867bce9460699573afb02d8b,10.0,10.0,2.0,0.0
+705,Commit,codehaus-plexus_plexus-utils,2006-04-06 13:49:49,826104432213310de222e524cf1ab7498d39bbdd,4.0,1.0,1.0,0.0
+706,Commit,codehaus-plexus_plexus-utils,2006-04-03 23:15:16,314fe4b17ff1ca6a5a355fa181f31ef3563389c0,31.0,13.0,2.0,0.0
+707,Commit,codehaus-plexus_plexus-utils,2006-04-03 22:11:04,fcc71c7534b2fdbe946013fab1a788fc98952f69,15.0,18.0,1.0,0.0
+708,Commit,codehaus-plexus_plexus-utils,2006-04-03 22:09:06,ccdda7cfb3b82c320b02eee60e5372ddac850afd,0.0,10.0,1.0,0.0
+709,Commit,codehaus-plexus_plexus-utils,2006-04-03 22:07:27,2d04769d3816e92d7cf2dec3e6a136c9bc48765f,108.0,10.0,2.0,0.0
+710,Commit,codehaus-plexus_plexus-utils,2006-04-03 18:21:22,fce510c8c4318161e434869bce064c142606f742,7.0,0.0,1.0,0.0
+711,Commit,codehaus-plexus_plexus-utils,2006-03-22 20:06:03,c40f02952c8b003b9418c2194662d3009df35f32,43.0,4.0,2.0,0.0
+712,Commit,codehaus-plexus_plexus-utils,2006-03-22 19:06:52,99165e42b7aa0d213eeb7794d9f62715c82ca55b,90.0,23.0,2.0,0.0
+713,Commit,codehaus-plexus_plexus-utils,2006-03-22 17:32:44,21f668c3338944c5bce556db47e2baedba86921c,89.0,1.0,1.0,0.0
+714,Commit,codehaus-plexus_plexus-utils,2006-03-22 08:24:24,6721a0a818012dd5e26a12987fdc06c8c79df1ac,2.0,1.0,1.0,0.0
+715,Commit,codehaus-plexus_plexus-utils,2006-03-22 07:45:23,34b43ea2c0b4db6e35ad341e88b2d0ce0c3c02b3,135.0,0.0,2.0,0.0
+716,Commit,codehaus-plexus_plexus-utils,2006-03-17 08:12:19,875d93193c3590009cde5d48b9781f377aca8eee,13.0,20.0,1.0,0.0
+717,Commit,codehaus-plexus_plexus-utils,2006-03-16 13:20:26,1f1a39f5d2a41028e2bfabb24d6e5cb94586625b,184.0,0.0,2.0,0.0
+718,Commit,codehaus-plexus_plexus-utils,2006-03-16 10:10:41,ce3027e672b26e05f632a277a1421fe06b771fd9,1.0,1.0,1.0,0.0
+719,Commit,codehaus-plexus_plexus-utils,2006-03-16 09:31:55,e771c204152151c448f87103fc590b2b0b998098,6.0,1.0,1.0,0.0
+720,Commit,codehaus-plexus_plexus-utils,2006-03-13 14:38:17,7bf92e9b0389c0ce51e18b13a53ff306a986ce44,3.0,0.0,1.0,0.0
+721,Commit,codehaus-plexus_plexus-utils,2006-03-07 02:20:42,3f8d501a3b532f0c19d19a69e0b3215c45ce0c28,5.0,2.0,1.0,0.0
+722,Commit,codehaus-plexus_plexus-utils,2006-03-06 18:55:06,b9373d9d5262d09a303dc0cedfaf85f7cb8a3c09,3.0,2.0,1.0,0.0
+723,Commit,codehaus-plexus_plexus-utils,2006-03-06 18:45:31,a29e4deb671b3a6230d40d9e470a97988f0ec416,2.0,2.0,1.0,0.0
+724,Commit,codehaus-plexus_plexus-utils,2006-03-04 17:16:04,bb6bcfdd94fdbaa049f8d30731102261f75991dd,73.0,3.0,3.0,0.0
+725,Commit,codehaus-plexus_plexus-utils,2006-03-03 13:16:35,d42042fc701dbba7f59fafdd6f005a590215b1d8,7.0,2.0,1.0,0.0
+726,Commit,codehaus-plexus_plexus-utils,2006-02-22 23:48:21,a435b514b22870161eb04e78f5dabcb50cf5964c,34.0,0.0,2.0,0.0
+727,Commit,codehaus-plexus_plexus-utils,2006-02-11 13:51:19,f78b29f0c6025fe33980eb3dadc16813f4b17589,109.0,38.0,3.0,0.0
+728,Commit,codehaus-plexus_plexus-utils,2006-02-10 22:48:21,f9234c053e9d481cbf2ebd5a498b6dec6e6ba8af,97.0,1.0,2.0,0.0
+729,Commit,codehaus-plexus_plexus-utils,2006-02-10 09:45:50,3e289da26d154e7afb2feb163a36a0d986f6d37a,36.0,3.0,1.0,0.0
+730,Commit,codehaus-plexus_plexus-utils,2006-01-23 23:09:29,3df71c2f0a11a489e8357a6f43b231646a061dfa,7.0,1.0,1.0,0.0
+731,Commit,codehaus-plexus_plexus-utils,2006-01-12 04:20:11,7b8aae5981f4b699a132d45cb08ab62ffe42f5ea,1.0,1.0,1.0,0.0
+732,Commit,codehaus-plexus_plexus-utils,2006-01-12 04:18:50,0e77a7cdd30da8e3b5379e86058ce7be0b14ad71,4.0,4.0,1.0,0.0
+733,Commit,codehaus-plexus_plexus-utils,2006-01-12 04:07:13,a28edf5a7376768ddd95a23c920d8778b30be2aa,1.0,1.0,1.0,0.0
+734,Commit,codehaus-plexus_plexus-utils,2006-01-12 04:06:23,7ddd2c7bf29c0f78ca05e755ffd3980f2de6e9cc,0.0,51.0,2.0,0.0
+735,Commit,codehaus-plexus_plexus-utils,2006-01-12 03:01:24,8c4471f4827c64a27839d44a214797efa07a74d1,38.0,0.0,1.0,0.0
+736,Commit,codehaus-plexus_plexus-utils,2006-01-06 06:50:07,e2456b19b918ffaa08595e3d83ec0e0b733b24b1,26.0,2.0,2.0,0.0
+737,Commit,codehaus-plexus_plexus-utils,2006-01-06 06:49:03,8465e1c758278b37bfd2d7f4298a06115f28628f,22.0,1.0,2.0,0.0
+738,Commit,codehaus-plexus_plexus-utils,2005-12-15 17:36:35,5a735e65b45bcb1d8f9b4654d6508edfd3012263,15.0,4.0,1.0,0.0
+739,Commit,codehaus-plexus_plexus-utils,2005-12-07 21:51:40,ebb5064dfe4dc05c900feb9b2b478ac7e647a5f4,1.0,1.0,1.0,0.0
+740,Commit,codehaus-plexus_plexus-utils,2005-12-07 21:00:47,8fc60a66dab2efa865925a7e485c83026d0e340b,9.0,9.0,1.0,0.0
+741,Commit,codehaus-plexus_plexus-utils,2005-12-07 20:48:54,df5063726850034b8ea49f6f25ab1dcb17564f3b,13.0,7.0,2.0,0.0
+742,Commit,codehaus-plexus_plexus-utils,2005-12-07 20:23:51,4f328e1fbf7f25e0dabeba43978effd3ee324130,62.0,28.0,1.0,0.0
+743,Commit,codehaus-plexus_plexus-utils,2005-12-06 21:21:13,2fc78268982eb59f21278181cf11bbad43864765,64.0,75.0,3.0,0.0
+744,Commit,codehaus-plexus_plexus-utils,2005-12-06 16:18:00,7a42475ef197e83f96c73fea62313a33dd174a94,299.0,1.0,8.0,0.0
+745,Commit,codehaus-plexus_plexus-utils,2005-12-01 17:28:17,cf69d51c1957ffc464f9445587cba0e2429c6645,1.0,1.0,1.0,0.0
+746,Commit,codehaus-plexus_plexus-utils,2005-12-01 13:01:51,38e6e6caa63ead838205a77d01fe5085737b6d49,68.0,0.0,1.0,0.0
+747,Commit,codehaus-plexus_plexus-utils,2005-11-15 10:51:03,d9b10985eb76928b7a02542e95f8750560331d71,4.0,3.0,1.0,0.0
+748,Commit,codehaus-plexus_plexus-utils,2005-11-10 10:09:40,2def997c9066ec29ce500e192425d1844ba51837,47.0,13.0,3.0,0.0
+749,Commit,codehaus-plexus_plexus-utils,2005-10-11 17:40:50,dc37a20847e3ae65edaa73595ad03414706cbb73,1.0,235.0,2.0,0.0
+750,Commit,codehaus-plexus_plexus-utils,2005-10-11 17:40:14,d3428b109021c99b6b08f7e6c496cd7e4180076d,235.0,1.0,2.0,0.0
+751,Commit,codehaus-plexus_plexus-utils,2005-10-11 17:30:25,cfabe45e6b0c50369f20b48395947b6f897da030,30.0,38.0,2.0,0.0
+752,Commit,codehaus-plexus_plexus-utils,2005-10-11 12:37:02,9aa3f55939ce167bb719807e7989be4986dff4f4,511.0,0.0,2.0,0.0
+753,Commit,codehaus-plexus_plexus-utils,2005-10-09 07:42:21,632dab99dabfa89d055e352b0248fe5758a69831,3.0,0.0,1.0,0.0
+754,Commit,codehaus-plexus_plexus-utils,2005-10-09 04:52:12,c758a8db02040d251f931bf7a86036d291dfb628,2.0,2.0,1.0,0.0
+755,Commit,codehaus-plexus_plexus-utils,2005-10-08 17:52:24,033b173de9279870835ad12d811dc927a7a72298,34.0,1.0,2.0,0.0
+756,Commit,codehaus-plexus_plexus-utils,2005-10-08 07:59:02,8aa39dfe89cc406e5dd10e5f3024ab13a0616035,29.0,1.0,2.0,0.0
+757,Commit,codehaus-plexus_plexus-utils,2005-10-08 03:50:52,56a08c25af2cdd2ca075c5131f36729b680eea98,20.0,1.0,2.0,0.0
+758,Commit,codehaus-plexus_plexus-utils,2005-10-07 21:54:52,ed65fa4e01e9cc0659f7151e67341a9301f09201,2.0,8.0,1.0,0.0
+759,Commit,codehaus-plexus_plexus-utils,2005-10-07 12:03:16,9552acd6c0d818c3b4362696a00f2822c675561a,18.0,1.0,2.0,0.0
+760,Commit,codehaus-plexus_plexus-utils,2005-10-07 12:02:48,2dee4d65cfc3054c369506853434a98be97d8759,3.0,4.0,1.0,0.0
+761,Commit,codehaus-plexus_plexus-utils,2005-10-02 13:56:50,d98073eaa61cd96a9d6685d5a1c6b3f5aa958be3,0.0,7.0,1.0,0.0
+762,Commit,codehaus-plexus_plexus-utils,2005-10-02 13:51:09,67be0ec83f840796ae3a02df48d3420f74d30732,1.0,0.0,1.0,0.0
+763,Commit,codehaus-plexus_plexus-utils,2005-10-02 13:43:39,5f94cf01c7102ccdcd2187856ce685af6dcc8c75,6.0,0.0,1.0,0.0
+764,Commit,codehaus-plexus_plexus-utils,2005-09-23 15:28:26,0087fbc2b89571bd6ca67e63460165cac1b98e69,1.0,0.0,1.0,0.0
+765,Commit,codehaus-plexus_plexus-utils,2005-09-16 01:21:29,76cbf0ac22677b4ebabb833181abab3125df8e63,2.0,34.0,2.0,0.0
+766,Commit,codehaus-plexus_plexus-utils,2005-09-16 01:20:58,0883ebc09a42274ab866658d7a78bb980ad5605a,35.0,2.0,2.0,0.0
+767,Commit,codehaus-plexus_plexus-utils,2005-09-16 01:19:15,fc3e459d1ae6a6becc00acdae404d5c25fe5fb33,2.0,35.0,2.0,0.0
+768,Commit,codehaus-plexus_plexus-utils,2005-09-16 01:17:11,a3d4dfed566b667bdeaff29deb9f0daf99e1d49f,35.0,2.0,2.0,0.0
+769,Commit,codehaus-plexus_plexus-utils,2005-09-15 23:41:28,5660c0638db87cf00e3af21989f245cd49a5b638,11.0,1.0,1.0,0.0
+770,Commit,codehaus-plexus_plexus-utils,2005-09-14 02:19:22,a6e0e83df043700f7b5b9d0eb2bc9d3568dcf0fc,2.0,3.0,1.0,0.0
+771,Commit,codehaus-plexus_plexus-utils,2005-09-14 02:14:33,861ae387e2857eb3b7928662ea03f0ff4a052ea2,2.0,34.0,2.0,0.0
+772,Commit,codehaus-plexus_plexus-utils,2005-09-14 02:13:59,558c5b23dca030910e1cc59fe9b767a9336d5a45,37.0,11.0,2.0,0.0
+773,Commit,codehaus-plexus_plexus-utils,2005-09-14 02:05:40,c404c179499fbf33771f0d73acfc37122aafabc3,11.0,44.0,2.0,0.0
+774,Commit,codehaus-plexus_plexus-utils,2005-09-14 00:10:37,0f53544b0452d6206de58a1e4886ebc34cf9f6da,44.0,11.0,2.0,0.0
+775,Commit,codehaus-plexus_plexus-utils,2005-09-14 00:07:07,aab073442ec57e0df3de03f0da20fb53ddd81dfc,1.0,1.0,1.0,0.0
+776,Commit,codehaus-plexus_plexus-utils,2005-08-25 18:33:40,30e542dbcf2c394d4740809c6c334ab7a2dfaa9a,299.0,19.0,4.0,0.0
+777,Commit,codehaus-plexus_plexus-utils,2005-08-19 06:26:20,80b72566c04133c4561347ee0e2e6987e6449cec,89.0,2.0,2.0,0.0
+778,Commit,codehaus-plexus_plexus-utils,2005-08-18 14:28:06,7bd458360de64bdbdc1dffc1013553fcf3835e53,2.0,1.0,1.0,0.0
+779,Commit,codehaus-plexus_plexus-utils,2005-08-15 23:33:05,78d37ed84eca36eb2f5d188d496f4a563baab239,39.0,1.0,1.0,0.0
+780,Commit,codehaus-plexus_plexus-utils,2005-08-10 11:24:59,cb1f9f0ff7a259ca7264e03527bb37a22acd2905,5.0,0.0,1.0,0.0
+781,Commit,codehaus-plexus_plexus-utils,2005-07-29 22:25:58,1289ecccadbaf1ea4c994bad12283e23bf3f8234,1.0,1.0,1.0,0.0
+782,Commit,codehaus-plexus_plexus-utils,2005-07-27 19:25:52,dc83fb276f7f50f87b92d1874877d27f4c3bce80,32.0,1.0,1.0,0.0
+783,Commit,codehaus-plexus_plexus-utils,2005-07-25 22:26:31,19c252e5d944142145c2dcd843a84a018f29f1bd,2.0,0.0,1.0,0.0
+784,Commit,codehaus-plexus_plexus-utils,2005-07-25 15:06:57,502f622988292583853b5cbd12841e9fc5a3a11c,48.0,0.0,1.0,0.0
+785,Commit,codehaus-plexus_plexus-utils,2005-07-11 02:23:19,5fbee458a748c46a3754056a366f1a9eba89c70b,1.0,1.0,1.0,0.0
+786,Commit,codehaus-plexus_plexus-utils,2005-07-11 01:11:04,dbfbba8d649b67f005d664b0ad5dd9ce02b30f5d,1.0,1.0,1.0,0.0
+787,Commit,codehaus-plexus_plexus-utils,2005-06-22 16:00:54,8807c95cd07a059737b0cf7f84a7d16962965632,1.0,1.0,1.0,0.0
+788,Commit,codehaus-plexus_plexus-utils,2005-06-22 16:00:12,4a1454c5738ff510364fc3bb31119973f635710e,0.0,2.0,2.0,0.0
+789,Commit,codehaus-plexus_plexus-utils,2005-06-22 15:56:00,4a2c209781cdb71e4f5696fc0f7071505ac569be,63.0,86.0,3.0,0.0
+790,Commit,codehaus-plexus_plexus-utils,2005-06-20 15:02:30,da9012db5f11763a7dfd7dfe8663afd76df3815f,105.0,48.0,2.0,0.0
+791,Commit,codehaus-plexus_plexus-utils,2005-06-20 04:22:07,5d71f7d8cd1c0868133b2f44ef01125c7b8a46b7,2.0,1.0,1.0,0.0
+792,Commit,codehaus-plexus_plexus-utils,2005-06-01 18:34:04,87e6b079c391ddea193ca74e76ecdd472e0c0496,0.0,8.0,1.0,0.0
+793,Commit,codehaus-plexus_plexus-utils,2005-05-29 23:36:05,849a8dac22d9a832a795ff4c0d91cebf40fc8ec4,397.0,391.0,3.0,0.0
+794,Commit,codehaus-plexus_plexus-utils,2005-05-27 14:42:11,505a7ce13db18f00ed1b59fa5e6d6a8ce093eeb7,1.0,1.0,1.0,0.0
+795,Commit,codehaus-plexus_plexus-utils,2005-05-27 14:41:28,1a7c364da5567719ec0612398942b946a2afd053,3.0,1.0,1.0,0.0
+796,Commit,codehaus-plexus_plexus-utils,2005-05-27 01:57:48,7dd8daec6fe8de83356d25b0df236482ecfb1b29,0.0,154.0,1.0,0.0
+797,Commit,codehaus-plexus_plexus-utils,2005-05-25 19:58:18,5b9462996ce18d981f2bfbc5945b72dc848db8a7,102.0,102.0,1.0,0.0
+798,Commit,codehaus-plexus_plexus-utils,2005-05-25 19:52:48,a8a965895962b3533f31ccee6a07e45582c0127d,1.0,1.0,1.0,0.0
+799,Commit,codehaus-plexus_plexus-utils,2005-05-25 19:46:15,72d7d8d7252177b9d610694bfd2f3aa2c85ed149,117.0,2.0,4.0,0.0
+800,Commit,codehaus-plexus_plexus-utils,2005-05-25 12:11:08,96f5c4f61d4d1ef8d9903c92fa4e3d4a14a85a3f,5.0,0.0,1.0,0.0
+801,Commit,codehaus-plexus_plexus-utils,2005-05-13 03:27:21,7cb40c00440e8efb38273f6478531a2d2e62cf97,1.0,1.0,1.0,0.0
+802,Commit,codehaus-plexus_plexus-utils,2005-04-22 15:15:42,caeddb083941fc8f1905724353ec51bd0dd6751f,37.0,0.0,1.0,0.0
+803,Commit,codehaus-plexus_plexus-utils,2005-04-21 16:31:52,e3ca9c622c8bff270b94066c440416b568be6218,1.0,1.0,1.0,0.0
+804,Commit,codehaus-plexus_plexus-utils,2005-04-21 16:03:11,1325c3d2de75da489539cd5f9c6e89bdcfb92c25,1309.0,0.0,4.0,0.0
+805,Commit,codehaus-plexus_plexus-utils,2005-04-21 15:43:21,71c523b35cf371b135a8d19c8fc12fa014fa09f7,54.0,0.0,1.0,0.0
+806,Commit,codehaus-plexus_plexus-utils,2005-04-19 05:38:54,1a5643a040b9e10fd4b3ff92eb9eb169cf207cc9,146.0,162.0,2.0,0.0
+807,Commit,codehaus-plexus_plexus-utils,2005-04-17 12:40:30,624aaf992e6ee15d65780d25200788f81e78dd0f,299.0,0.0,1.0,0.0
+808,Commit,codehaus-plexus_plexus-utils,2005-04-03 22:17:45,291c9d3c30bf792990198fb7573e081ca2d4ad7f,38.0,17.0,2.0,0.0
+809,Commit,codehaus-plexus_plexus-utils,2005-04-01 15:39:46,3c6e1a64e14d3fd317d4cbefd0695114575ae51f,1.0,1.0,1.0,0.0
+810,Commit,codehaus-plexus_plexus-utils,2005-04-01 15:37:34,1950721c6b6a68a79c5faf0da9264342299360b5,1.0,1.0,1.0,0.0
+811,Commit,codehaus-plexus_plexus-utils,2005-03-31 08:48:09,62e2f39d1ab9c091196c6d0481c5abf8da4f51af,15.0,4.0,1.0,0.0
+812,Commit,codehaus-plexus_plexus-utils,2005-03-31 06:00:53,672aa6bb01c60d526b9278f8b2491b39be3334ec,41.0,32.0,3.0,0.0
+813,Commit,codehaus-plexus_plexus-utils,2005-03-22 05:33:11,7ea741b940eb43622da4e9f0fc583b34a1541958,1341.0,0.0,4.0,0.0
+814,Commit,codehaus-plexus_plexus-utils,2005-03-22 04:31:01,db8747c5efe7f5d59422dda713d6ed2479eec5c8,7.0,0.0,1.0,0.0
+815,Commit,codehaus-plexus_plexus-utils,2005-03-22 04:22:11,6fcf0ba437cffbdcf7e9ffe840bfeaf64608d9dd,5.0,5.0,2.0,0.0
+816,Commit,codehaus-plexus_plexus-utils,2005-03-22 04:08:13,51110c85af39af8f5b9fe9cc825f2b42ce5318c7,150.0,19.0,3.0,0.0
+817,Commit,codehaus-plexus_plexus-utils,2005-03-22 01:02:59,eb9bb77a64b6ab32bd4b224ea5fa0baa5ee26549,37.0,23.0,2.0,0.0
+818,Commit,codehaus-plexus_plexus-utils,2005-03-22 00:20:52,a8fe8f4c0a0a14136945e35c4bfb920c0782ae4a,263.0,14.0,3.0,0.0
+819,Commit,codehaus-plexus_plexus-utils,2005-03-21 16:56:14,15b38046ddd3ff7b2022145d5ffe4bfc3741ce5b,28.0,72.0,1.0,0.0
+820,Commit,codehaus-plexus_plexus-utils,2005-03-15 06:13:47,4fcbad96bd052b42dbc8ba47a3c6099d0799541b,4.0,5.0,1.0,0.0
+821,Commit,codehaus-plexus_plexus-utils,2005-03-10 18:37:23,00d4d02df72e37d931f1e1e1793b2afe6c5aa5c2,5.0,6.0,1.0,0.0
+822,Commit,codehaus-plexus_plexus-utils,2005-02-22 04:03:53,512f74fb096d42f5b9fb3d09e838b1e40d2b7294,18.0,3.0,2.0,0.0
+823,Commit,codehaus-plexus_plexus-utils,2005-02-04 01:52:54,ab6b23ee3b5b81332622791b2e4ea3c2eb7f0e9d,19.0,0.0,1.0,0.0
+824,Commit,codehaus-plexus_plexus-utils,2005-01-21 10:32:23,52b14aac08b4254ad79a9680b44a749b2e77667a,396.0,279.0,2.0,0.0
+825,Commit,codehaus-plexus_plexus-utils,2005-01-18 12:48:38,80efefb0c2957e8ab883801ae358b2f949334c54,1.0,1.0,1.0,0.0
+826,Commit,codehaus-plexus_plexus-utils,2005-01-18 11:58:22,de2f71c9b2437b4d82ad635c30ec69370adf0033,1.0,1.0,1.0,0.0
+827,Commit,codehaus-plexus_plexus-utils,2005-01-07 09:16:37,dd95111ade01d45d4ee42c9ebba7349a62e645e5,6.0,0.0,1.0,0.0
+828,Commit,codehaus-plexus_plexus-utils,2005-01-06 21:42:42,c66fec66538f703e84a4a27667f02ad23d086f7d,36.0,2.0,1.0,0.0
+829,Commit,codehaus-plexus_plexus-utils,2004-11-09 13:45:21,701f0f8987729616adbe771d7dcd1d36c19bda75,394.0,36.0,9.0,0.0
+830,Commit,codehaus-plexus_plexus-utils,2004-11-09 10:53:10,652ec9da308568f2b662a63e6778883723b40e8f,7.0,1.0,1.0,0.0
+831,Commit,codehaus-plexus_plexus-utils,2004-10-25 14:16:42,1f888730311599b99c1868362d869557d77a3ceb,1115.0,6.0,2.0,0.0
+832,Commit,codehaus-plexus_plexus-utils,2004-10-24 21:53:38,ecc299d11b74f59190110001b68edfbe5f642b7b,0.0,356.0,1.0,0.0
+833,Commit,codehaus-plexus_plexus-utils,2004-10-24 21:49:26,3d07904e93789c74b923d52684fe7e0c47d18926,5157.0,0.0,5.0,0.0
+834,Commit,codehaus-plexus_plexus-utils,2004-10-23 16:34:54,1f3e3452fed4598fbcc689788ead7e3e29ae0dba,429.0,0.0,5.0,0.0
+835,Commit,codehaus-plexus_plexus-utils,2004-10-19 03:24:28,ad91c482e002679461ad6bb641735b51a1583e8d,418.0,243.0,19.0,0.0
+836,Commit,codehaus-plexus_plexus-utils,2004-10-18 20:10:10,2b1354930b8aa2f1019564c6c70405d03fffe362,61.0,73.0,7.0,0.0
+837,Commit,codehaus-plexus_plexus-utils,2004-10-14 14:25:26,a0c322cd5a899c8b2defd33f6a2a9441a5d6326f,81.0,0.0,1.0,0.0
+838,Commit,codehaus-plexus_plexus-utils,2004-10-12 16:08:31,005339c12ea1e71b4c7aa8b148629d5e981fd2be,1.0,1.0,1.0,0.0
+839,Commit,codehaus-plexus_plexus-utils,2004-10-12 16:02:21,32b73f70624c57fbda1e742b2b0ae87de77df119,1.0,9.0,1.0,0.0
+840,Commit,codehaus-plexus_plexus-utils,2004-10-11 18:50:35,779c958adb90df9c4e66c8c15ed383457291f9ee,33.0,0.0,1.0,0.0
+841,Commit,codehaus-plexus_plexus-utils,2004-10-07 19:29:57,ed02b7ae25e50d185bbd21e9a4c538d7def2bc3a,12851.0,0.0,29.0,0.0
+842,Commit,codehaus-plexus_plexus-utils,2004-10-07 08:29:08,d59d8ebc99d19f925531916730ad72c6f6ad7436,1.0,0.0,1.0,0.0
+843,Commit,codehaus-plexus_plexus-utils,2004-10-03 13:24:56,470da1955b8a62fc9b17c4cf11e738b0dc329f32,41.0,14.0,1.0,0.0
+844,Commit,codehaus-plexus_plexus-utils,2004-10-03 13:04:17,a4e6a84d2dc277d0e4b403430d80532435d5806b,139.0,91.0,3.0,0.0
+845,Commit,codehaus-plexus_plexus-utils,2004-08-29 22:12:29,544477c2f9238e3fd7dd373bf6fd1b4db9e6a59f,15.0,8.0,1.0,0.0
+846,Commit,codehaus-plexus_plexus-utils,2004-08-29 18:28:49,b40349daa8e840b07d4d36f93cd6565d628ff096,130.0,6.0,1.0,0.0
+847,Commit,codehaus-plexus_plexus-utils,2004-06-27 06:59:55,1f108f463da48603cf1aa58b906b364fecec7aed,1.0,1.0,1.0,0.0
+848,Commit,codehaus-plexus_plexus-utils,2004-05-02 21:59:09,ca910ca402c65b8ba0f3d6f6bdf6b91675b40ae8,158.0,149.0,4.0,0.0
+849,Commit,codehaus-plexus_plexus-utils,2004-05-02 21:07:28,310aa04d8d916fe2bd6b46ee173d5d2e2506441d,479.0,0.0,4.0,0.0
+850,Commit,codehaus-plexus_plexus-utils,2004-04-07 19:43:13,1aa46534ea4e493c914c2e7e049f8cff83e50ad3,0.0,1.0,1.0,0.0
+851,Commit,codehaus-plexus_plexus-utils,2004-03-27 17:16:01,000c8485cc4404c2e0de997f6cbd726addcd9c16,252.0,0.0,1.0,0.0
+852,Commit,codehaus-plexus_plexus-utils,2004-03-22 20:23:14,f7850118979fe5639d172a1d47b2f2ef41fe877b,467.0,378.0,4.0,0.0
+853,Commit,codehaus-plexus_plexus-utils,2004-03-21 17:11:06,f360d071c03322b51edb03455dc411dff66a49e5,1.0,1.0,1.0,0.0
+854,Commit,codehaus-plexus_plexus-utils,2004-03-21 16:51:44,6b604fe91b8f65fa5ac8ead33022f8a2461548b4,62.0,1.0,2.0,0.0
+855,Commit,codehaus-plexus_plexus-utils,2004-03-20 14:34:09,765866402600ca34e4cc246c9b96ac782556f401,142.0,18.0,4.0,0.0
+856,Commit,codehaus-plexus_plexus-utils,2004-01-20 09:32:41,a197ead752f843d2916f0be4cf4d235d0d8702bc,17.0,12.0,1.0,0.0
+857,Commit,codehaus-plexus_plexus-utils,2004-01-19 16:55:23,16af8b6298732cf55908fc1a1cc536e6967e801d,2.0,0.0,1.0,0.0
+858,Commit,codehaus-plexus_plexus-utils,2004-01-17 20:20:15,0d272c39237094e9b6af0e0fc3e933d76ae73365,63.0,4.0,1.0,0.0
+859,Commit,codehaus-plexus_plexus-utils,2004-01-15 19:35:26,2911c70fa0e7d6aaa58f3ec2efd50bfe0bee6a1a,46.0,14.0,2.0,0.0
+860,Commit,codehaus-plexus_plexus-utils,2004-01-14 05:26:02,6154ece501791e18577509e2d65e3defd6bbd78b,1549.0,0.0,6.0,0.0
+861,Commit,codehaus-plexus_plexus-utils,2003-12-23 21:11:55,9735b33be017e5d99256ae64dd0b635fabcd1d35,126.0,132.0,4.0,0.0
+862,Commit,codehaus-plexus_plexus-utils,2003-12-23 18:59:46,2b470ff38029ebeaff59a4fc51ada460a7c8f86b,282.0,0.0,4.0,0.0
+863,Commit,codehaus-plexus_plexus-utils,2003-12-20 19:11:39,489413a3ae2f1b95e06667913d845c3efd3619ef,423.0,402.0,3.0,0.0
+864,Commit,codehaus-plexus_plexus-utils,2003-11-06 18:54:55,06ced14352aa398cd9630bb855f47850c896fe6d,0.0,248.0,2.0,0.0
+865,Commit,codehaus-plexus_plexus-utils,2003-11-06 17:01:30,c443f574fd420c35fb67a64e215999b6940cc77e,1.0,0.0,1.0,0.0
+866,Commit,codehaus-plexus_plexus-utils,2003-11-03 18:17:11,a9d406b5f6413798c2c804384ea1818a466e173f,41.0,0.0,1.0,0.0
+867,Commit,codehaus-plexus_plexus-utils,2003-11-03 16:50:13,db90ca4e9d32cd1c42654cccbe2350fa90421dbb,21.0,4.0,1.0,0.0
+868,Commit,codehaus-plexus_plexus-utils,2003-11-02 14:26:22,67e96b7a0d2be1833150a4ac9dc092cf14453c65,5.0,16.0,1.0,0.0
+869,Commit,codehaus-plexus_plexus-utils,2003-11-01 16:08:57,19ffabeb641c52ab9ab8a8789358ea4792f139da,0.0,627.0,2.0,0.0
+870,Commit,codehaus-plexus_plexus-utils,2003-10-31 16:19:03,6055b13e877d95c722fbae6319f665f1889fb27b,3.0,4.0,1.0,0.0
+871,Commit,codehaus-plexus_plexus-utils,2003-10-31 01:39:35,8a1cbfcd272fa1fadb086d07d324cf9070442524,5.0,4.0,1.0,0.0
+872,Commit,codehaus-plexus_plexus-utils,2003-10-31 01:12:05,02ddb4f1890e213452842e5b6b09866ae3f3c4ff,68.0,68.0,1.0,0.0
+873,Commit,codehaus-plexus_plexus-utils,2003-10-31 01:08:51,f63f047a1de3aa8ff8c038576bceedf12f723735,477.0,0.0,1.0,0.0
+874,Commit,codehaus-plexus_plexus-utils,2003-08-23 03:56:37,26e1c9192f03ab19d9852349a616c3452bdee520,16.0,2.0,2.0,0.0
+875,Commit,codehaus-plexus_plexus-utils,2003-08-10 12:22:20,994f2667a46aa2c3e1cad1205a4aee125cb868f4,1.0,1.0,1.0,0.0
+876,Commit,codehaus-plexus_plexus-utils,2003-08-06 05:48:40,47e75ab476dae1046025320dfac96e38e59ab1ac,996.0,0.0,6.0,0.0
+0,forks,codehaus-plexus_plexus-utils,2015-03-31 12:26:53+00:00,,,,,
+1,forks,codehaus-plexus_plexus-utils,2015-12-10 14:36:25+00:00,,,,,
+2,forks,codehaus-plexus_plexus-utils,2016-04-02 16:53:53+00:00,,,,,
+3,forks,codehaus-plexus_plexus-utils,2016-05-10 07:26:20+00:00,,,,,
+4,forks,codehaus-plexus_plexus-utils,2016-05-24 22:00:52+00:00,,,,,
+5,forks,codehaus-plexus_plexus-utils,2016-09-17 07:00:05+00:00,,,,,
+6,forks,codehaus-plexus_plexus-utils,2017-01-12 04:53:02+00:00,,,,,
+7,forks,codehaus-plexus_plexus-utils,2017-01-22 09:42:57+00:00,,,,,
+8,forks,codehaus-plexus_plexus-utils,2017-01-29 22:11:46+00:00,,,,,
+9,forks,codehaus-plexus_plexus-utils,2017-06-27 02:25:45+00:00,,,,,
+10,forks,codehaus-plexus_plexus-utils,2017-07-19 11:41:37+00:00,,,,,
+11,forks,codehaus-plexus_plexus-utils,2018-04-08 19:29:21+00:00,,,,,
+12,forks,codehaus-plexus_plexus-utils,2018-07-11 11:50:40+00:00,,,,,
+13,forks,codehaus-plexus_plexus-utils,2018-11-29 23:24:57+00:00,,,,,
+14,forks,codehaus-plexus_plexus-utils,2019-01-31 20:13:32+00:00,,,,,
+15,forks,codehaus-plexus_plexus-utils,2019-02-04 17:50:57+00:00,,,,,
+16,forks,codehaus-plexus_plexus-utils,2019-04-26 13:55:36+00:00,,,,,
+17,forks,codehaus-plexus_plexus-utils,2019-05-08 17:19:09+00:00,,,,,
+18,forks,codehaus-plexus_plexus-utils,2019-07-03 19:39:44+00:00,,,,,
+19,forks,codehaus-plexus_plexus-utils,2019-11-25 16:54:57+00:00,,,,,
+20,forks,codehaus-plexus_plexus-utils,2019-12-19 17:45:54+00:00,,,,,
+21,forks,codehaus-plexus_plexus-utils,2020-01-12 06:47:54+00:00,,,,,
+22,forks,codehaus-plexus_plexus-utils,2020-07-28 21:20:56+00:00,,,,,
+23,forks,codehaus-plexus_plexus-utils,2020-08-27 06:28:37+00:00,,,,,
+24,forks,codehaus-plexus_plexus-utils,2020-12-21 10:26:20+00:00,,,,,
+25,forks,codehaus-plexus_plexus-utils,2021-01-03 23:11:46+00:00,,,,,
+26,forks,codehaus-plexus_plexus-utils,2021-01-07 11:00:50+00:00,,,,,
+27,forks,codehaus-plexus_plexus-utils,2021-04-12 17:03:16+00:00,,,,,
+28,forks,codehaus-plexus_plexus-utils,2021-09-15 17:24:40+00:00,,,,,
+29,forks,codehaus-plexus_plexus-utils,2022-01-20 07:09:21+00:00,,,,,
+30,forks,codehaus-plexus_plexus-utils,2022-02-24 11:29:28+00:00,,,,,
+31,forks,codehaus-plexus_plexus-utils,2022-03-30 17:24:11+00:00,,,,,
+32,forks,codehaus-plexus_plexus-utils,2022-06-30 18:14:25+00:00,,,,,
+0,issues,codehaus-plexus_plexus-utils,2015-02-11 08:28:51+00:00,,,,,
+1,issues,codehaus-plexus_plexus-utils,2015-09-21 09:41:02+00:00,,,,,
+2,issues,codehaus-plexus_plexus-utils,2015-09-21 09:53:21+00:00,,,,,
+3,issues,codehaus-plexus_plexus-utils,2015-10-05 09:01:48+00:00,,,,,
+4,issues,codehaus-plexus_plexus-utils,2015-11-20 14:30:50+00:00,,,,,
+5,issues,codehaus-plexus_plexus-utils,2016-01-21 21:14:14+00:00,,,,,
+6,issues,codehaus-plexus_plexus-utils,2016-03-07 08:51:26+00:00,,,,,
+7,issues,codehaus-plexus_plexus-utils,2016-05-10 16:47:48+00:00,,,,,
+8,issues,codehaus-plexus_plexus-utils,2016-05-13 12:08:35+00:00,,,,,
+9,issues,codehaus-plexus_plexus-utils,2016-06-08 23:56:25+00:00,,,,,
+10,issues,codehaus-plexus_plexus-utils,2016-11-13 16:51:23+00:00,,,,,
+11,issues,codehaus-plexus_plexus-utils,2017-02-19 12:49:45+00:00,,,,,
+12,issues,codehaus-plexus_plexus-utils,2017-02-23 13:52:08+00:00,,,,,
+13,issues,codehaus-plexus_plexus-utils,2017-06-19 21:44:51+00:00,,,,,
+14,issues,codehaus-plexus_plexus-utils,2017-06-20 21:14:15+00:00,,,,,
+15,issues,codehaus-plexus_plexus-utils,2017-06-24 23:38:46+00:00,,,,,
+16,issues,codehaus-plexus_plexus-utils,2017-10-13 22:11:23+00:00,,,,,
+17,issues,codehaus-plexus_plexus-utils,2018-01-22 19:51:09+00:00,,,,,
+18,issues,codehaus-plexus_plexus-utils,2018-03-10 22:21:14+00:00,,,,,
+19,issues,codehaus-plexus_plexus-utils,2018-03-11 01:04:43+00:00,,,,,
+20,issues,codehaus-plexus_plexus-utils,2018-04-02 19:31:01+00:00,,,,,
+21,issues,codehaus-plexus_plexus-utils,2018-04-02 20:08:33+00:00,,,,,
+22,issues,codehaus-plexus_plexus-utils,2018-04-08 19:57:02+00:00,,,,,
+23,issues,codehaus-plexus_plexus-utils,2018-07-11 11:36:01+00:00,,,,,
+24,issues,codehaus-plexus_plexus-utils,2018-10-10 16:49:10+00:00,,,,,
+25,issues,codehaus-plexus_plexus-utils,2018-11-19 11:22:45+00:00,,,,,
+26,issues,codehaus-plexus_plexus-utils,2018-11-21 09:44:21+00:00,,,,,
+27,issues,codehaus-plexus_plexus-utils,2018-11-30 20:19:12+00:00,,,,,
+28,issues,codehaus-plexus_plexus-utils,2019-01-24 23:34:09+00:00,,,,,
+29,issues,codehaus-plexus_plexus-utils,2019-01-31 15:33:17+00:00,,,,,
+30,issues,codehaus-plexus_plexus-utils,2019-02-21 11:45:29+00:00,,,,,
+31,issues,codehaus-plexus_plexus-utils,2019-03-26 16:30:23+00:00,,,,,
+32,issues,codehaus-plexus_plexus-utils,2019-05-08 17:09:58+00:00,,,,,
+33,issues,codehaus-plexus_plexus-utils,2019-07-22 23:55:35+00:00,,,,,
+34,issues,codehaus-plexus_plexus-utils,2019-08-25 17:47:23+00:00,,,,,
+35,issues,codehaus-plexus_plexus-utils,2019-09-10 13:43:51+00:00,,,,,
+36,issues,codehaus-plexus_plexus-utils,2019-12-03 19:08:45+00:00,,,,,
+37,issues,codehaus-plexus_plexus-utils,2019-12-03 23:33:31+00:00,,,,,
+38,issues,codehaus-plexus_plexus-utils,2019-12-18 18:38:26+00:00,,,,,
+39,issues,codehaus-plexus_plexus-utils,2020-02-03 09:46:24+00:00,,,,,
+40,issues,codehaus-plexus_plexus-utils,2020-03-28 04:19:20+00:00,,,,,
+41,issues,codehaus-plexus_plexus-utils,2020-03-29 15:14:15+00:00,,,,,
+42,issues,codehaus-plexus_plexus-utils,2020-04-12 11:03:21+00:00,,,,,
+43,issues,codehaus-plexus_plexus-utils,2020-12-23 13:45:24+00:00,,,,,
+44,issues,codehaus-plexus_plexus-utils,2020-12-28 19:21:55+00:00,,,,,
+45,issues,codehaus-plexus_plexus-utils,2021-01-13 11:14:22+00:00,,,,,
+46,issues,codehaus-plexus_plexus-utils,2021-01-21 20:17:42+00:00,,,,,
+47,issues,codehaus-plexus_plexus-utils,2021-01-22 00:41:55+00:00,,,,,
+48,issues,codehaus-plexus_plexus-utils,2021-01-22 02:46:15+00:00,,,,,
+49,issues,codehaus-plexus_plexus-utils,2021-01-23 20:47:36+00:00,,,,,
+50,issues,codehaus-plexus_plexus-utils,2021-01-25 22:03:42+00:00,,,,,
+51,issues,codehaus-plexus_plexus-utils,2021-01-31 01:16:31+00:00,,,,,
+52,issues,codehaus-plexus_plexus-utils,2021-01-31 23:27:14+00:00,,,,,
+53,issues,codehaus-plexus_plexus-utils,2021-08-09 11:02:04+00:00,,,,,
+54,issues,codehaus-plexus_plexus-utils,2019-05-11 12:49:07+00:00,,,,,
+55,issues,codehaus-plexus_plexus-utils,2022-01-20 07:03:06+00:00,,,,,
+56,issues,codehaus-plexus_plexus-utils,2022-03-30 16:43:52+00:00,,,,,
+57,issues,codehaus-plexus_plexus-utils,2022-04-01 02:34:52+00:00,,,,,
+58,issues,codehaus-plexus_plexus-utils,2022-04-05 22:46:38+00:00,,,,,
+59,issues,codehaus-plexus_plexus-utils,2022-06-09 15:32:18+00:00,,,,,
+0,pullRequests,codehaus-plexus_plexus-utils,2015-03-31 12:32:37+00:00,,,,,
+1,pullRequests,codehaus-plexus_plexus-utils,2016-05-03 23:22:06+00:00,,,,,
+2,pullRequests,codehaus-plexus_plexus-utils,2016-05-24 22:06:09+00:00,,,,,
+3,pullRequests,codehaus-plexus_plexus-utils,2016-05-27 23:08:09+00:00,,,,,
+4,pullRequests,codehaus-plexus_plexus-utils,2016-11-12 17:33:41+00:00,,,,,
+5,pullRequests,codehaus-plexus_plexus-utils,2016-11-13 15:45:03+00:00,,,,,
+6,pullRequests,codehaus-plexus_plexus-utils,2017-01-29 22:31:01+00:00,,,,,
+7,pullRequests,codehaus-plexus_plexus-utils,2017-01-29 22:31:17+00:00,,,,,
+8,pullRequests,codehaus-plexus_plexus-utils,2017-02-07 16:44:10+00:00,,,,,
+9,pullRequests,codehaus-plexus_plexus-utils,2017-04-02 15:56:49+00:00,,,,,
+10,pullRequests,codehaus-plexus_plexus-utils,2017-06-20 12:05:14+00:00,,,,,
+11,pullRequests,codehaus-plexus_plexus-utils,2017-06-24 16:31:22+00:00,,,,,
+12,pullRequests,codehaus-plexus_plexus-utils,2017-06-25 17:27:19+00:00,,,,,
+13,pullRequests,codehaus-plexus_plexus-utils,2017-06-29 22:14:54+00:00,,,,,
+14,pullRequests,codehaus-plexus_plexus-utils,2017-07-02 13:40:20+00:00,,,,,
+15,pullRequests,codehaus-plexus_plexus-utils,2018-04-08 20:02:28+00:00,,,,,
+16,pullRequests,codehaus-plexus_plexus-utils,2018-04-25 16:10:54+00:00,,,,,
+17,pullRequests,codehaus-plexus_plexus-utils,2018-05-22 18:38:42+00:00,,,,,
+18,pullRequests,codehaus-plexus_plexus-utils,2018-05-23 08:44:48+00:00,,,,,
+19,pullRequests,codehaus-plexus_plexus-utils,2018-05-23 08:58:42+00:00,,,,,
+20,pullRequests,codehaus-plexus_plexus-utils,2018-05-23 19:04:45+00:00,,,,,
+21,pullRequests,codehaus-plexus_plexus-utils,2018-07-11 11:55:03+00:00,,,,,
+22,pullRequests,codehaus-plexus_plexus-utils,2018-11-30 19:02:00+00:00,,,,,
+23,pullRequests,codehaus-plexus_plexus-utils,2018-11-30 21:40:57+00:00,,,,,
+24,pullRequests,codehaus-plexus_plexus-utils,2018-12-04 14:39:37+00:00,,,,,
+25,pullRequests,codehaus-plexus_plexus-utils,2018-12-05 01:44:28+00:00,,,,,
+26,pullRequests,codehaus-plexus_plexus-utils,2018-12-21 12:14:12+00:00,,,,,
+27,pullRequests,codehaus-plexus_plexus-utils,2018-12-21 13:09:57+00:00,,,,,
+28,pullRequests,codehaus-plexus_plexus-utils,2019-01-25 22:45:39+00:00,,,,,
+29,pullRequests,codehaus-plexus_plexus-utils,2019-02-04 18:02:04+00:00,,,,,
+30,pullRequests,codehaus-plexus_plexus-utils,2019-02-24 18:00:13+00:00,,,,,
+31,pullRequests,codehaus-plexus_plexus-utils,2019-03-27 02:38:20+00:00,,,,,
+32,pullRequests,codehaus-plexus_plexus-utils,2019-05-08 17:20:31+00:00,,,,,
+33,pullRequests,codehaus-plexus_plexus-utils,2019-07-03 19:49:06+00:00,,,,,
+34,pullRequests,codehaus-plexus_plexus-utils,2019-07-16 06:33:59+00:00,,,,,
+35,pullRequests,codehaus-plexus_plexus-utils,2019-11-25 17:05:55+00:00,,,,,
+36,pullRequests,codehaus-plexus_plexus-utils,2019-12-06 02:51:35+00:00,,,,,
+37,pullRequests,codehaus-plexus_plexus-utils,2019-12-07 19:11:05+00:00,,,,,
+38,pullRequests,codehaus-plexus_plexus-utils,2020-07-28 22:05:17+00:00,,,,,
+39,pullRequests,codehaus-plexus_plexus-utils,2020-08-14 06:05:54+00:00,,,,,
+40,pullRequests,codehaus-plexus_plexus-utils,2020-08-14 06:06:33+00:00,,,,,
+41,pullRequests,codehaus-plexus_plexus-utils,2020-08-14 06:06:35+00:00,,,,,
+42,pullRequests,codehaus-plexus_plexus-utils,2020-08-14 06:06:36+00:00,,,,,
+43,pullRequests,codehaus-plexus_plexus-utils,2020-08-14 06:06:37+00:00,,,,,
+44,pullRequests,codehaus-plexus_plexus-utils,2020-08-14 08:12:03+00:00,,,,,
+45,pullRequests,codehaus-plexus_plexus-utils,2020-08-15 11:47:40+00:00,,,,,
+46,pullRequests,codehaus-plexus_plexus-utils,2020-08-16 08:56:53+00:00,,,,,
+47,pullRequests,codehaus-plexus_plexus-utils,2020-08-16 15:39:14+00:00,,,,,
+48,pullRequests,codehaus-plexus_plexus-utils,2020-08-17 06:03:43+00:00,,,,,
+49,pullRequests,codehaus-plexus_plexus-utils,2020-08-20 06:06:05+00:00,,,,,
+50,pullRequests,codehaus-plexus_plexus-utils,2020-08-26 11:13:31+00:00,,,,,
+51,pullRequests,codehaus-plexus_plexus-utils,2020-08-27 06:26:51+00:00,,,,,
+52,pullRequests,codehaus-plexus_plexus-utils,2020-08-27 06:26:56+00:00,,,,,
+53,pullRequests,codehaus-plexus_plexus-utils,2020-08-27 07:35:17+00:00,,,,,
+54,pullRequests,codehaus-plexus_plexus-utils,2020-09-03 05:56:36+00:00,,,,,
+55,pullRequests,codehaus-plexus_plexus-utils,2020-09-03 05:56:36+00:00,,,,,
+56,pullRequests,codehaus-plexus_plexus-utils,2020-10-12 06:39:52+00:00,,,,,
+57,pullRequests,codehaus-plexus_plexus-utils,2020-10-12 06:39:55+00:00,,,,,
+58,pullRequests,codehaus-plexus_plexus-utils,2020-10-12 06:39:56+00:00,,,,,
+59,pullRequests,codehaus-plexus_plexus-utils,2020-10-20 05:27:22+00:00,,,,,
+60,pullRequests,codehaus-plexus_plexus-utils,2020-10-21 05:52:17+00:00,,,,,
+61,pullRequests,codehaus-plexus_plexus-utils,2020-11-09 06:58:30+00:00,,,,,
+62,pullRequests,codehaus-plexus_plexus-utils,2020-11-18 15:35:50+00:00,,,,,
+63,pullRequests,codehaus-plexus_plexus-utils,2020-12-10 06:04:02+00:00,,,,,
+64,pullRequests,codehaus-plexus_plexus-utils,2020-12-10 06:04:03+00:00,,,,,
+65,pullRequests,codehaus-plexus_plexus-utils,2020-12-21 11:28:25+00:00,,,,,
+66,pullRequests,codehaus-plexus_plexus-utils,2020-12-21 11:29:35+00:00,,,,,
+67,pullRequests,codehaus-plexus_plexus-utils,2020-12-21 16:31:59+00:00,,,,,
+68,pullRequests,codehaus-plexus_plexus-utils,2020-12-21 16:32:42+00:00,,,,,
+69,pullRequests,codehaus-plexus_plexus-utils,2020-12-21 16:33:43+00:00,,,,,
+70,pullRequests,codehaus-plexus_plexus-utils,2020-12-23 06:03:19+00:00,,,,,
+71,pullRequests,codehaus-plexus_plexus-utils,2020-12-23 09:04:10+00:00,,,,,
+72,pullRequests,codehaus-plexus_plexus-utils,2020-12-28 07:01:03+00:00,,,,,
+73,pullRequests,codehaus-plexus_plexus-utils,2020-12-29 02:57:10+00:00,,,,,
+74,pullRequests,codehaus-plexus_plexus-utils,2021-01-01 15:35:09+00:00,,,,,
+75,pullRequests,codehaus-plexus_plexus-utils,2021-01-03 23:35:42+00:00,,,,,
+76,pullRequests,codehaus-plexus_plexus-utils,2021-01-03 23:43:42+00:00,,,,,
+77,pullRequests,codehaus-plexus_plexus-utils,2021-01-04 13:43:36+00:00,,,,,
+78,pullRequests,codehaus-plexus_plexus-utils,2021-01-04 23:40:31+00:00,,,,,
+79,pullRequests,codehaus-plexus_plexus-utils,2021-01-21 20:29:07+00:00,,,,,
+80,pullRequests,codehaus-plexus_plexus-utils,2021-01-22 00:45:18+00:00,,,,,
+81,pullRequests,codehaus-plexus_plexus-utils,2021-01-22 02:49:39+00:00,,,,,
+82,pullRequests,codehaus-plexus_plexus-utils,2021-01-23 20:51:30+00:00,,,,,
+83,pullRequests,codehaus-plexus_plexus-utils,2021-01-25 22:12:44+00:00,,,,,
+84,pullRequests,codehaus-plexus_plexus-utils,2021-01-31 01:20:38+00:00,,,,,
+85,pullRequests,codehaus-plexus_plexus-utils,2021-01-31 23:30:40+00:00,,,,,
+86,pullRequests,codehaus-plexus_plexus-utils,2021-02-05 05:42:23+00:00,,,,,
+87,pullRequests,codehaus-plexus_plexus-utils,2021-02-15 06:22:23+00:00,,,,,
+88,pullRequests,codehaus-plexus_plexus-utils,2021-03-02 05:24:39+00:00,,,,,
+89,pullRequests,codehaus-plexus_plexus-utils,2021-03-02 05:24:39+00:00,,,,,
+90,pullRequests,codehaus-plexus_plexus-utils,2021-03-17 05:41:11+00:00,,,,,
+91,pullRequests,codehaus-plexus_plexus-utils,2021-03-25 05:33:30+00:00,,,,,
+92,pullRequests,codehaus-plexus_plexus-utils,2021-03-25 05:33:32+00:00,,,,,
+93,pullRequests,codehaus-plexus_plexus-utils,2021-04-03 08:49:34+00:00,,,,,
+94,pullRequests,codehaus-plexus_plexus-utils,2021-04-05 15:03:52+00:00,,,,,
+95,pullRequests,codehaus-plexus_plexus-utils,2021-04-06 05:38:48+00:00,,,,,
+96,pullRequests,codehaus-plexus_plexus-utils,2021-04-13 05:40:34+00:00,,,,,
+97,pullRequests,codehaus-plexus_plexus-utils,2021-05-06 05:30:12+00:00,,,,,
+98,pullRequests,codehaus-plexus_plexus-utils,2021-05-06 05:30:14+00:00,,,,,
+99,pullRequests,codehaus-plexus_plexus-utils,2021-05-12 05:07:08+00:00,,,,,
+100,pullRequests,codehaus-plexus_plexus-utils,2021-05-12 05:07:10+00:00,,,,,
+101,pullRequests,codehaus-plexus_plexus-utils,2021-05-13 05:36:55+00:00,,,,,
+102,pullRequests,codehaus-plexus_plexus-utils,2021-05-13 05:36:57+00:00,,,,,
+103,pullRequests,codehaus-plexus_plexus-utils,2021-05-18 05:33:49+00:00,,,,,
+104,pullRequests,codehaus-plexus_plexus-utils,2021-05-24 06:03:10+00:00,,,,,
+105,pullRequests,codehaus-plexus_plexus-utils,2021-05-27 05:33:03+00:00,,,,,
+106,pullRequests,codehaus-plexus_plexus-utils,2021-05-27 05:33:06+00:00,,,,,
+107,pullRequests,codehaus-plexus_plexus-utils,2021-05-28 05:17:55+00:00,,,,,
+108,pullRequests,codehaus-plexus_plexus-utils,2021-07-30 02:02:09+00:00,,,,,
+109,pullRequests,codehaus-plexus_plexus-utils,2021-08-09 20:31:27+00:00,,,,,
+110,pullRequests,codehaus-plexus_plexus-utils,2021-08-10 02:01:57+00:00,,,,,
+111,pullRequests,codehaus-plexus_plexus-utils,2021-08-10 02:01:58+00:00,,,,,
+112,pullRequests,codehaus-plexus_plexus-utils,2021-08-10 02:01:59+00:00,,,,,
+113,pullRequests,codehaus-plexus_plexus-utils,2021-08-24 02:02:13+00:00,,,,,
+114,pullRequests,codehaus-plexus_plexus-utils,2021-09-30 02:02:10+00:00,,,,,
+115,pullRequests,codehaus-plexus_plexus-utils,2021-10-15 03:27:25+00:00,,,,,
+116,pullRequests,codehaus-plexus_plexus-utils,2021-10-18 02:02:25+00:00,,,,,
+117,pullRequests,codehaus-plexus_plexus-utils,2021-11-03 02:02:35+00:00,,,,,
+118,pullRequests,codehaus-plexus_plexus-utils,2021-11-07 16:54:10+00:00,,,,,
+119,pullRequests,codehaus-plexus_plexus-utils,2021-12-24 02:02:55+00:00,,,,,
+120,pullRequests,codehaus-plexus_plexus-utils,2021-12-24 02:02:57+00:00,,,,,
+121,pullRequests,codehaus-plexus_plexus-utils,2022-01-14 02:04:13+00:00,,,,,
+122,pullRequests,codehaus-plexus_plexus-utils,2022-01-17 02:02:55+00:00,,,,,
+123,pullRequests,codehaus-plexus_plexus-utils,2022-01-20 02:02:28+00:00,,,,,
+124,pullRequests,codehaus-plexus_plexus-utils,2022-01-20 07:13:36+00:00,,,,,
+125,pullRequests,codehaus-plexus_plexus-utils,2022-02-04 02:01:59+00:00,,,,,
+126,pullRequests,codehaus-plexus_plexus-utils,2022-02-07 02:02:57+00:00,,,,,
+127,pullRequests,codehaus-plexus_plexus-utils,2022-02-21 10:58:50+00:00,,,,,
+128,pullRequests,codehaus-plexus_plexus-utils,2022-02-22 10:08:06+00:00,,,,,
+129,pullRequests,codehaus-plexus_plexus-utils,2022-02-24 11:36:29+00:00,,,,,
+130,pullRequests,codehaus-plexus_plexus-utils,2022-03-02 02:03:50+00:00,,,,,
+131,pullRequests,codehaus-plexus_plexus-utils,2022-03-08 02:02:39+00:00,,,,,
+132,pullRequests,codehaus-plexus_plexus-utils,2022-03-29 02:02:36+00:00,,,,,
+133,pullRequests,codehaus-plexus_plexus-utils,2022-03-29 02:02:39+00:00,,,,,
+134,pullRequests,codehaus-plexus_plexus-utils,2022-03-30 18:22:31+00:00,,,,,
+135,pullRequests,codehaus-plexus_plexus-utils,2022-04-05 23:21:46+00:00,,,,,
+136,pullRequests,codehaus-plexus_plexus-utils,2022-04-11 02:03:12+00:00,,,,,
+137,pullRequests,codehaus-plexus_plexus-utils,2022-04-15 02:03:30+00:00,,,,,
+138,pullRequests,codehaus-plexus_plexus-utils,2022-04-17 08:21:23+00:00,,,,,
+139,pullRequests,codehaus-plexus_plexus-utils,2022-04-22 02:02:32+00:00,,,,,
+140,pullRequests,codehaus-plexus_plexus-utils,2022-04-23 17:44:22+00:00,,,,,
+141,pullRequests,codehaus-plexus_plexus-utils,2022-04-23 20:38:10+00:00,,,,,
+142,pullRequests,codehaus-plexus_plexus-utils,2022-04-26 02:03:21+00:00,,,,,
+143,pullRequests,codehaus-plexus_plexus-utils,2022-04-26 15:08:44+00:00,,,,,
+144,pullRequests,codehaus-plexus_plexus-utils,2022-05-12 00:45:44+00:00,,,,,
+145,pullRequests,codehaus-plexus_plexus-utils,2022-05-12 02:03:01+00:00,,,,,
+146,pullRequests,codehaus-plexus_plexus-utils,2022-06-10 02:03:18+00:00,,,,,
+147,pullRequests,codehaus-plexus_plexus-utils,2022-06-30 19:48:08+00:00,,,,,
+0,releases,codehaus-plexus_plexus-utils,2021-07-29 18:03:32+00:00,,,,,
+1,releases,codehaus-plexus_plexus-utils,2021-08-27 00:07:19+00:00,,,,,
+2,releases,codehaus-plexus_plexus-utils,2022-05-17 20:32:00+00:00,,,,,
+0,stargazers,codehaus-plexus_plexus-utils,2015-03-29 20:39:33+00:00,,,,,
+1,stargazers,codehaus-plexus_plexus-utils,2015-04-19 15:01:20+00:00,,,,,
+2,stargazers,codehaus-plexus_plexus-utils,2015-05-12 08:41:50+00:00,,,,,
+3,stargazers,codehaus-plexus_plexus-utils,2015-11-24 08:27:01+00:00,,,,,
+4,stargazers,codehaus-plexus_plexus-utils,2015-11-28 06:18:27+00:00,,,,,
+5,stargazers,codehaus-plexus_plexus-utils,2016-07-06 21:13:47+00:00,,,,,
+6,stargazers,codehaus-plexus_plexus-utils,2016-07-11 14:08:37+00:00,,,,,
+7,stargazers,codehaus-plexus_plexus-utils,2017-01-22 09:48:56+00:00,,,,,
+8,stargazers,codehaus-plexus_plexus-utils,2017-05-30 19:15:00+00:00,,,,,
+9,stargazers,codehaus-plexus_plexus-utils,2017-06-27 02:25:31+00:00,,,,,
+10,stargazers,codehaus-plexus_plexus-utils,2017-09-26 09:43:37+00:00,,,,,
+11,stargazers,codehaus-plexus_plexus-utils,2017-10-11 20:31:05+00:00,,,,,
+12,stargazers,codehaus-plexus_plexus-utils,2018-02-12 04:04:49+00:00,,,,,
+13,stargazers,codehaus-plexus_plexus-utils,2018-03-28 21:08:19+00:00,,,,,
+14,stargazers,codehaus-plexus_plexus-utils,2018-12-29 07:43:57+00:00,,,,,
+15,stargazers,codehaus-plexus_plexus-utils,2019-08-07 03:20:06+00:00,,,,,
+16,stargazers,codehaus-plexus_plexus-utils,2020-02-05 07:28:45+00:00,,,,,
+17,stargazers,codehaus-plexus_plexus-utils,2020-03-27 12:24:55+00:00,,,,,
+18,stargazers,codehaus-plexus_plexus-utils,2020-05-17 07:05:29+00:00,,,,,
+19,stargazers,codehaus-plexus_plexus-utils,2020-05-29 18:24:59+00:00,,,,,
+20,stargazers,codehaus-plexus_plexus-utils,2021-08-22 13:42:32+00:00,,,,,
+21,stargazers,codehaus-plexus_plexus-utils,2021-11-26 07:26:10+00:00,,,,,
+22,stargazers,codehaus-plexus_plexus-utils,2022-04-06 17:39:39+00:00,,,,,

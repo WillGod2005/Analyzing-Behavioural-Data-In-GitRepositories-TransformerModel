@@ -1,0 +1,551 @@
+,type,name,created_at,Hash,Add,Del,Files,Vuln
+9386,PublicEvent,cyberark_conjur-oss-helm-chart,2018-07-24 22:09:55 UTC,,,,,
+11254,ReleaseEvent,cyberark_conjur-oss-helm-chart,2018-08-01 20:40:47 UTC,,,,,
+14469,ReleaseEvent,cyberark_conjur-oss-helm-chart,2018-08-01 17:26:29 UTC,,,,,
+33614,ReleaseEvent,cyberark_conjur-oss-helm-chart,2018-07-25 16:48:10 UTC,,,,,
+35986,ReleaseEvent,cyberark_conjur-oss-helm-chart,2018-08-01 17:16:59 UTC,,,,,
+321712,PushEvent,cyberark_conjur-oss-helm-chart,2019-01-04 22:48:28 UTC,,,,,
+341161,PushEvent,cyberark_conjur-oss-helm-chart,2018-07-25 16:56:32 UTC,,,,,
+361748,PushEvent,cyberark_conjur-oss-helm-chart,2018-07-27 17:08:49 UTC,,,,,
+363757,PushEvent,cyberark_conjur-oss-helm-chart,2018-07-24 22:20:53 UTC,,,,,
+377187,PushEvent,cyberark_conjur-oss-helm-chart,2019-01-04 21:58:38 UTC,,,,,
+387711,PushEvent,cyberark_conjur-oss-helm-chart,2018-07-27 16:56:41 UTC,,,,,
+392624,PushEvent,cyberark_conjur-oss-helm-chart,2018-07-27 17:04:25 UTC,,,,,
+406838,PushEvent,cyberark_conjur-oss-helm-chart,2018-07-27 21:39:20 UTC,,,,,
+425215,PushEvent,cyberark_conjur-oss-helm-chart,2018-07-24 22:33:08 UTC,,,,,
+425328,PushEvent,cyberark_conjur-oss-helm-chart,2018-08-01 20:28:08 UTC,,,,,
+472451,PushEvent,cyberark_conjur-oss-helm-chart,2018-07-25 16:59:42 UTC,,,,,
+474785,PushEvent,cyberark_conjur-oss-helm-chart,2019-01-04 19:39:28 UTC,,,,,
+481051,PushEvent,cyberark_conjur-oss-helm-chart,2018-08-01 17:14:36 UTC,,,,,
+533858,PushEvent,cyberark_conjur-oss-helm-chart,2018-07-27 17:00:16 UTC,,,,,
+537722,PushEvent,cyberark_conjur-oss-helm-chart,2018-07-31 16:08:54 UTC,,,,,
+602995,PushEvent,cyberark_conjur-oss-helm-chart,2018-07-27 21:08:50 UTC,,,,,
+606853,PushEvent,cyberark_conjur-oss-helm-chart,2018-07-27 16:42:10 UTC,,,,,
+610629,PushEvent,cyberark_conjur-oss-helm-chart,2018-12-04 17:14:01 UTC,,,,,
+616682,PushEvent,cyberark_conjur-oss-helm-chart,2018-07-27 17:02:10 UTC,,,,,
+620019,PushEvent,cyberark_conjur-oss-helm-chart,2018-07-27 17:11:14 UTC,,,,,
+627342,PushEvent,cyberark_conjur-oss-helm-chart,2019-01-04 20:49:03 UTC,,,,,
+631235,PushEvent,cyberark_conjur-oss-helm-chart,2019-01-04 22:52:37 UTC,,,,,
+701098,PushEvent,cyberark_conjur-oss-helm-chart,2018-07-27 21:31:39 UTC,,,,,
+705534,PushEvent,cyberark_conjur-oss-helm-chart,2018-07-25 17:03:46 UTC,,,,,
+706689,PushEvent,cyberark_conjur-oss-helm-chart,2019-01-04 21:45:31 UTC,,,,,
+731204,PushEvent,cyberark_conjur-oss-helm-chart,2019-01-04 20:08:52 UTC,,,,,
+731886,PushEvent,cyberark_conjur-oss-helm-chart,2018-07-24 22:37:26 UTC,,,,,
+745656,PushEvent,cyberark_conjur-oss-helm-chart,2018-07-27 21:11:18 UTC,,,,,
+752164,PushEvent,cyberark_conjur-oss-helm-chart,2018-12-03 16:45:19 UTC,,,,,
+759993,PushEvent,cyberark_conjur-oss-helm-chart,2018-07-24 22:40:12 UTC,,,,,
+773620,PushEvent,cyberark_conjur-oss-helm-chart,2019-01-04 20:07:16 UTC,,,,,
+790196,PushEvent,cyberark_conjur-oss-helm-chart,2018-07-31 16:19:08 UTC,,,,,
+791092,PushEvent,cyberark_conjur-oss-helm-chart,2018-07-24 22:18:09 UTC,,,,,
+808929,PushEvent,cyberark_conjur-oss-helm-chart,2018-12-03 17:05:37 UTC,,,,,
+809978,PushEvent,cyberark_conjur-oss-helm-chart,2018-07-27 20:37:07 UTC,,,,,
+817532,PushEvent,cyberark_conjur-oss-helm-chart,2018-12-05 22:14:40 UTC,,,,,
+817956,PushEvent,cyberark_conjur-oss-helm-chart,2019-01-04 22:01:07 UTC,,,,,
+833972,PushEvent,cyberark_conjur-oss-helm-chart,2018-07-25 17:23:56 UTC,,,,,
+837791,PushEvent,cyberark_conjur-oss-helm-chart,2018-07-24 22:44:34 UTC,,,,,
+842533,PushEvent,cyberark_conjur-oss-helm-chart,2018-07-27 20:49:35 UTC,,,,,
+872596,PushEvent,cyberark_conjur-oss-helm-chart,2018-07-31 16:49:03 UTC,,,,,
+874632,PushEvent,cyberark_conjur-oss-helm-chart,2018-07-24 22:22:27 UTC,,,,,
+887116,PushEvent,cyberark_conjur-oss-helm-chart,2018-07-27 21:19:54 UTC,,,,,
+897800,PushEvent,cyberark_conjur-oss-helm-chart,2018-12-03 16:34:38 UTC,,,,,
+916063,PushEvent,cyberark_conjur-oss-helm-chart,2018-07-24 22:36:04 UTC,,,,,
+933963,PushEvent,cyberark_conjur-oss-helm-chart,2019-01-04 22:12:05 UTC,,,,,
+950383,WatchEvent,cyberark_conjur-oss-helm-chart,2018-08-02 12:34:52 UTC,,,,,
+1015134,WatchEvent,cyberark_conjur-oss-helm-chart,2018-12-25 08:33:05 UTC,,,,,
+1086651,WatchEvent,cyberark_conjur-oss-helm-chart,2018-09-06 13:02:28 UTC,,,,,
+1229141,WatchEvent,cyberark_conjur-oss-helm-chart,2018-12-05 09:16:29 UTC,,,,,
+1715281,WatchEvent,cyberark_conjur-oss-helm-chart,2018-08-31 15:27:13 UTC,,,,,
+1775154,WatchEvent,cyberark_conjur-oss-helm-chart,2018-08-01 14:09:41 UTC,,,,,
+1898212,CreateEvent,cyberark_conjur-oss-helm-chart,2018-07-31 16:01:30 UTC,,,,,
+1900613,CreateEvent,cyberark_conjur-oss-helm-chart,2018-12-03 16:01:54 UTC,,,,,
+1917384,CreateEvent,cyberark_conjur-oss-helm-chart,2018-07-27 15:02:52 UTC,,,,,
+1917400,CreateEvent,cyberark_conjur-oss-helm-chart,2018-12-04 17:17:15 UTC,,,,,
+1925709,CreateEvent,cyberark_conjur-oss-helm-chart,2018-07-31 16:14:46 UTC,,,,,
+1931330,CreateEvent,cyberark_conjur-oss-helm-chart,2018-07-25 16:47:40 UTC,,,,,
+1939515,CreateEvent,cyberark_conjur-oss-helm-chart,2018-12-05 20:34:18 UTC,,,,,
+1940632,CreateEvent,cyberark_conjur-oss-helm-chart,2018-08-01 20:02:38 UTC,,,,,
+1941732,CreateEvent,cyberark_conjur-oss-helm-chart,2018-08-01 17:25:57 UTC,,,,,
+1943843,CreateEvent,cyberark_conjur-oss-helm-chart,2018-08-01 17:14:39 UTC,,,,,
+1969840,CreateEvent,cyberark_conjur-oss-helm-chart,2018-08-01 20:28:11 UTC,,,,,
+2002959,DeleteEvent,cyberark_conjur-oss-helm-chart,2018-07-31 16:49:05 UTC,,,,,
+2006076,DeleteEvent,cyberark_conjur-oss-helm-chart,2018-07-31 16:08:57 UTC,,,,,
+2021270,DeleteEvent,cyberark_conjur-oss-helm-chart,2018-07-27 21:39:22 UTC,,,,,
+2024168,DeleteEvent,cyberark_conjur-oss-helm-chart,2018-12-04 17:14:03 UTC,,,,,
+2042620,IssuesEvent,cyberark_conjur-oss-helm-chart,2018-08-01 17:57:21 UTC,,,,,
+2048175,IssuesEvent,cyberark_conjur-oss-helm-chart,2018-07-29 21:05:19 UTC,,,,,
+2086511,IssuesEvent,cyberark_conjur-oss-helm-chart,2018-07-31 16:49:02 UTC,,,,,
+2160172,IssuesEvent,cyberark_conjur-oss-helm-chart,2018-07-26 20:55:55 UTC,,,,,
+2181944,IssuesEvent,cyberark_conjur-oss-helm-chart,2018-07-27 21:39:19 UTC,,,,,
+2206688,IssuesEvent,cyberark_conjur-oss-helm-chart,2018-11-29 13:54:12 UTC,,,,,
+2220929,IssuesEvent,cyberark_conjur-oss-helm-chart,2018-07-26 20:48:43 UTC,,,,,
+2260016,IssuesEvent,cyberark_conjur-oss-helm-chart,2018-09-18 16:28:45 UTC,,,,,
+2267966,IssuesEvent,cyberark_conjur-oss-helm-chart,2018-11-30 20:57:10 UTC,,,,,
+2384289,IssuesEvent,cyberark_conjur-oss-helm-chart,2018-11-29 14:44:41 UTC,,,,,
+2413446,IssuesEvent,cyberark_conjur-oss-helm-chart,2018-12-09 10:44:04 UTC,,,,,
+2492674,PullRequestEvent,cyberark_conjur-oss-helm-chart,2018-07-31 16:15:37 UTC,,,,,
+2586921,PullRequestEvent,cyberark_conjur-oss-helm-chart,2018-12-03 16:52:37 UTC,,,,,
+2645839,PullRequestEvent,cyberark_conjur-oss-helm-chart,2018-07-27 16:44:08 UTC,,,,,
+2691175,PullRequestEvent,cyberark_conjur-oss-helm-chart,2018-07-27 21:39:19 UTC,,,,,
+2760696,PullRequestEvent,cyberark_conjur-oss-helm-chart,2018-07-31 16:49:02 UTC,,,,,
+2777739,PullRequestEvent,cyberark_conjur-oss-helm-chart,2018-08-01 20:05:10 UTC,,,,,
+2781275,PullRequestEvent,cyberark_conjur-oss-helm-chart,2018-07-31 16:08:54 UTC,,,,,
+2810872,PullRequestEvent,cyberark_conjur-oss-helm-chart,2018-07-31 16:03:09 UTC,,,,,
+2821831,PullRequestEvent,cyberark_conjur-oss-helm-chart,2018-12-04 17:14:00 UTC,,,,,
+3138650,IssueCommentEvent,cyberark_conjur-oss-helm-chart,2019-01-03 19:55:08 UTC,,,,,
+3207099,IssueCommentEvent,cyberark_conjur-oss-helm-chart,2018-07-27 21:39:16 UTC,,,,,
+3577314,IssueCommentEvent,cyberark_conjur-oss-helm-chart,2018-12-03 16:53:47 UTC,,,,,
+3732371,IssueCommentEvent,cyberark_conjur-oss-helm-chart,2018-08-01 14:08:42 UTC,,,,,
+4065187,IssueCommentEvent,cyberark_conjur-oss-helm-chart,2018-12-03 21:14:37 UTC,,,,,
+4132837,IssueCommentEvent,cyberark_conjur-oss-helm-chart,2018-12-03 20:56:39 UTC,,,,,
+4436030,IssueCommentEvent,cyberark_conjur-oss-helm-chart,2018-12-04 21:20:47 UTC,,,,,
+4632011,PullRequestReviewCommentEvent,cyberark_conjur-oss-helm-chart,2018-07-27 21:03:09 UTC,,,,,
+4637907,PullRequestReviewCommentEvent,cyberark_conjur-oss-helm-chart,2018-07-27 21:00:56 UTC,,,,,
+4727028,PullRequestReviewCommentEvent,cyberark_conjur-oss-helm-chart,2018-12-03 21:39:31 UTC,,,,,
+4902469,PullRequestReviewCommentEvent,cyberark_conjur-oss-helm-chart,2018-07-27 21:03:45 UTC,,,,,
+4915942,PullRequestReviewCommentEvent,cyberark_conjur-oss-helm-chart,2018-07-27 21:02:02 UTC,,,,,
+1473,MemberEvent,cyberark_conjur-oss-helm-chart,2019-06-17 16:24:04 UTC,,,,,
+8381,ReleaseEvent,cyberark_conjur-oss-helm-chart,2019-12-20 21:03:23 UTC,,,,,
+10456,ReleaseEvent,cyberark_conjur-oss-helm-chart,2019-02-01 15:51:38 UTC,,,,,
+78606,ForkEvent,cyberark_conjur-oss-helm-chart,2019-12-18 19:29:54 UTC,,,,,
+80616,ForkEvent,cyberark_conjur-oss-helm-chart,2019-03-05 14:50:47 UTC,,,,,
+149656,ForkEvent,cyberark_conjur-oss-helm-chart,2019-12-23 20:07:35 UTC,,,,,
+187881,ForkEvent,cyberark_conjur-oss-helm-chart,2019-12-18 19:26:11 UTC,,,,,
+367308,PushEvent,cyberark_conjur-oss-helm-chart,2019-03-20 16:28:40 UTC,,,,,
+381091,PushEvent,cyberark_conjur-oss-helm-chart,2019-12-23 15:54:12 UTC,,,,,
+389447,PushEvent,cyberark_conjur-oss-helm-chart,2019-03-26 19:50:46 UTC,,,,,
+414294,PushEvent,cyberark_conjur-oss-helm-chart,2019-09-18 20:40:28 UTC,,,,,
+425063,PushEvent,cyberark_conjur-oss-helm-chart,2019-03-25 20:42:10 UTC,,,,,
+442229,PushEvent,cyberark_conjur-oss-helm-chart,2019-03-19 16:18:53 UTC,,,,,
+489139,PushEvent,cyberark_conjur-oss-helm-chart,2019-03-20 16:40:01 UTC,,,,,
+505286,PushEvent,cyberark_conjur-oss-helm-chart,2019-03-21 19:12:12 UTC,,,,,
+520708,PushEvent,cyberark_conjur-oss-helm-chart,2019-12-20 16:42:01 UTC,,,,,
+524501,PushEvent,cyberark_conjur-oss-helm-chart,2019-03-20 20:33:49 UTC,,,,,
+568844,PushEvent,cyberark_conjur-oss-helm-chart,2019-04-08 19:40:04 UTC,,,,,
+570825,PushEvent,cyberark_conjur-oss-helm-chart,2019-03-21 20:26:05 UTC,,,,,
+629075,PushEvent,cyberark_conjur-oss-helm-chart,2019-12-23 17:33:15 UTC,,,,,
+633472,PushEvent,cyberark_conjur-oss-helm-chart,2019-03-20 21:19:05 UTC,,,,,
+644036,PushEvent,cyberark_conjur-oss-helm-chart,2019-03-21 16:44:12 UTC,,,,,
+666912,PushEvent,cyberark_conjur-oss-helm-chart,2019-02-01 15:15:31 UTC,,,,,
+703201,PushEvent,cyberark_conjur-oss-helm-chart,2019-03-20 15:43:08 UTC,,,,,
+714592,PushEvent,cyberark_conjur-oss-helm-chart,2019-12-20 20:48:55 UTC,,,,,
+744280,PushEvent,cyberark_conjur-oss-helm-chart,2019-12-20 20:42:33 UTC,,,,,
+923056,PushEvent,cyberark_conjur-oss-helm-chart,2019-04-09 20:20:17 UTC,,,,,
+943071,PushEvent,cyberark_conjur-oss-helm-chart,2019-03-20 17:02:41 UTC,,,,,
+978095,PushEvent,cyberark_conjur-oss-helm-chart,2019-03-25 15:46:13 UTC,,,,,
+1020102,PushEvent,cyberark_conjur-oss-helm-chart,2019-03-26 15:59:02 UTC,,,,,
+1030051,PushEvent,cyberark_conjur-oss-helm-chart,2019-03-26 17:32:34 UTC,,,,,
+1070923,PushEvent,cyberark_conjur-oss-helm-chart,2019-12-20 20:31:57 UTC,,,,,
+1090388,PushEvent,cyberark_conjur-oss-helm-chart,2020-01-02 23:01:57 UTC,,,,,
+1104142,PushEvent,cyberark_conjur-oss-helm-chart,2019-04-02 18:40:26 UTC,,,,,
+1112728,PushEvent,cyberark_conjur-oss-helm-chart,2019-11-19 15:47:15 UTC,,,,,
+1127018,PushEvent,cyberark_conjur-oss-helm-chart,2019-03-26 15:45:42 UTC,,,,,
+1150099,PushEvent,cyberark_conjur-oss-helm-chart,2019-03-20 15:29:20 UTC,,,,,
+1860182,WatchEvent,cyberark_conjur-oss-helm-chart,2019-06-07 14:11:30 UTC,,,,,
+2338281,CreateEvent,cyberark_conjur-oss-helm-chart,2019-03-19 16:07:29 UTC,,,,,
+2347849,CreateEvent,cyberark_conjur-oss-helm-chart,2019-12-20 18:46:09 UTC,,,,,
+2353364,CreateEvent,cyberark_conjur-oss-helm-chart,2019-02-01 15:35:27 UTC,,,,,
+2354297,CreateEvent,cyberark_conjur-oss-helm-chart,2019-12-20 20:59:35 UTC,,,,,
+2368536,CreateEvent,cyberark_conjur-oss-helm-chart,2020-01-12 10:09:58 UTC,,,,,
+2397953,CreateEvent,cyberark_conjur-oss-helm-chart,2019-12-23 17:30:56 UTC,,,,,
+2401281,CreateEvent,cyberark_conjur-oss-helm-chart,2019-11-11 21:14:01 UTC,,,,,
+2451850,DeleteEvent,cyberark_conjur-oss-helm-chart,2019-11-19 15:47:21 UTC,,,,,
+2468994,DeleteEvent,cyberark_conjur-oss-helm-chart,2019-12-23 17:33:17 UTC,,,,,
+2479022,DeleteEvent,cyberark_conjur-oss-helm-chart,2019-12-20 20:49:00 UTC,,,,,
+2516416,DeleteEvent,cyberark_conjur-oss-helm-chart,2019-02-01 15:15:32 UTC,,,,,
+2540113,IssuesEvent,cyberark_conjur-oss-helm-chart,2019-12-20 18:32:15 UTC,,,,,
+2549847,IssuesEvent,cyberark_conjur-oss-helm-chart,2019-12-20 18:29:38 UTC,,,,,
+2556087,IssuesEvent,cyberark_conjur-oss-helm-chart,2019-06-23 08:23:32 UTC,,,,,
+2577678,IssuesEvent,cyberark_conjur-oss-helm-chart,2019-03-07 19:47:00 UTC,,,,,
+2589119,IssuesEvent,cyberark_conjur-oss-helm-chart,2019-03-11 14:41:39 UTC,,,,,
+2618800,IssuesEvent,cyberark_conjur-oss-helm-chart,2019-12-20 21:56:17 UTC,,,,,
+2671037,IssuesEvent,cyberark_conjur-oss-helm-chart,2019-03-11 14:42:36 UTC,,,,,
+2671685,IssuesEvent,cyberark_conjur-oss-helm-chart,2019-02-06 12:05:07 UTC,,,,,
+2708519,IssuesEvent,cyberark_conjur-oss-helm-chart,2019-06-23 07:49:03 UTC,,,,,
+2794873,IssuesEvent,cyberark_conjur-oss-helm-chart,2019-04-01 14:30:27 UTC,,,,,
+2842377,IssuesEvent,cyberark_conjur-oss-helm-chart,2019-03-11 14:42:45 UTC,,,,,
+2852810,IssuesEvent,cyberark_conjur-oss-helm-chart,2019-12-20 18:31:22 UTC,,,,,
+2870233,IssuesEvent,cyberark_conjur-oss-helm-chart,2019-03-12 13:54:53 UTC,,,,,
+2915695,IssuesEvent,cyberark_conjur-oss-helm-chart,2019-11-18 19:36:59 UTC,,,,,
+2978952,PullRequestEvent,cyberark_conjur-oss-helm-chart,2019-12-20 18:47:17 UTC,,,,,
+2983183,PullRequestEvent,cyberark_conjur-oss-helm-chart,2019-12-20 20:48:54 UTC,,,,,
+2986124,PullRequestEvent,cyberark_conjur-oss-helm-chart,2019-11-19 15:47:14 UTC,,,,,
+3063751,PullRequestEvent,cyberark_conjur-oss-helm-chart,2019-11-11 21:14:23 UTC,,,,,
+3125189,PullRequestEvent,cyberark_conjur-oss-helm-chart,2019-07-23 14:19:49 UTC,,,,,
+3183059,PullRequestEvent,cyberark_conjur-oss-helm-chart,2020-01-12 10:13:15 UTC,,,,,
+3189265,PullRequestEvent,cyberark_conjur-oss-helm-chart,2019-12-18 19:32:36 UTC,,,,,
+3199356,PullRequestEvent,cyberark_conjur-oss-helm-chart,2019-12-23 17:31:24 UTC,,,,,
+3265439,PullRequestEvent,cyberark_conjur-oss-helm-chart,2019-12-20 16:42:00 UTC,,,,,
+3320723,PullRequestEvent,cyberark_conjur-oss-helm-chart,2019-02-01 15:15:30 UTC,,,,,
+3421343,PullRequestEvent,cyberark_conjur-oss-helm-chart,2019-05-01 13:48:40 UTC,,,,,
+3520398,PullRequestEvent,cyberark_conjur-oss-helm-chart,2019-12-23 17:33:14 UTC,,,,,
+3785336,IssueCommentEvent,cyberark_conjur-oss-helm-chart,2019-02-04 16:21:45 UTC,,,,,
+3837763,IssueCommentEvent,cyberark_conjur-oss-helm-chart,2019-06-22 09:06:34 UTC,,,,,
+3838203,IssueCommentEvent,cyberark_conjur-oss-helm-chart,2019-06-23 07:50:36 UTC,,,,,
+3883120,IssueCommentEvent,cyberark_conjur-oss-helm-chart,2019-12-20 16:41:48 UTC,,,,,
+4032048,IssueCommentEvent,cyberark_conjur-oss-helm-chart,2019-06-23 08:23:32 UTC,,,,,
+4072919,IssueCommentEvent,cyberark_conjur-oss-helm-chart,2019-12-19 19:36:52 UTC,,,,,
+4267475,IssueCommentEvent,cyberark_conjur-oss-helm-chart,2019-12-20 16:22:06 UTC,,,,,
+4309159,IssueCommentEvent,cyberark_conjur-oss-helm-chart,2019-03-08 23:00:56 UTC,,,,,
+4332764,IssueCommentEvent,cyberark_conjur-oss-helm-chart,2019-07-23 14:19:48 UTC,,,,,
+4373107,IssueCommentEvent,cyberark_conjur-oss-helm-chart,2019-12-20 21:56:17 UTC,,,,,
+4391604,IssueCommentEvent,cyberark_conjur-oss-helm-chart,2019-03-06 17:30:14 UTC,,,,,
+4750411,IssueCommentEvent,cyberark_conjur-oss-helm-chart,2019-06-17 15:06:09 UTC,,,,,
+4992348,IssueCommentEvent,cyberark_conjur-oss-helm-chart,2019-02-27 15:46:16 UTC,,,,,
+5047408,IssueCommentEvent,cyberark_conjur-oss-helm-chart,2019-06-17 05:25:31 UTC,,,,,
+5057584,IssueCommentEvent,cyberark_conjur-oss-helm-chart,2019-03-06 17:29:09 UTC,,,,,
+5131945,IssueCommentEvent,cyberark_conjur-oss-helm-chart,2019-12-20 18:32:08 UTC,,,,,
+5311532,IssueCommentEvent,cyberark_conjur-oss-helm-chart,2019-06-23 22:56:39 UTC,,,,,
+5386956,IssueCommentEvent,cyberark_conjur-oss-helm-chart,2019-11-18 19:37:51 UTC,,,,,
+5423679,IssueCommentEvent,cyberark_conjur-oss-helm-chart,2019-12-20 18:31:22 UTC,,,,,
+5564401,IssueCommentEvent,cyberark_conjur-oss-helm-chart,2019-03-07 19:47:00 UTC,,,,,
+5664940,PullRequestReviewCommentEvent,cyberark_conjur-oss-helm-chart,2019-12-20 20:38:30 UTC,,,,,
+5986449,PullRequestReviewCommentEvent,cyberark_conjur-oss-helm-chart,2019-12-20 18:59:58 UTC,,,,,
+6032881,PullRequestReviewCommentEvent,cyberark_conjur-oss-helm-chart,2019-12-20 18:56:59 UTC,,,,,
+6147976,PullRequestReviewCommentEvent,cyberark_conjur-oss-helm-chart,2019-12-20 19:46:15 UTC,,,,,
+0,Commit,cyberark_conjur-oss-helm-chart,2022-08-17 21:05:07,606e8daf791ff146b40176260b6f5359f291a1d5,8.0,2.0,2.0,0.0
+1,Commit,cyberark_conjur-oss-helm-chart,2022-02-10 21:57:08,9884068527068ce6497e5f24a15efa388ac0a2aa,4.0,4.0,2.0,0.0
+2,Commit,cyberark_conjur-oss-helm-chart,2022-01-12 16:29:14,e86cafc08b1c0e8d7d1eb017e471ee394fb6457b,2.0,2.0,2.0,0.0
+3,Commit,cyberark_conjur-oss-helm-chart,2022-01-12 13:48:01,bc8b25b4ca46543c0c20a46245e95ca458ffa190,9.0,12.0,4.0,0.0
+4,Commit,cyberark_conjur-oss-helm-chart,2022-01-06 16:44:06,55f873d7ffbaff440f768518482ccf2503392748,1.0,1.0,1.0,0.0
+5,Commit,cyberark_conjur-oss-helm-chart,2021-09-22 02:39:51,111f089158e008fd95cdc81b6de8750a47d9fc90,1.0,1.0,1.0,0.0
+6,Commit,cyberark_conjur-oss-helm-chart,2021-08-06 22:50:38,65fe6fcbf0a674f4adbfda15a798f5e5b804126a,7.0,7.0,3.0,0.0
+7,Commit,cyberark_conjur-oss-helm-chart,2021-07-16 23:14:06,77bc169e9c97c8d88fae21b3fdfcd60b6a8d2790,4.0,4.0,1.0,0.0
+8,Commit,cyberark_conjur-oss-helm-chart,2021-07-16 15:35:36,f9ba9519e128d685be0bc36f993a2233e8e23f4d,28.0,1.0,1.0,0.0
+9,Commit,cyberark_conjur-oss-helm-chart,2021-07-16 15:05:37,bf87f590eab551b50c0d825f81ad992bb2ab830a,151.0,0.0,3.0,0.0
+10,Commit,cyberark_conjur-oss-helm-chart,2021-07-15 13:43:01,ddeebb3d34f78bd546edaecc58dc58d188dafdf2,0.0,241.0,6.0,0.0
+11,Commit,cyberark_conjur-oss-helm-chart,2021-06-21 21:38:55,b44365954c26e031eea4ba8b60e9d791db3ebfa0,88.0,88.0,4.0,0.0
+12,Commit,cyberark_conjur-oss-helm-chart,2021-05-26 18:10:56,6098231ea254e6b089832cd31995542bddbcdefa,4.0,4.0,2.0,0.0
+13,Commit,cyberark_conjur-oss-helm-chart,2021-04-12 14:30:58,39956191c5fffa9deed43d4fafbde6c64384db39,6.0,2.0,2.0,0.0
+14,Commit,cyberark_conjur-oss-helm-chart,2021-04-12 14:04:12,8a3c3297f0b9bdef1be6fced29a370ad1f1e6c60,14.0,11.0,5.0,0.0
+15,Commit,cyberark_conjur-oss-helm-chart,2021-03-19 18:27:01,aa38d204553a1745f25b6fc355b4a80985433471,5.0,2.0,3.0,0.0
+16,Commit,cyberark_conjur-oss-helm-chart,2021-03-19 17:59:13,86f0a45b9c21a5c58788a957f8c3d0412660501e,10.0,1.0,1.0,0.0
+17,Commit,cyberark_conjur-oss-helm-chart,2021-03-08 22:04:18,055c6b96a068fc8ef7fced37b35622c5d8efec5b,1.0,1.0,1.0,0.0
+18,Commit,cyberark_conjur-oss-helm-chart,2021-02-01 13:16:05,754c360dac80b7ca19cc152cd7aa62ccb2fd521e,5.0,3.0,2.0,0.0
+19,Commit,cyberark_conjur-oss-helm-chart,2020-12-30 16:27:58,f7c2a6539c155ee3f12915e970477619000ff9d4,2.0,1.0,1.0,0.0
+20,Commit,cyberark_conjur-oss-helm-chart,2020-12-30 16:02:20,ca1a418de03da3cbf8f6105dd752b792fc735080,15.0,11.0,5.0,0.0
+21,Commit,cyberark_conjur-oss-helm-chart,2020-12-29 19:28:56,2ea082622dde3f0c8bcf6c85d0a0f146753d494e,56.0,97.0,7.0,0.0
+22,Commit,cyberark_conjur-oss-helm-chart,2020-12-29 02:49:01,87071f626908b2705415de640d7ec4988434252c,19.0,8.0,3.0,0.0
+23,Commit,cyberark_conjur-oss-helm-chart,2020-12-24 00:22:50,e132e7c6c2732295b897e023707506f9291e4757,10.0,4.0,3.0,0.0
+24,Commit,cyberark_conjur-oss-helm-chart,2020-12-22 15:48:20,45d2256a94d067eefa9e875e4d54814688bde82b,264.0,35.0,11.0,0.0
+25,Commit,cyberark_conjur-oss-helm-chart,2020-12-14 20:14:20,e5168037d2a0b4ee12292059acfc2eb8c3cdd6e9,67.0,32.0,2.0,0.0
+26,Commit,cyberark_conjur-oss-helm-chart,2020-12-02 16:58:12,3bd0fb1f7c91901ca20261c921ad4c5f28b939a2,5.0,2.0,2.0,0.0
+27,Commit,cyberark_conjur-oss-helm-chart,2020-12-02 16:58:12,819fbee4bbdde679d103814e48836cdd457378ae,17.0,3.0,4.0,0.0
+28,Commit,cyberark_conjur-oss-helm-chart,2020-12-01 00:16:46,a8d12f84b0c90c82c6f7419df515a186d5c2d440,4.0,1.0,1.0,0.0
+29,Commit,cyberark_conjur-oss-helm-chart,2020-11-16 21:10:24,e976cd9e261f466b9f30ac4168d796257e43e587,8.0,6.0,3.0,0.0
+30,Commit,cyberark_conjur-oss-helm-chart,2020-11-09 20:23:22,44369563eb8469f4f0a47450a1ea1a19b29f31e1,10.0,8.0,3.0,0.0
+31,Commit,cyberark_conjur-oss-helm-chart,2020-11-05 21:06:03,74bd964e135016d8f36c9e04079cc5682db00ba1,30.0,19.0,6.0,0.0
+32,Commit,cyberark_conjur-oss-helm-chart,2020-11-04 13:45:40,0406d4d15f6482cf5679e88b2301676ae18fe41f,636.0,213.0,1.0,0.0
+33,Commit,cyberark_conjur-oss-helm-chart,2020-10-30 21:46:07,26fac48bad7cc4384fabb2f3261f24854761b232,16.0,3.0,3.0,0.0
+34,Commit,cyberark_conjur-oss-helm-chart,2020-10-30 19:57:31,8fea3226deb67b55beb66e9e934e8de8860cfd67,44.0,25.0,6.0,0.0
+35,Commit,cyberark_conjur-oss-helm-chart,2020-10-30 19:06:01,a6c521e510e2024b492a1021844a196049014ca6,7.0,6.0,3.0,0.0
+36,Commit,cyberark_conjur-oss-helm-chart,2020-10-29 17:25:36,270b67ba6bf6bf12a5a1ea3d67984526c46547e2,46.0,12.0,4.0,0.0
+37,Commit,cyberark_conjur-oss-helm-chart,2020-10-28 14:21:02,46f71989a6cca8919f22785dffeb135b697a0cdb,10.0,17.0,5.0,0.0
+38,Commit,cyberark_conjur-oss-helm-chart,2020-10-28 11:47:27,14e3e1adb4484f02be934d5f9164e3a81580e72f,762.0,4.0,11.0,0.0
+39,Commit,cyberark_conjur-oss-helm-chart,2020-10-27 16:44:05,0bdcff6137658c486d35d9f87087c92ef5683b41,9.0,1.0,2.0,0.0
+40,Commit,cyberark_conjur-oss-helm-chart,2020-10-19 17:06:54,5fdfe4cb56498e02ee3b6b53ebb35b517d2086a0,7.0,4.0,2.0,0.0
+41,Commit,cyberark_conjur-oss-helm-chart,2020-10-19 12:26:09,5c9636e91089e8db7d0aeedb30a5f569f4d8a7d5,8.0,1.0,1.0,0.0
+42,Commit,cyberark_conjur-oss-helm-chart,2020-10-16 19:11:36,9288b31d953361e94e62f8e4c5fa27e61203f35e,39.0,0.0,1.0,0.0
+43,Commit,cyberark_conjur-oss-helm-chart,2020-10-15 21:53:02,92c52f3e770fb3b562825c5a9f814ef7cf9788ca,91.0,20.0,7.0,0.0
+44,Commit,cyberark_conjur-oss-helm-chart,2020-10-02 22:59:42,ac5e995f5161605aa04409145253c4605b71cfba,1.0,1.0,1.0,0.0
+45,Commit,cyberark_conjur-oss-helm-chart,2020-10-02 20:32:06,e9cd35f6e015c4f91c8c3aabefb341a05f37eb08,85.0,3.0,4.0,0.0
+46,Commit,cyberark_conjur-oss-helm-chart,2020-08-19 03:57:19,632d05660d6a4c4249ac1359c1ea68d4904baeea,259.0,19.0,5.0,0.0
+47,Commit,cyberark_conjur-oss-helm-chart,2020-07-06 18:10:32,7a2136ef40ec0ce69f1a8ab3ab56b102200916e4,11.0,0.0,1.0,0.0
+48,Commit,cyberark_conjur-oss-helm-chart,2020-06-25 18:08:21,49efe3861e81ce3d3a649624e8fc25f5a8d2dc00,302.0,32.0,11.0,0.0
+49,Commit,cyberark_conjur-oss-helm-chart,2020-06-23 04:35:40,043ed1e474cb4a42d7d7846d9f4e73a3fb56d51f,10.0,0.0,1.0,0.0
+50,Commit,cyberark_conjur-oss-helm-chart,2020-06-23 04:26:57,07a93b920dd2f5c6630378335fdb3998de475d95,42.0,0.0,1.0,0.0
+51,Commit,cyberark_conjur-oss-helm-chart,2020-06-18 19:04:55,40812df2e2503531ce02fab3a295a6b1c171d554,2.0,2.0,1.0,0.0
+52,Commit,cyberark_conjur-oss-helm-chart,2020-06-17 22:03:12,9ee5b2b191f118714193861fc75abd5226c94425,1200.0,119.0,21.0,0.0
+53,Commit,cyberark_conjur-oss-helm-chart,2020-06-16 20:56:02,b888d4e517751bb48dd5e2af9aaf3dd9dd82af36,21.0,0.0,1.0,0.0
+54,Commit,cyberark_conjur-oss-helm-chart,2020-06-15 18:46:40,f5b735eace3c52f8792f0ddeebd045cce311195a,16.0,1.0,1.0,0.0
+55,Commit,cyberark_conjur-oss-helm-chart,2020-06-03 17:49:07,a0c29a7d15a741bebdc01aef003894361ab9be4c,193.0,49.0,9.0,0.0
+56,Commit,cyberark_conjur-oss-helm-chart,2020-05-05 12:48:28,533675881281acf92bd88d3be1a701e047650cde,120.0,1.0,4.0,0.0
+57,Commit,cyberark_conjur-oss-helm-chart,2020-03-24 18:51:48,5788ab59da0a0043b03c72ee99401716de4b9deb,15.0,1.0,1.0,0.0
+58,Commit,cyberark_conjur-oss-helm-chart,2020-03-13 22:00:52,a8b6a48841c152f0f3d7f0f5dae7ebd454fb6368,54.0,0.0,2.0,0.0
+59,Commit,cyberark_conjur-oss-helm-chart,2020-02-14 18:07:34,2d1f5b66bd20422e386df277876e2067662ad22d,30.0,9.0,2.0,0.0
+60,Commit,cyberark_conjur-oss-helm-chart,2020-01-12 10:09:43,fc145ba6762332065d53e68c6edf43ebc63c1518,3.0,3.0,1.0,0.0
+61,Commit,cyberark_conjur-oss-helm-chart,2019-12-23 17:29:21,46c6fc45f15b47fcd99eeee1b0dd13b9e5c2aad4,1.0,1.0,1.0,0.0
+62,Commit,cyberark_conjur-oss-helm-chart,2019-12-20 20:42:19,41be5adca07e0648d00928fe03dffbcb38077542,26.0,0.0,2.0,0.0
+63,Commit,cyberark_conjur-oss-helm-chart,2019-12-20 20:25:43,f98ce9214ab1cd5379b97ddead7bdeb5b90bb370,7.0,2.0,3.0,0.0
+64,Commit,cyberark_conjur-oss-helm-chart,2019-12-20 18:43:23,84f068e0754b5da244a359f85cf909e3e4612712,1.0,1.0,1.0,0.0
+65,Commit,cyberark_conjur-oss-helm-chart,2019-09-18 20:40:23,0b2881351494bc4aa48d03af67de71c981eb720e,219.0,0.0,1.0,0.0
+66,Commit,cyberark_conjur-oss-helm-chart,2019-09-18 20:23:10,b2bca59bf9915202482d27b83e845711f12594b8,206.0,195.0,3.0,0.0
+67,Commit,cyberark_conjur-oss-helm-chart,2019-01-31 22:17:47,f143649b2f9ae65c653773c89cab5503bdc59834,18.0,6.0,4.0,0.0
+68,Commit,cyberark_conjur-oss-helm-chart,2019-01-22 22:39:16,1ac479a60c39a1246cefa21c5934ed32b1441f05,29.0,18.0,3.0,0.0
+69,Commit,cyberark_conjur-oss-helm-chart,2019-01-22 18:04:56,f7f4458fa904c989714ecf44fc8adf62e2f40b69,7.0,1.0,2.0,0.0
+70,Commit,cyberark_conjur-oss-helm-chart,2019-01-22 17:21:55,9c90a0d508d51aa3d3aa544d8d9ae386a29b741f,19.0,10.0,5.0,0.0
+71,Commit,cyberark_conjur-oss-helm-chart,2019-01-18 22:36:31,edc5449e0058fb9f0a95221def4f80c8fc19ab2a,1.0,5.0,2.0,0.0
+72,Commit,cyberark_conjur-oss-helm-chart,2019-01-18 22:25:10,d070a2122d20ae974772a7de6e8e121f99320cef,5.0,1.0,2.0,0.0
+73,Commit,cyberark_conjur-oss-helm-chart,2019-01-18 19:25:12,293fbc83d57a12abf4347ab92824468b8aba129f,1.0,1.0,1.0,0.0
+74,Commit,cyberark_conjur-oss-helm-chart,2019-01-16 19:06:50,b2789b7277fb9a2da77727f6f545a9081637155f,2.0,0.0,1.0,0.0
+75,Commit,cyberark_conjur-oss-helm-chart,2019-01-16 19:06:50,b8bb9f36367f062a93ee3acbcdfacc6106ac8850,68.0,60.0,2.0,0.0
+76,Commit,cyberark_conjur-oss-helm-chart,2019-01-16 17:59:35,6fbdf30716d676cd4fae290fb896eec3cb8f0cd9,28.0,5.0,4.0,0.0
+77,Commit,cyberark_conjur-oss-helm-chart,2019-01-14 20:03:38,dce673fad5ac4526a458d23950d4f77cde18a0ed,17.0,5.0,3.0,0.0
+78,Commit,cyberark_conjur-oss-helm-chart,2019-01-14 18:43:10,558c2d5bf3dbf601684c9afb2e8674576a9b311f,9.0,6.0,2.0,0.0
+79,Commit,cyberark_conjur-oss-helm-chart,2019-01-14 16:17:02,52ab12f302ef0527ab0c473e7d92df93ee12e37c,49.0,38.0,1.0,0.0
+80,Commit,cyberark_conjur-oss-helm-chart,2019-01-14 16:17:02,368268225bb48733073d3a75b4a6cc2844046dfa,45.0,13.0,4.0,0.0
+81,Commit,cyberark_conjur-oss-helm-chart,2019-01-14 16:17:02,ad95ecbe8b4a28e1d286ce93f349dae2a8f8e677,15.0,0.0,2.0,0.0
+82,Commit,cyberark_conjur-oss-helm-chart,2019-01-14 16:17:02,c10f6bc5554d719428e2c5f74fbf81b1d785a916,91.0,165.0,6.0,0.0
+83,Commit,cyberark_conjur-oss-helm-chart,2019-01-14 16:17:02,b6b4519d80a4985c50dfae3693a3ebc0fc3631b4,81.0,0.0,4.0,0.0
+84,Commit,cyberark_conjur-oss-helm-chart,2019-01-14 16:17:02,2506acf69e2e57e0048874088c3fe3276806cb2a,11.0,2.0,3.0,0.0
+85,Commit,cyberark_conjur-oss-helm-chart,2019-01-14 16:17:02,44e6b3b6aaf923a3943fc307141760dbea3044a3,22.0,0.0,1.0,0.0
+86,Commit,cyberark_conjur-oss-helm-chart,2019-01-14 16:17:02,98c29d68d03ee1915d3db703bc94fd5988a68b1f,11.0,2.0,3.0,0.0
+87,Commit,cyberark_conjur-oss-helm-chart,2019-01-14 16:17:02,fd34148a52f219cd1b09eb7b3a269e9ea8e1452b,3.0,57.0,5.0,0.0
+88,Commit,cyberark_conjur-oss-helm-chart,2019-01-14 16:17:02,98673903c6b00399898a8c5a22105d10e94b9a35,29.0,19.0,6.0,0.0
+89,Commit,cyberark_conjur-oss-helm-chart,2019-01-14 16:17:02,397fd1c25f836da6fe007f1e6187aad9e03fa4fe,26.0,25.0,3.0,0.0
+90,Commit,cyberark_conjur-oss-helm-chart,2019-01-14 16:17:02,3ef9ffd79708ee7e0a27b0d3ea29064b7e0709bd,5.0,1.0,1.0,0.0
+91,Commit,cyberark_conjur-oss-helm-chart,2019-01-14 16:17:02,190d8de7e98e35aa828227d49a704597afc0dc9c,11.0,0.0,2.0,0.0
+92,Commit,cyberark_conjur-oss-helm-chart,2019-01-14 16:17:02,24629370ff44d84a1d96b6bf58c7676d08e0d7e9,63.0,18.0,4.0,0.0
+93,Commit,cyberark_conjur-oss-helm-chart,2019-01-07 15:10:44,e27f9175ddfd13b69d27a3ebf0468f03b89c97cf,1.0,1.0,1.0,0.0
+94,Commit,cyberark_conjur-oss-helm-chart,2019-01-07 15:10:44,a21f4e0649967f65608e9f374cc3f8cc39b849ed,7.0,4.0,1.0,0.0
+95,Commit,cyberark_conjur-oss-helm-chart,2019-01-07 15:10:44,09a86485f7bee86ec21bb395beaed74040783e17,361.0,41.0,14.0,0.0
+96,Commit,cyberark_conjur-oss-helm-chart,2019-01-07 15:07:25,7e9b2f42e8e877b4e0c31d90f8de499ee0bb9d19,55.0,0.0,5.0,0.0
+97,Commit,cyberark_conjur-oss-helm-chart,2018-12-04 17:13:59,90f9c31c79b2b5a7b8fc44bf7b2af8b40d5afac8,37.0,3.0,7.0,0.0
+98,Commit,cyberark_conjur-oss-helm-chart,2018-08-01 20:27:45,6e2ce060e957d991d9b01e76dbe085ad2b82f6f8,3.0,1.0,2.0,0.0
+99,Commit,cyberark_conjur-oss-helm-chart,2018-08-01 20:23:52,8a39552b3df17a40bbbe9937cb7e2d8da9f06c9f,18.0,0.0,6.0,0.0
+100,Commit,cyberark_conjur-oss-helm-chart,2018-08-01 17:21:30,3cb06430f7d60298512833b19a8fbb90704ddcf0,3.0,3.0,2.0,0.0
+101,Commit,cyberark_conjur-oss-helm-chart,2018-08-01 17:14:25,0c5d84c5ae62a32f4dad11cadc316e542fc267df,13.0,2.0,2.0,0.0
+102,Commit,cyberark_conjur-oss-helm-chart,2018-07-31 16:49:01,34b46fca93ae9f2346f02851acd9ca92fe1280a1,11.0,3.0,4.0,0.0
+103,Commit,cyberark_conjur-oss-helm-chart,2018-07-31 16:08:53,1349e4f728f3234841a4d922992e9cba84976f1b,35.0,2.0,8.0,0.0
+104,Commit,cyberark_conjur-oss-helm-chart,2018-07-27 21:31:25,c7c2eefb71af1e37fb2ca2a848a36cec2e927912,89.0,2.0,4.0,0.0
+105,Commit,cyberark_conjur-oss-helm-chart,2018-07-25 17:28:00,110d35995e9557fdc6a307c0ba462c409bd92fb8,1.0,1.0,1.0,0.0
+106,Commit,cyberark_conjur-oss-helm-chart,2018-07-25 17:23:51,0cbccf88c8f494b5381b002ec03dccdd6ba38beb,1.0,1.0,1.0,0.0
+107,Commit,cyberark_conjur-oss-helm-chart,2018-07-25 16:56:27,36c2a87bd6732f88f20913580e0be5f388ea2253,14.0,2.0,1.0,0.0
+108,Commit,cyberark_conjur-oss-helm-chart,2018-07-25 16:47:33,3a83d3ad9072fc0b0ffe3ed9c0382e2a14a1beaf,4.0,0.0,1.0,0.0
+109,Commit,cyberark_conjur-oss-helm-chart,2018-07-24 22:44:30,ee8ce94db0ddd2bc9a2bb9b0d84f3d342b4842b5,1.0,1.0,1.0,0.0
+110,Commit,cyberark_conjur-oss-helm-chart,2018-07-24 22:40:04,8a8fef31c84490373dec3466198c64725a5267eb,1.0,1.0,1.0,0.0
+111,Commit,cyberark_conjur-oss-helm-chart,2018-07-24 22:37:21,30ed649ce37d644991a43631860ddc770887d4cb,1.0,1.0,1.0,0.0
+112,Commit,cyberark_conjur-oss-helm-chart,2018-07-24 22:35:59,28a0d52fd7b15389e02c6ee7e7e79301234d9737,3.0,1.0,1.0,0.0
+113,Commit,cyberark_conjur-oss-helm-chart,2018-07-24 22:33:00,936d9706c77e14f4b394fd1db457fdf676eec567,9.0,25.0,3.0,0.0
+114,Commit,cyberark_conjur-oss-helm-chart,2018-07-24 22:22:22,bd4738c6ad038e7e63ef64c0aaf29dd24b96edc5,1.0,1.0,1.0,0.0
+115,Commit,cyberark_conjur-oss-helm-chart,2018-07-24 22:20:48,92b8bd17ea36541d9723d078a39e0091833bf2b0,8.0,1.0,1.0,0.0
+116,Commit,cyberark_conjur-oss-helm-chart,2018-07-24 22:18:04,2329cb1e12b6374c0bf102239473746d7d9940fa,36.0,0.0,1.0,0.0
+117,Commit,cyberark_conjur-oss-helm-chart,2018-07-24 22:09:38,b5a962dcc741f2184491fd7d3e802b538b1571f5,195.0,0.0,1.0,0.0
+118,Commit,cyberark_conjur-oss-helm-chart,2018-07-24 22:04:16,cd64272b265da5e7ae40d968e0acc75ffe3e2207,1.0,3.0,1.0,0.0
+119,Commit,cyberark_conjur-oss-helm-chart,2018-07-24 22:02:59,553c2cac37e06718f2985d6cfe05366ff012fe79,1.0,1.0,1.0,0.0
+120,Commit,cyberark_conjur-oss-helm-chart,2018-07-24 22:01:48,a8112bc26070a26f5cf74f22a7763c6a8b97e1b7,1.0,1.0,1.0,0.0
+121,Commit,cyberark_conjur-oss-helm-chart,2018-07-24 21:59:45,afcea77b98a5c1bc2710a4c3a7ea76d699514fbf,214.0,95.0,10.0,0.0
+122,Commit,cyberark_conjur-oss-helm-chart,2018-07-23 22:14:54,9d22f2ad9b315bf9bf4561df6a9b7bb7d7f0aec6,9.0,3.0,3.0,0.0
+123,Commit,cyberark_conjur-oss-helm-chart,2018-07-23 20:02:14,aafcf03475721ede4e13c03169fdc2785c407137,29.0,9.0,2.0,0.0
+124,Commit,cyberark_conjur-oss-helm-chart,2018-07-23 18:51:24,730ade139c385f263b3db5b42733ec3dd748dedf,19.0,1.0,2.0,0.0
+125,Commit,cyberark_conjur-oss-helm-chart,2018-07-23 17:48:11,f47e7dce9dc3ec61f55069f9d57ad58da5cc81ac,42.0,17.0,6.0,0.0
+126,Commit,cyberark_conjur-oss-helm-chart,2018-07-23 17:25:10,16e36cbfe946b54357804fd59ed96f53e4d6f392,335.0,0.0,15.0,0.0
+0,forks,cyberark_conjur-oss-helm-chart,2019-01-10 22:02:02+00:00,,,,,
+1,forks,cyberark_conjur-oss-helm-chart,2019-03-05 14:50:46+00:00,,,,,
+2,forks,cyberark_conjur-oss-helm-chart,2019-12-18 19:29:53+00:00,,,,,
+3,forks,cyberark_conjur-oss-helm-chart,2019-12-23 20:07:34+00:00,,,,,
+4,forks,cyberark_conjur-oss-helm-chart,2020-04-17 12:31:28+00:00,,,,,
+5,forks,cyberark_conjur-oss-helm-chart,2020-05-29 16:26:22+00:00,,,,,
+6,forks,cyberark_conjur-oss-helm-chart,2020-07-26 14:44:15+00:00,,,,,
+7,forks,cyberark_conjur-oss-helm-chart,2021-03-19 05:24:19+00:00,,,,,
+8,forks,cyberark_conjur-oss-helm-chart,2021-07-14 17:08:52+00:00,,,,,
+9,forks,cyberark_conjur-oss-helm-chart,2021-11-19 20:48:32+00:00,,,,,
+10,forks,cyberark_conjur-oss-helm-chart,2021-11-26 04:16:47+00:00,,,,,
+11,forks,cyberark_conjur-oss-helm-chart,2022-05-31 13:32:10+00:00,,,,,
+12,forks,cyberark_conjur-oss-helm-chart,2022-06-14 01:49:15+00:00,,,,,
+0,issues,cyberark_conjur-oss-helm-chart,2018-07-26 20:48:43+00:00,,,,,
+1,issues,cyberark_conjur-oss-helm-chart,2018-07-26 20:55:54+00:00,,,,,
+2,issues,cyberark_conjur-oss-helm-chart,2018-07-29 21:05:19+00:00,,,,,
+3,issues,cyberark_conjur-oss-helm-chart,2018-08-01 17:57:21+00:00,,,,,
+4,issues,cyberark_conjur-oss-helm-chart,2018-09-18 16:28:44+00:00,,,,,
+5,issues,cyberark_conjur-oss-helm-chart,2018-11-29 13:54:11+00:00,,,,,
+6,issues,cyberark_conjur-oss-helm-chart,2018-11-29 14:44:40+00:00,,,,,
+7,issues,cyberark_conjur-oss-helm-chart,2018-11-30 20:57:09+00:00,,,,,
+8,issues,cyberark_conjur-oss-helm-chart,2018-12-03 16:00:19+00:00,,,,,
+9,issues,cyberark_conjur-oss-helm-chart,2018-12-09 10:44:04+00:00,,,,,
+10,issues,cyberark_conjur-oss-helm-chart,2019-03-12 13:54:53+00:00,,,,,
+11,issues,cyberark_conjur-oss-helm-chart,2019-04-01 14:30:27+00:00,,,,,
+12,issues,cyberark_conjur-oss-helm-chart,2019-06-23 07:49:03+00:00,,,,,
+13,issues,cyberark_conjur-oss-helm-chart,2019-11-18 19:36:58+00:00,,,,,
+14,issues,cyberark_conjur-oss-helm-chart,2019-12-20 18:29:38+00:00,,,,,
+15,issues,cyberark_conjur-oss-helm-chart,2020-02-10 16:49:05+00:00,,,,,
+16,issues,cyberark_conjur-oss-helm-chart,2020-03-19 14:42:34+00:00,,,,,
+17,issues,cyberark_conjur-oss-helm-chart,2020-05-04 12:23:50+00:00,,,,,
+18,issues,cyberark_conjur-oss-helm-chart,2020-05-04 16:17:29+00:00,,,,,
+19,issues,cyberark_conjur-oss-helm-chart,2020-05-05 14:58:45+00:00,,,,,
+20,issues,cyberark_conjur-oss-helm-chart,2020-05-21 15:51:21+00:00,,,,,
+21,issues,cyberark_conjur-oss-helm-chart,2020-05-21 20:44:41+00:00,,,,,
+22,issues,cyberark_conjur-oss-helm-chart,2020-05-26 13:49:22+00:00,,,,,
+23,issues,cyberark_conjur-oss-helm-chart,2020-06-09 21:50:07+00:00,,,,,
+24,issues,cyberark_conjur-oss-helm-chart,2020-06-10 15:35:20+00:00,,,,,
+25,issues,cyberark_conjur-oss-helm-chart,2020-06-16 18:34:30+00:00,,,,,
+26,issues,cyberark_conjur-oss-helm-chart,2020-06-16 20:19:43+00:00,,,,,
+27,issues,cyberark_conjur-oss-helm-chart,2020-06-18 19:11:05+00:00,,,,,
+28,issues,cyberark_conjur-oss-helm-chart,2020-06-18 19:27:16+00:00,,,,,
+29,issues,cyberark_conjur-oss-helm-chart,2020-06-24 12:32:27+00:00,,,,,
+30,issues,cyberark_conjur-oss-helm-chart,2020-07-13 12:14:33+00:00,,,,,
+31,issues,cyberark_conjur-oss-helm-chart,2020-08-03 16:34:58+00:00,,,,,
+32,issues,cyberark_conjur-oss-helm-chart,2020-09-21 15:32:04+00:00,,,,,
+33,issues,cyberark_conjur-oss-helm-chart,2020-09-23 18:52:33+00:00,,,,,
+34,issues,cyberark_conjur-oss-helm-chart,2020-09-30 13:09:03+00:00,,,,,
+35,issues,cyberark_conjur-oss-helm-chart,2020-09-30 13:22:19+00:00,,,,,
+36,issues,cyberark_conjur-oss-helm-chart,2020-09-30 14:09:55+00:00,,,,,
+37,issues,cyberark_conjur-oss-helm-chart,2020-09-30 23:28:11+00:00,,,,,
+38,issues,cyberark_conjur-oss-helm-chart,2020-10-01 02:05:16+00:00,,,,,
+39,issues,cyberark_conjur-oss-helm-chart,2020-10-14 13:25:49+00:00,,,,,
+40,issues,cyberark_conjur-oss-helm-chart,2020-10-16 18:29:36+00:00,,,,,
+41,issues,cyberark_conjur-oss-helm-chart,2020-10-19 12:22:06+00:00,,,,,
+42,issues,cyberark_conjur-oss-helm-chart,2020-10-19 13:58:10+00:00,,,,,
+43,issues,cyberark_conjur-oss-helm-chart,2020-10-22 21:23:42+00:00,,,,,
+44,issues,cyberark_conjur-oss-helm-chart,2020-10-30 21:03:25+00:00,,,,,
+45,issues,cyberark_conjur-oss-helm-chart,2020-11-05 15:32:09+00:00,,,,,
+46,issues,cyberark_conjur-oss-helm-chart,2020-11-09 19:44:12+00:00,,,,,
+47,issues,cyberark_conjur-oss-helm-chart,2020-11-10 19:14:52+00:00,,,,,
+48,issues,cyberark_conjur-oss-helm-chart,2020-11-18 15:05:39+00:00,,,,,
+49,issues,cyberark_conjur-oss-helm-chart,2020-11-20 21:44:56+00:00,,,,,
+50,issues,cyberark_conjur-oss-helm-chart,2020-11-24 21:42:54+00:00,,,,,
+51,issues,cyberark_conjur-oss-helm-chart,2020-11-30 20:20:32+00:00,,,,,
+52,issues,cyberark_conjur-oss-helm-chart,2020-11-30 20:34:11+00:00,,,,,
+53,issues,cyberark_conjur-oss-helm-chart,2020-12-01 00:16:15+00:00,,,,,
+54,issues,cyberark_conjur-oss-helm-chart,2020-12-21 14:45:42+00:00,,,,,
+55,issues,cyberark_conjur-oss-helm-chart,2020-12-22 15:35:39+00:00,,,,,
+56,issues,cyberark_conjur-oss-helm-chart,2020-12-23 21:53:39+00:00,,,,,
+57,issues,cyberark_conjur-oss-helm-chart,2020-12-28 16:18:03+00:00,,,,,
+58,issues,cyberark_conjur-oss-helm-chart,2020-12-30 18:12:08+00:00,,,,,
+59,issues,cyberark_conjur-oss-helm-chart,2021-01-11 16:44:47+00:00,,,,,
+60,issues,cyberark_conjur-oss-helm-chart,2021-01-11 18:07:03+00:00,,,,,
+61,issues,cyberark_conjur-oss-helm-chart,2021-01-19 17:43:41+00:00,,,,,
+62,issues,cyberark_conjur-oss-helm-chart,2021-01-20 14:40:59+00:00,,,,,
+63,issues,cyberark_conjur-oss-helm-chart,2021-01-20 14:54:28+00:00,,,,,
+64,issues,cyberark_conjur-oss-helm-chart,2021-01-20 15:15:45+00:00,,,,,
+65,issues,cyberark_conjur-oss-helm-chart,2021-02-01 13:28:22+00:00,,,,,
+66,issues,cyberark_conjur-oss-helm-chart,2021-02-04 18:52:05+00:00,,,,,
+67,issues,cyberark_conjur-oss-helm-chart,2021-02-16 18:28:10+00:00,,,,,
+68,issues,cyberark_conjur-oss-helm-chart,2021-02-26 17:06:20+00:00,,,,,
+69,issues,cyberark_conjur-oss-helm-chart,2021-03-02 14:52:04+00:00,,,,,
+70,issues,cyberark_conjur-oss-helm-chart,2021-03-15 22:59:43+00:00,,,,,
+71,issues,cyberark_conjur-oss-helm-chart,2021-03-30 15:05:12+00:00,,,,,
+72,issues,cyberark_conjur-oss-helm-chart,2021-07-13 20:25:58+00:00,,,,,
+73,issues,cyberark_conjur-oss-helm-chart,2021-07-16 15:19:04+00:00,,,,,
+74,issues,cyberark_conjur-oss-helm-chart,2021-07-16 22:56:38+00:00,,,,,
+75,issues,cyberark_conjur-oss-helm-chart,2021-11-10 12:41:50+00:00,,,,,
+76,issues,cyberark_conjur-oss-helm-chart,2022-05-11 19:37:56+00:00,,,,,
+0,pullRequests,cyberark_conjur-oss-helm-chart,2018-07-27 16:44:08+00:00,,,,,
+1,pullRequests,cyberark_conjur-oss-helm-chart,2018-07-31 16:03:09+00:00,,,,,
+2,pullRequests,cyberark_conjur-oss-helm-chart,2018-07-31 16:15:37+00:00,,,,,
+3,pullRequests,cyberark_conjur-oss-helm-chart,2018-08-01 20:05:10+00:00,,,,,
+4,pullRequests,cyberark_conjur-oss-helm-chart,2018-12-03 16:52:37+00:00,,,,,
+5,pullRequests,cyberark_conjur-oss-helm-chart,2019-01-14 15:52:25+00:00,,,,,
+6,pullRequests,cyberark_conjur-oss-helm-chart,2019-01-14 18:46:29+00:00,,,,,
+7,pullRequests,cyberark_conjur-oss-helm-chart,2019-01-14 20:04:03+00:00,,,,,
+8,pullRequests,cyberark_conjur-oss-helm-chart,2019-01-16 18:02:22+00:00,,,,,
+9,pullRequests,cyberark_conjur-oss-helm-chart,2019-01-18 19:26:37+00:00,,,,,
+10,pullRequests,cyberark_conjur-oss-helm-chart,2019-01-18 22:25:32+00:00,,,,,
+11,pullRequests,cyberark_conjur-oss-helm-chart,2019-01-18 22:37:48+00:00,,,,,
+12,pullRequests,cyberark_conjur-oss-helm-chart,2019-01-22 17:52:43+00:00,,,,,
+13,pullRequests,cyberark_conjur-oss-helm-chart,2019-01-22 18:05:39+00:00,,,,,
+14,pullRequests,cyberark_conjur-oss-helm-chart,2019-01-22 22:40:58+00:00,,,,,
+15,pullRequests,cyberark_conjur-oss-helm-chart,2019-01-31 22:25:08+00:00,,,,,
+16,pullRequests,cyberark_conjur-oss-helm-chart,2019-05-01 13:48:39+00:00,,,,,
+17,pullRequests,cyberark_conjur-oss-helm-chart,2019-11-11 21:14:22+00:00,,,,,
+18,pullRequests,cyberark_conjur-oss-helm-chart,2019-12-18 19:32:36+00:00,,,,,
+19,pullRequests,cyberark_conjur-oss-helm-chart,2019-12-20 18:47:16+00:00,,,,,
+20,pullRequests,cyberark_conjur-oss-helm-chart,2019-12-23 17:31:23+00:00,,,,,
+21,pullRequests,cyberark_conjur-oss-helm-chart,2020-01-12 10:13:14+00:00,,,,,
+22,pullRequests,cyberark_conjur-oss-helm-chart,2020-02-14 18:05:35+00:00,,,,,
+23,pullRequests,cyberark_conjur-oss-helm-chart,2020-03-12 11:50:54+00:00,,,,,
+24,pullRequests,cyberark_conjur-oss-helm-chart,2020-03-13 22:02:18+00:00,,,,,
+25,pullRequests,cyberark_conjur-oss-helm-chart,2020-03-24 18:44:43+00:00,,,,,
+26,pullRequests,cyberark_conjur-oss-helm-chart,2020-04-17 14:07:01+00:00,,,,,
+27,pullRequests,cyberark_conjur-oss-helm-chart,2020-05-23 00:19:52+00:00,,,,,
+28,pullRequests,cyberark_conjur-oss-helm-chart,2020-06-15 18:46:45+00:00,,,,,
+29,pullRequests,cyberark_conjur-oss-helm-chart,2020-06-15 19:45:54+00:00,,,,,
+30,pullRequests,cyberark_conjur-oss-helm-chart,2020-06-18 18:35:26+00:00,,,,,
+31,pullRequests,cyberark_conjur-oss-helm-chart,2020-06-19 15:10:39+00:00,,,,,
+32,pullRequests,cyberark_conjur-oss-helm-chart,2020-06-23 04:27:01+00:00,,,,,
+33,pullRequests,cyberark_conjur-oss-helm-chart,2020-06-23 04:35:44+00:00,,,,,
+34,pullRequests,cyberark_conjur-oss-helm-chart,2020-06-24 12:37:56+00:00,,,,,
+35,pullRequests,cyberark_conjur-oss-helm-chart,2020-07-06 18:01:46+00:00,,,,,
+36,pullRequests,cyberark_conjur-oss-helm-chart,2020-08-04 06:24:38+00:00,,,,,
+37,pullRequests,cyberark_conjur-oss-helm-chart,2020-08-10 17:51:49+00:00,,,,,
+38,pullRequests,cyberark_conjur-oss-helm-chart,2020-10-02 17:59:40+00:00,,,,,
+39,pullRequests,cyberark_conjur-oss-helm-chart,2020-10-02 22:59:46+00:00,,,,,
+40,pullRequests,cyberark_conjur-oss-helm-chart,2020-10-06 17:49:14+00:00,,,,,
+41,pullRequests,cyberark_conjur-oss-helm-chart,2020-10-06 19:24:50+00:00,,,,,
+42,pullRequests,cyberark_conjur-oss-helm-chart,2020-10-07 03:39:11+00:00,,,,,
+43,pullRequests,cyberark_conjur-oss-helm-chart,2020-10-08 17:32:04+00:00,,,,,
+44,pullRequests,cyberark_conjur-oss-helm-chart,2020-10-12 10:21:40+00:00,,,,,
+45,pullRequests,cyberark_conjur-oss-helm-chart,2020-10-15 14:25:14+00:00,,,,,
+46,pullRequests,cyberark_conjur-oss-helm-chart,2020-10-16 19:07:20+00:00,,,,,
+47,pullRequests,cyberark_conjur-oss-helm-chart,2020-10-19 12:37:02+00:00,,,,,
+48,pullRequests,cyberark_conjur-oss-helm-chart,2020-10-19 17:07:46+00:00,,,,,
+49,pullRequests,cyberark_conjur-oss-helm-chart,2020-10-20 15:13:09+00:00,,,,,
+50,pullRequests,cyberark_conjur-oss-helm-chart,2020-10-23 18:31:15+00:00,,,,,
+51,pullRequests,cyberark_conjur-oss-helm-chart,2020-10-29 16:46:40+00:00,,,,,
+52,pullRequests,cyberark_conjur-oss-helm-chart,2020-10-30 16:02:25+00:00,,,,,
+53,pullRequests,cyberark_conjur-oss-helm-chart,2020-10-30 20:05:10+00:00,,,,,
+54,pullRequests,cyberark_conjur-oss-helm-chart,2020-10-30 20:58:35+00:00,,,,,
+55,pullRequests,cyberark_conjur-oss-helm-chart,2020-11-03 15:10:55+00:00,,,,,
+56,pullRequests,cyberark_conjur-oss-helm-chart,2020-11-03 21:44:28+00:00,,,,,
+57,pullRequests,cyberark_conjur-oss-helm-chart,2020-11-05 21:16:31+00:00,,,,,
+58,pullRequests,cyberark_conjur-oss-helm-chart,2020-11-09 20:02:01+00:00,,,,,
+59,pullRequests,cyberark_conjur-oss-helm-chart,2020-11-10 19:21:25+00:00,,,,,
+60,pullRequests,cyberark_conjur-oss-helm-chart,2020-11-18 15:52:32+00:00,,,,,
+61,pullRequests,cyberark_conjur-oss-helm-chart,2020-12-01 00:21:56+00:00,,,,,
+62,pullRequests,cyberark_conjur-oss-helm-chart,2020-12-02 16:44:24+00:00,,,,,
+63,pullRequests,cyberark_conjur-oss-helm-chart,2020-12-23 20:33:43+00:00,,,,,
+64,pullRequests,cyberark_conjur-oss-helm-chart,2020-12-23 22:20:18+00:00,,,,,
+65,pullRequests,cyberark_conjur-oss-helm-chart,2020-12-24 18:49:11+00:00,,,,,
+66,pullRequests,cyberark_conjur-oss-helm-chart,2020-12-28 22:14:35+00:00,,,,,
+67,pullRequests,cyberark_conjur-oss-helm-chart,2020-12-30 16:03:11+00:00,,,,,
+68,pullRequests,cyberark_conjur-oss-helm-chart,2020-12-30 16:23:06+00:00,,,,,
+69,pullRequests,cyberark_conjur-oss-helm-chart,2020-12-30 16:34:50+00:00,,,,,
+70,pullRequests,cyberark_conjur-oss-helm-chart,2021-02-01 13:17:10+00:00,,,,,
+71,pullRequests,cyberark_conjur-oss-helm-chart,2021-03-08 22:17:28+00:00,,,,,
+72,pullRequests,cyberark_conjur-oss-helm-chart,2021-03-11 13:06:53+00:00,,,,,
+73,pullRequests,cyberark_conjur-oss-helm-chart,2021-03-18 13:11:01+00:00,,,,,
+74,pullRequests,cyberark_conjur-oss-helm-chart,2021-03-19 05:46:12+00:00,,,,,
+75,pullRequests,cyberark_conjur-oss-helm-chart,2021-03-19 18:03:57+00:00,,,,,
+76,pullRequests,cyberark_conjur-oss-helm-chart,2021-04-12 14:05:22+00:00,,,,,
+77,pullRequests,cyberark_conjur-oss-helm-chart,2021-06-17 17:04:29+00:00,,,,,
+78,pullRequests,cyberark_conjur-oss-helm-chart,2021-07-13 21:25:20+00:00,,,,,
+79,pullRequests,cyberark_conjur-oss-helm-chart,2021-07-14 20:32:51+00:00,,,,,
+80,pullRequests,cyberark_conjur-oss-helm-chart,2021-07-15 13:47:16+00:00,,,,,
+81,pullRequests,cyberark_conjur-oss-helm-chart,2021-07-15 14:05:59+00:00,,,,,
+82,pullRequests,cyberark_conjur-oss-helm-chart,2021-07-15 17:40:38+00:00,,,,,
+83,pullRequests,cyberark_conjur-oss-helm-chart,2021-07-16 23:22:13+00:00,,,,,
+84,pullRequests,cyberark_conjur-oss-helm-chart,2021-08-03 18:36:19+00:00,,,,,
+85,pullRequests,cyberark_conjur-oss-helm-chart,2021-08-06 23:03:29+00:00,,,,,
+86,pullRequests,cyberark_conjur-oss-helm-chart,2021-08-11 15:54:03+00:00,,,,,
+87,pullRequests,cyberark_conjur-oss-helm-chart,2021-09-21 14:18:18+00:00,,,,,
+88,pullRequests,cyberark_conjur-oss-helm-chart,2021-09-22 01:04:08+00:00,,,,,
+89,pullRequests,cyberark_conjur-oss-helm-chart,2021-10-12 14:54:14+00:00,,,,,
+90,pullRequests,cyberark_conjur-oss-helm-chart,2022-01-06 16:46:01+00:00,,,,,
+91,pullRequests,cyberark_conjur-oss-helm-chart,2022-01-10 19:44:04+00:00,,,,,
+92,pullRequests,cyberark_conjur-oss-helm-chart,2022-01-12 14:09:10+00:00,,,,,
+93,pullRequests,cyberark_conjur-oss-helm-chart,2022-01-12 16:45:18+00:00,,,,,
+94,pullRequests,cyberark_conjur-oss-helm-chart,2022-02-10 22:07:47+00:00,,,,,
+0,releases,cyberark_conjur-oss-helm-chart,2018-07-25 16:47:33+00:00,,,,,
+1,releases,cyberark_conjur-oss-helm-chart,2018-08-01 17:21:30+00:00,,,,,
+2,releases,cyberark_conjur-oss-helm-chart,2018-08-01 20:27:45+00:00,,,,,
+3,releases,cyberark_conjur-oss-helm-chart,2019-01-18 22:38:12+00:00,,,,,
+4,releases,cyberark_conjur-oss-helm-chart,2019-01-22 18:06:36+00:00,,,,,
+5,releases,cyberark_conjur-oss-helm-chart,2019-01-22 22:43:12+00:00,,,,,
+6,releases,cyberark_conjur-oss-helm-chart,2019-02-01 15:15:29+00:00,,,,,
+7,releases,cyberark_conjur-oss-helm-chart,2019-12-20 20:48:53+00:00,,,,,
+8,releases,cyberark_conjur-oss-helm-chart,2020-06-18 19:48:47+00:00,,,,,
+9,releases,cyberark_conjur-oss-helm-chart,2020-10-30 22:01:32+00:00,,,,,
+10,releases,cyberark_conjur-oss-helm-chart,2020-12-02 18:22:31+00:00,,,,,
+11,releases,cyberark_conjur-oss-helm-chart,2020-12-30 16:18:08+00:00,,,,,
+12,releases,cyberark_conjur-oss-helm-chart,2021-04-12 14:25:48+00:00,,,,,
+0,stargazers,cyberark_conjur-oss-helm-chart,2018-08-01 14:09:41+00:00,,,,,
+1,stargazers,cyberark_conjur-oss-helm-chart,2018-08-02 12:34:52+00:00,,,,,
+2,stargazers,cyberark_conjur-oss-helm-chart,2018-08-31 15:27:13+00:00,,,,,
+3,stargazers,cyberark_conjur-oss-helm-chart,2018-09-06 13:02:28+00:00,,,,,
+4,stargazers,cyberark_conjur-oss-helm-chart,2018-12-05 09:16:29+00:00,,,,,
+5,stargazers,cyberark_conjur-oss-helm-chart,2018-12-25 08:33:05+00:00,,,,,
+6,stargazers,cyberark_conjur-oss-helm-chart,2019-06-07 14:11:30+00:00,,,,,
+7,stargazers,cyberark_conjur-oss-helm-chart,2020-02-01 18:37:06+00:00,,,,,
+8,stargazers,cyberark_conjur-oss-helm-chart,2020-02-12 09:24:02+00:00,,,,,
+9,stargazers,cyberark_conjur-oss-helm-chart,2020-02-14 20:00:22+00:00,,,,,
+10,stargazers,cyberark_conjur-oss-helm-chart,2020-02-26 15:34:17+00:00,,,,,
+11,stargazers,cyberark_conjur-oss-helm-chart,2020-03-19 18:51:20+00:00,,,,,
+12,stargazers,cyberark_conjur-oss-helm-chart,2020-04-17 12:31:07+00:00,,,,,
+13,stargazers,cyberark_conjur-oss-helm-chart,2020-07-30 08:52:38+00:00,,,,,
+14,stargazers,cyberark_conjur-oss-helm-chart,2020-10-30 20:29:23+00:00,,,,,
+15,stargazers,cyberark_conjur-oss-helm-chart,2020-12-30 06:54:45+00:00,,,,,
+16,stargazers,cyberark_conjur-oss-helm-chart,2021-08-20 07:59:10+00:00,,,,,
+17,stargazers,cyberark_conjur-oss-helm-chart,2021-11-19 20:48:30+00:00,,,,,
+18,stargazers,cyberark_conjur-oss-helm-chart,2021-11-26 04:16:44+00:00,,,,,
+19,stargazers,cyberark_conjur-oss-helm-chart,2021-12-19 18:16:55+00:00,,,,,
+20,stargazers,cyberark_conjur-oss-helm-chart,2022-02-09 07:29:08+00:00,,,,,
+21,stargazers,cyberark_conjur-oss-helm-chart,2022-03-25 15:10:22+00:00,,,,,

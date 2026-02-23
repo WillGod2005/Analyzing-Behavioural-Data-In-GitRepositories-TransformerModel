@@ -1,0 +1,166 @@
+,type,name,created_at,Hash,Add,Del,Files,Vuln
+4810,ReleaseEvent,iubenda_iubenda-cookie-class,2018-11-09 09:21:42 UTC,,,,,
+22631,PublicEvent,iubenda_iubenda-cookie-class,2018-07-19 13:16:48 UTC,,,,,
+35179,ReleaseEvent,iubenda_iubenda-cookie-class,2018-09-25 17:41:09 UTC,,,,,
+97788,ForkEvent,iubenda_iubenda-cookie-class,2018-07-26 13:33:25 UTC,,,,,
+320922,PushEvent,iubenda_iubenda-cookie-class,2018-11-08 13:40:08 UTC,,,,,
+527851,PushEvent,iubenda_iubenda-cookie-class,2018-11-15 15:08:52 UTC,,,,,
+533501,PushEvent,iubenda_iubenda-cookie-class,2018-11-28 10:56:12 UTC,,,,,
+533502,PushEvent,iubenda_iubenda-cookie-class,2018-12-18 14:22:12 UTC,,,,,
+543223,PushEvent,iubenda_iubenda-cookie-class,2018-09-14 14:10:16 UTC,,,,,
+593370,PushEvent,iubenda_iubenda-cookie-class,2018-09-14 14:13:49 UTC,,,,,
+652904,PushEvent,iubenda_iubenda-cookie-class,2018-11-28 10:14:21 UTC,,,,,
+679400,PushEvent,iubenda_iubenda-cookie-class,2018-12-12 12:07:24 UTC,,,,,
+707531,PushEvent,iubenda_iubenda-cookie-class,2018-09-25 17:32:52 UTC,,,,,
+723918,PushEvent,iubenda_iubenda-cookie-class,2018-07-27 13:53:17 UTC,,,,,
+779005,PushEvent,iubenda_iubenda-cookie-class,2018-09-25 17:38:54 UTC,,,,,
+796486,PushEvent,iubenda_iubenda-cookie-class,2018-11-14 10:19:50 UTC,,,,,
+1436622,WatchEvent,iubenda_iubenda-cookie-class,2018-07-20 20:38:01 UTC,,,,,
+1893774,CreateEvent,iubenda_iubenda-cookie-class,2018-11-09 09:21:42 UTC,,,,,
+1919376,CreateEvent,iubenda_iubenda-cookie-class,2018-09-25 17:41:09 UTC,,,,,
+2560431,PullRequestEvent,iubenda_iubenda-cookie-class,2018-07-27 13:53:16 UTC,,,,,
+2876566,PullRequestEvent,iubenda_iubenda-cookie-class,2018-07-26 13:59:49 UTC,,,,,
+5331,CommitCommentEvent,iubenda_iubenda-cookie-class,2020-01-13 15:47:38 UTC,,,,,
+5405,ReleaseEvent,iubenda_iubenda-cookie-class,2019-04-11 09:38:57 UTC,,,,,
+23044,ReleaseEvent,iubenda_iubenda-cookie-class,2019-10-28 11:47:21 UTC,,,,,
+26854,ReleaseEvent,iubenda_iubenda-cookie-class,2019-05-10 11:46:13 UTC,,,,,
+27517,ReleaseEvent,iubenda_iubenda-cookie-class,2019-12-23 15:21:22 UTC,,,,,
+258843,ForkEvent,iubenda_iubenda-cookie-class,2020-01-09 10:50:43 UTC,,,,,
+428283,PushEvent,iubenda_iubenda-cookie-class,2019-12-20 16:03:43 UTC,,,,,
+604826,PushEvent,iubenda_iubenda-cookie-class,2019-10-28 11:48:40 UTC,,,,,
+735269,PushEvent,iubenda_iubenda-cookie-class,2019-04-08 12:25:10 UTC,,,,,
+961909,PushEvent,iubenda_iubenda-cookie-class,2019-07-31 13:10:49 UTC,,,,,
+1000257,PushEvent,iubenda_iubenda-cookie-class,2019-05-10 08:39:09 UTC,,,,,
+1033557,PushEvent,iubenda_iubenda-cookie-class,2019-04-08 12:23:28 UTC,,,,,
+1054606,PushEvent,iubenda_iubenda-cookie-class,2019-12-19 08:48:58 UTC,,,,,
+1131004,PushEvent,iubenda_iubenda-cookie-class,2019-04-30 10:33:14 UTC,,,,,
+1131360,PushEvent,iubenda_iubenda-cookie-class,2019-04-11 09:36:54 UTC,,,,,
+1183643,PushEvent,iubenda_iubenda-cookie-class,2020-01-13 15:28:28 UTC,,,,,
+2309389,CreateEvent,iubenda_iubenda-cookie-class,2019-05-10 11:46:14 UTC,,,,,
+2373430,CreateEvent,iubenda_iubenda-cookie-class,2019-10-28 11:47:22 UTC,,,,,
+2380720,CreateEvent,iubenda_iubenda-cookie-class,2019-12-23 15:21:22 UTC,,,,,
+2382567,CreateEvent,iubenda_iubenda-cookie-class,2019-04-11 09:38:57 UTC,,,,,
+0,Commit,iubenda_iubenda-cookie-class,2022-12-08 11:31:19,e9319aefdeff885c8ea5dd09ee9e1bc6cf4ee9aa,5.0,4.0,2.0,0.0
+1,Commit,iubenda_iubenda-cookie-class,2022-08-25 08:47:04,75aaaa41dcfc1702237be5ee7dccfe77df513702,29.0,26.0,5.0,0.0
+2,Commit,iubenda_iubenda-cookie-class,2022-06-28 13:46:03,498c6b6dcd73123b4de091800f361aa0633c9ef5,7.0,4.0,2.0,0.0
+3,Commit,iubenda_iubenda-cookie-class,2022-06-17 10:45:31,5e1caa875a1fbc1a0db9c042fa3f57e0ae96efe7,6.0,3.0,2.0,0.0
+4,Commit,iubenda_iubenda-cookie-class,2022-06-17 10:45:31,1fe6355bcb1518c824a49f43aecc0e6fa9344ac6,30.0,9.0,1.0,0.0
+5,Commit,iubenda_iubenda-cookie-class,2020-12-22 20:05:04,31cf74682b28390de4e89de1edcd114d4f904244,4.0,1.0,2.0,0.0
+6,Commit,iubenda_iubenda-cookie-class,2020-11-25 10:17:54,2bec6148b5e5d19e3c7d267e303b3bdbd8792793,8.0,1.0,2.0,0.0
+7,Commit,iubenda_iubenda-cookie-class,2020-10-21 10:58:57,72a3f1b38fe442015a54d0242001ecbce95768da,1.0,1.0,1.0,0.0
+8,Commit,iubenda_iubenda-cookie-class,2020-10-21 10:29:50,e20fac0920ff69266fd92096c7353a12d69d40ce,3.0,0.0,1.0,0.0
+9,Commit,iubenda_iubenda-cookie-class,2020-10-21 10:15:55,779597800529e79fc0141608d925b52605991cc4,3.0,3.0,1.0,0.0
+10,Commit,iubenda_iubenda-cookie-class,2020-08-18 16:10:42,519d8c45c6afe2aedd947d529ad0058329bbbaa6,3.0,0.0,1.0,0.0
+11,Commit,iubenda_iubenda-cookie-class,2020-08-18 16:10:38,526d730038dc5b3d41eecd0f61dd1e54ce12f8a4,4.0,1.0,3.0,0.0
+12,Commit,iubenda_iubenda-cookie-class,2020-05-12 10:42:06,39fa8c6adde6f8c24c0f14d639fbfcc784cd9e52,4.0,1.0,2.0,0.0
+13,Commit,iubenda_iubenda-cookie-class,2020-05-12 09:35:16,545e0586320ae6f16204ba548cf533ef75dc2fbd,3.0,1.0,1.0,1.0
+14,Commit,iubenda_iubenda-cookie-class,2020-05-11 16:25:46,01042e0996c9c403793dfb67ef6b6687730a19d0,114.0,111.0,6.0,0.0
+15,Commit,iubenda_iubenda-cookie-class,2020-01-13 15:28:16,742ba38a81047322b9f24b5e4df3d822cc151127,37.0,2.0,2.0,0.0
+16,Commit,iubenda_iubenda-cookie-class,2019-12-20 16:03:32,29bef98fbb8faf540328f3808c1c74f83c84f9e6,41.0,38.0,1.0,0.0
+17,Commit,iubenda_iubenda-cookie-class,2019-12-19 08:48:44,60daee839ef4a872684a3cce2e22f2dead2a8d14,396.0,171.0,2.0,0.0
+18,Commit,iubenda_iubenda-cookie-class,2019-10-28 11:48:25,c4bc8bfbc3feb7d887616f14bdc3a058bcf367a3,74.0,35.0,8.0,0.0
+19,Commit,iubenda_iubenda-cookie-class,2019-07-31 13:10:33,71c2c54a870ed591f34fd9dbb2dbd0353075bd4d,1479.0,862.0,2.0,0.0
+20,Commit,iubenda_iubenda-cookie-class,2019-05-10 08:38:53,bd6161e937b503912124571728ed875c641154c6,1.0,1.0,1.0,0.0
+21,Commit,iubenda_iubenda-cookie-class,2019-04-30 10:33:01,1bc8868291d779ba3ccb3bc6efb6a32ef4990855,145.0,12.0,2.0,0.0
+22,Commit,iubenda_iubenda-cookie-class,2019-04-11 09:36:39,50bf652cb77a5e9ac1fc2a38cf4067288c5a724f,3.0,0.0,1.0,0.0
+23,Commit,iubenda_iubenda-cookie-class,2019-04-08 12:24:56,6b67901f6689451db8db515b1b9d26821007c2f1,1.0,1.0,1.0,0.0
+24,Commit,iubenda_iubenda-cookie-class,2019-04-08 12:23:15,c73e7fbc9a7d5a5afb397ef0fddb93d602002603,4.0,4.0,3.0,0.0
+25,Commit,iubenda_iubenda-cookie-class,2019-01-25 13:36:12,358603a7f25826dd56fc79b603b1900dda87ec41,5.0,4.0,2.0,0.0
+26,Commit,iubenda_iubenda-cookie-class,2019-01-25 10:19:02,cffde5965c9bca2b1a4f97272567d5248f41bb8b,6.0,1.0,1.0,0.0
+27,Commit,iubenda_iubenda-cookie-class,2018-12-18 14:21:43,c06e2200d81aca53cedecd585c75d31904d7a5bd,9.0,1.0,2.0,0.0
+28,Commit,iubenda_iubenda-cookie-class,2018-12-12 12:07:14,ada5034919f2ab18ff6df1091716ec02d07266a5,13.0,2.0,2.0,0.0
+29,Commit,iubenda_iubenda-cookie-class,2018-11-28 10:56:02,f286def0facc6441133060362a8257efa784b8c4,9.0,17.0,2.0,0.0
+30,Commit,iubenda_iubenda-cookie-class,2018-11-28 10:14:11,a7561575d7231059e75328f76f1c7954b63221dc,44.0,2.0,2.0,0.0
+31,Commit,iubenda_iubenda-cookie-class,2018-11-15 15:08:40,cf272f5d1f4e46d6cda432c219397bac22c000b0,2.0,0.0,1.0,0.0
+32,Commit,iubenda_iubenda-cookie-class,2018-11-14 10:19:38,74b48a48475d5eb3c66389c4aacd96a50b1c94ff,16.0,6.0,1.0,0.0
+33,Commit,iubenda_iubenda-cookie-class,2018-11-08 13:39:53,0a4b3286847845cc1fab3c6c303a9cd8f98f1fc3,55.0,10.0,2.0,0.0
+34,Commit,iubenda_iubenda-cookie-class,2018-09-25 17:38:24,dbc22c7307c27c87019310275f1cd2f6e0fcdb89,3.0,10.0,2.0,0.0
+35,Commit,iubenda_iubenda-cookie-class,2018-09-25 17:32:41,11e02f18704c4eb2a03fbcdf8becee4be67dce6b,10.0,0.0,1.0,0.0
+36,Commit,iubenda_iubenda-cookie-class,2018-09-14 14:13:39,adf0812a5d1e71ab359453c39338d68b328ce858,14.0,19.0,1.0,0.0
+37,Commit,iubenda_iubenda-cookie-class,2018-09-14 14:09:59,29703a172b099302483e5196bcb53e711ab0265f,0.0,0.0,0.0,0.0
+38,Commit,iubenda_iubenda-cookie-class,2018-09-14 14:09:32,877709c92f600cbcc6feafd221bd450c666cdec5,834.0,289.0,6.0,0.0
+39,Commit,iubenda_iubenda-cookie-class,2018-07-19 11:30:49,912975d223ac75201e686978b6dd383b69f4dd49,11.0,0.0,1.0,0.0
+40,Commit,iubenda_iubenda-cookie-class,2018-03-22 08:45:53,cf8a2d159b61638ce96499e32d9de7aaa20ec0df,36.0,30.0,2.0,0.0
+41,Commit,iubenda_iubenda-cookie-class,2018-03-08 10:46:42,55199bf42cfe9a1a2f0ca08fda2ce0acca355faf,527.0,509.0,5.0,0.0
+42,Commit,iubenda_iubenda-cookie-class,2016-07-22 14:43:58,c8cbe15111cad15b8a9b583e935b0d108b48f801,4.0,4.0,1.0,0.0
+43,Commit,iubenda_iubenda-cookie-class,2016-05-10 16:46:03,4d552bd47d9dfca41680fa493aed126d90315814,5.0,4.0,2.0,0.0
+44,Commit,iubenda_iubenda-cookie-class,2016-04-27 18:36:02,cea44ec536a580a9d3f0420259019e720a62bb2c,23.0,10.0,2.0,0.0
+45,Commit,iubenda_iubenda-cookie-class,2016-03-30 10:14:23,c5a6703b23a8f912182472601459281483e436ec,0.0,0.0,0.0,0.0
+46,Commit,iubenda_iubenda-cookie-class,2016-03-30 10:09:09,17d80c78181773269242351ce3bed3349d79f6a8,0.0,0.0,0.0,0.0
+47,Commit,iubenda_iubenda-cookie-class,2016-01-13 17:30:54,3828c01f40563fcb7b95b2ae2518bec492021fb2,35.0,0.0,2.0,0.0
+48,Commit,iubenda_iubenda-cookie-class,2016-01-13 17:24:40,44ec89a38894e7b7cae30f0aa910e79ad49b88eb,0.0,0.0,0.0,0.0
+49,Commit,iubenda_iubenda-cookie-class,2016-01-13 17:24:40,574a504ce12542da169417837584542ac33c012c,0.0,0.0,0.0,0.0
+50,Commit,iubenda_iubenda-cookie-class,2016-01-13 17:23:05,6dee049bb2b3b77dbaacb7d13477d1c74481a731,0.0,0.0,0.0,0.0
+51,Commit,iubenda_iubenda-cookie-class,2016-01-13 15:31:05,f93be64f988fe63056c33df506dc47a52eb5bac0,22.0,7.0,2.0,0.0
+52,Commit,iubenda_iubenda-cookie-class,2016-01-08 15:18:17,99ee2d00db10a3dc2c12812dc417be3972014e03,0.0,0.0,0.0,0.0
+53,Commit,iubenda_iubenda-cookie-class,2016-01-08 15:15:32,8384a3df3e5864f9bca690fc0e549191b6d6df7a,163.0,0.0,1.0,0.0
+54,Commit,iubenda_iubenda-cookie-class,2016-01-06 10:10:11,13a2c890c16b8eba3096206d6d4fdf362c6d4e6c,0.0,0.0,0.0,0.0
+55,Commit,iubenda_iubenda-cookie-class,2016-01-06 10:10:11,e8c393fe5970c6f96cd1b67793b61c74ca371a7e,0.0,0.0,0.0,0.0
+56,Commit,iubenda_iubenda-cookie-class,2016-01-06 10:09:47,55b15c8d72bd0360d234a2130eab7094e671e7ac,0.0,0.0,0.0,0.0
+57,Commit,iubenda_iubenda-cookie-class,2016-01-06 10:09:31,d837ac9cbad963cddfe34cc7dceb6a6ba565446d,1.0,1.0,1.0,0.0
+58,Commit,iubenda_iubenda-cookie-class,2016-01-06 10:04:39,bdbc1aff488d953789d577e8ca2b783dfeb2770c,98.0,143.0,3.0,0.0
+59,Commit,iubenda_iubenda-cookie-class,2016-01-05 21:24:48,426aff7d9d4a35827dcc0eeabb8badb4efb176d2,0.0,0.0,0.0,0.0
+60,Commit,iubenda_iubenda-cookie-class,2016-01-05 21:22:05,9e1bc8df08e534c0be14ce554422cf8598937f8e,1.0,0.0,1.0,0.0
+61,Commit,iubenda_iubenda-cookie-class,2016-01-05 21:20:54,2211ac5e758fda17ae7b69fb87c2782be8b03a4d,1.0,0.0,1.0,0.0
+62,Commit,iubenda_iubenda-cookie-class,2015-11-24 17:37:45,6d308b6b8ad0d0cddbcde10da3150111197a5cf0,138.0,93.0,3.0,0.0
+63,Commit,iubenda_iubenda-cookie-class,2015-11-11 15:49:21,d6bd6bcb67bd8a31a18df16284c343dc3caafd6a,3.0,2.0,1.0,0.0
+64,Commit,iubenda_iubenda-cookie-class,2015-11-11 15:18:00,217c68faf53cf7b6fa098302462a21d2f7d0fed4,1.0,1.0,1.0,0.0
+65,Commit,iubenda_iubenda-cookie-class,2015-11-06 10:12:35,01607b818f8401f19c8f4f11a341708aa8887c2f,5.0,12.0,1.0,0.0
+66,Commit,iubenda_iubenda-cookie-class,2015-10-27 16:03:19,3f406b173c123cf823f7ec9686dc7c92efd8c8bc,10.0,4.0,1.0,0.0
+67,Commit,iubenda_iubenda-cookie-class,2015-10-22 14:06:00,40aaef24e296c8e4c13798bd47fbda1685ea8cb6,0.0,4.0,1.0,0.0
+68,Commit,iubenda_iubenda-cookie-class,2015-10-15 15:09:06,de402b5b7333aa8f864ed0c18de8844b90ecdf87,3.0,4.0,1.0,0.0
+69,Commit,iubenda_iubenda-cookie-class,2015-10-10 15:41:48,5c8fb31d3827fc85103f6b6baa6f468f89dcb966,1.0,7.0,1.0,0.0
+70,Commit,iubenda_iubenda-cookie-class,2015-09-30 16:43:21,e35b70efdfd768556721c0c514541a354ec574c1,38.0,22.0,1.0,0.0
+71,Commit,iubenda_iubenda-cookie-class,2015-09-30 16:37:01,38f601d102b4282a2e36d9cdddc082c3bdd94ca8,8.0,0.0,1.0,0.0
+72,Commit,iubenda_iubenda-cookie-class,2015-09-30 16:37:01,1cebf174aadb26398e5894e496486ae46d18f95a,1.0,1.0,1.0,0.0
+73,Commit,iubenda_iubenda-cookie-class,2015-09-30 09:08:17,8f07712f93a2f2df832c810c46057dc21e2b1e71,4.0,0.0,1.0,0.0
+74,Commit,iubenda_iubenda-cookie-class,2015-09-25 14:18:46,c11b9a44b540c209d92a7943cf4e766ec61aef91,55.0,1.0,1.0,0.0
+75,Commit,iubenda_iubenda-cookie-class,2015-09-25 13:27:31,71427f349b83b7129d79be8bcaeb024e6ea88e1a,49.0,32.0,1.0,0.0
+76,Commit,iubenda_iubenda-cookie-class,2015-09-24 19:08:10,d05df8471f38bfe209280f3e0b28f76a78de03da,1.0,1.0,1.0,0.0
+77,Commit,iubenda_iubenda-cookie-class,2015-09-24 15:35:16,af4a372ffb08818576f25f4e374fc882751c3e2c,1.0,1.0,1.0,0.0
+78,Commit,iubenda_iubenda-cookie-class,2015-09-24 13:16:18,a60ee8a29ca32c199a13aeae4ae5246a551bab8a,1.0,13.0,1.0,0.0
+79,Commit,iubenda_iubenda-cookie-class,2015-09-24 10:57:20,000e2ba3012fb208059329c320f94c0c6de7aa13,1.0,1.0,1.0,0.0
+80,Commit,iubenda_iubenda-cookie-class,2015-09-23 19:07:25,59c7dfde4da0662fc742b7ecee26eea1a0652328,1.0,1.0,1.0,0.0
+81,Commit,iubenda_iubenda-cookie-class,2015-09-23 16:56:16,30d5dc67967ebd066554edc3cb6cc6186ce5a758,1.0,1.0,1.0,0.0
+82,Commit,iubenda_iubenda-cookie-class,2015-09-23 16:15:38,d1cae849f71ef4ee0a90225a94a4b023aa63dd21,69.0,42.0,1.0,0.0
+83,Commit,iubenda_iubenda-cookie-class,2015-09-17 17:38:39,c149a3af6701610fc40d56fb3636ef09569289b0,2.0,2.0,1.0,0.0
+84,Commit,iubenda_iubenda-cookie-class,2015-09-17 16:57:56,13a01f0ccd3f6db464a0e6ff997c850617a548cc,2.0,2.0,1.0,0.0
+85,Commit,iubenda_iubenda-cookie-class,2015-09-17 16:36:19,1a86086d247c0bcc4f339e8b29c07e30b69020e7,6.0,3.0,1.0,0.0
+86,Commit,iubenda_iubenda-cookie-class,2015-09-17 16:22:35,160f633861bc88a19dfa725bee1b128af058ce46,2.0,2.0,1.0,0.0
+87,Commit,iubenda_iubenda-cookie-class,2015-09-17 15:03:55,1ca63cda6965c645cbc3ccaa7e8a8364044a8ec3,1.0,1.0,1.0,0.0
+88,Commit,iubenda_iubenda-cookie-class,2015-09-17 12:29:35,434bb7ae5ad34a6331c5fff9f1c000030a7b4f99,3.0,1.0,1.0,0.0
+89,Commit,iubenda_iubenda-cookie-class,2015-09-10 10:57:05,74fb0fc72f9af9a23a8c056454734d6331cb95c5,2132.0,0.0,4.0,0.0
+0,forks,iubenda_iubenda-cookie-class,2018-07-26 13:33:25+00:00,,,,,
+1,forks,iubenda_iubenda-cookie-class,2020-01-09 10:50:42+00:00,,,,,
+2,forks,iubenda_iubenda-cookie-class,2020-11-12 17:02:37+00:00,,,,,
+0,issues,iubenda_iubenda-cookie-class,2020-07-31 14:11:51+00:00,,,,,
+1,issues,iubenda_iubenda-cookie-class,2020-09-04 09:43:49+00:00,,,,,
+2,issues,iubenda_iubenda-cookie-class,2022-06-25 16:22:19+00:00,,,,,
+0,pullRequests,iubenda_iubenda-cookie-class,2018-07-26 13:59:49+00:00,,,,,
+1,pullRequests,iubenda_iubenda-cookie-class,2020-08-18 16:11:04+00:00,,,,,
+2,pullRequests,iubenda_iubenda-cookie-class,2020-10-21 10:25:14+00:00,,,,,
+3,pullRequests,iubenda_iubenda-cookie-class,2020-11-11 11:37:57+00:00,,,,,
+4,pullRequests,iubenda_iubenda-cookie-class,2020-11-12 17:05:52+00:00,,,,,
+5,pullRequests,iubenda_iubenda-cookie-class,2021-01-28 16:27:03+00:00,,,,,
+6,pullRequests,iubenda_iubenda-cookie-class,2022-06-15 12:13:00+00:00,,,,,
+0,releases,iubenda_iubenda-cookie-class,2018-03-22 08:45:53+00:00,,,,,
+1,releases,iubenda_iubenda-cookie-class,2018-09-25 17:38:24+00:00,,,,,
+2,releases,iubenda_iubenda-cookie-class,2018-11-08 13:39:53+00:00,,,,,
+3,releases,iubenda_iubenda-cookie-class,2019-01-25 13:36:12+00:00,,,,,
+4,releases,iubenda_iubenda-cookie-class,2019-04-11 09:36:39+00:00,,,,,
+5,releases,iubenda_iubenda-cookie-class,2019-05-10 08:38:53+00:00,,,,,
+6,releases,iubenda_iubenda-cookie-class,2019-07-31 13:10:33+00:00,,,,,
+7,releases,iubenda_iubenda-cookie-class,2019-12-20 16:03:32+00:00,,,,,
+8,releases,iubenda_iubenda-cookie-class,2020-05-11 16:25:46+00:00,,,,,
+9,releases,iubenda_iubenda-cookie-class,2020-05-12 10:42:06+00:00,,,,,
+10,releases,iubenda_iubenda-cookie-class,2020-08-18 16:15:12+00:00,,,,,
+11,releases,iubenda_iubenda-cookie-class,2020-10-21 10:58:57+00:00,,,,,
+12,releases,iubenda_iubenda-cookie-class,2020-11-13 15:30:59+00:00,,,,,
+13,releases,iubenda_iubenda-cookie-class,2020-11-25 10:17:54+00:00,,,,,
+14,releases,iubenda_iubenda-cookie-class,2020-12-22 20:05:04+00:00,,,,,
+15,releases,iubenda_iubenda-cookie-class,2021-02-03 13:46:23+00:00,,,,,
+16,releases,iubenda_iubenda-cookie-class,2022-06-17 10:45:31+00:00,,,,,
+17,releases,iubenda_iubenda-cookie-class,2022-06-28 13:46:03+00:00,,,,,
+0,stargazers,iubenda_iubenda-cookie-class,2018-07-20 20:38:01+00:00,,,,,
+1,stargazers,iubenda_iubenda-cookie-class,2021-02-08 15:16:15+00:00,,,,,
+2,stargazers,iubenda_iubenda-cookie-class,2021-02-09 16:26:46+00:00,,,,,

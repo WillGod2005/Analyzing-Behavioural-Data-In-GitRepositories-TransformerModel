@@ -1,0 +1,2203 @@
+,type,name,created_at,Hash,Add,Del,Files,Vuln
+2593,IssueCommentEvent,mongoid_moped,2015-02-23 22:11:07 UTC,,,,,
+7995,ForkEvent,mongoid_moped,2015-05-06 14:17:28 UTC,,,,,
+10438,IssueCommentEvent,mongoid_moped,2015-07-02 10:55:52 UTC,,,,,
+14539,IssueCommentEvent,mongoid_moped,2015-08-11 13:37:31 UTC,,,,,
+22339,IssueCommentEvent,mongoid_moped,2015-03-05 14:49:08 UTC,,,,,
+28884,WatchEvent,mongoid_moped,2015-07-17 01:12:38 UTC,,,,,
+30369,IssueCommentEvent,mongoid_moped,2015-06-15 14:51:58 UTC,,,,,
+36776,WatchEvent,mongoid_moped,2015-05-06 14:17:27 UTC,,,,,
+38361,IssueCommentEvent,mongoid_moped,2015-08-28 13:13:47 UTC,,,,,
+44780,WatchEvent,mongoid_moped,2015-02-01 18:18:48 UTC,,,,,
+45348,IssuesEvent,mongoid_moped,2015-04-07 18:25:56 UTC,,,,,
+46348,IssueCommentEvent,mongoid_moped,2015-03-03 01:37:18 UTC,,,,,
+53296,IssuesEvent,mongoid_moped,2015-07-20 01:00:52 UTC,,,,,
+57206,IssuesEvent,mongoid_moped,2015-04-23 22:04:13 UTC,,,,,
+81004,IssuesEvent,mongoid_moped,2015-06-07 13:49:30 UTC,,,,,
+81942,IssueCommentEvent,mongoid_moped,2015-05-22 13:36:51 UTC,,,,,
+108308,WatchEvent,mongoid_moped,2015-06-17 02:55:44 UTC,,,,,
+115347,ForkEvent,mongoid_moped,2015-07-16 08:40:39 UTC,,,,,
+117199,PullRequestEvent,mongoid_moped,2015-04-22 07:41:43 UTC,,,,,
+117864,IssueCommentEvent,mongoid_moped,2015-03-10 23:42:01 UTC,,,,,
+125822,IssueCommentEvent,mongoid_moped,2015-02-12 21:48:56 UTC,,,,,
+149004,PullRequestEvent,mongoid_moped,2015-04-20 14:12:05 UTC,,,,,
+179933,WatchEvent,mongoid_moped,2015-05-28 02:31:00 UTC,,,,,
+185421,IssueCommentEvent,mongoid_moped,2015-01-02 18:05:16 UTC,,,,,
+193397,IssueCommentEvent,mongoid_moped,2015-02-11 17:20:38 UTC,,,,,
+193398,IssueCommentEvent,mongoid_moped,2015-04-13 22:03:31 UTC,,,,,
+209522,IssueCommentEvent,mongoid_moped,2015-06-16 19:22:23 UTC,,,,,
+222386,PullRequestReviewCommentEvent,mongoid_moped,2015-02-12 19:41:48 UTC,,,,,
+243757,CreateEvent,mongoid_moped,2015-06-11 06:36:23 UTC,,,,,
+248911,IssueCommentEvent,mongoid_moped,2015-02-09 16:06:57 UTC,,,,,
+252879,IssueCommentEvent,mongoid_moped,2015-03-03 02:39:15 UTC,,,,,
+252880,IssueCommentEvent,mongoid_moped,2015-05-15 20:42:52 UTC,,,,,
+256856,IssueCommentEvent,mongoid_moped,2015-06-16 13:49:28 UTC,,,,,
+259935,IssuesEvent,mongoid_moped,2015-05-16 16:21:43 UTC,,,,,
+261219,IssueCommentEvent,mongoid_moped,2015-02-23 16:57:34 UTC,,,,,
+261220,IssueCommentEvent,mongoid_moped,2015-08-31 08:23:39 UTC,,,,,
+261221,IssueCommentEvent,mongoid_moped,2015-03-03 01:58:10 UTC,,,,,
+266084,ForkEvent,mongoid_moped,2015-06-04 15:59:31 UTC,,,,,
+270108,ForkEvent,mongoid_moped,2015-02-07 16:05:04 UTC,,,,,
+271178,WatchEvent,mongoid_moped,2015-03-17 15:44:05 UTC,,,,,
+277852,ForkEvent,mongoid_moped,2015-12-18 12:27:42 UTC,,,,,
+287219,IssuesEvent,mongoid_moped,2015-03-15 16:43:12 UTC,,,,,
+295973,IssueCommentEvent,mongoid_moped,2015-01-05 14:16:54 UTC,,,,,
+303796,IssueCommentEvent,mongoid_moped,2015-05-07 19:41:34 UTC,,,,,
+306200,WatchEvent,mongoid_moped,2015-01-26 22:31:47 UTC,,,,,
+311219,PullRequestEvent,mongoid_moped,2015-06-16 13:49:28 UTC,,,,,
+312224,IssueCommentEvent,mongoid_moped,2015-03-21 17:56:55 UTC,,,,,
+316255,IssueCommentEvent,mongoid_moped,2015-08-11 08:46:06 UTC,,,,,
+317426,ForkEvent,mongoid_moped,2015-02-11 23:17:08 UTC,,,,,
+324224,IssueCommentEvent,mongoid_moped,2015-06-16 19:23:36 UTC,,,,,
+329577,PushEvent,mongoid_moped,2015-02-12 19:42:26 UTC,,,,,
+338373,WatchEvent,mongoid_moped,2015-10-28 12:52:11 UTC,,,,,
+340196,IssueCommentEvent,mongoid_moped,2015-03-09 14:21:28 UTC,,,,,
+349421,ForkEvent,mongoid_moped,2015-05-06 08:58:13 UTC,,,,,
+352175,IssueCommentEvent,mongoid_moped,2015-02-08 12:34:13 UTC,,,,,
+355703,IssueCommentEvent,mongoid_moped,2015-08-28 13:00:15 UTC,,,,,
+372031,IssueCommentEvent,mongoid_moped,2015-02-11 17:20:20 UTC,,,,,
+373384,PushEvent,mongoid_moped,2015-01-02 17:57:29 UTC,,,,,
+375502,IssueCommentEvent,mongoid_moped,2015-02-07 16:57:47 UTC,,,,,
+379437,IssueCommentEvent,mongoid_moped,2015-03-21 14:13:05 UTC,,,,,
+383364,IssueCommentEvent,mongoid_moped,2015-06-03 17:01:09 UTC,,,,,
+387330,IssueCommentEvent,mongoid_moped,2015-01-26 15:42:08 UTC,,,,,
+387331,IssueCommentEvent,mongoid_moped,2015-02-11 17:20:25 UTC,,,,,
+399162,IssueCommentEvent,mongoid_moped,2015-03-03 17:40:01 UTC,,,,,
+403573,IssueCommentEvent,mongoid_moped,2015-02-20 17:30:15 UTC,,,,,
+407087,IssueCommentEvent,mongoid_moped,2015-03-25 13:49:41 UTC,,,,,
+415329,IssueCommentEvent,mongoid_moped,2015-04-22 16:29:04 UTC,,,,,
+416485,ForkEvent,mongoid_moped,2015-06-03 07:45:06 UTC,,,,,
+418892,IssueCommentEvent,mongoid_moped,2015-02-17 14:40:53 UTC,,,,,
+418893,IssueCommentEvent,mongoid_moped,2015-06-25 20:32:03 UTC,,,,,
+439053,IssueCommentEvent,mongoid_moped,2015-05-04 14:11:10 UTC,,,,,
+441613,IssuesEvent,mongoid_moped,2015-02-05 23:34:20 UTC,,,,,
+442549,IssueCommentEvent,mongoid_moped,2015-06-15 16:04:14 UTC,,,,,
+446521,IssueCommentEvent,mongoid_moped,2015-02-13 23:22:54 UTC,,,,,
+459454,PullRequestReviewCommentEvent,mongoid_moped,2015-03-24 20:27:30 UTC,,,,,
+463421,PullRequestReviewCommentEvent,mongoid_moped,2015-03-24 20:31:28 UTC,,,,,
+470253,IssueCommentEvent,mongoid_moped,2015-04-19 01:22:49 UTC,,,,,
+472633,WatchEvent,mongoid_moped,2015-03-25 13:51:16 UTC,,,,,
+492423,WatchEvent,mongoid_moped,2015-02-04 23:15:37 UTC,,,,,
+493915,IssueCommentEvent,mongoid_moped,2015-03-05 15:26:57 UTC,,,,,
+501694,IssueCommentEvent,mongoid_moped,2015-03-16 09:33:37 UTC,,,,,
+507348,PushEvent,mongoid_moped,2015-03-24 20:11:55 UTC,,,,,
+525232,IssueCommentEvent,mongoid_moped,2015-06-16 19:23:39 UTC,,,,,
+538168,PullRequestReviewCommentEvent,mongoid_moped,2015-02-12 19:26:01 UTC,,,,,
+540340,PullRequestEvent,mongoid_moped,2015-04-02 17:35:13 UTC,,,,,
+540971,IssueCommentEvent,mongoid_moped,2015-04-06 05:55:24 UTC,,,,,
+548979,IssueCommentEvent,mongoid_moped,2015-02-20 17:28:08 UTC,,,,,
+560717,IssueCommentEvent,mongoid_moped,2015-05-26 09:05:48 UTC,,,,,
+564691,IssueCommentEvent,mongoid_moped,2015-03-03 18:02:47 UTC,,,,,
+584670,IssueCommentEvent,mongoid_moped,2015-02-26 03:43:35 UTC,,,,,
+596418,IssueCommentEvent,mongoid_moped,2015-03-18 15:27:37 UTC,,,,,
+609833,ForkEvent,mongoid_moped,2015-01-06 02:24:06 UTC,,,,,
+620214,IssueCommentEvent,mongoid_moped,2015-02-11 17:20:36 UTC,,,,,
+624181,IssueCommentEvent,mongoid_moped,2015-03-23 03:57:41 UTC,,,,,
+628537,IssueCommentEvent,mongoid_moped,2015-02-20 18:50:31 UTC,,,,,
+647734,IssueCommentEvent,mongoid_moped,2015-02-17 14:55:20 UTC,,,,,
+647735,IssueCommentEvent,mongoid_moped,2015-06-08 00:27:29 UTC,,,,,
+651770,IssueCommentEvent,mongoid_moped,2015-01-23 15:42:15 UTC,,,,,
+651771,IssueCommentEvent,mongoid_moped,2015-05-26 10:59:34 UTC,,,,,
+655705,IssueCommentEvent,mongoid_moped,2015-03-16 19:49:21 UTC,,,,,
+658782,IssuesEvent,mongoid_moped,2015-12-06 09:34:04 UTC,,,,,
+659795,IssueCommentEvent,mongoid_moped,2015-05-26 19:00:36 UTC,,,,,
+659796,IssueCommentEvent,mongoid_moped,2015-02-11 17:20:34 UTC,,,,,
+663850,IssueCommentEvent,mongoid_moped,2015-06-30 19:56:15 UTC,,,,,
+668151,IssueCommentEvent,mongoid_moped,2015-02-17 16:55:48 UTC,,,,,
+673348,PushEvent,mongoid_moped,2015-08-18 08:16:16 UTC,,,,,
+675570,IssueCommentEvent,mongoid_moped,2015-05-25 17:21:01 UTC,,,,,
+679674,IssueCommentEvent,mongoid_moped,2015-01-21 09:10:37 UTC,,,,,
+683597,IssueCommentEvent,mongoid_moped,2015-03-13 21:28:50 UTC,,,,,
+685530,PushEvent,mongoid_moped,2015-01-06 00:29:28 UTC,,,,,
+688049,IssueCommentEvent,mongoid_moped,2015-03-24 19:40:50 UTC,,,,,
+693209,ForkEvent,mongoid_moped,2015-04-29 06:15:06 UTC,,,,,
+699609,IssueCommentEvent,mongoid_moped,2015-03-24 20:10:18 UTC,,,,,
+706858,PullRequestEvent,mongoid_moped,2015-06-09 12:32:28 UTC,,,,,
+707517,IssueCommentEvent,mongoid_moped,2015-04-29 07:26:21 UTC,,,,,
+722197,IssuesEvent,mongoid_moped,2015-02-02 20:48:52 UTC,,,,,
+727545,IssueCommentEvent,mongoid_moped,2015-01-02 18:20:47 UTC,,,,,
+754787,IssueCommentEvent,mongoid_moped,2015-02-11 23:05:56 UTC,,,,,
+758815,IssueCommentEvent,mongoid_moped,2015-06-09 02:13:42 UTC,,,,,
+765164,WatchEvent,mongoid_moped,2015-06-03 01:20:35 UTC,,,,,
+766107,PullRequestEvent,mongoid_moped,2015-03-23 13:10:13 UTC,,,,,
+782441,IssueCommentEvent,mongoid_moped,2015-02-12 02:43:49 UTC,,,,,
+788936,WatchEvent,mongoid_moped,2015-07-07 13:30:05 UTC,,,,,
+791982,ForkEvent,mongoid_moped,2015-03-13 17:45:41 UTC,,,,,
+798347,IssueCommentEvent,mongoid_moped,2015-02-11 23:12:43 UTC,,,,,
+833988,IssueCommentEvent,mongoid_moped,2015-03-23 03:55:35 UTC,,,,,
+833989,IssueCommentEvent,mongoid_moped,2015-02-15 01:22:20 UTC,,,,,
+835467,ForkEvent,mongoid_moped,2015-04-24 01:19:57 UTC,,,,,
+839708,PushEvent,mongoid_moped,2015-02-20 18:49:47 UTC,,,,,
+845744,IssueCommentEvent,mongoid_moped,2015-10-07 19:08:41 UTC,,,,,
+861278,IssueCommentEvent,mongoid_moped,2015-05-16 16:21:43 UTC,,,,,
+864659,PullRequestEvent,mongoid_moped,2015-06-16 19:23:42 UTC,,,,,
+868280,IssuesEvent,mongoid_moped,2015-02-08 12:35:53 UTC,,,,,
+873119,IssueCommentEvent,mongoid_moped,2015-02-13 19:35:48 UTC,,,,,
+877486,IssueCommentEvent,mongoid_moped,2015-05-15 10:13:19 UTC,,,,,
+877487,IssueCommentEvent,mongoid_moped,2015-06-30 08:44:07 UTC,,,,,
+890319,ForkEvent,mongoid_moped,2015-04-09 10:23:58 UTC,,,,,
+896746,IssueCommentEvent,mongoid_moped,2015-04-19 01:22:50 UTC,,,,,
+904546,IssueCommentEvent,mongoid_moped,2015-02-12 19:18:38 UTC,,,,,
+907136,WatchEvent,mongoid_moped,2015-07-16 23:16:22 UTC,,,,,
+912427,IssueCommentEvent,mongoid_moped,2015-06-25 22:08:40 UTC,,,,,
+927680,PullRequestEvent,mongoid_moped,2015-06-16 19:23:36 UTC,,,,,
+932585,IssueCommentEvent,mongoid_moped,2015-01-13 15:31:47 UTC,,,,,
+933461,PullRequestReviewCommentEvent,mongoid_moped,2015-02-12 19:18:01 UTC,,,,,
+943290,PullRequestEvent,mongoid_moped,2015-06-16 19:19:52 UTC,,,,,
+946944,IssuesEvent,mongoid_moped,2015-01-02 19:30:10 UTC,,,,,
+951160,PullRequestEvent,mongoid_moped,2015-08-28 09:23:30 UTC,,,,,
+954612,CreateEvent,mongoid_moped,2015-06-04 12:55:46 UTC,,,,,
+955793,IssueCommentEvent,mongoid_moped,2015-06-12 21:03:45 UTC,,,,,
+963590,IssueCommentEvent,mongoid_moped,2015-06-14 14:19:25 UTC,,,,,
+979273,IssueCommentEvent,mongoid_moped,2015-07-20 16:32:08 UTC,,,,,
+986406,PullRequestEvent,mongoid_moped,2015-08-13 15:13:28 UTC,,,,,
+991013,IssueCommentEvent,mongoid_moped,2015-08-14 18:56:26 UTC,,,,,
+994948,IssueCommentEvent,mongoid_moped,2015-07-14 14:16:34 UTC,,,,,
+999246,IssueCommentEvent,mongoid_moped,2015-06-03 15:27:56 UTC,,,,,
+1001355,WatchEvent,mongoid_moped,2015-07-03 12:57:21 UTC,,,,,
+1001866,IssuesEvent,mongoid_moped,2015-04-22 14:41:53 UTC,,,,,
+1003072,IssueCommentEvent,mongoid_moped,2015-03-03 20:39:22 UTC,,,,,
+1006596,IssueCommentEvent,mongoid_moped,2015-02-13 23:13:12 UTC,,,,,
+1015921,ForkEvent,mongoid_moped,2015-02-25 11:55:08 UTC,,,,,
+1018458,IssueCommentEvent,mongoid_moped,2015-06-16 19:23:42 UTC,,,,,
+1022883,IssueCommentEvent,mongoid_moped,2015-04-29 14:40:08 UTC,,,,,
+1027884,ForkEvent,mongoid_moped,2015-08-18 20:46:21 UTC,,,,,
+1034397,IssueCommentEvent,mongoid_moped,2015-06-09 02:08:14 UTC,,,,,
+1038396,IssueCommentEvent,mongoid_moped,2015-07-10 13:19:06 UTC,,,,,
+1050136,IssueCommentEvent,mongoid_moped,2015-03-16 18:29:20 UTC,,,,,
+1057949,IssueCommentEvent,mongoid_moped,2015-03-17 15:00:34 UTC,,,,,
+1057950,IssueCommentEvent,mongoid_moped,2015-03-10 09:16:54 UTC,,,,,
+1062346,IssueCommentEvent,mongoid_moped,2015-08-23 21:06:38 UTC,,,,,
+1062347,IssueCommentEvent,mongoid_moped,2015-12-10 20:49:04 UTC,,,,,
+1062348,IssueCommentEvent,mongoid_moped,2015-03-11 13:02:41 UTC,,,,,
+1077844,IssueCommentEvent,mongoid_moped,2015-01-26 18:27:07 UTC,,,,,
+1077845,IssueCommentEvent,mongoid_moped,2015-05-24 07:10:52 UTC,,,,,
+1083506,PushEvent,mongoid_moped,2015-05-26 16:21:04 UTC,,,,,
+1085654,IssueCommentEvent,mongoid_moped,2015-03-20 11:00:45 UTC,,,,,
+1093463,IssueCommentEvent,mongoid_moped,2015-02-09 19:25:26 UTC,,,,,
+1101680,IssueCommentEvent,mongoid_moped,2015-02-20 17:23:38 UTC,,,,,
+1105348,IssueCommentEvent,mongoid_moped,2015-03-09 19:17:15 UTC,,,,,
+1118611,ForkEvent,mongoid_moped,2015-08-31 17:33:18 UTC,,,,,
+1124225,IssuesEvent,mongoid_moped,2015-02-09 16:43:00 UTC,,,,,
+1132947,IssueCommentEvent,mongoid_moped,2015-10-09 17:41:28 UTC,,,,,
+1136955,IssueCommentEvent,mongoid_moped,2015-02-13 19:33:25 UTC,,,,,
+1136956,IssueCommentEvent,mongoid_moped,2015-05-15 20:43:14 UTC,,,,,
+1149012,IssueCommentEvent,mongoid_moped,2015-03-15 16:59:07 UTC,,,,,
+1155245,WatchEvent,mongoid_moped,2015-03-17 10:58:07 UTC,,,,,
+1156759,IssueCommentEvent,mongoid_moped,2015-02-13 19:33:34 UTC,,,,,
+1156760,IssueCommentEvent,mongoid_moped,2015-06-08 11:21:16 UTC,,,,,
+1158225,ForkEvent,mongoid_moped,2015-05-29 02:28:35 UTC,,,,,
+1167772,IssuesEvent,mongoid_moped,2015-03-05 14:49:08 UTC,,,,,
+1180450,IssueCommentEvent,mongoid_moped,2015-02-19 16:51:26 UTC,,,,,
+1180451,IssueCommentEvent,mongoid_moped,2015-08-23 20:52:56 UTC,,,,,
+1184797,IssueCommentEvent,mongoid_moped,2015-02-12 17:36:04 UTC,,,,,
+1186189,PushEvent,mongoid_moped,2015-08-22 09:06:34 UTC,,,,,
+1190775,WatchEvent,mongoid_moped,2015-11-12 17:15:27 UTC,,,,,
+1203093,CreateEvent,mongoid_moped,2015-02-20 18:49:52 UTC,,,,,
+1216043,IssueCommentEvent,mongoid_moped,2015-04-24 04:23:32 UTC,,,,,
+1221507,ForkEvent,mongoid_moped,2015-07-14 13:56:37 UTC,,,,,
+1223059,IssuesEvent,mongoid_moped,2015-10-23 19:10:28 UTC,,,,,
+1223378,PullRequestEvent,mongoid_moped,2015-04-07 14:42:20 UTC,,,,,
+1224023,IssueCommentEvent,mongoid_moped,2015-09-24 18:54:27 UTC,,,,,
+1228143,IssueCommentEvent,mongoid_moped,2015-08-07 16:04:35 UTC,,,,,
+1243172,IssuesEvent,mongoid_moped,2015-05-12 09:57:20 UTC,,,,,
+1243490,PullRequestEvent,mongoid_moped,2015-04-20 19:52:54 UTC,,,,,
+1244102,IssueCommentEvent,mongoid_moped,2015-06-07 23:58:52 UTC,,,,,
+1252013,IssueCommentEvent,mongoid_moped,2015-01-29 01:00:43 UTC,,,,,
+1255352,PullRequestEvent,mongoid_moped,2015-05-26 16:21:03 UTC,,,,,
+1264379,IssueCommentEvent,mongoid_moped,2015-02-20 16:30:27 UTC,,,,,
+1276038,IssueCommentEvent,mongoid_moped,2015-02-12 16:30:54 UTC,,,,,
+1277091,ForkEvent,mongoid_moped,2015-01-05 22:08:36 UTC,,,,,
+1278423,CreateEvent,mongoid_moped,2015-06-06 14:40:37 UTC,,,,,
+1290611,IssuesEvent,mongoid_moped,2015-08-21 08:23:36 UTC,,,,,
+1298570,IssuesEvent,mongoid_moped,2015-05-15 16:24:13 UTC,,,,,
+1303744,IssueCommentEvent,mongoid_moped,2015-05-22 14:49:15 UTC,,,,,
+1307265,IssueCommentEvent,mongoid_moped,2015-04-24 21:21:41 UTC,,,,,
+1310561,PullRequestEvent,mongoid_moped,2015-02-12 02:43:08 UTC,,,,,
+1311189,IssueCommentEvent,mongoid_moped,2015-03-15 10:40:13 UTC,,,,,
+1319002,IssueCommentEvent,mongoid_moped,2015-02-09 21:55:44 UTC,,,,,
+1319003,IssueCommentEvent,mongoid_moped,2015-02-12 19:04:27 UTC,,,,,
+1331088,IssueCommentEvent,mongoid_moped,2015-05-14 01:05:21 UTC,,,,,
+1333503,WatchEvent,mongoid_moped,2015-04-02 18:43:52 UTC,,,,,
+1346762,IssueCommentEvent,mongoid_moped,2015-01-02 17:57:24 UTC,,,,,
+1346763,IssueCommentEvent,mongoid_moped,2015-05-04 14:12:06 UTC,,,,,
+1350662,IssueCommentEvent,mongoid_moped,2015-07-01 16:52:05 UTC,,,,,
+1365105,WatchEvent,mongoid_moped,2015-11-05 01:18:50 UTC,,,,,
+1366611,IssueCommentEvent,mongoid_moped,2015-08-28 14:58:45 UTC,,,,,
+1370557,IssueCommentEvent,mongoid_moped,2015-06-07 23:23:00 UTC,,,,,
+1370558,IssueCommentEvent,mongoid_moped,2015-02-20 16:31:17 UTC,,,,,
+1395889,ForkEvent,mongoid_moped,2015-06-05 22:20:48 UTC,,,,,
+1395890,ForkEvent,mongoid_moped,2015-04-28 21:10:09 UTC,,,,,
+1402255,IssueCommentEvent,mongoid_moped,2015-06-06 14:36:18 UTC,,,,,
+1402256,IssueCommentEvent,mongoid_moped,2015-06-11 05:09:22 UTC,,,,,
+1414742,IssueCommentEvent,mongoid_moped,2015-02-12 16:36:14 UTC,,,,,
+1418367,IssueCommentEvent,mongoid_moped,2015-06-09 01:57:25 UTC,,,,,
+1422392,IssueCommentEvent,mongoid_moped,2015-01-04 11:14:09 UTC,,,,,
+1424139,PushEvent,mongoid_moped,2015-06-04 12:55:25 UTC,,,,,
+1433168,IssuesEvent,mongoid_moped,2015-09-23 15:11:18 UTC,,,,,
+1438429,IssueCommentEvent,mongoid_moped,2015-08-28 14:32:52 UTC,,,,,
+1449776,IssueCommentEvent,mongoid_moped,2015-03-28 06:39:56 UTC,,,,,
+1452804,IssuesEvent,mongoid_moped,2015-05-06 23:12:58 UTC,,,,,
+1454065,IssueCommentEvent,mongoid_moped,2015-03-23 13:10:13 UTC,,,,,
+1456496,DeleteEvent,mongoid_moped,2015-01-02 17:57:31 UTC,,,,,
+1457821,IssueCommentEvent,mongoid_moped,2015-09-18 13:55:20 UTC,,,,,
+1457822,IssueCommentEvent,mongoid_moped,2015-07-18 04:04:54 UTC,,,,,
+1460119,WatchEvent,mongoid_moped,2015-03-30 13:03:11 UTC,,,,,
+1481437,IssueCommentEvent,mongoid_moped,2015-03-25 14:44:11 UTC,,,,,
+1493273,IssueCommentEvent,mongoid_moped,2015-02-19 16:09:47 UTC,,,,,
+1493274,IssueCommentEvent,mongoid_moped,2015-06-15 15:26:27 UTC,,,,,
+1493275,IssueCommentEvent,mongoid_moped,2015-03-03 20:40:01 UTC,,,,,
+1493276,IssueCommentEvent,mongoid_moped,2015-06-16 19:21:54 UTC,,,,,
+1497528,IssueCommentEvent,mongoid_moped,2015-12-10 20:03:21 UTC,,,,,
+1497529,IssueCommentEvent,mongoid_moped,2015-03-08 03:23:46 UTC,,,,,
+1512945,IssueCommentEvent,mongoid_moped,2015-02-11 21:14:44 UTC,,,,,
+1515860,IssuesEvent,mongoid_moped,2015-08-18 02:48:09 UTC,,,,,
+1516177,PullRequestEvent,mongoid_moped,2015-02-12 02:45:24 UTC,,,,,
+1516802,IssueCommentEvent,mongoid_moped,2015-04-19 01:22:49 UTC,,,,,
+1519716,IssuesEvent,mongoid_moped,2015-02-15 01:22:20 UTC,,,,,
+1520038,PullRequestEvent,mongoid_moped,2015-03-23 13:09:58 UTC,,,,,
+1520625,IssueCommentEvent,mongoid_moped,2015-06-15 21:51:41 UTC,,,,,
+1540378,IssueCommentEvent,mongoid_moped,2015-04-13 22:03:31 UTC,,,,,
+1552167,IssueCommentEvent,mongoid_moped,2015-08-17 12:16:14 UTC,,,,,
+1567909,IssueCommentEvent,mongoid_moped,2015-03-18 13:24:31 UTC,,,,,
+1571938,IssueCommentEvent,mongoid_moped,2015-03-04 21:44:30 UTC,,,,,
+1577769,PushEvent,mongoid_moped,2015-06-06 14:40:31 UTC,,,,,
+1582844,IssuesEvent,mongoid_moped,2015-01-02 17:57:28 UTC,,,,,
+1599615,IssueCommentEvent,mongoid_moped,2015-05-09 16:51:38 UTC,,,,,
+1603594,IssueCommentEvent,mongoid_moped,2015-03-18 15:28:35 UTC,,,,,
+1610668,IssuesEvent,mongoid_moped,2015-03-13 19:29:40 UTC,,,,,
+1623484,IssueCommentEvent,mongoid_moped,2015-05-25 21:06:16 UTC,,,,,
+1635450,IssueCommentEvent,mongoid_moped,2015-03-16 13:43:54 UTC,,,,,
+1646295,IssuesEvent,mongoid_moped,2015-06-16 19:19:52 UTC,,,,,
+1667468,IssueCommentEvent,mongoid_moped,2015-02-20 18:58:56 UTC,,,,,
+1667469,IssueCommentEvent,mongoid_moped,2015-02-08 12:36:49 UTC,,,,,
+1681505,WatchEvent,mongoid_moped,2015-02-18 21:21:41 UTC,,,,,
+1683045,IssueCommentEvent,mongoid_moped,2015-09-02 09:17:13 UTC,,,,,
+1687011,IssueCommentEvent,mongoid_moped,2015-02-20 15:56:52 UTC,,,,,
+1690000,IssuesEvent,mongoid_moped,2015-04-16 16:02:46 UTC,,,,,
+1690984,IssueCommentEvent,mongoid_moped,2015-02-20 16:12:22 UTC,,,,,
+1696126,PullRequestReviewCommentEvent,mongoid_moped,2015-03-24 20:20:38 UTC,,,,,
+1699310,IssueCommentEvent,mongoid_moped,2015-04-25 20:21:15 UTC,,,,,
+1699311,IssueCommentEvent,mongoid_moped,2015-03-02 15:03:56 UTC,,,,,
+1701887,IssuesEvent,mongoid_moped,2015-03-05 14:40:43 UTC,,,,,
+1706153,PullRequestEvent,mongoid_moped,2015-01-06 00:29:27 UTC,,,,,
+1714747,IssueCommentEvent,mongoid_moped,2015-01-21 04:29:04 UTC,,,,,
+1718820,IssueCommentEvent,mongoid_moped,2015-06-08 00:29:05 UTC,,,,,
+1725233,WatchEvent,mongoid_moped,2015-09-06 12:59:21 UTC,,,,,
+1728823,PushEvent,mongoid_moped,2015-06-11 06:36:12 UTC,,,,,
+1738870,IssueCommentEvent,mongoid_moped,2015-05-22 15:15:45 UTC,,,,,
+1738871,IssueCommentEvent,mongoid_moped,2015-06-09 12:32:25 UTC,,,,,
+1741301,WatchEvent,mongoid_moped,2015-06-05 11:08:34 UTC,,,,,
+1745713,IssuesEvent,mongoid_moped,2015-01-10 19:05:44 UTC,,,,,
+1766434,IssueCommentEvent,mongoid_moped,2015-05-22 14:20:02 UTC,,,,,
+1770287,IssueCommentEvent,mongoid_moped,2015-05-22 13:36:45 UTC,,,,,
+1774677,IssueCommentEvent,mongoid_moped,2015-04-16 20:04:15 UTC,,,,,
+1783776,ForkEvent,mongoid_moped,2015-09-01 00:03:11 UTC,,,,,
+1790120,IssueCommentEvent,mongoid_moped,2015-03-23 03:55:37 UTC,,,,,
+1813797,IssueCommentEvent,mongoid_moped,2015-01-08 07:01:03 UTC,,,,,
+1818202,IssueCommentEvent,mongoid_moped,2015-05-22 14:28:30 UTC,,,,,
+1829053,PullRequestEvent,mongoid_moped,2015-02-27 16:23:16 UTC,,,,,
+1829997,IssueCommentEvent,mongoid_moped,2015-02-24 06:41:29 UTC,,,,,
+1837559,IssueCommentEvent,mongoid_moped,2015-08-21 18:32:34 UTC,,,,,
+1849710,IssueCommentEvent,mongoid_moped,2015-04-16 23:33:52 UTC,,,,,
+1849711,IssueCommentEvent,mongoid_moped,2015-04-22 07:49:57 UTC,,,,,
+1859145,ForkEvent,mongoid_moped,2015-06-08 07:34:43 UTC,,,,,
+1869508,IssueCommentEvent,mongoid_moped,2015-01-26 15:29:33 UTC,,,,,
+1871225,PushEvent,mongoid_moped,2015-06-16 19:19:54 UTC,,,,,
+1872853,PullRequestEvent,mongoid_moped,2015-02-12 16:35:53 UTC,,,,,
+1877543,IssueCommentEvent,mongoid_moped,2015-08-28 13:26:03 UTC,,,,,
+1880985,PullRequestEvent,mongoid_moped,2015-06-16 19:22:23 UTC,,,,,
+1881902,IssueCommentEvent,mongoid_moped,2015-03-24 21:25:23 UTC,,,,,
+1881903,IssueCommentEvent,mongoid_moped,2015-06-09 03:06:42 UTC,,,,,
+1881904,IssueCommentEvent,mongoid_moped,2015-02-12 19:42:26 UTC,,,,,
+1889787,IssueCommentEvent,mongoid_moped,2015-04-06 19:29:14 UTC,,,,,
+1889788,IssueCommentEvent,mongoid_moped,2015-02-17 16:24:14 UTC,,,,,
+1897279,IssueCommentEvent,mongoid_moped,2015-08-18 22:33:19 UTC,,,,,
+1897280,IssueCommentEvent,mongoid_moped,2015-01-26 15:46:41 UTC,,,,,
+1897281,IssueCommentEvent,mongoid_moped,2015-08-28 13:30:23 UTC,,,,,
+1903169,PushEvent,mongoid_moped,2015-06-09 12:32:30 UTC,,,,,
+1913008,IssueCommentEvent,mongoid_moped,2015-02-27 23:38:08 UTC,,,,,
+1916915,IssueCommentEvent,mongoid_moped,2015-05-04 15:04:29 UTC,,,,,
+1920971,IssueCommentEvent,mongoid_moped,2015-01-21 01:28:41 UTC,,,,,
+1928998,IssueCommentEvent,mongoid_moped,2015-05-23 17:25:25 UTC,,,,,
+1936336,PullRequestEvent,mongoid_moped,2015-01-05 22:10:28 UTC,,,,,
+1941075,IssueCommentEvent,mongoid_moped,2015-03-24 19:40:19 UTC,,,,,
+1945414,IssueCommentEvent,mongoid_moped,2015-09-18 08:01:22 UTC,,,,,
+1956984,IssueCommentEvent,mongoid_moped,2015-05-27 18:49:46 UTC,,,,,
+1961011,IssueCommentEvent,mongoid_moped,2015-03-15 16:43:12 UTC,,,,,
+1961012,IssueCommentEvent,mongoid_moped,2015-04-24 21:24:20 UTC,,,,,
+1965379,IssueCommentEvent,mongoid_moped,2015-01-05 13:15:09 UTC,,,,,
+1988485,IssueCommentEvent,mongoid_moped,2015-02-19 18:38:40 UTC,,,,,
+1992836,IssueCommentEvent,mongoid_moped,2015-03-20 11:22:51 UTC,,,,,
+1996920,IssueCommentEvent,mongoid_moped,2015-06-08 16:07:42 UTC,,,,,
+2008394,IssueCommentEvent,mongoid_moped,2015-06-05 22:31:07 UTC,,,,,
+2012674,IssueCommentEvent,mongoid_moped,2015-01-05 17:59:34 UTC,,,,,
+2012675,IssueCommentEvent,mongoid_moped,2015-03-23 03:48:15 UTC,,,,,
+2024148,IssueCommentEvent,mongoid_moped,2015-10-07 17:00:41 UTC,,,,,
+2026086,PushEvent,mongoid_moped,2015-01-02 18:19:55 UTC,,,,,
+2028584,IssueCommentEvent,mongoid_moped,2015-05-27 14:03:44 UTC,,,,,
+2032126,IssueCommentEvent,mongoid_moped,2015-06-16 19:22:02 UTC,,,,,
+2039203,IssuesEvent,mongoid_moped,2015-08-16 02:26:36 UTC,,,,,
+2044187,IssueCommentEvent,mongoid_moped,2015-02-11 17:20:16 UTC,,,,,
+2050518,WatchEvent,mongoid_moped,2015-03-10 12:59:22 UTC,,,,,
+2060277,IssueCommentEvent,mongoid_moped,2015-09-18 08:08:11 UTC,,,,,
+2067261,PullRequestEvent,mongoid_moped,2015-02-12 02:45:00 UTC,,,,,
+2070864,IssuesEvent,mongoid_moped,2015-01-26 15:29:28 UTC,,,,,
+2071212,PullRequestEvent,mongoid_moped,2015-06-16 13:49:19 UTC,,,,,
+2071837,IssueCommentEvent,mongoid_moped,2015-05-23 01:25:32 UTC,,,,,
+2092287,IssueCommentEvent,mongoid_moped,2015-01-20 21:59:17 UTC,,,,,
+2099842,IssueCommentEvent,mongoid_moped,2015-04-27 14:15:23 UTC,,,,,
+2106961,IssuesEvent,mongoid_moped,2015-08-18 08:16:16 UTC,,,,,
+2108242,IssueCommentEvent,mongoid_moped,2015-03-13 22:00:11 UTC,,,,,
+2115213,PullRequestEvent,mongoid_moped,2015-06-05 22:30:05 UTC,,,,,
+2119832,IssueCommentEvent,mongoid_moped,2015-04-27 17:58:52 UTC,,,,,
+2122297,WatchEvent,mongoid_moped,2015-06-30 22:10:14 UTC,,,,,
+2127729,IssueCommentEvent,mongoid_moped,2015-05-27 18:13:57 UTC,,,,,
+2135726,IssueCommentEvent,mongoid_moped,2015-03-06 20:49:04 UTC,,,,,
+2138696,IssuesEvent,mongoid_moped,2015-08-21 03:46:19 UTC,,,,,
+2143589,IssueCommentEvent,mongoid_moped,2015-05-09 15:26:33 UTC,,,,,
+2143590,IssueCommentEvent,mongoid_moped,2015-04-19 01:22:50 UTC,,,,,
+2147871,IssueCommentEvent,mongoid_moped,2015-03-13 21:38:06 UTC,,,,,
+2157769,WatchEvent,mongoid_moped,2015-05-17 05:19:22 UTC,,,,,
+2163162,IssueCommentEvent,mongoid_moped,2015-05-01 12:54:02 UTC,,,,,
+2171415,IssueCommentEvent,mongoid_moped,2015-05-27 18:53:17 UTC,,,,,
+2174957,IssueCommentEvent,mongoid_moped,2015-05-22 14:26:20 UTC,,,,,
+2176446,ForkEvent,mongoid_moped,2015-08-13 16:19:37 UTC,,,,,
+2187236,IssueCommentEvent,mongoid_moped,2015-06-03 14:47:39 UTC,,,,,
+2194807,IssueCommentEvent,mongoid_moped,2015-02-20 17:02:12 UTC,,,,,
+2202214,PullRequestEvent,mongoid_moped,2015-02-07 17:37:32 UTC,,,,,
+2203120,IssueCommentEvent,mongoid_moped,2015-02-20 15:52:58 UTC,,,,,
+2208163,ForkEvent,mongoid_moped,2015-10-22 19:48:04 UTC,,,,,
+2210854,IssueCommentEvent,mongoid_moped,2015-03-13 21:59:21 UTC,,,,,
+2210855,IssueCommentEvent,mongoid_moped,2015-02-09 16:35:59 UTC,,,,,
+2215024,IssueCommentEvent,mongoid_moped,2015-03-25 14:47:28 UTC,,,,,
+2222421,IssueCommentEvent,mongoid_moped,2015-03-09 20:07:07 UTC,,,,,
+2222422,IssueCommentEvent,mongoid_moped,2015-08-26 20:27:39 UTC,,,,,
+2238207,IssueCommentEvent,mongoid_moped,2015-02-20 16:01:03 UTC,,,,,
+2246096,IssueCommentEvent,mongoid_moped,2015-03-04 21:09:02 UTC,,,,,
+2246097,IssueCommentEvent,mongoid_moped,2015-02-20 19:48:47 UTC,,,,,
+2247567,ForkEvent,mongoid_moped,2015-04-19 01:14:41 UTC,,,,,
+2254093,IssueCommentEvent,mongoid_moped,2015-03-25 14:29:19 UTC,,,,,
+2264948,IssuesEvent,mongoid_moped,2015-01-02 18:13:07 UTC,,,,,
+2269878,IssueCommentEvent,mongoid_moped,2015-03-25 14:45:37 UTC,,,,,
+2279213,ForkEvent,mongoid_moped,2015-04-16 03:10:28 UTC,,,,,
+2279513,PushEvent,mongoid_moped,2015-06-11 06:35:29 UTC,,,,,
+2281109,PullRequestEvent,mongoid_moped,2015-06-16 19:22:02 UTC,,,,,
+2281748,IssueCommentEvent,mongoid_moped,2015-02-11 17:20:35 UTC,,,,,
+2287045,ForkEvent,mongoid_moped,2015-08-28 09:20:30 UTC,,,,,
+2305128,IssueCommentEvent,mongoid_moped,2015-09-02 09:02:34 UTC,,,,,
+2305129,IssueCommentEvent,mongoid_moped,2015-07-03 12:27:38 UTC,,,,,
+2319400,WatchEvent,mongoid_moped,2015-10-04 03:42:15 UTC,,,,,
+2324120,IssuesEvent,mongoid_moped,2015-02-12 19:42:26 UTC,,,,,
+2325433,IssueCommentEvent,mongoid_moped,2015-05-22 15:28:59 UTC,,,,,
+2325434,IssueCommentEvent,mongoid_moped,2015-02-17 19:11:30 UTC,,,,,
+2328012,IssuesEvent,mongoid_moped,2015-05-14 17:27:16 UTC,,,,,
+2328936,IssueCommentEvent,mongoid_moped,2015-03-23 13:17:06 UTC,,,,,
+2328937,IssueCommentEvent,mongoid_moped,2015-01-23 01:46:03 UTC,,,,,
+2336187,PullRequestEvent,mongoid_moped,2015-04-29 06:18:08 UTC,,,,,
+2336840,IssueCommentEvent,mongoid_moped,2015-06-28 13:28:56 UTC,,,,,
+2336841,IssueCommentEvent,mongoid_moped,2015-02-17 16:26:51 UTC,,,,,
+2336842,IssueCommentEvent,mongoid_moped,2015-02-12 18:10:31 UTC,,,,,
+2348795,IssueCommentEvent,mongoid_moped,2015-02-27 16:23:34 UTC,,,,,
+2355267,WatchEvent,mongoid_moped,2015-03-29 03:51:25 UTC,,,,,
+2361013,IssueCommentEvent,mongoid_moped,2015-05-25 17:47:41 UTC,,,,,
+2365994,ForkEvent,mongoid_moped,2015-04-30 14:59:46 UTC,,,,,
+2372347,IssueCommentEvent,mongoid_moped,2015-07-01 16:09:33 UTC,,,,,
+2376276,IssueCommentEvent,mongoid_moped,2015-03-24 20:11:54 UTC,,,,,
+2384669,IssueCommentEvent,mongoid_moped,2015-04-30 11:29:39 UTC,,,,,
+2387596,PullRequestEvent,mongoid_moped,2015-03-24 20:11:54 UTC,,,,,
+2390620,WatchEvent,mongoid_moped,2015-03-07 14:14:04 UTC,,,,,
+2392096,IssueCommentEvent,mongoid_moped,2015-07-03 10:59:25 UTC,,,,,
+2395519,PullRequestEvent,mongoid_moped,2015-01-02 17:57:28 UTC,,,,,
+2396201,IssueCommentEvent,mongoid_moped,2015-02-13 19:30:53 UTC,,,,,
+2409413,ForkEvent,mongoid_moped,2015-08-13 06:22:02 UTC,,,,,
+2411857,IssueCommentEvent,mongoid_moped,2015-01-21 20:26:03 UTC,,,,,
+2413401,ForkEvent,mongoid_moped,2015-08-16 02:30:55 UTC,,,,,
+2427226,PullRequestEvent,mongoid_moped,2015-08-22 09:06:32 UTC,,,,,
+2432924,PullRequestReviewCommentEvent,mongoid_moped,2015-03-24 20:21:48 UTC,,,,,
+2434727,IssuesEvent,mongoid_moped,2015-02-25 21:49:20 UTC,,,,,
+2435708,IssueCommentEvent,mongoid_moped,2015-02-09 15:35:46 UTC,,,,,
+2439589,IssueCommentEvent,mongoid_moped,2015-07-20 16:30:49 UTC,,,,,
+2439590,IssueCommentEvent,mongoid_moped,2015-02-12 21:43:29 UTC,,,,,
+2451410,IssueCommentEvent,mongoid_moped,2015-08-28 13:03:16 UTC,,,,,
+2462464,PullRequestEvent,mongoid_moped,2015-02-12 18:10:31 UTC,,,,,
+2467030,IssueCommentEvent,mongoid_moped,2015-03-09 19:00:26 UTC,,,,,
+2470315,PullRequestEvent,mongoid_moped,2015-02-11 23:21:14 UTC,,,,,
+2470964,IssueCommentEvent,mongoid_moped,2015-05-20 18:46:14 UTC,,,,,
+2474815,IssueCommentEvent,mongoid_moped,2015-06-15 16:05:37 UTC,,,,,
+2476306,ForkEvent,mongoid_moped,2015-02-17 16:34:22 UTC,,,,,
+2479050,IssueCommentEvent,mongoid_moped,2015-06-07 23:10:34 UTC,,,,,
+2482595,IssueCommentEvent,mongoid_moped,2015-02-12 02:45:24 UTC,,,,,
+2489790,PullRequestEvent,mongoid_moped,2015-04-24 21:11:16 UTC,,,,,
+2506449,IssueCommentEvent,mongoid_moped,2015-08-05 20:50:42 UTC,,,,,
+2524865,IssuesEvent,mongoid_moped,2015-01-23 18:53:21 UTC,,,,,
+2533263,PullRequestEvent,mongoid_moped,2015-04-20 19:52:54 UTC,,,,,
+2545601,IssueCommentEvent,mongoid_moped,2015-06-07 13:51:15 UTC,,,,,
+2573431,IssueCommentEvent,mongoid_moped,2015-06-15 15:30:19 UTC,,,,,
+2580685,PullRequestEvent,mongoid_moped,2015-01-22 22:16:02 UTC,,,,,
+2581260,IssueCommentEvent,mongoid_moped,2015-01-23 14:29:04 UTC,,,,,
+2585293,IssueCommentEvent,mongoid_moped,2015-03-06 15:20:12 UTC,,,,,
+2585294,IssueCommentEvent,mongoid_moped,2015-02-06 23:09:54 UTC,,,,,
+2591706,WatchEvent,mongoid_moped,2015-05-27 18:50:23 UTC,,,,,
+2593179,IssueCommentEvent,mongoid_moped,2015-02-27 23:21:05 UTC,,,,,
+2597045,IssueCommentEvent,mongoid_moped,2015-06-03 14:47:39 UTC,,,,,
+2598594,ForkEvent,mongoid_moped,2015-04-20 12:57:23 UTC,,,,,
+2602523,ForkEvent,mongoid_moped,2015-01-22 22:15:44 UTC,,,,,
+2604984,IssueCommentEvent,mongoid_moped,2015-05-04 14:39:55 UTC,,,,,
+2612257,PullRequestEvent,mongoid_moped,2015-06-16 19:23:39 UTC,,,,,
+2617316,IssueCommentEvent,mongoid_moped,2015-04-08 15:57:34 UTC,,,,,
+2617317,IssueCommentEvent,mongoid_moped,2015-04-16 15:50:47 UTC,,,,,
+2637877,PullRequestReviewCommentEvent,mongoid_moped,2015-03-24 20:18:04 UTC,,,,,
+2648858,IssueCommentEvent,mongoid_moped,2015-03-04 11:35:21 UTC,,,,,
+2652377,IssueCommentEvent,mongoid_moped,2015-02-14 17:45:05 UTC,,,,,
+2663529,PullRequestEvent,mongoid_moped,2015-05-29 22:58:42 UTC,,,,,
+2664129,IssueCommentEvent,mongoid_moped,2015-06-16 19:21:01 UTC,,,,,
+2667065,IssuesEvent,mongoid_moped,2015-04-16 19:00:15 UTC,,,,,
+2690998,PullRequestEvent,mongoid_moped,2015-04-29 08:41:31 UTC,,,,,
+2704855,ForkEvent,mongoid_moped,2015-03-11 16:52:12 UTC,,,,,
+2726803,IssueCommentEvent,mongoid_moped,2015-03-25 14:52:20 UTC,,,,,
+2733672,CreateEvent,mongoid_moped,2015-08-15 08:39:05 UTC,,,,,
+2735218,IssueCommentEvent,mongoid_moped,2015-04-22 14:41:53 UTC,,,,,
+2746921,IssueCommentEvent,mongoid_moped,2015-02-20 17:29:47 UTC,,,,,
+2749857,PullRequestEvent,mongoid_moped,2015-02-12 19:42:25 UTC,,,,,
+2750810,IssueCommentEvent,mongoid_moped,2015-05-15 16:24:53 UTC,,,,,
+2757960,PullRequestEvent,mongoid_moped,2015-02-12 02:43:49 UTC,,,,,
+2762303,IssueCommentEvent,mongoid_moped,2015-08-17 11:48:57 UTC,,,,,
+2769127,CreateEvent,mongoid_moped,2015-01-02 18:20:01 UTC,,,,,
+2769727,PullRequestEvent,mongoid_moped,2015-06-15 15:25:47 UTC,,,,,
+2778505,IssueCommentEvent,mongoid_moped,2015-02-09 16:36:18 UTC,,,,,
+2781022,IssuesEvent,mongoid_moped,2015-03-09 18:57:31 UTC,,,,,
+2781354,PullRequestEvent,mongoid_moped,2015-06-16 19:21:54 UTC,,,,,
+2785965,IssueCommentEvent,mongoid_moped,2015-02-20 17:27:34 UTC,,,,,
+2798284,IssueCommentEvent,mongoid_moped,2015-01-08 06:50:14 UTC,,,,,
+2813744,IssueCommentEvent,mongoid_moped,2015-03-03 18:05:36 UTC,,,,,
+2813745,IssueCommentEvent,mongoid_moped,2015-04-07 14:43:21 UTC,,,,,
+2817661,IssueCommentEvent,mongoid_moped,2015-01-26 18:07:41 UTC,,,,,
+2824761,IssuesEvent,mongoid_moped,2015-09-01 00:02:57 UTC,,,,,
+2826089,IssueCommentEvent,mongoid_moped,2015-05-26 14:08:15 UTC,,,,,
+2826090,IssueCommentEvent,mongoid_moped,2015-08-23 18:37:08 UTC,,,,,
+2833576,IssueCommentEvent,mongoid_moped,2015-08-05 18:42:50 UTC,,,,,
+2837948,IssueCommentEvent,mongoid_moped,2015-03-12 22:00:48 UTC,,,,,
+2837949,IssueCommentEvent,mongoid_moped,2015-08-21 08:23:35 UTC,,,,,
+2839999,WatchEvent,mongoid_moped,2015-09-17 20:05:51 UTC,,,,,
+2840912,PullRequestEvent,mongoid_moped,2015-04-19 01:20:14 UTC,,,,,
+2849335,IssueCommentEvent,mongoid_moped,2015-03-03 01:56:57 UTC,,,,,
+2858525,ForkEvent,mongoid_moped,2015-09-16 03:23:47 UTC,,,,,
+2868927,IssueCommentEvent,mongoid_moped,2015-03-10 01:41:26 UTC,,,,,
+2873247,IssueCommentEvent,mongoid_moped,2015-02-13 19:33:17 UTC,,,,,
+2876783,IssueCommentEvent,mongoid_moped,2015-10-21 20:51:15 UTC,,,,,
+2876784,IssueCommentEvent,mongoid_moped,2015-07-02 16:31:50 UTC,,,,,
+2880816,IssueCommentEvent,mongoid_moped,2015-07-03 17:01:09 UTC,,,,,
+2884622,IssueCommentEvent,mongoid_moped,2015-02-15 21:31:39 UTC,,,,,
+2900363,IssueCommentEvent,mongoid_moped,2015-06-09 02:10:29 UTC,,,,,
+2908334,IssueCommentEvent,mongoid_moped,2015-02-20 19:38:27 UTC,,,,,
+2909793,ForkEvent,mongoid_moped,2015-06-02 23:52:16 UTC,,,,,
+2912269,IssueCommentEvent,mongoid_moped,2015-03-06 20:30:44 UTC,,,,,
+2914708,WatchEvent,mongoid_moped,2015-03-09 18:32:52 UTC,,,,,
+2915286,IssuesEvent,mongoid_moped,2015-10-27 23:39:09 UTC,,,,,
+2916247,IssueCommentEvent,mongoid_moped,2015-04-22 07:49:58 UTC,,,,,
+2930844,IssuesEvent,mongoid_moped,2015-07-17 13:17:36 UTC,,,,,
+2934769,IssuesEvent,mongoid_moped,2015-06-07 13:49:08 UTC,,,,,
+2935660,IssueCommentEvent,mongoid_moped,2015-12-23 13:39:56 UTC,,,,,
+2947432,IssueCommentEvent,mongoid_moped,2015-02-26 17:45:08 UTC,,,,,
+2967184,IssueCommentEvent,mongoid_moped,2015-01-06 00:29:33 UTC,,,,,
+2975324,IssueCommentEvent,mongoid_moped,2015-02-17 16:22:04 UTC,,,,,
+2989712,WatchEvent,mongoid_moped,2015-03-24 14:59:20 UTC,,,,,
+2995275,IssueCommentEvent,mongoid_moped,2015-08-04 19:25:14 UTC,,,,,
+2998458,PullRequestEvent,mongoid_moped,2015-08-16 02:35:50 UTC,,,,,
+3002450,PullRequestEvent,mongoid_moped,2015-04-13 21:36:00 UTC,,,,,
+3003107,IssueCommentEvent,mongoid_moped,2015-05-25 17:36:04 UTC,,,,,
+3007548,IssueCommentEvent,mongoid_moped,2015-03-05 14:53:05 UTC,,,,,
+3015391,IssueCommentEvent,mongoid_moped,2015-06-10 02:51:36 UTC,,,,,
+3020404,ForkEvent,mongoid_moped,2015-05-25 20:52:55 UTC,,,,,
+3021923,IssuesEvent,mongoid_moped,2015-12-12 18:04:54 UTC,,,,,
+3042775,IssueCommentEvent,mongoid_moped,2015-05-27 17:47:45 UTC,,,,,
+3046104,PullRequestEvent,mongoid_moped,2015-06-06 14:39:47 UTC,,,,,
+3064896,WatchEvent,mongoid_moped,2015-04-02 03:30:46 UTC,,,,,
+3073447,IssuesEvent,mongoid_moped,2015-05-27 18:53:17 UTC,,,,,
+3076144,PushEvent,mongoid_moped,2015-06-06 14:39:48 UTC,,,,,
+3077374,IssuesEvent,mongoid_moped,2015-10-23 15:37:40 UTC,,,,,
+3078329,IssueCommentEvent,mongoid_moped,2015-04-27 17:53:49 UTC,,,,,
+3081785,PullRequestEvent,mongoid_moped,2015-04-22 07:41:45 UTC,,,,,
+3082658,IssueCommentEvent,mongoid_moped,2015-04-07 14:42:20 UTC,,,,,
+3083706,ForkEvent,mongoid_moped,2015-12-20 03:56:47 UTC,,,,,
+3086234,IssueCommentEvent,mongoid_moped,2015-08-23 20:23:30 UTC,,,,,
+3114233,IssueCommentEvent,mongoid_moped,2015-03-05 14:47:26 UTC,,,,,
+3123985,WatchEvent,mongoid_moped,2015-03-04 19:57:46 UTC,,,,,
+3133373,IssueCommentEvent,mongoid_moped,2015-07-20 16:29:51 UTC,,,,,
+3134884,ForkEvent,mongoid_moped,2015-04-02 17:15:56 UTC,,,,,
+3142432,PullRequestReviewCommentEvent,mongoid_moped,2015-03-24 20:14:20 UTC,,,,,
+3147527,WatchEvent,mongoid_moped,2015-11-29 06:45:30 UTC,,,,,
+3150813,PushEvent,mongoid_moped,2015-08-15 08:37:34 UTC,,,,,
+3153036,IssueCommentEvent,mongoid_moped,2015-06-06 19:03:32 UTC,,,,,
+3160929,IssueCommentEvent,mongoid_moped,2015-04-13 22:03:31 UTC,,,,,
+3165292,IssueCommentEvent,mongoid_moped,2015-03-10 14:28:28 UTC,,,,,
+3168749,IssueCommentEvent,mongoid_moped,2015-12-10 20:11:17 UTC,,,,,
+3172672,IssueCommentEvent,mongoid_moped,2015-06-15 15:37:12 UTC,,,,,
+3172673,IssueCommentEvent,mongoid_moped,2015-05-22 14:38:03 UTC,,,,,
+3177085,IssueCommentEvent,mongoid_moped,2015-04-24 04:24:22 UTC,,,,,
+3200867,IssueCommentEvent,mongoid_moped,2015-07-24 09:06:09 UTC,,,,,
+3200868,IssueCommentEvent,mongoid_moped,2015-03-03 17:41:30 UTC,,,,,
+3200869,IssueCommentEvent,mongoid_moped,2015-02-08 15:38:06 UTC,,,,,
+3208393,IssueCommentEvent,mongoid_moped,2015-02-24 20:49:40 UTC,,,,,
+3214315,PushEvent,mongoid_moped,2015-01-02 18:16:42 UTC,,,,,
+3216750,IssueCommentEvent,mongoid_moped,2015-05-05 15:20:57 UTC,,,,,
+3220339,IssueCommentEvent,mongoid_moped,2015-02-20 17:16:01 UTC,,,,,
+3223433,IssuesEvent,mongoid_moped,2015-04-24 15:45:52 UTC,,,,,
+3228347,IssueCommentEvent,mongoid_moped,2015-05-19 23:29:07 UTC,,,,,
+3239655,PullRequestEvent,mongoid_moped,2015-03-23 03:44:18 UTC,,,,,
+3246747,WatchEvent,mongoid_moped,2015-02-26 21:32:22 UTC,,,,,
+3261264,PullRequestReviewCommentEvent,mongoid_moped,2015-06-03 16:53:22 UTC,,,,,
+3264055,IssueCommentEvent,mongoid_moped,2015-06-12 21:08:51 UTC,,,,,
+3271831,IssueCommentEvent,mongoid_moped,2015-03-04 16:11:58 UTC,,,,,
+3274225,WatchEvent,mongoid_moped,2015-09-12 06:48:21 UTC,,,,,
+3303520,IssueCommentEvent,mongoid_moped,2015-05-24 19:28:11 UTC,,,,,
+3315315,IssueCommentEvent,mongoid_moped,2015-01-19 15:05:40 UTC,,,,,
+61397,IssuesEvent,mongoid_moped,2016-07-14 17:11:41 UTC,,,,,
+188992,IssueCommentEvent,mongoid_moped,2016-03-11 18:59:02 UTC,,,,,
+286263,IssueCommentEvent,mongoid_moped,2016-03-06 10:29:18 UTC,,,,,
+326242,IssuesEvent,mongoid_moped,2016-07-13 07:07:31 UTC,,,,,
+352213,IssueCommentEvent,mongoid_moped,2016-05-24 22:41:56 UTC,,,,,
+648888,IssueCommentEvent,mongoid_moped,2016-09-08 11:56:26 UTC,,,,,
+661545,IssueCommentEvent,mongoid_moped,2016-11-22 21:02:26 UTC,,,,,
+665846,ForkEvent,mongoid_moped,2016-05-21 07:50:28 UTC,,,,,
+711528,PullRequestEvent,mongoid_moped,2016-05-21 07:50:58 UTC,,,,,
+713211,ForkEvent,mongoid_moped,2016-03-17 16:55:21 UTC,,,,,
+884162,WatchEvent,mongoid_moped,2016-06-07 21:36:56 UTC,,,,,
+899889,WatchEvent,mongoid_moped,2016-11-27 06:01:15 UTC,,,,,
+942142,IssueCommentEvent,mongoid_moped,2016-03-02 19:49:35 UTC,,,,,
+966295,WatchEvent,mongoid_moped,2016-05-15 08:42:37 UTC,,,,,
+1035104,ForkEvent,mongoid_moped,2016-04-14 19:23:49 UTC,,,,,
+1095900,WatchEvent,mongoid_moped,2016-04-26 19:22:48 UTC,,,,,
+1104638,ForkEvent,mongoid_moped,2016-09-21 23:26:43 UTC,,,,,
+1137692,PullRequestEvent,mongoid_moped,2016-04-27 07:54:44 UTC,,,,,
+1160471,IssueCommentEvent,mongoid_moped,2016-11-30 16:03:29 UTC,,,,,
+1171152,ForkEvent,mongoid_moped,2016-07-27 03:38:46 UTC,,,,,
+1197067,WatchEvent,mongoid_moped,2016-03-01 16:23:31 UTC,,,,,
+1223483,IssueCommentEvent,mongoid_moped,2016-01-21 16:36:27 UTC,,,,,
+1314606,IssueCommentEvent,mongoid_moped,2016-03-05 21:50:10 UTC,,,,,
+1343030,IssueCommentEvent,mongoid_moped,2016-04-27 08:11:46 UTC,,,,,
+1353744,ForkEvent,mongoid_moped,2016-09-20 09:22:55 UTC,,,,,
+1374554,IssueCommentEvent,mongoid_moped,2016-02-11 00:10:25 UTC,,,,,
+1384046,IssueCommentEvent,mongoid_moped,2016-04-18 05:15:33 UTC,,,,,
+1473019,IssueCommentEvent,mongoid_moped,2016-09-28 09:07:06 UTC,,,,,
+1574088,IssueCommentEvent,mongoid_moped,2016-02-11 00:06:12 UTC,,,,,
+1580514,IssueCommentEvent,mongoid_moped,2016-03-11 18:56:26 UTC,,,,,
+1608374,PullRequestEvent,mongoid_moped,2016-10-24 08:16:10 UTC,,,,,
+1620620,IssuesEvent,mongoid_moped,2016-02-11 16:42:33 UTC,,,,,
+1758277,ForkEvent,mongoid_moped,2016-10-06 16:15:27 UTC,,,,,
+1782189,IssueCommentEvent,mongoid_moped,2016-01-14 23:18:00 UTC,,,,,
+1978735,ForkEvent,mongoid_moped,2016-08-03 20:41:04 UTC,,,,,
+2179731,IssueCommentEvent,mongoid_moped,2016-01-05 20:12:56 UTC,,,,,
+2239598,IssueCommentEvent,mongoid_moped,2016-06-20 11:07:52 UTC,,,,,
+2311852,PullRequestEvent,mongoid_moped,2016-03-24 15:27:59 UTC,,,,,
+2436997,WatchEvent,mongoid_moped,2016-08-05 20:17:22 UTC,,,,,
+2464642,ForkEvent,mongoid_moped,2016-05-20 10:35:01 UTC,,,,,
+2523599,IssueCommentEvent,mongoid_moped,2016-04-19 01:58:21 UTC,,,,,
+2576254,WatchEvent,mongoid_moped,2016-05-16 11:04:43 UTC,,,,,
+2638554,ForkEvent,mongoid_moped,2016-11-02 21:39:45 UTC,,,,,
+2696481,IssuesEvent,mongoid_moped,2016-02-12 20:45:29 UTC,,,,,
+2785258,IssueCommentEvent,mongoid_moped,2016-05-24 13:04:21 UTC,,,,,
+2802277,ForkEvent,mongoid_moped,2016-10-06 14:21:21 UTC,,,,,
+2842017,IssueCommentEvent,mongoid_moped,2016-11-22 20:42:05 UTC,,,,,
+2845173,IssueCommentEvent,mongoid_moped,2016-07-26 10:56:35 UTC,,,,,
+3105332,WatchEvent,mongoid_moped,2016-07-11 10:39:53 UTC,,,,,
+3163180,IssueCommentEvent,mongoid_moped,2016-02-08 10:58:50 UTC,,,,,
+3249409,ForkEvent,mongoid_moped,2016-09-12 09:27:02 UTC,,,,,
+3752357,IssueCommentEvent,mongoid_moped,2016-07-27 07:04:04 UTC,,,,,
+3844051,IssueCommentEvent,mongoid_moped,2016-03-05 08:46:14 UTC,,,,,
+3940417,WatchEvent,mongoid_moped,2016-01-25 20:29:08 UTC,,,,,
+3976610,IssueCommentEvent,mongoid_moped,2016-05-21 08:06:31 UTC,,,,,
+4057385,WatchEvent,mongoid_moped,2016-07-11 19:21:29 UTC,,,,,
+4117192,WatchEvent,mongoid_moped,2016-11-22 20:37:14 UTC,,,,,
+4122623,ForkEvent,mongoid_moped,2016-04-27 07:45:57 UTC,,,,,
+120113,ForkEvent,mongoid_moped,2017-03-03 06:38:12 UTC,,,,,
+1227594,WatchEvent,mongoid_moped,2017-11-07 21:25:43 UTC,,,,,
+1244114,WatchEvent,mongoid_moped,2017-12-25 11:54:26 UTC,,,,,
+1446429,WatchEvent,mongoid_moped,2017-01-10 18:41:39 UTC,,,,,
+1576558,WatchEvent,mongoid_moped,2017-02-20 14:26:28 UTC,,,,,
+1706917,WatchEvent,mongoid_moped,2017-02-17 03:41:13 UTC,,,,,
+1826224,WatchEvent,mongoid_moped,2017-04-10 17:07:50 UTC,,,,,
+1857231,WatchEvent,mongoid_moped,2017-03-30 09:16:17 UTC,,,,,
+2210819,IssuesEvent,mongoid_moped,2017-03-28 02:22:22 UTC,,,,,
+2766390,PullRequestEvent,mongoid_moped,2017-08-23 10:15:09 UTC,,,,,
+2839703,PullRequestEvent,mongoid_moped,2017-01-25 20:13:15 UTC,,,,,
+3012895,IssueCommentEvent,mongoid_moped,2017-10-16 06:29:18 UTC,,,,,
+3118971,IssueCommentEvent,mongoid_moped,2017-09-18 09:49:32 UTC,,,,,
+3173708,IssueCommentEvent,mongoid_moped,2017-09-28 14:42:31 UTC,,,,,
+3210106,IssueCommentEvent,mongoid_moped,2017-03-08 12:07:24 UTC,,,,,
+3290361,IssueCommentEvent,mongoid_moped,2017-03-29 13:47:43 UTC,,,,,
+3317305,IssueCommentEvent,mongoid_moped,2017-06-23 00:01:24 UTC,,,,,
+3441617,IssueCommentEvent,mongoid_moped,2017-09-11 18:15:44 UTC,,,,,
+3456735,IssueCommentEvent,mongoid_moped,2017-11-09 13:12:37 UTC,,,,,
+4022465,IssueCommentEvent,mongoid_moped,2017-08-01 09:52:03 UTC,,,,,
+4411009,IssueCommentEvent,mongoid_moped,2017-04-18 19:49:21 UTC,,,,,
+4490198,IssueCommentEvent,mongoid_moped,2017-03-08 18:06:01 UTC,,,,,
+4535740,IssueCommentEvent,mongoid_moped,2017-08-16 13:05:20 UTC,,,,,
+53608,ForkEvent,mongoid_moped,2018-04-12 17:05:43 UTC,,,,,
+116683,ForkEvent,mongoid_moped,2018-04-20 18:13:05 UTC,,,,,
+163795,ForkEvent,mongoid_moped,2018-07-24 01:09:17 UTC,,,,,
+166738,ForkEvent,mongoid_moped,2018-08-09 02:39:05 UTC,,,,,
+1140524,WatchEvent,mongoid_moped,2018-02-19 17:45:50 UTC,,,,,
+2338497,IssuesEvent,mongoid_moped,2018-07-17 17:43:17 UTC,,,,,
+2591845,PullRequestEvent,mongoid_moped,2018-04-12 17:59:03 UTC,,,,,
+2709358,PullRequestEvent,mongoid_moped,2018-08-28 20:57:50 UTC,,,,,
+3395982,IssueCommentEvent,mongoid_moped,2018-05-30 20:19:06 UTC,,,,,
+3623872,IssueCommentEvent,mongoid_moped,2018-05-23 18:53:08 UTC,,,,,
+3627793,IssueCommentEvent,mongoid_moped,2018-05-30 20:17:05 UTC,,,,,
+3842420,IssueCommentEvent,mongoid_moped,2018-08-27 03:26:21 UTC,,,,,
+4079281,IssueCommentEvent,mongoid_moped,2018-04-19 16:56:37 UTC,,,,,
+132150,ForkEvent,mongoid_moped,2019-06-14 21:02:53 UTC,,,,,
+151906,ForkEvent,mongoid_moped,2019-03-31 01:33:55 UTC,,,,,
+157343,ForkEvent,mongoid_moped,2019-09-17 20:45:42 UTC,,,,,
+1872486,WatchEvent,mongoid_moped,2019-06-12 20:16:32 UTC,,,,,
+2978076,PullRequestEvent,mongoid_moped,2019-03-31 02:42:52 UTC,,,,,
+0,Commit,mongoid_moped,2015-08-22 09:06:32,cf817ca58a85ed567c2711e4eada163018bde3cf,0.0,0.0,0.0,0.0
+1,Commit,mongoid_moped,2015-08-18 08:16:10,7ca2de6c4d971d6de56357c496fc8a6dcec437a3,1.0,1.0,1.0,0.0
+2,Commit,mongoid_moped,2015-08-16 03:03:47,e4927ac41818818855954635ea9ed34cbbfa77e3,2.0,2.0,1.0,0.0
+3,Commit,mongoid_moped,2015-08-16 02:34:24,645324072095c75c6121d86d13155b294427475c,2.0,1.0,1.0,0.0
+4,Commit,mongoid_moped,2015-08-15 08:37:29,fcf884d0ec239f9b3d6c19c961a0cd42f8bba6a0,5.0,1.0,2.0,0.0
+5,Commit,mongoid_moped,2015-06-16 19:19:52,803bbcd2e631361f73dcc2b11cf2320804eaa73f,0.0,0.0,0.0,0.0
+6,Commit,mongoid_moped,2015-06-16 13:48:46,2774baedb10f4e3a383ff3996bd18435f6d41fd6,155.0,28.0,12.0,0.0
+7,Commit,mongoid_moped,2015-06-11 06:36:07,c7378dc6240bcb70726c0da47f721d301ae13f85,5.0,1.0,2.0,0.0
+8,Commit,mongoid_moped,2015-06-11 06:35:23,23d5c8bbce6f185b28f0eecd13691e73dd56251a,1.0,1.0,1.0,0.0
+9,Commit,mongoid_moped,2015-06-09 12:32:27,34c7ec4fc51bd00827fa7902d2c1a4a6963df344,0.0,0.0,0.0,0.0
+10,Commit,mongoid_moped,2015-06-09 03:06:01,1c019fbf9e3477c5adf41996e92b10b199cce96d,14.0,11.0,2.0,0.0
+11,Commit,mongoid_moped,2015-06-04 12:55:20,276fbfd23c5ffb65e6bd18d564c8b6878c2498ac,11.0,2.0,3.0,0.0
+12,Commit,mongoid_moped,2015-05-26 16:21:02,68923e0cfba9607398b6f5df270abeb8a429efb8,0.0,0.0,0.0,0.0
+13,Commit,mongoid_moped,2015-04-29 06:14:44,ea541cfd09aef5be21e26101f154a8f68ddee970,14.0,14.0,2.0,0.0
+14,Commit,mongoid_moped,2015-03-24 20:11:52,10abbf3eac3739368d52d6ae344f5713333a7f24,0.0,0.0,0.0,0.0
+15,Commit,mongoid_moped,2015-02-23 14:23:18,0205bcc69db82abacc5aa37475c33bd9950593c9,96.0,25.0,3.0,0.0
+16,Commit,mongoid_moped,2015-02-23 14:23:18,5466e4d1ffef6f379398d1b3a7caae2d785a7675,89.0,38.0,4.0,0.0
+17,Commit,mongoid_moped,2015-02-23 14:23:18,84b058aacfdb32a15f67e2a125dfe30bc56d6df2,214.0,1.0,3.0,0.0
+18,Commit,mongoid_moped,2015-02-20 18:49:37,7ef2b2c81da819aeb53a5cc12b7640afde70c48b,2.0,2.0,2.0,0.0
+19,Commit,mongoid_moped,2015-02-12 19:42:24,265503d4d941b827e1369cd6d3a0c1bd747d9d47,0.0,0.0,0.0,0.0
+20,Commit,mongoid_moped,2015-02-12 16:37:23,f9905ffa15a8bdcc482ae844b27865567d1b6311,7.0,0.0,1.0,0.0
+21,Commit,mongoid_moped,2015-02-12 16:35:13,4ebfbba3009c0cadb91efbd7fd1d9e6197ea6f3b,25.0,7.0,1.0,0.0
+22,Commit,mongoid_moped,2015-02-11 23:20:31,8ee4f95a23357435dcc976188d951bcf28459b05,2.0,2.0,1.0,0.0
+23,Commit,mongoid_moped,2015-01-06 00:29:27,6a58755e81e63b7a6a16a613fb22d0730e05c454,0.0,0.0,0.0,0.0
+24,Commit,mongoid_moped,2015-01-05 22:10:07,7decef4a326285d3fb466c23deadc86003b111a1,1.0,0.0,1.0,0.0
+25,Commit,mongoid_moped,2015-01-02 17:57:28,84618a9a086dcf7ae51b5824b0e8e6b27a0c829c,0.0,0.0,0.0,0.0
+26,Commit,mongoid_moped,2014-12-15 10:14:23,71a8fa9f7557cdb0590b0b285734a2fe29ea5d39,35.0,1.0,4.0,0.0
+27,Commit,mongoid_moped,2014-12-15 09:49:34,5e3552bcc7bd3987c84d22c81a93ef9c581840a6,2.0,3.0,1.0,0.0
+28,Commit,mongoid_moped,2014-12-15 09:48:54,0cf6332e7cc6992295f79e6fce24549a2bef5625,1.0,1.0,1.0,0.0
+29,Commit,mongoid_moped,2014-12-09 18:56:43,8831b8c1a923f1394bf0939ee94a5495a4ed3819,0.0,0.0,0.0,0.0
+30,Commit,mongoid_moped,2014-12-08 23:31:09,e620ab0d75239f2dea6fc3bba95a31da2ca4317e,1.0,1.0,1.0,0.0
+31,Commit,mongoid_moped,2014-10-16 18:58:20,a914a09c111638e81a14823eca7d332fc131b45e,1.0,1.0,1.0,0.0
+32,Commit,mongoid_moped,2014-10-16 18:57:54,f5b167731134038a3c3f2704947575666d14c4f5,1.0,1.0,1.0,0.0
+33,Commit,mongoid_moped,2014-10-16 18:56:27,2631f10e4aad985f157c21cb5afa909af70e5757,11.0,0.0,1.0,0.0
+34,Commit,mongoid_moped,2014-10-16 18:01:37,3285c0aecc6566d60134b6ba2068eeeb256d8e77,0.0,0.0,0.0,0.0
+35,Commit,mongoid_moped,2014-10-04 19:11:38,695971d5470c21c9021295b4be861a7bea4671d0,6.0,2.0,2.0,0.0
+36,Commit,mongoid_moped,2014-10-04 19:10:24,a7f9ec016c6cd519dc5a69075bcd68d5dc36bf5c,2.0,1.0,2.0,0.0
+37,Commit,mongoid_moped,2014-10-04 19:09:40,004f7379879f75bcbe81b974b04239eda78a2e48,1.0,1.0,1.0,0.0
+38,Commit,mongoid_moped,2014-10-04 19:07:37,4f27e3fbe0d153e7981fa9e73178906f47e60f08,11.0,3.0,1.0,0.0
+39,Commit,mongoid_moped,2014-10-04 19:06:21,d652fd91102fbbe2967b82847b90d050330778d9,1.0,1.0,1.0,0.0
+40,Commit,mongoid_moped,2014-09-29 14:56:22,274610f59e7d9fa3d0f9e3b8c3f00389bd9785d4,0.0,0.0,0.0,0.0
+41,Commit,mongoid_moped,2014-09-29 14:24:47,5a6235da40ffd65aa8759fdda73879dacf200226,0.0,0.0,0.0,0.0
+42,Commit,mongoid_moped,2014-09-22 18:31:20,18d6d9ace5629333106732b4d4dccf07ea3bc90f,4.0,2.0,1.0,0.0
+43,Commit,mongoid_moped,2014-09-19 12:55:09,fcdbf5ab25cdb3a6c738bbb541d43e3b85cf3984,5.0,0.0,1.0,0.0
+44,Commit,mongoid_moped,2014-09-04 19:30:36,eacf8efdf53c13a94a5f0e1e7edf62304fbedb96,1.0,1.0,1.0,0.0
+45,Commit,mongoid_moped,2014-07-29 15:00:07,95d59f2ae9776c72623154daf4c1fb3af504160c,16.0,1.0,2.0,0.0
+46,Commit,mongoid_moped,2014-07-29 14:45:10,ea0fa5870d66d3b351d527c206b9310978b3b416,33.0,1.0,3.0,0.0
+47,Commit,mongoid_moped,2014-07-18 14:42:14,2d92a6b9df638ed6b32843323cf795744a422f3d,0.0,0.0,0.0,0.0
+48,Commit,mongoid_moped,2014-07-10 22:26:52,f0a7b88d154f5092ecdbd5ba5a5007e079fae2f1,1.0,1.0,1.0,0.0
+49,Commit,mongoid_moped,2014-07-02 23:57:34,11ebfdf3baa4bca4575ffa092ccafdefb5f806d7,9.0,1.0,1.0,0.0
+50,Commit,mongoid_moped,2014-07-02 23:31:34,69ff87ea96c8dd5a1c08b974570119a89d630671,1.0,1.0,1.0,0.0
+51,Commit,mongoid_moped,2014-06-15 02:30:38,dec51d631774638e36e118808b5e9a89a8e95a83,0.0,0.0,0.0,0.0
+52,Commit,mongoid_moped,2014-06-13 14:08:53,b6e499b6c75ddd2acb56b372b60b65be10104976,0.0,0.0,0.0,0.0
+53,Commit,mongoid_moped,2014-06-10 14:47:17,a7489957f7c1a06b8cdc90e5b686e869f67f2481,0.0,1.0,1.0,0.0
+54,Commit,mongoid_moped,2014-06-10 14:44:42,1480bebf04a68c3ba3efb022adc3e8f0d7e31904,1.0,1.0,1.0,0.0
+55,Commit,mongoid_moped,2014-06-10 03:28:08,a95cd870e74d292a0c18fbf5f6197c5b47cf0e2c,1.0,1.0,1.0,0.0
+56,Commit,mongoid_moped,2014-04-01 15:56:19,a44b4e1e0ee2bc00ad5a3fef937cdf1b15af072e,1.0,1.0,1.0,0.0
+57,Commit,mongoid_moped,2014-04-01 15:55:14,72c1c4dd5cd98198201e724ad537667e2d76b235,1.0,1.0,1.0,0.0
+58,Commit,mongoid_moped,2014-03-31 13:59:27,0286cb7ecde8b8a33643ea772095226465859a27,0.0,0.0,0.0,0.0
+59,Commit,mongoid_moped,2014-03-31 13:50:28,95fcdabe182d52975973be088177aaf6a56204a2,0.0,0.0,0.0,0.0
+60,Commit,mongoid_moped,2014-03-22 01:22:31,7e55bfc461c1f1cf8ce755d6d162cc0a3ccfef54,1.0,1.0,1.0,0.0
+61,Commit,mongoid_moped,2014-02-28 16:47:19,e238b4a757d64d980e3137c5b57a37a1729733a9,0.0,0.0,0.0,0.0
+62,Commit,mongoid_moped,2014-02-27 15:58:46,080fae7ff0e0bf0f86a896638ba3a0e4d640cdd6,1.0,1.0,1.0,0.0
+63,Commit,mongoid_moped,2014-02-21 16:35:45,2c884fee5f1f9b7b95593927c6bdd9f1b931fc18,7.0,11.0,1.0,0.0
+64,Commit,mongoid_moped,2014-02-21 16:27:18,cfc4b83bbc5283154b5171696204b6ab56b502f3,0.0,0.0,0.0,0.0
+65,Commit,mongoid_moped,2014-02-20 22:01:05,32024bf965b1fb96ba550ba87ad0f4e4dd03c08a,80.0,0.0,2.0,0.0
+66,Commit,mongoid_moped,2014-02-20 00:15:59,4a2c40d0f03e5fa1104fd4272af2ea0051b3eac4,11.0,0.0,1.0,0.0
+67,Commit,mongoid_moped,2014-02-19 23:38:16,6526b749972bfce313bc08d59a77c4f77f4d0e9f,2.0,0.0,1.0,0.0
+68,Commit,mongoid_moped,2014-02-11 18:48:22,09b9d91f9204486c56b0e2c69377dffad56dc852,1.0,100.0,2.0,0.0
+69,Commit,mongoid_moped,2014-02-01 13:15:29,7f1286e82f2a75ac89dd047f3addcc12790ea967,1.0,1.0,1.0,0.0
+70,Commit,mongoid_moped,2014-01-27 15:24:09,a8aeb427748d44dbe2c0a48f536ba7d9d38841e9,0.0,0.0,0.0,0.0
+71,Commit,mongoid_moped,2014-01-27 05:24:44,4099af9dad442c41b2a802545a1b2c8a6234216f,1.0,1.0,1.0,0.0
+72,Commit,mongoid_moped,2014-01-26 14:10:52,928e4d3727b657dfb5fdbf66be25c671ab9a1e61,0.0,0.0,0.0,0.0
+73,Commit,mongoid_moped,2014-01-26 13:25:34,973df9a90834943cd5be082b3257e8d9890cdb04,5.0,0.0,1.0,0.0
+74,Commit,mongoid_moped,2014-01-26 13:08:59,2f180bbe8b541046d4167ac7208c9a8df905af1c,4.0,4.0,1.0,0.0
+75,Commit,mongoid_moped,2014-01-24 14:32:18,80057cda1c1040ecee8b724dc42405a5a2dc48e3,1.0,1.0,1.0,0.0
+76,Commit,mongoid_moped,2014-01-18 14:43:52,a81548eb8c58c9b5c853d3e1bc32a107d0974cdf,38.0,1.0,4.0,0.0
+77,Commit,mongoid_moped,2014-01-11 08:30:02,a2cda45884714808eec1d39d4fbb743d4b206a0e,6.0,4.0,1.0,0.0
+78,Commit,mongoid_moped,2014-01-10 08:10:59,21f49f52c8286d29a2e28af973e87128de34263f,1.0,1.0,1.0,0.0
+79,Commit,mongoid_moped,2014-01-10 08:09:59,0b3edb00c1f1534482f42605bbaaf85bde44257c,1.0,1.0,1.0,0.0
+80,Commit,mongoid_moped,2014-01-10 07:46:42,5a1139cf77406781437e5c417bf48c2cb2bb5b2d,1.0,1.0,1.0,0.0
+81,Commit,mongoid_moped,2013-12-27 00:24:32,a8f96c57042af193f63a24ac4b52209865c45868,1.0,2.0,1.0,0.0
+82,Commit,mongoid_moped,2013-12-27 00:23:56,88a6b724ea04fced89a33b7e2af12f0f346ad14a,0.0,13.0,1.0,0.0
+83,Commit,mongoid_moped,2013-12-20 04:29:26,9a88cd9758456b14ea1df03772f20ec482e91d21,16.0,0.0,1.0,0.0
+84,Commit,mongoid_moped,2013-12-20 03:57:46,8a7719fdb70da16462da5df750422d16b0786539,1.0,1.0,2.0,0.0
+85,Commit,mongoid_moped,2013-12-02 16:34:57,3a4b630e5d31a918b322e08a59adfe9e38939ffa,5.0,0.0,1.0,0.0
+86,Commit,mongoid_moped,2013-12-02 16:31:48,7fbb340e274d4d5d7b87f8fb41e6b8b0d8e69afe,5.0,0.0,1.0,0.0
+87,Commit,mongoid_moped,2013-12-02 16:25:50,6ce52842e4831ede429b96c8c75b97cb6b2b3198,5.0,0.0,1.0,0.0
+88,Commit,mongoid_moped,2013-12-02 16:23:22,9cf8bef8083ed64887a891037e09bcb7c1968912,0.0,5.0,1.0,0.0
+89,Commit,mongoid_moped,2013-12-02 16:19:36,b72049d4a0b736df4b62daab9cebe76b2c0de452,1.0,1.0,1.0,0.0
+90,Commit,mongoid_moped,2013-12-02 16:01:59,307cb8f3b3c595b8d6b9cbb704ea93772b085eca,40.0,830.0,11.0,0.0
+91,Commit,mongoid_moped,2013-12-02 11:42:59,861426ce092bfd6656cf03504872ebb9b4ec5e48,2.0,1.0,1.0,0.0
+92,Commit,mongoid_moped,2013-12-01 18:01:42,1c1e9a579fd29252e39ffe2ec8f7bd38803c4e84,0.0,0.0,0.0,0.0
+93,Commit,mongoid_moped,2013-12-01 13:09:10,f2b2b4f21b445b89a75e551e1d364d26574e5f0a,3.0,2.0,1.0,0.0
+94,Commit,mongoid_moped,2013-12-01 12:55:33,4b7bc5663558a3f4ba1c3b59513ad1277535da64,1.0,1.0,1.0,0.0
+95,Commit,mongoid_moped,2013-11-23 04:58:36,073e30bbc49f10d71a1ff3c8462f779f457e28f0,1.0,1.0,1.0,0.0
+96,Commit,mongoid_moped,2013-11-23 04:47:10,4ba8add17340eb525f3745f2b3afc0c88d8e3d25,67.0,7.0,3.0,0.0
+97,Commit,mongoid_moped,2013-11-18 03:11:22,da92f1b4e935e2831986d26e8d89bf7edaf8c02a,11.0,0.0,1.0,0.0
+98,Commit,mongoid_moped,2013-11-16 22:30:01,0f0cbcc7422c7877cf57b02cd8e582c0d88cae51,0.0,0.0,0.0,0.0
+99,Commit,mongoid_moped,2013-11-13 05:13:29,413c858fab9e642372f715dc3598281ac5848f15,52.0,30.0,3.0,0.0
+100,Commit,mongoid_moped,2013-11-09 19:12:52,6f211acfdde53718490c01be928841d2705e794a,105.0,76.0,10.0,0.0
+101,Commit,mongoid_moped,2013-11-09 18:42:26,cdf3a26fa3241a3125eabd57d8c713f86ab3cd6f,3.0,1.0,1.0,0.0
+102,Commit,mongoid_moped,2013-11-06 20:19:24,a87255b0dd17558e35f39f1948d28f524ab63a88,1.0,1.0,1.0,0.0
+103,Commit,mongoid_moped,2013-11-06 20:16:26,0af9babfd177587308020c1e9d81fbac20a56a20,0.0,0.0,0.0,0.0
+104,Commit,mongoid_moped,2013-11-06 18:40:51,b666a40436a3c04524bc202f5cb2857c339c1936,1.0,1.0,1.0,0.0
+105,Commit,mongoid_moped,2013-11-05 17:28:27,cd4989b0ef344df44fd96ebf99d730475841d7e6,0.0,0.0,0.0,0.0
+106,Commit,mongoid_moped,2013-11-05 15:35:31,a830152990cea68041729d59b1790341da8eb12e,1.0,1.0,1.0,0.0
+107,Commit,mongoid_moped,2013-11-03 02:08:29,6acc59118b4c005e0df79ee5b74b01af2f36615a,22.0,28.0,4.0,0.0
+108,Commit,mongoid_moped,2013-11-03 02:07:44,8433b878a471e7def3e39247923b4f9609f2318e,7.0,0.0,1.0,0.0
+109,Commit,mongoid_moped,2013-11-03 01:48:38,664de7926a802ea7ac0adc2816faf7ecb07c3594,0.0,0.0,0.0,0.0
+110,Commit,mongoid_moped,2013-10-30 15:29:16,95f6ac96865e236914510301500c6e3f6768e4d9,36.0,35.0,4.0,0.0
+111,Commit,mongoid_moped,2013-10-29 15:56:32,68a456bb947ca371c10fc7fcf5cdd79fae81cad6,4.0,0.0,1.0,0.0
+112,Commit,mongoid_moped,2013-10-28 22:24:02,e2dec5185cdd0ab2f1c98bc27844aae60227d033,1.0,1.0,1.0,0.0
+113,Commit,mongoid_moped,2013-10-14 15:47:33,10b7aceb4193296364a9448b491d5d313adc373a,2.0,2.0,2.0,0.0
+114,Commit,mongoid_moped,2013-10-04 10:56:42,8ac498c5b077051508249e86f9e071e5ebf13bf8,1.0,1.0,1.0,0.0
+115,Commit,mongoid_moped,2013-10-02 13:14:07,0cdaf2c2f2adb1929aa5e9d97174b0e31e283b76,4.0,0.0,1.0,0.0
+116,Commit,mongoid_moped,2013-10-02 09:58:17,335975a6d3a5973bb59c3651cbe241148ae588ea,28.0,0.0,3.0,0.0
+117,Commit,mongoid_moped,2013-10-02 09:46:30,593043416cb1feb8b0b898ab1af9fe691cc07289,0.0,0.0,0.0,0.0
+118,Commit,mongoid_moped,2013-10-02 09:46:14,4d8d50becaa8eb5096ccc69ff4ffb033a7060cf7,0.0,0.0,0.0,0.0
+119,Commit,mongoid_moped,2013-09-28 02:04:41,90f3b2e465d9f37a866d4b840dba407670d9d030,1.0,1.0,1.0,0.0
+120,Commit,mongoid_moped,2013-09-27 21:12:07,103f5a65b0ee1819564993f4bb35bc0109a65097,2.0,0.0,1.0,0.0
+121,Commit,mongoid_moped,2013-09-27 21:11:58,17fcb98d950acfe3b7ef562d8bef1502e52d1496,29.0,15.0,3.0,0.0
+122,Commit,mongoid_moped,2013-09-27 15:19:49,f5300e147494ca1ea32cb88b4c778a1631140259,18.0,20.0,1.0,0.0
+123,Commit,mongoid_moped,2013-09-27 13:42:32,d886831cb8ddc7008d80927f162452a89d2f830d,7.0,3.0,1.0,0.0
+124,Commit,mongoid_moped,2013-09-27 03:34:15,45644d9ad8fee8257246053e633264069ad73ee6,19.0,9.0,4.0,0.0
+125,Commit,mongoid_moped,2013-09-27 03:33:43,0c6c261ad126c97c54947120458f110f13806824,1.0,1.0,1.0,0.0
+126,Commit,mongoid_moped,2013-09-27 03:33:22,1a5edba5a89d841024603312059f7b0ba67f7acd,1.0,1.0,1.0,0.0
+127,Commit,mongoid_moped,2013-09-27 03:31:26,105e811a0e99841c2a97c1ddcc080027b6425e03,3.0,2.0,2.0,0.0
+128,Commit,mongoid_moped,2013-09-27 03:02:20,efd633241e56206bb2325090789df844c0d7f292,24.0,35.0,2.0,0.0
+129,Commit,mongoid_moped,2013-09-24 14:31:37,1d96fc7d4fadb64fee08f64cb82a2c88a83ac22a,1.0,1.0,1.0,0.0
+130,Commit,mongoid_moped,2013-09-24 14:28:17,096e011e4b94d15f10303651298c69ad65bd2692,6.0,1.0,1.0,0.0
+131,Commit,mongoid_moped,2013-09-24 14:04:42,393e7fa2b431e566c58926b4a1043fd1d4ca8c86,27.0,12.0,4.0,0.0
+132,Commit,mongoid_moped,2013-09-23 13:20:09,a8d59c96074353167e648eddb308686681d7c2ff,1.0,1.0,1.0,0.0
+133,Commit,mongoid_moped,2013-09-21 21:18:39,af2733970f754975cf90dcb8286a714893209797,2.0,2.0,1.0,0.0
+134,Commit,mongoid_moped,2013-09-19 00:49:17,27e681308cdf42b28e592866891e8e673df89d9e,1.0,1.0,1.0,0.0
+135,Commit,mongoid_moped,2013-08-11 11:57:34,ed3760582d34a3a95e293fb20cc5a346e6e29550,6.0,0.0,1.0,0.0
+136,Commit,mongoid_moped,2013-07-09 14:01:13,2d3a0693f65839820607ae129fa2a4270d062c8b,61.0,15.0,3.0,0.0
+137,Commit,mongoid_moped,2013-07-02 13:47:05,f1b94fd0edf322a26b9812980e887326653ba872,74.0,118.0,7.0,0.0
+138,Commit,mongoid_moped,2013-06-20 12:11:06,8baf352e320535e3c4d171b43ab52a09e70dd42e,1.0,1.0,1.0,0.0
+139,Commit,mongoid_moped,2013-06-20 11:43:23,ef9df0f42b064f870e2cc7a7ea4401f94a63b3c7,29.0,5.0,2.0,0.0
+140,Commit,mongoid_moped,2013-06-19 12:41:45,a995d859d85144b47523829f54384bd8d8a870dc,60.0,24.0,2.0,0.0
+141,Commit,mongoid_moped,2013-06-18 17:33:34,cbc34b982e70793b35de419565397bdc9fc388d2,2.0,2.0,1.0,0.0
+142,Commit,mongoid_moped,2013-06-18 17:31:37,aec4c54d70226615a0195e6096c117e87a249091,2.0,2.0,1.0,0.0
+143,Commit,mongoid_moped,2013-06-18 17:00:16,163161f9625d6601b46bede9dc20bee763ac31e2,3.0,1.0,1.0,0.0
+144,Commit,mongoid_moped,2013-06-18 16:48:42,dac5ecf79b1d76d419bc925b395b6cbdfc5a0ba2,1.0,1.0,1.0,0.0
+145,Commit,mongoid_moped,2013-06-06 19:29:57,943499f78c33b36df684596052f706f8d6a62421,4.0,0.0,1.0,0.0
+146,Commit,mongoid_moped,2013-06-06 19:27:45,9379c8b028dc13e269afc33dc4ef03369524dc5a,67.0,2.0,3.0,0.0
+147,Commit,mongoid_moped,2013-05-30 13:29:38,dc92e68129cc8d6c2506ed01baf05cdba93a1bb8,2.0,2.0,1.0,0.0
+148,Commit,mongoid_moped,2013-05-20 17:46:37,a52e25f0031d4dd357d93d847f7065b314e10681,1.0,1.0,1.0,0.0
+149,Commit,mongoid_moped,2013-05-20 17:39:43,00ec27e5a6fb45d8bf155d4c487fc709feedbdde,9.0,9.0,3.0,0.0
+150,Commit,mongoid_moped,2013-05-16 13:30:58,900f801986bf61c2e4b7109f31dec8a46f398998,1.0,1.0,1.0,0.0
+151,Commit,mongoid_moped,2013-05-16 13:28:05,bf9da94ffc6e0c66276fc0033a35b4345f1cb7c4,1.0,1.0,1.0,0.0
+152,Commit,mongoid_moped,2013-05-13 10:50:19,4c03eae4287cc79c464ff376ecad43282464246b,18.0,1.0,4.0,0.0
+153,Commit,mongoid_moped,2013-05-09 16:29:58,728d9bbe53014a3b3ad39f0e62c8138f6b9f6063,1.0,1.0,1.0,0.0
+154,Commit,mongoid_moped,2013-05-08 14:57:49,36033700c7dc9b5ed310a6ae3dfb4cff39220574,1.0,3.0,2.0,0.0
+155,Commit,mongoid_moped,2013-05-07 10:50:15,623e3296b8164c0d9bd1e7904cf00fb83c6ea1c0,10.0,0.0,1.0,0.0
+156,Commit,mongoid_moped,2013-05-07 10:40:23,1d0ac336ac417f433998997ba9eee9ea896a163a,2.0,2.0,2.0,0.0
+157,Commit,mongoid_moped,2013-05-06 15:50:38,27ece512e56d1ecc6a75bab397c0e743b3de2f64,7.0,1.0,1.0,0.0
+158,Commit,mongoid_moped,2013-05-06 15:46:13,b64f937590c69d72fa92255e4c66d3ec126b0ff5,36.0,2215.0,41.0,0.0
+159,Commit,mongoid_moped,2013-05-06 12:49:41,436cae6fd039da0a61e24d017721c817a7ad2462,6.0,0.0,1.0,0.0
+160,Commit,mongoid_moped,2013-05-06 12:48:37,0416e5d9db552ebef299ed4748e7541cf38710fa,1.0,1.0,1.0,0.0
+161,Commit,mongoid_moped,2013-05-05 17:53:12,5afe82979b8a7ebc93f049003b9d7035c74fc4a8,1.0,0.0,1.0,0.0
+162,Commit,mongoid_moped,2013-05-05 15:26:12,28cbf2328c6cb65b5cce520de0213dabed2679f8,14.0,11.0,3.0,0.0
+163,Commit,mongoid_moped,2013-05-05 12:56:37,6b732ed99b653da4a426158c071faa17f3e703b1,32.0,11.0,1.0,0.0
+164,Commit,mongoid_moped,2013-05-05 12:52:01,aabdf892cf78c372342b8a11b51175c0a5da7197,16.0,2.0,4.0,0.0
+165,Commit,mongoid_moped,2013-05-05 12:45:26,92640c843d3fae0d36572ba451580c951a06f5b2,141.0,18.0,5.0,0.0
+166,Commit,mongoid_moped,2013-04-30 13:56:33,2c4591039fa78b3c8f098525cd6c5399eea6effe,17.0,0.0,1.0,0.0
+167,Commit,mongoid_moped,2013-04-30 13:43:34,6c7abcd86a163c526bc966716f35a810e52552d6,0.0,4.0,1.0,0.0
+168,Commit,mongoid_moped,2013-04-30 13:43:34,211633b5009ceb436f919f8a46264aea0571987a,18.0,2.0,2.0,0.0
+169,Commit,mongoid_moped,2013-04-30 13:38:18,6ed0f8295bae4d31ea9cf9c363ef864d2224881c,91.0,0.0,1.0,0.0
+170,Commit,mongoid_moped,2013-04-30 13:30:08,a858a0805b17c621244a469efd827425d0ec0128,23.0,7.0,1.0,0.0
+171,Commit,mongoid_moped,2013-04-30 13:15:52,a238ab58db52cdaebbf373da2edf7f7f94a12fb5,55.0,62.0,4.0,0.0
+172,Commit,mongoid_moped,2013-04-30 12:37:54,feda335da8b629055aacd0336b8818269a050e2c,69.0,2.0,2.0,0.0
+173,Commit,mongoid_moped,2013-04-17 13:45:13,dbbdfae578cffcc8670d2482e67c7a433a5e480e,55.0,21.0,5.0,0.0
+174,Commit,mongoid_moped,2013-04-17 11:11:32,9404c78b551a4510ed561af8261c733ba8b3591d,130.0,0.0,1.0,0.0
+175,Commit,mongoid_moped,2013-04-17 09:28:58,1713e27544fcc7b974b9bf04cec3983e87929d5b,42.0,0.0,1.0,0.0
+176,Commit,mongoid_moped,2013-04-10 16:10:54,468fa807f8837ca116f6f7f850b1a64042514022,91.0,68.0,4.0,0.0
+177,Commit,mongoid_moped,2013-04-08 19:58:18,a54cbafc1878e2b8b9abfe7de6b8802b477e30f6,66.0,16.0,2.0,0.0
+178,Commit,mongoid_moped,2013-04-07 14:54:44,481bcf257c4373b5f21873c8198a13ed1ee819f6,35.0,15.0,1.0,0.0
+179,Commit,mongoid_moped,2013-03-30 13:38:03,e2c0c20c30b0ce40fb10b195fbba9dd789bf7b14,7.0,4.0,1.0,0.0
+180,Commit,mongoid_moped,2013-03-29 20:35:01,50296628b01dddbfb0c62246dfdf5dc5a9f56488,2.0,1.0,3.0,0.0
+181,Commit,mongoid_moped,2013-03-28 17:30:51,e69498806b910db0d27aba450e4e73920c097bcd,2.0,0.0,1.0,0.0
+182,Commit,mongoid_moped,2013-03-27 16:23:50,09fe5be3bb8aae202019808c3aa6f7bf2a2211a4,12.0,4.0,2.0,0.0
+183,Commit,mongoid_moped,2013-03-27 16:22:41,1de6d2ac18b3a4f206aaf4f03e96bb2f5b5cd391,22.0,1.0,2.0,0.0
+184,Commit,mongoid_moped,2013-03-27 16:10:30,74210e540e53e10690ca379a5a0fd31942138ae3,28.0,3.0,3.0,0.0
+185,Commit,mongoid_moped,2013-03-26 16:06:46,3f41fdaf20a29c430f40ed8cdf461e8d0b38f242,18.0,32.0,3.0,0.0
+186,Commit,mongoid_moped,2013-03-26 15:57:20,e6b8fe1f69efe3a34d3c5f410ab9f8f4291350dd,57.0,6.0,3.0,0.0
+187,Commit,mongoid_moped,2013-03-25 11:22:55,80573f53fd38e8f755e4b5027539cae8593bd985,137.0,45.0,4.0,0.0
+188,Commit,mongoid_moped,2013-03-24 14:50:02,a3debcc7ce7e445316997b3fcaa711416c0c9fd9,96.0,2.0,4.0,0.0
+189,Commit,mongoid_moped,2013-03-24 14:31:39,16d5c585e84577fdbac239a80daed6fea3722fb2,111.0,4.0,5.0,0.0
+190,Commit,mongoid_moped,2013-03-24 13:00:27,85907ab2aa944a2c58111d98210d51536674510d,245.0,241.0,15.0,0.0
+191,Commit,mongoid_moped,2013-03-24 11:30:25,611ff02dc3c8bac0fd619f81c09218941cefc9ab,157.0,524.0,10.0,0.0
+192,Commit,mongoid_moped,2013-03-24 10:22:16,18c01a4999c798e2b9990284d6332b34bd5870c1,104.0,47.0,4.0,0.0
+193,Commit,mongoid_moped,2013-03-23 18:46:34,b162cc2d6c4207a38333e5809ae7567f6769e661,93.0,35.0,3.0,0.0
+194,Commit,mongoid_moped,2013-03-23 18:10:43,262ad31fa55041258e220b68d2b247bafb044204,125.0,10.0,3.0,0.0
+195,Commit,mongoid_moped,2013-03-23 17:28:31,7ffeca2f14b35c7367e7836201bfacd378a844ef,184.0,1.0,2.0,0.0
+196,Commit,mongoid_moped,2013-03-23 12:44:12,687498045a4e679d0a9753360f08ccb14c3830e2,77.0,0.0,4.0,0.0
+197,Commit,mongoid_moped,2013-03-23 12:20:09,cd64349a5b6c841d90e265da56d2750fe6d11f9d,109.0,3.0,8.0,0.0
+198,Commit,mongoid_moped,2013-03-23 11:34:17,e0b15c4342a344c602f6478c004214a47bc13806,24.0,4.0,4.0,0.0
+199,Commit,mongoid_moped,2013-03-23 11:21:42,d0a86052b0bcd96eb09047f856256ba6aef91ff0,20.0,0.0,1.0,0.0
+200,Commit,mongoid_moped,2013-03-23 11:19:56,e5e2f8a84cdfaeb5951be5a3fb3740cdeb7fde56,44.0,0.0,1.0,0.0
+201,Commit,mongoid_moped,2013-03-22 15:18:07,c6c2edf8c959eccae53bd1f349022278a2b3449a,60.0,3.0,2.0,0.0
+202,Commit,mongoid_moped,2013-03-22 14:47:41,f69fd3ee3636f8dc61136a70dc2eec1a9f8f8766,56.0,75.0,5.0,0.0
+203,Commit,mongoid_moped,2013-03-22 14:40:26,2eaf8143fa6ca563cfc8902ce04dc5b7f64646db,459.0,449.0,11.0,0.0
+204,Commit,mongoid_moped,2013-03-22 11:47:00,1815239d7447de38c6f84ba14aace0c3d0e648ee,1.0,1.0,1.0,0.0
+205,Commit,mongoid_moped,2013-03-22 11:41:33,c2e1d3cbf0cf2944f95f451dfea2c9cd245462d9,10.0,0.0,1.0,0.0
+206,Commit,mongoid_moped,2013-03-22 11:39:01,4251a073535811efdbf12343a7e8135ae5799606,36.0,4.0,3.0,0.0
+207,Commit,mongoid_moped,2013-03-22 11:32:34,bc0e98f6f4a8827a03fd32609fdad5661c98e660,4.0,3.0,2.0,0.0
+208,Commit,mongoid_moped,2013-03-22 11:17:49,501c4fb7b1da0a14ab4b743976e7d97eb03a8c59,2.0,2.0,1.0,0.0
+209,Commit,mongoid_moped,2013-03-22 11:16:13,b948df576a3c86e6a276a4e71c54c9f04a196019,7.0,13.0,3.0,0.0
+210,Commit,mongoid_moped,2013-03-22 09:03:57,3220b5cfee251c475c461e09083c4917ef28d162,0.0,0.0,0.0,0.0
+211,Commit,mongoid_moped,2013-03-22 01:58:02,9cad61d161f878a924449254c01abea3112617a1,1.0,0.0,1.0,0.0
+212,Commit,mongoid_moped,2013-03-20 21:23:38,05ec6c7a9525f0be48fb524ca4a3d584252a89fb,109.0,2.0,7.0,0.0
+213,Commit,mongoid_moped,2013-03-20 18:47:12,b84b5d2be3808525c418f250c7da43f9d6e3d0bd,5.0,5.0,2.0,0.0
+214,Commit,mongoid_moped,2013-03-20 17:18:48,6d065724c58b2331f3aac308e27cf7473878de20,1.0,1.0,1.0,0.0
+215,Commit,mongoid_moped,2013-03-20 14:01:05,20ca1875a5e0dfa22c6e26d7ca7dae70a9d34fb1,13.0,1.0,2.0,0.0
+216,Commit,mongoid_moped,2013-03-20 13:55:05,350c74537a58a12135e8c9dcc4d1919f8a8e7750,35.0,26.0,3.0,0.0
+217,Commit,mongoid_moped,2013-03-20 13:27:39,4b9552503aa1b20b2e78392365844d5ddef5a802,85.0,607.0,10.0,0.0
+218,Commit,mongoid_moped,2013-03-20 13:16:17,5211c1e817746b2836369e5c6e18b9e70ce734c2,179.0,112.0,4.0,0.0
+219,Commit,mongoid_moped,2013-03-20 12:49:29,9016b26a697303fb52c81012d7ad3456ec180527,128.0,30.0,4.0,0.0
+220,Commit,mongoid_moped,2013-03-20 12:43:58,7f481c2220b3fa949403472a015830274760e668,8.0,4.0,1.0,0.0
+221,Commit,mongoid_moped,2013-03-20 12:19:56,8053d0224d81d2e06b5ac5e4c141584683eb19a1,30.0,128.0,4.0,0.0
+222,Commit,mongoid_moped,2013-03-20 11:47:28,eff1578f484c96cc97afb14c6f170f1ccafbb9a2,128.0,30.0,4.0,0.0
+223,Commit,mongoid_moped,2013-03-20 11:08:56,b41a98482cd3e3107827e95291fb0b7b7c6eb802,14.0,12.0,1.0,0.0
+224,Commit,mongoid_moped,2013-03-20 11:02:44,0cc0581dc89b64538e50661c5f43b7447a6565ff,4.0,9.0,1.0,0.0
+225,Commit,mongoid_moped,2013-03-20 11:01:50,8a03d1d2d0d0a9ed91a25790f79d094471899939,4.0,10.0,2.0,0.0
+226,Commit,mongoid_moped,2013-03-20 10:59:45,95b744826539344fbfa8f0da81eebd2d9b899507,4.0,10.0,2.0,0.0
+227,Commit,mongoid_moped,2013-03-20 10:56:36,d0e85f20adeb03b67a4f37e43c234cba356f76b4,12.0,13.0,3.0,0.0
+228,Commit,mongoid_moped,2013-03-20 10:43:37,3d940b087bcc06b9a36189a512cb7526d6139857,1.0,1.0,1.0,0.0
+229,Commit,mongoid_moped,2013-03-20 10:42:25,eae7bd2a82bb4cc3d2c036e8f06a6e9dfe147211,104.0,2.0,2.0,0.0
+230,Commit,mongoid_moped,2013-03-20 10:30:57,999054ef9564517fd926ab78d01d4145b2a54170,42.0,13.0,2.0,0.0
+231,Commit,mongoid_moped,2013-03-20 00:06:58,2ca021ad1cd0bfa0d45f4a451df13303ca9e3987,4.0,4.0,1.0,0.0
+232,Commit,mongoid_moped,2013-03-20 00:06:00,f1752a2f3baed4a105474c477873f9f35f8cacaa,25.0,1.0,1.0,0.0
+233,Commit,mongoid_moped,2013-03-19 23:58:57,c174e76e1ae7e0cd9f07575615676868ecb75127,139.0,63.0,11.0,0.0
+234,Commit,mongoid_moped,2013-03-19 23:00:32,b7579a3aa6ad2953781414900090204298b910ab,5.0,5.0,4.0,0.0
+235,Commit,mongoid_moped,2013-03-19 22:55:06,eafc6412a07d4a53516827605ff1cdda6c2499b3,28.0,62.0,13.0,0.0
+236,Commit,mongoid_moped,2013-03-19 22:38:02,6672de88c35c0c5f44da235e7c3caf41b5592027,7.0,39.0,4.0,0.0
+237,Commit,mongoid_moped,2013-03-19 21:33:47,c50be5476476f7bcc9a1af6636070a9b78a8a3f4,9.0,90.0,5.0,0.0
+238,Commit,mongoid_moped,2013-03-19 16:55:13,2cd3aa988fa629caed63c5f089fdd5e8111e1bbd,63.0,15.0,5.0,0.0
+239,Commit,mongoid_moped,2013-03-19 16:44:38,4d006aca298e8b05246b2bffb023837fba45d8af,35.0,8.0,2.0,0.0
+240,Commit,mongoid_moped,2013-03-18 16:49:52,aa6006be92f1e13a3ba7decc7b75ab18cbd048bc,362.0,417.0,25.0,0.0
+241,Commit,mongoid_moped,2013-03-16 15:42:56,ecd0fb62ccf1b62fb5068b04e3c729d9435f7798,15.0,5.0,1.0,0.0
+242,Commit,mongoid_moped,2013-03-16 14:32:04,2f2703a9732adcb363f5a26aae97c8b6319f9335,154.0,110.0,3.0,0.0
+243,Commit,mongoid_moped,2013-03-15 09:35:55,31cc5b621f616f7de437b4780ccd9f83d4d0a982,3.0,3.0,3.0,0.0
+244,Commit,mongoid_moped,2013-03-15 09:35:55,7a5fcb909c523581c1886095ec71fb21fa9fd2e1,19.0,15.0,4.0,0.0
+245,Commit,mongoid_moped,2013-03-15 02:59:10,ad3453407c74d71164a9272b79614bc7b507a1ea,42.0,1.0,2.0,0.0
+246,Commit,mongoid_moped,2013-03-15 02:55:51,14e4446c303d49f358cfb941ee418daf29e6eb5c,1.0,0.0,1.0,0.0
+247,Commit,mongoid_moped,2013-03-14 18:03:30,2822fc26e7de2c07329dd98cfc2567b6c2ffcdef,51.0,14.0,4.0,0.0
+248,Commit,mongoid_moped,2013-03-14 12:12:37,46b8da8e4f1a8bd810f270a89add432fbb6aa293,63.0,13.0,2.0,0.0
+249,Commit,mongoid_moped,2013-03-14 11:58:56,339c1860e4425bd0dafc9aef2478fa5f48954ce9,191.0,0.0,12.0,0.0
+250,Commit,mongoid_moped,2013-03-14 10:20:41,f67f42753259c582d55845ec835452686d2a6510,17.0,10.0,1.0,0.0
+251,Commit,mongoid_moped,2013-03-11 18:01:10,e179ec255841b4ee06f14bf034d3a58d62f73342,0.0,48.0,1.0,0.0
+252,Commit,mongoid_moped,2013-03-11 18:00:52,cfbf84e343d55e59044f768537f95e33ea7d5835,0.0,7.0,1.0,0.0
+253,Commit,mongoid_moped,2013-03-11 18:00:36,a457d2280a3be96a34605667ba1213cc37a74d0f,1.0,4.0,1.0,0.0
+254,Commit,mongoid_moped,2013-03-11 12:17:07,4729c428f663bfbbbcefbff8c690da35ba2929fa,34.0,5.0,1.0,0.0
+255,Commit,mongoid_moped,2013-03-11 12:11:35,c7f8b7c51ab9781d8b88540b2e0fedbc58c979a9,97.0,60.0,12.0,0.0
+256,Commit,mongoid_moped,2013-03-11 11:57:26,ec59695c3431f673638216b4d2ed0832f5802d47,17.0,1.0,2.0,0.0
+257,Commit,mongoid_moped,2013-03-11 11:54:05,54a38415bd4dba16881ec05e180907ad1fc514fa,234.0,4.0,9.0,0.0
+258,Commit,mongoid_moped,2013-03-11 11:02:01,1bb533ce9aff27b980168baee9e694d43cc7e56a,132.0,44.0,4.0,0.0
+259,Commit,mongoid_moped,2013-03-09 23:09:01,1f1042b36c74daa7a7565f7cbd7a41ebf7614077,1.0,1.0,1.0,0.0
+260,Commit,mongoid_moped,2013-03-09 16:53:31,f31650077c97f387214afacea5f0172e6120893a,99.0,59.0,6.0,0.0
+261,Commit,mongoid_moped,2013-03-09 08:53:54,b352333f7b9e98a06959776a3e696ff4766b7161,54.0,16.0,2.0,0.0
+262,Commit,mongoid_moped,2013-03-09 08:48:43,958cafa69d74f9221f60699c3721d9e9ee05a012,25.0,21.0,2.0,0.0
+263,Commit,mongoid_moped,2013-03-08 15:44:01,8c1d99536a33feac0c870eee183654ef3b2cee23,4.0,8.0,1.0,0.0
+264,Commit,mongoid_moped,2013-03-08 15:38:13,2ed75e81d00d5688877ef355d6fd79b39f1dbc18,4.0,4.0,1.0,0.0
+265,Commit,mongoid_moped,2013-03-08 15:33:01,319428193120b4875ce4e97b8533475a93a454f7,67.0,3.0,2.0,0.0
+266,Commit,mongoid_moped,2013-03-06 21:01:51,fd6ce63fd64037f06360ead8f4b72bb86210fa3c,221.0,68.0,5.0,0.0
+267,Commit,mongoid_moped,2013-03-06 15:28:22,79a3783eb3e3503178cc1452b591629424a78fd3,29.0,23.0,1.0,0.0
+268,Commit,mongoid_moped,2013-03-06 15:24:44,f2a4e5d8cdc87156b6477f3a206ae25dbd426f7c,1.0,3.0,1.0,0.0
+269,Commit,mongoid_moped,2013-03-06 15:23:35,dbb9e34d4e62ea99ebd10a675f7b4621bced027b,6.0,1.0,2.0,0.0
+270,Commit,mongoid_moped,2013-03-06 15:21:38,913dc21e9c28fdd523a0a70ccd5e14a1f65fdd93,113.0,61.0,6.0,0.0
+271,Commit,mongoid_moped,2013-03-06 15:05:27,5a14f23906614fd59e4d3894f8f2f2ff79d1372a,95.0,55.0,2.0,0.0
+272,Commit,mongoid_moped,2013-03-06 11:58:59,3d155e9a5c2dd20cce76d79b3eeb13b8a2fd29f1,89.0,82.0,7.0,0.0
+273,Commit,mongoid_moped,2013-03-06 10:13:59,68a2f0ccfd661346cb0e0d5626e4a6b84b78ce4b,10.0,10.0,2.0,0.0
+274,Commit,mongoid_moped,2013-03-06 10:08:28,b80d2e166ba3995c082740104fd38f90feb4163d,6.0,12.0,4.0,0.0
+275,Commit,mongoid_moped,2013-03-05 13:40:02,b7ade366f8640476e40590953a695bcb3ff8b649,55.0,15.0,5.0,0.0
+276,Commit,mongoid_moped,2013-03-05 13:14:59,940f00155254663ace9769d28147fb49da42f055,64.0,22.0,5.0,0.0
+277,Commit,mongoid_moped,2013-03-05 12:11:35,60ddc1a378a5f3f8cc2438d73b3df7cc6c23db21,42.0,49.0,5.0,0.0
+278,Commit,mongoid_moped,2013-03-05 11:42:57,6fdea1c266dc9e31beb9a2c91c65cb138e5f4082,103.0,14.0,8.0,0.0
+279,Commit,mongoid_moped,2013-03-05 11:25:39,ddf51419af85e21ff5fc1642359375e2015feec8,3.0,3.0,2.0,0.0
+280,Commit,mongoid_moped,2013-03-05 11:23:46,d6ebfd8beb369aba4448e140f2290601ad255e3b,93.0,3.0,5.0,0.0
+281,Commit,mongoid_moped,2013-03-05 11:07:48,b20947bd288e31d51dad901cac393fa1cddd0944,105.0,6.0,6.0,0.0
+282,Commit,mongoid_moped,2013-03-04 18:56:29,b54af7a1fdfe707f05503271dbf9e804f4c89356,7.0,36.0,3.0,0.0
+283,Commit,mongoid_moped,2013-03-04 18:52:32,87c5c7f34d409542bb6b41273a7fa7fbf26348ea,153.0,8.0,9.0,0.0
+284,Commit,mongoid_moped,2013-03-04 17:41:23,741a0e523f7d1cc85a21a38d5798b50f2943cf89,97.0,22.0,10.0,0.0
+285,Commit,mongoid_moped,2013-03-04 11:41:37,e8ef761e44f432ac8f736bb37729e56da86b402c,3.0,1.0,2.0,0.0
+286,Commit,mongoid_moped,2013-03-04 11:14:58,4e24b672861651a7a382be8d802621b1494c9f0e,1.0,3.0,1.0,0.0
+287,Commit,mongoid_moped,2013-03-04 11:13:04,ad99da0f06d3b157c65ecbd24ca7bc2f15804ed9,143.0,20.0,10.0,0.0
+288,Commit,mongoid_moped,2013-03-04 10:37:59,d3665e10593b1ea96865e75b378a6ddd52aeddb3,14.0,3.0,2.0,0.0
+289,Commit,mongoid_moped,2013-03-04 10:33:08,c8d90a219e7b1d5c4ce245db6447084ab3fa8512,29.0,0.0,2.0,0.0
+290,Commit,mongoid_moped,2013-03-04 10:30:53,81ad6a400889905ec687cedd70d44285f416153d,48.0,19.0,2.0,0.0
+291,Commit,mongoid_moped,2013-03-03 17:56:59,cb3e428a2e3d5b2e9223c02f5ed795cabad03260,76.0,67.0,1.0,0.0
+292,Commit,mongoid_moped,2013-03-03 17:52:41,79da43c714e0b384f74838cd999f523ae15ad192,17.0,3.0,1.0,0.0
+293,Commit,mongoid_moped,2013-03-03 17:50:02,ba4197fc6236bdcd677c7e1783c92eb7c86a7000,2.0,1.0,1.0,0.0
+294,Commit,mongoid_moped,2013-03-03 17:46:49,de103ad034ba71db9ca80a4b72ffe4b72b39f4d9,8.0,25.0,3.0,0.0
+295,Commit,mongoid_moped,2013-03-03 17:41:11,37f90696d3c12843057bda8f8ffb5bc62265605f,37.0,29.0,2.0,0.0
+296,Commit,mongoid_moped,2013-03-03 17:37:18,2921227b242fe392c4120da8f68e584d646fa4ca,102.0,41.0,3.0,0.0
+297,Commit,mongoid_moped,2013-03-03 16:16:18,d104d8772be8f43295d7627fa6069cbb6339b4c4,22.0,6.0,1.0,0.0
+298,Commit,mongoid_moped,2013-03-03 16:14:39,2e6435b26a5f68c1c62a2e0a75504cf582da890b,5.0,3.0,1.0,0.0
+299,Commit,mongoid_moped,2013-03-03 16:13:08,ff70e1f4d82c8e407d01028a432d60e621059769,149.0,97.0,2.0,0.0
+300,Commit,mongoid_moped,2013-03-03 15:56:41,b65c5f275d110d04e9fa093ef8ca09cabd98486d,72.0,7.0,2.0,0.0
+301,Commit,mongoid_moped,2013-03-03 15:49:24,636c307b3ed3d29d17ef396a4a8c4a2ddb2163ab,90.0,13.0,5.0,0.0
+302,Commit,mongoid_moped,2013-03-03 10:12:41,4161a3be4694163ffb9f976ff162a29f0cdd49f4,92.0,7.0,3.0,0.0
+303,Commit,mongoid_moped,2013-03-03 10:06:22,8c3c5b555b9ac8fcabe9fbaf06dedb050cddb4d6,3.0,3.0,1.0,0.0
+304,Commit,mongoid_moped,2013-03-03 10:05:41,725a37bee25290a0b46747a4e8bf01d03b518198,67.0,8.0,4.0,0.0
+305,Commit,mongoid_moped,2013-03-03 09:59:05,41e29577eb2e4d150149531f9192cb02aba2b5c7,99.0,15.0,6.0,0.0
+306,Commit,mongoid_moped,2013-03-03 09:44:06,3162349086aa4e5c2b68e72653ba572fb4e779cf,80.0,11.0,4.0,0.0
+307,Commit,mongoid_moped,2013-02-28 14:37:00,5f18f51e601d6c5fd6ab3dd6be8ba9e745432047,63.0,0.0,1.0,0.0
+308,Commit,mongoid_moped,2013-02-28 12:48:32,5f4b5660bb381c8a83214dab0783cd331d0392c9,63.0,2.0,3.0,0.0
+309,Commit,mongoid_moped,2013-02-28 12:11:04,cb8a943efa1c75e3a96aed508c2d5602a7dd78de,50.0,0.0,1.0,0.0
+310,Commit,mongoid_moped,2013-02-28 12:08:02,f8a2a8e8b18a663f1a722456041f7333ecb72026,124.0,31.0,2.0,0.0
+311,Commit,mongoid_moped,2013-02-28 11:06:59,8fa5b07ef75bbb9934abec7c1618b4927acb60cc,65.0,16.0,2.0,0.0
+312,Commit,mongoid_moped,2013-02-28 10:46:21,192e74bcb3a18305dba7373af0bd93e2f023c0e3,1.0,1.0,1.0,0.0
+313,Commit,mongoid_moped,2013-02-27 23:16:22,6fa4b626f16ec35b8ea077b51f5610919fa58f8a,1.0,0.0,1.0,0.0
+314,Commit,mongoid_moped,2013-02-27 23:07:05,a406ca18b17502d41df8bbd66786993abd52a912,28.0,2.0,3.0,0.0
+315,Commit,mongoid_moped,2013-02-25 14:54:43,5d6f85075654fae7f922f7015307cd58928151ec,292.0,21.0,6.0,0.0
+316,Commit,mongoid_moped,2013-02-24 15:01:03,34e80c239d3c860b74a714ded9d09ef8442e87e8,4.0,1.0,1.0,0.0
+317,Commit,mongoid_moped,2013-02-24 14:57:35,d6b20ced7786361275c34b3440f0a64e32d4388c,48.0,11.0,2.0,0.0
+318,Commit,mongoid_moped,2013-02-24 14:43:01,d7ce3746767bebfef554fd6adbc9e54532f27375,2.0,0.0,1.0,0.0
+319,Commit,mongoid_moped,2013-02-24 14:33:46,8f7cde5df4b37295e3efe26d2b8170818306945e,123.0,2.0,2.0,0.0
+320,Commit,mongoid_moped,2013-02-24 14:20:25,76d638d256f781d4b7076cf04ca77923e4f1b04f,151.0,27.0,9.0,0.0
+321,Commit,mongoid_moped,2013-02-24 13:42:45,c5d65b0989b8b20930ee6a01615a995fbf5650a6,84.0,0.0,3.0,0.0
+322,Commit,mongoid_moped,2013-02-24 13:12:36,a0348ef90073c02f3a521523c1b0b1201faef06b,57.0,5.0,5.0,0.0
+323,Commit,mongoid_moped,2013-02-24 13:05:11,cedcd625f6337a92a668ef1e4cd8c6ab68460f47,23.0,0.0,1.0,0.0
+324,Commit,mongoid_moped,2013-02-24 13:02:06,61f33fe54fd077a80a3d0f947273adf8682816a3,17.0,1.0,2.0,0.0
+325,Commit,mongoid_moped,2013-02-24 13:00:43,e41668528b53b2e8df238b59844c94ba7c62a694,17.0,1.0,2.0,0.0
+326,Commit,mongoid_moped,2013-02-24 12:59:20,46a6d219b116dafc241ce809274a61f0320ea7db,17.0,1.0,2.0,0.0
+327,Commit,mongoid_moped,2013-02-24 12:57:49,862479c6bcac59b274c795934b66704ddb83e9b1,17.0,1.0,2.0,0.0
+328,Commit,mongoid_moped,2013-02-24 12:56:56,a4ea47d528b6c688fbe69d3ce3ca2442f9a45231,25.0,0.0,2.0,0.0
+329,Commit,mongoid_moped,2013-02-24 12:52:52,dfea44abadac675c62aa75152f7a8f25f653e12f,14.0,0.0,3.0,0.0
+330,Commit,mongoid_moped,2013-02-24 12:51:00,5007ba5765c68576e64fb5de90e1221b8efd744a,14.0,0.0,3.0,0.0
+331,Commit,mongoid_moped,2013-02-24 12:50:04,5d1be93d8157feec96a6bda3c01821a6c886690a,14.0,0.0,3.0,0.0
+332,Commit,mongoid_moped,2013-02-24 12:48:37,faee3e35bed0225d108968af3a24b5a9a6555a61,14.0,0.0,3.0,0.0
+333,Commit,mongoid_moped,2013-02-24 12:47:46,0b1ac6f7d5cbaa9368264a40f8dba325ee63886a,15.0,0.0,3.0,0.0
+334,Commit,mongoid_moped,2013-02-24 12:45:37,4d8ad1e8bd7790369433997d2ec56a373ed7ab67,12.0,0.0,3.0,0.0
+335,Commit,mongoid_moped,2013-02-24 10:19:36,bdbec555960fd762bf18002e4ce501abf84e7904,3.0,0.0,1.0,0.0
+336,Commit,mongoid_moped,2013-02-24 10:18:08,ceabe60d03f3b5caaaac549a523e9336dfe5ff85,3.0,1.0,1.0,0.0
+337,Commit,mongoid_moped,2013-02-24 10:16:46,659854a02a15b4330e30e6ecc61c1d33a4db27ce,2.0,0.0,1.0,0.0
+338,Commit,mongoid_moped,2013-02-24 10:15:55,f17584138f7fc3ec674bde289add6b28f63068dc,3.0,1.0,1.0,0.0
+339,Commit,mongoid_moped,2013-02-24 10:14:16,2f279f0389e85e2e3eaa2dd1f4d96acc5899df5e,12.0,0.0,1.0,0.0
+340,Commit,mongoid_moped,2013-02-24 09:55:43,61c44b6597777713480d461d81cb95baca5b6595,4.0,1.0,2.0,0.0
+341,Commit,mongoid_moped,2013-02-17 14:35:39,5a85d91277326f87a58ebd6770376479e46e7e0e,29.0,1.0,3.0,0.0
+342,Commit,mongoid_moped,2013-02-13 15:15:28,2a26ce88e22000511baad701e35fdaa422cb2faf,1.0,1.0,1.0,0.0
+343,Commit,mongoid_moped,2013-02-09 16:32:42,0b25f7adf36f250ef839dc7c528f3bf1063364ba,68.0,2.0,3.0,0.0
+344,Commit,mongoid_moped,2013-02-09 15:55:39,2c1f5d6b46fa983c7d60cd0a32c5687489e93224,22.0,11.0,2.0,0.0
+345,Commit,mongoid_moped,2013-02-06 16:33:32,0807cd028f46939ff02c19bb3d10a25b39d256b9,3.0,0.0,1.0,0.0
+346,Commit,mongoid_moped,2013-02-06 16:22:58,289c420e519ebe73179dd1d815baad1f92cbfb10,4.0,0.0,1.0,0.0
+347,Commit,mongoid_moped,2013-02-06 16:21:28,a0facf3caff0b8d6123e12e0a06eddf3c1f93e91,46.0,6.0,3.0,0.0
+348,Commit,mongoid_moped,2013-02-06 14:46:37,f97c87f7704e1844b3189863fbcbb358aa1944bf,1.0,1.0,1.0,0.0
+349,Commit,mongoid_moped,2013-02-06 14:34:10,808991a48fb4d58467ecbf29c656fa5841cd86fc,51.0,13.0,2.0,0.0
+350,Commit,mongoid_moped,2013-02-06 13:25:35,40d4729a19d141dc9da7ae77919f823afda49ddb,112.0,39.0,3.0,0.0
+351,Commit,mongoid_moped,2013-02-06 10:50:42,c58e17fd753abeefc576167afa34d1ed0e52341c,2.0,2.0,1.0,0.0
+352,Commit,mongoid_moped,2013-02-06 10:44:52,e7bc3aa684a3936e38736c873d420640afd69571,1.0,0.0,1.0,0.0
+353,Commit,mongoid_moped,2013-02-06 10:44:43,7089ee1bec60486acaffb5f93b236b7c5b1e6beb,0.0,67.0,1.0,0.0
+354,Commit,mongoid_moped,2013-02-06 10:44:18,97caaef2832cc5546f2c10b1dc05e1f0e6193ddd,5.0,10.0,1.0,0.0
+355,Commit,mongoid_moped,2013-02-06 10:19:30,a2980b10535005a4c5f2600345797c068cc8b615,86.0,1.0,2.0,0.0
+356,Commit,mongoid_moped,2013-02-06 10:13:22,445982bfc7c1fbf9db2cd12305abf0ab59acca1b,1.0,1.0,1.0,0.0
+357,Commit,mongoid_moped,2013-02-06 10:02:50,f63c7a414aa1c91ada6c21b55f671258343a5861,109.0,8.0,2.0,0.0
+358,Commit,mongoid_moped,2013-02-04 22:18:28,6a639e408518eecd874ddd32b0ce619e51f78b80,98.0,114.0,13.0,0.0
+359,Commit,mongoid_moped,2013-02-04 22:05:54,4ac7206ab1c73c99b5cc6a669a14a2cf864c57be,5.0,5.0,1.0,0.0
+360,Commit,mongoid_moped,2013-02-04 21:59:33,debf285d97ca7ce2667f14b9b2fe05be547a3232,27.0,4.0,1.0,0.0
+361,Commit,mongoid_moped,2013-02-04 12:28:26,2ba4415be3f1a93dc3075a634957e11c59e5e815,216.0,97.0,4.0,0.0
+362,Commit,mongoid_moped,2013-02-04 11:57:12,f9b01d75b7c32868fd7bf1d0fea5256db47a93c7,81.0,39.0,4.0,0.0
+363,Commit,mongoid_moped,2013-02-04 11:53:39,670ec612ee2b690c06d1166b5c820240ea60061e,61.0,21.0,5.0,0.0
+364,Commit,mongoid_moped,2013-02-04 11:32:20,4fdb3c0f49eb0716b6ceec7e95eb3f8f513d9786,25.0,1.0,2.0,0.0
+365,Commit,mongoid_moped,2013-02-04 11:27:33,74c21f075d5bf6abec13e3a8c8e2cda00f2aac70,120.0,71.0,2.0,0.0
+366,Commit,mongoid_moped,2013-02-04 11:22:00,97522c8a722db83b68b58891bc8435ac50268aca,154.0,70.0,6.0,0.0
+367,Commit,mongoid_moped,2013-02-04 11:03:04,b9099f4057a6e85ae626b7bc3e764db3f7d8b5d1,5.0,7.0,1.0,0.0
+368,Commit,mongoid_moped,2013-02-03 12:35:43,58894ed2a9a2cb7dd28dee0b4d4d22d575bbe92a,1.0,1.0,1.0,0.0
+369,Commit,mongoid_moped,2013-02-03 12:33:14,b0a3644911cfe4b29e9838dc6691d4e1c7a5051a,19.0,12.0,1.0,0.0
+370,Commit,mongoid_moped,2013-02-03 12:32:27,e50c279deb086c4affd28bef28e4ad20b76de6a7,46.0,18.0,2.0,0.0
+371,Commit,mongoid_moped,2013-02-03 12:28:20,f65833801c8cfda9b3cc7f59c3e15cab7a4a5500,2.0,2.0,1.0,0.0
+372,Commit,mongoid_moped,2013-02-03 12:28:11,cc1e09c7ea6d9c16ea9875abcddbe1c3668e9acb,1.0,1.0,1.0,0.0
+373,Commit,mongoid_moped,2013-02-03 12:24:49,3faf1b7ffbe0131db02b6d1e187dda8334a81b68,92.0,13.0,3.0,0.0
+374,Commit,mongoid_moped,2013-02-03 12:03:26,9a67bf646019f923aa2032bb601675818f5e7ea0,3.0,0.0,1.0,0.0
+375,Commit,mongoid_moped,2013-02-03 11:57:12,4fcb086c56172095dc87e1d8c826e94b8bb80edf,5.0,0.0,1.0,0.0
+376,Commit,mongoid_moped,2013-02-03 11:57:12,6c240c572f547593c5baedc0eafefcd4a68a75c5,2.0,0.0,1.0,0.0
+377,Commit,mongoid_moped,2013-02-03 11:56:00,5ee89c1730aaa8c5a4c1f926565e001a7dc6844b,42.0,1.0,3.0,0.0
+378,Commit,mongoid_moped,2013-02-03 11:51:40,3b71e7eee329e04dbc1a8f3ddde177a311216bc3,7.0,30.0,1.0,0.0
+379,Commit,mongoid_moped,2013-02-03 11:50:47,34a2ae04e6c5c3efd53af00701637715c38d9306,4.0,3.0,2.0,0.0
+380,Commit,mongoid_moped,2013-02-03 11:47:38,d7b8aad7155bffbe8e2123a67a10dffdc623ffcc,17.0,19.0,3.0,0.0
+381,Commit,mongoid_moped,2013-01-31 05:38:08,7cd8d9acde9fe922823d011be6c02eb6d57207c0,108.0,2.0,2.0,0.0
+382,Commit,mongoid_moped,2013-01-27 09:11:54,292cd029c6b8796d332ba8f64ef0e226247631a3,5.0,2.0,3.0,0.0
+383,Commit,mongoid_moped,2013-01-24 12:12:58,14516e38aecdde4fed01e3e709c814e87dee286e,60.0,8.0,4.0,0.0
+384,Commit,mongoid_moped,2013-01-19 22:52:41,d4880a81dc650e308a95f59240884dad9de44a31,45.0,9.0,3.0,0.0
+385,Commit,mongoid_moped,2013-01-19 22:35:07,5e9dddb3b795664ed03b298d0ce91ab0e701885d,0.0,141.0,3.0,0.0
+386,Commit,mongoid_moped,2013-01-19 19:07:25,d07ef814e0f8eb9d65dc5ecbb885049eec82ee86,22.0,23.0,2.0,0.0
+387,Commit,mongoid_moped,2013-01-19 17:03:18,f7fc6ef41966ffe8c022848de1ba8aeb5fd9d9ec,141.0,0.0,3.0,0.0
+388,Commit,mongoid_moped,2013-01-19 13:55:06,29349f5b9445435458dea76eb1aebc9fcf788376,2.0,2.0,2.0,0.0
+389,Commit,mongoid_moped,2013-01-14 10:23:52,9bf232591fd3fc352026110be99ff9908a66133a,1.0,1.0,1.0,0.0
+390,Commit,mongoid_moped,2012-12-24 20:28:22,e4fb18ea383b37565c9bbc818ec739024b075097,9.0,7.0,1.0,0.0
+391,Commit,mongoid_moped,2012-12-24 19:49:43,3a0825f65aa74b30d14bcff6429536b0f10c829f,3.0,0.0,1.0,0.0
+392,Commit,mongoid_moped,2012-12-24 19:48:35,73f11163ad77872a1a9bd1020a55ec20ec324cc0,143.0,4.0,5.0,0.0
+393,Commit,mongoid_moped,2012-12-21 14:15:28,a0303a625bb26f88a20b66ca65aea6890bf98f3c,4.0,1.0,2.0,0.0
+394,Commit,mongoid_moped,2012-12-21 14:10:53,ab03718b069dce921cbeec3371b28d0850d573f8,3.0,1.0,2.0,0.0
+395,Commit,mongoid_moped,2012-12-21 14:07:19,e4c3917aff9b1a3d4446ddff6e3a8119ca634621,6.0,0.0,1.0,0.0
+396,Commit,mongoid_moped,2012-12-21 14:05:54,b099ffa574005a236b987d5fc889a4d9f0a2401a,42.0,2.0,4.0,0.0
+397,Commit,mongoid_moped,2012-12-21 13:54:36,6ad6d66eeb6b5f0e4dee79bcf5194ad9e5156711,7.0,0.0,1.0,0.0
+398,Commit,mongoid_moped,2012-12-14 18:21:00,5d639668b262ebeafc77d236cd400e3a4e485b8d,1.0,1.0,1.0,0.0
+399,Commit,mongoid_moped,2012-12-14 18:12:17,c706f8fb382668246d11d1d12f3abce0d61b89b0,4.0,0.0,1.0,0.0
+400,Commit,mongoid_moped,2012-12-02 14:38:09,4438f5e64d2227ab1f53fceba0fff94c8e65916f,1.0,1.0,1.0,0.0
+401,Commit,mongoid_moped,2012-12-02 14:27:50,a2f46d793c87c74ced3dfef7b93470bcc3e967bb,2.0,3.0,2.0,0.0
+402,Commit,mongoid_moped,2012-12-02 14:26:30,0a034e33c92706b1bb8ba48ae57c2e388c195d93,49.0,0.0,3.0,0.0
+403,Commit,mongoid_moped,2012-12-01 11:04:58,dba0fb2974922667952f7560f43dd5e45c21b481,5.0,2.0,2.0,0.0
+404,Commit,mongoid_moped,2012-11-20 20:54:44,7288c11eabe1f033018038b1e308a3665a1b2f8d,7.0,0.0,1.0,0.0
+405,Commit,mongoid_moped,2012-11-20 15:37:34,79dc948693f8dbbbbfe0b2b051b50a404bd5ad0d,3.0,2.0,1.0,0.0
+406,Commit,mongoid_moped,2012-11-18 13:15:51,3070897984a712ede6d7b87ba7a7c8797d62396c,1.0,2.0,1.0,0.0
+407,Commit,mongoid_moped,2012-11-18 13:09:52,e0f8827b53db567769db1c1b4900e73d542c695b,1.0,1.0,1.0,0.0
+408,Commit,mongoid_moped,2012-11-18 13:05:02,2495c319e48f072c9fd5e7e87bab21ac0d4bae04,1.0,1.0,1.0,0.0
+409,Commit,mongoid_moped,2012-11-18 13:03:52,3c306fab44078529f45b9e8e1528dfcaf5dba9b5,1.0,1.0,1.0,0.0
+410,Commit,mongoid_moped,2012-11-18 13:01:53,387aaebad1511f73470ce7d4957bf7fd61fdb6f4,1.0,1.0,1.0,0.0
+411,Commit,mongoid_moped,2012-11-18 13:00:29,7755947ff04205496c154f1e4ec4066b8b0f1eff,176.0,39.0,5.0,0.0
+412,Commit,mongoid_moped,2012-11-18 12:48:34,8d0243da0d8bc05f57656ac528506fb25060333f,213.0,0.0,4.0,0.0
+413,Commit,mongoid_moped,2012-11-18 12:31:25,4bf6eb553ad3aa8e8118df33fbf4b6c265094882,1.0,1.0,1.0,0.0
+414,Commit,mongoid_moped,2012-11-18 12:19:50,45ff0834e396454e39aa288342a5a814a4ca6460,194.0,5.0,4.0,0.0
+415,Commit,mongoid_moped,2012-11-14 14:15:47,bebc23d62e0caa3fdf17b7b1c13a169010f91b19,45.0,15.0,3.0,0.0
+416,Commit,mongoid_moped,2012-11-14 13:13:19,ddb8710e2917b28447d669d8f014336b9f6114d1,77.0,2.0,4.0,0.0
+417,Commit,mongoid_moped,2012-11-12 16:38:34,a1e2dfa4da52d4399fa2217f9d03b727ec26f363,1.0,1.0,1.0,0.0
+418,Commit,mongoid_moped,2012-11-12 09:37:50,55cbd10d82fc3209452e48320e7f6cbd565620a6,8.0,1.0,1.0,0.0
+419,Commit,mongoid_moped,2012-11-11 14:05:50,7c178d49ccef67230ef2b8135271600288a9f9df,2.0,0.0,1.0,0.0
+420,Commit,mongoid_moped,2012-11-11 14:01:20,82eba5d5e4b2ea4961361f73043cd3b0d0af4cef,1.0,1.0,1.0,0.0
+421,Commit,mongoid_moped,2012-11-10 12:41:26,f603ea59ad5d046f96f3e8cd631a2a7a844cf47f,29.0,7.0,1.0,0.0
+422,Commit,mongoid_moped,2012-11-06 19:39:43,728518c26b8dfe976127dfce266da80012e52fd8,1.0,1.0,1.0,0.0
+423,Commit,mongoid_moped,2012-11-04 11:43:29,24d040f77e378d1fc1c56f8fcbb5cb04a805b8e2,31.0,8.0,4.0,0.0
+424,Commit,mongoid_moped,2012-10-31 17:35:08,16c502b1a12fc3ee1c90dfa3534508db263f056d,2.0,0.0,1.0,0.0
+425,Commit,mongoid_moped,2012-10-31 17:34:18,bd484a4987c867d1a68fdafb0b9f29412cfc2ced,12.0,0.0,1.0,0.0
+426,Commit,mongoid_moped,2012-10-31 17:34:17,df50a43a1b3df70dab1c7db3aa39258c3c15deb8,1.0,1.0,1.0,0.0
+427,Commit,mongoid_moped,2012-10-31 17:32:56,b5f5707753d8d0a793ebd0f10dda14afa4557307,40.0,12.0,3.0,0.0
+428,Commit,mongoid_moped,2012-10-31 17:05:00,7b476b15460026faa29e30485ef3c26b115a7e0f,3.0,1.0,1.0,0.0
+429,Commit,mongoid_moped,2012-10-31 17:04:39,1be8d1b2dcd46d482c67ebe7370704f536922a28,2.0,1.0,1.0,0.0
+430,Commit,mongoid_moped,2012-10-31 17:00:43,c1b5ed12ea90a5c8d1b7e106d66c3670f562267e,1.0,1.0,1.0,0.0
+431,Commit,mongoid_moped,2012-10-14 08:07:08,b014a917aaf1337703522bf97b8d57f0adcf655e,3.0,0.0,1.0,0.0
+432,Commit,mongoid_moped,2012-10-14 08:06:06,1dfd42bc157519b0a6df978881c1df7bdee3f945,15.0,1.0,1.0,0.0
+433,Commit,mongoid_moped,2012-10-14 08:01:54,ee732dcadc06b75cb9b199ee1f2be3903d7b3a3b,2.0,0.0,1.0,0.0
+434,Commit,mongoid_moped,2012-10-14 08:00:59,42b35ab8ef78790374cc1682f653f9872468a3d8,3.0,3.0,1.0,0.0
+435,Commit,mongoid_moped,2012-10-14 07:54:56,996d99bc62e6c672a48856bc56103d0296d65656,6.0,0.0,1.0,0.0
+436,Commit,mongoid_moped,2012-10-14 07:52:38,8cff8f33e1ed9465d00824ecdb30b68b2bed5c4f,1.0,1.0,1.0,0.0
+437,Commit,mongoid_moped,2012-10-14 07:49:32,da56640c601b3f855624b5f04ce3146931661e3c,10.0,1.0,4.0,0.0
+438,Commit,mongoid_moped,2012-10-10 13:53:13,d9e732d8ba85e0b35074ee0a6fda95bb0d2642b8,0.0,0.0,0.0,0.0
+439,Commit,mongoid_moped,2012-10-10 08:22:00,02294d3a32ca2fea63f04a812c8438f91ceea3ad,1.0,1.0,1.0,0.0
+440,Commit,mongoid_moped,2012-10-06 14:00:03,d83d9bba08456a97e23bfe9be9193a025ee4f50f,3.0,0.0,1.0,0.0
+441,Commit,mongoid_moped,2012-10-06 13:58:39,ee78a9aca0ca7ee6a064fa04025e17a410f269fb,85.0,28.0,3.0,0.0
+442,Commit,mongoid_moped,2012-10-06 13:55:33,f5f7ddde859c58530b40b31b147326e179e2bd4d,16.0,0.0,1.0,0.0
+443,Commit,mongoid_moped,2012-10-06 13:55:33,afd80571276d60680632902be7e8b21e077aff10,11.0,0.0,1.0,0.0
+444,Commit,mongoid_moped,2012-10-06 10:15:27,71c21c54bcb555bb894dcab1da791bd8be33a7f4,45.0,3.0,3.0,0.0
+445,Commit,mongoid_moped,2012-10-06 10:05:35,7de7c508f1c95b48c13a4e6dcc26828cabd8d115,35.0,23.0,3.0,0.0
+446,Commit,mongoid_moped,2012-10-06 09:48:40,fc3a9b9852cd9f5ec840e46fa371bdf9b5fa91c9,14.0,0.0,1.0,0.0
+447,Commit,mongoid_moped,2012-10-06 09:43:20,b489f86f435474336da0164827714b498e4745d1,41.0,6.0,1.0,0.0
+448,Commit,mongoid_moped,2012-10-06 09:31:10,2d0ea12f0898c6df13dcfff5efd71bbf1e6df0ac,34.0,11.0,4.0,0.0
+449,Commit,mongoid_moped,2012-10-04 14:22:34,d2ccc814f41e1e55fd67faef590ceedb3b4587b7,1.0,0.0,1.0,0.0
+450,Commit,mongoid_moped,2012-10-04 14:21:06,9d27db81bd4efa85d0115563a53167f286fd0305,51.0,11.0,3.0,0.0
+451,Commit,mongoid_moped,2012-10-03 08:32:34,b5f6f49406c901c6f07a67916e16d653c7a32a9b,1.0,1.0,1.0,0.0
+452,Commit,mongoid_moped,2012-10-03 08:04:18,c25daa661aecf311276697ec14f91a4dd3820063,0.0,0.0,0.0,0.0
+453,Commit,mongoid_moped,2012-10-03 08:03:37,4ff5bac4df69865a391e50c8a9f82e6bc023074e,5.0,2.0,1.0,0.0
+454,Commit,mongoid_moped,2012-10-03 08:01:10,e0818f70257461ccf229b57fcab7e47dba7dc5f9,0.0,0.0,0.0,0.0
+455,Commit,mongoid_moped,2012-10-02 22:29:43,b9ab9e0adc9c83cef1eb08e88fae067346e2324b,2.0,1.0,2.0,0.0
+456,Commit,mongoid_moped,2012-09-27 15:20:24,f36d407a06601e61f27762b08774acd569b8b64f,1.0,0.0,1.0,0.0
+457,Commit,mongoid_moped,2012-09-24 05:35:49,1a104266ff12640c369cefe9c2fd04e511f4be7d,0.0,3.0,1.0,0.0
+458,Commit,mongoid_moped,2012-09-24 05:35:12,dc18c566eb4df9234981559cdbcdcf2842e7ede0,3.0,1.0,1.0,0.0
+459,Commit,mongoid_moped,2012-09-24 05:31:00,7e20b3da852ae75bdbb9125e941d5693733ddb26,0.0,0.0,0.0,0.0
+460,Commit,mongoid_moped,2012-09-24 05:18:09,21fc8aec9ee3695e2dcc3829175c61fe7c6b242a,0.0,1.0,1.0,0.0
+461,Commit,mongoid_moped,2012-09-23 14:52:18,99e87f2fb836b3efb53ce13f4afe19934072a50f,1.0,1.0,1.0,0.0
+462,Commit,mongoid_moped,2012-09-23 08:37:55,2321c26b0ee630fccc11bef03f0289f0c3857491,6.0,1.0,2.0,0.0
+463,Commit,mongoid_moped,2012-09-22 21:00:09,93d70d4ea8295f93fa9800ebfb1b49200f4c422f,4.0,5.0,2.0,0.0
+464,Commit,mongoid_moped,2012-09-16 11:26:46,841fec58e12311b61ccd1190fe777de762f8c2e2,5.0,1.0,1.0,0.0
+465,Commit,mongoid_moped,2012-09-16 10:36:20,d8aa89856b1f164583e836ef00a2e1a3eba2577e,82.0,25.0,3.0,0.0
+466,Commit,mongoid_moped,2012-09-16 09:27:21,90b465e67d287148db6f522abf0385fb4ba90fa6,8.0,6.0,2.0,0.0
+467,Commit,mongoid_moped,2012-09-16 09:27:14,65ddc8531eff3de28c49e2f902a422c062e9227e,1.0,0.0,1.0,0.0
+468,Commit,mongoid_moped,2012-09-16 09:27:04,5d820c3425d782cc99cb770ba5b1b1c1f65f04a4,41.0,3.0,4.0,0.0
+469,Commit,mongoid_moped,2012-09-09 17:26:42,26e744f3117ed36a02006b05e5429677659de38e,2.0,2.0,1.0,0.0
+470,Commit,mongoid_moped,2012-09-09 17:25:15,50998d61f39742da9dbfbb4147493394c6cf46ee,4.0,0.0,1.0,0.0
+471,Commit,mongoid_moped,2012-09-09 16:37:28,ba93c25de0258546259766fdfa4ddf6dc446419b,1.0,1.0,1.0,0.0
+472,Commit,mongoid_moped,2012-09-09 16:35:08,fc36736cc85061fe0e311c847529ff7f1016b50c,5.0,0.0,1.0,0.0
+473,Commit,mongoid_moped,2012-09-09 16:14:43,c931329ccbe24eb051d2fd56cdbf983a0af1adde,24.0,3.0,2.0,0.0
+474,Commit,mongoid_moped,2012-09-09 16:14:32,23dafd77d3aa77e19a93a37c457e6a9fc0cfcc12,2.0,2.0,1.0,0.0
+475,Commit,mongoid_moped,2012-09-09 15:56:22,659bd53f5bad35b25e7e0e375295cf8ac38b7fca,1.0,0.0,1.0,0.0
+476,Commit,mongoid_moped,2012-09-09 14:45:51,9b3085cdf9f766b73ce151499b0ec1179c9c56ab,1.0,0.0,1.0,0.0
+477,Commit,mongoid_moped,2012-09-02 18:17:24,2ba14d64fe6cba9b165b9dc6a3cf35884a644a80,16.0,1.0,2.0,0.0
+478,Commit,mongoid_moped,2012-09-02 18:13:27,2df042c630ebfe8fc7353a5dc3cb244a7efac82d,1.0,2.0,1.0,0.0
+479,Commit,mongoid_moped,2012-09-02 18:12:36,9dc95d5801bc825cbf741ab1fec11edb2e82a93b,21.0,8.0,2.0,0.0
+480,Commit,mongoid_moped,2012-09-02 18:12:36,b7c33a22ed62b68d83117e79120acc6640795736,63.0,0.0,2.0,0.0
+481,Commit,mongoid_moped,2012-09-02 14:20:18,48400b12d4a4550ff6c1f702e6e8546e5bef117e,5.0,0.0,1.0,0.0
+482,Commit,mongoid_moped,2012-09-02 14:18:04,ace43c4d7e4bbe7d32dfcf1f7ac5ee34e47647c9,148.0,193.0,4.0,0.0
+483,Commit,mongoid_moped,2012-09-02 14:18:04,4b86da85b188ea71adb7c8b8e5553aa49a3d78a0,69.0,2.0,3.0,0.0
+484,Commit,mongoid_moped,2012-09-02 14:18:04,d8865cb9115b1ab7f4215b0e8a20e226e50cb9f3,11.0,14.0,3.0,0.0
+485,Commit,mongoid_moped,2012-09-02 14:18:04,dc21475820ff148fb42963752db0bfa6a23f5e1e,71.0,5.0,2.0,0.0
+486,Commit,mongoid_moped,2012-09-02 14:18:04,7f33b415187b9ce996b7875fb8ad49390a22d470,3.0,43.0,1.0,0.0
+487,Commit,mongoid_moped,2012-09-02 14:18:04,510629c8444332025fca67c3b4ba4e5a8a248516,13.0,7.0,4.0,0.0
+488,Commit,mongoid_moped,2012-09-02 14:18:03,d7baec53f3fb27c7925b89481d020b6f618ce342,116.0,2.0,2.0,0.0
+489,Commit,mongoid_moped,2012-08-28 06:35:40,4c9c7d5f20388595f6d3d74a92ddbb85105b3e60,0.0,0.0,0.0,0.0
+490,Commit,mongoid_moped,2012-08-27 22:54:00,0a4998bca43acf75ba0b1f7827f93a4212bda7c7,3.0,0.0,1.0,0.0
+491,Commit,mongoid_moped,2012-08-27 09:57:34,28cdce449d15c3c38f29b643ad5fcfbcbf426e8a,5.0,1.0,1.0,0.0
+492,Commit,mongoid_moped,2012-08-22 14:45:06,eb57cd6f7fada328a898f1b684875db2b1b2fdb2,3.0,1.0,1.0,0.0
+493,Commit,mongoid_moped,2012-08-22 14:45:06,cfaa75afea6d21fc72fad8514ba90cf69c96d7c5,1.0,0.0,1.0,0.0
+494,Commit,mongoid_moped,2012-08-22 14:45:06,d50f50f7d01176fe8d7de8c2dd0f11469627c9ae,2.0,0.0,1.0,0.0
+495,Commit,mongoid_moped,2012-08-22 14:41:13,e88ded6876a70e6cbb4f04a4dfe08d4b364ce1fa,18.0,1.0,3.0,0.0
+496,Commit,mongoid_moped,2012-08-22 08:26:23,1af06ecda56dfdf16a4d8d271d739b216c5a58f5,3.0,0.0,1.0,0.0
+497,Commit,mongoid_moped,2012-08-22 08:24:56,83706c9b0773d1b4deeb7a112ff9013e63c12bb2,0.0,0.0,0.0,0.0
+498,Commit,mongoid_moped,2012-08-22 08:06:25,42acf9ae4ce555cc750432ecbe0bcdf819afacea,49.0,15.0,3.0,0.0
+499,Commit,mongoid_moped,2012-08-20 08:28:41,ea2e3af3398b595772144f6f343b607c881169b1,3.0,0.0,1.0,0.0
+500,Commit,mongoid_moped,2012-08-20 08:26:19,9f831f901733d7cbb7d431a4ccfc5cff8d9783c4,0.0,0.0,0.0,0.0
+501,Commit,mongoid_moped,2012-08-13 19:56:32,0d825822a0e2df5e9166715a05a516bde0128be3,3.0,3.0,1.0,0.0
+502,Commit,mongoid_moped,2012-08-11 08:18:00,87df52f7b6c71af120b7e855d122797a29e4e842,1.0,5.0,2.0,0.0
+503,Commit,mongoid_moped,2012-08-11 08:15:36,1d695c93ef987a5cf136493f561cada578997161,2.0,0.0,1.0,0.0
+504,Commit,mongoid_moped,2012-08-11 08:14:26,b9425aae56ed02fb7a313e2a2c285a58c58865cf,0.0,0.0,0.0,0.0
+505,Commit,mongoid_moped,2012-08-07 13:28:50,7197511d014e2ad8769c07acdfe21960e30dace6,104.0,105.0,3.0,0.0
+506,Commit,mongoid_moped,2012-08-06 19:10:11,601e6a90e6d01f1a1f4a1932faf01b09437f8dff,6.0,1.0,1.0,0.0
+507,Commit,mongoid_moped,2012-08-02 13:35:50,115b34a66e6bcf22d4a510cf939a0364a4fb3aeb,4.0,4.0,1.0,0.0
+508,Commit,mongoid_moped,2012-08-02 13:34:57,a8b315c0251cd93073b3a12824c36c2faeafb70e,0.0,0.0,0.0,0.0
+509,Commit,mongoid_moped,2012-08-02 12:00:47,87bf273148c3d9a8c1f2c99eb4f8b8c164d75d90,6.0,6.0,1.0,0.0
+510,Commit,mongoid_moped,2012-08-01 09:57:26,9831fbeaec39d5b2bbb0c8bd1551117ec3745386,8.0,0.0,1.0,0.0
+511,Commit,mongoid_moped,2012-08-01 09:53:30,19adc42617c633d8d9ce0a99badd9e993ae0778b,6.0,1.0,2.0,0.0
+512,Commit,mongoid_moped,2012-08-01 08:10:08,94688e22a452bfd3682254dfb5e313b64bb998ee,0.0,0.0,0.0,0.0
+513,Commit,mongoid_moped,2012-07-31 21:16:17,50bc96b48b16f07bbe8ba735e821a5fa216f27c6,78.0,34.0,4.0,0.0
+514,Commit,mongoid_moped,2012-07-29 18:42:42,dae57afb7038a14e18bf21f8b8051e8b14ed08d1,4.0,0.0,1.0,0.0
+515,Commit,mongoid_moped,2012-07-29 18:40:36,87f3b8af84df0bdebbccf493361c65f16854bc24,5.0,1.0,2.0,0.0
+516,Commit,mongoid_moped,2012-07-29 18:38:41,8b241073d9f0766a1afc8d856dd66130951f893a,1.0,1.0,1.0,0.0
+517,Commit,mongoid_moped,2012-07-29 18:32:21,8f6be88eaaba9735d70380779d1c134740590e26,1.0,1.0,1.0,0.0
+518,Commit,mongoid_moped,2012-07-29 18:29:06,9cab9d37407027a06d8b9c38bb16f51b7f77e764,76.0,0.0,4.0,0.0
+519,Commit,mongoid_moped,2012-07-28 13:09:51,2c7d6cded23f64f436fd9e992ddc98bbb7bbdaae,4.0,10.0,2.0,0.0
+520,Commit,mongoid_moped,2012-07-28 13:04:26,4439e9beeb0c79d3964043b5f6968aa454156dd5,4.0,4.0,1.0,0.0
+521,Commit,mongoid_moped,2012-07-28 13:03:57,f8157b43ef0e13da85dbfcb7a6dbebfa1fc8735c,43.0,7.0,5.0,0.0
+522,Commit,mongoid_moped,2012-07-28 12:45:13,adf8e5c737e732eae8abd9ed25a52a5543f49019,10.0,1.0,1.0,0.0
+523,Commit,mongoid_moped,2012-07-26 10:34:29,9bbd81e03dbc550f04673a5277e029ba25b5d0ed,7.0,2.0,2.0,0.0
+524,Commit,mongoid_moped,2012-07-26 10:28:01,531077cae90b6ddb2dda8a12a81447446cb65675,6.0,11.0,2.0,0.0
+525,Commit,mongoid_moped,2012-07-24 11:42:57,43d57a6572e84c17be23477f083318152537afb3,2.0,2.0,2.0,0.0
+526,Commit,mongoid_moped,2012-07-24 11:32:03,ccfedf82f52c28b67dcfe2ab8196e4e54e9fb4b0,1.0,1.0,1.0,0.0
+527,Commit,mongoid_moped,2012-07-24 11:27:32,ce8f9c5dc0ff4c39e1b414144116662f2d714572,49.0,12.0,3.0,0.0
+528,Commit,mongoid_moped,2012-07-24 10:53:15,9861fad50fd9e05cfed68f5351091e8fde33d14c,4.0,0.0,1.0,0.0
+529,Commit,mongoid_moped,2012-07-24 10:51:18,541d8ed5d2924ce7ef7755047c755668cd1a90b8,0.0,0.0,0.0,0.0
+530,Commit,mongoid_moped,2012-07-24 09:26:50,d485e4eab7ebbcb4a9865bc673cceb219d430641,3.0,3.0,2.0,0.0
+531,Commit,mongoid_moped,2012-07-21 06:27:51,b20764be50146d736f5f852f59aaec5c483c9dd6,31.0,14.0,1.0,0.0
+532,Commit,mongoid_moped,2012-07-21 06:15:21,8cf70ab6bf1ed58e0378d55721d3e0dc6b33e6b8,0.0,0.0,0.0,0.0
+533,Commit,mongoid_moped,2012-07-20 14:30:45,7f5e403d97492decfc3ccf43c106c4b90822b39d,22.0,7.0,2.0,0.0
+534,Commit,mongoid_moped,2012-07-20 09:05:49,3eda5438f6ac228232e2210363980bd0a03c8ca0,8.0,0.0,1.0,0.0
+535,Commit,mongoid_moped,2012-07-20 09:03:37,4c76c8fed2041f96b3962fb66761d222e41b66e9,35.0,0.0,2.0,0.0
+536,Commit,mongoid_moped,2012-07-18 15:55:31,b4b1b11306bae7d87173da3bd01a2b79a9c8d797,86.0,5.0,7.0,0.0
+537,Commit,mongoid_moped,2012-07-16 10:38:03,329ae4d0cbecf16525ab8145baacaf4ab7724759,10.0,22.0,1.0,0.0
+538,Commit,mongoid_moped,2012-07-15 22:22:00,22ddd725315a2291712a010c80c7983e823caccb,4.0,0.0,1.0,0.0
+539,Commit,mongoid_moped,2012-07-15 22:15:04,edd9f36a7975ca04eec1d47b5799866d8659f92c,0.0,0.0,0.0,0.0
+540,Commit,mongoid_moped,2012-07-15 11:38:25,49c1d2b7a2f21105bfc39a1b5ae1309fe6d112c7,1.0,0.0,1.0,0.0
+541,Commit,mongoid_moped,2012-07-12 11:31:20,aabd642a0e3e8c68225add0f31e9d64daf1e8d3f,19.0,0.0,1.0,0.0
+542,Commit,mongoid_moped,2012-07-12 11:28:15,32f4b2223d897c5c423213612f8ed5fb78049a6d,0.0,14.0,1.0,0.0
+543,Commit,mongoid_moped,2012-07-12 11:26:57,007ec2a03a37970c11efde0657f13805117ea804,21.0,0.0,1.0,0.0
+544,Commit,mongoid_moped,2012-07-10 08:53:19,a2ecafe2f489da4c5f8abfe33aedffd19327fd3d,8.0,4.0,2.0,0.0
+545,Commit,mongoid_moped,2012-07-09 09:15:41,4629eefab96ba38c4466d2920d27ab759869be71,1.0,0.0,1.0,0.0
+546,Commit,mongoid_moped,2012-07-07 07:58:51,bd7d6c1ae437dc3e44a8d4de99b5b22f2069b08e,1.0,0.0,1.0,0.0
+547,Commit,mongoid_moped,2012-07-07 07:58:08,9b91b4ab72c5119b2309e846caf3d840e14e0277,2.0,0.0,1.0,0.0
+548,Commit,mongoid_moped,2012-07-06 12:34:34,e1fbfe58218106142dd10bc2ab3be6098d738d73,110.0,32.0,3.0,0.0
+549,Commit,mongoid_moped,2012-07-06 08:52:02,13af381a798eb73937b5771a9e2b71a28f6469ea,1.0,1.0,1.0,0.0
+550,Commit,mongoid_moped,2012-07-06 08:51:32,950d37487f14b05c9c2ca6807f1483e27bbecbb2,42.0,3.0,4.0,0.0
+551,Commit,mongoid_moped,2012-07-04 11:20:56,df25cb0dcbe00fa13dbffb39bdcbc1ae89fef16a,0.0,0.0,0.0,0.0
+552,Commit,mongoid_moped,2012-07-04 09:07:19,a55b123ea383552ca8ff98ce9f82d4c10bc890c3,3.0,3.0,1.0,0.0
+553,Commit,mongoid_moped,2012-07-03 12:43:48,213f4660e9c235c9f6d9662fed8afe89bd0f3230,1.0,1.0,1.0,0.0
+554,Commit,mongoid_moped,2012-07-03 12:43:48,580991e0263879ec7a0904e2aecade03d18187a9,2.0,7.0,1.0,0.0
+555,Commit,mongoid_moped,2012-06-30 18:32:51,fd0789540a8866f632f3ad0cd744653100fec172,1.0,1.0,1.0,0.0
+556,Commit,mongoid_moped,2012-06-29 09:16:26,71846cc908e46e42f04afb942c5eab5a2825b9fa,1.0,2.0,2.0,0.0
+557,Commit,mongoid_moped,2012-06-29 09:15:37,f68b3006c90ba92ac75d221cf37030f07ba068e7,1.0,7.0,2.0,0.0
+558,Commit,mongoid_moped,2012-06-29 08:20:31,f526910ffc2bd9cddddd0af962226e342ef7d77c,7.0,1.0,2.0,0.0
+559,Commit,mongoid_moped,2012-06-28 14:20:41,0bb7bbf6396b119e27d8eb43962dc3c1c8df4484,1.0,1.0,1.0,0.0
+560,Commit,mongoid_moped,2012-06-27 07:56:47,eec2031bced74e0a468de698aa39ea448bc65a84,3.0,0.0,1.0,0.0
+561,Commit,mongoid_moped,2012-06-27 07:54:11,1612435ba25d61dc3e7ed023b2a91ac9bba21b33,0.0,0.0,0.0,0.0
+562,Commit,mongoid_moped,2012-06-27 07:52:53,37780f66f0070c165d5394f6947070fb83a1fb82,20.0,0.0,3.0,0.0
+563,Commit,mongoid_moped,2012-06-27 00:06:16,f3366f7759315ea81f7500724f1e60b0707e1c9b,4.0,0.0,1.0,0.0
+564,Commit,mongoid_moped,2012-06-26 11:50:49,962ae693ef622ebadf1e3884be04962761f7b30c,32.0,467.0,1.0,0.0
+565,Commit,mongoid_moped,2012-06-26 11:48:23,4f43ac34a0cb8e2daa6ffb7053033919460d7a72,1.0,1.0,1.0,0.0
+566,Commit,mongoid_moped,2012-06-26 11:45:41,51857f55c54949fcdb0671a2dc6efdd67e739093,11.0,0.0,1.0,0.0
+567,Commit,mongoid_moped,2012-06-26 11:45:09,a81625c2373e8c048fcf935e4b0d5cbd127cf670,1.0,1.0,1.0,0.0
+568,Commit,mongoid_moped,2012-06-26 10:37:47,4f460eb69cd47adf020c4274972350a3fb55b669,23.0,23.0,1.0,0.0
+569,Commit,mongoid_moped,2012-06-25 13:17:27,a8a407a3a468f2ab72c4c2128bf68f55c26a2e32,30.0,3.0,2.0,0.0
+570,Commit,mongoid_moped,2012-06-22 12:23:42,032712f42681d9f00f740dc3923470185b60a82a,0.0,2.0,1.0,0.0
+571,Commit,mongoid_moped,2012-06-22 11:06:23,97309b846ee5d98b9249241c30afaa715977bb34,2.0,2.0,1.0,0.0
+572,Commit,mongoid_moped,2012-06-22 11:03:54,565a7657532bd17b3dee4ccf64a87a28ac2ffbe9,9.0,0.0,2.0,0.0
+573,Commit,mongoid_moped,2012-06-22 10:02:29,2b8e222f3f80610265182e3d18a9b7c62659b4bf,101.0,2.0,2.0,0.0
+574,Commit,mongoid_moped,2012-06-21 15:41:54,09508a6435d5217c7cb7ca31c1b8072e977b032b,6.0,2.0,1.0,0.0
+575,Commit,mongoid_moped,2012-06-21 15:41:54,767a0250606dd6e218776388fd2361715ee5c4f2,11.0,11.0,5.0,0.0
+576,Commit,mongoid_moped,2012-06-21 15:41:54,9eb5242aec2dea91a570840581e35a54c85ec9e0,2.0,2.0,2.0,0.0
+577,Commit,mongoid_moped,2012-06-21 15:41:54,314ae027e683d6ba07e1b897107332b800a92117,34.0,22.0,9.0,0.0
+578,Commit,mongoid_moped,2012-06-21 15:41:54,901b96f9c1bbfbf74ba69eac47665fc77c43d6b5,2.0,1.0,1.0,0.0
+579,Commit,mongoid_moped,2012-06-21 15:41:54,e612f9f4e7eeed7b8d90b8a1df2cff4977aa0a6b,13.0,2.0,1.0,0.0
+580,Commit,mongoid_moped,2012-06-21 15:41:54,39bb3398e3929118ac5394c17e3e7b3a5cc44284,5.0,2.0,1.0,0.0
+581,Commit,mongoid_moped,2012-06-21 15:41:54,0ded19d4f0a1cc385505beb2db87fde068757534,1.0,1.0,1.0,0.0
+582,Commit,mongoid_moped,2012-06-21 15:41:42,b99ec354e08114de1b1322d3a2858c26aa3c0029,1.0,1.0,1.0,0.0
+583,Commit,mongoid_moped,2012-06-21 15:41:42,d3622a7e23685633e840be18e173cce72e591cc7,22.0,23.0,5.0,0.0
+584,Commit,mongoid_moped,2012-06-21 14:58:25,39923b60744e30c981f6ecfa6771efffa316ddca,58.0,53.0,1.0,0.0
+585,Commit,mongoid_moped,2012-06-21 14:56:09,0f3cc467d6671087f3115901a215e10719bb67b7,11.0,5.0,2.0,0.0
+586,Commit,mongoid_moped,2012-06-20 21:13:40,e5b290ff836b6ba1f38b0fd3e89bb2ff76f271f3,4.0,2.0,1.0,0.0
+587,Commit,mongoid_moped,2012-06-20 14:11:46,36c20b761919f4033b0ecce7c725df5d97389020,3.0,2.0,2.0,0.0
+588,Commit,mongoid_moped,2012-06-20 14:11:46,415e0571ed6192f36258c9d7ce2b0964cbf719c5,36.0,6.0,7.0,0.0
+589,Commit,mongoid_moped,2012-06-20 14:11:46,a324e03c95a545f3d15f7aa440ea45133f401c1a,62.0,57.0,18.0,0.0
+590,Commit,mongoid_moped,2012-06-20 11:36:24,86d32d9436f5fa06266f47a4b87dbb3020526d0e,41.0,8.0,5.0,0.0
+591,Commit,mongoid_moped,2012-06-16 16:59:25,7009e8e9494e3cf0fd4f46da75471f373d7ede1c,4.0,1.0,1.0,0.0
+592,Commit,mongoid_moped,2012-06-16 11:42:15,ca22a1ecfa3dc4045fa0f230be119b0abb7db5e0,1.0,1.0,1.0,0.0
+593,Commit,mongoid_moped,2012-06-16 09:46:53,2607ad28c55db560f52b7a4f7c920a29f0c7f22d,2.0,2.0,2.0,0.0
+594,Commit,mongoid_moped,2012-06-14 14:44:15,6f8c12356b153f50b0821944fc1d147b14a7bfcb,1.0,1.0,1.0,0.0
+595,Commit,mongoid_moped,2012-06-13 14:35:16,a3943908a176b697b95b1a4f6da1086435fdb2a7,231.0,141.0,2.0,0.0
+596,Commit,mongoid_moped,2012-06-13 12:53:08,3f61a275b0ceaf8baceab0d1de4b2a03626cccdf,0.0,0.0,0.0,0.0
+597,Commit,mongoid_moped,2012-06-13 12:35:34,868aab52dda299da33cf48ccfce53abc48372108,13.0,13.0,2.0,0.0
+598,Commit,mongoid_moped,2012-06-12 08:22:32,f13d364e8dd6823224031ec23fb01feb54e12222,0.0,0.0,0.0,0.0
+599,Commit,mongoid_moped,2012-06-12 07:40:02,96596c47fe1b1b20edfc3b3780ba99665a92d35a,23.0,7.0,2.0,0.0
+600,Commit,mongoid_moped,2012-06-10 12:19:18,7a116741df58ef8a79442171b0a843ab6c7fa17e,59.0,23.0,3.0,0.0
+601,Commit,mongoid_moped,2012-06-09 07:31:54,90b3c89086b17bb2cd9f97449900d5a13ffb3a43,0.0,0.0,0.0,0.0
+602,Commit,mongoid_moped,2012-06-08 15:06:00,1c1e4f1414f3ef974a140e85866dd9f4b40dc5f2,30.0,0.0,2.0,0.0
+603,Commit,mongoid_moped,2012-06-06 18:49:37,900c62f40ee898015450e1f862a91607d04e9738,28.0,6.0,5.0,0.0
+604,Commit,mongoid_moped,2012-06-06 18:31:28,8376aa2eaafe522873ead52be09b9a51e2de49b4,0.0,0.0,0.0,0.0
+605,Commit,mongoid_moped,2012-06-06 18:26:31,65ba3d92cd3439553cafa0c87bfee4b500e2392f,66.0,0.0,3.0,0.0
+606,Commit,mongoid_moped,2012-06-06 06:49:36,591f1c6f8d4b209d63fed73ff170e42e28be40a2,0.0,0.0,0.0,0.0
+607,Commit,mongoid_moped,2012-06-06 00:38:41,088012fe6f2bdb5906e5864875dbe6ef726cc822,1.0,1.0,1.0,0.0
+608,Commit,mongoid_moped,2012-06-05 18:59:26,db389682bf4b78007666feee3794ae1e733cb40b,87.0,79.0,6.0,0.0
+609,Commit,mongoid_moped,2012-06-04 00:00:29,f640871d7fd0ca6c8ded3a394328795be7fbdfd4,23.0,1.0,2.0,0.0
+610,Commit,mongoid_moped,2012-06-03 19:55:55,71a5ee79e55f167317692b135e2e3683139bdff3,3.0,4.0,1.0,0.0
+611,Commit,mongoid_moped,2012-06-03 19:41:49,f7c316e993a189310967ba559adde0cddc0f6e8c,53.0,9.0,2.0,0.0
+612,Commit,mongoid_moped,2012-06-03 18:57:31,48c27c1ea84d443ddfcc5e541562b870f29b838f,69.0,0.0,2.0,0.0
+613,Commit,mongoid_moped,2012-06-02 08:27:09,e17e1f8fe2743383b80c389555319df96f68569d,0.0,0.0,0.0,0.0
+614,Commit,mongoid_moped,2012-06-01 23:34:07,97c80121ad0615f5f2de41ad1c2450b4b747d30b,12.0,0.0,2.0,0.0
+615,Commit,mongoid_moped,2012-05-28 12:05:08,30600e70473728f3e18cd9f51852cfc05c0f135e,0.0,5.0,1.0,0.0
+616,Commit,mongoid_moped,2012-05-28 12:03:55,6df45320b5d378b278450ea4f6f9eb94f13d3758,1.0,1.0,1.0,0.0
+617,Commit,mongoid_moped,2012-05-28 12:02:34,bbd25c7ebf6633fde76c105d5aa269980d7103ae,41.0,5.0,1.0,0.0
+618,Commit,mongoid_moped,2012-05-28 11:56:11,81f253f2b124a8b281e77d08159f606e793daf8f,148.0,96.0,1.0,0.0
+619,Commit,mongoid_moped,2012-05-28 11:43:30,1329daa373f142b83dfacb07791c672b8bd346cc,183.0,114.0,2.0,0.0
+620,Commit,mongoid_moped,2012-05-28 09:44:28,922209b0d7f7ef9e523a849f35557a57dbfe88d4,314.0,129.0,1.0,0.0
+621,Commit,mongoid_moped,2012-05-27 22:29:50,957918e6a1f20298ebfd1cc32d69d1046703e6d9,35.0,2.0,1.0,0.0
+622,Commit,mongoid_moped,2012-05-27 22:19:20,6e28dffec4df87302765b010972e9955f5eca6d7,56.0,38.0,2.0,0.0
+623,Commit,mongoid_moped,2012-05-27 21:58:23,05cf5a2efb3d3c8c04163e0b72a39f5c8b32c971,52.0,22.0,1.0,0.0
+624,Commit,mongoid_moped,2012-05-27 21:37:45,3bd577743cb51412f22da67ab01190c349a49369,52.0,20.0,1.0,0.0
+625,Commit,mongoid_moped,2012-05-27 21:19:19,3fbcf4cfe8b1349fc03209561322ea8d868b639d,93.0,34.0,2.0,0.0
+626,Commit,mongoid_moped,2012-05-27 21:06:47,8300c3202491b09b1451a652a8dd554bef3f420c,149.0,48.0,1.0,0.0
+627,Commit,mongoid_moped,2012-05-27 19:54:14,53c965cd59aab4072a3f60fa3b39e3bed4323179,3.0,1.0,1.0,0.0
+628,Commit,mongoid_moped,2012-05-27 19:52:35,02bf8daa168f2cd5540f507e6e0971974eb2c29d,54.0,31.0,1.0,0.0
+629,Commit,mongoid_moped,2012-05-27 19:42:31,0c0b73169a6fe9e1ecd6903f22bfeb5d1456448a,93.0,36.0,1.0,0.0
+630,Commit,mongoid_moped,2012-05-27 19:30:18,daf46755f844ee93b7a91b9da2d830ae4b906e0c,7.0,3.0,2.0,0.0
+631,Commit,mongoid_moped,2012-05-27 19:27:52,069027782f8aff5dceccc5890c61a4e13d8920ab,1.0,1.0,2.0,0.0
+632,Commit,mongoid_moped,2012-05-24 11:19:18,1d4b6bf0b6f159c8da88646838ae01f15eccebc5,2.0,0.0,1.0,0.0
+633,Commit,mongoid_moped,2012-05-20 13:48:46,734b477fdc862bc6ded35cc0d7016d25bf1e6da1,1.0,11.0,2.0,0.0
+634,Commit,mongoid_moped,2012-05-19 10:55:04,9ee859860ff7204905c63038fc7de6cd1518c242,11.0,8.0,1.0,0.0
+635,Commit,mongoid_moped,2012-05-19 06:35:15,cbc55047d6792158827d39d817a2a9ec8e525e46,1.0,1.0,1.0,0.0
+636,Commit,mongoid_moped,2012-05-13 13:57:50,2fbc3b3980b2cf807763b301ae7f3d55b6dac3f8,20.0,19.0,2.0,0.0
+637,Commit,mongoid_moped,2012-05-13 10:51:47,95f09058395cf4e9d83e6faa6bc42eb00395c4b5,22.0,22.0,1.0,0.0
+638,Commit,mongoid_moped,2012-05-13 10:35:07,f1fa4f5449c83f44a859241eb1f83196e4830681,179.0,77.0,1.0,0.0
+639,Commit,mongoid_moped,2012-05-13 10:01:18,28c9478a8dc018a16a9f6dfceb9efcd8554c1f41,0.0,0.0,0.0,0.0
+640,Commit,mongoid_moped,2012-05-13 09:55:54,421ceb10902e258e7f509b33d3d3b855616a1eb6,69.0,0.0,2.0,0.0
+641,Commit,mongoid_moped,2012-05-06 13:52:47,91691c72f7804ae2ca168f70cd8d6661995b6212,13.0,1.0,2.0,0.0
+642,Commit,mongoid_moped,2012-05-02 18:47:49,9ab692218284a1cd58d5eabd14adbc8b37218af0,17.0,17.0,4.0,0.0
+643,Commit,mongoid_moped,2012-04-27 08:11:28,3949853346e72ebdd5d1062ff8aa78bdd108a21b,0.0,0.0,0.0,0.0
+644,Commit,mongoid_moped,2012-04-26 13:34:05,234054c52cb742cc456957fed75a914117588ad8,6.0,2.0,7.0,0.0
+645,Commit,mongoid_moped,2012-04-26 13:10:00,f4660444825d95f53ae5e12ce1722babcdc9ba1c,7.0,0.0,3.0,0.0
+646,Commit,mongoid_moped,2012-04-26 12:50:56,aa283d61d1239ea200bd05d642df9c00d2a6ac33,11.0,3.0,1.0,0.0
+647,Commit,mongoid_moped,2012-04-26 12:49:40,658720a2b3a139c7df3672371e22d3be3af35074,1.0,1.0,1.0,0.0
+648,Commit,mongoid_moped,2012-04-26 12:49:09,995854d2f2fea73f5c076688e1b7ff11b9d40c2d,4.0,4.0,2.0,0.0
+649,Commit,mongoid_moped,2012-04-26 12:44:57,f0c304d7f542145a6376d8bed661baa90f1cb8f9,17.0,17.0,4.0,0.0
+650,Commit,mongoid_moped,2012-04-20 09:19:45,27b27e31a1a0d2885c8942efaa48038bde519e94,1.0,0.0,1.0,0.0
+651,Commit,mongoid_moped,2012-04-20 09:16:23,30d1f9f89057c2a344147147c0b7d2e741c0bad6,1.0,2.0,2.0,0.0
+652,Commit,mongoid_moped,2012-04-20 06:17:53,18d12ebc46bfbe2666076b6e6ee8d499d314964e,0.0,0.0,0.0,0.0
+653,Commit,mongoid_moped,2012-04-19 22:47:49,7a791325790ec5b363e0c6678f0241abccf235e2,1.0,1.0,1.0,0.0
+654,Commit,mongoid_moped,2012-04-18 14:19:56,7fb8f7fdc4a239dd9311f6fc384f2d11d21b74a4,0.0,1.0,1.0,0.0
+655,Commit,mongoid_moped,2012-04-18 14:11:24,96a1f03205191d36cfedd608961f0c430a7834fc,7.0,1.0,1.0,0.0
+656,Commit,mongoid_moped,2012-04-18 13:52:14,82bf8568da5b1410f365cf420bc693f85a003e3c,22.0,9.0,1.0,0.0
+657,Commit,mongoid_moped,2012-04-18 13:29:45,ccf3967f4f4a52f375eb74722922e8c88eaf3b18,47.0,35.0,3.0,0.0
+658,Commit,mongoid_moped,2012-04-18 12:07:31,72cb18fa884fb647f3baff13b7336f862a89a1c1,56.0,0.0,3.0,0.0
+659,Commit,mongoid_moped,2012-04-18 12:07:06,9cb59956585dd044688d09aa4af3c8fb7c264af9,6.0,6.0,2.0,0.0
+660,Commit,mongoid_moped,2012-04-18 12:07:02,55104c99ffacc87a9e7b8f40a4150b022d44a066,1.0,0.0,1.0,0.0
+661,Commit,mongoid_moped,2012-04-18 11:52:02,4a59792139a2ac600b64eca141ccfa048b69ae2f,4.0,0.0,1.0,0.0
+662,Commit,mongoid_moped,2012-04-18 11:41:30,ec88cb1314d569a8754db8954d93a0d66edcd3a3,14.0,0.0,1.0,0.0
+663,Commit,mongoid_moped,2012-04-18 11:34:29,d65cc7f26fb37eb86d5a6ccabfb2694ba8a0f2a1,27.0,1.0,1.0,0.0
+664,Commit,mongoid_moped,2012-04-18 10:48:26,232e2d1d6107757734b74fd68f775c6acbef78fa,10.0,1.0,1.0,0.0
+665,Commit,mongoid_moped,2012-04-18 10:44:08,7b476407b72fb52d54a07983f7e5268dd7f902fe,19.0,0.0,2.0,0.0
+666,Commit,mongoid_moped,2012-04-18 10:37:27,8f2634783cc754b35123f5bb3c9410e50f3244aa,17.0,4.0,3.0,0.0
+667,Commit,mongoid_moped,2012-04-17 15:46:34,dd5a7c14b5d2e466f7875d079af71ad19774609b,2057.0,3322.0,42.0,1.0
+668,Commit,mongoid_moped,2012-04-16 09:19:54,908477366b165670f97d3d835211b55d61cf153d,22.0,3.0,3.0,0.0
+669,Commit,mongoid_moped,2012-04-13 12:38:59,d0697a77fbd7166171ff1db4c981e1ac1bb668b6,10.0,7.0,1.0,0.0
+670,Commit,mongoid_moped,2012-04-13 12:35:26,7dd193fee1644abda4647160f4b2db9c7af3f6e1,28.0,0.0,3.0,0.0
+671,Commit,mongoid_moped,2012-04-13 10:45:43,8285c5ef3cd3d47c2080a0ebe1f1641ab5ef178e,3.0,4.0,1.0,0.0
+672,Commit,mongoid_moped,2012-04-13 10:38:13,e61e272a3f8efd71cb69c831a297d5a479a63dd4,62.0,5.0,3.0,0.0
+673,Commit,mongoid_moped,2012-04-13 10:38:13,c2e31c47806b054bdeb9d66c338f17551262e210,0.0,1.0,1.0,0.0
+674,Commit,mongoid_moped,2012-04-13 10:04:03,ca2f2f889977734ff812694616b0b9298349b630,57.0,35.0,2.0,0.0
+675,Commit,mongoid_moped,2012-04-11 15:30:21,e770d60228fb516b658a59870da96f193122aabb,66.0,131.0,1.0,0.0
+676,Commit,mongoid_moped,2012-04-11 15:07:01,50dcac8e51e454722be616c5ffdea2f91257294a,373.0,23.0,1.0,0.0
+677,Commit,mongoid_moped,2012-04-11 15:05:23,dac3115da63159ebe79da601b11c7d167aaf8b18,2.0,2.0,1.0,0.0
+678,Commit,mongoid_moped,2012-04-10 11:16:23,5026beaea137b2058aa2dbfe385c33e4cbb1cfb3,34.0,2.0,2.0,0.0
+679,Commit,mongoid_moped,2012-03-22 11:24:33,98fcf601394a33c5c15ce1119b305ba2dd17d843,4.0,32.0,1.0,0.0
+680,Commit,mongoid_moped,2012-03-21 15:33:53,1a9f2e42531ac250073c8d78ab9ac6527515cdc9,15.0,1.0,1.0,0.0
+681,Commit,mongoid_moped,2012-03-21 14:58:17,c58a2a85a706ab1f3d9f9eb2eaaaecf8e4f7c6d9,3.0,1.0,1.0,0.0
+682,Commit,mongoid_moped,2012-03-21 14:10:12,d9f14de3ff61eba43e21c8bbcefba1538fe7ddb7,1.0,15.0,1.0,0.0
+683,Commit,mongoid_moped,2012-03-20 15:04:15,bd242236090b4b16c3fdd634e1674041c890d73e,6.0,16.0,1.0,0.0
+684,Commit,mongoid_moped,2012-03-20 14:50:01,c9912a8b6d7c265803bfa572ebf869df4f5ebef4,7.0,36.0,1.0,0.0
+685,Commit,mongoid_moped,2012-03-20 10:58:43,15a9770b1032efaa1657f0dde716bbb1d9bea996,29.0,0.0,1.0,0.0
+686,Commit,mongoid_moped,2012-03-15 16:17:31,ad1fee98dcf6f62f0f0780075ee4c4cf4be0546f,1.0,1.0,1.0,0.0
+687,Commit,mongoid_moped,2012-03-15 16:07:08,afda7dc9243d7cf9647e5858ac7e9432dd6f4af2,13.0,12.0,9.0,0.0
+688,Commit,mongoid_moped,2012-03-14 15:16:59,2ff5116c80228cc20e1bdf940563d24ce7584c70,1.0,1.0,1.0,0.0
+689,Commit,mongoid_moped,2012-03-14 14:30:37,27eb84c8ded8982c087d5c21543b4c69c709e786,51.0,21.0,7.0,0.0
+690,Commit,mongoid_moped,2012-03-14 10:40:02,4f8141cfc5fc88707202b11c9eaf7f24584e38cf,4.0,4.0,1.0,0.0
+691,Commit,mongoid_moped,2012-03-14 09:56:23,f742ba0b18d135719480151a90f015ddca8a7db0,37.0,9.0,5.0,0.0
+692,Commit,mongoid_moped,2012-03-13 11:06:34,48ca5d9a1063ee04b770c59c76d8882a1a1841b1,0.0,1.0,1.0,0.0
+693,Commit,mongoid_moped,2012-03-13 10:17:59,242e458475c9b72627b9bf0adb3c676a1680fd73,114.0,3.0,5.0,0.0
+694,Commit,mongoid_moped,2012-03-12 15:23:16,125568d74773955a2f91b296f735af3d6f865957,0.0,1.0,1.0,0.0
+695,Commit,mongoid_moped,2012-03-12 15:02:40,5ebd7e60d8db206275d469494265a0733ce7ea07,4.0,8.0,1.0,0.0
+696,Commit,mongoid_moped,2012-03-12 13:49:11,4d4baaf0f1e60ccdc788bff59cb2555cbb838422,38.0,3.0,3.0,0.0
+697,Commit,mongoid_moped,2012-03-12 13:49:11,1f47e77d67ccce7342d384298fdc3577d7aa14fc,32.0,4.0,2.0,0.0
+698,Commit,mongoid_moped,2012-03-12 13:49:10,5736805aa1fff14fbcff80242818ceda697f8cde,44.0,0.0,2.0,0.0
+699,Commit,mongoid_moped,2012-03-12 13:49:10,8c1a7c5fede2c33eca6872a749030c9dadfd3f1f,64.0,0.0,2.0,0.0
+700,Commit,mongoid_moped,2012-03-12 13:49:10,19967b3a79c142a6dbdd134b3c1a2a5e578e926f,166.0,0.0,4.0,0.0
+701,Commit,mongoid_moped,2012-02-29 14:10:18,fca15c9b4f80046a5de9f3201b7a57e2c431936a,0.0,0.0,0.0,0.0
+702,Commit,mongoid_moped,2012-02-29 14:08:49,8a54bf93c336e02e673563240357e9bfc22613c6,2.0,3.0,2.0,0.0
+703,Commit,mongoid_moped,2012-02-15 16:31:07,54477010c88331e73954da02e2c0027c4d776fff,2.0,2.0,1.0,0.0
+704,Commit,mongoid_moped,2012-02-14 10:52:40,54c043bd916b8d4050c0eb43129c631b5062f75f,21.0,10.0,6.0,0.0
+705,Commit,mongoid_moped,2012-02-13 13:16:39,aa85683519147be424e8fefcada85d53fb442a22,262.0,19.0,12.0,0.0
+706,Commit,mongoid_moped,2012-02-13 12:39:20,999c7f843ae4fcea35e311eb99d2d4cba81a5094,1.0,1.0,1.0,0.0
+707,Commit,mongoid_moped,2012-02-05 16:35:34,5d66bc515edb4c24673a1536d8743ba0c2d34add,31.0,7.0,1.0,0.0
+708,Commit,mongoid_moped,2012-02-03 13:55:13,74750f7ec0c080c695611f978a95201f40b48ce8,235.0,0.0,5.0,0.0
+709,Commit,mongoid_moped,2012-02-01 17:30:46,790fa628768f98f508783cc98358d949851a08b3,4.0,2.0,1.0,0.0
+710,Commit,mongoid_moped,2012-02-01 17:28:22,fcb3153e665ae0962bf507dee31a914c0049817b,2.0,2.0,1.0,0.0
+711,Commit,mongoid_moped,2012-02-01 13:46:18,69a66c745b1b5c580d9de714157135bd413c0be4,35.0,0.0,3.0,0.0
+712,Commit,mongoid_moped,2012-01-26 16:04:00,599b4d3f47ffe7dc34caa20a8f66a3e61980c37a,1.0,21.0,2.0,0.0
+713,Commit,mongoid_moped,2012-01-26 15:38:10,d683de421d5da1147b87b6aebe0bac15d8ae5ff3,25.0,9.0,1.0,0.0
+714,Commit,mongoid_moped,2012-01-26 15:36:41,528d339118ef480db80b0a717619a379a13f41c0,30.0,5.0,1.0,0.0
+715,Commit,mongoid_moped,2012-01-26 15:34:54,d85106eb38821d9ca2d89a74b6e65f15d20ebe87,9.0,3.0,1.0,0.0
+716,Commit,mongoid_moped,2012-01-26 15:33:12,7c93bdfd2d04e76d0ea1804e9ed4c049d0b8fd80,114.0,39.0,1.0,0.0
+717,Commit,mongoid_moped,2012-01-26 15:25:37,a821b71ba29ed5b89a1520b9660bd256ed34fd79,803.0,799.0,5.0,0.0
+718,Commit,mongoid_moped,2012-01-26 15:22:22,ba0fb6661b9fe6491484995e613e447a9cc47408,1.0,5.0,1.0,0.0
+719,Commit,mongoid_moped,2012-01-26 15:19:41,a693025a617d1a2b4c9736ba540dbf6b3fc0e475,579.0,571.0,5.0,0.0
+720,Commit,mongoid_moped,2012-01-26 13:23:21,a2a0f3c8bdff96577c6aef3c3fb66f53ea0ec8a3,26.0,2.0,2.0,0.0
+721,Commit,mongoid_moped,2012-01-26 10:08:06,0aa7643c54b321360a1e2e82c152f20f1d1395cc,7.0,9.0,1.0,0.0
+722,Commit,mongoid_moped,2012-01-26 09:58:18,92ddfb14d79a02e01ce4a379758af9debe28cb0d,6.0,8.0,2.0,0.0
+723,Commit,mongoid_moped,2012-01-26 08:52:01,fb570672fc1f6a5793c9b86ae3eca929e2ad5f4b,29.0,6.0,2.0,0.0
+724,Commit,mongoid_moped,2012-01-25 12:26:44,2b6dfd7281ebe39c63dabc0edae4a5a4b7522266,22.0,18.0,2.0,0.0
+725,Commit,mongoid_moped,2012-01-24 12:56:14,e8af48348504aca153fce06d31f15d08fe93dfe0,141.0,96.0,5.0,0.0
+726,Commit,mongoid_moped,2012-01-24 12:56:14,3dadf62dd3e7b21b364c12d7abdcde29d1db9438,1.0,0.0,1.0,0.0
+727,Commit,mongoid_moped,2012-01-24 12:08:24,0e244d70e76285c834a6d9a788bfb36230bfce56,10.0,0.0,2.0,0.0
+728,Commit,mongoid_moped,2012-01-24 12:06:25,c183737ff0f2362dccd2f98fc70c8aa3c546a968,1.0,1.0,1.0,0.0
+729,Commit,mongoid_moped,2012-01-24 11:41:59,7322321e2858438e8afe414cbdfecc8476b27754,8.0,0.0,1.0,0.0
+730,Commit,mongoid_moped,2012-01-24 11:39:25,58646adf91685d8a0e89d44a6f14894cc43e7998,20.0,1.0,4.0,0.0
+731,Commit,mongoid_moped,2012-01-24 11:21:51,41a14c554e1e9a3cbdfdb59523744cc7bb5225e8,10.0,11.0,1.0,0.0
+732,Commit,mongoid_moped,2012-01-24 11:14:33,947b9655c88a985ba5ec9c1b0e83758ec4324e64,2.0,3.0,1.0,0.0
+733,Commit,mongoid_moped,2012-01-24 11:05:38,100736f91114ab7f3ef6c86b80d62a3c39bf4c27,17.0,5.0,3.0,0.0
+734,Commit,mongoid_moped,2012-01-24 11:00:59,161b8afd28c13497446377d829b2b8f7ccf5b5c6,32.0,0.0,1.0,0.0
+735,Commit,mongoid_moped,2012-01-24 10:59:07,31747d6205dbcb671e98600a565cea54dd146bd4,1.0,1.0,1.0,0.0
+736,Commit,mongoid_moped,2012-01-24 10:56:03,c9c76c943db76c267e6c0ebefaa31dc483367243,1.0,1.0,1.0,0.0
+737,Commit,mongoid_moped,2012-01-24 10:25:27,fac7461a0bd0cb7342a3b166eeaf71658e71e0eb,64.0,3.0,16.0,0.0
+738,Commit,mongoid_moped,2012-01-24 10:20:40,fb2318f8a0181db95a39764c7a75995fe307a0a7,0.0,4.0,1.0,0.0
+739,Commit,mongoid_moped,2012-01-24 10:08:00,b2450679e7635a0f2234fc9a7bd4d51f13dfe0e2,18.0,6.0,3.0,0.0
+740,Commit,mongoid_moped,2012-01-24 09:55:06,a1544f5bdf8fb8255a87da32958d9db9c8db53ad,57.0,0.0,4.0,0.0
+741,Commit,mongoid_moped,2012-01-24 09:45:04,356ffb4444faea6e02177e00f0d5daed8163e9e9,0.0,6.0,1.0,0.0
+742,Commit,mongoid_moped,2012-01-24 09:44:32,e6f4bf4eda6a3a45e85b2a70b201df8d105f3d24,23.0,1.0,3.0,0.0
+743,Commit,mongoid_moped,2012-01-23 15:38:13,3ddc6179fb6da88f49f686d0920d1bb97e2c1e4d,7.0,2.0,1.0,0.0
+744,Commit,mongoid_moped,2012-01-23 12:11:31,7a44a37ea226ca5157772786ca016c6adcbd6119,1163.0,7.0,27.0,0.0
+745,Commit,mongoid_moped,2012-01-23 12:06:29,6e2ac140e9d8b4bc4bd43880c8334d59c632f7cf,2227.0,7.0,28.0,0.0
+746,Commit,mongoid_moped,2012-01-23 11:14:40,5888104c620f2bac2e6b2ccac7f677a7d2245c4a,673.0,325.0,13.0,0.0
+747,Commit,mongoid_moped,2012-01-16 10:18:39,ff2e294c9a40d68d257e6546f61dd2450a46d651,17.0,8.0,2.0,0.0
+748,Commit,mongoid_moped,2012-01-13 14:35:18,fc3d82e1c4532c6372424a7444554fe635ce9962,27.0,2.0,2.0,0.0
+749,Commit,mongoid_moped,2012-01-13 14:21:37,a869ec2ca3727177b2bdb2f3a6ba277b66a736b2,39.0,3.0,3.0,0.0
+750,Commit,mongoid_moped,2012-01-13 14:19:26,c8af1598f65c6e308dceb67f03d981c57d5b059c,0.0,7.0,1.0,0.0
+751,Commit,mongoid_moped,2012-01-13 13:45:55,852fafeaf53a8474cb1157c9301d3da513d183d1,167.0,102.0,6.0,0.0
+752,Commit,mongoid_moped,2012-01-13 12:55:16,9c3f89427ea7bb0845d027788bb6d9d268b5be9d,73.0,45.0,4.0,0.0
+753,Commit,mongoid_moped,2012-01-13 12:06:20,5cae68a394d9cb74478ac5758d21de1594d79fd9,6.0,4.0,1.0,0.0
+754,Commit,mongoid_moped,2012-01-13 10:52:19,e6f6d55b9c579515fb27824ff257de3371443689,0.0,5.0,1.0,0.0
+755,Commit,mongoid_moped,2012-01-13 10:50:07,0f9e2d2ecb1cedefe0d91873d0841b68de8f9f1c,28.0,27.0,4.0,0.0
+756,Commit,mongoid_moped,2012-01-13 10:45:45,08b40ec42ec41ad13242be5cd435f65cc76bacfb,31.0,3.0,2.0,0.0
+757,Commit,mongoid_moped,2012-01-13 10:39:44,3e528c09804a534a9c833250d0cca883e8b41494,160.0,75.0,2.0,0.0
+758,Commit,mongoid_moped,2012-01-13 10:32:07,ef582b791e04daf8930c7acb756e1d4e65f1b255,11.0,3.0,2.0,0.0
+759,Commit,mongoid_moped,2012-01-11 14:11:40,65826cf603f55ce49d0f6450187827efc807764d,14.0,2.0,2.0,0.0
+760,Commit,mongoid_moped,2012-01-11 14:06:54,2863515d863d314706bfaff51532df5f34361aae,27.0,5.0,3.0,0.0
+761,Commit,mongoid_moped,2012-01-11 13:53:33,70ad2cea7fe5fc1a316ac759c24753802da8ce69,150.0,0.0,3.0,0.0
+762,Commit,mongoid_moped,2012-01-11 13:50:16,b5911c4e991ab31307386a39c9f37f960584e349,1.0,12.0,2.0,0.0
+763,Commit,mongoid_moped,2012-01-11 13:41:34,6a3a238c72ac08502a67b49b10a6c6fd8c452cc2,134.0,0.0,2.0,0.0
+764,Commit,mongoid_moped,2012-01-05 11:53:36,0a5f23cf5478cfaf2ccc8a53b676ba0ecfbb711c,321.0,342.0,5.0,0.0
+765,Commit,mongoid_moped,2012-01-03 14:05:55,f7bcb79b7e6aa7f6e7f170189d7aaf560cedaa87,1.0,0.0,1.0,0.0
+766,Commit,mongoid_moped,2011-12-21 11:04:47,55ac1e1d63831e299e7c34d20ad6d2bc5baa12dc,194.0,13.0,5.0,0.0
+767,Commit,mongoid_moped,2011-12-19 15:09:18,3832879dfa4071f180cc1345fc16fd5dd32d8b4c,38.0,2.0,2.0,0.0
+768,Commit,mongoid_moped,2011-12-19 14:48:02,691b7713d1a1cfa199633c2f2aa82cdb55f1bb07,10.0,4.0,1.0,0.0
+769,Commit,mongoid_moped,2011-12-19 14:45:55,5308aac7873fe0f738832068000dd2877395548a,60.0,2.0,3.0,0.0
+770,Commit,mongoid_moped,2011-12-19 14:42:18,e63a74bfbb706c8dd97b7b40116104d19d4a4b2a,83.0,3.0,3.0,0.0
+771,Commit,mongoid_moped,2011-12-19 14:00:09,92f9118a4c0234da6626ae5def933d7a0140f7b5,25.0,1.0,2.0,0.0
+772,Commit,mongoid_moped,2011-12-19 13:55:01,d1fd6755b53197a19c0c42534d54ce9f80a1f435,9.0,3.0,2.0,0.0
+773,Commit,mongoid_moped,2011-12-19 13:53:31,6ed715227c9265b253c9f18b088d81dcc38de425,28.0,0.0,1.0,0.0
+774,Commit,mongoid_moped,2011-12-19 13:53:14,ba212665007f672d2e8a5be840942c78c02be187,8.0,2.0,1.0,0.0
+775,Commit,mongoid_moped,2011-12-19 13:44:18,058b7cd25edc6aa4aa381e4c5ff96bda458cf081,13.0,1.0,2.0,0.0
+776,Commit,mongoid_moped,2011-12-19 13:32:51,1078cedbbb79843d416a9bf09ef9099442b58b2f,98.0,5.0,2.0,0.0
+777,Commit,mongoid_moped,2011-12-19 13:22:20,bfb7a1d2eeda424e06410ad0bd354273a00c2cff,46.0,4.0,2.0,0.0
+778,Commit,mongoid_moped,2011-12-19 13:21:24,bfa3def56e60feaaa77a9c1d974b14784d84f5b5,1.0,1.0,1.0,0.0
+779,Commit,mongoid_moped,2011-12-19 13:14:38,3ccf39d0c082ee54691c3c9b166e8d6c2c6238da,101.0,10.0,2.0,0.0
+780,Commit,mongoid_moped,2011-12-19 12:56:16,6cbec7b0782956cdc73f2d3058601b0115359ac0,1.0,0.0,1.0,0.0
+781,Commit,mongoid_moped,2011-12-19 12:55:53,fec087377b40cb6c8f052d7b3417486b1fae68ec,36.0,2.0,2.0,0.0
+782,Commit,mongoid_moped,2011-12-19 12:51:29,9de6df89d5cb2b2ce1e962980d39fd898db7d75a,10.0,1.0,2.0,0.0
+783,Commit,mongoid_moped,2011-12-19 12:51:04,c93dd4ca53d7a2bffdf7a3378afdcc7b3a9e0a76,24.0,12.0,3.0,0.0
+784,Commit,mongoid_moped,2011-12-19 12:25:06,a578a9d41789bc31bb748d9854a1cba490080235,39.0,1.0,2.0,0.0
+785,Commit,mongoid_moped,2011-12-19 11:45:33,b4727bb6841340280b21dc0297d8f7d8f8786966,22.0,0.0,1.0,0.0
+786,Commit,mongoid_moped,2011-12-19 11:42:39,cbd28f127a8471d48674faefe8ec6790c6524735,36.0,6.0,2.0,0.0
+787,Commit,mongoid_moped,2011-12-19 11:36:47,98bc6aed3c33522fcb1d86dcf9e16f5d8e4121bd,8.0,0.0,2.0,0.0
+788,Commit,mongoid_moped,2011-12-19 11:35:37,52708ecbc2f26e03f4365bf85b8a438edfa2a75b,18.0,6.0,2.0,0.0
+789,Commit,mongoid_moped,2011-12-19 11:31:18,ca3ce57967c8ea30463da9d308a85a56f20aa3bd,8.0,3.0,3.0,0.0
+790,Commit,mongoid_moped,2011-12-19 11:29:36,cb83358152e93add726087d0081a581e20cc7a1f,36.0,2.0,2.0,0.0
+791,Commit,mongoid_moped,2011-12-19 11:25:24,08b343d89acd33183a1aab5f9766baf1443762f1,23.0,2.0,2.0,0.0
+792,Commit,mongoid_moped,2011-12-19 11:25:14,558573a652d219cb57d16644416c4594f75d7e8e,568.0,18.0,8.0,0.0
+793,Commit,mongoid_moped,2011-12-16 09:56:02,9377d22d7528c6bcf7c4c8527d0b5082b492cd7c,397.0,15.0,3.0,0.0
+794,Commit,mongoid_moped,2011-12-16 09:52:43,8efcd3ff930881a8fc32214ae417a72b353119e6,38.0,3.0,2.0,0.0
+795,Commit,mongoid_moped,2011-12-15 15:22:05,68d96cf2cd2a968a281ed26d7d16cbb0385faa8d,87.0,0.0,2.0,0.0
+796,Commit,mongoid_moped,2011-12-15 15:02:21,dbf5a15196855cc90aa9d17221b20080f25c69c9,7.0,3.0,1.0,0.0
+797,Commit,mongoid_moped,2011-12-15 14:55:41,639d8b2d218aaa7e97963040985e2f5053e2270f,247.0,0.0,1.0,0.0
+798,Commit,mongoid_moped,2011-12-15 14:47:41,0a6567689ef6c6324cc2d9bc311d5c78aa78b106,1.0,0.0,1.0,0.0
+799,Commit,mongoid_moped,2011-12-15 14:45:46,e116194e13b63a1a09dd691039f7e9ebbe76477b,36.0,0.0,1.0,0.0
+800,Commit,mongoid_moped,2011-12-15 14:45:28,e0fed33d1665d3a8d49010dc7dbccdfcef3eb716,9.0,0.0,2.0,0.0
+801,Commit,mongoid_moped,2011-12-15 14:44:46,9d7af81cb98d0d07e5a164a36d1437e37b257b7d,19.0,0.0,1.0,0.0
+802,Commit,mongoid_moped,2011-12-15 14:39:07,cec792d4729d0ac05a28c3baf0d92924975d0047,7.0,0.0,1.0,0.0
+803,Commit,mongoid_moped,2011-12-15 14:38:52,6b4058754e27a4f8f925719dc18dd2e3ddd158dd,9.0,0.0,1.0,0.0
+804,Commit,mongoid_moped,2011-12-15 14:38:06,6b724779a7a4c62e4aece4459c953569e0e7ee3e,19.0,0.0,1.0,0.0
+805,Commit,mongoid_moped,2011-12-15 14:36:26,5eea51c5e1946e842e22674fd35fa235009670ff,4.0,0.0,1.0,0.0
+0,forks,mongoid_moped,2012-02-06 08:46:02+00:00,,,,,
+1,forks,mongoid_moped,2012-02-29 13:34:24+00:00,,,,,
+2,forks,mongoid_moped,2012-04-06 05:42:29+00:00,,,,,
+3,forks,mongoid_moped,2012-04-09 09:12:36+00:00,,,,,
+4,forks,mongoid_moped,2012-04-11 15:20:59+00:00,,,,,
+5,forks,mongoid_moped,2012-05-21 03:51:34+00:00,,,,,
+6,forks,mongoid_moped,2012-06-03 17:08:55+00:00,,,,,
+7,forks,mongoid_moped,2012-06-04 05:28:28+00:00,,,,,
+8,forks,mongoid_moped,2012-06-06 17:31:03+00:00,,,,,
+9,forks,mongoid_moped,2012-06-08 20:15:24+00:00,,,,,
+10,forks,mongoid_moped,2012-06-10 23:49:20+00:00,,,,,
+11,forks,mongoid_moped,2012-06-12 21:05:01+00:00,,,,,
+12,forks,mongoid_moped,2012-06-15 12:48:43+00:00,,,,,
+13,forks,mongoid_moped,2012-06-16 20:15:10+00:00,,,,,
+14,forks,mongoid_moped,2012-06-28 11:42:38+00:00,,,,,
+15,forks,mongoid_moped,2012-07-04 08:57:00+00:00,,,,,
+16,forks,mongoid_moped,2012-07-15 11:34:49+00:00,,,,,
+17,forks,mongoid_moped,2012-07-31 20:44:49+00:00,,,,,
+18,forks,mongoid_moped,2012-08-13 07:04:13+00:00,,,,,
+19,forks,mongoid_moped,2012-08-13 19:48:05+00:00,,,,,
+20,forks,mongoid_moped,2012-08-16 11:30:56+00:00,,,,,
+21,forks,mongoid_moped,2012-08-18 04:14:30+00:00,,,,,
+22,forks,mongoid_moped,2012-08-27 09:24:18+00:00,,,,,
+23,forks,mongoid_moped,2012-08-30 18:43:57+00:00,,,,,
+24,forks,mongoid_moped,2012-09-12 14:22:48+00:00,,,,,
+25,forks,mongoid_moped,2012-09-16 11:47:45+00:00,,,,,
+26,forks,mongoid_moped,2012-09-24 00:29:48+00:00,,,,,
+27,forks,mongoid_moped,2012-09-25 21:37:19+00:00,,,,,
+28,forks,mongoid_moped,2012-10-02 20:37:40+00:00,,,,,
+29,forks,mongoid_moped,2012-10-05 10:00:56+00:00,,,,,
+30,forks,mongoid_moped,2012-10-07 21:57:59+00:00,,,,,
+31,forks,mongoid_moped,2012-10-09 14:44:47+00:00,,,,,
+32,forks,mongoid_moped,2012-11-15 23:32:07+00:00,,,,,
+33,forks,mongoid_moped,2012-12-04 10:58:25+00:00,,,,,
+34,forks,mongoid_moped,2012-12-05 14:49:47+00:00,,,,,
+35,forks,mongoid_moped,2012-12-14 17:39:45+00:00,,,,,
+36,forks,mongoid_moped,2012-12-18 15:45:58+00:00,,,,,
+37,forks,mongoid_moped,2013-01-11 16:27:46+00:00,,,,,
+38,forks,mongoid_moped,2013-01-20 10:09:36+00:00,,,,,
+39,forks,mongoid_moped,2013-01-26 12:11:59+00:00,,,,,
+40,forks,mongoid_moped,2013-02-05 14:44:25+00:00,,,,,
+41,forks,mongoid_moped,2013-02-17 23:11:58+00:00,,,,,
+42,forks,mongoid_moped,2013-02-18 13:03:44+00:00,,,,,
+43,forks,mongoid_moped,2013-02-21 21:05:01+00:00,,,,,
+44,forks,mongoid_moped,2013-02-27 22:42:58+00:00,,,,,
+45,forks,mongoid_moped,2013-03-08 16:54:26+00:00,,,,,
+46,forks,mongoid_moped,2013-03-18 05:47:05+00:00,,,,,
+47,forks,mongoid_moped,2013-03-19 14:09:41+00:00,,,,,
+48,forks,mongoid_moped,2013-03-22 01:56:23+00:00,,,,,
+49,forks,mongoid_moped,2013-03-28 09:33:22+00:00,,,,,
+50,forks,mongoid_moped,2013-04-15 19:32:45+00:00,,,,,
+51,forks,mongoid_moped,2013-04-30 01:09:42+00:00,,,,,
+52,forks,mongoid_moped,2013-06-24 23:56:47+00:00,,,,,
+53,forks,mongoid_moped,2013-07-13 08:26:57+00:00,,,,,
+54,forks,mongoid_moped,2013-07-17 15:48:14+00:00,,,,,
+55,forks,mongoid_moped,2013-07-25 16:30:33+00:00,,,,,
+56,forks,mongoid_moped,2013-07-27 05:14:01+00:00,,,,,
+57,forks,mongoid_moped,2013-07-31 16:51:03+00:00,,,,,
+58,forks,mongoid_moped,2013-09-14 03:39:50+00:00,,,,,
+59,forks,mongoid_moped,2013-09-21 21:16:35+00:00,,,,,
+60,forks,mongoid_moped,2013-10-06 03:22:16+00:00,,,,,
+61,forks,mongoid_moped,2013-10-15 10:30:14+00:00,,,,,
+62,forks,mongoid_moped,2013-11-05 15:23:17+00:00,,,,,
+63,forks,mongoid_moped,2013-11-10 17:49:12+00:00,,,,,
+64,forks,mongoid_moped,2013-12-01 08:32:41+00:00,,,,,
+65,forks,mongoid_moped,2014-01-10 12:22:03+00:00,,,,,
+66,forks,mongoid_moped,2014-01-26 13:09:14+00:00,,,,,
+67,forks,mongoid_moped,2014-01-28 11:13:55+00:00,,,,,
+68,forks,mongoid_moped,2014-02-10 20:05:45+00:00,,,,,
+69,forks,mongoid_moped,2014-02-19 23:35:15+00:00,,,,,
+70,forks,mongoid_moped,2014-03-19 08:42:56+00:00,,,,,
+71,forks,mongoid_moped,2014-03-21 09:13:29+00:00,,,,,
+72,forks,mongoid_moped,2014-03-25 10:09:46+00:00,,,,,
+73,forks,mongoid_moped,2014-04-13 18:47:13+00:00,,,,,
+74,forks,mongoid_moped,2014-04-25 08:28:40+00:00,,,,,
+75,forks,mongoid_moped,2014-05-07 10:15:30+00:00,,,,,
+76,forks,mongoid_moped,2014-06-15 09:25:45+00:00,,,,,
+77,forks,mongoid_moped,2014-06-16 02:04:37+00:00,,,,,
+78,forks,mongoid_moped,2014-06-20 05:05:07+00:00,,,,,
+79,forks,mongoid_moped,2014-07-02 11:59:50+00:00,,,,,
+80,forks,mongoid_moped,2014-07-02 12:01:32+00:00,,,,,
+81,forks,mongoid_moped,2014-07-31 00:12:23+00:00,,,,,
+82,forks,mongoid_moped,2014-08-09 14:05:21+00:00,,,,,
+83,forks,mongoid_moped,2014-08-14 13:11:22+00:00,,,,,
+84,forks,mongoid_moped,2014-08-20 04:39:19+00:00,,,,,
+85,forks,mongoid_moped,2014-08-30 04:47:57+00:00,,,,,
+86,forks,mongoid_moped,2014-09-04 01:38:12+00:00,,,,,
+87,forks,mongoid_moped,2014-09-19 12:40:23+00:00,,,,,
+88,forks,mongoid_moped,2014-09-30 05:20:58+00:00,,,,,
+89,forks,mongoid_moped,2014-10-03 03:31:33+00:00,,,,,
+90,forks,mongoid_moped,2014-11-05 23:05:48+00:00,,,,,
+91,forks,mongoid_moped,2014-11-10 10:14:52+00:00,,,,,
+92,forks,mongoid_moped,2014-12-08 23:30:48+00:00,,,,,
+93,forks,mongoid_moped,2014-12-10 22:02:37+00:00,,,,,
+94,forks,mongoid_moped,2015-01-05 22:08:36+00:00,,,,,
+95,forks,mongoid_moped,2015-01-06 02:24:06+00:00,,,,,
+96,forks,mongoid_moped,2015-01-22 22:15:44+00:00,,,,,
+97,forks,mongoid_moped,2015-02-07 16:05:04+00:00,,,,,
+98,forks,mongoid_moped,2015-02-11 23:17:08+00:00,,,,,
+99,forks,mongoid_moped,2015-02-17 16:34:22+00:00,,,,,
+100,forks,mongoid_moped,2015-03-11 16:52:12+00:00,,,,,
+101,forks,mongoid_moped,2015-03-13 17:45:41+00:00,,,,,
+102,forks,mongoid_moped,2015-04-02 17:15:56+00:00,,,,,
+103,forks,mongoid_moped,2015-04-16 03:10:28+00:00,,,,,
+104,forks,mongoid_moped,2015-04-19 01:14:39+00:00,,,,,
+105,forks,mongoid_moped,2015-04-28 21:10:09+00:00,,,,,
+106,forks,mongoid_moped,2015-04-30 14:59:45+00:00,,,,,
+107,forks,mongoid_moped,2015-05-06 14:17:28+00:00,,,,,
+108,forks,mongoid_moped,2015-05-29 02:28:34+00:00,,,,,
+109,forks,mongoid_moped,2015-06-03 07:45:05+00:00,,,,,
+110,forks,mongoid_moped,2015-06-05 22:20:48+00:00,,,,,
+111,forks,mongoid_moped,2015-07-14 13:56:36+00:00,,,,,
+112,forks,mongoid_moped,2015-08-13 06:22:02+00:00,,,,,
+113,forks,mongoid_moped,2015-09-01 00:03:10+00:00,,,,,
+114,forks,mongoid_moped,2015-09-16 03:23:47+00:00,,,,,
+115,forks,mongoid_moped,2015-10-22 19:48:03+00:00,,,,,
+116,forks,mongoid_moped,2015-12-18 12:27:42+00:00,,,,,
+117,forks,mongoid_moped,2015-12-20 03:56:47+00:00,,,,,
+118,forks,mongoid_moped,2016-03-17 16:55:21+00:00,,,,,
+119,forks,mongoid_moped,2016-04-14 19:23:49+00:00,,,,,
+120,forks,mongoid_moped,2016-05-20 10:35:00+00:00,,,,,
+121,forks,mongoid_moped,2016-07-27 03:38:46+00:00,,,,,
+122,forks,mongoid_moped,2016-08-03 20:41:04+00:00,,,,,
+123,forks,mongoid_moped,2016-09-12 09:27:01+00:00,,,,,
+124,forks,mongoid_moped,2016-09-20 09:22:55+00:00,,,,,
+125,forks,mongoid_moped,2016-09-21 23:26:42+00:00,,,,,
+126,forks,mongoid_moped,2016-10-06 16:15:27+00:00,,,,,
+127,forks,mongoid_moped,2016-11-02 21:39:44+00:00,,,,,
+128,forks,mongoid_moped,2017-03-03 06:38:12+00:00,,,,,
+129,forks,mongoid_moped,2018-04-12 17:05:43+00:00,,,,,
+130,forks,mongoid_moped,2018-07-24 01:09:17+00:00,,,,,
+131,forks,mongoid_moped,2018-08-09 02:39:04+00:00,,,,,
+132,forks,mongoid_moped,2019-03-31 01:33:54+00:00,,,,,
+133,forks,mongoid_moped,2019-06-14 21:02:53+00:00,,,,,
+134,forks,mongoid_moped,2020-07-28 04:39:14+00:00,,,,,
+135,forks,mongoid_moped,2021-01-23 05:54:49+00:00,,,,,
+0,issues,mongoid_moped,2012-05-22 07:24:25+00:00,,,,,
+1,issues,mongoid_moped,2012-05-30 19:44:01+00:00,,,,,
+2,issues,mongoid_moped,2012-05-31 04:13:51+00:00,,,,,
+3,issues,mongoid_moped,2012-05-31 14:51:19+00:00,,,,,
+4,issues,mongoid_moped,2012-06-01 21:30:39+00:00,,,,,
+5,issues,mongoid_moped,2012-06-05 15:11:38+00:00,,,,,
+6,issues,mongoid_moped,2012-06-10 05:55:01+00:00,,,,,
+7,issues,mongoid_moped,2012-06-10 08:06:30+00:00,,,,,
+8,issues,mongoid_moped,2012-06-12 08:44:53+00:00,,,,,
+9,issues,mongoid_moped,2012-06-12 13:11:35+00:00,,,,,
+10,issues,mongoid_moped,2012-06-15 11:54:17+00:00,,,,,
+11,issues,mongoid_moped,2012-06-26 10:33:28+00:00,,,,,
+12,issues,mongoid_moped,2012-07-05 10:04:29+00:00,,,,,
+13,issues,mongoid_moped,2012-07-06 10:57:17+00:00,,,,,
+14,issues,mongoid_moped,2012-07-06 12:14:43+00:00,,,,,
+15,issues,mongoid_moped,2012-07-06 19:48:19+00:00,,,,,
+16,issues,mongoid_moped,2012-07-13 23:52:13+00:00,,,,,
+17,issues,mongoid_moped,2012-07-15 04:46:57+00:00,,,,,
+18,issues,mongoid_moped,2012-07-15 20:23:36+00:00,,,,,
+19,issues,mongoid_moped,2012-07-20 18:02:06+00:00,,,,,
+20,issues,mongoid_moped,2012-07-21 19:56:53+00:00,,,,,
+21,issues,mongoid_moped,2012-07-23 16:15:38+00:00,,,,,
+22,issues,mongoid_moped,2012-07-24 07:06:30+00:00,,,,,
+23,issues,mongoid_moped,2012-07-26 18:17:20+00:00,,,,,
+24,issues,mongoid_moped,2012-07-27 22:49:49+00:00,,,,,
+25,issues,mongoid_moped,2012-07-29 18:43:51+00:00,,,,,
+26,issues,mongoid_moped,2012-08-06 10:14:16+00:00,,,,,
+27,issues,mongoid_moped,2012-08-11 15:04:51+00:00,,,,,
+28,issues,mongoid_moped,2012-08-11 23:22:02+00:00,,,,,
+29,issues,mongoid_moped,2012-08-13 14:09:46+00:00,,,,,
+30,issues,mongoid_moped,2012-08-14 14:24:02+00:00,,,,,
+31,issues,mongoid_moped,2012-08-14 23:41:18+00:00,,,,,
+32,issues,mongoid_moped,2012-08-21 10:27:35+00:00,,,,,
+33,issues,mongoid_moped,2012-08-28 22:24:23+00:00,,,,,
+34,issues,mongoid_moped,2012-08-29 12:22:46+00:00,,,,,
+35,issues,mongoid_moped,2012-08-29 15:45:27+00:00,,,,,
+36,issues,mongoid_moped,2012-08-30 08:46:41+00:00,,,,,
+37,issues,mongoid_moped,2012-08-31 09:39:56+00:00,,,,,
+38,issues,mongoid_moped,2012-09-02 14:37:19+00:00,,,,,
+39,issues,mongoid_moped,2012-09-08 12:32:10+00:00,,,,,
+40,issues,mongoid_moped,2012-09-14 06:53:40+00:00,,,,,
+41,issues,mongoid_moped,2012-09-17 06:04:34+00:00,,,,,
+42,issues,mongoid_moped,2012-09-26 21:07:58+00:00,,,,,
+43,issues,mongoid_moped,2012-09-30 16:58:25+00:00,,,,,
+44,issues,mongoid_moped,2012-10-05 08:35:29+00:00,,,,,
+45,issues,mongoid_moped,2012-10-05 13:52:31+00:00,,,,,
+46,issues,mongoid_moped,2012-10-05 22:14:20+00:00,,,,,
+47,issues,mongoid_moped,2012-10-06 04:34:50+00:00,,,,,
+48,issues,mongoid_moped,2012-10-06 13:21:35+00:00,,,,,
+49,issues,mongoid_moped,2012-10-08 13:10:57+00:00,,,,,
+50,issues,mongoid_moped,2012-10-08 18:40:15+00:00,,,,,
+51,issues,mongoid_moped,2012-10-09 17:36:51+00:00,,,,,
+52,issues,mongoid_moped,2012-10-15 20:49:14+00:00,,,,,
+53,issues,mongoid_moped,2012-10-17 02:33:24+00:00,,,,,
+54,issues,mongoid_moped,2012-10-23 15:54:59+00:00,,,,,
+55,issues,mongoid_moped,2012-10-28 13:59:07+00:00,,,,,
+56,issues,mongoid_moped,2012-10-29 14:34:00+00:00,,,,,
+57,issues,mongoid_moped,2012-10-31 19:02:07+00:00,,,,,
+58,issues,mongoid_moped,2012-10-31 22:22:53+00:00,,,,,
+59,issues,mongoid_moped,2012-11-01 15:51:25+00:00,,,,,
+60,issues,mongoid_moped,2012-11-02 17:12:20+00:00,,,,,
+61,issues,mongoid_moped,2012-11-06 15:44:51+00:00,,,,,
+62,issues,mongoid_moped,2012-11-12 16:18:18+00:00,,,,,
+63,issues,mongoid_moped,2012-11-15 13:42:17+00:00,,,,,
+64,issues,mongoid_moped,2012-11-19 20:35:43+00:00,,,,,
+65,issues,mongoid_moped,2012-11-22 03:10:39+00:00,,,,,
+66,issues,mongoid_moped,2012-11-27 14:52:04+00:00,,,,,
+67,issues,mongoid_moped,2012-11-30 11:52:53+00:00,,,,,
+68,issues,mongoid_moped,2012-12-01 18:16:57+00:00,,,,,
+69,issues,mongoid_moped,2012-12-04 07:12:30+00:00,,,,,
+70,issues,mongoid_moped,2012-12-07 19:17:22+00:00,,,,,
+71,issues,mongoid_moped,2012-12-10 13:15:23+00:00,,,,,
+72,issues,mongoid_moped,2012-12-10 13:28:58+00:00,,,,,
+73,issues,mongoid_moped,2012-12-11 19:20:09+00:00,,,,,
+74,issues,mongoid_moped,2012-12-11 20:31:44+00:00,,,,,
+75,issues,mongoid_moped,2012-12-16 14:49:40+00:00,,,,,
+76,issues,mongoid_moped,2012-12-21 02:06:32+00:00,,,,,
+77,issues,mongoid_moped,2012-12-21 12:10:33+00:00,,,,,
+78,issues,mongoid_moped,2013-01-11 14:53:02+00:00,,,,,
+79,issues,mongoid_moped,2013-01-11 17:17:32+00:00,,,,,
+80,issues,mongoid_moped,2013-01-21 02:35:45+00:00,,,,,
+81,issues,mongoid_moped,2013-01-21 20:10:52+00:00,,,,,
+82,issues,mongoid_moped,2013-01-23 13:26:03+00:00,,,,,
+83,issues,mongoid_moped,2013-01-23 15:56:48+00:00,,,,,
+84,issues,mongoid_moped,2013-01-29 15:53:06+00:00,,,,,
+85,issues,mongoid_moped,2013-02-06 09:40:41+00:00,,,,,
+86,issues,mongoid_moped,2013-02-06 15:33:23+00:00,,,,,
+87,issues,mongoid_moped,2013-02-06 16:56:23+00:00,,,,,
+88,issues,mongoid_moped,2013-02-09 15:16:01+00:00,,,,,
+89,issues,mongoid_moped,2013-02-12 15:22:05+00:00,,,,,
+90,issues,mongoid_moped,2013-02-12 17:55:20+00:00,,,,,
+91,issues,mongoid_moped,2013-02-22 18:23:23+00:00,,,,,
+92,issues,mongoid_moped,2013-02-27 22:33:23+00:00,,,,,
+93,issues,mongoid_moped,2013-03-04 14:23:42+00:00,,,,,
+94,issues,mongoid_moped,2013-03-12 16:50:04+00:00,,,,,
+95,issues,mongoid_moped,2013-03-13 14:05:33+00:00,,,,,
+96,issues,mongoid_moped,2013-03-15 21:50:22+00:00,,,,,
+97,issues,mongoid_moped,2013-03-18 18:36:01+00:00,,,,,
+98,issues,mongoid_moped,2013-03-18 21:47:04+00:00,,,,,
+99,issues,mongoid_moped,2013-03-19 14:25:26+00:00,,,,,
+100,issues,mongoid_moped,2013-03-20 18:07:06+00:00,,,,,
+101,issues,mongoid_moped,2013-03-22 18:30:38+00:00,,,,,
+102,issues,mongoid_moped,2013-03-27 04:32:03+00:00,,,,,
+103,issues,mongoid_moped,2013-04-03 05:45:55+00:00,,,,,
+104,issues,mongoid_moped,2013-04-03 19:26:51+00:00,,,,,
+105,issues,mongoid_moped,2013-04-06 16:00:04+00:00,,,,,
+106,issues,mongoid_moped,2013-04-07 10:49:49+00:00,,,,,
+107,issues,mongoid_moped,2013-04-08 23:47:44+00:00,,,,,
+108,issues,mongoid_moped,2013-04-18 06:43:30+00:00,,,,,
+109,issues,mongoid_moped,2013-04-18 21:02:51+00:00,,,,,
+110,issues,mongoid_moped,2013-04-22 16:18:44+00:00,,,,,
+111,issues,mongoid_moped,2013-04-25 10:03:19+00:00,,,,,
+112,issues,mongoid_moped,2013-04-25 14:55:40+00:00,,,,,
+113,issues,mongoid_moped,2013-04-30 00:55:53+00:00,,,,,
+114,issues,mongoid_moped,2013-05-08 04:48:15+00:00,,,,,
+115,issues,mongoid_moped,2013-05-31 18:19:12+00:00,,,,,
+116,issues,mongoid_moped,2013-06-06 16:06:08+00:00,,,,,
+117,issues,mongoid_moped,2013-06-07 13:56:43+00:00,,,,,
+118,issues,mongoid_moped,2013-06-19 20:42:24+00:00,,,,,
+119,issues,mongoid_moped,2013-06-25 13:13:28+00:00,,,,,
+120,issues,mongoid_moped,2013-06-26 09:35:14+00:00,,,,,
+121,issues,mongoid_moped,2013-07-09 15:54:47+00:00,,,,,
+122,issues,mongoid_moped,2013-07-17 04:52:39+00:00,,,,,
+123,issues,mongoid_moped,2013-07-18 20:41:26+00:00,,,,,
+124,issues,mongoid_moped,2013-07-19 17:28:44+00:00,,,,,
+125,issues,mongoid_moped,2013-07-23 07:45:55+00:00,,,,,
+126,issues,mongoid_moped,2013-07-24 10:25:34+00:00,,,,,
+127,issues,mongoid_moped,2013-07-29 00:49:48+00:00,,,,,
+128,issues,mongoid_moped,2013-08-04 19:27:18+00:00,,,,,
+129,issues,mongoid_moped,2013-09-02 23:07:09+00:00,,,,,
+130,issues,mongoid_moped,2013-09-24 21:49:58+00:00,,,,,
+131,issues,mongoid_moped,2013-09-26 12:03:17+00:00,,,,,
+132,issues,mongoid_moped,2013-10-01 16:58:01+00:00,,,,,
+133,issues,mongoid_moped,2013-10-04 00:22:02+00:00,,,,,
+134,issues,mongoid_moped,2013-10-06 17:32:40+00:00,,,,,
+135,issues,mongoid_moped,2013-10-07 00:33:31+00:00,,,,,
+136,issues,mongoid_moped,2013-10-08 10:45:18+00:00,,,,,
+137,issues,mongoid_moped,2013-10-09 12:19:36+00:00,,,,,
+138,issues,mongoid_moped,2013-10-15 15:36:22+00:00,,,,,
+139,issues,mongoid_moped,2013-10-23 07:19:32+00:00,,,,,
+140,issues,mongoid_moped,2013-11-16 20:59:24+00:00,,,,,
+141,issues,mongoid_moped,2013-11-18 12:13:39+00:00,,,,,
+142,issues,mongoid_moped,2013-11-18 19:48:19+00:00,,,,,
+143,issues,mongoid_moped,2013-11-19 03:40:20+00:00,,,,,
+144,issues,mongoid_moped,2013-11-21 08:41:15+00:00,,,,,
+145,issues,mongoid_moped,2013-11-21 18:58:19+00:00,,,,,
+146,issues,mongoid_moped,2013-11-22 09:56:01+00:00,,,,,
+147,issues,mongoid_moped,2013-11-29 10:32:10+00:00,,,,,
+148,issues,mongoid_moped,2013-11-29 17:39:39+00:00,,,,,
+149,issues,mongoid_moped,2013-12-03 16:19:46+00:00,,,,,
+150,issues,mongoid_moped,2013-12-04 06:32:19+00:00,,,,,
+151,issues,mongoid_moped,2013-12-09 12:42:13+00:00,,,,,
+152,issues,mongoid_moped,2013-12-15 14:59:33+00:00,,,,,
+153,issues,mongoid_moped,2013-12-23 04:19:54+00:00,,,,,
+154,issues,mongoid_moped,2013-12-24 23:47:36+00:00,,,,,
+155,issues,mongoid_moped,2013-12-27 17:11:05+00:00,,,,,
+156,issues,mongoid_moped,2014-01-12 21:16:43+00:00,,,,,
+157,issues,mongoid_moped,2014-01-20 01:13:38+00:00,,,,,
+158,issues,mongoid_moped,2014-01-23 07:26:28+00:00,,,,,
+159,issues,mongoid_moped,2014-02-06 19:48:04+00:00,,,,,
+160,issues,mongoid_moped,2014-02-11 15:04:33+00:00,,,,,
+161,issues,mongoid_moped,2014-02-17 23:55:43+00:00,,,,,
+162,issues,mongoid_moped,2014-02-25 23:23:15+00:00,,,,,
+163,issues,mongoid_moped,2014-02-27 15:22:51+00:00,,,,,
+164,issues,mongoid_moped,2014-03-17 09:30:09+00:00,,,,,
+165,issues,mongoid_moped,2014-03-19 16:36:16+00:00,,,,,
+166,issues,mongoid_moped,2014-03-19 17:43:08+00:00,,,,,
+167,issues,mongoid_moped,2014-03-22 00:27:59+00:00,,,,,
+168,issues,mongoid_moped,2014-04-01 00:16:08+00:00,,,,,
+169,issues,mongoid_moped,2014-04-23 13:26:07+00:00,,,,,
+170,issues,mongoid_moped,2014-04-24 21:20:51+00:00,,,,,
+171,issues,mongoid_moped,2014-04-25 11:52:47+00:00,,,,,
+172,issues,mongoid_moped,2014-04-25 20:33:22+00:00,,,,,
+173,issues,mongoid_moped,2014-04-28 10:18:34+00:00,,,,,
+174,issues,mongoid_moped,2014-05-05 06:14:46+00:00,,,,,
+175,issues,mongoid_moped,2014-05-20 11:38:08+00:00,,,,,
+176,issues,mongoid_moped,2014-05-20 14:20:07+00:00,,,,,
+177,issues,mongoid_moped,2014-06-08 20:25:40+00:00,,,,,
+178,issues,mongoid_moped,2014-06-15 11:46:29+00:00,,,,,
+179,issues,mongoid_moped,2014-06-16 02:12:43+00:00,,,,,
+180,issues,mongoid_moped,2014-06-27 18:05:18+00:00,,,,,
+181,issues,mongoid_moped,2014-06-28 20:29:13+00:00,,,,,
+182,issues,mongoid_moped,2014-07-07 18:28:09+00:00,,,,,
+183,issues,mongoid_moped,2014-07-20 20:40:16+00:00,,,,,
+184,issues,mongoid_moped,2014-07-23 19:22:41+00:00,,,,,
+185,issues,mongoid_moped,2014-08-06 23:21:09+00:00,,,,,
+186,issues,mongoid_moped,2014-08-13 08:56:57+00:00,,,,,
+187,issues,mongoid_moped,2014-08-20 10:20:36+00:00,,,,,
+188,issues,mongoid_moped,2014-09-09 00:58:19+00:00,,,,,
+189,issues,mongoid_moped,2014-09-28 20:34:42+00:00,,,,,
+190,issues,mongoid_moped,2014-09-30 12:30:40+00:00,,,,,
+191,issues,mongoid_moped,2014-10-03 21:42:09+00:00,,,,,
+192,issues,mongoid_moped,2014-10-20 18:27:14+00:00,,,,,
+193,issues,mongoid_moped,2014-10-21 13:28:17+00:00,,,,,
+194,issues,mongoid_moped,2014-10-22 08:10:29+00:00,,,,,
+195,issues,mongoid_moped,2014-11-21 14:32:27+00:00,,,,,
+196,issues,mongoid_moped,2014-12-02 15:15:48+00:00,,,,,
+197,issues,mongoid_moped,2014-12-08 20:53:01+00:00,,,,,
+198,issues,mongoid_moped,2014-12-09 23:46:09+00:00,,,,,
+199,issues,mongoid_moped,2015-01-02 19:30:10+00:00,,,,,
+200,issues,mongoid_moped,2015-01-10 19:05:43+00:00,,,,,
+201,issues,mongoid_moped,2015-01-23 18:53:21+00:00,,,,,
+202,issues,mongoid_moped,2015-01-26 15:29:26+00:00,,,,,
+203,issues,mongoid_moped,2015-02-02 20:48:50+00:00,,,,,
+204,issues,mongoid_moped,2015-02-05 23:34:20+00:00,,,,,
+205,issues,mongoid_moped,2015-02-08 12:35:52+00:00,,,,,
+206,issues,mongoid_moped,2015-02-09 16:42:59+00:00,,,,,
+207,issues,mongoid_moped,2015-02-25 21:49:19+00:00,,,,,
+208,issues,mongoid_moped,2015-03-05 14:40:43+00:00,,,,,
+209,issues,mongoid_moped,2015-03-09 18:57:31+00:00,,,,,
+210,issues,mongoid_moped,2015-03-13 19:29:40+00:00,,,,,
+211,issues,mongoid_moped,2015-04-07 18:25:55+00:00,,,,,
+212,issues,mongoid_moped,2015-04-16 16:02:46+00:00,,,,,
+213,issues,mongoid_moped,2015-04-16 19:00:15+00:00,,,,,
+214,issues,mongoid_moped,2015-04-23 22:04:13+00:00,,,,,
+215,issues,mongoid_moped,2015-04-24 15:45:52+00:00,,,,,
+216,issues,mongoid_moped,2015-05-06 23:12:58+00:00,,,,,
+217,issues,mongoid_moped,2015-05-12 09:57:19+00:00,,,,,
+218,issues,mongoid_moped,2015-05-14 17:27:14+00:00,,,,,
+219,issues,mongoid_moped,2015-05-15 16:24:13+00:00,,,,,
+220,issues,mongoid_moped,2015-06-07 13:49:08+00:00,,,,,
+221,issues,mongoid_moped,2015-07-17 13:17:35+00:00,,,,,
+222,issues,mongoid_moped,2015-07-20 01:00:51+00:00,,,,,
+223,issues,mongoid_moped,2015-08-16 02:26:35+00:00,,,,,
+224,issues,mongoid_moped,2015-08-18 02:48:09+00:00,,,,,
+225,issues,mongoid_moped,2015-08-21 03:46:18+00:00,,,,,
+226,issues,mongoid_moped,2015-09-01 00:02:56+00:00,,,,,
+227,issues,mongoid_moped,2015-09-23 15:11:18+00:00,,,,,
+228,issues,mongoid_moped,2015-10-23 15:37:40+00:00,,,,,
+229,issues,mongoid_moped,2015-10-27 23:39:09+00:00,,,,,
+230,issues,mongoid_moped,2015-12-06 09:34:04+00:00,,,,,
+231,issues,mongoid_moped,2015-12-12 18:04:54+00:00,,,,,
+232,issues,mongoid_moped,2016-02-11 16:42:32+00:00,,,,,
+233,issues,mongoid_moped,2016-02-12 20:45:28+00:00,,,,,
+234,issues,mongoid_moped,2016-07-13 07:07:31+00:00,,,,,
+235,issues,mongoid_moped,2016-07-14 17:11:41+00:00,,,,,
+236,issues,mongoid_moped,2017-03-28 02:22:22+00:00,,,,,
+237,issues,mongoid_moped,2018-07-17 17:43:17+00:00,,,,,
+0,pullRequests,mongoid_moped,2012-02-06 08:50:02+00:00,,,,,
+1,pullRequests,mongoid_moped,2012-02-29 13:35:29+00:00,,,,,
+2,pullRequests,mongoid_moped,2012-02-29 14:09:37+00:00,,,,,
+3,pullRequests,mongoid_moped,2012-04-16 22:34:51+00:00,,,,,
+4,pullRequests,mongoid_moped,2012-04-19 22:47:59+00:00,,,,,
+5,pullRequests,mongoid_moped,2012-04-26 13:35:11+00:00,,,,,
+6,pullRequests,mongoid_moped,2012-05-06 13:55:57+00:00,,,,,
+7,pullRequests,mongoid_moped,2012-05-10 14:14:51+00:00,,,,,
+8,pullRequests,mongoid_moped,2012-06-01 23:43:43+00:00,,,,,
+9,pullRequests,mongoid_moped,2012-06-03 20:00:10+00:00,,,,,
+10,pullRequests,mongoid_moped,2012-06-06 00:38:48+00:00,,,,,
+11,pullRequests,mongoid_moped,2012-06-06 18:30:27+00:00,,,,,
+12,pullRequests,mongoid_moped,2012-06-08 21:48:11+00:00,,,,,
+13,pullRequests,mongoid_moped,2012-06-12 07:42:16+00:00,,,,,
+14,pullRequests,mongoid_moped,2012-06-26 23:58:35+00:00,,,,,
+15,pullRequests,mongoid_moped,2012-06-27 00:03:07+00:00,,,,,
+16,pullRequests,mongoid_moped,2012-06-28 14:14:37+00:00,,,,,
+17,pullRequests,mongoid_moped,2012-07-04 09:17:51+00:00,,,,,
+18,pullRequests,mongoid_moped,2012-07-15 11:43:33+00:00,,,,,
+19,pullRequests,mongoid_moped,2012-07-20 14:35:57+00:00,,,,,
+20,pullRequests,mongoid_moped,2012-07-24 09:30:31+00:00,,,,,
+21,pullRequests,mongoid_moped,2012-07-26 23:21:18+00:00,,,,,
+22,pullRequests,mongoid_moped,2012-07-28 15:11:53+00:00,,,,,
+23,pullRequests,mongoid_moped,2012-07-31 21:33:21+00:00,,,,,
+24,pullRequests,mongoid_moped,2012-08-02 12:01:29+00:00,,,,,
+25,pullRequests,mongoid_moped,2012-08-06 19:11:30+00:00,,,,,
+26,pullRequests,mongoid_moped,2012-08-09 16:55:13+00:00,,,,,
+27,pullRequests,mongoid_moped,2012-08-13 19:50:59+00:00,,,,,
+28,pullRequests,mongoid_moped,2012-08-13 19:58:48+00:00,,,,,
+29,pullRequests,mongoid_moped,2012-08-16 12:22:18+00:00,,,,,
+30,pullRequests,mongoid_moped,2012-08-22 08:06:56+00:00,,,,,
+31,pullRequests,mongoid_moped,2012-08-27 22:54:04+00:00,,,,,
+32,pullRequests,mongoid_moped,2012-09-12 11:10:54+00:00,,,,,
+33,pullRequests,mongoid_moped,2012-09-23 14:52:55+00:00,,,,,
+34,pullRequests,mongoid_moped,2012-09-24 01:13:13+00:00,,,,,
+35,pullRequests,mongoid_moped,2012-09-25 21:42:05+00:00,,,,,
+36,pullRequests,mongoid_moped,2012-09-27 07:20:26+00:00,,,,,
+37,pullRequests,mongoid_moped,2012-09-27 15:28:48+00:00,,,,,
+38,pullRequests,mongoid_moped,2012-10-02 22:30:51+00:00,,,,,
+39,pullRequests,mongoid_moped,2012-10-05 10:11:21+00:00,,,,,
+40,pullRequests,mongoid_moped,2012-10-07 22:05:13+00:00,,,,,
+41,pullRequests,mongoid_moped,2012-10-08 05:34:55+00:00,,,,,
+42,pullRequests,mongoid_moped,2012-10-08 05:36:38+00:00,,,,,
+43,pullRequests,mongoid_moped,2012-10-10 08:22:39+00:00,,,,,
+44,pullRequests,mongoid_moped,2012-10-11 12:37:48+00:00,,,,,
+45,pullRequests,mongoid_moped,2012-10-11 15:30:10+00:00,,,,,
+46,pullRequests,mongoid_moped,2012-10-16 19:36:15+00:00,,,,,
+47,pullRequests,mongoid_moped,2012-10-25 15:12:57+00:00,,,,,
+48,pullRequests,mongoid_moped,2012-11-16 00:07:25+00:00,,,,,
+49,pullRequests,mongoid_moped,2012-11-16 05:48:50+00:00,,,,,
+50,pullRequests,mongoid_moped,2012-11-20 15:18:47+00:00,,,,,
+51,pullRequests,mongoid_moped,2012-11-22 15:09:18+00:00,,,,,
+52,pullRequests,mongoid_moped,2012-12-05 11:28:08+00:00,,,,,
+53,pullRequests,mongoid_moped,2012-12-07 20:15:48+00:00,,,,,
+54,pullRequests,mongoid_moped,2012-12-14 18:16:45+00:00,,,,,
+55,pullRequests,mongoid_moped,2013-01-09 12:08:44+00:00,,,,,
+56,pullRequests,mongoid_moped,2013-01-11 17:18:05+00:00,,,,,
+57,pullRequests,mongoid_moped,2013-01-20 10:10:43+00:00,,,,,
+58,pullRequests,mongoid_moped,2013-01-31 05:39:51+00:00,,,,,
+59,pullRequests,mongoid_moped,2013-02-14 08:42:50+00:00,,,,,
+60,pullRequests,mongoid_moped,2013-02-14 15:07:03+00:00,,,,,
+61,pullRequests,mongoid_moped,2013-02-14 15:16:56+00:00,,,,,
+62,pullRequests,mongoid_moped,2013-02-23 03:09:31+00:00,,,,,
+63,pullRequests,mongoid_moped,2013-02-27 23:08:17+00:00,,,,,
+64,pullRequests,mongoid_moped,2013-03-09 23:09:43+00:00,,,,,
+65,pullRequests,mongoid_moped,2013-03-15 02:59:46+00:00,,,,,
+66,pullRequests,mongoid_moped,2013-03-15 03:12:40+00:00,,,,,
+67,pullRequests,mongoid_moped,2013-03-19 03:41:21+00:00,,,,,
+68,pullRequests,mongoid_moped,2013-03-22 01:58:26+00:00,,,,,
+69,pullRequests,mongoid_moped,2013-03-25 02:42:59+00:00,,,,,
+70,pullRequests,mongoid_moped,2013-03-27 14:40:39+00:00,,,,,
+71,pullRequests,mongoid_moped,2013-03-31 00:29:20+00:00,,,,,
+72,pullRequests,mongoid_moped,2013-04-15 22:22:08+00:00,,,,,
+73,pullRequests,mongoid_moped,2013-04-30 02:24:45+00:00,,,,,
+74,pullRequests,mongoid_moped,2013-05-01 11:31:41+00:00,,,,,
+75,pullRequests,mongoid_moped,2013-05-01 11:34:01+00:00,,,,,
+76,pullRequests,mongoid_moped,2013-05-03 20:05:44+00:00,,,,,
+77,pullRequests,mongoid_moped,2013-05-06 17:50:05+00:00,,,,,
+78,pullRequests,mongoid_moped,2013-05-17 21:41:43+00:00,,,,,
+79,pullRequests,mongoid_moped,2013-07-10 12:54:57+00:00,,,,,
+80,pullRequests,mongoid_moped,2013-07-25 15:05:30+00:00,,,,,
+81,pullRequests,mongoid_moped,2013-08-06 16:05:18+00:00,,,,,
+82,pullRequests,mongoid_moped,2013-09-21 21:23:15+00:00,,,,,
+83,pullRequests,mongoid_moped,2013-09-24 04:31:40+00:00,,,,,
+84,pullRequests,mongoid_moped,2013-09-27 02:54:16+00:00,,,,,
+85,pullRequests,mongoid_moped,2013-10-28 22:35:23+00:00,,,,,
+86,pullRequests,mongoid_moped,2013-10-30 15:34:57+00:00,,,,,
+87,pullRequests,mongoid_moped,2013-11-03 01:52:50+00:00,,,,,
+88,pullRequests,mongoid_moped,2013-11-05 15:36:10+00:00,,,,,
+89,pullRequests,mongoid_moped,2013-11-09 19:17:40+00:00,,,,,
+90,pullRequests,mongoid_moped,2013-11-27 17:03:37+00:00,,,,,
+91,pullRequests,mongoid_moped,2013-12-01 08:53:51+00:00,,,,,
+92,pullRequests,mongoid_moped,2014-01-18 14:39:27+00:00,,,,,
+93,pullRequests,mongoid_moped,2014-01-18 14:44:13+00:00,,,,,
+94,pullRequests,mongoid_moped,2014-01-26 13:34:51+00:00,,,,,
+95,pullRequests,mongoid_moped,2014-02-11 13:49:16+00:00,,,,,
+96,pullRequests,mongoid_moped,2014-02-19 23:41:04+00:00,,,,,
+97,pullRequests,mongoid_moped,2014-02-20 00:23:40+00:00,,,,,
+98,pullRequests,mongoid_moped,2014-02-20 22:06:42+00:00,,,,,
+99,pullRequests,mongoid_moped,2014-02-27 21:46:04+00:00,,,,,
+100,pullRequests,mongoid_moped,2014-03-10 14:11:34+00:00,,,,,
+101,pullRequests,mongoid_moped,2014-03-22 00:35:41+00:00,,,,,
+102,pullRequests,mongoid_moped,2014-03-22 01:42:28+00:00,,,,,
+103,pullRequests,mongoid_moped,2014-03-24 23:40:15+00:00,,,,,
+104,pullRequests,mongoid_moped,2014-04-25 18:44:57+00:00,,,,,
+105,pullRequests,mongoid_moped,2014-06-10 03:28:31+00:00,,,,,
+106,pullRequests,mongoid_moped,2014-06-10 03:29:32+00:00,,,,,
+107,pullRequests,mongoid_moped,2014-06-10 14:47:51+00:00,,,,,
+108,pullRequests,mongoid_moped,2014-07-02 17:54:00+00:00,,,,,
+109,pullRequests,mongoid_moped,2014-07-02 23:31:50+00:00,,,,,
+110,pullRequests,mongoid_moped,2014-07-02 23:31:58+00:00,,,,,
+111,pullRequests,mongoid_moped,2014-07-02 23:43:11+00:00,,,,,
+112,pullRequests,mongoid_moped,2014-07-02 23:45:12+00:00,,,,,
+113,pullRequests,mongoid_moped,2014-07-02 23:55:28+00:00,,,,,
+114,pullRequests,mongoid_moped,2014-07-02 23:58:04+00:00,,,,,
+115,pullRequests,mongoid_moped,2014-07-10 22:28:51+00:00,,,,,
+116,pullRequests,mongoid_moped,2014-07-29 15:00:31+00:00,,,,,
+117,pullRequests,mongoid_moped,2014-07-29 15:00:37+00:00,,,,,
+118,pullRequests,mongoid_moped,2014-07-31 00:16:40+00:00,,,,,
+119,pullRequests,mongoid_moped,2014-08-14 13:23:01+00:00,,,,,
+120,pullRequests,mongoid_moped,2014-08-25 13:12:15+00:00,,,,,
+121,pullRequests,mongoid_moped,2014-08-26 22:48:16+00:00,,,,,
+122,pullRequests,mongoid_moped,2014-08-30 09:29:36+00:00,,,,,
+123,pullRequests,mongoid_moped,2014-09-04 19:27:29+00:00,,,,,
+124,pullRequests,mongoid_moped,2014-09-04 19:27:56+00:00,,,,,
+125,pullRequests,mongoid_moped,2014-09-18 14:48:16+00:00,,,,,
+126,pullRequests,mongoid_moped,2014-09-18 14:49:47+00:00,,,,,
+127,pullRequests,mongoid_moped,2014-09-19 12:55:59+00:00,,,,,
+128,pullRequests,mongoid_moped,2014-09-20 23:15:31+00:00,,,,,
+129,pullRequests,mongoid_moped,2014-09-22 13:35:21+00:00,,,,,
+130,pullRequests,mongoid_moped,2014-09-22 14:54:13+00:00,,,,,
+131,pullRequests,mongoid_moped,2014-10-04 20:03:50+00:00,,,,,
+132,pullRequests,mongoid_moped,2014-10-21 13:26:09+00:00,,,,,
+133,pullRequests,mongoid_moped,2014-10-21 20:48:07+00:00,,,,,
+134,pullRequests,mongoid_moped,2014-10-22 01:33:15+00:00,,,,,
+135,pullRequests,mongoid_moped,2014-11-03 17:19:16+00:00,,,,,
+136,pullRequests,mongoid_moped,2014-12-08 23:31:32+00:00,,,,,
+137,pullRequests,mongoid_moped,2014-12-15 10:18:39+00:00,,,,,
+138,pullRequests,mongoid_moped,2014-12-17 22:16:01+00:00,,,,,
+139,pullRequests,mongoid_moped,2015-01-05 22:10:28+00:00,,,,,
+140,pullRequests,mongoid_moped,2015-01-22 22:16:02+00:00,,,,,
+141,pullRequests,mongoid_moped,2015-02-07 17:37:31+00:00,,,,,
+142,pullRequests,mongoid_moped,2015-02-11 23:21:14+00:00,,,,,
+143,pullRequests,mongoid_moped,2015-02-12 02:43:07+00:00,,,,,
+144,pullRequests,mongoid_moped,2015-02-12 02:45:00+00:00,,,,,
+145,pullRequests,mongoid_moped,2015-02-12 16:35:53+00:00,,,,,
+146,pullRequests,mongoid_moped,2015-02-27 16:23:16+00:00,,,,,
+147,pullRequests,mongoid_moped,2015-03-23 03:44:17+00:00,,,,,
+148,pullRequests,mongoid_moped,2015-04-02 17:35:11+00:00,,,,,
+149,pullRequests,mongoid_moped,2015-04-13 21:35:59+00:00,,,,,
+150,pullRequests,mongoid_moped,2015-04-19 01:20:14+00:00,,,,,
+151,pullRequests,mongoid_moped,2015-04-20 14:12:05+00:00,,,,,
+152,pullRequests,mongoid_moped,2015-04-24 21:11:16+00:00,,,,,
+153,pullRequests,mongoid_moped,2015-04-29 06:18:07+00:00,,,,,
+154,pullRequests,mongoid_moped,2015-04-29 08:41:31+00:00,,,,,
+155,pullRequests,mongoid_moped,2015-05-29 22:58:42+00:00,,,,,
+156,pullRequests,mongoid_moped,2015-06-05 22:30:04+00:00,,,,,
+157,pullRequests,mongoid_moped,2015-06-15 15:25:47+00:00,,,,,
+158,pullRequests,mongoid_moped,2015-06-16 13:49:19+00:00,,,,,
+159,pullRequests,mongoid_moped,2015-08-13 15:13:28+00:00,,,,,
+160,pullRequests,mongoid_moped,2015-08-16 02:35:50+00:00,,,,,
+161,pullRequests,mongoid_moped,2015-08-28 09:23:30+00:00,,,,,
+162,pullRequests,mongoid_moped,2016-04-27 07:54:44+00:00,,,,,
+163,pullRequests,mongoid_moped,2016-05-21 07:50:57+00:00,,,,,
+164,pullRequests,mongoid_moped,2018-04-12 17:59:03+00:00,,,,,
+165,pullRequests,mongoid_moped,2019-03-31 02:42:52+00:00,,,,,
+0,stargazers,mongoid_moped,2011-12-15 14:32:30+00:00,,,,,
+1,stargazers,mongoid_moped,2011-12-15 14:32:30+00:00,,,,,
+2,stargazers,mongoid_moped,2011-12-15 14:32:30+00:00,,,,,
+3,stargazers,mongoid_moped,2011-12-15 14:32:30+00:00,,,,,
+4,stargazers,mongoid_moped,2011-12-15 14:32:30+00:00,,,,,
+5,stargazers,mongoid_moped,2011-12-15 14:32:30+00:00,,,,,
+6,stargazers,mongoid_moped,2011-12-15 14:32:30+00:00,,,,,
+7,stargazers,mongoid_moped,2011-12-15 14:32:30+00:00,,,,,
+8,stargazers,mongoid_moped,2011-12-15 14:32:30+00:00,,,,,
+9,stargazers,mongoid_moped,2011-12-15 14:32:30+00:00,,,,,
+10,stargazers,mongoid_moped,2011-12-15 14:32:30+00:00,,,,,
+11,stargazers,mongoid_moped,2011-12-15 14:32:30+00:00,,,,,
+12,stargazers,mongoid_moped,2011-12-15 14:32:30+00:00,,,,,
+13,stargazers,mongoid_moped,2011-12-15 14:32:30+00:00,,,,,
+14,stargazers,mongoid_moped,2011-12-15 14:32:30+00:00,,,,,
+15,stargazers,mongoid_moped,2011-12-15 14:32:30+00:00,,,,,
+16,stargazers,mongoid_moped,2011-12-15 14:32:30+00:00,,,,,
+17,stargazers,mongoid_moped,2011-12-15 14:32:30+00:00,,,,,
+18,stargazers,mongoid_moped,2011-12-15 14:32:30+00:00,,,,,
+19,stargazers,mongoid_moped,2011-12-15 14:32:30+00:00,,,,,
+20,stargazers,mongoid_moped,2011-12-15 14:32:30+00:00,,,,,
+21,stargazers,mongoid_moped,2011-12-15 14:32:30+00:00,,,,,
+22,stargazers,mongoid_moped,2011-12-15 14:32:30+00:00,,,,,
+23,stargazers,mongoid_moped,2011-12-15 14:32:30+00:00,,,,,
+24,stargazers,mongoid_moped,2011-12-15 14:32:30+00:00,,,,,
+25,stargazers,mongoid_moped,2011-12-15 14:32:30+00:00,,,,,
+26,stargazers,mongoid_moped,2011-12-15 14:32:30+00:00,,,,,
+27,stargazers,mongoid_moped,2011-12-15 14:32:30+00:00,,,,,
+28,stargazers,mongoid_moped,2011-12-15 14:32:30+00:00,,,,,
+29,stargazers,mongoid_moped,2011-12-15 14:32:30+00:00,,,,,
+30,stargazers,mongoid_moped,2011-12-15 14:32:30+00:00,,,,,
+31,stargazers,mongoid_moped,2011-12-15 14:32:30+00:00,,,,,
+32,stargazers,mongoid_moped,2011-12-15 14:32:30+00:00,,,,,
+33,stargazers,mongoid_moped,2011-12-15 14:32:30+00:00,,,,,
+34,stargazers,mongoid_moped,2011-12-15 14:32:30+00:00,,,,,
+35,stargazers,mongoid_moped,2011-12-15 14:32:30+00:00,,,,,
+36,stargazers,mongoid_moped,2011-12-15 14:32:30+00:00,,,,,
+37,stargazers,mongoid_moped,2011-12-15 14:32:30+00:00,,,,,
+38,stargazers,mongoid_moped,2011-12-15 14:32:30+00:00,,,,,
+39,stargazers,mongoid_moped,2011-12-15 14:32:30+00:00,,,,,
+40,stargazers,mongoid_moped,2011-12-15 14:32:30+00:00,,,,,
+41,stargazers,mongoid_moped,2011-12-15 14:32:30+00:00,,,,,
+42,stargazers,mongoid_moped,2011-12-15 14:32:30+00:00,,,,,
+43,stargazers,mongoid_moped,2011-12-15 14:32:30+00:00,,,,,
+44,stargazers,mongoid_moped,2011-12-15 14:32:30+00:00,,,,,
+45,stargazers,mongoid_moped,2011-12-15 14:32:30+00:00,,,,,
+46,stargazers,mongoid_moped,2011-12-15 14:32:30+00:00,,,,,
+47,stargazers,mongoid_moped,2011-12-15 14:32:30+00:00,,,,,
+48,stargazers,mongoid_moped,2011-12-15 14:32:30+00:00,,,,,
+49,stargazers,mongoid_moped,2011-12-15 14:32:30+00:00,,,,,
+50,stargazers,mongoid_moped,2011-12-15 14:32:30+00:00,,,,,
+51,stargazers,mongoid_moped,2011-12-15 14:32:30+00:00,,,,,
+52,stargazers,mongoid_moped,2011-12-15 14:32:30+00:00,,,,,
+53,stargazers,mongoid_moped,2011-12-15 14:32:30+00:00,,,,,
+54,stargazers,mongoid_moped,2011-12-15 14:32:30+00:00,,,,,
+55,stargazers,mongoid_moped,2011-12-15 14:32:30+00:00,,,,,
+56,stargazers,mongoid_moped,2013-01-03 16:12:22+00:00,,,,,
+57,stargazers,mongoid_moped,2011-12-15 14:32:30+00:00,,,,,
+58,stargazers,mongoid_moped,2011-12-15 14:32:30+00:00,,,,,
+59,stargazers,mongoid_moped,2011-12-15 14:32:30+00:00,,,,,
+60,stargazers,mongoid_moped,2011-12-15 14:32:30+00:00,,,,,
+61,stargazers,mongoid_moped,2011-12-15 14:32:30+00:00,,,,,
+62,stargazers,mongoid_moped,2011-12-15 14:32:30+00:00,,,,,
+63,stargazers,mongoid_moped,2011-12-15 14:32:30+00:00,,,,,
+64,stargazers,mongoid_moped,2011-12-15 14:32:30+00:00,,,,,
+65,stargazers,mongoid_moped,2011-12-15 14:32:30+00:00,,,,,
+66,stargazers,mongoid_moped,2011-12-15 14:32:30+00:00,,,,,
+67,stargazers,mongoid_moped,2011-12-15 14:32:30+00:00,,,,,
+68,stargazers,mongoid_moped,2011-12-15 14:32:30+00:00,,,,,
+69,stargazers,mongoid_moped,2011-12-15 14:32:30+00:00,,,,,
+70,stargazers,mongoid_moped,2011-12-15 14:32:30+00:00,,,,,
+71,stargazers,mongoid_moped,2011-12-15 14:32:30+00:00,,,,,
+72,stargazers,mongoid_moped,2011-12-15 14:32:30+00:00,,,,,
+73,stargazers,mongoid_moped,2011-12-15 14:32:30+00:00,,,,,
+74,stargazers,mongoid_moped,2011-12-15 14:32:30+00:00,,,,,
+75,stargazers,mongoid_moped,2011-12-15 14:32:30+00:00,,,,,
+76,stargazers,mongoid_moped,2011-12-15 14:32:30+00:00,,,,,
+77,stargazers,mongoid_moped,2011-12-15 14:32:30+00:00,,,,,
+78,stargazers,mongoid_moped,2011-12-15 14:32:30+00:00,,,,,
+79,stargazers,mongoid_moped,2011-12-15 14:32:30+00:00,,,,,
+80,stargazers,mongoid_moped,2011-12-15 14:32:30+00:00,,,,,
+81,stargazers,mongoid_moped,2011-12-15 14:32:30+00:00,,,,,
+82,stargazers,mongoid_moped,2011-12-15 14:32:30+00:00,,,,,
+83,stargazers,mongoid_moped,2011-12-15 14:32:30+00:00,,,,,
+84,stargazers,mongoid_moped,2011-12-15 14:32:30+00:00,,,,,
+85,stargazers,mongoid_moped,2011-12-15 14:32:30+00:00,,,,,
+86,stargazers,mongoid_moped,2011-12-15 14:32:30+00:00,,,,,
+87,stargazers,mongoid_moped,2012-05-22 16:40:01+00:00,,,,,
+88,stargazers,mongoid_moped,2012-05-22 18:01:32+00:00,,,,,
+89,stargazers,mongoid_moped,2012-05-30 09:12:36+00:00,,,,,
+90,stargazers,mongoid_moped,2013-02-11 14:59:55+00:00,,,,,
+91,stargazers,mongoid_moped,2013-02-22 18:30:54+00:00,,,,,
+92,stargazers,mongoid_moped,2013-03-05 02:22:50+00:00,,,,,
+93,stargazers,mongoid_moped,2013-03-12 18:23:05+00:00,,,,,
+94,stargazers,mongoid_moped,2013-03-30 19:48:14+00:00,,,,,
+95,stargazers,mongoid_moped,2013-04-02 02:04:50+00:00,,,,,
+96,stargazers,mongoid_moped,2013-04-30 07:57:17+00:00,,,,,
+97,stargazers,mongoid_moped,2013-06-14 22:03:04+00:00,,,,,
+98,stargazers,mongoid_moped,2013-06-25 19:53:43+00:00,,,,,
+99,stargazers,mongoid_moped,2013-06-26 13:50:14+00:00,,,,,
+100,stargazers,mongoid_moped,2013-07-02 18:08:18+00:00,,,,,
+101,stargazers,mongoid_moped,2013-08-05 06:48:06+00:00,,,,,
+102,stargazers,mongoid_moped,2013-08-13 01:33:11+00:00,,,,,
+103,stargazers,mongoid_moped,2013-08-16 03:01:46+00:00,,,,,
+104,stargazers,mongoid_moped,2013-08-20 14:27:14+00:00,,,,,
+105,stargazers,mongoid_moped,2013-08-22 07:46:18+00:00,,,,,
+106,stargazers,mongoid_moped,2013-09-27 17:25:19+00:00,,,,,
+107,stargazers,mongoid_moped,2013-10-02 14:25:01+00:00,,,,,
+108,stargazers,mongoid_moped,2013-10-19 04:40:45+00:00,,,,,
+109,stargazers,mongoid_moped,2013-10-28 20:06:09+00:00,,,,,
+110,stargazers,mongoid_moped,2013-11-01 15:55:33+00:00,,,,,
+111,stargazers,mongoid_moped,2013-11-08 20:11:39+00:00,,,,,
+112,stargazers,mongoid_moped,2013-11-15 18:35:46+00:00,,,,,
+113,stargazers,mongoid_moped,2013-11-20 03:30:05+00:00,,,,,
+114,stargazers,mongoid_moped,2013-11-23 17:05:44+00:00,,,,,
+115,stargazers,mongoid_moped,2013-12-02 22:20:08+00:00,,,,,
+116,stargazers,mongoid_moped,2013-12-03 10:36:57+00:00,,,,,
+117,stargazers,mongoid_moped,2013-12-09 04:44:17+00:00,,,,,
+118,stargazers,mongoid_moped,2013-12-18 14:35:14+00:00,,,,,
+119,stargazers,mongoid_moped,2013-12-25 06:16:14+00:00,,,,,
+120,stargazers,mongoid_moped,2014-01-20 04:05:17+00:00,,,,,
+121,stargazers,mongoid_moped,2014-02-11 10:00:53+00:00,,,,,
+122,stargazers,mongoid_moped,2014-02-16 05:02:28+00:00,,,,,
+123,stargazers,mongoid_moped,2014-02-21 06:22:47+00:00,,,,,
+124,stargazers,mongoid_moped,2014-02-23 12:39:37+00:00,,,,,
+125,stargazers,mongoid_moped,2014-03-04 21:17:29+00:00,,,,,
+126,stargazers,mongoid_moped,2014-03-16 21:58:37+00:00,,,,,
+127,stargazers,mongoid_moped,2014-03-20 11:44:01+00:00,,,,,
+128,stargazers,mongoid_moped,2014-03-22 18:16:13+00:00,,,,,
+129,stargazers,mongoid_moped,2014-03-28 13:34:35+00:00,,,,,
+130,stargazers,mongoid_moped,2014-04-15 17:27:12+00:00,,,,,
+131,stargazers,mongoid_moped,2014-04-16 00:27:53+00:00,,,,,
+132,stargazers,mongoid_moped,2014-04-16 22:43:45+00:00,,,,,
+133,stargazers,mongoid_moped,2014-05-26 08:28:11+00:00,,,,,
+134,stargazers,mongoid_moped,2014-05-30 19:01:14+00:00,,,,,
+135,stargazers,mongoid_moped,2014-06-12 12:51:09+00:00,,,,,
+136,stargazers,mongoid_moped,2014-06-19 09:53:55+00:00,,,,,
+137,stargazers,mongoid_moped,2014-06-29 09:21:01+00:00,,,,,
+138,stargazers,mongoid_moped,2014-07-12 13:49:31+00:00,,,,,
+139,stargazers,mongoid_moped,2014-08-20 00:49:47+00:00,,,,,
+140,stargazers,mongoid_moped,2014-09-18 15:06:53+00:00,,,,,
+141,stargazers,mongoid_moped,2014-09-20 18:03:38+00:00,,,,,
+142,stargazers,mongoid_moped,2014-09-27 16:46:23+00:00,,,,,
+143,stargazers,mongoid_moped,2014-10-19 23:12:06+00:00,,,,,
+144,stargazers,mongoid_moped,2014-10-21 22:02:32+00:00,,,,,
+145,stargazers,mongoid_moped,2014-10-30 04:56:50+00:00,,,,,
+146,stargazers,mongoid_moped,2014-11-02 10:47:05+00:00,,,,,
+147,stargazers,mongoid_moped,2014-11-28 21:44:35+00:00,,,,,
+148,stargazers,mongoid_moped,2014-12-01 09:33:25+00:00,,,,,
+149,stargazers,mongoid_moped,2014-12-04 14:10:22+00:00,,,,,
+150,stargazers,mongoid_moped,2014-12-09 05:27:06+00:00,,,,,
+151,stargazers,mongoid_moped,2015-02-01 18:18:48+00:00,,,,,
+152,stargazers,mongoid_moped,2015-02-04 23:15:36+00:00,,,,,
+153,stargazers,mongoid_moped,2015-02-18 21:21:41+00:00,,,,,
+154,stargazers,mongoid_moped,2015-02-26 21:32:22+00:00,,,,,
+155,stargazers,mongoid_moped,2015-03-04 19:57:45+00:00,,,,,
+156,stargazers,mongoid_moped,2015-03-07 14:14:04+00:00,,,,,
+157,stargazers,mongoid_moped,2015-03-09 18:32:52+00:00,,,,,
+158,stargazers,mongoid_moped,2015-03-17 10:58:04+00:00,,,,,
+159,stargazers,mongoid_moped,2015-03-17 15:44:04+00:00,,,,,
+160,stargazers,mongoid_moped,2015-03-24 14:59:20+00:00,,,,,
+161,stargazers,mongoid_moped,2015-03-25 13:51:16+00:00,,,,,
+162,stargazers,mongoid_moped,2015-03-29 03:51:25+00:00,,,,,
+163,stargazers,mongoid_moped,2015-03-30 13:03:11+00:00,,,,,
+164,stargazers,mongoid_moped,2015-04-02 03:30:46+00:00,,,,,
+165,stargazers,mongoid_moped,2015-04-02 18:43:52+00:00,,,,,
+166,stargazers,mongoid_moped,2015-05-06 14:17:27+00:00,,,,,
+167,stargazers,mongoid_moped,2015-05-17 05:19:22+00:00,,,,,
+168,stargazers,mongoid_moped,2015-05-27 18:50:23+00:00,,,,,
+169,stargazers,mongoid_moped,2015-05-28 02:31:00+00:00,,,,,
+170,stargazers,mongoid_moped,2015-06-03 01:20:33+00:00,,,,,
+171,stargazers,mongoid_moped,2015-06-05 11:08:34+00:00,,,,,
+172,stargazers,mongoid_moped,2015-06-17 02:55:44+00:00,,,,,
+173,stargazers,mongoid_moped,2015-06-30 22:10:14+00:00,,,,,
+174,stargazers,mongoid_moped,2015-07-03 12:57:21+00:00,,,,,
+175,stargazers,mongoid_moped,2015-07-16 23:16:22+00:00,,,,,
+176,stargazers,mongoid_moped,2015-07-17 01:12:38+00:00,,,,,
+177,stargazers,mongoid_moped,2015-09-06 12:59:20+00:00,,,,,
+178,stargazers,mongoid_moped,2015-09-12 06:48:21+00:00,,,,,
+179,stargazers,mongoid_moped,2015-09-17 20:05:51+00:00,,,,,
+180,stargazers,mongoid_moped,2015-10-04 03:42:15+00:00,,,,,
+181,stargazers,mongoid_moped,2015-11-05 01:18:50+00:00,,,,,
+182,stargazers,mongoid_moped,2015-11-12 17:15:27+00:00,,,,,
+183,stargazers,mongoid_moped,2015-11-29 06:45:30+00:00,,,,,
+184,stargazers,mongoid_moped,2016-03-01 16:23:30+00:00,,,,,
+185,stargazers,mongoid_moped,2016-04-26 19:22:48+00:00,,,,,
+186,stargazers,mongoid_moped,2016-05-15 08:42:36+00:00,,,,,
+187,stargazers,mongoid_moped,2016-05-16 11:04:43+00:00,,,,,
+188,stargazers,mongoid_moped,2016-06-07 21:36:55+00:00,,,,,
+189,stargazers,mongoid_moped,2016-07-11 10:39:51+00:00,,,,,
+190,stargazers,mongoid_moped,2016-07-11 19:21:29+00:00,,,,,
+191,stargazers,mongoid_moped,2016-08-05 20:17:22+00:00,,,,,
+192,stargazers,mongoid_moped,2016-11-22 20:37:14+00:00,,,,,
+193,stargazers,mongoid_moped,2016-11-27 06:01:15+00:00,,,,,
+194,stargazers,mongoid_moped,2017-02-17 03:41:13+00:00,,,,,
+195,stargazers,mongoid_moped,2017-02-20 14:26:27+00:00,,,,,
+196,stargazers,mongoid_moped,2017-04-10 17:07:50+00:00,,,,,
+197,stargazers,mongoid_moped,2017-11-07 21:25:43+00:00,,,,,
+198,stargazers,mongoid_moped,2017-12-25 11:54:26+00:00,,,,,
+199,stargazers,mongoid_moped,2018-02-19 17:45:50+00:00,,,,,
+200,stargazers,mongoid_moped,2019-04-28 19:41:21+00:00,,,,,
+201,stargazers,mongoid_moped,2020-04-09 08:30:57+00:00,,,,,
+202,stargazers,mongoid_moped,2022-03-11 00:02:54+00:00,,,,,

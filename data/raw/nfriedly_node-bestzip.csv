@@ -1,0 +1,538 @@
+,type,name,created_at,Hash,Add,Del,Files,Vuln
+176691,PullRequestEvent,nfriedly_node-bestzip,2015-07-03 03:04:04 UTC,,,,,
+268264,IssueCommentEvent,nfriedly_node-bestzip,2015-07-03 03:04:22 UTC,,,,,
+390270,IssuesEvent,nfriedly_node-bestzip,2015-07-03 14:41:50 UTC,,,,,
+962873,PullRequestEvent,nfriedly_node-bestzip,2015-07-03 00:19:09 UTC,,,,,
+1011906,ForkEvent,nfriedly_node-bestzip,2015-07-03 00:10:44 UTC,,,,,
+1087249,PushEvent,nfriedly_node-bestzip,2015-07-03 14:40:01 UTC,,,,,
+1199954,IssueCommentEvent,nfriedly_node-bestzip,2015-07-03 14:41:50 UTC,,,,,
+1473318,IssueCommentEvent,nfriedly_node-bestzip,2015-07-03 00:20:47 UTC,,,,,
+1690622,IssueCommentEvent,nfriedly_node-bestzip,2015-07-03 03:34:05 UTC,,,,,
+1796946,IssuesEvent,nfriedly_node-bestzip,2015-07-02 20:08:51 UTC,,,,,
+2315830,CreateEvent,nfriedly_node-bestzip,2015-07-03 14:40:06 UTC,,,,,
+2401435,ForkEvent,nfriedly_node-bestzip,2015-07-03 00:18:11 UTC,,,,,
+2624512,IssueCommentEvent,nfriedly_node-bestzip,2015-07-02 22:53:18 UTC,,,,,
+2662382,WatchEvent,nfriedly_node-bestzip,2015-12-25 14:52:03 UTC,,,,,
+2805547,IssueCommentEvent,nfriedly_node-bestzip,2015-07-03 22:21:17 UTC,,,,,
+2964847,PushEvent,nfriedly_node-bestzip,2015-07-03 03:04:04 UTC,,,,,
+163390,IssueCommentEvent,nfriedly_node-bestzip,2016-01-29 15:04:25 UTC,,,,,
+1133639,WatchEvent,nfriedly_node-bestzip,2016-10-20 20:09:21 UTC,,,,,
+1139898,WatchEvent,nfriedly_node-bestzip,2016-07-05 21:13:43 UTC,,,,,
+1147054,PullRequestEvent,nfriedly_node-bestzip,2016-01-29 15:00:03 UTC,,,,,
+1183958,PushEvent,nfriedly_node-bestzip,2016-01-29 15:01:50 UTC,,,,,
+1191479,PullRequestEvent,nfriedly_node-bestzip,2016-01-29 15:01:49 UTC,,,,,
+1347960,WatchEvent,nfriedly_node-bestzip,2016-04-13 09:39:17 UTC,,,,,
+1547409,WatchEvent,nfriedly_node-bestzip,2016-01-06 03:09:42 UTC,,,,,
+1632082,ForkEvent,nfriedly_node-bestzip,2016-09-30 21:42:56 UTC,,,,,
+2208007,IssueCommentEvent,nfriedly_node-bestzip,2016-01-29 15:01:47 UTC,,,,,
+2407814,ForkEvent,nfriedly_node-bestzip,2016-12-27 03:03:26 UTC,,,,,
+3369366,WatchEvent,nfriedly_node-bestzip,2016-01-29 14:53:53 UTC,,,,,
+3501230,ForkEvent,nfriedly_node-bestzip,2016-01-29 14:53:30 UTC,,,,,
+3596340,WatchEvent,nfriedly_node-bestzip,2016-09-27 10:27:11 UTC,,,,,
+40044,MemberEvent,nfriedly_node-bestzip,2017-10-03 16:06:15 UTC,,,,,
+44584,MemberEvent,nfriedly_node-bestzip,2017-10-03 17:43:21 UTC,,,,,
+109013,ForkEvent,nfriedly_node-bestzip,2017-10-02 15:06:15 UTC,,,,,
+117285,ForkEvent,nfriedly_node-bestzip,2017-03-20 10:02:50 UTC,,,,,
+386982,PushEvent,nfriedly_node-bestzip,2017-03-20 15:48:51 UTC,,,,,
+585903,PushEvent,nfriedly_node-bestzip,2017-10-03 13:55:43 UTC,,,,,
+604637,PushEvent,nfriedly_node-bestzip,2017-03-20 15:23:24 UTC,,,,,
+882469,PushEvent,nfriedly_node-bestzip,2017-03-20 15:51:31 UTC,,,,,
+1298701,WatchEvent,nfriedly_node-bestzip,2017-10-03 17:45:52 UTC,,,,,
+1315120,WatchEvent,nfriedly_node-bestzip,2017-09-16 10:07:08 UTC,,,,,
+1386346,WatchEvent,nfriedly_node-bestzip,2017-09-20 03:49:44 UTC,,,,,
+1397748,WatchEvent,nfriedly_node-bestzip,2017-11-23 11:16:21 UTC,,,,,
+1502224,WatchEvent,nfriedly_node-bestzip,2017-03-25 19:35:25 UTC,,,,,
+1518943,WatchEvent,nfriedly_node-bestzip,2017-09-29 14:50:46 UTC,,,,,
+1544698,WatchEvent,nfriedly_node-bestzip,2017-02-01 00:01:58 UTC,,,,,
+1771494,WatchEvent,nfriedly_node-bestzip,2017-10-13 20:06:45 UTC,,,,,
+1916613,CreateEvent,nfriedly_node-bestzip,2017-03-20 15:48:33 UTC,,,,,
+1941343,CreateEvent,nfriedly_node-bestzip,2017-03-20 15:48:51 UTC,,,,,
+2072177,IssuesEvent,nfriedly_node-bestzip,2017-07-28 18:30:17 UTC,,,,,
+2121047,IssuesEvent,nfriedly_node-bestzip,2017-07-28 18:27:24 UTC,,,,,
+2217458,IssuesEvent,nfriedly_node-bestzip,2017-08-23 13:11:00 UTC,,,,,
+2337371,IssuesEvent,nfriedly_node-bestzip,2017-07-24 22:13:19 UTC,,,,,
+2353185,IssuesEvent,nfriedly_node-bestzip,2017-10-03 14:07:14 UTC,,,,,
+2595656,PullRequestEvent,nfriedly_node-bestzip,2017-10-03 13:55:43 UTC,,,,,
+2682036,PullRequestEvent,nfriedly_node-bestzip,2017-03-20 10:55:59 UTC,,,,,
+2740478,PullRequestEvent,nfriedly_node-bestzip,2017-10-02 15:16:45 UTC,,,,,
+2843880,PullRequestEvent,nfriedly_node-bestzip,2017-03-20 15:23:23 UTC,,,,,
+3017706,IssueCommentEvent,nfriedly_node-bestzip,2017-03-20 15:23:19 UTC,,,,,
+3101659,IssueCommentEvent,nfriedly_node-bestzip,2017-09-14 21:22:12 UTC,,,,,
+3118189,IssueCommentEvent,nfriedly_node-bestzip,2017-10-03 17:42:37 UTC,,,,,
+3187650,IssueCommentEvent,nfriedly_node-bestzip,2017-10-03 14:35:40 UTC,,,,,
+3347590,IssueCommentEvent,nfriedly_node-bestzip,2017-10-03 17:43:57 UTC,,,,,
+3374084,IssueCommentEvent,nfriedly_node-bestzip,2017-10-02 17:59:02 UTC,,,,,
+3393578,IssueCommentEvent,nfriedly_node-bestzip,2017-10-03 14:09:07 UTC,,,,,
+3575236,IssueCommentEvent,nfriedly_node-bestzip,2017-12-19 17:30:00 UTC,,,,,
+3648275,IssueCommentEvent,nfriedly_node-bestzip,2017-10-03 13:54:56 UTC,,,,,
+3685491,IssueCommentEvent,nfriedly_node-bestzip,2017-07-28 18:30:17 UTC,,,,,
+3706214,IssueCommentEvent,nfriedly_node-bestzip,2017-08-23 14:47:30 UTC,,,,,
+3921032,IssueCommentEvent,nfriedly_node-bestzip,2017-07-24 23:08:08 UTC,,,,,
+3999180,IssueCommentEvent,nfriedly_node-bestzip,2017-10-03 14:50:24 UTC,,,,,
+4068389,IssueCommentEvent,nfriedly_node-bestzip,2017-10-03 14:39:30 UTC,,,,,
+4087935,IssueCommentEvent,nfriedly_node-bestzip,2017-10-03 14:36:25 UTC,,,,,
+4105434,IssueCommentEvent,nfriedly_node-bestzip,2017-10-02 18:25:51 UTC,,,,,
+4193979,IssueCommentEvent,nfriedly_node-bestzip,2017-10-03 14:15:21 UTC,,,,,
+4241679,IssueCommentEvent,nfriedly_node-bestzip,2017-10-03 02:08:07 UTC,,,,,
+4264020,IssueCommentEvent,nfriedly_node-bestzip,2017-10-02 15:24:52 UTC,,,,,
+4412640,IssueCommentEvent,nfriedly_node-bestzip,2017-10-03 17:40:52 UTC,,,,,
+4474558,IssueCommentEvent,nfriedly_node-bestzip,2017-09-14 09:20:38 UTC,,,,,
+4484690,IssueCommentEvent,nfriedly_node-bestzip,2017-10-03 16:04:39 UTC,,,,,
+4547073,IssueCommentEvent,nfriedly_node-bestzip,2017-08-23 14:09:25 UTC,,,,,
+4593721,IssueCommentEvent,nfriedly_node-bestzip,2017-03-20 15:52:39 UTC,,,,,
+53918,ForkEvent,nfriedly_node-bestzip,2018-11-28 02:39:03 UTC,,,,,
+67529,ForkEvent,nfriedly_node-bestzip,2018-02-21 18:52:17 UTC,,,,,
+87294,ForkEvent,nfriedly_node-bestzip,2018-08-21 18:48:43 UTC,,,,,
+131295,ForkEvent,nfriedly_node-bestzip,2018-06-28 18:07:28 UTC,,,,,
+156910,ForkEvent,nfriedly_node-bestzip,2018-10-12 11:44:02 UTC,,,,,
+334425,PushEvent,nfriedly_node-bestzip,2018-08-27 16:30:19 UTC,,,,,
+345770,PushEvent,nfriedly_node-bestzip,2018-08-22 15:58:24 UTC,,,,,
+349297,PushEvent,nfriedly_node-bestzip,2018-09-10 20:32:18 UTC,,,,,
+350042,PushEvent,nfriedly_node-bestzip,2018-05-31 14:56:35 UTC,,,,,
+392893,PushEvent,nfriedly_node-bestzip,2018-09-10 21:39:20 UTC,,,,,
+407395,PushEvent,nfriedly_node-bestzip,2018-05-31 15:21:32 UTC,,,,,
+428927,PushEvent,nfriedly_node-bestzip,2018-05-31 15:12:24 UTC,,,,,
+432276,PushEvent,nfriedly_node-bestzip,2018-08-23 15:58:52 UTC,,,,,
+433997,PushEvent,nfriedly_node-bestzip,2018-08-27 02:54:59 UTC,,,,,
+467114,PushEvent,nfriedly_node-bestzip,2018-08-27 16:56:41 UTC,,,,,
+471267,PushEvent,nfriedly_node-bestzip,2018-10-12 15:02:27 UTC,,,,,
+504864,PushEvent,nfriedly_node-bestzip,2018-08-27 17:46:23 UTC,,,,,
+511707,PushEvent,nfriedly_node-bestzip,2018-10-12 13:00:57 UTC,,,,,
+533402,PushEvent,nfriedly_node-bestzip,2018-05-31 15:18:06 UTC,,,,,
+538012,PushEvent,nfriedly_node-bestzip,2018-09-10 20:47:33 UTC,,,,,
+547035,PushEvent,nfriedly_node-bestzip,2018-09-10 21:45:52 UTC,,,,,
+556405,PushEvent,nfriedly_node-bestzip,2018-05-31 14:45:08 UTC,,,,,
+558506,PushEvent,nfriedly_node-bestzip,2018-08-27 16:17:42 UTC,,,,,
+561175,PushEvent,nfriedly_node-bestzip,2018-08-23 19:35:03 UTC,,,,,
+582159,PushEvent,nfriedly_node-bestzip,2018-09-10 19:50:47 UTC,,,,,
+589208,PushEvent,nfriedly_node-bestzip,2018-09-11 14:26:45 UTC,,,,,
+592325,PushEvent,nfriedly_node-bestzip,2018-08-27 19:10:18 UTC,,,,,
+614025,PushEvent,nfriedly_node-bestzip,2018-08-21 19:54:00 UTC,,,,,
+647749,PushEvent,nfriedly_node-bestzip,2018-08-27 19:09:46 UTC,,,,,
+650756,PushEvent,nfriedly_node-bestzip,2018-10-12 14:40:13 UTC,,,,,
+654111,PushEvent,nfriedly_node-bestzip,2018-09-10 19:53:32 UTC,,,,,
+680743,PushEvent,nfriedly_node-bestzip,2018-08-27 16:13:00 UTC,,,,,
+681603,PushEvent,nfriedly_node-bestzip,2018-08-27 17:38:02 UTC,,,,,
+708565,PushEvent,nfriedly_node-bestzip,2018-08-27 17:16:38 UTC,,,,,
+730849,PushEvent,nfriedly_node-bestzip,2018-08-27 18:56:32 UTC,,,,,
+744136,PushEvent,nfriedly_node-bestzip,2018-08-27 19:19:48 UTC,,,,,
+783488,PushEvent,nfriedly_node-bestzip,2018-08-21 19:55:50 UTC,,,,,
+801210,PushEvent,nfriedly_node-bestzip,2018-05-31 15:07:32 UTC,,,,,
+806769,PushEvent,nfriedly_node-bestzip,2018-09-11 17:07:08 UTC,,,,,
+810854,PushEvent,nfriedly_node-bestzip,2018-09-10 20:43:51 UTC,,,,,
+850727,PushEvent,nfriedly_node-bestzip,2018-08-23 14:54:16 UTC,,,,,
+853319,PushEvent,nfriedly_node-bestzip,2018-08-27 17:16:00 UTC,,,,,
+868726,PushEvent,nfriedly_node-bestzip,2018-08-27 14:33:06 UTC,,,,,
+883342,PushEvent,nfriedly_node-bestzip,2018-08-27 19:01:54 UTC,,,,,
+887448,PushEvent,nfriedly_node-bestzip,2018-09-10 19:51:03 UTC,,,,,
+918783,PushEvent,nfriedly_node-bestzip,2018-09-11 16:04:03 UTC,,,,,
+923714,PushEvent,nfriedly_node-bestzip,2018-05-31 16:04:16 UTC,,,,,
+927254,PushEvent,nfriedly_node-bestzip,2018-08-27 15:52:11 UTC,,,,,
+936907,PushEvent,nfriedly_node-bestzip,2018-09-10 20:05:50 UTC,,,,,
+990198,WatchEvent,nfriedly_node-bestzip,2018-12-04 08:52:31 UTC,,,,,
+1060262,WatchEvent,nfriedly_node-bestzip,2018-02-22 13:28:30 UTC,,,,,
+1137377,WatchEvent,nfriedly_node-bestzip,2018-10-06 18:52:59 UTC,,,,,
+1174822,WatchEvent,nfriedly_node-bestzip,2018-10-02 13:01:15 UTC,,,,,
+1195629,WatchEvent,nfriedly_node-bestzip,2018-05-21 09:29:58 UTC,,,,,
+1253160,WatchEvent,nfriedly_node-bestzip,2018-10-12 14:32:27 UTC,,,,,
+1369708,WatchEvent,nfriedly_node-bestzip,2018-06-05 16:08:47 UTC,,,,,
+1392740,WatchEvent,nfriedly_node-bestzip,2018-11-15 19:58:12 UTC,,,,,
+1433300,WatchEvent,nfriedly_node-bestzip,2019-01-04 14:58:04 UTC,,,,,
+1514269,WatchEvent,nfriedly_node-bestzip,2018-06-27 23:10:32 UTC,,,,,
+1531644,WatchEvent,nfriedly_node-bestzip,2018-08-01 13:56:44 UTC,,,,,
+1553744,WatchEvent,nfriedly_node-bestzip,2018-08-01 03:33:22 UTC,,,,,
+1581572,WatchEvent,nfriedly_node-bestzip,2018-02-23 16:48:46 UTC,,,,,
+1599981,WatchEvent,nfriedly_node-bestzip,2018-05-31 10:41:19 UTC,,,,,
+1667527,WatchEvent,nfriedly_node-bestzip,2018-11-21 09:05:44 UTC,,,,,
+1700081,WatchEvent,nfriedly_node-bestzip,2018-04-06 21:26:59 UTC,,,,,
+1779635,WatchEvent,nfriedly_node-bestzip,2018-09-12 19:40:33 UTC,,,,,
+1896254,CreateEvent,nfriedly_node-bestzip,2018-08-27 19:10:18 UTC,,,,,
+1904002,CreateEvent,nfriedly_node-bestzip,2018-09-11 17:07:08 UTC,,,,,
+1918731,CreateEvent,nfriedly_node-bestzip,2018-09-10 21:45:51 UTC,,,,,
+1927270,CreateEvent,nfriedly_node-bestzip,2018-09-10 19:51:03 UTC,,,,,
+1939887,CreateEvent,nfriedly_node-bestzip,2018-08-23 14:54:16 UTC,,,,,
+1947915,CreateEvent,nfriedly_node-bestzip,2018-08-21 19:55:49 UTC,,,,,
+1956927,CreateEvent,nfriedly_node-bestzip,2018-09-10 19:53:32 UTC,,,,,
+1969696,CreateEvent,nfriedly_node-bestzip,2018-08-27 02:11:27 UTC,,,,,
+1981955,DeleteEvent,nfriedly_node-bestzip,2018-09-10 21:45:34 UTC,,,,,
+1998646,DeleteEvent,nfriedly_node-bestzip,2018-08-27 19:09:48 UTC,,,,,
+2036965,DeleteEvent,nfriedly_node-bestzip,2018-09-10 21:45:39 UTC,,,,,
+2045587,IssuesEvent,nfriedly_node-bestzip,2018-08-27 19:09:44 UTC,,,,,
+2056373,IssuesEvent,nfriedly_node-bestzip,2018-03-13 17:20:18 UTC,,,,,
+2073991,IssuesEvent,nfriedly_node-bestzip,2018-11-05 08:34:52 UTC,,,,,
+2096224,IssuesEvent,nfriedly_node-bestzip,2018-08-23 14:54:16 UTC,,,,,
+2097967,IssuesEvent,nfriedly_node-bestzip,2018-09-10 19:50:47 UTC,,,,,
+2115135,IssuesEvent,nfriedly_node-bestzip,2018-10-12 14:35:50 UTC,,,,,
+2149335,IssuesEvent,nfriedly_node-bestzip,2018-08-23 17:50:14 UTC,,,,,
+2153843,IssuesEvent,nfriedly_node-bestzip,2018-09-04 09:41:08 UTC,,,,,
+2157038,IssuesEvent,nfriedly_node-bestzip,2018-08-27 19:09:44 UTC,,,,,
+2166246,IssuesEvent,nfriedly_node-bestzip,2018-08-23 19:36:27 UTC,,,,,
+2203165,IssuesEvent,nfriedly_node-bestzip,2018-08-23 05:08:44 UTC,,,,,
+2214085,IssuesEvent,nfriedly_node-bestzip,2018-08-27 19:09:44 UTC,,,,,
+2298202,IssuesEvent,nfriedly_node-bestzip,2018-10-12 13:00:08 UTC,,,,,
+2322436,IssuesEvent,nfriedly_node-bestzip,2018-10-12 14:40:13 UTC,,,,,
+2367070,IssuesEvent,nfriedly_node-bestzip,2018-07-19 01:09:50 UTC,,,,,
+2374122,IssuesEvent,nfriedly_node-bestzip,2018-02-21 17:07:04 UTC,,,,,
+2377154,IssuesEvent,nfriedly_node-bestzip,2018-12-06 12:11:43 UTC,,,,,
+2455332,PullRequestEvent,nfriedly_node-bestzip,2018-05-31 14:45:07 UTC,,,,,
+2459002,PullRequestEvent,nfriedly_node-bestzip,2018-02-21 19:01:00 UTC,,,,,
+2470904,PullRequestEvent,nfriedly_node-bestzip,2018-08-23 21:29:41 UTC,,,,,
+2476205,PullRequestEvent,nfriedly_node-bestzip,2018-05-31 14:37:34 UTC,,,,,
+2539773,PullRequestEvent,nfriedly_node-bestzip,2018-10-12 12:18:30 UTC,,,,,
+2642381,PullRequestEvent,nfriedly_node-bestzip,2018-08-27 19:09:44 UTC,,,,,
+2650181,PullRequestEvent,nfriedly_node-bestzip,2018-11-28 15:14:22 UTC,,,,,
+2660097,PullRequestEvent,nfriedly_node-bestzip,2018-05-31 14:11:21 UTC,,,,,
+2675936,PullRequestEvent,nfriedly_node-bestzip,2018-08-27 19:09:44 UTC,,,,,
+2702367,PullRequestEvent,nfriedly_node-bestzip,2018-08-27 19:09:44 UTC,,,,,
+2743358,PullRequestEvent,nfriedly_node-bestzip,2018-05-31 14:56:35 UTC,,,,,
+2748348,PullRequestEvent,nfriedly_node-bestzip,2018-08-21 19:54:00 UTC,,,,,
+2785489,PullRequestEvent,nfriedly_node-bestzip,2018-08-21 18:52:28 UTC,,,,,
+2829832,PullRequestEvent,nfriedly_node-bestzip,2018-08-27 15:58:45 UTC,,,,,
+2875097,PullRequestEvent,nfriedly_node-bestzip,2018-10-12 13:00:56 UTC,,,,,
+2985505,IssueCommentEvent,nfriedly_node-bestzip,2018-08-27 19:12:19 UTC,,,,,
+3063846,IssueCommentEvent,nfriedly_node-bestzip,2018-08-25 12:48:27 UTC,,,,,
+3214044,IssueCommentEvent,nfriedly_node-bestzip,2018-02-21 19:08:00 UTC,,,,,
+3225315,IssueCommentEvent,nfriedly_node-bestzip,2018-08-28 10:12:42 UTC,,,,,
+3277882,IssueCommentEvent,nfriedly_node-bestzip,2018-08-23 19:26:28 UTC,,,,,
+3386849,IssueCommentEvent,nfriedly_node-bestzip,2018-08-23 14:58:37 UTC,,,,,
+3393009,IssueCommentEvent,nfriedly_node-bestzip,2018-09-10 12:58:25 UTC,,,,,
+3480942,IssueCommentEvent,nfriedly_node-bestzip,2018-08-25 12:40:48 UTC,,,,,
+3481291,IssueCommentEvent,nfriedly_node-bestzip,2018-08-28 05:28:23 UTC,,,,,
+3488448,IssueCommentEvent,nfriedly_node-bestzip,2018-08-23 14:16:57 UTC,,,,,
+3522959,IssueCommentEvent,nfriedly_node-bestzip,2018-08-25 13:37:34 UTC,,,,,
+3528453,IssueCommentEvent,nfriedly_node-bestzip,2018-09-11 17:08:02 UTC,,,,,
+3530825,IssueCommentEvent,nfriedly_node-bestzip,2018-10-12 14:33:10 UTC,,,,,
+3538017,IssueCommentEvent,nfriedly_node-bestzip,2018-11-28 16:54:02 UTC,,,,,
+3545451,IssueCommentEvent,nfriedly_node-bestzip,2018-03-13 19:42:57 UTC,,,,,
+3626721,IssueCommentEvent,nfriedly_node-bestzip,2018-08-27 19:12:00 UTC,,,,,
+3645171,IssueCommentEvent,nfriedly_node-bestzip,2018-08-25 12:45:06 UTC,,,,,
+3679042,IssueCommentEvent,nfriedly_node-bestzip,2018-07-20 14:12:22 UTC,,,,,
+3714006,IssueCommentEvent,nfriedly_node-bestzip,2018-08-21 19:53:56 UTC,,,,,
+3757231,IssueCommentEvent,nfriedly_node-bestzip,2018-08-23 19:36:22 UTC,,,,,
+3769865,IssueCommentEvent,nfriedly_node-bestzip,2018-12-07 01:05:12 UTC,,,,,
+3773302,IssueCommentEvent,nfriedly_node-bestzip,2018-05-31 14:44:54 UTC,,,,,
+3774030,IssueCommentEvent,nfriedly_node-bestzip,2018-03-13 19:41:44 UTC,,,,,
+3790987,IssueCommentEvent,nfriedly_node-bestzip,2018-11-28 14:59:06 UTC,,,,,
+3870648,IssueCommentEvent,nfriedly_node-bestzip,2018-08-23 13:47:59 UTC,,,,,
+3877847,IssueCommentEvent,nfriedly_node-bestzip,2018-09-10 21:50:46 UTC,,,,,
+3966065,IssueCommentEvent,nfriedly_node-bestzip,2018-11-28 15:14:21 UTC,,,,,
+4050956,IssueCommentEvent,nfriedly_node-bestzip,2018-08-27 19:13:09 UTC,,,,,
+4135166,IssueCommentEvent,nfriedly_node-bestzip,2018-10-12 12:59:29 UTC,,,,,
+4139360,IssueCommentEvent,nfriedly_node-bestzip,2018-02-21 20:01:56 UTC,,,,,
+4157386,IssueCommentEvent,nfriedly_node-bestzip,2018-11-28 15:53:39 UTC,,,,,
+4179178,IssueCommentEvent,nfriedly_node-bestzip,2018-09-05 21:06:49 UTC,,,,,
+4211523,IssueCommentEvent,nfriedly_node-bestzip,2018-12-06 23:17:30 UTC,,,,,
+4214984,IssueCommentEvent,nfriedly_node-bestzip,2018-09-10 17:07:28 UTC,,,,,
+4231840,IssueCommentEvent,nfriedly_node-bestzip,2018-11-05 14:55:57 UTC,,,,,
+4255737,IssueCommentEvent,nfriedly_node-bestzip,2018-03-13 19:40:29 UTC,,,,,
+4301259,IssueCommentEvent,nfriedly_node-bestzip,2018-05-31 18:08:32 UTC,,,,,
+4453622,IssueCommentEvent,nfriedly_node-bestzip,2018-08-23 05:30:28 UTC,,,,,
+4455021,IssueCommentEvent,nfriedly_node-bestzip,2018-08-23 18:19:36 UTC,,,,,
+4494445,IssueCommentEvent,nfriedly_node-bestzip,2018-08-27 19:14:20 UTC,,,,,
+4542196,IssueCommentEvent,nfriedly_node-bestzip,2018-07-20 13:12:16 UTC,,,,,
+4578223,IssueCommentEvent,nfriedly_node-bestzip,2018-08-23 19:19:22 UTC,,,,,
+4692980,PullRequestReviewCommentEvent,nfriedly_node-bestzip,2018-06-08 21:58:04 UTC,,,,,
+4862168,PullRequestReviewCommentEvent,nfriedly_node-bestzip,2018-05-31 17:48:56 UTC,,,,,
+4898456,PullRequestReviewCommentEvent,nfriedly_node-bestzip,2018-05-31 17:48:47 UTC,,,,,
+4902172,PullRequestReviewCommentEvent,nfriedly_node-bestzip,2018-05-31 19:00:58 UTC,,,,,
+4980486,PullRequestReviewCommentEvent,nfriedly_node-bestzip,2018-06-08 20:44:45 UTC,,,,,
+70359,ForkEvent,nfriedly_node-bestzip,2019-03-28 08:17:47 UTC,,,,,
+100050,ForkEvent,nfriedly_node-bestzip,2019-09-09 21:27:02 UTC,,,,,
+309754,ForkEvent,nfriedly_node-bestzip,2019-10-22 14:22:41 UTC,,,,,
+526357,PushEvent,nfriedly_node-bestzip,2019-10-18 21:06:50 UTC,,,,,
+624113,PushEvent,nfriedly_node-bestzip,2019-05-15 15:40:09 UTC,,,,,
+741461,PushEvent,nfriedly_node-bestzip,2019-05-15 16:01:26 UTC,,,,,
+784870,PushEvent,nfriedly_node-bestzip,2019-05-15 15:50:11 UTC,,,,,
+984467,PushEvent,nfriedly_node-bestzip,2019-09-11 16:56:56 UTC,,,,,
+1033964,PushEvent,nfriedly_node-bestzip,2019-05-15 15:37:54 UTC,,,,,
+1061638,PushEvent,nfriedly_node-bestzip,2019-05-15 15:28:09 UTC,,,,,
+1260304,WatchEvent,nfriedly_node-bestzip,2019-09-25 20:22:10 UTC,,,,,
+1260325,WatchEvent,nfriedly_node-bestzip,2019-12-20 14:31:14 UTC,,,,,
+1288761,WatchEvent,nfriedly_node-bestzip,2019-12-30 10:37:01 UTC,,,,,
+1528977,WatchEvent,nfriedly_node-bestzip,2019-10-28 13:51:52 UTC,,,,,
+1544458,WatchEvent,nfriedly_node-bestzip,2019-07-21 19:30:54 UTC,,,,,
+1658695,WatchEvent,nfriedly_node-bestzip,2019-06-27 05:56:59 UTC,,,,,
+1731840,WatchEvent,nfriedly_node-bestzip,2019-10-30 12:50:35 UTC,,,,,
+1734009,WatchEvent,nfriedly_node-bestzip,2019-11-02 13:50:38 UTC,,,,,
+1807226,WatchEvent,nfriedly_node-bestzip,2019-04-02 12:00:08 UTC,,,,,
+1876786,WatchEvent,nfriedly_node-bestzip,2019-06-06 02:52:14 UTC,,,,,
+1907612,WatchEvent,nfriedly_node-bestzip,2019-04-08 05:38:24 UTC,,,,,
+1930741,WatchEvent,nfriedly_node-bestzip,2019-07-16 22:52:29 UTC,,,,,
+1940365,WatchEvent,nfriedly_node-bestzip,2019-08-30 21:19:32 UTC,,,,,
+1979348,WatchEvent,nfriedly_node-bestzip,2019-08-26 07:08:55 UTC,,,,,
+2011157,WatchEvent,nfriedly_node-bestzip,2019-03-22 06:52:38 UTC,,,,,
+2097582,WatchEvent,nfriedly_node-bestzip,2019-10-30 09:01:58 UTC,,,,,
+2155992,WatchEvent,nfriedly_node-bestzip,2019-11-20 09:10:56 UTC,,,,,
+2248101,WatchEvent,nfriedly_node-bestzip,2019-07-29 09:20:17 UTC,,,,,
+2350803,CreateEvent,nfriedly_node-bestzip,2019-10-18 21:06:57 UTC,,,,,
+2374025,CreateEvent,nfriedly_node-bestzip,2019-05-15 15:40:08 UTC,,,,,
+2402170,CreateEvent,nfriedly_node-bestzip,2019-05-15 15:28:08 UTC,,,,,
+2611060,IssuesEvent,nfriedly_node-bestzip,2019-04-08 11:34:04 UTC,,,,,
+2746949,IssuesEvent,nfriedly_node-bestzip,2019-05-15 14:38:44 UTC,,,,,
+2897361,IssuesEvent,nfriedly_node-bestzip,2019-08-12 22:15:51 UTC,,,,,
+2932070,IssuesEvent,nfriedly_node-bestzip,2019-06-11 09:11:16 UTC,,,,,
+3218477,PullRequestEvent,nfriedly_node-bestzip,2019-09-09 21:37:44 UTC,,,,,
+3276921,PullRequestEvent,nfriedly_node-bestzip,2019-09-11 16:56:56 UTC,,,,,
+3763635,IssueCommentEvent,nfriedly_node-bestzip,2019-07-17 10:55:25 UTC,,,,,
+4090000,IssueCommentEvent,nfriedly_node-bestzip,2019-09-11 16:44:53 UTC,,,,,
+4410679,IssueCommentEvent,nfriedly_node-bestzip,2019-05-19 16:30:52 UTC,,,,,
+4436300,IssueCommentEvent,nfriedly_node-bestzip,2019-05-15 14:56:58 UTC,,,,,
+4635708,IssueCommentEvent,nfriedly_node-bestzip,2019-04-08 13:24:39 UTC,,,,,
+4791155,IssueCommentEvent,nfriedly_node-bestzip,2019-10-18 18:55:16 UTC,,,,,
+4796877,IssueCommentEvent,nfriedly_node-bestzip,2019-09-11 16:57:57 UTC,,,,,
+4797680,IssueCommentEvent,nfriedly_node-bestzip,2019-09-10 12:19:10 UTC,,,,,
+4902362,IssueCommentEvent,nfriedly_node-bestzip,2019-07-17 17:17:20 UTC,,,,,
+5196639,IssueCommentEvent,nfriedly_node-bestzip,2019-07-16 22:56:45 UTC,,,,,
+5266668,IssueCommentEvent,nfriedly_node-bestzip,2019-05-15 23:59:53 UTC,,,,,
+5362728,IssueCommentEvent,nfriedly_node-bestzip,2019-10-18 21:07:42 UTC,,,,,
+5476465,IssueCommentEvent,nfriedly_node-bestzip,2019-05-20 23:30:29 UTC,,,,,
+0,Commit,nfriedly_node-bestzip,2022-04-13 17:17:15,5091b8143443fb1e68d26a9e62a9fd14b31baca1,3.0,3.0,2.0,0.0
+1,Commit,nfriedly_node-bestzip,2022-04-13 17:17:04,396d5b6c4ae01776c2fbe1aadc6eac1867b7a6df,6.0,1.0,1.0,0.0
+2,Commit,nfriedly_node-bestzip,2022-04-13 17:16:39,95a59dae946291f022b40130a6d7e2c220bddaf3,8696.0,20.0,1.0,0.0
+3,Commit,nfriedly_node-bestzip,2021-03-18 15:46:32,2533c8244fb533cbd7bc88e608a649a555847a5b,2.0,2.0,2.0,0.0
+4,Commit,nfriedly_node-bestzip,2021-03-18 15:45:34,52bb0b7e9e84a3dd5245313e8766447a882d7033,0.0,7.0,2.0,0.0
+5,Commit,nfriedly_node-bestzip,2020-09-30 14:14:53,01c4836833a93bf64a08541360844794c01c3938,1.0,1.0,1.0,0.0
+6,Commit,nfriedly_node-bestzip,2020-09-30 13:32:40,83654c74e345f0e7a1ce5d2dea2d0ed431304eb6,54.0,0.0,1.0,0.0
+7,Commit,nfriedly_node-bestzip,2020-09-29 21:15:16,32b9779eefcd3494e0763abee3210984cb741377,105.0,81.0,5.0,0.0
+8,Commit,nfriedly_node-bestzip,2020-09-02 16:07:05,8d104597f038f8f8b09083364371eaf7f9ad1daf,8.0,20.0,1.0,0.0
+9,Commit,nfriedly_node-bestzip,2020-09-02 16:03:35,96d85ed3ba3db267f7faa6b0067bf8a0821e44a5,76.0,1.0,1.0,0.0
+10,Commit,nfriedly_node-bestzip,2020-09-02 01:56:28,984e1f453c1ec4b199f1262b83500526672c979d,2.0,2.0,2.0,0.0
+11,Commit,nfriedly_node-bestzip,2020-09-02 01:54:37,45d4a901478c6a8f396c8b959dd6cf8fd3f955b6,798.0,127.0,2.0,1.0
+12,Commit,nfriedly_node-bestzip,2020-09-02 01:43:54,fcea252e52b6078eff6caf5531bd32c53fccb59f,60.0,51.0,3.0,0.0
+13,Commit,nfriedly_node-bestzip,2020-07-27 21:05:40,d195517586d3e2ac744adca93b015cb570929f1a,2.0,2.0,2.0,0.0
+14,Commit,nfriedly_node-bestzip,2020-07-27 21:05:34,1c7a7b78b3da8bbf0714db70fcaa948f4f011d81,1168.0,1735.0,1.0,0.0
+15,Commit,nfriedly_node-bestzip,2019-10-18 21:06:31,1c87123fdb5182ec895b88f3969ed9fbc2d258a7,2.0,2.0,2.0,0.0
+16,Commit,nfriedly_node-bestzip,2019-10-18 21:06:08,28d7621737e5fdc3d4acb5c42a4659b7b0985119,27.0,47.0,1.0,0.0
+17,Commit,nfriedly_node-bestzip,2019-09-11 16:56:55,5ec4966a7afc0432b14e45458a7990196411feec,33.0,23.0,3.0,0.0
+18,Commit,nfriedly_node-bestzip,2019-05-15 16:01:21,8504be28c58ce1920a38d761507dcb4834239c40,1.0,26.0,2.0,0.0
+19,Commit,nfriedly_node-bestzip,2019-05-15 15:50:02,e5726689a0a3d3a5c4ad79db613c6d4d0b1d8e3d,1.0,1.0,1.0,0.0
+20,Commit,nfriedly_node-bestzip,2019-05-15 15:40:00,a4e6a2a6cb8c0f490b7f357f5139380c1d5466cb,2.0,2.0,2.0,0.0
+21,Commit,nfriedly_node-bestzip,2019-05-15 15:39:55,3301161fc0901ba77cc36bd153ea449062e3b08b,6.0,2.0,1.0,0.0
+22,Commit,nfriedly_node-bestzip,2019-05-15 15:37:50,10fa3316e3c0178d84325e3fca74fa91440b3c42,1.0,3.0,1.0,0.0
+23,Commit,nfriedly_node-bestzip,2019-05-15 15:27:58,049239b8761b4509068ef4df0bf5bfd789f67a5f,2.0,2.0,2.0,0.0
+24,Commit,nfriedly_node-bestzip,2019-05-15 15:27:43,609f38a4b133662311b99f808c19bae7649d792e,6.0,425.0,4.0,0.0
+25,Commit,nfriedly_node-bestzip,2019-05-15 15:01:36,da8db7a99b40458fd4405f61fba12bde5ac6736c,1828.0,1556.0,2.0,0.0
+26,Commit,nfriedly_node-bestzip,2018-12-07 00:49:14,e5181a27de9683b5adf13fbd0d727a95835b7161,9.0,9.0,1.0,0.0
+27,Commit,nfriedly_node-bestzip,2018-10-12 15:02:21,903408c18da7417a18f65ab18e10d7c585504267,1.0,1.0,1.0,0.0
+28,Commit,nfriedly_node-bestzip,2018-10-12 14:40:01,f27c8057dafc19a60458e8b5503e9b2e53ee47cf,25.0,8.0,1.0,0.0
+29,Commit,nfriedly_node-bestzip,2018-10-12 14:27:15,88e712826ebb75b678f9bc72cf2e3d81a7d73fe5,2.0,2.0,2.0,0.0
+30,Commit,nfriedly_node-bestzip,2018-10-12 12:36:03,2487eb27a44805fcfe01048ae3aa206e115dae83,1239.0,607.0,2.0,0.0
+31,Commit,nfriedly_node-bestzip,2018-09-11 17:06:32,83a99b65462bcdd99c416dd0c6198e64ddc5ad88,2.0,2.0,2.0,0.0
+32,Commit,nfriedly_node-bestzip,2018-09-11 16:03:56,5f52bd58a9410afd7813433a176cff6664c2dfb0,1.0,1.0,1.0,0.0
+33,Commit,nfriedly_node-bestzip,2018-09-10 21:45:45,8642d913c148a344a2421425b2a39a9c72c0ec87,2.0,2.0,2.0,0.0
+34,Commit,nfriedly_node-bestzip,2018-09-10 21:44:15,d5d2726e2e2d321bcfec87c1891efd1b1f825dbd,403.0,34.0,2.0,0.0
+35,Commit,nfriedly_node-bestzip,2018-09-10 21:44:15,35a1223dfabfde08ec0aa82b53da1a0d11b533f2,4.0,4.0,2.0,0.0
+36,Commit,nfriedly_node-bestzip,2018-09-10 21:44:15,897cdeb3423e6796763d026c1cdb97eeccd736f3,2.0,1.0,1.0,0.0
+37,Commit,nfriedly_node-bestzip,2018-09-10 21:44:15,8480a622a00711058483a6fbc82e853012dca0e5,22.0,2.0,3.0,0.0
+38,Commit,nfriedly_node-bestzip,2018-09-10 21:44:15,fb7c6f58e9ed58f959a88d37f63df96bd4886133,40.0,43.0,2.0,0.0
+39,Commit,nfriedly_node-bestzip,2018-09-10 19:50:41,400df9d2b7d0a1af1a1876862e6cc06eb5d31706,22.0,23.0,2.0,0.0
+40,Commit,nfriedly_node-bestzip,2018-09-10 19:49:00,75a19dc85d3f694f2ec61aa4f26dc4ea8dbdd3a6,248.0,147.0,6.0,0.0
+41,Commit,nfriedly_node-bestzip,2018-08-27 19:10:12,43a9b7187608a769de6d293f36e8e60cb6acef8a,2.0,2.0,2.0,0.0
+42,Commit,nfriedly_node-bestzip,2018-08-27 19:01:48,9c1158b1c6ef3620828b38440620e21b001ba14f,16.0,0.0,1.0,0.0
+43,Commit,nfriedly_node-bestzip,2018-08-27 18:56:25,de878269db55393b788bb1b504d8ed93e42aaf35,33.0,14.0,2.0,0.0
+44,Commit,nfriedly_node-bestzip,2018-08-27 17:46:15,fd21a00cc3068bcfdb6b87985415cb4cac07112b,4.0,113.0,2.0,0.0
+45,Commit,nfriedly_node-bestzip,2018-08-27 17:37:56,ac68a0868a473879c537ec1b474c84acc277c8db,2.0,0.0,1.0,0.0
+46,Commit,nfriedly_node-bestzip,2018-08-27 17:16:33,ef26941ad472cb85c6a1016fed647add80a290c5,76.0,7.0,1.0,0.0
+47,Commit,nfriedly_node-bestzip,2018-08-27 17:15:54,a7ade0cfd0ee91e1d8fa43857a47709ffab6a808,5.0,0.0,1.0,0.0
+48,Commit,nfriedly_node-bestzip,2018-08-27 16:56:32,210737e560cb88a501b936e7dc3b2ef0a26dcf76,3.0,1.0,1.0,0.0
+49,Commit,nfriedly_node-bestzip,2018-08-27 16:30:10,9a93ec3dbb35edcc18bc7d83b9ecec90498816c7,4.0,0.0,1.0,0.0
+50,Commit,nfriedly_node-bestzip,2018-08-27 16:17:34,d004cca06ba541d8c1b7335dfaae71578a7eb60e,2.0,1.0,1.0,0.0
+51,Commit,nfriedly_node-bestzip,2018-08-27 16:12:54,7811509eaf05369d754d8f04ae0c176b1e84f316,1.0,1.0,1.0,0.0
+52,Commit,nfriedly_node-bestzip,2018-08-27 15:52:01,39465180de55d9d9e99b572966c73379076c8269,17.0,8.0,3.0,0.0
+53,Commit,nfriedly_node-bestzip,2018-08-27 14:32:55,7e4d8537a73f282c2bb73587158e492061928a97,1.0,1.0,1.0,0.0
+54,Commit,nfriedly_node-bestzip,2018-08-27 14:30:40,d585cfa7009a2a34c685f8885ec414fc4fc6d6cd,390.0,379.0,8.0,0.0
+55,Commit,nfriedly_node-bestzip,2018-08-27 02:54:54,91faa3e9ec178f851e35a9334b908c996fd7c687,40.0,15.0,3.0,0.0
+56,Commit,nfriedly_node-bestzip,2018-08-27 02:18:02,cba2803f13d58ab9b4a3937a1c2371cd5daddffa,59.0,46.0,6.0,0.0
+57,Commit,nfriedly_node-bestzip,2018-08-27 02:13:04,a0293ed4b9740836d0874e0995291420c5441f8a,0.0,0.0,0.0,0.0
+58,Commit,nfriedly_node-bestzip,2018-08-27 02:11:14,b6e2c4b08080c6f90b05b4366d349990550cd30a,361.0,34.0,10.0,0.0
+59,Commit,nfriedly_node-bestzip,2018-08-26 15:37:14,44e4380554f299ee97020690b06b47053bffc03b,4272.0,246.0,10.0,0.0
+60,Commit,nfriedly_node-bestzip,2018-08-24 12:01:12,37227da8b8b954c9c4b8635c5952a3d605adfb2b,1.0,1.0,1.0,0.0
+61,Commit,nfriedly_node-bestzip,2018-08-24 11:58:22,fb62dd0fcd7e157c2f8359b37a60a06c6990119c,0.0,23.0,1.0,0.0
+62,Commit,nfriedly_node-bestzip,2018-08-23 21:28:42,ecff38166d6881787196503353e6dc1a1c69c1fe,0.0,1.0,1.0,0.0
+63,Commit,nfriedly_node-bestzip,2018-08-23 21:26:35,712a6f946e6dd109cc1806fc51e76047eede13fa,17.0,15.0,1.0,0.0
+64,Commit,nfriedly_node-bestzip,2018-08-23 19:34:58,b696083b8c5ec607d6ff69a692c4b13cf4e28ee7,1.0,1.0,1.0,0.0
+65,Commit,nfriedly_node-bestzip,2018-08-23 16:06:10,7a663a61d78c6caadf638b1693606051d9438d66,69.0,29.0,2.0,0.0
+66,Commit,nfriedly_node-bestzip,2018-08-23 16:02:50,e36dcfdd4ee7d78427992e262a93185a648353cf,20.0,11.0,1.0,0.0
+67,Commit,nfriedly_node-bestzip,2018-08-23 15:19:53,ad141271408c26e0e8db6b14888a58c45eab9952,1.0,1.0,1.0,0.0
+68,Commit,nfriedly_node-bestzip,2018-08-23 14:54:09,b660df55b6e2cbcb55db0fcea3483412d34f8173,2.0,2.0,2.0,0.0
+69,Commit,nfriedly_node-bestzip,2018-08-23 14:54:05,14e793e2cef18a5742c8e625f791951d454ca8af,113.0,6.0,3.0,0.0
+70,Commit,nfriedly_node-bestzip,2018-08-22 15:58:11,ccd3207bcff8d83de5e4ce6855045c88d14418d2,14.0,8.0,2.0,0.0
+71,Commit,nfriedly_node-bestzip,2018-08-21 19:55:43,ccd8f75e4407f308748d04ce6411880b21e6ec3d,2.0,2.0,2.0,0.0
+72,Commit,nfriedly_node-bestzip,2018-08-21 18:50:24,3060d56131fc4095aa5a7e147ff536efcd6da549,566.0,402.0,2.0,0.0
+73,Commit,nfriedly_node-bestzip,2018-05-31 16:03:57,4b5851d44c4e9a072a8735be56d9c513764936f7,3.0,1.0,1.0,0.0
+74,Commit,nfriedly_node-bestzip,2018-05-31 15:28:54,f83f1bcd4bca78ff449e608fd29a7c6e8dffa9ec,21.0,3.0,2.0,0.0
+75,Commit,nfriedly_node-bestzip,2018-05-31 15:26:09,9428c59a6e0225b632b66183828ab23907c562ac,23.0,0.0,1.0,0.0
+76,Commit,nfriedly_node-bestzip,2018-05-31 15:21:26,895fab5993dd8950cca4e8c1115b89e1dbac0db3,1.0,8.0,1.0,0.0
+77,Commit,nfriedly_node-bestzip,2018-05-31 15:17:58,6f448a2c664ed2bcd8df09f550540456ee42fe7b,5.0,1.0,1.0,0.0
+78,Commit,nfriedly_node-bestzip,2018-05-31 15:12:17,274ccba58c72bb188ebedf25dbed496b4904a781,253.0,198.0,7.0,0.0
+79,Commit,nfriedly_node-bestzip,2018-05-31 15:07:26,e0ba98870fbf4159ffa735880c156c665011fb10,26.0,2.0,7.0,0.0
+80,Commit,nfriedly_node-bestzip,2018-05-31 14:56:20,e8db28097afde6f093623ae98de5b9b24ed5b393,0.0,0.0,0.0,0.0
+81,Commit,nfriedly_node-bestzip,2018-05-31 14:56:07,de3032d20ba6d40486eb572d6f3677e15698ea8a,0.0,0.0,0.0,0.0
+82,Commit,nfriedly_node-bestzip,2018-05-31 14:33:47,d98506500ab35b8021ef74fceee04beb22c41ef2,1441.0,6.0,5.0,0.0
+83,Commit,nfriedly_node-bestzip,2018-05-31 14:06:53,e7b4ac30ee3805222ada63098a68166b0048ecce,738.0,2.0,6.0,0.0
+84,Commit,nfriedly_node-bestzip,2017-10-03 13:55:42,ff760ed64e8559ce25902eec049eb42c4280d6b3,0.0,0.0,0.0,0.0
+85,Commit,nfriedly_node-bestzip,2017-10-02 17:56:12,809c66cb396e6a7eaa3393843c8c051cd0d7cc8a,6.0,1.0,1.0,0.0
+86,Commit,nfriedly_node-bestzip,2017-10-02 15:15:46,07486c9a7f9e24e156ec9a78d6a042300bfbfab4,1.0,1.0,1.0,0.0
+87,Commit,nfriedly_node-bestzip,2017-03-20 15:51:26,b7841d303f67b558e316f0257d881255ea284135,2.0,0.0,1.0,0.0
+88,Commit,nfriedly_node-bestzip,2017-03-20 15:48:45,dbbcdac113624734d67261090002acffcafa6cbd,1.0,1.0,1.0,0.0
+89,Commit,nfriedly_node-bestzip,2017-03-20 15:48:37,cdf9e6d4324efdcd69c1368e6e104702af0c1355,0.0,0.0,0.0,0.0
+90,Commit,nfriedly_node-bestzip,2017-03-20 15:23:22,9b6e213008b94a633b12572c6299d928de0b9722,0.0,0.0,0.0,0.0
+91,Commit,nfriedly_node-bestzip,2017-03-20 10:10:00,280776d0f0d6f35814305347ad850d043e7f6c67,1.0,1.0,1.0,0.0
+92,Commit,nfriedly_node-bestzip,2016-01-29 15:03:54,a97980f1c3351a958dc3746c8aef383581951b48,1.0,1.0,1.0,0.0
+93,Commit,nfriedly_node-bestzip,2016-01-29 15:01:49,fa4aebb6e5aabfa9b3efd4112fd2496f6893f728,0.0,0.0,0.0,0.0
+94,Commit,nfriedly_node-bestzip,2016-01-29 14:58:54,144be89d2df09a7ff7cdcce443c3ac9de23f3353,1.0,1.0,1.0,0.0
+95,Commit,nfriedly_node-bestzip,2015-07-03 14:37:46,ed954ca01a8e4303307151d2526e7854d8663118,1.0,1.0,1.0,0.0
+96,Commit,nfriedly_node-bestzip,2015-07-03 03:04:04,a18feda56c7d143c6c010f641220ffc271cbb7b9,0.0,0.0,0.0,0.0
+97,Commit,nfriedly_node-bestzip,2015-07-03 00:18:43,6799a884b482fddcda8b67fed69a603744c94ce4,2.0,2.0,1.0,0.0
+98,Commit,nfriedly_node-bestzip,2014-11-05 17:20:50,b0fda725f972ab8c212413306c714dab7ce54ca2,1.0,1.0,1.0,0.0
+99,Commit,nfriedly_node-bestzip,2014-11-05 17:20:44,ec888f81e37c109b9968dc0e0992ff67bb29fd23,3.0,0.0,1.0,0.0
+100,Commit,nfriedly_node-bestzip,2014-10-28 18:05:52,16e27291948703bc724c130376e881a87989c354,1.0,1.0,1.0,0.0
+101,Commit,nfriedly_node-bestzip,2014-10-28 18:05:45,e8e7a33246d0b5ed4543b6615647ddf27983acbd,42.0,28.0,4.0,0.0
+102,Commit,nfriedly_node-bestzip,2014-10-28 16:49:48,526ece558f5724056ae6dcf35c5fd348d407338b,1.0,1.0,1.0,0.0
+103,Commit,nfriedly_node-bestzip,2014-10-28 16:49:38,bf59a0f9c9d888c8d095596db579eee39d39cca2,18.0,4.0,1.0,0.0
+104,Commit,nfriedly_node-bestzip,2014-10-28 15:52:53,95ba95c19eb3fd1d98800b1263babbcc44beda41,2.0,1.0,1.0,0.0
+105,Commit,nfriedly_node-bestzip,2014-10-28 15:51:43,513847accfbbcea7ae970e35afe4db0fd09278cd,188.0,0.0,5.0,0.0
+0,forks,nfriedly_node-bestzip,2016-01-29 14:53:30+00:00,,,,,
+1,forks,nfriedly_node-bestzip,2016-09-30 21:42:56+00:00,,,,,
+2,forks,nfriedly_node-bestzip,2016-12-27 03:03:26+00:00,,,,,
+3,forks,nfriedly_node-bestzip,2017-03-20 10:02:50+00:00,,,,,
+4,forks,nfriedly_node-bestzip,2017-10-02 15:06:15+00:00,,,,,
+5,forks,nfriedly_node-bestzip,2018-02-21 18:52:17+00:00,,,,,
+6,forks,nfriedly_node-bestzip,2018-06-28 18:07:28+00:00,,,,,
+7,forks,nfriedly_node-bestzip,2018-08-21 18:48:43+00:00,,,,,
+8,forks,nfriedly_node-bestzip,2018-10-12 11:44:02+00:00,,,,,
+9,forks,nfriedly_node-bestzip,2018-11-28 02:39:02+00:00,,,,,
+10,forks,nfriedly_node-bestzip,2019-03-28 08:17:46+00:00,,,,,
+11,forks,nfriedly_node-bestzip,2019-09-09 21:27:02+00:00,,,,,
+12,forks,nfriedly_node-bestzip,2019-10-22 14:22:41+00:00,,,,,
+13,forks,nfriedly_node-bestzip,2020-07-22 03:32:58+00:00,,,,,
+14,forks,nfriedly_node-bestzip,2021-09-08 08:06:05+00:00,,,,,
+15,forks,nfriedly_node-bestzip,2021-11-27 10:03:32+00:00,,,,,
+0,issues,nfriedly_node-bestzip,2015-07-02 20:08:51+00:00,,,,,
+1,issues,nfriedly_node-bestzip,2017-07-24 22:13:18+00:00,,,,,
+2,issues,nfriedly_node-bestzip,2017-07-28 18:27:24+00:00,,,,,
+3,issues,nfriedly_node-bestzip,2017-08-23 13:11:00+00:00,,,,,
+4,issues,nfriedly_node-bestzip,2017-10-03 14:07:13+00:00,,,,,
+5,issues,nfriedly_node-bestzip,2018-01-17 04:42:23+00:00,,,,,
+6,issues,nfriedly_node-bestzip,2018-02-21 17:07:04+00:00,,,,,
+7,issues,nfriedly_node-bestzip,2018-03-13 17:20:18+00:00,,,,,
+8,issues,nfriedly_node-bestzip,2018-07-19 01:09:50+00:00,,,,,
+9,issues,nfriedly_node-bestzip,2018-08-23 05:08:44+00:00,,,,,
+10,issues,nfriedly_node-bestzip,2018-08-23 17:50:14+00:00,,,,,
+11,issues,nfriedly_node-bestzip,2018-09-04 09:41:07+00:00,,,,,
+12,issues,nfriedly_node-bestzip,2018-10-12 14:35:50+00:00,,,,,
+13,issues,nfriedly_node-bestzip,2018-11-05 08:34:51+00:00,,,,,
+14,issues,nfriedly_node-bestzip,2018-12-06 12:11:43+00:00,,,,,
+15,issues,nfriedly_node-bestzip,2019-04-08 11:34:04+00:00,,,,,
+16,issues,nfriedly_node-bestzip,2019-05-15 14:38:44+00:00,,,,,
+17,issues,nfriedly_node-bestzip,2019-06-11 09:11:15+00:00,,,,,
+18,issues,nfriedly_node-bestzip,2019-08-12 22:15:51+00:00,,,,,
+19,issues,nfriedly_node-bestzip,2020-08-17 08:37:25+00:00,,,,,
+20,issues,nfriedly_node-bestzip,2020-09-08 16:23:21+00:00,,,,,
+21,issues,nfriedly_node-bestzip,2020-09-10 14:42:19+00:00,,,,,
+22,issues,nfriedly_node-bestzip,2020-09-29 18:53:47+00:00,,,,,
+23,issues,nfriedly_node-bestzip,2020-10-09 19:10:50+00:00,,,,,
+24,issues,nfriedly_node-bestzip,2021-08-06 05:02:31+00:00,,,,,
+25,issues,nfriedly_node-bestzip,2021-08-06 16:47:49+00:00,,,,,
+26,issues,nfriedly_node-bestzip,2021-08-07 01:40:03+00:00,,,,,
+27,issues,nfriedly_node-bestzip,2022-04-13 10:49:38+00:00,,,,,
+0,pullRequests,nfriedly_node-bestzip,2015-07-03 00:19:06+00:00,,,,,
+1,pullRequests,nfriedly_node-bestzip,2016-01-29 15:00:01+00:00,,,,,
+2,pullRequests,nfriedly_node-bestzip,2017-03-20 10:55:59+00:00,,,,,
+3,pullRequests,nfriedly_node-bestzip,2017-10-02 15:16:44+00:00,,,,,
+4,pullRequests,nfriedly_node-bestzip,2018-01-18 20:00:02+00:00,,,,,
+5,pullRequests,nfriedly_node-bestzip,2018-02-21 19:01:00+00:00,,,,,
+6,pullRequests,nfriedly_node-bestzip,2018-05-31 14:11:21+00:00,,,,,
+7,pullRequests,nfriedly_node-bestzip,2018-05-31 14:37:34+00:00,,,,,
+8,pullRequests,nfriedly_node-bestzip,2018-08-21 18:52:27+00:00,,,,,
+9,pullRequests,nfriedly_node-bestzip,2018-08-23 21:29:41+00:00,,,,,
+10,pullRequests,nfriedly_node-bestzip,2018-08-27 15:58:45+00:00,,,,,
+11,pullRequests,nfriedly_node-bestzip,2018-10-12 12:18:30+00:00,,,,,
+12,pullRequests,nfriedly_node-bestzip,2018-11-28 03:23:11+00:00,,,,,
+13,pullRequests,nfriedly_node-bestzip,2019-09-09 21:37:44+00:00,,,,,
+14,pullRequests,nfriedly_node-bestzip,2020-03-15 01:10:05+00:00,,,,,
+15,pullRequests,nfriedly_node-bestzip,2020-07-16 06:56:50+00:00,,,,,
+16,pullRequests,nfriedly_node-bestzip,2020-07-22 16:54:07+00:00,,,,,
+17,pullRequests,nfriedly_node-bestzip,2020-09-02 15:31:47+00:00,,,,,
+18,pullRequests,nfriedly_node-bestzip,2021-03-18 13:04:52+00:00,,,,,
+19,pullRequests,nfriedly_node-bestzip,2021-05-07 10:36:36+00:00,,,,,
+20,pullRequests,nfriedly_node-bestzip,2021-05-09 16:27:42+00:00,,,,,
+21,pullRequests,nfriedly_node-bestzip,2021-05-27 01:41:35+00:00,,,,,
+22,pullRequests,nfriedly_node-bestzip,2021-05-28 20:34:43+00:00,,,,,
+23,pullRequests,nfriedly_node-bestzip,2021-08-10 19:29:12+00:00,,,,,
+24,pullRequests,nfriedly_node-bestzip,2021-09-08 08:49:42+00:00,,,,,
+25,pullRequests,nfriedly_node-bestzip,2021-09-10 14:24:39+00:00,,,,,
+26,pullRequests,nfriedly_node-bestzip,2021-09-20 23:41:23+00:00,,,,,
+27,pullRequests,nfriedly_node-bestzip,2021-09-30 11:47:14+00:00,,,,,
+28,pullRequests,nfriedly_node-bestzip,2022-04-09 09:56:27+00:00,,,,,
+29,pullRequests,nfriedly_node-bestzip,2022-04-13 07:55:27+00:00,,,,,
+0,stargazers,nfriedly_node-bestzip,2016-01-06 03:09:42+00:00,,,,,
+1,stargazers,nfriedly_node-bestzip,2016-01-29 14:53:52+00:00,,,,,
+2,stargazers,nfriedly_node-bestzip,2016-04-13 09:39:17+00:00,,,,,
+3,stargazers,nfriedly_node-bestzip,2016-07-05 21:13:43+00:00,,,,,
+4,stargazers,nfriedly_node-bestzip,2016-09-27 10:27:11+00:00,,,,,
+5,stargazers,nfriedly_node-bestzip,2017-02-01 00:01:58+00:00,,,,,
+6,stargazers,nfriedly_node-bestzip,2017-03-25 19:35:25+00:00,,,,,
+7,stargazers,nfriedly_node-bestzip,2017-09-16 10:07:08+00:00,,,,,
+8,stargazers,nfriedly_node-bestzip,2017-09-20 03:49:44+00:00,,,,,
+9,stargazers,nfriedly_node-bestzip,2017-09-29 14:50:46+00:00,,,,,
+10,stargazers,nfriedly_node-bestzip,2017-10-03 17:45:52+00:00,,,,,
+11,stargazers,nfriedly_node-bestzip,2017-10-13 20:06:45+00:00,,,,,
+12,stargazers,nfriedly_node-bestzip,2017-11-23 11:16:21+00:00,,,,,
+13,stargazers,nfriedly_node-bestzip,2018-02-22 13:28:30+00:00,,,,,
+14,stargazers,nfriedly_node-bestzip,2018-02-23 16:48:46+00:00,,,,,
+15,stargazers,nfriedly_node-bestzip,2018-04-06 21:26:59+00:00,,,,,
+16,stargazers,nfriedly_node-bestzip,2018-05-21 09:29:58+00:00,,,,,
+17,stargazers,nfriedly_node-bestzip,2018-05-31 10:41:19+00:00,,,,,
+18,stargazers,nfriedly_node-bestzip,2018-06-05 16:08:47+00:00,,,,,
+19,stargazers,nfriedly_node-bestzip,2018-06-27 23:10:32+00:00,,,,,
+20,stargazers,nfriedly_node-bestzip,2018-08-01 03:33:22+00:00,,,,,
+21,stargazers,nfriedly_node-bestzip,2018-08-01 13:56:44+00:00,,,,,
+22,stargazers,nfriedly_node-bestzip,2018-09-12 19:40:33+00:00,,,,,
+23,stargazers,nfriedly_node-bestzip,2018-10-02 13:01:15+00:00,,,,,
+24,stargazers,nfriedly_node-bestzip,2018-10-06 18:52:59+00:00,,,,,
+25,stargazers,nfriedly_node-bestzip,2018-10-12 14:32:27+00:00,,,,,
+26,stargazers,nfriedly_node-bestzip,2018-11-15 19:58:12+00:00,,,,,
+27,stargazers,nfriedly_node-bestzip,2018-11-21 09:05:44+00:00,,,,,
+28,stargazers,nfriedly_node-bestzip,2018-12-04 08:52:31+00:00,,,,,
+29,stargazers,nfriedly_node-bestzip,2019-01-04 14:58:04+00:00,,,,,
+30,stargazers,nfriedly_node-bestzip,2019-01-12 16:38:08+00:00,,,,,
+31,stargazers,nfriedly_node-bestzip,2019-03-22 06:52:38+00:00,,,,,
+32,stargazers,nfriedly_node-bestzip,2019-04-02 12:00:08+00:00,,,,,
+33,stargazers,nfriedly_node-bestzip,2019-04-08 05:38:24+00:00,,,,,
+34,stargazers,nfriedly_node-bestzip,2019-06-06 02:52:14+00:00,,,,,
+35,stargazers,nfriedly_node-bestzip,2019-06-27 05:56:59+00:00,,,,,
+36,stargazers,nfriedly_node-bestzip,2019-07-21 19:30:54+00:00,,,,,
+37,stargazers,nfriedly_node-bestzip,2019-07-29 09:20:17+00:00,,,,,
+38,stargazers,nfriedly_node-bestzip,2019-08-26 07:08:55+00:00,,,,,
+39,stargazers,nfriedly_node-bestzip,2019-08-30 21:19:32+00:00,,,,,
+40,stargazers,nfriedly_node-bestzip,2019-10-28 13:51:52+00:00,,,,,
+41,stargazers,nfriedly_node-bestzip,2019-10-30 09:01:58+00:00,,,,,
+42,stargazers,nfriedly_node-bestzip,2019-11-02 13:50:38+00:00,,,,,
+43,stargazers,nfriedly_node-bestzip,2019-11-20 09:10:56+00:00,,,,,
+44,stargazers,nfriedly_node-bestzip,2019-12-20 14:31:13+00:00,,,,,
+45,stargazers,nfriedly_node-bestzip,2019-12-30 10:37:01+00:00,,,,,
+46,stargazers,nfriedly_node-bestzip,2020-01-16 10:28:27+00:00,,,,,
+47,stargazers,nfriedly_node-bestzip,2020-01-16 20:44:49+00:00,,,,,
+48,stargazers,nfriedly_node-bestzip,2020-02-14 07:13:49+00:00,,,,,
+49,stargazers,nfriedly_node-bestzip,2020-02-15 06:09:25+00:00,,,,,
+50,stargazers,nfriedly_node-bestzip,2020-02-18 06:05:37+00:00,,,,,
+51,stargazers,nfriedly_node-bestzip,2020-02-27 15:18:22+00:00,,,,,
+52,stargazers,nfriedly_node-bestzip,2020-03-02 10:13:26+00:00,,,,,
+53,stargazers,nfriedly_node-bestzip,2020-05-07 10:55:08+00:00,,,,,
+54,stargazers,nfriedly_node-bestzip,2020-06-04 16:05:19+00:00,,,,,
+55,stargazers,nfriedly_node-bestzip,2020-07-13 16:15:52+00:00,,,,,
+56,stargazers,nfriedly_node-bestzip,2020-09-17 13:09:21+00:00,,,,,
+57,stargazers,nfriedly_node-bestzip,2020-09-28 12:31:12+00:00,,,,,
+58,stargazers,nfriedly_node-bestzip,2020-10-01 01:27:58+00:00,,,,,
+59,stargazers,nfriedly_node-bestzip,2020-10-18 10:36:32+00:00,,,,,
+60,stargazers,nfriedly_node-bestzip,2020-11-18 10:19:41+00:00,,,,,
+61,stargazers,nfriedly_node-bestzip,2021-03-23 07:04:07+00:00,,,,,
+62,stargazers,nfriedly_node-bestzip,2021-03-24 14:58:18+00:00,,,,,
+63,stargazers,nfriedly_node-bestzip,2021-04-21 08:56:23+00:00,,,,,
+64,stargazers,nfriedly_node-bestzip,2021-08-12 22:37:39+00:00,,,,,
+65,stargazers,nfriedly_node-bestzip,2021-08-21 21:21:29+00:00,,,,,
+66,stargazers,nfriedly_node-bestzip,2021-12-10 14:21:49+00:00,,,,,
+67,stargazers,nfriedly_node-bestzip,2022-01-17 13:26:13+00:00,,,,,
+68,stargazers,nfriedly_node-bestzip,2022-02-07 02:52:28+00:00,,,,,
+69,stargazers,nfriedly_node-bestzip,2022-04-09 16:49:36+00:00,,,,,

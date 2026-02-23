@@ -1,0 +1,709 @@
+,type,name,created_at,Hash,Add,Del,Files,Vuln
+137468,IssueCommentEvent,halostatue_minitar,2015-04-10 04:45:29 UTC,,,,,
+321258,ForkEvent,halostatue_minitar,2015-02-16 21:49:33 UTC,,,,,
+612093,IssueCommentEvent,halostatue_minitar,2015-03-03 17:18:39 UTC,,,,,
+986755,IssueCommentEvent,halostatue_minitar,2015-03-26 19:49:57 UTC,,,,,
+1020751,WatchEvent,halostatue_minitar,2015-07-22 17:42:11 UTC,,,,,
+1128685,IssueCommentEvent,halostatue_minitar,2015-03-26 19:49:54 UTC,,,,,
+1164046,PullRequestEvent,halostatue_minitar,2015-03-26 18:41:51 UTC,,,,,
+1809514,IssueCommentEvent,halostatue_minitar,2015-03-03 17:18:38 UTC,,,,,
+2087043,PullRequestEvent,halostatue_minitar,2015-03-03 17:10:26 UTC,,,,,
+2982951,IssueCommentEvent,halostatue_minitar,2015-03-16 15:04:04 UTC,,,,,
+3300947,ForkEvent,halostatue_minitar,2015-03-03 17:05:25 UTC,,,,,
+52127,PullRequestEvent,halostatue_minitar,2016-07-01 04:20:58 UTC,,,,,
+55503,IssueCommentEvent,halostatue_minitar,2016-11-14 21:43:04 UTC,,,,,
+57111,PushEvent,halostatue_minitar,2016-11-04 06:14:37 UTC,,,,,
+71336,IssueCommentEvent,halostatue_minitar,2016-11-08 19:10:14 UTC,,,,,
+115615,PullRequestEvent,halostatue_minitar,2016-11-05 05:02:17 UTC,,,,,
+131454,PullRequestEvent,halostatue_minitar,2016-11-14 04:26:18 UTC,,,,,
+202812,PushEvent,halostatue_minitar,2016-11-03 06:57:24 UTC,,,,,
+235179,CreateEvent,halostatue_minitar,2016-11-08 19:13:50 UTC,,,,,
+276554,IssueCommentEvent,halostatue_minitar,2016-11-03 06:06:51 UTC,,,,,
+284426,PushEvent,halostatue_minitar,2016-11-14 21:38:11 UTC,,,,,
+310367,DeleteEvent,halostatue_minitar,2016-11-08 19:14:17 UTC,,,,,
+445253,PushEvent,halostatue_minitar,2016-11-05 23:44:13 UTC,,,,,
+490988,IssueCommentEvent,halostatue_minitar,2016-11-14 21:37:36 UTC,,,,,
+502501,WatchEvent,halostatue_minitar,2016-02-06 10:19:19 UTC,,,,,
+511592,PushEvent,halostatue_minitar,2016-11-14 04:54:06 UTC,,,,,
+713343,PushEvent,halostatue_minitar,2016-11-14 21:36:59 UTC,,,,,
+724341,IssueCommentEvent,halostatue_minitar,2016-11-14 21:37:36 UTC,,,,,
+834515,IssueCommentEvent,halostatue_minitar,2016-11-14 05:05:34 UTC,,,,,
+922958,IssueCommentEvent,halostatue_minitar,2016-11-03 06:19:50 UTC,,,,,
+975105,PushEvent,halostatue_minitar,2016-11-08 19:03:31 UTC,,,,,
+1128471,IssueCommentEvent,halostatue_minitar,2016-11-03 06:18:23 UTC,,,,,
+1336579,IssueCommentEvent,halostatue_minitar,2016-11-08 19:20:28 UTC,,,,,
+1415459,IssueCommentEvent,halostatue_minitar,2016-11-08 18:43:38 UTC,,,,,
+1471130,PushEvent,halostatue_minitar,2016-11-08 19:23:53 UTC,,,,,
+1475476,IssuesEvent,halostatue_minitar,2016-11-04 05:44:01 UTC,,,,,
+1613295,PushEvent,halostatue_minitar,2016-11-03 06:20:02 UTC,,,,,
+1636909,IssueCommentEvent,halostatue_minitar,2016-11-04 05:46:34 UTC,,,,,
+1655745,IssueCommentEvent,halostatue_minitar,2016-07-01 05:49:19 UTC,,,,,
+1668185,IssueCommentEvent,halostatue_minitar,2016-07-01 05:38:39 UTC,,,,,
+1668219,IssueCommentEvent,halostatue_minitar,2016-07-01 15:10:19 UTC,,,,,
+1710859,PushEvent,halostatue_minitar,2016-11-03 06:31:21 UTC,,,,,
+1781937,IssueCommentEvent,halostatue_minitar,2016-11-14 05:05:34 UTC,,,,,
+1807340,IssueCommentEvent,halostatue_minitar,2016-11-05 05:38:58 UTC,,,,,
+1872032,PushEvent,halostatue_minitar,2016-11-14 21:28:35 UTC,,,,,
+1873282,PullRequestEvent,halostatue_minitar,2016-11-08 19:39:54 UTC,,,,,
+1897880,IssuesEvent,halostatue_minitar,2016-11-03 06:06:53 UTC,,,,,
+1939471,IssueCommentEvent,halostatue_minitar,2016-07-01 04:21:47 UTC,,,,,
+2027637,IssueCommentEvent,halostatue_minitar,2016-11-05 05:38:58 UTC,,,,,
+2103295,IssueCommentEvent,halostatue_minitar,2016-11-03 06:11:54 UTC,,,,,
+2117387,PushEvent,halostatue_minitar,2016-11-05 05:30:56 UTC,,,,,
+2139778,PushEvent,halostatue_minitar,2016-11-14 21:33:06 UTC,,,,,
+2233170,IssueCommentEvent,halostatue_minitar,2016-11-08 18:43:39 UTC,,,,,
+2387457,IssueCommentEvent,halostatue_minitar,2016-11-14 21:35:03 UTC,,,,,
+2446784,CreateEvent,halostatue_minitar,2016-11-14 04:26:09 UTC,,,,,
+2539357,IssueCommentEvent,halostatue_minitar,2016-11-04 07:26:20 UTC,,,,,
+2586112,IssuesEvent,halostatue_minitar,2016-08-22 20:08:02 UTC,,,,,
+2608439,MemberEvent,halostatue_minitar,2016-01-15 13:54:07 UTC,,,,,
+2661879,CreateEvent,halostatue_minitar,2016-11-05 03:48:00 UTC,,,,,
+2672002,IssueCommentEvent,halostatue_minitar,2016-11-14 21:43:04 UTC,,,,,
+2700102,IssueCommentEvent,halostatue_minitar,2016-11-14 21:37:35 UTC,,,,,
+2809735,DeleteEvent,halostatue_minitar,2016-11-08 19:39:56 UTC,,,,,
+2936426,IssueCommentEvent,halostatue_minitar,2016-11-14 21:43:04 UTC,,,,,
+3008777,IssueCommentEvent,halostatue_minitar,2016-11-14 21:37:35 UTC,,,,,
+3017905,PullRequestEvent,halostatue_minitar,2016-11-08 19:14:13 UTC,,,,,
+3024461,IssueCommentEvent,halostatue_minitar,2016-07-01 05:36:29 UTC,,,,,
+3029150,PushEvent,halostatue_minitar,2016-11-14 04:55:38 UTC,,,,,
+3066910,PushEvent,halostatue_minitar,2016-11-04 05:32:49 UTC,,,,,
+3117263,PushEvent,halostatue_minitar,2016-11-03 06:12:32 UTC,,,,,
+3184948,IssueCommentEvent,halostatue_minitar,2016-11-14 21:43:04 UTC,,,,,
+3189515,PushEvent,halostatue_minitar,2016-11-04 07:08:45 UTC,,,,,
+3197045,PullRequestEvent,halostatue_minitar,2016-11-03 06:12:32 UTC,,,,,
+3272836,PullRequestEvent,halostatue_minitar,2016-07-01 05:37:51 UTC,,,,,
+3339056,IssueCommentEvent,halostatue_minitar,2016-07-02 04:56:16 UTC,,,,,
+3345242,IssueCommentEvent,halostatue_minitar,2016-11-14 05:05:34 UTC,,,,,
+3351664,IssueCommentEvent,halostatue_minitar,2016-11-14 21:37:36 UTC,,,,,
+3436010,IssuesEvent,halostatue_minitar,2016-11-04 07:26:20 UTC,,,,,
+3466666,PushEvent,halostatue_minitar,2016-11-08 18:36:54 UTC,,,,,
+3685839,IssueCommentEvent,halostatue_minitar,2016-11-08 19:27:42 UTC,,,,,
+3692181,IssueCommentEvent,halostatue_minitar,2016-07-01 04:59:44 UTC,,,,,
+3709397,PushEvent,halostatue_minitar,2016-11-08 19:39:54 UTC,,,,,
+3796503,IssueCommentEvent,halostatue_minitar,2016-11-14 04:32:09 UTC,,,,,
+3802538,PullRequestEvent,halostatue_minitar,2016-11-03 06:20:01 UTC,,,,,
+3821983,IssueCommentEvent,halostatue_minitar,2016-11-05 05:07:14 UTC,,,,,
+3864078,PushEvent,halostatue_minitar,2016-11-05 23:45:18 UTC,,,,,
+3952275,ForkEvent,halostatue_minitar,2016-07-01 04:20:23 UTC,,,,,
+3973321,IssueCommentEvent,halostatue_minitar,2016-07-03 21:59:09 UTC,,,,,
+3976394,IssueCommentEvent,halostatue_minitar,2016-11-14 05:12:47 UTC,,,,,
+4037714,PushEvent,halostatue_minitar,2016-11-04 06:05:40 UTC,,,,,
+4048566,PullRequestEvent,halostatue_minitar,2016-11-08 19:14:29 UTC,,,,,
+4103945,PushEvent,halostatue_minitar,2016-11-04 06:33:43 UTC,,,,,
+4127419,IssueCommentEvent,halostatue_minitar,2016-11-05 05:38:58 UTC,,,,,
+4160712,PushEvent,halostatue_minitar,2016-11-03 12:32:16 UTC,,,,,
+159868,ForkEvent,halostatue_minitar,2017-02-14 08:39:43 UTC,,,,,
+161370,ForkEvent,halostatue_minitar,2017-06-18 15:10:48 UTC,,,,,
+232810,ForkEvent,halostatue_minitar,2017-10-31 20:44:21 UTC,,,,,
+276439,ForkEvent,halostatue_minitar,2017-02-08 00:03:56 UTC,,,,,
+352663,PushEvent,halostatue_minitar,2017-02-06 02:46:39 UTC,,,,,
+375869,PushEvent,halostatue_minitar,2017-02-08 00:46:30 UTC,,,,,
+420170,PushEvent,halostatue_minitar,2017-02-08 00:53:37 UTC,,,,,
+445584,PushEvent,halostatue_minitar,2017-02-07 16:06:18 UTC,,,,,
+513584,PushEvent,halostatue_minitar,2017-02-06 03:01:50 UTC,,,,,
+590873,PushEvent,halostatue_minitar,2017-02-07 17:49:13 UTC,,,,,
+613232,PushEvent,halostatue_minitar,2017-02-06 06:41:07 UTC,,,,,
+620361,PushEvent,halostatue_minitar,2017-02-07 19:25:48 UTC,,,,,
+646767,PushEvent,halostatue_minitar,2017-02-07 04:08:48 UTC,,,,,
+693341,PushEvent,halostatue_minitar,2017-02-05 03:35:48 UTC,,,,,
+702998,PushEvent,halostatue_minitar,2017-02-07 04:23:44 UTC,,,,,
+777082,PushEvent,halostatue_minitar,2017-02-05 05:02:14 UTC,,,,,
+802129,PushEvent,halostatue_minitar,2017-02-07 22:26:10 UTC,,,,,
+851609,PushEvent,halostatue_minitar,2017-02-05 05:06:38 UTC,,,,,
+878973,PushEvent,halostatue_minitar,2017-02-07 04:26:53 UTC,,,,,
+888272,PushEvent,halostatue_minitar,2017-02-06 01:14:35 UTC,,,,,
+902345,PushEvent,halostatue_minitar,2017-02-08 00:54:25 UTC,,,,,
+908942,PushEvent,halostatue_minitar,2017-02-07 05:53:10 UTC,,,,,
+1403368,WatchEvent,halostatue_minitar,2017-02-03 08:34:04 UTC,,,,,
+1414582,WatchEvent,halostatue_minitar,2017-10-12 01:38:02 UTC,,,,,
+1770137,WatchEvent,halostatue_minitar,2017-03-09 18:51:45 UTC,,,,,
+1827227,WatchEvent,halostatue_minitar,2017-04-25 08:37:45 UTC,,,,,
+1886327,WatchEvent,halostatue_minitar,2017-02-05 03:34:16 UTC,,,,,
+1933875,CreateEvent,halostatue_minitar,2017-02-07 17:00:06 UTC,,,,,
+1936342,CreateEvent,halostatue_minitar,2017-02-07 19:11:28 UTC,,,,,
+1952729,CreateEvent,halostatue_minitar,2017-02-07 21:11:17 UTC,,,,,
+1960723,CreateEvent,halostatue_minitar,2017-02-08 00:54:46 UTC,,,,,
+1981957,CreateEvent,halostatue_minitar,2017-02-08 00:27:45 UTC,,,,,
+1992303,DeleteEvent,halostatue_minitar,2017-02-07 04:23:49 UTC,,,,,
+1996099,DeleteEvent,halostatue_minitar,2017-02-08 00:53:38 UTC,,,,,
+2022591,DeleteEvent,halostatue_minitar,2017-02-07 19:25:50 UTC,,,,,
+2027503,DeleteEvent,halostatue_minitar,2017-02-07 17:49:15 UTC,,,,,
+2116624,IssuesEvent,halostatue_minitar,2017-02-07 21:33:30 UTC,,,,,
+2164312,IssuesEvent,halostatue_minitar,2017-02-08 00:53:36 UTC,,,,,
+2185876,IssuesEvent,halostatue_minitar,2017-11-18 23:20:03 UTC,,,,,
+2210407,IssuesEvent,halostatue_minitar,2017-02-08 00:53:36 UTC,,,,,
+2212152,IssuesEvent,halostatue_minitar,2017-02-07 22:45:24 UTC,,,,,
+2338508,IssuesEvent,halostatue_minitar,2017-11-17 23:23:43 UTC,,,,,
+2354170,IssuesEvent,halostatue_minitar,2017-02-07 04:23:43 UTC,,,,,
+2472646,PullRequestEvent,halostatue_minitar,2017-02-07 19:12:45 UTC,,,,,
+2490899,PullRequestEvent,halostatue_minitar,2017-02-07 19:25:48 UTC,,,,,
+2493008,PullRequestEvent,halostatue_minitar,2017-02-25 07:10:15 UTC,,,,,
+2627146,PullRequestEvent,halostatue_minitar,2017-02-07 19:25:47 UTC,,,,,
+2673348,PullRequestEvent,halostatue_minitar,2017-02-07 17:49:12 UTC,,,,,
+2718289,PullRequestEvent,halostatue_minitar,2017-02-08 00:53:36 UTC,,,,,
+2766360,PullRequestEvent,halostatue_minitar,2017-02-07 04:23:43 UTC,,,,,
+2776843,PullRequestEvent,halostatue_minitar,2017-02-07 17:00:20 UTC,,,,,
+2854169,PullRequestEvent,halostatue_minitar,2017-02-08 00:27:49 UTC,,,,,
+2897952,IssueCommentEvent,halostatue_minitar,2017-02-06 02:50:15 UTC,,,,,
+2913447,IssueCommentEvent,halostatue_minitar,2017-02-06 03:08:53 UTC,,,,,
+2917978,IssueCommentEvent,halostatue_minitar,2017-02-07 19:22:44 UTC,,,,,
+2929483,IssueCommentEvent,halostatue_minitar,2017-02-07 19:22:44 UTC,,,,,
+2944381,IssueCommentEvent,halostatue_minitar,2017-02-07 23:11:04 UTC,,,,,
+2963556,IssueCommentEvent,halostatue_minitar,2017-01-29 14:59:18 UTC,,,,,
+2986681,IssueCommentEvent,halostatue_minitar,2017-02-25 07:14:13 UTC,,,,,
+2997974,IssueCommentEvent,halostatue_minitar,2017-02-07 23:41:09 UTC,,,,,
+3017365,IssueCommentEvent,halostatue_minitar,2017-02-05 05:25:54 UTC,,,,,
+3024569,IssueCommentEvent,halostatue_minitar,2017-02-07 23:13:08 UTC,,,,,
+3025577,IssueCommentEvent,halostatue_minitar,2017-02-07 19:22:44 UTC,,,,,
+3032679,IssueCommentEvent,halostatue_minitar,2017-02-08 00:10:34 UTC,,,,,
+3069717,IssueCommentEvent,halostatue_minitar,2017-02-06 03:08:53 UTC,,,,,
+3079037,IssueCommentEvent,halostatue_minitar,2017-02-05 05:28:24 UTC,,,,,
+3080054,IssueCommentEvent,halostatue_minitar,2017-02-08 00:03:16 UTC,,,,,
+3121680,IssueCommentEvent,halostatue_minitar,2017-01-25 02:13:03 UTC,,,,,
+3133017,IssueCommentEvent,halostatue_minitar,2017-11-18 13:50:02 UTC,,,,,
+3135086,IssueCommentEvent,halostatue_minitar,2017-02-03 03:17:16 UTC,,,,,
+3166735,IssueCommentEvent,halostatue_minitar,2017-02-02 23:55:27 UTC,,,,,
+3186640,IssueCommentEvent,halostatue_minitar,2017-02-05 05:25:54 UTC,,,,,
+3202001,IssueCommentEvent,halostatue_minitar,2017-02-07 19:22:44 UTC,,,,,
+3220015,IssueCommentEvent,halostatue_minitar,2017-02-07 19:23:19 UTC,,,,,
+3251316,IssueCommentEvent,halostatue_minitar,2017-02-05 05:28:23 UTC,,,,,
+3260147,IssueCommentEvent,halostatue_minitar,2017-02-05 05:25:54 UTC,,,,,
+3279313,IssueCommentEvent,halostatue_minitar,2017-02-07 23:41:56 UTC,,,,,
+3285437,IssueCommentEvent,halostatue_minitar,2017-02-06 01:22:11 UTC,,,,,
+3297312,IssueCommentEvent,halostatue_minitar,2017-01-27 17:38:05 UTC,,,,,
+3308615,IssueCommentEvent,halostatue_minitar,2017-02-05 05:25:54 UTC,,,,,
+3325213,IssueCommentEvent,halostatue_minitar,2017-02-06 03:08:53 UTC,,,,,
+3330157,IssueCommentEvent,halostatue_minitar,2017-02-06 02:50:15 UTC,,,,,
+3332614,IssueCommentEvent,halostatue_minitar,2017-02-07 17:07:25 UTC,,,,,
+3345865,IssueCommentEvent,halostatue_minitar,2017-02-08 00:12:16 UTC,,,,,
+3350612,IssueCommentEvent,halostatue_minitar,2017-02-05 05:28:23 UTC,,,,,
+3447057,IssueCommentEvent,halostatue_minitar,2017-02-06 01:22:11 UTC,,,,,
+3474131,IssueCommentEvent,halostatue_minitar,2017-02-25 07:14:13 UTC,,,,,
+3562166,IssueCommentEvent,halostatue_minitar,2017-02-25 07:30:59 UTC,,,,,
+3576617,IssueCommentEvent,halostatue_minitar,2017-02-05 03:42:27 UTC,,,,,
+3600345,IssueCommentEvent,halostatue_minitar,2017-02-07 23:08:53 UTC,,,,,
+3603009,IssueCommentEvent,halostatue_minitar,2017-02-07 23:36:31 UTC,,,,,
+3615406,IssueCommentEvent,halostatue_minitar,2017-02-08 00:00:38 UTC,,,,,
+3617082,IssueCommentEvent,halostatue_minitar,2017-02-25 07:30:59 UTC,,,,,
+3632453,IssueCommentEvent,halostatue_minitar,2017-02-07 23:32:45 UTC,,,,,
+3638042,IssueCommentEvent,halostatue_minitar,2017-02-07 19:22:44 UTC,,,,,
+3640758,IssueCommentEvent,halostatue_minitar,2017-02-07 04:15:53 UTC,,,,,
+3678923,IssueCommentEvent,halostatue_minitar,2017-01-24 17:05:23 UTC,,,,,
+3685478,IssueCommentEvent,halostatue_minitar,2017-02-08 00:00:00 UTC,,,,,
+3694546,IssueCommentEvent,halostatue_minitar,2017-02-07 17:15:08 UTC,,,,,
+3714465,IssueCommentEvent,halostatue_minitar,2017-02-25 07:30:59 UTC,,,,,
+3791273,IssueCommentEvent,halostatue_minitar,2017-02-06 06:47:39 UTC,,,,,
+3799725,IssueCommentEvent,halostatue_minitar,2017-02-05 05:28:24 UTC,,,,,
+3819294,IssueCommentEvent,halostatue_minitar,2017-02-05 05:28:23 UTC,,,,,
+3819947,IssueCommentEvent,halostatue_minitar,2017-02-25 07:15:00 UTC,,,,,
+3821963,IssueCommentEvent,halostatue_minitar,2017-02-08 00:21:45 UTC,,,,,
+3830360,IssueCommentEvent,halostatue_minitar,2017-02-07 23:41:07 UTC,,,,,
+3836973,IssueCommentEvent,halostatue_minitar,2017-02-06 01:22:11 UTC,,,,,
+3857890,IssueCommentEvent,halostatue_minitar,2017-02-08 00:36:25 UTC,,,,,
+3919974,IssueCommentEvent,halostatue_minitar,2017-01-25 02:12:50 UTC,,,,,
+3919975,IssueCommentEvent,halostatue_minitar,2017-02-07 19:22:44 UTC,,,,,
+3927811,IssueCommentEvent,halostatue_minitar,2017-02-27 02:53:25 UTC,,,,,
+3932207,IssueCommentEvent,halostatue_minitar,2017-02-25 07:30:59 UTC,,,,,
+3940737,IssueCommentEvent,halostatue_minitar,2017-11-18 13:46:19 UTC,,,,,
+4007783,IssueCommentEvent,halostatue_minitar,2017-02-06 01:22:11 UTC,,,,,
+4011851,IssueCommentEvent,halostatue_minitar,2017-02-06 02:50:15 UTC,,,,,
+4016978,IssueCommentEvent,halostatue_minitar,2017-02-06 03:08:53 UTC,,,,,
+4020484,IssueCommentEvent,halostatue_minitar,2017-02-07 22:47:16 UTC,,,,,
+4022426,IssueCommentEvent,halostatue_minitar,2017-02-08 00:36:17 UTC,,,,,
+4029589,IssueCommentEvent,halostatue_minitar,2017-02-08 00:09:34 UTC,,,,,
+4047751,IssueCommentEvent,halostatue_minitar,2017-02-25 07:30:59 UTC,,,,,
+4054698,IssueCommentEvent,halostatue_minitar,2017-02-25 07:14:13 UTC,,,,,
+4062550,IssueCommentEvent,halostatue_minitar,2017-02-07 04:15:53 UTC,,,,,
+4065925,IssueCommentEvent,halostatue_minitar,2017-02-07 22:54:41 UTC,,,,,
+4087571,IssueCommentEvent,halostatue_minitar,2017-02-06 03:08:53 UTC,,,,,
+4104067,IssueCommentEvent,halostatue_minitar,2017-02-08 00:29:10 UTC,,,,,
+4116922,IssueCommentEvent,halostatue_minitar,2017-11-18 23:20:03 UTC,,,,,
+4121657,IssueCommentEvent,halostatue_minitar,2017-02-25 07:14:13 UTC,,,,,
+4125807,IssueCommentEvent,halostatue_minitar,2017-02-06 01:22:11 UTC,,,,,
+4148617,IssueCommentEvent,halostatue_minitar,2017-02-08 00:50:11 UTC,,,,,
+4173049,IssueCommentEvent,halostatue_minitar,2017-02-07 22:55:35 UTC,,,,,
+4173766,IssueCommentEvent,halostatue_minitar,2017-11-18 03:42:30 UTC,,,,,
+4192266,IssueCommentEvent,halostatue_minitar,2017-02-08 00:10:29 UTC,,,,,
+4204623,IssueCommentEvent,halostatue_minitar,2017-02-08 00:53:39 UTC,,,,,
+4236479,IssueCommentEvent,halostatue_minitar,2017-02-07 23:35:46 UTC,,,,,
+4239600,IssueCommentEvent,halostatue_minitar,2017-02-06 02:50:16 UTC,,,,,
+4245174,IssueCommentEvent,halostatue_minitar,2017-02-08 00:48:00 UTC,,,,,
+4256946,IssueCommentEvent,halostatue_minitar,2017-02-07 04:18:57 UTC,,,,,
+4345595,IssueCommentEvent,halostatue_minitar,2017-02-08 00:10:47 UTC,,,,,
+4353760,IssueCommentEvent,halostatue_minitar,2017-02-05 05:25:54 UTC,,,,,
+4379764,IssueCommentEvent,halostatue_minitar,2017-02-06 02:50:15 UTC,,,,,
+4392517,IssueCommentEvent,halostatue_minitar,2017-02-06 01:22:11 UTC,,,,,
+4406762,IssueCommentEvent,halostatue_minitar,2017-02-25 07:32:05 UTC,,,,,
+4441915,IssueCommentEvent,halostatue_minitar,2017-02-08 00:02:53 UTC,,,,,
+4447087,IssueCommentEvent,halostatue_minitar,2017-02-25 07:14:13 UTC,,,,,
+4467063,IssueCommentEvent,halostatue_minitar,2017-02-08 00:09:50 UTC,,,,,
+4487067,IssueCommentEvent,halostatue_minitar,2017-02-05 05:25:54 UTC,,,,,
+4499471,IssueCommentEvent,halostatue_minitar,2017-02-07 22:54:36 UTC,,,,,
+4527659,IssueCommentEvent,halostatue_minitar,2017-02-25 07:14:13 UTC,,,,,
+4533500,IssueCommentEvent,halostatue_minitar,2017-02-25 07:30:59 UTC,,,,,
+4545267,IssueCommentEvent,halostatue_minitar,2017-02-06 03:08:53 UTC,,,,,
+4604666,IssueCommentEvent,halostatue_minitar,2017-02-06 02:50:15 UTC,,,,,
+4694577,PullRequestReviewCommentEvent,halostatue_minitar,2017-02-27 02:56:54 UTC,,,,,
+4803262,PullRequestReviewCommentEvent,halostatue_minitar,2017-02-27 17:23:59 UTC,,,,,
+4935671,PullRequestReviewCommentEvent,halostatue_minitar,2017-02-27 16:57:23 UTC,,,,,
+4974407,PullRequestReviewCommentEvent,halostatue_minitar,2017-02-26 20:16:48 UTC,,,,,
+19811,CommitCommentEvent,halostatue_minitar,2018-06-16 12:13:58 UTC,,,,,
+33125,CommitCommentEvent,halostatue_minitar,2018-06-16 12:14:52 UTC,,,,,
+48982,ForkEvent,halostatue_minitar,2018-11-08 08:54:52 UTC,,,,,
+59790,ForkEvent,halostatue_minitar,2018-06-16 07:49:15 UTC,,,,,
+71449,ForkEvent,halostatue_minitar,2018-06-16 06:54:01 UTC,,,,,
+79779,ForkEvent,halostatue_minitar,2018-12-06 11:45:03 UTC,,,,,
+84895,ForkEvent,halostatue_minitar,2018-02-17 21:13:56 UTC,,,,,
+193596,ForkEvent,halostatue_minitar,2018-08-27 10:09:47 UTC,,,,,
+207912,ForkEvent,halostatue_minitar,2018-12-26 01:37:35 UTC,,,,,
+398500,PushEvent,halostatue_minitar,2018-10-26 23:15:51 UTC,,,,,
+405831,PushEvent,halostatue_minitar,2019-01-05 06:07:22 UTC,,,,,
+459026,PushEvent,halostatue_minitar,2019-01-05 04:43:21 UTC,,,,,
+504742,PushEvent,halostatue_minitar,2019-01-05 06:14:24 UTC,,,,,
+507898,PushEvent,halostatue_minitar,2019-01-05 06:00:24 UTC,,,,,
+534136,PushEvent,halostatue_minitar,2018-10-26 23:16:36 UTC,,,,,
+534246,PushEvent,halostatue_minitar,2018-10-26 23:13:58 UTC,,,,,
+759414,PushEvent,halostatue_minitar,2019-01-05 05:59:47 UTC,,,,,
+931325,PushEvent,halostatue_minitar,2018-10-26 23:15:10 UTC,,,,,
+1440559,WatchEvent,halostatue_minitar,2018-09-28 15:35:52 UTC,,,,,
+1460123,WatchEvent,halostatue_minitar,2018-10-12 09:19:05 UTC,,,,,
+1743099,WatchEvent,halostatue_minitar,2018-11-04 14:33:54 UTC,,,,,
+1747880,WatchEvent,halostatue_minitar,2018-06-16 10:27:55 UTC,,,,,
+1817894,WatchEvent,halostatue_minitar,2018-04-09 10:04:36 UTC,,,,,
+1905864,CreateEvent,halostatue_minitar,2019-01-05 04:40:28 UTC,,,,,
+1951197,CreateEvent,halostatue_minitar,2018-10-28 03:30:19 UTC,,,,,
+1964060,CreateEvent,halostatue_minitar,2018-02-19 05:42:01 UTC,,,,,
+2171730,IssuesEvent,halostatue_minitar,2018-02-12 13:29:54 UTC,,,,,
+2324440,IssuesEvent,halostatue_minitar,2018-02-19 05:46:06 UTC,,,,,
+2429228,PullRequestEvent,halostatue_minitar,2019-01-05 04:43:20 UTC,,,,,
+2515745,PullRequestEvent,halostatue_minitar,2018-02-19 05:43:18 UTC,,,,,
+2548859,PullRequestEvent,halostatue_minitar,2018-12-26 02:05:29 UTC,,,,,
+2567568,PullRequestEvent,halostatue_minitar,2018-02-19 05:44:39 UTC,,,,,
+2570270,PullRequestEvent,halostatue_minitar,2019-01-05 05:59:46 UTC,,,,,
+2598590,PullRequestEvent,halostatue_minitar,2018-06-16 10:20:43 UTC,,,,,
+2605498,PullRequestEvent,halostatue_minitar,2018-08-27 10:55:26 UTC,,,,,
+2654777,PullRequestEvent,halostatue_minitar,2018-10-26 23:13:56 UTC,,,,,
+2664927,PullRequestEvent,halostatue_minitar,2018-11-08 10:52:22 UTC,,,,,
+2686525,PullRequestEvent,halostatue_minitar,2018-10-26 23:16:35 UTC,,,,,
+2687064,PullRequestEvent,halostatue_minitar,2018-10-26 23:15:50 UTC,,,,,
+2710548,PullRequestEvent,halostatue_minitar,2018-10-26 23:15:09 UTC,,,,,
+2731660,PullRequestEvent,halostatue_minitar,2018-02-17 21:19:21 UTC,,,,,
+2857131,PullRequestEvent,halostatue_minitar,2019-01-05 06:00:21 UTC,,,,,
+2900031,IssueCommentEvent,halostatue_minitar,2018-02-17 21:27:57 UTC,,,,,
+2916707,IssueCommentEvent,halostatue_minitar,2018-11-08 10:59:43 UTC,,,,,
+2956866,IssueCommentEvent,halostatue_minitar,2018-06-16 10:35:11 UTC,,,,,
+2964070,IssueCommentEvent,halostatue_minitar,2018-11-08 15:40:05 UTC,,,,,
+3003992,IssueCommentEvent,halostatue_minitar,2018-11-08 12:19:11 UTC,,,,,
+3015929,IssueCommentEvent,halostatue_minitar,2018-12-27 13:16:17 UTC,,,,,
+3089862,IssueCommentEvent,halostatue_minitar,2018-11-08 12:57:05 UTC,,,,,
+3112075,IssueCommentEvent,halostatue_minitar,2018-08-27 11:04:57 UTC,,,,,
+3140821,IssueCommentEvent,halostatue_minitar,2018-08-27 11:08:26 UTC,,,,,
+3217493,IssueCommentEvent,halostatue_minitar,2018-11-08 13:40:43 UTC,,,,,
+3233198,IssueCommentEvent,halostatue_minitar,2018-11-08 12:58:50 UTC,,,,,
+3293005,IssueCommentEvent,halostatue_minitar,2018-10-26 15:34:12 UTC,,,,,
+3318452,IssueCommentEvent,halostatue_minitar,2018-08-27 11:04:57 UTC,,,,,
+3353926,IssueCommentEvent,halostatue_minitar,2018-06-16 10:30:18 UTC,,,,,
+3469292,IssueCommentEvent,halostatue_minitar,2018-11-08 11:05:29 UTC,,,,,
+3513692,IssueCommentEvent,halostatue_minitar,2018-02-19 05:56:17 UTC,,,,,
+3532806,IssueCommentEvent,halostatue_minitar,2018-10-26 23:13:20 UTC,,,,,
+3546442,IssueCommentEvent,halostatue_minitar,2018-08-27 11:30:30 UTC,,,,,
+3554553,IssueCommentEvent,halostatue_minitar,2018-02-12 17:48:33 UTC,,,,,
+3586293,IssueCommentEvent,halostatue_minitar,2018-02-19 05:44:39 UTC,,,,,
+3621972,IssueCommentEvent,halostatue_minitar,2018-08-28 12:30:55 UTC,,,,,
+3627054,IssueCommentEvent,halostatue_minitar,2018-09-09 02:00:31 UTC,,,,,
+3755113,IssueCommentEvent,halostatue_minitar,2018-09-08 06:16:59 UTC,,,,,
+3917881,IssueCommentEvent,halostatue_minitar,2018-06-16 10:33:22 UTC,,,,,
+3942404,IssueCommentEvent,halostatue_minitar,2018-11-08 13:46:50 UTC,,,,,
+4012053,IssueCommentEvent,halostatue_minitar,2018-11-08 12:52:48 UTC,,,,,
+4046202,IssueCommentEvent,halostatue_minitar,2018-12-26 02:13:13 UTC,,,,,
+4057752,IssueCommentEvent,halostatue_minitar,2018-10-25 19:34:53 UTC,,,,,
+4107331,IssueCommentEvent,halostatue_minitar,2018-08-28 14:47:25 UTC,,,,,
+4119674,IssueCommentEvent,halostatue_minitar,2018-12-26 04:38:27 UTC,,,,,
+4174374,IssueCommentEvent,halostatue_minitar,2018-06-17 01:04:37 UTC,,,,,
+4175659,IssueCommentEvent,halostatue_minitar,2018-08-27 11:02:08 UTC,,,,,
+4182602,IssueCommentEvent,halostatue_minitar,2018-02-19 05:46:06 UTC,,,,,
+4220735,IssueCommentEvent,halostatue_minitar,2018-02-17 21:26:31 UTC,,,,,
+4235539,IssueCommentEvent,halostatue_minitar,2018-08-28 14:37:15 UTC,,,,,
+4454640,IssueCommentEvent,halostatue_minitar,2018-02-19 05:45:14 UTC,,,,,
+4460113,IssueCommentEvent,halostatue_minitar,2018-10-26 05:44:31 UTC,,,,,
+4475987,IssueCommentEvent,halostatue_minitar,2018-02-19 05:56:41 UTC,,,,,
+4528231,IssueCommentEvent,halostatue_minitar,2018-12-26 02:17:17 UTC,,,,,
+4554190,IssueCommentEvent,halostatue_minitar,2018-06-17 01:36:59 UTC,,,,,
+4900308,PullRequestReviewCommentEvent,halostatue_minitar,2018-08-28 14:29:11 UTC,,,,,
+68308,ForkEvent,halostatue_minitar,2019-07-23 23:33:19 UTC,,,,,
+93845,ForkEvent,halostatue_minitar,2019-07-24 20:07:32 UTC,,,,,
+93931,ForkEvent,halostatue_minitar,2019-02-04 21:12:31 UTC,,,,,
+391915,PushEvent,halostatue_minitar,2019-09-05 01:49:24 UTC,,,,,
+913392,PushEvent,halostatue_minitar,2019-09-05 01:47:22 UTC,,,,,
+1380610,WatchEvent,halostatue_minitar,2019-05-15 22:58:23 UTC,,,,,
+1665212,WatchEvent,halostatue_minitar,2019-08-28 12:37:56 UTC,,,,,
+1722000,WatchEvent,halostatue_minitar,2019-06-10 17:46:56 UTC,,,,,
+1880326,WatchEvent,halostatue_minitar,2019-12-14 12:32:17 UTC,,,,,
+1882563,WatchEvent,halostatue_minitar,2019-08-16 16:09:53 UTC,,,,,
+2245051,WatchEvent,halostatue_minitar,2019-06-05 11:55:51 UTC,,,,,
+2338423,CreateEvent,halostatue_minitar,2019-09-05 01:43:27 UTC,,,,,
+2350659,CreateEvent,halostatue_minitar,2019-09-05 01:50:10 UTC,,,,,
+3036730,PullRequestEvent,halostatue_minitar,2019-08-15 19:02:54 UTC,,,,,
+3541945,PullRequestEvent,halostatue_minitar,2019-09-05 01:49:24 UTC,,,,,
+3709158,IssueCommentEvent,halostatue_minitar,2019-09-03 20:09:32 UTC,,,,,
+3754048,IssueCommentEvent,halostatue_minitar,2019-09-05 17:07:01 UTC,,,,,
+4371085,IssueCommentEvent,halostatue_minitar,2019-08-15 19:07:05 UTC,,,,,
+4510808,IssueCommentEvent,halostatue_minitar,2019-09-05 02:52:30 UTC,,,,,
+4594336,IssueCommentEvent,halostatue_minitar,2019-09-05 01:50:46 UTC,,,,,
+5459609,IssueCommentEvent,halostatue_minitar,2019-09-05 03:03:09 UTC,,,,,
+5490628,IssueCommentEvent,halostatue_minitar,2019-08-15 19:09:06 UTC,,,,,
+0,Commit,halostatue_minitar,2022-03-25 05:53:48,e7a2786f66fef1be952de302f1204786a656355a,11.0,7.0,1.0,0.0
+1,Commit,halostatue_minitar,2022-03-24 17:20:09,ba5c6ca1185dc7f6848e6fa603e2cabe67983de7,16.0,8.0,1.0,0.0
+2,Commit,halostatue_minitar,2022-03-22 12:58:26,c07849413ddcfbaf04b8ab88786047fea7222338,9.0,1.0,1.0,0.0
+3,Commit,halostatue_minitar,2022-03-22 11:19:52,152adfd18e24b85601dc8b29976ff699f062b285,5.0,2.0,1.0,0.0
+4,Commit,halostatue_minitar,2022-03-22 11:17:20,cf900e508e9d4f724f141bafde0c4f575bb3d914,18.0,0.0,1.0,0.0
+5,Commit,halostatue_minitar,2022-03-22 11:16:55,94a7635aa2c159750138dfc03bd582f0c32d4927,11.0,0.0,1.0,0.0
+6,Commit,halostatue_minitar,2019-08-26 20:48:43,c6071253e38939bbf5b8c6f866da7549ce53386d,24.0,8.0,3.0,0.0
+7,Commit,halostatue_minitar,2019-01-05 06:00:20,14c6fe1b2b67675429160ef57d08c1e5106cab97,21.0,8.0,3.0,0.0
+8,Commit,halostatue_minitar,2018-10-26 23:15:49,7ae0b06d3305e6460173379516561f27f0dca27f,1.0,1.0,1.0,0.0
+9,Commit,halostatue_minitar,2018-10-26 23:15:08,ac4300296b2e5db95a66ea3299f6d9831f65289c,41.0,2.0,7.0,0.0
+10,Commit,halostatue_minitar,2018-10-26 23:13:55,3b75dbed1941afbc3a90f55b514e2af6277b4bd1,51.0,48.0,5.0,0.0
+11,Commit,halostatue_minitar,2017-02-08 00:54:12,3acdc06d182cbd2205ec1acd1619f3d011cf36ca,3.0,3.0,1.0,0.0
+12,Commit,halostatue_minitar,2017-02-08 00:53:34,380a5eac8197d2f58ab3a3d01f48ca0c9e41be90,121.0,23.0,13.0,0.0
+13,Commit,halostatue_minitar,2017-02-07 21:05:53,83daaf55e4388bb55be96a8f01cd9adb751632ac,4.0,4.0,2.0,0.0
+14,Commit,halostatue_minitar,2017-02-07 19:25:46,9e268fd439b88c30447221b12b3d60af3d0aba18,70.0,55.0,5.0,0.0
+15,Commit,halostatue_minitar,2017-02-07 19:25:46,b89ec5c9ed9c98166ad992899ee8efd2aa0d5783,25.0,0.0,2.0,0.0
+16,Commit,halostatue_minitar,2017-02-07 19:25:46,61b5c1281882ba7c0dcb8a773185a17b65f3f12c,31.0,7.0,4.0,0.0
+17,Commit,halostatue_minitar,2017-02-07 17:49:10,9136ee3b0b450f553cbd5dec48e39c719fef7743,314.0,264.0,14.0,0.0
+18,Commit,halostatue_minitar,2017-02-07 16:05:08,d17f2ae4dcdc42fdd36bfaf72d1d4d9c9941c107,9.0,3.0,4.0,0.0
+19,Commit,halostatue_minitar,2017-02-07 05:52:57,9781357824b1799c69dec324808c612b60f3e2f0,6.0,3.0,2.0,0.0
+20,Commit,halostatue_minitar,2017-02-07 04:26:49,121ffeb79f79de34b1df5d29f49071a09f2d8ab4,1.0,0.0,1.0,0.0
+21,Commit,halostatue_minitar,2017-02-07 04:23:42,f583014d495d718523b90fda1cd3b8c01ab52ff4,22.0,22.0,12.0,0.0
+22,Commit,halostatue_minitar,2017-02-07 04:23:42,30e62689b614938dc96b4f2cb8e033e72f650670,197.0,66.0,14.0,0.0
+23,Commit,halostatue_minitar,2016-11-08 19:39:53,27569dfa292584950958ead0118daa003d0f49e8,188.0,144.0,8.0,0.0
+24,Commit,halostatue_minitar,2016-11-04 07:08:25,a485f960307bbc3a2305469aece99dd73778fe72,240.0,61.0,7.0,0.0
+25,Commit,halostatue_minitar,2016-11-04 06:33:39,054c3a78dfc6d37ef9ff68022ddd36feb1a12e6b,17.0,20.0,2.0,0.0
+26,Commit,halostatue_minitar,2016-11-04 06:14:32,b0a942eaf75eaa1524ecbf520d38f901caea5777,1.0,1.0,1.0,0.0
+27,Commit,halostatue_minitar,2016-11-04 06:05:36,ca119a42f2ed5abfde66ebeb35634dbf928452d3,18.0,14.0,3.0,0.0
+28,Commit,halostatue_minitar,2016-11-04 05:31:38,f9665685ef744038bf85fd47f1c6363ca61aba6a,86.0,41.0,7.0,0.0
+29,Commit,halostatue_minitar,2016-11-03 12:32:11,38ab8f28d142268c80a165b80991a46a585f565d,2.0,4.0,1.0,0.0
+30,Commit,halostatue_minitar,2016-11-03 06:57:19,39691de74ad09646195b8725d47cacd41f87c164,1400.0,1335.0,21.0,0.0
+31,Commit,halostatue_minitar,2016-11-03 06:20:00,2ad0883f1ca980aff43bf1af2336a37e39470510,10.0,6.0,3.0,0.0
+32,Commit,halostatue_minitar,2016-11-03 06:12:31,cbada651c016f8f8bffbb92f94b83d65f2e19d61,3.0,3.0,2.0,0.0
+33,Commit,halostatue_minitar,2014-12-23 03:51:47,bfc5bfae3aa6582c64141f659a760824e4131884,25.0,2.0,4.0,0.0
+34,Commit,halostatue_minitar,2014-12-22 05:29:09,a652956b33d83e43ea13eb9a703db6c783926c99,143.0,52.0,4.0,0.0
+35,Commit,halostatue_minitar,2014-12-22 04:46:50,8a8891fa4245cfbdcc975d497c44d45da9178777,42.0,20.0,3.0,0.0
+36,Commit,halostatue_minitar,2014-12-22 04:40:43,57e3b7c80999d1eca41c6e1358154740dad7b056,44.0,5.0,3.0,0.0
+37,Commit,halostatue_minitar,2014-12-22 02:48:10,69e1ced7735db0592b6c1d2d4ecb91c345255097,33.0,358.0,8.0,0.0
+38,Commit,halostatue_minitar,2014-12-22 02:45:56,ea35ae62c38d199e1355df08ae62ae3fa011216d,13.0,851.0,6.0,0.0
+39,Commit,halostatue_minitar,2014-12-21 23:20:52,8c927dd126325b57f1652d2e745ea20eb117dba0,22.0,20.0,2.0,0.0
+40,Commit,halostatue_minitar,2014-12-21 23:08:55,524b894359f17672d9e6f76de0166aff9e8c3501,0.0,8.0,1.0,0.0
+41,Commit,halostatue_minitar,2014-12-21 23:03:19,0fb9ac450c8f2a036874bf66b742fc62572921c5,7.0,1.0,3.0,0.0
+42,Commit,halostatue_minitar,2014-12-21 22:49:40,a01d11334acf551512fce0a33ceda4dde181e19d,0.0,0.0,0.0,0.0
+43,Commit,halostatue_minitar,2014-12-21 22:44:04,0c1d3918a3b77833d0e419b19ca8c0633b197014,3279.0,2663.0,37.0,0.0
+44,Commit,halostatue_minitar,2011-07-30 23:37:42,c1f79f5ba55c73fcc8a0a5d804e293c02fcf681f,0.0,0.0,11.0,0.0
+45,Commit,halostatue_minitar,2011-07-30 23:37:18,51785ed3183cf35595b07e15d2aa2667991f5819,0.0,84.0,2.0,0.0
+46,Commit,halostatue_minitar,2011-07-30 23:36:55,3a606861761ab7815869bbdf952818bba7d21672,0.0,120911.0,1070.0,0.0
+47,Commit,halostatue_minitar,2008-02-26 22:54:48,79f7205cc94023191c47d9e48e33e87aae499fef,2.0,2.0,1.0,0.0
+48,Commit,halostatue_minitar,2008-02-26 22:34:47,d34f086c375eb3acad6219d520331b3c5ac0e5ed,0.0,2.0,1.0,0.0
+49,Commit,halostatue_minitar,2008-02-26 22:32:11,bd7b198dadf92ba8241a8c843d21a15eb629bfe4,33.0,49.0,10.0,0.0
+50,Commit,halostatue_minitar,2007-02-05 04:09:51,498bb3c674bf011a9b4d0ba6bb4a84a2a2c925b6,0.0,5729.0,19.0,0.0
+51,Commit,halostatue_minitar,2007-02-05 04:05:36,0b8fa777cab062609fa05952d1f7b9660e2e9cff,0.0,19046.0,1274.0,0.0
+52,Commit,halostatue_minitar,2005-05-04 22:02:50,ce4b5adfd52fa43b164201170e8d5013a611fb00,0.0,1.0,1.0,0.0
+53,Commit,halostatue_minitar,2005-01-17 04:28:32,475d30e3ded79a4a7d2dd04cce7da45a7ba24814,1.0,1.0,1.0,0.0
+54,Commit,halostatue_minitar,2004-12-23 18:41:06,09b2818e2a8cdc43839bd51b9a41ebc21a3d41ba,12.0,2.0,3.0,0.0
+55,Commit,halostatue_minitar,2004-12-22 05:31:38,c4b141140c669330a733b81310b6a8007e613522,11469.0,0.0,96.0,0.0
+56,Commit,halostatue_minitar,2004-12-22 05:31:38,5091a904b1b0305f635e07155681c92fa99ec120,6.0,3.0,2.0,0.0
+57,Commit,halostatue_minitar,2004-12-22 05:29:05,b2218d1412bc351ccaaea0867cf8483920f3b2d6,1.0,1.0,1.0,0.0
+58,Commit,halostatue_minitar,2004-12-21 19:37:24,1d98ade4ad2588a2432083ef4428182e3ce9f93a,11466.0,0.0,96.0,0.0
+59,Commit,halostatue_minitar,2004-12-21 19:37:24,d8b0f724565a480cab8114a2642915c0b33d4a23,2.0,2.0,1.0,0.0
+60,Commit,halostatue_minitar,2004-12-21 19:33:40,04a3d7462fd9ba4caaafc3f6e53d12676d01a0f7,11.0,12.0,2.0,0.0
+61,Commit,halostatue_minitar,2004-12-21 02:08:51,42ee4d840a774039bdb80a06f899d825760a7e7c,11467.0,0.0,96.0,0.0
+62,Commit,halostatue_minitar,2004-12-21 02:08:51,daf33535639b8a281fd75720780bf48fd884ac1b,54.0,34.0,3.0,0.0
+63,Commit,halostatue_minitar,2004-12-21 01:37:59,da5fcad40d619a9ea27b4230ad30aa6e94360a3a,168.0,123.0,13.0,0.0
+64,Commit,halostatue_minitar,2004-12-17 20:56:19,83341375ea2c7fea0175dc9a71168eed8ef30dbf,15.0,0.0,2.0,0.0
+65,Commit,halostatue_minitar,2004-12-17 15:59:14,575122d16d7e9fa4d342e2194a1b2471ab56bdf7,3.0,2.0,1.0,0.0
+66,Commit,halostatue_minitar,2004-12-17 15:56:33,867e7fa50321e1d6da40a62cb78136907f1f4470,1.0,1.0,1.0,0.0
+67,Commit,halostatue_minitar,2004-12-16 21:05:39,33da4e85f879ebb29cee7456aee19319b8253b95,7.0,8.0,3.0,0.0
+68,Commit,halostatue_minitar,2004-12-16 19:42:26,0c5f7be9e7c5a3eb82360b30e6fa437be5aea5eb,7.0,7.0,2.0,0.0
+69,Commit,halostatue_minitar,2004-11-29 01:35:19,16840cb2f2f308d7a759902713c5a503b9576e31,6.0,6.0,1.0,0.0
+70,Commit,halostatue_minitar,2004-11-28 23:59:18,e11a90d62167c930bd19631ea92500987f3fa91c,11387.0,0.0,95.0,0.0
+71,Commit,halostatue_minitar,2004-11-28 23:59:18,c2b456539cceed7e50243b704bfd7422894594e5,2.0,2.0,2.0,0.0
+72,Commit,halostatue_minitar,2004-11-28 23:28:16,d1f1d79bae9c8973c7efe6f926057b619a721760,20.0,15.0,6.0,0.0
+73,Commit,halostatue_minitar,2004-11-28 06:47:46,b946feac5ff3b9c2864d0c6801da0915811d6b17,1.0,1.0,1.0,0.0
+74,Commit,halostatue_minitar,2004-11-28 06:23:56,6004dbf324dc4eaac40e72d9b9bd0f47761b2a2d,2.0,2.0,1.0,0.0
+75,Commit,halostatue_minitar,2004-11-28 05:27:32,d8dee2115fd04cee4e81f8ea1c39917755aa2a71,13.0,7.0,4.0,0.0
+76,Commit,halostatue_minitar,2004-11-28 02:26:58,4ee77bf755ac4a7e9d30cd22a98e402c93b5bb59,104.0,26.0,11.0,0.0
+77,Commit,halostatue_minitar,2004-11-26 12:18:47,d7b3da99682bd3a42aac6395738b11c098a2fdf4,394.0,311.0,24.0,0.0
+78,Commit,halostatue_minitar,2004-11-25 15:57:22,256a00ad4ad3a8396872af5cd3991c14a98ea70f,217.0,146.0,9.0,0.0
+79,Commit,halostatue_minitar,2004-11-24 17:17:06,6aecf3b0ae98811da6a1f8857e65eea095cf2e7f,3.0,1.0,3.0,0.0
+80,Commit,halostatue_minitar,2004-11-22 20:11:33,85c0b252b58891dc5a389fc8f1f8190f6bc98ad1,7.0,0.0,1.0,0.0
+81,Commit,halostatue_minitar,2004-11-22 04:53:41,b6c1fae164e65b038a79704638e892fc68906e88,1107.0,1034.0,57.0,0.0
+82,Commit,halostatue_minitar,2004-11-11 23:52:32,3d868b9b3c25f9eafc781419f361999038c1076d,46.0,50.0,3.0,0.0
+83,Commit,halostatue_minitar,2004-11-09 23:24:46,4bc67db49afa1e7bed4621d149b1c277e3e96623,286.0,50.0,3.0,0.0
+84,Commit,halostatue_minitar,2004-11-09 22:14:37,dc8ca2b92e38371111a50e3c36e474293d650780,251.0,15.0,5.0,0.0
+85,Commit,halostatue_minitar,2004-11-09 14:55:35,2486bf881750c7691c77e445bcf722312dba97f6,482.0,242.0,10.0,0.0
+86,Commit,halostatue_minitar,2004-10-26 23:03:40,532f398fd8c783283cf39c8695f1239fbba73931,4.0,4.0,1.0,0.0
+87,Commit,halostatue_minitar,2004-10-26 21:54:54,bb17ff995343dfde4f1e352d787eab3734acf5e8,9.0,5.0,5.0,0.0
+88,Commit,halostatue_minitar,2004-10-17 20:31:10,4be91123bc24a77150191ff3373ef7d687bdd5ec,3499.0,0.0,17.0,0.0
+89,Commit,halostatue_minitar,2004-10-17 20:31:10,cb45e7f8f32afe61bfafaee4a1f2ceb4084e7aec,12.0,9.0,5.0,0.0
+90,Commit,halostatue_minitar,2004-10-17 19:33:21,030723745d745a8d3eb42a834830d19bba04263d,4.0,3.0,1.0,0.0
+91,Commit,halostatue_minitar,2004-10-15 00:53:23,94268844eefd26a3ad635f48efc8742f83d7abe7,10.0,3.0,1.0,0.0
+92,Commit,halostatue_minitar,2004-10-04 20:18:05,4312beef647ef9ad7702b81d5899382c969ffc04,23.0,6.0,2.0,0.0
+93,Commit,halostatue_minitar,2004-09-29 05:36:31,9b4cbe75ba5dae13683e36903253fa282b18c228,10.0,30.0,4.0,0.0
+94,Commit,halostatue_minitar,2004-09-27 19:50:50,7b1a2296843bc8f72c8f25f09fe53c3476776645,9.0,2.0,5.0,0.0
+95,Commit,halostatue_minitar,2004-09-27 19:48:43,1a1f4d3446192146d3dce417a08e4afacd0dd670,0.0,10.0,1.0,0.0
+96,Commit,halostatue_minitar,2004-09-27 19:48:25,c227cb018aad9ea830febf9d4220f6a63c631bd0,14.0,1.0,1.0,0.0
+97,Commit,halostatue_minitar,2004-09-27 13:50:11,786f98c3967703f9bc80de4dc573c0770d584698,1.0,1.0,1.0,0.0
+98,Commit,halostatue_minitar,2004-09-27 13:16:48,57e28a0a2fa412113e213db0531581b4221a62a9,15.0,2.0,1.0,0.0
+99,Commit,halostatue_minitar,2004-09-27 04:48:28,424afefeab098fdd6a1547c156acefca6a0b2e34,340.0,236.0,36.0,0.0
+100,Commit,halostatue_minitar,2004-09-26 16:30:45,c516d32090f949e716c4bd6ec25b2038efb6a136,66.0,17.0,8.0,0.0
+101,Commit,halostatue_minitar,2004-09-26 01:51:42,c37525f57f7599d53c745ad4795a98cfb5b0aaf4,3482.0,0.0,17.0,0.0
+102,Commit,halostatue_minitar,2004-09-26 01:51:42,f0a8bf807452da79d7763e5205c2f5b53b14fc19,2.0,1.0,1.0,0.0
+103,Commit,halostatue_minitar,2004-09-26 01:37:49,006664f273058ff63536a00309fe677ea58db444,256.0,27.0,6.0,0.0
+104,Commit,halostatue_minitar,2004-09-24 14:45:19,74d763488dd31a7d590095b748975878e3b1f408,108.0,5.0,4.0,0.0
+105,Commit,halostatue_minitar,2004-09-23 20:47:28,49a4d49a485bdc05fadbd2a5c1581c4619e072c1,81.0,65.0,25.0,0.0
+106,Commit,halostatue_minitar,2004-09-23 15:07:53,5e5932bb0b8dba64a2cb7839bd6ef81cf2392b5f,1.0,2.0,1.0,0.0
+107,Commit,halostatue_minitar,2004-09-22 19:45:43,141d17cb6675d6abcecf3d040882340f8396a407,27.0,17.0,2.0,0.0
+108,Commit,halostatue_minitar,2004-09-22 17:47:43,6b9b39199fca60ab09b4ee89b1d08d57b6fe12be,2962.0,0.0,11.0,0.0
+109,Commit,halostatue_minitar,2004-09-22 17:47:43,b3f1b4771b2f83504dd4715bb2fbfe5ac66cd743,142.0,30.0,9.0,0.0
+110,Commit,halostatue_minitar,2004-09-22 16:13:15,adb0fb4be18f501d1ccfb7f4f7cdb351fe73d561,33.0,231.0,2.0,0.0
+111,Commit,halostatue_minitar,2004-09-22 15:39:41,49e9e8be364a547faadeff06beeeb624e14b3c63,0.0,1.0,1.0,0.0
+112,Commit,halostatue_minitar,2004-09-22 15:13:30,e077bcb9d2879a3f59ea34e26c1e6a213a8e74ee,91.0,57.0,15.0,0.0
+113,Commit,halostatue_minitar,2004-09-22 12:21:08,483070e01319ab57100c87e9ce1c49e94a42f334,3.0,1.0,1.0,0.0
+114,Commit,halostatue_minitar,2004-09-21 02:44:23,2e20a2571dce7ac733481e407a17df6d9a9a9c33,3387.0,1885.0,62.0,0.0
+115,Commit,halostatue_minitar,2004-09-14 18:51:26,671905c9c2bd59e2b67c620bdf00219f32b6139c,106.0,29.0,7.0,0.0
+116,Commit,halostatue_minitar,2004-09-13 11:36:41,5b8edcd7aaaa9fd7db45a1a6931828f1cde67a6f,1.0,1.0,1.0,0.0
+117,Commit,halostatue_minitar,2004-09-09 04:26:32,1d6e581971e5524495a0eb2cf3f6f83db2b9dcba,1.0,1.0,1.0,0.0
+118,Commit,halostatue_minitar,2004-09-07 02:27:29,9ea4d6ee52873acf66e5b469bf6d667f8ba91381,2851.0,0.0,10.0,0.0
+119,Commit,halostatue_minitar,2004-09-07 02:27:29,a857e287d573babc4f098390209af09173c6491b,2.0,2.0,1.0,0.0
+120,Commit,halostatue_minitar,2004-09-06 22:35:41,47645a2b3ff9508ff609f162792ba701c9a87b11,2851.0,0.0,10.0,0.0
+121,Commit,halostatue_minitar,2004-08-20 21:30:56,1919f1fbecac7290e9f5c02075ab94f81a981160,8622.0,0.0,85.0,0.0
+122,Commit,halostatue_minitar,2004-08-20 21:30:56,676defc27bb03299ec61e16c265da3512539ccd7,684.0,0.0,1.0,0.0
+123,Commit,halostatue_minitar,2004-08-18 21:24:19,eaab795265dd8ec3a50f3fc2d4dd360064e5115d,1.0,2.0,2.0,0.0
+124,Commit,halostatue_minitar,2004-08-18 05:49:54,b035c46624d42f4e13ba1ed1af32684303020f2f,159.0,135.0,4.0,0.0
+125,Commit,halostatue_minitar,2004-08-17 21:11:03,e39a696870dfe53700b993f8d13b31d97ba311c0,305.0,163.0,5.0,0.0
+126,Commit,halostatue_minitar,2004-08-16 11:28:27,0a86ded8d0e85a191f3194cd99ad3c3094063041,5.0,5.0,3.0,0.0
+127,Commit,halostatue_minitar,2004-08-16 06:13:44,430c4359a14b0b710432b6c23642751fbc49d239,1.0,0.0,1.0,0.0
+128,Commit,halostatue_minitar,2004-08-15 22:36:31,748d620c8424a80c68bfbc825085b46679cabd3d,7706.0,0.0,81.0,0.0
+129,Commit,halostatue_minitar,2004-08-15 22:36:31,bf96cbf5429fccf3e66c2b7e238951d458f4b05f,5.0,6.0,4.0,0.0
+130,Commit,halostatue_minitar,2004-08-15 20:36:33,c08158b0ea930dca2318fc212bed355eb8fd92e4,8.0,6.0,3.0,0.0
+131,Commit,halostatue_minitar,2004-08-15 20:23:56,a4883648f3b039dc8682a2ce83d9ddde41f9fd59,14.0,4.0,3.0,0.0
+132,Commit,halostatue_minitar,2004-08-15 20:18:14,0974a434f184b8ddce736f4107d0386b88dd0e0d,1228.0,645.0,57.0,0.0
+133,Commit,halostatue_minitar,2004-08-13 21:33:33,708e2295a6f6b46eb63950e769fd2101bada5f62,46.0,43.0,6.0,0.0
+134,Commit,halostatue_minitar,2004-08-13 06:32:52,b2257fc24bb981ed699b8cc47fe41cb09f2272c0,606.0,221.0,23.0,0.0
+135,Commit,halostatue_minitar,2004-08-13 03:44:15,b8e2333d5de40eebf358188dd0056b6d80423c30,11.0,1.0,1.0,0.0
+136,Commit,halostatue_minitar,2004-08-12 19:12:08,02be3809d4cc367da1200c5ca9ab5829af400ea9,3.0,3.0,2.0,0.0
+137,Commit,halostatue_minitar,2004-08-12 11:48:10,d85cf3202e1d770d5353fde2aa987f06bb0ee812,157.0,207.0,7.0,0.0
+138,Commit,halostatue_minitar,2004-08-11 20:24:18,bafa30e7b8ecd6907f5992b7aff910d09bc54574,223.0,299.0,23.0,0.0
+139,Commit,halostatue_minitar,2004-08-11 15:38:40,da01a5ff78fa95f7f31441b958e489354bb2fd28,2.0,1.0,2.0,0.0
+140,Commit,halostatue_minitar,2004-08-11 15:26:28,41c228807d0925ac561c793c526a50691d99e029,1.0,1.0,1.0,0.0
+141,Commit,halostatue_minitar,2004-08-11 11:20:01,8ba98609f77c775add747919c3a000373641bcdf,1005.0,562.0,35.0,0.0
+142,Commit,halostatue_minitar,2004-08-09 06:43:38,21e63c1d5d2b26252ce0e79fc11acbc9aa21ff2f,2445.0,1499.0,34.0,0.0
+143,Commit,halostatue_minitar,2004-08-09 05:55:39,0e72f272670e90d9012927dc6d5da14622ba0479,2574.0,0.0,16.0,0.0
+144,Commit,halostatue_minitar,2004-08-09 05:55:39,929ccfd9eefac5802026d66d433a68f3ecad5fbe,4.0,4.0,2.0,0.0
+145,Commit,halostatue_minitar,2004-08-09 05:53:42,83dba596401c81267ad2b363b8741ffd42a95c06,3271.0,0.0,15.0,0.0
+146,Commit,halostatue_minitar,2004-08-09 05:53:42,48c8ceed1fb0baa9613db2a811a8bb0d5b040c0d,3271.0,0.0,15.0,0.0
+147,Commit,halostatue_minitar,2004-08-09 05:53:42,3bd69b833f8e3931fd74f803f767c4f537e1875c,4.0,4.0,2.0,0.0
+148,Commit,halostatue_minitar,2004-08-08 20:33:10,13c715acbce7dabcd64d93bc7c143bd32c0cba11,569.0,240.0,15.0,0.0
+149,Commit,halostatue_minitar,2004-08-08 19:38:26,13a6383177f4324a7164558c622302d411c347d2,105.0,80.0,10.0,0.0
+150,Commit,halostatue_minitar,2004-08-07 14:30:26,8768385c7718bff7f4643e6c41fe1c441aa10b55,2549.0,0.0,18.0,0.0
+151,Commit,halostatue_minitar,2004-08-07 14:30:26,b7941585db927a530d34849ba6b9b9eb6e87100c,15.0,21.0,1.0,0.0
+152,Commit,halostatue_minitar,2004-08-07 14:18:55,a2ff6a53794761f975fa0453b31ea7d0b3a7681d,5.0,5.0,1.0,0.0
+153,Commit,halostatue_minitar,2004-08-07 12:56:24,7db8d1853da49c91fefc67f5506145f04e11fefe,512.0,406.0,9.0,0.0
+154,Commit,halostatue_minitar,2004-08-06 13:56:59,b27be8e99ae9c1b191ad2485f18a0ab1b5f6d253,17.0,2.0,3.0,0.0
+155,Commit,halostatue_minitar,2004-07-24 07:37:53,f4f30af7f77ca8c11c5f26949c336a149107fc78,18.0,15.0,1.0,0.0
+156,Commit,halostatue_minitar,2004-07-23 10:59:06,bae5ef86a86769386361846df58d2c1d05987a13,164.0,14.0,8.0,0.0
+157,Commit,halostatue_minitar,2004-07-23 03:41:54,3ec2ca193daae3c7b3f45d290bb8b12e866105ec,129.0,290.0,21.0,0.0
+158,Commit,halostatue_minitar,2004-07-22 19:52:59,3b668907c6242fac41d52feb2f68c52ba39be080,80.0,38.0,23.0,0.0
+159,Commit,halostatue_minitar,2004-07-22 12:34:18,7f798fdf4c4fd4780f3f3c433d007190565a2ae9,1357.0,864.0,14.0,0.0
+160,Commit,halostatue_minitar,2004-07-22 12:32:58,7b977afe574eec48df6170351069a60506cfbb51,260.0,143.0,5.0,0.0
+161,Commit,halostatue_minitar,2004-07-21 20:33:50,c457936504db5be6b9660b0133c457f47a27a2d1,503.0,374.0,7.0,0.0
+162,Commit,halostatue_minitar,2004-07-20 21:06:27,160a2b9b9423cc77085e288612839622ab1175fc,5.0,2.0,2.0,0.0
+163,Commit,halostatue_minitar,2004-07-20 11:33:56,d44b323884d2aaf662995ef45954f50b0ad30f14,12.0,6.0,3.0,0.0
+164,Commit,halostatue_minitar,2004-07-20 03:07:05,cfb736322d5dcebc86f5ecea4e2c9dbd29e9601b,190.0,124.0,13.0,0.0
+165,Commit,halostatue_minitar,2004-07-19 20:32:42,270bf6bef9ccf7e0fbfb33a9f4f085a7beecbaba,154.0,35.0,5.0,0.0
+166,Commit,halostatue_minitar,2004-07-18 05:01:02,d2fb9aea7bd0644c87aae23df0ee2245506552f2,2449.0,0.0,18.0,0.0
+167,Commit,halostatue_minitar,2004-07-18 05:01:02,42870d994b449bfdb5b75547e97d6dcf468783ae,2449.0,0.0,18.0,0.0
+168,Commit,halostatue_minitar,2004-07-18 05:01:02,715d63a67b20482ac72a4c5c5cc592dd3ede843f,39.0,22.0,7.0,0.0
+169,Commit,halostatue_minitar,2004-07-17 06:19:24,728be20bcdbe71eecb8347df45ad76c94522b8f1,1.0,0.0,1.0,0.0
+170,Commit,halostatue_minitar,2004-07-17 06:04:43,7c24b3148df52d8024ddd77de8a61a8a90037976,11.0,10.0,4.0,0.0
+171,Commit,halostatue_minitar,2004-07-17 06:03:59,237b7f7e33c18dd90b5ad81fedec7869a06bcf40,1.0,1.0,1.0,0.0
+172,Commit,halostatue_minitar,2004-07-17 05:56:54,c61a4051de5871f578bfa86806f89e391f5b51b6,1.0,1.0,1.0,0.0
+173,Commit,halostatue_minitar,2004-07-17 05:55:29,382a46d374ed961aabc5b5bca215ecab8b6dc19d,3.0,3.0,1.0,0.0
+174,Commit,halostatue_minitar,2004-07-17 05:54:24,3c2fc30124efd540432169e794dbe4f0414f67f9,4.0,4.0,1.0,0.0
+175,Commit,halostatue_minitar,2004-07-17 05:23:19,6adbe1c5fa1442a58667fdacd9d04613c9c5dd46,1.0,1.0,1.0,0.0
+176,Commit,halostatue_minitar,2004-07-14 19:50:58,d2b13c860078ae65998081ac78731674570ba644,1.0,2.0,1.0,0.0
+177,Commit,halostatue_minitar,2004-07-14 04:14:09,a9fcc87a2133af86416ee2e5723c6c9f0ef9543c,1.0,1.0,1.0,0.0
+178,Commit,halostatue_minitar,2004-07-11 20:43:42,79038903d1180a27a59fd3d31b6e04d38a0804e2,0.0,1.0,1.0,0.0
+179,Commit,halostatue_minitar,2004-07-11 20:34:09,a0507352e2085eef15efd7a76a2e7a0c5cd46ce4,98.0,104.0,1.0,0.0
+180,Commit,halostatue_minitar,2004-07-09 14:23:09,9c56a1c5d1ec2be9cec91daaff8c719d76826b93,1.0,1.0,1.0,0.0
+181,Commit,halostatue_minitar,2004-07-09 04:36:23,1eb8900b21798cee3c0a4b272ecc23379d58e5aa,4.0,0.0,1.0,0.0
+182,Commit,halostatue_minitar,2004-07-09 03:58:30,3f578501cd4020648c0300bce129ba4c8ede6c1a,240.0,23.0,17.0,0.0
+183,Commit,halostatue_minitar,2004-07-09 03:00:42,b128cf666e06969eeeac4f7e988fc3b73189e442,2.0,0.0,2.0,0.0
+184,Commit,halostatue_minitar,2004-07-09 02:56:41,26fdb10e10f636c357d68d286aedb2aebea62202,2.0,1.0,1.0,0.0
+185,Commit,halostatue_minitar,2004-07-09 02:55:26,290e7ff3dcd959e03cb33b8035bb1813c2c64413,2.0,1.0,1.0,0.0
+186,Commit,halostatue_minitar,2004-07-09 02:51:50,63d578cf91f6cf4b29e1ef1daa75b0134f71303d,22.0,5.0,5.0,0.0
+187,Commit,halostatue_minitar,2004-07-09 02:51:36,11b2948e51d067ee15bc0cbc15865a4e9909981e,4.0,3.0,1.0,0.0
+188,Commit,halostatue_minitar,2004-07-09 02:51:18,42b0d46579f8e2650a8e7c60885a6f3c3b66aab0,12.0,9.0,1.0,0.0
+189,Commit,halostatue_minitar,2004-07-08 14:00:17,124ac2de51c24427be45d5feb54e1b16180280ae,22.0,1.0,2.0,0.0
+190,Commit,halostatue_minitar,2004-07-05 05:44:53,4064f188108d74eebc48cc6e44de4a780f0686a7,2428.0,0.0,18.0,0.0
+191,Commit,halostatue_minitar,2004-07-05 05:44:53,60612d7bfd705054a139e84a8dd9917418ad7647,2428.0,0.0,18.0,0.0
+192,Commit,halostatue_minitar,2004-07-05 05:44:53,bea41720a864254fc8f1fa506c2dd65c67a2c840,49.0,32.0,8.0,0.0
+193,Commit,halostatue_minitar,2004-07-05 01:14:05,b29a55135cc444505877b807d8c4c05f0c609c00,2411.0,0.0,18.0,0.0
+194,Commit,halostatue_minitar,2004-07-05 01:14:05,bb43d1513799060da1ab174476c41aefc04cabeb,2411.0,0.0,18.0,0.0
+195,Commit,halostatue_minitar,2004-07-05 01:14:05,125f8f6526b89cd44d60564d4eed933a8359ac8c,23.0,9.0,2.0,0.0
+196,Commit,halostatue_minitar,2004-07-04 14:49:32,26f2265eec40e15a4c2e2b0415dd1ea716a5a7ac,2397.0,0.0,18.0,0.0
+197,Commit,halostatue_minitar,2004-07-03 20:27:14,a10acaa70b62671c4c4faf88ae99f706965060dc,10.0,2.0,3.0,0.0
+198,Commit,halostatue_minitar,2004-07-03 20:20:13,3c92803bad9386006c5674a176f2c6afcd3abdfa,18.0,8.0,2.0,0.0
+199,Commit,halostatue_minitar,2004-07-03 01:25:18,7761a36ef53f1c26e5dbbc408ef5e1359d100119,74.0,16.0,7.0,0.0
+200,Commit,halostatue_minitar,2004-07-02 22:25:25,b1b335acfe04e5ecd38a3c2e92b9e14c2596eef0,53.0,1.0,4.0,0.0
+201,Commit,halostatue_minitar,2004-07-01 06:12:25,6c8dfa7ad52a7c93a1746604682b9bf09c7125c0,6.0,0.0,2.0,0.0
+202,Commit,halostatue_minitar,2004-07-01 06:08:09,6f7f0c8c2a8cb828485f6d411ed7d101498f78a8,39.0,2.0,4.0,0.0
+203,Commit,halostatue_minitar,2004-06-19 05:47:48,9010fceb7d2afeb533a1e4a831ff8b24451c6a49,48.0,0.0,2.0,0.0
+204,Commit,halostatue_minitar,2004-06-18 04:48:07,da278ee95b005e912038ba2157e1e6c643c10b12,4767.0,0.0,64.0,0.0
+205,Commit,halostatue_minitar,2004-06-18 04:48:07,ad33dfacf51544510b6cd6c6cee969c2af18e6d6,7.0,4.0,1.0,0.0
+206,Commit,halostatue_minitar,2004-06-18 04:46:17,168d10b4fb8b87864add5fb54e3ab69f4eecbc89,119.0,0.0,3.0,0.0
+207,Commit,halostatue_minitar,2004-04-30 04:30:39,7d1c2413d664ba926711f372cd1f3c3920824a1b,8.0,0.0,1.0,0.0
+208,Commit,halostatue_minitar,2004-04-26 03:56:21,557f608922deed5f7903be9478d37333d747d094,4685.0,0.0,62.0,0.0
+209,Commit,halostatue_minitar,2004-04-26 03:56:21,dbcb4e2c8a5a4a685f3083c36e2ea355b45b1e23,4685.0,0.0,62.0,0.0
+210,Commit,halostatue_minitar,2004-04-26 03:56:21,0d32f5eab6489614b9f773127a8abaa27c438ceb,292.0,247.0,48.0,0.0
+211,Commit,halostatue_minitar,2004-04-26 03:18:58,b0491500ec96d50783b089218a406e1fa865c300,2.0,1.0,1.0,0.0
+212,Commit,halostatue_minitar,2004-04-23 22:40:48,0c27c0572f5a15c4e62ebff4c65509d6218c69ef,197.0,180.0,6.0,0.0
+213,Commit,halostatue_minitar,2004-04-23 06:01:12,2120a2fe514380d249f3c6bd411bbbf151abc928,1.0,0.0,1.0,0.0
+214,Commit,halostatue_minitar,2004-04-22 21:33:16,511207861ecdb030a056c0ae03f6fe87bb9698b5,631.0,255.0,28.0,0.0
+215,Commit,halostatue_minitar,2004-04-21 17:14:22,60c636af3f60f162e97e960daab35978d54f2366,2.0,2.0,1.0,0.0
+216,Commit,halostatue_minitar,2004-04-16 03:27:15,9fc84bc837ec8ff11962cd29e0ec67f2ebabf4ef,3.0,3.0,1.0,0.0
+217,Commit,halostatue_minitar,2004-04-16 03:10:06,47422af4084abfcd1c834d5e1bf01668cbacfaa8,312.0,280.0,19.0,0.0
+218,Commit,halostatue_minitar,2004-04-05 16:23:33,88729b21e5dfbae64b31b587864182f5947d09e3,20.0,11.0,3.0,0.0
+219,Commit,halostatue_minitar,2004-03-03 08:42:42,03578ab775b8324397f81b069f99f51e9abb3f74,86.0,26.0,4.0,0.0
+220,Commit,halostatue_minitar,2004-03-03 08:41:27,6683449e0485786c7fe4dc537e6119a3ce1b4b58,7.0,4.0,2.0,0.0
+221,Commit,halostatue_minitar,2004-03-03 07:43:27,6ad44d5dfa33042fae1b964b90f39c415d06f172,1.0,0.0,1.0,0.0
+222,Commit,halostatue_minitar,2004-02-11 08:10:50,d69e1689fcc6ae611c9a27917431b8c22c01c550,1.0,1.0,1.0,0.0
+223,Commit,halostatue_minitar,2004-01-29 04:29:56,42503b8ba255f92ba5389fe8c5cca8ada53b9120,1.0,1.0,1.0,0.0
+224,Commit,halostatue_minitar,2003-12-03 05:14:59,2a06fad486a750bb13fc2bbd22c30e9195fbd7f2,60.0,0.0,1.0,0.0
+225,Commit,halostatue_minitar,2003-11-20 08:09:47,30f67b43271217f4c7a60a865a7716f8f9d42a9a,2.0,2.0,1.0,0.0
+226,Commit,halostatue_minitar,2003-10-23 00:49:11,8bd6c5052da519d9619f609f9a2c0477e0e7a139,4081.0,0.0,58.0,0.0
+227,Commit,halostatue_minitar,2003-10-23 00:49:11,1179ad1d587fe363572f981801d2c620732a7391,290.0,3.0,20.0,0.0
+228,Commit,halostatue_minitar,2003-10-22 18:42:20,f481d19fa411c7aa8d8ada41dc0ffa7e0614a3ae,324.0,225.0,20.0,0.0
+229,Commit,halostatue_minitar,2003-10-20 22:49:31,496ff05bf994c533e5aab6318de1146c30ec55c8,1.0,1.0,1.0,0.0
+230,Commit,halostatue_minitar,2003-10-20 22:00:17,94a8599da58306a9e44536780ebb5e1114efa98e,3695.0,0.0,42.0,0.0
+231,Commit,halostatue_minitar,2003-10-20 22:00:17,542125d65c747eab2f853843789c19681670f82a,403.0,495.0,18.0,0.0
+232,Commit,halostatue_minitar,2003-10-18 03:54:56,2c19b6e769c519423baf7fd6499275f2073a690e,433.0,299.0,23.0,0.0
+233,Commit,halostatue_minitar,2003-10-14 00:48:31,07cd7f41fa151ac9c9c4055b5320fd14bb8362aa,158.0,40.0,14.0,0.0
+234,Commit,halostatue_minitar,2003-10-09 20:07:50,9efc1adc6c270292e322e3b48db338aef642a160,3535.0,0.0,47.0,0.0
+235,Commit,halostatue_minitar,2003-10-09 20:07:50,b78937b79733714ff464869f918bb060df886c26,3535.0,0.0,47.0,0.0
+236,Commit,halostatue_minitar,2003-10-09 20:07:50,7568ef60d8c50ea92e0831902fd9a3762e499b51,3535.0,0.0,47.0,0.0
+237,Commit,halostatue_minitar,2003-09-19 23:43:07,70c3747ad3856d0b0e2fb513417dcc91e299ab7b,141.0,0.0,8.0,0.0
+238,Commit,halostatue_minitar,2003-09-04 20:58:03,5ce28d065c618f6f3fab11b57df2fe29a0da8132,1.0,1.0,1.0,0.0
+239,Commit,halostatue_minitar,2003-09-04 20:56:15,4a75ebddb608b5345f144d617619467ac18b4817,1.0,1.0,1.0,0.0
+240,Commit,halostatue_minitar,2003-09-04 18:31:27,f34419edb9406d7989826226eede57911612de3c,21.0,0.0,1.0,0.0
+241,Commit,halostatue_minitar,2003-04-25 14:22:04,8459aede30dda90bebed7b609fb95104f0b9d004,56.0,0.0,1.0,0.0
+242,Commit,halostatue_minitar,2003-04-24 20:14:32,7dd26c68e1f10d0d73880afc8ebd9754c7244fb6,19.0,0.0,1.0,0.0
+243,Commit,halostatue_minitar,2003-04-24 19:46:12,aad2db70d1be0a43e5eb4ab1b3997ddc50b6043d,1.0,0.0,1.0,0.0
+244,Commit,halostatue_minitar,2003-04-24 19:43:45,8f6a61555f1f4eca257222fb7ec447eaddcaf0fa,26.0,0.0,1.0,0.0
+245,Commit,halostatue_minitar,2003-03-05 16:47:11,1b26992f33298917be0a824d59a3ac5ac7308920,1.0,1.0,1.0,0.0
+246,Commit,halostatue_minitar,2003-03-05 16:42:18,5e46a47e4c1795a84eb18162d994d4d87826d593,1.0,0.0,1.0,0.0
+247,Commit,halostatue_minitar,2003-02-28 19:37:09,3f3cb204b253a6df38067ca5c0308ccde978e4e6,1.0,1.0,1.0,0.0
+248,Commit,halostatue_minitar,2003-02-28 19:26:07,f7aaf2eafe11ec19f5d64daca3d5ab7dfa164f38,0.0,2.0,1.0,0.0
+249,Commit,halostatue_minitar,2003-02-28 19:10:35,0e90614e68514a56a68ecd1fdb0df66dbddc2dcb,1.0,1.0,1.0,0.0
+250,Commit,halostatue_minitar,2003-02-28 19:10:18,9f173e265272569500881252d5e81b6c4b5efe9a,1.0,1.0,1.0,0.0
+251,Commit,halostatue_minitar,2003-02-28 19:10:11,e5df60deadb0ed2add85aaa1a255014f2e7a1921,1.0,1.0,1.0,0.0
+252,Commit,halostatue_minitar,2003-02-28 19:09:57,4b5deda015b90d75486c8745007ee9e77217561b,1.0,1.0,1.0,0.0
+253,Commit,halostatue_minitar,2003-02-28 19:06:41,fbe8b76beeb136f32910e0ef0af2c5a4d891f7b8,1.0,1.0,1.0,0.0
+254,Commit,halostatue_minitar,2003-02-28 19:00:46,41e97265e9e4d97915ef0f88fe53f8f15bc66ee0,1.0,1.0,1.0,0.0
+255,Commit,halostatue_minitar,2003-02-28 19:00:06,484900db2d50f47aed5eeccc93738bd84acacdcb,2.0,1.0,1.0,0.0
+256,Commit,halostatue_minitar,2003-02-28 18:59:06,bd6d879c925364b5d4c95bdfad18630355076939,1.0,1.0,1.0,0.0
+257,Commit,halostatue_minitar,2003-02-28 18:24:49,bf922839ad8de39277a42ea24fd280f58e5c85bd,1.0,1.0,1.0,0.0
+258,Commit,halostatue_minitar,2003-02-28 18:23:12,bb0de201b08ac835250f3437a0ca723fd5337095,1.0,0.0,1.0,0.0
+259,Commit,halostatue_minitar,2003-02-28 18:17:45,c43b122f628d92dc6b705dbd400026c0b653c3d5,1.0,0.0,1.0,0.0
+260,Commit,halostatue_minitar,2003-02-28 18:13:00,8b03f48519c70309092bd7f19def0a6ded58712f,1.0,0.0,1.0,0.0
+0,forks,halostatue_minitar,2012-08-06 16:11:13+00:00,,,,,
+1,forks,halostatue_minitar,2013-02-23 15:24:38+00:00,,,,,
+2,forks,halostatue_minitar,2014-12-21 06:53:30+00:00,,,,,
+3,forks,halostatue_minitar,2015-03-03 17:05:23+00:00,,,,,
+4,forks,halostatue_minitar,2016-07-01 04:20:23+00:00,,,,,
+5,forks,halostatue_minitar,2017-02-08 00:03:56+00:00,,,,,
+6,forks,halostatue_minitar,2017-02-14 08:39:43+00:00,,,,,
+7,forks,halostatue_minitar,2017-06-18 15:10:48+00:00,,,,,
+8,forks,halostatue_minitar,2017-10-31 20:44:20+00:00,,,,,
+9,forks,halostatue_minitar,2018-02-17 21:13:56+00:00,,,,,
+10,forks,halostatue_minitar,2018-06-16 07:49:14+00:00,,,,,
+11,forks,halostatue_minitar,2018-12-06 11:45:03+00:00,,,,,
+12,forks,halostatue_minitar,2019-02-04 21:12:31+00:00,,,,,
+13,forks,halostatue_minitar,2019-07-23 23:33:19+00:00,,,,,
+14,forks,halostatue_minitar,2019-07-24 20:07:32+00:00,,,,,
+15,forks,halostatue_minitar,2020-03-09 22:01:01+00:00,,,,,
+16,forks,halostatue_minitar,2020-08-11 15:10:00+00:00,,,,,
+17,forks,halostatue_minitar,2020-11-04 17:33:56+00:00,,,,,
+18,forks,halostatue_minitar,2021-05-19 19:20:41+00:00,,,,,
+19,forks,halostatue_minitar,2022-03-08 14:21:41+00:00,,,,,
+20,forks,halostatue_minitar,2022-05-01 14:19:58+00:00,,,,,
+21,forks,halostatue_minitar,2022-05-13 21:20:50+00:00,,,,,
+0,issues,halostatue_minitar,2011-07-30 23:43:51+00:00,,,,,
+1,issues,halostatue_minitar,2011-07-30 23:46:33+00:00,,,,,
+2,issues,halostatue_minitar,2011-07-30 23:50:00+00:00,,,,,
+3,issues,halostatue_minitar,2011-07-30 23:54:04+00:00,,,,,
+4,issues,halostatue_minitar,2011-07-31 00:06:55+00:00,,,,,
+5,issues,halostatue_minitar,2011-07-31 00:10:33+00:00,,,,,
+6,issues,halostatue_minitar,2011-07-31 00:16:56+00:00,,,,,
+7,issues,halostatue_minitar,2011-07-31 00:21:32+00:00,,,,,
+8,issues,halostatue_minitar,2011-07-31 00:23:01+00:00,,,,,
+9,issues,halostatue_minitar,2016-08-22 20:08:00+00:00,,,,,
+10,issues,halostatue_minitar,2016-11-04 05:44:01+00:00,,,,,
+11,issues,halostatue_minitar,2017-02-07 21:33:30+00:00,,,,,
+12,issues,halostatue_minitar,2017-02-07 22:45:24+00:00,,,,,
+13,issues,halostatue_minitar,2017-11-17 23:23:43+00:00,,,,,
+14,issues,halostatue_minitar,2018-02-12 13:29:54+00:00,,,,,
+15,issues,halostatue_minitar,2018-03-16 01:03:12+00:00,,,,,
+0,pullRequests,halostatue_minitar,2014-12-21 06:16:24+00:00,,,,,
+1,pullRequests,halostatue_minitar,2014-12-21 23:09:20+00:00,,,,,
+2,pullRequests,halostatue_minitar,2015-03-03 17:10:26+00:00,,,,,
+3,pullRequests,halostatue_minitar,2015-03-26 18:41:51+00:00,,,,,
+4,pullRequests,halostatue_minitar,2016-07-01 04:20:57+00:00,,,,,
+5,pullRequests,halostatue_minitar,2016-07-01 05:37:50+00:00,,,,,
+6,pullRequests,halostatue_minitar,2016-11-05 05:02:17+00:00,,,,,
+7,pullRequests,halostatue_minitar,2016-11-08 19:14:29+00:00,,,,,
+8,pullRequests,halostatue_minitar,2016-11-14 04:26:18+00:00,,,,,
+9,pullRequests,halostatue_minitar,2017-02-07 17:00:20+00:00,,,,,
+10,pullRequests,halostatue_minitar,2017-02-07 19:12:45+00:00,,,,,
+11,pullRequests,halostatue_minitar,2017-02-08 00:27:49+00:00,,,,,
+12,pullRequests,halostatue_minitar,2017-02-25 07:10:15+00:00,,,,,
+13,pullRequests,halostatue_minitar,2018-02-17 21:19:21+00:00,,,,,
+14,pullRequests,halostatue_minitar,2018-02-19 05:43:17+00:00,,,,,
+15,pullRequests,halostatue_minitar,2018-06-16 10:20:43+00:00,,,,,
+16,pullRequests,halostatue_minitar,2018-06-16 10:23:36+00:00,,,,,
+17,pullRequests,halostatue_minitar,2018-08-27 10:55:26+00:00,,,,,
+18,pullRequests,halostatue_minitar,2018-11-08 10:52:22+00:00,,,,,
+19,pullRequests,halostatue_minitar,2018-12-26 02:05:28+00:00,,,,,
+20,pullRequests,halostatue_minitar,2019-08-15 19:02:53+00:00,,,,,
+21,pullRequests,halostatue_minitar,2020-03-09 22:02:40+00:00,,,,,
+22,pullRequests,halostatue_minitar,2020-09-29 17:43:47+00:00,,,,,
+23,pullRequests,halostatue_minitar,2022-03-22 13:52:08+00:00,,,,,
+24,pullRequests,halostatue_minitar,2022-03-26 03:32:35+00:00,,,,,
+25,pullRequests,halostatue_minitar,2022-03-26 05:20:57+00:00,,,,,
+26,pullRequests,halostatue_minitar,2022-05-01 14:34:34+00:00,,,,,
+0,stargazers,halostatue_minitar,2011-07-30 23:38:17+00:00,,,,,
+1,stargazers,halostatue_minitar,2011-07-30 23:38:17+00:00,,,,,
+2,stargazers,halostatue_minitar,2011-07-30 23:38:17+00:00,,,,,
+3,stargazers,halostatue_minitar,2014-12-25 16:33:08+00:00,,,,,
+4,stargazers,halostatue_minitar,2015-07-22 17:42:10+00:00,,,,,
+5,stargazers,halostatue_minitar,2016-02-06 10:19:19+00:00,,,,,
+6,stargazers,halostatue_minitar,2017-02-05 03:34:16+00:00,,,,,
+7,stargazers,halostatue_minitar,2017-03-09 18:51:45+00:00,,,,,
+8,stargazers,halostatue_minitar,2017-04-25 08:37:45+00:00,,,,,
+9,stargazers,halostatue_minitar,2017-10-12 01:38:02+00:00,,,,,
+10,stargazers,halostatue_minitar,2018-01-06 02:41:32+00:00,,,,,
+11,stargazers,halostatue_minitar,2018-04-09 10:04:36+00:00,,,,,
+12,stargazers,halostatue_minitar,2018-06-16 10:27:55+00:00,,,,,
+13,stargazers,halostatue_minitar,2018-09-28 15:35:52+00:00,,,,,
+14,stargazers,halostatue_minitar,2018-10-12 09:19:05+00:00,,,,,
+15,stargazers,halostatue_minitar,2018-11-04 14:33:54+00:00,,,,,
+16,stargazers,halostatue_minitar,2019-05-15 22:58:23+00:00,,,,,
+17,stargazers,halostatue_minitar,2019-06-05 11:55:51+00:00,,,,,
+18,stargazers,halostatue_minitar,2019-06-10 17:46:56+00:00,,,,,
+19,stargazers,halostatue_minitar,2019-08-16 16:09:53+00:00,,,,,
+20,stargazers,halostatue_minitar,2019-08-28 03:37:56+00:00,,,,,
+21,stargazers,halostatue_minitar,2020-09-16 17:37:28+00:00,,,,,
+22,stargazers,halostatue_minitar,2020-12-14 05:57:05+00:00,,,,,
+23,stargazers,halostatue_minitar,2020-12-30 18:01:30+00:00,,,,,
+24,stargazers,halostatue_minitar,2021-01-08 05:53:23+00:00,,,,,
+25,stargazers,halostatue_minitar,2021-10-27 13:39:11+00:00,,,,,
+26,stargazers,halostatue_minitar,2022-02-20 03:51:07+00:00,,,,,
+27,stargazers,halostatue_minitar,2022-05-04 05:04:22+00:00,,,,,
+28,stargazers,halostatue_minitar,2022-07-03 17:37:00+00:00,,,,,

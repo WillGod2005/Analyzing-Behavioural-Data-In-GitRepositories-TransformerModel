@@ -1,0 +1,1424 @@
+,type,name,created_at,Hash,Add,Del,Files,Vuln
+120103,PushEvent,fedora-selinux_setroubleshoot,2015-02-16 11:47:44 UTC,,,,,
+149148,PullRequestEvent,fedora-selinux_setroubleshoot,2015-04-20 07:58:24 UTC,,,,,
+179069,ForkEvent,fedora-selinux_setroubleshoot,2015-10-05 14:34:24 UTC,,,,,
+227280,PushEvent,fedora-selinux_setroubleshoot,2015-04-20 07:58:24 UTC,,,,,
+426461,PullRequestEvent,fedora-selinux_setroubleshoot,2015-12-15 15:00:17 UTC,,,,,
+436782,PushEvent,fedora-selinux_setroubleshoot,2015-10-06 06:53:25 UTC,,,,,
+461849,PullRequestEvent,fedora-selinux_setroubleshoot,2015-10-05 14:48:43 UTC,,,,,
+503224,ForkEvent,fedora-selinux_setroubleshoot,2015-07-16 14:39:29 UTC,,,,,
+511190,ForkEvent,fedora-selinux_setroubleshoot,2015-02-11 21:02:00 UTC,,,,,
+607521,ReleaseEvent,fedora-selinux_setroubleshoot,2015-02-10 21:23:40 UTC,,,,,
+669824,PushEvent,fedora-selinux_setroubleshoot,2015-08-18 16:02:26 UTC,,,,,
+673675,PushEvent,fedora-selinux_setroubleshoot,2015-02-16 11:52:06 UTC,,,,,
+692708,IssueCommentEvent,fedora-selinux_setroubleshoot,2015-04-30 11:34:50 UTC,,,,,
+695249,PullRequestEvent,fedora-selinux_setroubleshoot,2015-04-02 13:31:11 UTC,,,,,
+726743,PullRequestEvent,fedora-selinux_setroubleshoot,2015-04-02 14:55:53 UTC,,,,,
+757745,GollumEvent,fedora-selinux_setroubleshoot,2015-03-03 15:47:50 UTC,,,,,
+780636,PushEvent,fedora-selinux_setroubleshoot,2015-10-06 07:16:27 UTC,,,,,
+819184,IssueCommentEvent,fedora-selinux_setroubleshoot,2015-12-15 23:31:55 UTC,,,,,
+844667,CreateEvent,fedora-selinux_setroubleshoot,2015-04-09 13:25:07 UTC,,,,,
+855606,PushEvent,fedora-selinux_setroubleshoot,2015-04-09 12:25:09 UTC,,,,,
+957872,PushEvent,fedora-selinux_setroubleshoot,2015-10-06 06:53:15 UTC,,,,,
+976873,ForkEvent,fedora-selinux_setroubleshoot,2015-12-09 14:01:26 UTC,,,,,
+1030015,PullRequestEvent,fedora-selinux_setroubleshoot,2015-04-09 12:18:53 UTC,,,,,
+1197302,IssueCommentEvent,fedora-selinux_setroubleshoot,2015-04-02 12:59:39 UTC,,,,,
+1408403,PushEvent,fedora-selinux_setroubleshoot,2015-04-02 13:31:11 UTC,,,,,
+1417993,PullRequestEvent,fedora-selinux_setroubleshoot,2015-10-06 07:20:02 UTC,,,,,
+1456919,PullRequestEvent,fedora-selinux_setroubleshoot,2015-10-06 06:53:15 UTC,,,,,
+1475689,PushEvent,fedora-selinux_setroubleshoot,2015-02-10 21:11:53 UTC,,,,,
+1508309,ReleaseEvent,fedora-selinux_setroubleshoot,2015-04-09 13:27:05 UTC,,,,,
+1613735,PushEvent,fedora-selinux_setroubleshoot,2015-04-07 16:24:48 UTC,,,,,
+1613737,PushEvent,fedora-selinux_setroubleshoot,2015-04-02 14:57:19 UTC,,,,,
+1884294,CreateEvent,fedora-selinux_setroubleshoot,2015-03-26 08:11:49 UTC,,,,,
+1966998,PushEvent,fedora-selinux_setroubleshoot,2015-08-21 09:54:35 UTC,,,,,
+1967756,CreateEvent,fedora-selinux_setroubleshoot,2015-04-23 13:05:16 UTC,,,,,
+2000153,PullRequestEvent,fedora-selinux_setroubleshoot,2015-03-31 12:43:00 UTC,,,,,
+2006049,ForkEvent,fedora-selinux_setroubleshoot,2015-02-10 09:43:00 UTC,,,,,
+2039406,IssuesEvent,fedora-selinux_setroubleshoot,2015-04-30 11:34:05 UTC,,,,,
+2114596,WatchEvent,fedora-selinux_setroubleshoot,2015-10-07 13:10:20 UTC,,,,,
+2212858,PushEvent,fedora-selinux_setroubleshoot,2015-02-17 09:52:05 UTC,,,,,
+2212859,PushEvent,fedora-selinux_setroubleshoot,2015-04-23 13:05:07 UTC,,,,,
+2300874,PullRequestEvent,fedora-selinux_setroubleshoot,2015-04-20 07:54:54 UTC,,,,,
+2335733,CreateEvent,fedora-selinux_setroubleshoot,2015-10-06 07:16:27 UTC,,,,,
+2429971,PushEvent,fedora-selinux_setroubleshoot,2015-04-07 15:57:16 UTC,,,,,
+2503140,IssueCommentEvent,fedora-selinux_setroubleshoot,2015-08-13 13:16:36 UTC,,,,,
+2520894,GollumEvent,fedora-selinux_setroubleshoot,2015-05-05 14:08:58 UTC,,,,,
+2546526,IssueCommentEvent,fedora-selinux_setroubleshoot,2015-04-01 12:05:10 UTC,,,,,
+2576980,PullRequestEvent,fedora-selinux_setroubleshoot,2015-08-04 11:32:04 UTC,,,,,
+2582169,IssueCommentEvent,fedora-selinux_setroubleshoot,2015-04-02 10:10:23 UTC,,,,,
+2674812,CreateEvent,fedora-selinux_setroubleshoot,2015-08-18 15:53:30 UTC,,,,,
+2705498,PushEvent,fedora-selinux_setroubleshoot,2015-10-19 08:45:04 UTC,,,,,
+2746194,PullRequestEvent,fedora-selinux_setroubleshoot,2015-04-09 12:25:08 UTC,,,,,
+2784724,WatchEvent,fedora-selinux_setroubleshoot,2015-04-29 07:14:52 UTC,,,,,
+2861958,IssueCommentEvent,fedora-selinux_setroubleshoot,2015-10-06 07:20:02 UTC,,,,,
+2915848,PullRequestEvent,fedora-selinux_setroubleshoot,2015-04-02 14:57:18 UTC,,,,,
+2937827,PushEvent,fedora-selinux_setroubleshoot,2015-04-08 12:42:17 UTC,,,,,
+2958179,GollumEvent,fedora-selinux_setroubleshoot,2015-03-03 15:45:51 UTC,,,,,
+3005301,PushEvent,fedora-selinux_setroubleshoot,2015-04-07 10:29:21 UTC,,,,,
+3052661,PushEvent,fedora-selinux_setroubleshoot,2015-09-02 14:47:18 UTC,,,,,
+3073224,CreateEvent,fedora-selinux_setroubleshoot,2015-02-10 21:22:03 UTC,,,,,
+3135504,PushEvent,fedora-selinux_setroubleshoot,2015-03-26 08:11:49 UTC,,,,,
+82806,PushEvent,fedora-selinux_setroubleshoot,2016-03-27 19:30:42 UTC,,,,,
+94586,IssueCommentEvent,fedora-selinux_setroubleshoot,2016-03-24 14:04:47 UTC,,,,,
+140749,CreateEvent,fedora-selinux_setroubleshoot,2016-07-01 15:27:28 UTC,,,,,
+157890,IssueCommentEvent,fedora-selinux_setroubleshoot,2016-03-31 10:08:16 UTC,,,,,
+161147,IssueCommentEvent,fedora-selinux_setroubleshoot,2016-03-27 19:40:47 UTC,,,,,
+163255,PullRequestEvent,fedora-selinux_setroubleshoot,2016-10-21 13:52:04 UTC,,,,,
+195011,PullRequestEvent,fedora-selinux_setroubleshoot,2016-07-13 14:00:28 UTC,,,,,
+250777,CreateEvent,fedora-selinux_setroubleshoot,2016-06-02 18:05:18 UTC,,,,,
+280582,IssueCommentEvent,fedora-selinux_setroubleshoot,2016-04-04 08:20:44 UTC,,,,,
+281534,PushEvent,fedora-selinux_setroubleshoot,2016-06-21 14:47:12 UTC,,,,,
+294185,PushEvent,fedora-selinux_setroubleshoot,2016-06-21 11:30:53 UTC,,,,,
+309710,PushEvent,fedora-selinux_setroubleshoot,2016-07-14 16:35:16 UTC,,,,,
+324449,IssueCommentEvent,fedora-selinux_setroubleshoot,2016-05-13 11:37:48 UTC,,,,,
+329296,CreateEvent,fedora-selinux_setroubleshoot,2016-07-22 09:00:32 UTC,,,,,
+347709,PushEvent,fedora-selinux_setroubleshoot,2016-09-06 14:12:32 UTC,,,,,
+368820,IssueCommentEvent,fedora-selinux_setroubleshoot,2016-05-24 15:14:00 UTC,,,,,
+395081,PushEvent,fedora-selinux_setroubleshoot,2016-09-01 09:10:34 UTC,,,,,
+397378,IssueCommentEvent,fedora-selinux_setroubleshoot,2016-05-18 21:00:53 UTC,,,,,
+410992,PushEvent,fedora-selinux_setroubleshoot,2016-03-31 10:06:42 UTC,,,,,
+427290,CreateEvent,fedora-selinux_setroubleshoot,2016-05-06 11:16:24 UTC,,,,,
+443094,CreateEvent,fedora-selinux_setroubleshoot,2016-06-21 11:31:14 UTC,,,,,
+600091,PushEvent,fedora-selinux_setroubleshoot,2016-07-01 15:27:16 UTC,,,,,
+620232,PullRequestEvent,fedora-selinux_setroubleshoot,2016-07-13 14:00:53 UTC,,,,,
+634865,PushEvent,fedora-selinux_setroubleshoot,2016-03-31 09:45:10 UTC,,,,,
+640192,IssueCommentEvent,fedora-selinux_setroubleshoot,2016-03-24 21:11:06 UTC,,,,,
+651259,CreateEvent,fedora-selinux_setroubleshoot,2016-05-06 11:16:40 UTC,,,,,
+656610,ForkEvent,fedora-selinux_setroubleshoot,2016-04-14 08:44:38 UTC,,,,,
+706350,IssueCommentEvent,fedora-selinux_setroubleshoot,2016-08-31 07:51:42 UTC,,,,,
+710521,PushEvent,fedora-selinux_setroubleshoot,2016-10-21 15:00:48 UTC,,,,,
+720626,CreateEvent,fedora-selinux_setroubleshoot,2016-04-07 09:26:21 UTC,,,,,
+722715,ForkEvent,fedora-selinux_setroubleshoot,2016-04-16 16:25:09 UTC,,,,,
+726206,PushEvent,fedora-selinux_setroubleshoot,2016-06-02 13:51:38 UTC,,,,,
+744334,PullRequestReviewCommentEvent,fedora-selinux_setroubleshoot,2016-12-20 12:25:10 UTC,,,,,
+783644,IssuesEvent,fedora-selinux_setroubleshoot,2016-03-24 21:10:06 UTC,,,,,
+793368,PullRequestEvent,fedora-selinux_setroubleshoot,2016-11-08 11:24:12 UTC,,,,,
+799675,PullRequestEvent,fedora-selinux_setroubleshoot,2016-08-31 08:26:45 UTC,,,,,
+819570,IssueCommentEvent,fedora-selinux_setroubleshoot,2016-03-22 10:44:56 UTC,,,,,
+821467,IssuesEvent,fedora-selinux_setroubleshoot,2016-06-23 12:45:56 UTC,,,,,
+823648,PushEvent,fedora-selinux_setroubleshoot,2016-05-04 09:02:44 UTC,,,,,
+825827,IssueCommentEvent,fedora-selinux_setroubleshoot,2016-04-04 08:17:59 UTC,,,,,
+833883,CreateEvent,fedora-selinux_setroubleshoot,2016-06-22 15:20:40 UTC,,,,,
+862830,IssuesEvent,fedora-selinux_setroubleshoot,2016-03-22 12:40:35 UTC,,,,,
+968201,IssueCommentEvent,fedora-selinux_setroubleshoot,2016-05-04 13:16:19 UTC,,,,,
+1000617,PushEvent,fedora-selinux_setroubleshoot,2016-03-31 09:48:24 UTC,,,,,
+1005937,IssueCommentEvent,fedora-selinux_setroubleshoot,2016-04-04 08:21:20 UTC,,,,,
+1021708,IssueCommentEvent,fedora-selinux_setroubleshoot,2016-04-04 08:15:49 UTC,,,,,
+1049193,ReleaseEvent,fedora-selinux_setroubleshoot,2016-01-21 13:20:44 UTC,,,,,
+1052550,PullRequestEvent,fedora-selinux_setroubleshoot,2016-11-16 12:43:00 UTC,,,,,
+1100005,PullRequestEvent,fedora-selinux_setroubleshoot,2016-05-18 21:00:53 UTC,,,,,
+1112337,IssuesEvent,fedora-selinux_setroubleshoot,2016-03-24 21:06:42 UTC,,,,,
+1116774,IssueCommentEvent,fedora-selinux_setroubleshoot,2016-05-23 19:14:46 UTC,,,,,
+1126224,IssueCommentEvent,fedora-selinux_setroubleshoot,2016-03-27 20:09:07 UTC,,,,,
+1128399,PullRequestEvent,fedora-selinux_setroubleshoot,2016-03-27 19:31:26 UTC,,,,,
+1146056,PushEvent,fedora-selinux_setroubleshoot,2016-05-06 11:16:12 UTC,,,,,
+1163029,IssuesEvent,fedora-selinux_setroubleshoot,2016-04-04 08:20:44 UTC,,,,,
+1167993,ForkEvent,fedora-selinux_setroubleshoot,2016-03-21 08:25:19 UTC,,,,,
+1192723,IssueCommentEvent,fedora-selinux_setroubleshoot,2016-05-24 19:19:29 UTC,,,,,
+1194320,CreateEvent,fedora-selinux_setroubleshoot,2016-06-22 15:20:15 UTC,,,,,
+1195879,IssueCommentEvent,fedora-selinux_setroubleshoot,2016-03-22 13:02:26 UTC,,,,,
+1204347,PullRequestEvent,fedora-selinux_setroubleshoot,2016-05-04 09:03:59 UTC,,,,,
+1220055,PullRequestEvent,fedora-selinux_setroubleshoot,2016-03-24 22:55:39 UTC,,,,,
+1222926,IssuesEvent,fedora-selinux_setroubleshoot,2016-05-18 21:02:38 UTC,,,,,
+1224187,IssueCommentEvent,fedora-selinux_setroubleshoot,2016-04-04 08:34:47 UTC,,,,,
+1240882,PushEvent,fedora-selinux_setroubleshoot,2016-06-02 10:58:50 UTC,,,,,
+1267129,IssuesEvent,fedora-selinux_setroubleshoot,2016-04-04 08:17:23 UTC,,,,,
+1282314,WatchEvent,fedora-selinux_setroubleshoot,2016-05-04 20:19:29 UTC,,,,,
+1295134,CreateEvent,fedora-selinux_setroubleshoot,2016-06-21 13:59:23 UTC,,,,,
+1360364,PushEvent,fedora-selinux_setroubleshoot,2016-08-31 13:14:37 UTC,,,,,
+1392971,IssuesEvent,fedora-selinux_setroubleshoot,2016-03-24 08:10:02 UTC,,,,,
+1408571,CreateEvent,fedora-selinux_setroubleshoot,2016-01-21 13:02:32 UTC,,,,,
+1435293,IssueCommentEvent,fedora-selinux_setroubleshoot,2016-02-18 12:04:01 UTC,,,,,
+1446849,IssuesEvent,fedora-selinux_setroubleshoot,2016-08-17 18:57:38 UTC,,,,,
+1505150,IssueCommentEvent,fedora-selinux_setroubleshoot,2016-04-01 22:30:45 UTC,,,,,
+1505151,IssueCommentEvent,fedora-selinux_setroubleshoot,2016-03-27 19:26:52 UTC,,,,,
+1512487,PushEvent,fedora-selinux_setroubleshoot,2016-01-15 16:58:32 UTC,,,,,
+1528415,PushEvent,fedora-selinux_setroubleshoot,2016-08-31 07:50:58 UTC,,,,,
+1564042,IssuesEvent,fedora-selinux_setroubleshoot,2016-10-03 11:25:12 UTC,,,,,
+1565344,IssueCommentEvent,fedora-selinux_setroubleshoot,2016-04-04 08:17:23 UTC,,,,,
+1576690,IssuesEvent,fedora-selinux_setroubleshoot,2016-06-02 13:03:17 UTC,,,,,
+1624333,PullRequestEvent,fedora-selinux_setroubleshoot,2016-04-21 15:54:23 UTC,,,,,
+1636553,IssuesEvent,fedora-selinux_setroubleshoot,2016-03-22 10:39:41 UTC,,,,,
+1640895,IssueCommentEvent,fedora-selinux_setroubleshoot,2016-05-04 09:04:51 UTC,,,,,
+1645051,PushEvent,fedora-selinux_setroubleshoot,2016-07-22 09:35:42 UTC,,,,,
+1649326,PullRequestEvent,fedora-selinux_setroubleshoot,2016-03-24 20:59:01 UTC,,,,,
+1650325,IssueCommentEvent,fedora-selinux_setroubleshoot,2016-03-25 10:11:52 UTC,,,,,
+1681824,IssueCommentEvent,fedora-selinux_setroubleshoot,2016-05-19 10:15:06 UTC,,,,,
+1704876,PushEvent,fedora-selinux_setroubleshoot,2016-04-15 23:00:54 UTC,,,,,
+1720797,PushEvent,fedora-selinux_setroubleshoot,2016-04-04 08:14:07 UTC,,,,,
+1745631,ForkEvent,fedora-selinux_setroubleshoot,2016-08-08 12:46:42 UTC,,,,,
+1756291,CreateEvent,fedora-selinux_setroubleshoot,2016-02-10 09:51:57 UTC,,,,,
+1758770,PushEvent,fedora-selinux_setroubleshoot,2016-08-25 09:21:28 UTC,,,,,
+1767114,IssueCommentEvent,fedora-selinux_setroubleshoot,2016-03-31 06:51:44 UTC,,,,,
+1772465,PullRequestEvent,fedora-selinux_setroubleshoot,2016-03-27 19:26:01 UTC,,,,,
+1793470,PushEvent,fedora-selinux_setroubleshoot,2016-01-15 15:58:07 UTC,,,,,
+1821054,PullRequestReviewCommentEvent,fedora-selinux_setroubleshoot,2016-05-06 13:23:43 UTC,,,,,
+1832075,IssuesEvent,fedora-selinux_setroubleshoot,2016-05-16 08:12:18 UTC,,,,,
+1897171,PushEvent,fedora-selinux_setroubleshoot,2016-05-04 09:00:59 UTC,,,,,
+1897172,PushEvent,fedora-selinux_setroubleshoot,2016-06-02 10:16:23 UTC,,,,,
+1946648,IssueCommentEvent,fedora-selinux_setroubleshoot,2016-03-31 11:15:08 UTC,,,,,
+1957726,CreateEvent,fedora-selinux_setroubleshoot,2016-06-02 13:51:52 UTC,,,,,
+1972931,PushEvent,fedora-selinux_setroubleshoot,2016-03-27 19:31:09 UTC,,,,,
+2052142,GollumEvent,fedora-selinux_setroubleshoot,2016-06-03 14:45:47 UTC,,,,,
+2060935,PushEvent,fedora-selinux_setroubleshoot,2016-08-25 09:23:22 UTC,,,,,
+2072617,IssueCommentEvent,fedora-selinux_setroubleshoot,2016-11-08 15:35:06 UTC,,,,,
+2095599,PushEvent,fedora-selinux_setroubleshoot,2016-05-05 11:49:23 UTC,,,,,
+2110525,IssueCommentEvent,fedora-selinux_setroubleshoot,2016-03-22 12:33:42 UTC,,,,,
+2117745,PushEvent,fedora-selinux_setroubleshoot,2016-05-18 20:14:48 UTC,,,,,
+2127379,PushEvent,fedora-selinux_setroubleshoot,2016-06-03 07:13:14 UTC,,,,,
+2133682,PushEvent,fedora-selinux_setroubleshoot,2016-01-15 15:00:20 UTC,,,,,
+2146524,PushEvent,fedora-selinux_setroubleshoot,2016-01-21 12:57:59 UTC,,,,,
+2158187,IssueCommentEvent,fedora-selinux_setroubleshoot,2016-05-04 20:16:40 UTC,,,,,
+2171903,PushEvent,fedora-selinux_setroubleshoot,2016-08-31 13:09:54 UTC,,,,,
+2181425,PushEvent,fedora-selinux_setroubleshoot,2016-06-22 15:20:34 UTC,,,,,
+2182296,IssuesEvent,fedora-selinux_setroubleshoot,2016-05-23 18:05:16 UTC,,,,,
+2197251,PushEvent,fedora-selinux_setroubleshoot,2016-04-04 18:58:33 UTC,,,,,
+2199475,IssueCommentEvent,fedora-selinux_setroubleshoot,2016-03-30 20:29:50 UTC,,,,,
+2204731,PullRequestEvent,fedora-selinux_setroubleshoot,2016-10-21 15:00:48 UTC,,,,,
+2204732,PullRequestEvent,fedora-selinux_setroubleshoot,2016-09-29 10:18:12 UTC,,,,,
+2213895,IssuesEvent,fedora-selinux_setroubleshoot,2016-04-04 08:21:20 UTC,,,,,
+2249748,IssueCommentEvent,fedora-selinux_setroubleshoot,2016-03-27 19:45:48 UTC,,,,,
+2250749,PushEvent,fedora-selinux_setroubleshoot,2016-07-13 14:39:45 UTC,,,,,
+2254601,CreateEvent,fedora-selinux_setroubleshoot,2016-06-02 16:45:37 UTC,,,,,
+2266284,PushEvent,fedora-selinux_setroubleshoot,2016-08-31 08:28:14 UTC,,,,,
+2272673,PushEvent,fedora-selinux_setroubleshoot,2016-06-21 13:59:03 UTC,,,,,
+2287613,IssueCommentEvent,fedora-selinux_setroubleshoot,2016-04-07 09:29:32 UTC,,,,,
+2315221,PullRequestEvent,fedora-selinux_setroubleshoot,2016-11-10 17:16:22 UTC,,,,,
+2320229,PushEvent,fedora-selinux_setroubleshoot,2016-02-10 09:51:17 UTC,,,,,
+2358037,PushEvent,fedora-selinux_setroubleshoot,2016-07-01 15:12:16 UTC,,,,,
+2361737,CreateEvent,fedora-selinux_setroubleshoot,2016-06-08 11:19:17 UTC,,,,,
+2361989,IssuesEvent,fedora-selinux_setroubleshoot,2016-03-24 21:14:12 UTC,,,,,
+2371673,PullRequestEvent,fedora-selinux_setroubleshoot,2016-04-16 17:04:24 UTC,,,,,
+2377412,CreateEvent,fedora-selinux_setroubleshoot,2016-04-04 18:58:57 UTC,,,,,
+2393340,IssuesEvent,fedora-selinux_setroubleshoot,2016-03-24 21:07:38 UTC,,,,,
+2410596,IssueCommentEvent,fedora-selinux_setroubleshoot,2016-05-24 13:24:44 UTC,,,,,
+2433565,PushEvent,fedora-selinux_setroubleshoot,2016-04-15 21:48:54 UTC,,,,,
+2477576,PushEvent,fedora-selinux_setroubleshoot,2016-07-01 15:17:07 UTC,,,,,
+2486935,PushEvent,fedora-selinux_setroubleshoot,2016-04-07 09:28:42 UTC,,,,,
+2492391,IssueCommentEvent,fedora-selinux_setroubleshoot,2016-05-19 10:16:59 UTC,,,,,
+2514616,IssueCommentEvent,fedora-selinux_setroubleshoot,2016-03-27 19:31:26 UTC,,,,,
+2569577,PushEvent,fedora-selinux_setroubleshoot,2016-06-02 18:05:10 UTC,,,,,
+2573471,CreateEvent,fedora-selinux_setroubleshoot,2016-09-01 09:10:47 UTC,,,,,
+2592897,PullRequestEvent,fedora-selinux_setroubleshoot,2016-11-08 11:33:59 UTC,,,,,
+2593908,IssueCommentEvent,fedora-selinux_setroubleshoot,2016-03-29 13:55:58 UTC,,,,,
+2600077,IssueCommentEvent,fedora-selinux_setroubleshoot,2016-02-18 14:49:19 UTC,,,,,
+2605237,IssuesEvent,fedora-selinux_setroubleshoot,2016-03-22 10:34:46 UTC,,,,,
+2606525,IssueCommentEvent,fedora-selinux_setroubleshoot,2016-03-30 20:30:18 UTC,,,,,
+2608406,IssuesEvent,fedora-selinux_setroubleshoot,2016-04-04 08:18:00 UTC,,,,,
+2627234,IssuesEvent,fedora-selinux_setroubleshoot,2016-05-13 08:41:45 UTC,,,,,
+2633372,DeleteEvent,fedora-selinux_setroubleshoot,2016-06-03 07:14:18 UTC,,,,,
+2648579,PushEvent,fedora-selinux_setroubleshoot,2016-08-31 08:26:05 UTC,,,,,
+2658080,PushEvent,fedora-selinux_setroubleshoot,2016-03-31 10:00:55 UTC,,,,,
+2682223,IssueCommentEvent,fedora-selinux_setroubleshoot,2016-05-18 21:02:38 UTC,,,,,
+2733668,PushEvent,fedora-selinux_setroubleshoot,2016-06-22 15:19:58 UTC,,,,,
+2754627,IssueCommentEvent,fedora-selinux_setroubleshoot,2016-05-04 20:15:29 UTC,,,,,
+2822618,IssuesEvent,fedora-selinux_setroubleshoot,2016-03-29 14:02:01 UTC,,,,,
+2858523,IssueCommentEvent,fedora-selinux_setroubleshoot,2016-08-31 08:26:45 UTC,,,,,
+2894724,CreateEvent,fedora-selinux_setroubleshoot,2016-06-03 07:13:36 UTC,,,,,
+2894725,CreateEvent,fedora-selinux_setroubleshoot,2016-06-02 13:03:37 UTC,,,,,
+2935725,CreateEvent,fedora-selinux_setroubleshoot,2016-08-31 13:09:59 UTC,,,,,
+2961298,PullRequestEvent,fedora-selinux_setroubleshoot,2016-03-21 09:04:17 UTC,,,,,
+3048442,PushEvent,fedora-selinux_setroubleshoot,2016-07-22 08:58:26 UTC,,,,,
+3105725,CreateEvent,fedora-selinux_setroubleshoot,2016-07-16 13:59:33 UTC,,,,,
+3172053,IssuesEvent,fedora-selinux_setroubleshoot,2016-06-23 08:52:54 UTC,,,,,
+3200142,IssuesEvent,fedora-selinux_setroubleshoot,2016-03-24 14:23:45 UTC,,,,,
+3207750,IssueCommentEvent,fedora-selinux_setroubleshoot,2016-03-30 20:17:59 UTC,,,,,
+3216258,PullRequestEvent,fedora-selinux_setroubleshoot,2016-03-30 20:14:39 UTC,,,,,
+3218248,PushEvent,fedora-selinux_setroubleshoot,2016-09-06 14:13:08 UTC,,,,,
+3262385,PushEvent,fedora-selinux_setroubleshoot,2016-04-14 09:41:53 UTC,,,,,
+3288417,CreateEvent,fedora-selinux_setroubleshoot,2016-06-03 07:13:36 UTC,,,,,
+3292149,PullRequestEvent,fedora-selinux_setroubleshoot,2016-08-31 07:51:42 UTC,,,,,
+3314913,IssueCommentEvent,fedora-selinux_setroubleshoot,2016-11-16 12:43:25 UTC,,,,,
+3318121,IssueCommentEvent,fedora-selinux_setroubleshoot,2016-02-18 14:13:09 UTC,,,,,
+3322181,PushEvent,fedora-selinux_setroubleshoot,2016-03-27 19:26:01 UTC,,,,,
+3351584,PullRequestEvent,fedora-selinux_setroubleshoot,2016-08-08 12:56:30 UTC,,,,,
+3430295,PullRequestEvent,fedora-selinux_setroubleshoot,2016-04-07 09:29:32 UTC,,,,,
+3436513,PullRequestEvent,fedora-selinux_setroubleshoot,2016-04-06 08:11:43 UTC,,,,,
+3470811,CreateEvent,fedora-selinux_setroubleshoot,2016-05-18 20:15:11 UTC,,,,,
+3488300,IssueCommentEvent,fedora-selinux_setroubleshoot,2016-05-06 13:29:29 UTC,,,,,
+3492302,PushEvent,fedora-selinux_setroubleshoot,2016-01-15 15:03:26 UTC,,,,,
+3527545,WatchEvent,fedora-selinux_setroubleshoot,2016-05-04 20:22:38 UTC,,,,,
+3552937,CreateEvent,fedora-selinux_setroubleshoot,2016-07-01 15:27:28 UTC,,,,,
+3564769,PushEvent,fedora-selinux_setroubleshoot,2016-07-13 14:45:02 UTC,,,,,
+3567947,PushEvent,fedora-selinux_setroubleshoot,2016-02-16 16:40:32 UTC,,,,,
+3570011,IssueCommentEvent,fedora-selinux_setroubleshoot,2016-05-24 19:57:40 UTC,,,,,
+3578438,PullRequestEvent,fedora-selinux_setroubleshoot,2016-05-06 13:09:00 UTC,,,,,
+3579439,IssueCommentEvent,fedora-selinux_setroubleshoot,2016-06-02 10:01:25 UTC,,,,,
+3586751,PushEvent,fedora-selinux_setroubleshoot,2016-09-06 14:01:49 UTC,,,,,
+3596210,PushEvent,fedora-selinux_setroubleshoot,2016-06-02 13:03:17 UTC,,,,,
+3606311,CreateEvent,fedora-selinux_setroubleshoot,2016-06-21 14:47:18 UTC,,,,,
+3617177,IssueCommentEvent,fedora-selinux_setroubleshoot,2016-10-03 11:04:05 UTC,,,,,
+3666757,PullRequestEvent,fedora-selinux_setroubleshoot,2016-04-04 08:19:51 UTC,,,,,
+3669881,PullRequestEvent,fedora-selinux_setroubleshoot,2016-03-31 10:08:16 UTC,,,,,
+3681396,PushEvent,fedora-selinux_setroubleshoot,2016-02-29 13:19:22 UTC,,,,,
+3697152,PushEvent,fedora-selinux_setroubleshoot,2016-06-21 11:30:15 UTC,,,,,
+3711008,PullRequestEvent,fedora-selinux_setroubleshoot,2016-03-24 20:57:15 UTC,,,,,
+3718230,IssueCommentEvent,fedora-selinux_setroubleshoot,2016-10-21 15:01:04 UTC,,,,,
+3725639,PushEvent,fedora-selinux_setroubleshoot,2016-07-16 13:58:51 UTC,,,,,
+3725640,PushEvent,fedora-selinux_setroubleshoot,2016-02-09 11:38:46 UTC,,,,,
+3734102,IssueCommentEvent,fedora-selinux_setroubleshoot,2016-05-04 10:53:10 UTC,,,,,
+3755230,PullRequestEvent,fedora-selinux_setroubleshoot,2016-03-31 07:43:02 UTC,,,,,
+3793025,IssuesEvent,fedora-selinux_setroubleshoot,2016-03-22 10:42:43 UTC,,,,,
+3798383,PushEvent,fedora-selinux_setroubleshoot,2016-05-05 09:43:55 UTC,,,,,
+3804667,PushEvent,fedora-selinux_setroubleshoot,2016-06-02 16:45:30 UTC,,,,,
+3807890,PushEvent,fedora-selinux_setroubleshoot,2016-04-07 09:26:04 UTC,,,,,
+3818714,PullRequestEvent,fedora-selinux_setroubleshoot,2016-05-04 09:04:51 UTC,,,,,
+3832108,IssueCommentEvent,fedora-selinux_setroubleshoot,2016-05-25 20:47:55 UTC,,,,,
+3836885,CreateEvent,fedora-selinux_setroubleshoot,2016-01-21 13:02:32 UTC,,,,,
+3838405,IssueCommentEvent,fedora-selinux_setroubleshoot,2016-05-06 10:54:09 UTC,,,,,
+3844704,IssueCommentEvent,fedora-selinux_setroubleshoot,2016-06-02 08:40:21 UTC,,,,,
+3881027,CreateEvent,fedora-selinux_setroubleshoot,2016-04-15 21:48:54 UTC,,,,,
+3883477,PushEvent,fedora-selinux_setroubleshoot,2016-06-08 11:18:53 UTC,,,,,
+3884128,CreateEvent,fedora-selinux_setroubleshoot,2016-06-21 11:30:42 UTC,,,,,
+3924101,PushEvent,fedora-selinux_setroubleshoot,2016-07-12 15:26:31 UTC,,,,,
+3966666,IssuesEvent,fedora-selinux_setroubleshoot,2016-04-04 08:34:47 UTC,,,,,
+4011073,PullRequestEvent,fedora-selinux_setroubleshoot,2016-08-31 07:10:21 UTC,,,,,
+4083427,PullRequestEvent,fedora-selinux_setroubleshoot,2016-12-19 17:43:24 UTC,,,,,
+4114659,IssuesEvent,fedora-selinux_setroubleshoot,2016-04-04 08:15:50 UTC,,,,,
+4138311,ForkEvent,fedora-selinux_setroubleshoot,2016-03-30 08:25:12 UTC,,,,,
+4140930,IssueCommentEvent,fedora-selinux_setroubleshoot,2016-05-04 09:03:59 UTC,,,,,
+4166822,PullRequestReviewCommentEvent,fedora-selinux_setroubleshoot,2016-04-04 07:56:34 UTC,,,,,
+4172833,IssueCommentEvent,fedora-selinux_setroubleshoot,2016-04-04 08:19:51 UTC,,,,,
+50140,ForkEvent,fedora-selinux_setroubleshoot,2017-08-03 12:44:27 UTC,,,,,
+58264,ForkEvent,fedora-selinux_setroubleshoot,2017-04-04 18:01:45 UTC,,,,,
+205516,ForkEvent,fedora-selinux_setroubleshoot,2017-10-26 09:51:49 UTC,,,,,
+256837,ForkEvent,fedora-selinux_setroubleshoot,2017-08-03 12:37:10 UTC,,,,,
+341605,PushEvent,fedora-selinux_setroubleshoot,2017-10-10 08:01:23 UTC,,,,,
+345475,PushEvent,fedora-selinux_setroubleshoot,2017-09-25 12:02:31 UTC,,,,,
+353182,PushEvent,fedora-selinux_setroubleshoot,2017-09-05 14:05:01 UTC,,,,,
+380704,PushEvent,fedora-selinux_setroubleshoot,2017-08-29 18:58:49 UTC,,,,,
+392583,PushEvent,fedora-selinux_setroubleshoot,2017-08-23 08:39:35 UTC,,,,,
+400086,PushEvent,fedora-selinux_setroubleshoot,2017-11-18 21:39:30 UTC,,,,,
+418184,PushEvent,fedora-selinux_setroubleshoot,2017-09-14 06:52:54 UTC,,,,,
+433816,PushEvent,fedora-selinux_setroubleshoot,2017-07-14 13:04:30 UTC,,,,,
+440058,PushEvent,fedora-selinux_setroubleshoot,2017-06-06 11:30:50 UTC,,,,,
+441559,PushEvent,fedora-selinux_setroubleshoot,2017-12-06 10:23:32 UTC,,,,,
+474020,PushEvent,fedora-selinux_setroubleshoot,2017-07-10 06:37:25 UTC,,,,,
+487068,PushEvent,fedora-selinux_setroubleshoot,2017-06-13 13:51:38 UTC,,,,,
+494774,PushEvent,fedora-selinux_setroubleshoot,2017-03-15 13:54:46 UTC,,,,,
+525087,PushEvent,fedora-selinux_setroubleshoot,2017-03-24 13:46:51 UTC,,,,,
+529281,PushEvent,fedora-selinux_setroubleshoot,2017-09-15 05:44:35 UTC,,,,,
+530019,PushEvent,fedora-selinux_setroubleshoot,2017-06-13 11:27:06 UTC,,,,,
+555225,PushEvent,fedora-selinux_setroubleshoot,2017-08-04 15:24:13 UTC,,,,,
+579780,PushEvent,fedora-selinux_setroubleshoot,2017-11-18 20:30:40 UTC,,,,,
+582410,PushEvent,fedora-selinux_setroubleshoot,2017-06-06 11:21:10 UTC,,,,,
+606721,PushEvent,fedora-selinux_setroubleshoot,2017-08-22 06:34:06 UTC,,,,,
+625652,PushEvent,fedora-selinux_setroubleshoot,2017-03-09 14:59:45 UTC,,,,,
+628590,PushEvent,fedora-selinux_setroubleshoot,2017-11-18 20:15:13 UTC,,,,,
+635543,PushEvent,fedora-selinux_setroubleshoot,2017-08-04 12:35:45 UTC,,,,,
+648453,PushEvent,fedora-selinux_setroubleshoot,2017-11-18 21:10:41 UTC,,,,,
+682514,PushEvent,fedora-selinux_setroubleshoot,2017-04-05 11:35:25 UTC,,,,,
+686797,PushEvent,fedora-selinux_setroubleshoot,2017-06-01 20:46:46 UTC,,,,,
+693970,PushEvent,fedora-selinux_setroubleshoot,2017-12-08 09:52:45 UTC,,,,,
+705516,PushEvent,fedora-selinux_setroubleshoot,2017-06-01 21:04:24 UTC,,,,,
+707016,PushEvent,fedora-selinux_setroubleshoot,2017-11-01 11:52:21 UTC,,,,,
+712725,PushEvent,fedora-selinux_setroubleshoot,2017-04-05 11:34:53 UTC,,,,,
+726487,PushEvent,fedora-selinux_setroubleshoot,2017-06-01 21:20:41 UTC,,,,,
+728202,PushEvent,fedora-selinux_setroubleshoot,2017-06-01 20:36:57 UTC,,,,,
+748183,PushEvent,fedora-selinux_setroubleshoot,2017-08-28 15:31:21 UTC,,,,,
+757772,PushEvent,fedora-selinux_setroubleshoot,2017-11-01 12:57:28 UTC,,,,,
+766350,PushEvent,fedora-selinux_setroubleshoot,2017-03-15 14:57:53 UTC,,,,,
+766469,PushEvent,fedora-selinux_setroubleshoot,2017-03-09 14:53:43 UTC,,,,,
+782195,PushEvent,fedora-selinux_setroubleshoot,2017-04-24 14:25:01 UTC,,,,,
+809754,PushEvent,fedora-selinux_setroubleshoot,2017-04-10 12:06:22 UTC,,,,,
+811468,PushEvent,fedora-selinux_setroubleshoot,2017-11-18 22:17:35 UTC,,,,,
+813668,PushEvent,fedora-selinux_setroubleshoot,2017-06-13 11:25:56 UTC,,,,,
+819157,PushEvent,fedora-selinux_setroubleshoot,2017-09-04 06:50:24 UTC,,,,,
+824627,PushEvent,fedora-selinux_setroubleshoot,2017-11-22 12:07:30 UTC,,,,,
+828008,PushEvent,fedora-selinux_setroubleshoot,2017-11-22 14:36:38 UTC,,,,,
+841458,PushEvent,fedora-selinux_setroubleshoot,2017-11-01 12:54:13 UTC,,,,,
+843080,PushEvent,fedora-selinux_setroubleshoot,2017-09-14 15:53:49 UTC,,,,,
+863034,PushEvent,fedora-selinux_setroubleshoot,2017-08-22 10:23:02 UTC,,,,,
+870824,PushEvent,fedora-selinux_setroubleshoot,2017-03-01 12:28:29 UTC,,,,,
+876797,PushEvent,fedora-selinux_setroubleshoot,2017-04-05 14:12:51 UTC,,,,,
+880849,PushEvent,fedora-selinux_setroubleshoot,2017-06-01 20:36:43 UTC,,,,,
+904175,PushEvent,fedora-selinux_setroubleshoot,2017-09-15 05:39:57 UTC,,,,,
+905774,PushEvent,fedora-selinux_setroubleshoot,2017-07-14 13:03:15 UTC,,,,,
+907779,PushEvent,fedora-selinux_setroubleshoot,2017-03-24 13:06:15 UTC,,,,,
+921579,PushEvent,fedora-selinux_setroubleshoot,2017-06-01 20:42:59 UTC,,,,,
+929513,PushEvent,fedora-selinux_setroubleshoot,2017-06-13 14:32:24 UTC,,,,,
+1913069,CreateEvent,fedora-selinux_setroubleshoot,2017-11-18 20:29:32 UTC,,,,,
+1918611,CreateEvent,fedora-selinux_setroubleshoot,2017-09-15 05:40:05 UTC,,,,,
+1921586,CreateEvent,fedora-selinux_setroubleshoot,2017-03-24 13:46:51 UTC,,,,,
+1922969,CreateEvent,fedora-selinux_setroubleshoot,2017-11-18 21:39:30 UTC,,,,,
+1923854,CreateEvent,fedora-selinux_setroubleshoot,2017-11-01 12:54:13 UTC,,,,,
+1944945,CreateEvent,fedora-selinux_setroubleshoot,2017-11-01 12:54:13 UTC,,,,,
+1956330,CreateEvent,fedora-selinux_setroubleshoot,2017-04-10 12:06:02 UTC,,,,,
+1958876,CreateEvent,fedora-selinux_setroubleshoot,2017-09-15 05:40:05 UTC,,,,,
+1959412,CreateEvent,fedora-selinux_setroubleshoot,2017-03-15 14:57:53 UTC,,,,,
+1964967,CreateEvent,fedora-selinux_setroubleshoot,2017-06-13 14:32:23 UTC,,,,,
+1970205,CreateEvent,fedora-selinux_setroubleshoot,2017-11-18 21:10:49 UTC,,,,,
+1974725,CreateEvent,fedora-selinux_setroubleshoot,2017-06-13 13:51:45 UTC,,,,,
+1986643,DeleteEvent,fedora-selinux_setroubleshoot,2017-11-18 20:34:40 UTC,,,,,
+2076180,IssuesEvent,fedora-selinux_setroubleshoot,2017-03-01 12:42:29 UTC,,,,,
+2105135,IssuesEvent,fedora-selinux_setroubleshoot,2017-08-01 14:16:06 UTC,,,,,
+2165752,IssuesEvent,fedora-selinux_setroubleshoot,2017-03-01 12:39:37 UTC,,,,,
+2204575,IssuesEvent,fedora-selinux_setroubleshoot,2017-07-10 14:56:03 UTC,,,,,
+2242706,IssuesEvent,fedora-selinux_setroubleshoot,2017-03-17 15:55:40 UTC,,,,,
+2265168,IssuesEvent,fedora-selinux_setroubleshoot,2017-08-13 14:06:57 UTC,,,,,
+2287395,IssuesEvent,fedora-selinux_setroubleshoot,2017-08-09 17:14:42 UTC,,,,,
+2300951,IssuesEvent,fedora-selinux_setroubleshoot,2017-03-01 12:37:21 UTC,,,,,
+2305829,IssuesEvent,fedora-selinux_setroubleshoot,2017-09-09 19:22:05 UTC,,,,,
+2326329,IssuesEvent,fedora-selinux_setroubleshoot,2017-09-12 22:18:13 UTC,,,,,
+2363102,IssuesEvent,fedora-selinux_setroubleshoot,2017-02-27 13:06:00 UTC,,,,,
+2410261,IssuesEvent,fedora-selinux_setroubleshoot,2017-08-22 12:12:12 UTC,,,,,
+2452346,PullRequestEvent,fedora-selinux_setroubleshoot,2017-09-24 23:18:33 UTC,,,,,
+2473874,PullRequestEvent,fedora-selinux_setroubleshoot,2017-08-03 22:50:58 UTC,,,,,
+2497050,PullRequestEvent,fedora-selinux_setroubleshoot,2017-08-04 12:13:48 UTC,,,,,
+2498047,PullRequestEvent,fedora-selinux_setroubleshoot,2017-08-04 09:22:26 UTC,,,,,
+2505868,PullRequestEvent,fedora-selinux_setroubleshoot,2017-03-15 13:55:09 UTC,,,,,
+2512286,PullRequestEvent,fedora-selinux_setroubleshoot,2017-09-25 00:00:58 UTC,,,,,
+2543394,PullRequestEvent,fedora-selinux_setroubleshoot,2017-08-04 11:13:25 UTC,,,,,
+2560753,PullRequestEvent,fedora-selinux_setroubleshoot,2017-08-03 22:51:45 UTC,,,,,
+2581314,PullRequestEvent,fedora-selinux_setroubleshoot,2017-09-05 12:27:53 UTC,,,,,
+2593344,PullRequestEvent,fedora-selinux_setroubleshoot,2017-06-06 11:31:05 UTC,,,,,
+2604532,PullRequestEvent,fedora-selinux_setroubleshoot,2017-06-06 10:53:43 UTC,,,,,
+2641090,PullRequestEvent,fedora-selinux_setroubleshoot,2017-06-01 20:47:41 UTC,,,,,
+2647479,PullRequestEvent,fedora-selinux_setroubleshoot,2017-03-16 11:50:07 UTC,,,,,
+2651254,PullRequestEvent,fedora-selinux_setroubleshoot,2017-11-18 20:30:40 UTC,,,,,
+2656274,PullRequestEvent,fedora-selinux_setroubleshoot,2017-08-04 15:24:13 UTC,,,,,
+2668352,PullRequestEvent,fedora-selinux_setroubleshoot,2017-09-25 12:02:30 UTC,,,,,
+2709387,PullRequestEvent,fedora-selinux_setroubleshoot,2017-08-03 22:47:43 UTC,,,,,
+2719579,PullRequestEvent,fedora-selinux_setroubleshoot,2017-09-05 14:05:01 UTC,,,,,
+2724806,PullRequestEvent,fedora-selinux_setroubleshoot,2017-04-24 12:32:04 UTC,,,,,
+2740720,PullRequestEvent,fedora-selinux_setroubleshoot,2017-06-06 11:34:20 UTC,,,,,
+2756397,PullRequestEvent,fedora-selinux_setroubleshoot,2017-03-16 11:49:43 UTC,,,,,
+2763318,PullRequestEvent,fedora-selinux_setroubleshoot,2017-11-15 13:55:54 UTC,,,,,
+2768957,PullRequestEvent,fedora-selinux_setroubleshoot,2017-10-10 08:02:37 UTC,,,,,
+2790895,PullRequestEvent,fedora-selinux_setroubleshoot,2017-08-04 12:36:19 UTC,,,,,
+2794954,PullRequestEvent,fedora-selinux_setroubleshoot,2017-04-24 14:25:27 UTC,,,,,
+2814763,PullRequestEvent,fedora-selinux_setroubleshoot,2017-06-06 11:21:50 UTC,,,,,
+2842771,PullRequestEvent,fedora-selinux_setroubleshoot,2017-06-01 20:43:45 UTC,,,,,
+2976565,IssueCommentEvent,fedora-selinux_setroubleshoot,2017-08-22 06:48:13 UTC,,,,,
+2993074,IssueCommentEvent,fedora-selinux_setroubleshoot,2017-03-01 12:48:34 UTC,,,,,
+2996517,IssueCommentEvent,fedora-selinux_setroubleshoot,2017-08-25 08:06:10 UTC,,,,,
+3121030,IssueCommentEvent,fedora-selinux_setroubleshoot,2017-08-04 15:15:26 UTC,,,,,
+3128761,IssueCommentEvent,fedora-selinux_setroubleshoot,2017-08-21 07:07:22 UTC,,,,,
+3136684,IssueCommentEvent,fedora-selinux_setroubleshoot,2017-08-22 10:53:42 UTC,,,,,
+3164587,IssueCommentEvent,fedora-selinux_setroubleshoot,2017-08-04 12:04:53 UTC,,,,,
+3166357,IssueCommentEvent,fedora-selinux_setroubleshoot,2017-08-04 12:03:08 UTC,,,,,
+3210656,IssueCommentEvent,fedora-selinux_setroubleshoot,2017-08-04 15:14:39 UTC,,,,,
+3255624,IssueCommentEvent,fedora-selinux_setroubleshoot,2017-08-04 14:07:58 UTC,,,,,
+3270588,IssueCommentEvent,fedora-selinux_setroubleshoot,2017-09-25 16:35:25 UTC,,,,,
+3304002,IssueCommentEvent,fedora-selinux_setroubleshoot,2017-03-15 13:55:09 UTC,,,,,
+3306799,IssueCommentEvent,fedora-selinux_setroubleshoot,2017-08-04 12:49:05 UTC,,,,,
+3408041,IssueCommentEvent,fedora-selinux_setroubleshoot,2017-06-06 11:21:49 UTC,,,,,
+3412470,IssueCommentEvent,fedora-selinux_setroubleshoot,2017-06-06 10:53:43 UTC,,,,,
+3430874,IssueCommentEvent,fedora-selinux_setroubleshoot,2017-08-28 15:55:29 UTC,,,,,
+3441524,IssueCommentEvent,fedora-selinux_setroubleshoot,2017-08-04 15:12:38 UTC,,,,,
+3506749,IssueCommentEvent,fedora-selinux_setroubleshoot,2017-06-01 20:47:41 UTC,,,,,
+3546833,IssueCommentEvent,fedora-selinux_setroubleshoot,2017-08-22 21:42:56 UTC,,,,,
+3553530,IssueCommentEvent,fedora-selinux_setroubleshoot,2017-08-04 11:18:27 UTC,,,,,
+3565497,IssueCommentEvent,fedora-selinux_setroubleshoot,2017-08-23 07:32:44 UTC,,,,,
+3572007,IssueCommentEvent,fedora-selinux_setroubleshoot,2017-08-04 11:20:09 UTC,,,,,
+3643373,IssueCommentEvent,fedora-selinux_setroubleshoot,2017-09-11 18:39:29 UTC,,,,,
+3692729,IssueCommentEvent,fedora-selinux_setroubleshoot,2017-03-15 14:02:54 UTC,,,,,
+3693740,IssueCommentEvent,fedora-selinux_setroubleshoot,2017-08-23 07:30:07 UTC,,,,,
+3716054,IssueCommentEvent,fedora-selinux_setroubleshoot,2017-04-24 14:25:27 UTC,,,,,
+3716824,IssueCommentEvent,fedora-selinux_setroubleshoot,2017-08-21 07:03:25 UTC,,,,,
+3726672,IssueCommentEvent,fedora-selinux_setroubleshoot,2017-06-01 20:43:45 UTC,,,,,
+3761769,IssueCommentEvent,fedora-selinux_setroubleshoot,2017-08-22 10:38:27 UTC,,,,,
+3871025,IssueCommentEvent,fedora-selinux_setroubleshoot,2017-10-03 17:00:06 UTC,,,,,
+3888723,IssueCommentEvent,fedora-selinux_setroubleshoot,2017-08-04 12:36:19 UTC,,,,,
+3894947,IssueCommentEvent,fedora-selinux_setroubleshoot,2017-08-23 07:37:33 UTC,,,,,
+3906943,IssueCommentEvent,fedora-selinux_setroubleshoot,2017-09-11 18:43:25 UTC,,,,,
+3944314,IssueCommentEvent,fedora-selinux_setroubleshoot,2017-03-01 12:47:39 UTC,,,,,
+3960118,IssueCommentEvent,fedora-selinux_setroubleshoot,2017-09-12 22:18:13 UTC,,,,,
+3964130,IssueCommentEvent,fedora-selinux_setroubleshoot,2017-09-12 10:43:42 UTC,,,,,
+3966511,IssueCommentEvent,fedora-selinux_setroubleshoot,2017-08-04 10:10:32 UTC,,,,,
+4018629,IssueCommentEvent,fedora-selinux_setroubleshoot,2017-08-23 07:23:58 UTC,,,,,
+4157259,IssueCommentEvent,fedora-selinux_setroubleshoot,2017-06-06 11:31:05 UTC,,,,,
+4217268,IssueCommentEvent,fedora-selinux_setroubleshoot,2017-09-25 07:43:47 UTC,,,,,
+4248927,IssueCommentEvent,fedora-selinux_setroubleshoot,2017-08-04 10:13:33 UTC,,,,,
+4314990,IssueCommentEvent,fedora-selinux_setroubleshoot,2017-03-01 12:48:19 UTC,,,,,
+4348522,IssueCommentEvent,fedora-selinux_setroubleshoot,2017-03-16 11:57:36 UTC,,,,,
+4401463,IssueCommentEvent,fedora-selinux_setroubleshoot,2017-08-04 15:11:44 UTC,,,,,
+4402546,IssueCommentEvent,fedora-selinux_setroubleshoot,2017-10-10 08:02:36 UTC,,,,,
+4405960,IssueCommentEvent,fedora-selinux_setroubleshoot,2017-08-04 12:16:31 UTC,,,,,
+4455246,IssueCommentEvent,fedora-selinux_setroubleshoot,2017-08-22 12:12:12 UTC,,,,,
+4483841,IssueCommentEvent,fedora-selinux_setroubleshoot,2017-08-04 12:20:07 UTC,,,,,
+4558366,IssueCommentEvent,fedora-selinux_setroubleshoot,2017-09-25 12:02:51 UTC,,,,,
+4559758,IssueCommentEvent,fedora-selinux_setroubleshoot,2017-11-18 20:35:13 UTC,,,,,
+4760305,PullRequestReviewCommentEvent,fedora-selinux_setroubleshoot,2017-10-09 16:04:42 UTC,,,,,
+4823082,PullRequestReviewCommentEvent,fedora-selinux_setroubleshoot,2017-10-09 16:03:43 UTC,,,,,
+4830923,PullRequestReviewCommentEvent,fedora-selinux_setroubleshoot,2017-10-10 06:35:57 UTC,,,,,
+330701,PushEvent,fedora-selinux_setroubleshoot,2018-05-02 11:45:38 UTC,,,,,
+334045,PushEvent,fedora-selinux_setroubleshoot,2018-07-30 15:05:47 UTC,,,,,
+335119,PushEvent,fedora-selinux_setroubleshoot,2018-07-18 19:58:56 UTC,,,,,
+335626,PushEvent,fedora-selinux_setroubleshoot,2018-12-08 21:44:57 UTC,,,,,
+355117,PushEvent,fedora-selinux_setroubleshoot,2018-12-05 21:11:37 UTC,,,,,
+411181,PushEvent,fedora-selinux_setroubleshoot,2018-12-07 22:02:08 UTC,,,,,
+416854,PushEvent,fedora-selinux_setroubleshoot,2018-02-26 20:19:48 UTC,,,,,
+422200,PushEvent,fedora-selinux_setroubleshoot,2018-09-20 08:16:30 UTC,,,,,
+430785,PushEvent,fedora-selinux_setroubleshoot,2018-08-07 13:39:30 UTC,,,,,
+454718,PushEvent,fedora-selinux_setroubleshoot,2018-08-31 07:35:51 UTC,,,,,
+519654,PushEvent,fedora-selinux_setroubleshoot,2018-11-01 16:53:41 UTC,,,,,
+534777,PushEvent,fedora-selinux_setroubleshoot,2018-12-08 21:41:15 UTC,,,,,
+542409,PushEvent,fedora-selinux_setroubleshoot,2018-11-01 16:52:27 UTC,,,,,
+687767,PushEvent,fedora-selinux_setroubleshoot,2018-08-07 08:59:55 UTC,,,,,
+691932,PushEvent,fedora-selinux_setroubleshoot,2018-12-07 22:05:40 UTC,,,,,
+710281,PushEvent,fedora-selinux_setroubleshoot,2018-08-06 13:54:29 UTC,,,,,
+720895,PushEvent,fedora-selinux_setroubleshoot,2018-08-03 12:20:38 UTC,,,,,
+723741,PushEvent,fedora-selinux_setroubleshoot,2018-05-15 18:35:33 UTC,,,,,
+741862,PushEvent,fedora-selinux_setroubleshoot,2018-06-15 14:04:32 UTC,,,,,
+763078,PushEvent,fedora-selinux_setroubleshoot,2018-02-16 07:32:19 UTC,,,,,
+862784,PushEvent,fedora-selinux_setroubleshoot,2018-08-31 10:54:55 UTC,,,,,
+869549,PushEvent,fedora-selinux_setroubleshoot,2018-02-26 20:04:41 UTC,,,,,
+1539876,WatchEvent,fedora-selinux_setroubleshoot,2018-04-18 10:47:10 UTC,,,,,
+1883448,WatchEvent,fedora-selinux_setroubleshoot,2018-07-10 01:08:19 UTC,,,,,
+1895644,CreateEvent,fedora-selinux_setroubleshoot,2018-07-18 19:58:56 UTC,,,,,
+1902944,CreateEvent,fedora-selinux_setroubleshoot,2018-05-15 19:46:55 UTC,,,,,
+1913271,CreateEvent,fedora-selinux_setroubleshoot,2018-12-08 21:41:38 UTC,,,,,
+1952366,CreateEvent,fedora-selinux_setroubleshoot,2018-02-26 20:04:48 UTC,,,,,
+1961015,CreateEvent,fedora-selinux_setroubleshoot,2018-05-15 19:46:55 UTC,,,,,
+1962464,CreateEvent,fedora-selinux_setroubleshoot,2018-12-07 22:02:08 UTC,,,,,
+1970493,CreateEvent,fedora-selinux_setroubleshoot,2018-02-26 20:04:48 UTC,,,,,
+2317825,IssuesEvent,fedora-selinux_setroubleshoot,2018-02-02 06:36:49 UTC,,,,,
+2449309,PullRequestEvent,fedora-selinux_setroubleshoot,2018-08-06 13:26:45 UTC,,,,,
+2458991,PullRequestEvent,fedora-selinux_setroubleshoot,2018-08-07 08:59:54 UTC,,,,,
+2503136,PullRequestEvent,fedora-selinux_setroubleshoot,2018-08-07 13:50:45 UTC,,,,,
+2547821,PullRequestEvent,fedora-selinux_setroubleshoot,2018-08-07 08:53:01 UTC,,,,,
+2618407,PullRequestEvent,fedora-selinux_setroubleshoot,2018-08-07 08:47:28 UTC,,,,,
+2631551,PullRequestEvent,fedora-selinux_setroubleshoot,2018-08-07 08:48:26 UTC,,,,,
+2712879,PullRequestEvent,fedora-selinux_setroubleshoot,2018-08-07 13:29:12 UTC,,,,,
+2776252,PullRequestEvent,fedora-selinux_setroubleshoot,2018-08-06 13:54:28 UTC,,,,,
+2788478,PullRequestEvent,fedora-selinux_setroubleshoot,2018-08-06 14:17:05 UTC,,,,,
+2792464,PullRequestEvent,fedora-selinux_setroubleshoot,2018-08-03 11:41:54 UTC,,,,,
+2803711,PullRequestEvent,fedora-selinux_setroubleshoot,2018-08-06 14:10:57 UTC,,,,,
+2854711,PullRequestEvent,fedora-selinux_setroubleshoot,2018-03-06 15:39:15 UTC,,,,,
+2879628,PullRequestEvent,fedora-selinux_setroubleshoot,2018-08-03 12:20:37 UTC,,,,,
+2884314,IssueCommentEvent,fedora-selinux_setroubleshoot,2018-08-03 12:22:43 UTC,,,,,
+3506595,IssueCommentEvent,fedora-selinux_setroubleshoot,2018-06-15 07:51:14 UTC,,,,,
+3658464,IssueCommentEvent,fedora-selinux_setroubleshoot,2018-08-07 13:50:45 UTC,,,,,
+4197161,IssueCommentEvent,fedora-selinux_setroubleshoot,2018-06-15 08:43:07 UTC,,,,,
+11962,GollumEvent,fedora-selinux_setroubleshoot,2019-03-25 12:30:01 UTC,,,,,
+22044,GollumEvent,fedora-selinux_setroubleshoot,2019-03-25 14:25:31 UTC,,,,,
+22725,GollumEvent,fedora-selinux_setroubleshoot,2019-03-25 12:14:06 UTC,,,,,
+251479,ForkEvent,fedora-selinux_setroubleshoot,2019-02-21 15:24:18 UTC,,,,,
+399763,PushEvent,fedora-selinux_setroubleshoot,2019-08-27 21:20:00 UTC,,,,,
+406373,PushEvent,fedora-selinux_setroubleshoot,2019-06-13 09:20:41 UTC,,,,,
+441109,PushEvent,fedora-selinux_setroubleshoot,2019-08-16 16:02:04 UTC,,,,,
+511763,PushEvent,fedora-selinux_setroubleshoot,2019-11-21 09:55:16 UTC,,,,,
+517738,PushEvent,fedora-selinux_setroubleshoot,2020-01-02 14:41:57 UTC,,,,,
+521958,PushEvent,fedora-selinux_setroubleshoot,2019-07-17 11:16:09 UTC,,,,,
+582001,PushEvent,fedora-selinux_setroubleshoot,2019-07-17 10:47:12 UTC,,,,,
+591036,PushEvent,fedora-selinux_setroubleshoot,2020-01-02 13:42:31 UTC,,,,,
+799898,PushEvent,fedora-selinux_setroubleshoot,2019-02-20 17:21:56 UTC,,,,,
+840078,PushEvent,fedora-selinux_setroubleshoot,2019-02-20 16:24:43 UTC,,,,,
+869519,PushEvent,fedora-selinux_setroubleshoot,2019-12-11 11:22:38 UTC,,,,,
+932389,PushEvent,fedora-selinux_setroubleshoot,2019-08-30 11:14:59 UTC,,,,,
+947054,PushEvent,fedora-selinux_setroubleshoot,2019-09-16 06:53:59 UTC,,,,,
+958624,PushEvent,fedora-selinux_setroubleshoot,2019-09-17 08:34:31 UTC,,,,,
+1129084,PushEvent,fedora-selinux_setroubleshoot,2019-03-22 12:40:59 UTC,,,,,
+1182345,PushEvent,fedora-selinux_setroubleshoot,2019-05-14 09:03:53 UTC,,,,,
+1190213,PushEvent,fedora-selinux_setroubleshoot,2019-05-10 07:50:43 UTC,,,,,
+1567970,WatchEvent,fedora-selinux_setroubleshoot,2019-04-30 12:33:21 UTC,,,,,
+1816573,WatchEvent,fedora-selinux_setroubleshoot,2019-12-06 07:44:50 UTC,,,,,
+2317903,CreateEvent,fedora-selinux_setroubleshoot,2020-01-02 13:42:31 UTC,,,,,
+2332181,CreateEvent,fedora-selinux_setroubleshoot,2019-11-21 09:55:17 UTC,,,,,
+2340943,CreateEvent,fedora-selinux_setroubleshoot,2020-01-02 14:41:57 UTC,,,,,
+2373506,CreateEvent,fedora-selinux_setroubleshoot,2019-11-21 09:55:16 UTC,,,,,
+2381471,CreateEvent,fedora-selinux_setroubleshoot,2019-07-17 10:49:07 UTC,,,,,
+2631003,IssuesEvent,fedora-selinux_setroubleshoot,2019-03-26 15:20:07 UTC,,,,,
+2713327,IssuesEvent,fedora-selinux_setroubleshoot,2020-01-09 12:25:15 UTC,,,,,
+2878334,IssuesEvent,fedora-selinux_setroubleshoot,2019-09-17 08:34:30 UTC,,,,,
+2974233,PullRequestEvent,fedora-selinux_setroubleshoot,2019-08-16 16:09:05 UTC,,,,,
+2997000,PullRequestEvent,fedora-selinux_setroubleshoot,2019-08-16 15:35:01 UTC,,,,,
+3008803,PullRequestEvent,fedora-selinux_setroubleshoot,2019-08-02 14:24:32 UTC,,,,,
+3055037,PullRequestEvent,fedora-selinux_setroubleshoot,2019-08-12 09:40:31 UTC,,,,,
+3130132,PullRequestEvent,fedora-selinux_setroubleshoot,2019-08-12 09:38:03 UTC,,,,,
+3167371,PullRequestEvent,fedora-selinux_setroubleshoot,2019-08-30 11:16:18 UTC,,,,,
+3174954,PullRequestEvent,fedora-selinux_setroubleshoot,2019-02-12 18:31:16 UTC,,,,,
+3206473,PullRequestEvent,fedora-selinux_setroubleshoot,2019-06-11 15:54:34 UTC,,,,,
+3218802,PullRequestEvent,fedora-selinux_setroubleshoot,2019-09-13 14:18:16 UTC,,,,,
+3225460,PullRequestEvent,fedora-selinux_setroubleshoot,2019-05-10 07:50:42 UTC,,,,,
+3228607,PullRequestEvent,fedora-selinux_setroubleshoot,2019-08-16 15:20:30 UTC,,,,,
+3233382,PullRequestEvent,fedora-selinux_setroubleshoot,2019-06-13 09:22:06 UTC,,,,,
+3237893,PullRequestEvent,fedora-selinux_setroubleshoot,2019-03-22 12:40:59 UTC,,,,,
+3351241,PullRequestEvent,fedora-selinux_setroubleshoot,2019-07-02 16:00:34 UTC,,,,,
+3355997,PullRequestEvent,fedora-selinux_setroubleshoot,2019-09-13 15:02:26 UTC,,,,,
+3362386,PullRequestEvent,fedora-selinux_setroubleshoot,2019-03-11 14:59:29 UTC,,,,,
+3365890,PullRequestEvent,fedora-selinux_setroubleshoot,2019-09-16 06:53:58 UTC,,,,,
+3386557,PullRequestEvent,fedora-selinux_setroubleshoot,2019-09-17 08:34:30 UTC,,,,,
+3394875,PullRequestEvent,fedora-selinux_setroubleshoot,2019-03-25 14:22:29 UTC,,,,,
+3480501,PullRequestEvent,fedora-selinux_setroubleshoot,2019-02-20 16:24:42 UTC,,,,,
+3536142,PullRequestEvent,fedora-selinux_setroubleshoot,2019-08-02 16:19:15 UTC,,,,,
+3589973,IssueCommentEvent,fedora-selinux_setroubleshoot,2019-08-02 14:25:56 UTC,,,,,
+3731864,IssueCommentEvent,fedora-selinux_setroubleshoot,2019-09-16 11:41:59 UTC,,,,,
+3755169,IssueCommentEvent,fedora-selinux_setroubleshoot,2019-09-13 14:19:13 UTC,,,,,
+3760192,IssueCommentEvent,fedora-selinux_setroubleshoot,2019-03-15 14:24:44 UTC,,,,,
+3893094,IssueCommentEvent,fedora-selinux_setroubleshoot,2019-08-23 08:53:25 UTC,,,,,
+3985032,IssueCommentEvent,fedora-selinux_setroubleshoot,2019-03-20 09:42:40 UTC,,,,,
+4071253,IssueCommentEvent,fedora-selinux_setroubleshoot,2019-03-11 14:38:33 UTC,,,,,
+4180457,IssueCommentEvent,fedora-selinux_setroubleshoot,2019-09-16 06:55:33 UTC,,,,,
+4193401,IssueCommentEvent,fedora-selinux_setroubleshoot,2019-07-25 14:30:44 UTC,,,,,
+4237289,IssueCommentEvent,fedora-selinux_setroubleshoot,2019-08-02 16:24:52 UTC,,,,,
+4416319,IssueCommentEvent,fedora-selinux_setroubleshoot,2019-03-22 11:30:04 UTC,,,,,
+4461676,IssueCommentEvent,fedora-selinux_setroubleshoot,2019-08-16 16:09:05 UTC,,,,,
+4474741,IssueCommentEvent,fedora-selinux_setroubleshoot,2019-03-20 09:42:21 UTC,,,,,
+4484031,IssueCommentEvent,fedora-selinux_setroubleshoot,2019-08-12 09:40:31 UTC,,,,,
+4641095,IssueCommentEvent,fedora-selinux_setroubleshoot,2019-02-20 11:47:33 UTC,,,,,
+4744219,IssueCommentEvent,fedora-selinux_setroubleshoot,2019-07-16 08:45:20 UTC,,,,,
+4979833,IssueCommentEvent,fedora-selinux_setroubleshoot,2019-06-13 08:15:03 UTC,,,,,
+5045837,IssueCommentEvent,fedora-selinux_setroubleshoot,2019-08-30 11:16:07 UTC,,,,,
+5102935,IssueCommentEvent,fedora-selinux_setroubleshoot,2019-08-02 14:24:18 UTC,,,,,
+5110747,IssueCommentEvent,fedora-selinux_setroubleshoot,2019-08-16 15:20:30 UTC,,,,,
+5235233,IssueCommentEvent,fedora-selinux_setroubleshoot,2019-03-15 14:27:06 UTC,,,,,
+5353877,IssueCommentEvent,fedora-selinux_setroubleshoot,2019-08-12 09:38:02 UTC,,,,,
+5366427,IssueCommentEvent,fedora-selinux_setroubleshoot,2019-06-13 09:22:06 UTC,,,,,
+5537177,IssueCommentEvent,fedora-selinux_setroubleshoot,2019-09-16 07:03:34 UTC,,,,,
+5581587,IssueCommentEvent,fedora-selinux_setroubleshoot,2019-07-02 20:06:22 UTC,,,,,
+5732846,PullRequestReviewCommentEvent,fedora-selinux_setroubleshoot,2019-09-16 07:01:26 UTC,,,,,
+5741796,PullRequestReviewCommentEvent,fedora-selinux_setroubleshoot,2019-02-12 19:18:33 UTC,,,,,
+5861258,PullRequestReviewCommentEvent,fedora-selinux_setroubleshoot,2019-03-12 11:21:34 UTC,,,,,
+5865752,PullRequestReviewCommentEvent,fedora-selinux_setroubleshoot,2019-03-12 08:30:23 UTC,,,,,
+5908141,PullRequestReviewCommentEvent,fedora-selinux_setroubleshoot,2019-04-08 07:10:28 UTC,,,,,
+5974539,PullRequestReviewCommentEvent,fedora-selinux_setroubleshoot,2019-03-12 11:20:03 UTC,,,,,
+5998811,PullRequestReviewCommentEvent,fedora-selinux_setroubleshoot,2019-03-12 08:31:50 UTC,,,,,
+6011575,PullRequestReviewCommentEvent,fedora-selinux_setroubleshoot,2019-03-21 09:38:00 UTC,,,,,
+6046841,PullRequestReviewCommentEvent,fedora-selinux_setroubleshoot,2019-05-10 07:37:41 UTC,,,,,
+6064954,PullRequestReviewCommentEvent,fedora-selinux_setroubleshoot,2019-03-12 08:29:32 UTC,,,,,
+6139852,PullRequestReviewCommentEvent,fedora-selinux_setroubleshoot,2019-09-16 07:01:12 UTC,,,,,
+6179571,PullRequestReviewCommentEvent,fedora-selinux_setroubleshoot,2019-03-12 11:22:28 UTC,,,,,
+0,Commit,fedora-selinux_setroubleshoot,2021-09-03 09:34:44,8c3f45b5f116912848a6c093bfb853a3e5d8a724,1.0,1.0,1.0,0.0
+1,Commit,fedora-selinux_setroubleshoot,2021-07-27 09:19:14,1707224c480ff57cb33ba8db1ea73cdcafa3cc7a,0.0,34.0,1.0,0.0
+2,Commit,fedora-selinux_setroubleshoot,2021-07-27 09:19:14,717f6946e8c90cdd4d98f10ba7e443f4f075be49,0.0,5.0,1.0,0.0
+3,Commit,fedora-selinux_setroubleshoot,2021-07-27 09:19:14,653cc3006a58f9d3dc56c1c6ea86511b05fdf4f7,12.0,98.0,1.0,0.0
+4,Commit,fedora-selinux_setroubleshoot,2021-07-27 09:16:02,2bab6596623d3e5cf6c27c37796bec99887521f6,2.0,0.0,1.0,0.0
+5,Commit,fedora-selinux_setroubleshoot,2021-07-27 09:16:02,9627bb8a6540ac4e6de8a4aa4dcfc9c44025ed66,11.0,25.0,1.0,0.0
+6,Commit,fedora-selinux_setroubleshoot,2021-07-27 09:15:55,447843d3d4c70ae5a7af986434e294dcd799acd3,38.0,34.0,1.0,0.0
+7,Commit,fedora-selinux_setroubleshoot,2021-04-15 09:35:17,65145c512908badc45fbab8f3b329e9923b42fb1,25.0,13.0,2.0,0.0
+8,Commit,fedora-selinux_setroubleshoot,2021-04-15 09:33:46,56cf1525b5ebeb3591d4a3ded5299fe82d0f9208,9.0,0.0,1.0,0.0
+9,Commit,fedora-selinux_setroubleshoot,2021-04-14 18:37:53,94b50ec8dd834e738f1d7a758d27e277d008d330,5.0,1.0,2.0,0.0
+10,Commit,fedora-selinux_setroubleshoot,2021-04-14 18:35:24,a40b6fa5d0e38f151787083c52441754ffe898ee,992.0,67749.0,122.0,0.0
+11,Commit,fedora-selinux_setroubleshoot,2021-03-29 10:51:08,20ffaa1d05016133c0f2586cc023fc754a889b7c,4.0,1.0,2.0,0.0
+12,Commit,fedora-selinux_setroubleshoot,2021-03-29 10:45:11,7ed6fd267e0b6343e5e299900f97eed6c327340c,23269.0,147770.0,122.0,0.0
+13,Commit,fedora-selinux_setroubleshoot,2021-03-23 12:20:23,5f8641f05d7228b971baa3bdd79c825fae17f893,1.0,1.0,1.0,0.0
+14,Commit,fedora-selinux_setroubleshoot,2021-03-10 12:46:53,d43f0cb83e681bdc17d0f7596f2ac5a593213d31,4.0,0.0,1.0,0.0
+15,Commit,fedora-selinux_setroubleshoot,2021-03-04 13:21:11,fc4ce50a450484544cf88c4044d474e08d2ecde4,9.0,5.0,1.0,0.0
+16,Commit,fedora-selinux_setroubleshoot,2021-03-04 13:18:35,7e02f26a04dc522adb65a3f94341cb4a23993595,3.0,2.0,1.0,0.0
+17,Commit,fedora-selinux_setroubleshoot,2021-03-04 12:19:34,1fd2520a1ff82657b32a19eb5933c01b81e15ef4,36.0,34.0,5.0,0.0
+18,Commit,fedora-selinux_setroubleshoot,2021-03-02 15:53:39,a45062985840be1d2b52d248edbf07986095b0cb,1.0,1.0,1.0,0.0
+19,Commit,fedora-selinux_setroubleshoot,2021-02-17 14:27:17,22378926f0b87ab3698f397bf60a28d969d343ff,6.0,4.0,2.0,0.0
+20,Commit,fedora-selinux_setroubleshoot,2021-02-02 12:18:49,e339956442fb7284bce31e132b0be7ad0f3badc5,1.0,1.0,1.0,0.0
+21,Commit,fedora-selinux_setroubleshoot,2021-01-18 14:07:01,6fbf777bc59c005e04d4616b9aebeb7c7f0866c0,65.0,21.0,1.0,0.0
+22,Commit,fedora-selinux_setroubleshoot,2020-08-19 08:06:39,63387097aa258902a3487a8693bdea5af7caf27c,2137.0,1447.0,50.0,0.0
+23,Commit,fedora-selinux_setroubleshoot,2020-08-19 08:03:03,2349f563c23deba042469f9e9a911028d38e89dd,10266.0,20868.0,38.0,0.0
+24,Commit,fedora-selinux_setroubleshoot,2020-08-12 14:55:21,2874019a5e5723f53c797b4a8e4f40ce7137e5c1,5.0,1.0,2.0,0.0
+25,Commit,fedora-selinux_setroubleshoot,2020-08-12 14:54:23,1f8e2a46d69e4b9cb9abc980323971c7a09fadc7,7.0,1.0,2.0,0.0
+26,Commit,fedora-selinux_setroubleshoot,2020-08-12 14:51:33,ef5e250b98c9ea055b2ecd5aa1bd360abd6966a4,3.0,1.0,1.0,0.0
+27,Commit,fedora-selinux_setroubleshoot,2020-08-12 14:43:00,fc25eaf56a4adf2c4fab16a9788e194fce31a85c,3.0,1.0,1.0,0.0
+28,Commit,fedora-selinux_setroubleshoot,2020-07-24 14:48:12,805e9c456d102808d456ca55ec23d686d4027e0c,6767.0,7617.0,88.0,0.0
+29,Commit,fedora-selinux_setroubleshoot,2020-05-28 19:47:34,fb38ce6c4222f38caf0e7862189b6df3928623c0,4.0,2.0,1.0,0.0
+30,Commit,fedora-selinux_setroubleshoot,2020-05-28 19:28:47,0080185f761c8c1cdfbfa613c5e9086e21913a08,0.0,13.0,1.0,0.0
+31,Commit,fedora-selinux_setroubleshoot,2020-05-27 09:15:38,dbf63d5f6f9d9152fa2b9e7eafb4d31a2d482d21,8.0,2.0,2.0,0.0
+32,Commit,fedora-selinux_setroubleshoot,2020-04-17 14:29:01,2f12ca26680c103d9f10e407ff1e844734f4a92c,5.0,0.0,1.0,0.0
+33,Commit,fedora-selinux_setroubleshoot,2020-04-17 14:28:52,6e7cadbc093f782d6c678b7fe2acdae0d26f2539,25.0,1.0,2.0,0.0
+34,Commit,fedora-selinux_setroubleshoot,2020-04-16 14:32:33,9a0693b00c25c583db8052454628356d84e5a397,10.0,5.0,1.0,0.0
+35,Commit,fedora-selinux_setroubleshoot,2020-04-08 09:54:07,8326990422ff98e013e5dde4f62c5ab73539e659,7.0,7.0,1.0,0.0
+36,Commit,fedora-selinux_setroubleshoot,2020-03-27 14:36:03,7458f4c50ac07319b0aa1b766547137bb7e7d391,2.0,3.0,1.0,0.0
+37,Commit,fedora-selinux_setroubleshoot,2020-03-27 14:36:03,1de3fd53785b0dca6bf3dc2c4d8f8005a597b232,3.0,3.0,2.0,0.0
+38,Commit,fedora-selinux_setroubleshoot,2020-03-27 14:36:03,1b5f51898e7bfdbb80e938fe968a46eced43cbb9,54.0,59.0,4.0,0.0
+39,Commit,fedora-selinux_setroubleshoot,2020-03-27 14:36:03,12eefb56e9dbbaa8d33a8c96855085a1ea7f9751,1.0,1.0,1.0,0.0
+40,Commit,fedora-selinux_setroubleshoot,2020-03-25 12:07:44,faff25140908a594c74c82f8b63ccc4436610be1,3.0,2.0,1.0,0.0
+41,Commit,fedora-selinux_setroubleshoot,2020-03-09 12:21:45,4fada87d50a6c16f404f8fbe59cf7ccb687185d6,7.0,7.0,4.0,0.0
+42,Commit,fedora-selinux_setroubleshoot,2020-03-09 12:21:45,c61cf16ed29222ec2aecc80d7322d489ec1ad104,2.0,11.0,1.0,0.0
+43,Commit,fedora-selinux_setroubleshoot,2020-03-09 12:21:45,2a020a9fa4601195ec4b2649bfe481b3f0f4ac68,2.0,2.0,1.0,0.0
+44,Commit,fedora-selinux_setroubleshoot,2020-03-09 11:22:38,7737404573a0fa0f47b86f7892f682f01309bef8,14.0,9.0,1.0,0.0
+45,Commit,fedora-selinux_setroubleshoot,2020-03-04 19:07:39,b652a0e38e93cfb8fcb4e4a02c277cc25006eacb,2.0,0.0,1.0,0.0
+46,Commit,fedora-selinux_setroubleshoot,2020-03-02 13:40:02,8c48bbe8193ffdc788d040d2f7619654c452d71d,0.0,1.0,1.0,0.0
+47,Commit,fedora-selinux_setroubleshoot,2020-02-29 22:31:47,fe8a0ac76b8ef52dda1a77e935eb96f0e3c5a33b,0.0,44.0,3.0,0.0
+48,Commit,fedora-selinux_setroubleshoot,2020-02-29 22:20:41,f458765712a27e5f223a5181d4682f8fc02efb01,46.0,0.0,1.0,0.0
+49,Commit,fedora-selinux_setroubleshoot,2020-02-28 12:25:59,945838998d84dcd8f0aab147f228e244dc08a54e,10.0,1.0,1.0,0.0
+50,Commit,fedora-selinux_setroubleshoot,2020-02-28 12:22:32,25dd8cee2841d0be01756b6c600ea887fad0c67d,25.0,28.0,2.0,0.0
+51,Commit,fedora-selinux_setroubleshoot,2020-02-27 11:38:39,a9a1d1b99c30208006a86474c19ab288c933afb6,26.0,1.0,2.0,0.0
+52,Commit,fedora-selinux_setroubleshoot,2020-02-27 11:38:39,74926ff27b35329819d74ea53eef2aff376cc6e1,5.0,1.0,1.0,0.0
+53,Commit,fedora-selinux_setroubleshoot,2020-02-27 11:38:39,72de472c510e6e3d50c72efbd1e1fd291ed35b68,24.0,9.0,1.0,0.0
+54,Commit,fedora-selinux_setroubleshoot,2020-02-27 11:38:39,5242f26ab29c7787a6071d10bf613e6b283512ef,88.0,3.0,5.0,0.0
+55,Commit,fedora-selinux_setroubleshoot,2020-02-27 11:38:39,9fe3ac2862a8c175520a0f275f39f548c2cf9d1e,79.0,0.0,1.0,0.0
+56,Commit,fedora-selinux_setroubleshoot,2020-02-21 09:05:17,0248b9fa3bb7399ca9cc4883fe42468924fd3353,0.0,23.0,4.0,0.0
+57,Commit,fedora-selinux_setroubleshoot,2020-01-17 18:19:46,9ae19481800412e3380ff5f72276837b379a3344,5525.0,3035.0,88.0,0.0
+58,Commit,fedora-selinux_setroubleshoot,2020-01-11 19:34:22,fc7aad6d9df91eba2445eac53e09372d844f5fd3,3.0,0.0,1.0,0.0
+59,Commit,fedora-selinux_setroubleshoot,2020-01-11 09:22:17,2b40f9e254ee2514a5ca113620b6761c0a1d2ae6,1.0,1.0,1.0,0.0
+60,Commit,fedora-selinux_setroubleshoot,2020-01-02 13:58:10,dec4d2f3a1d5043b2f4bbf47905a6193905a76d5,4.0,1.0,2.0,0.0
+61,Commit,fedora-selinux_setroubleshoot,2020-01-02 13:33:17,4657ec5b42108ab97ec654d65b5d36332b11c1e4,2.0,2.0,1.0,0.0
+62,Commit,fedora-selinux_setroubleshoot,2019-12-11 11:42:21,d27680fc07f7da24263a4c2c5234e4d6e31695e2,5.0,0.0,1.0,0.0
+63,Commit,fedora-selinux_setroubleshoot,2019-12-10 15:10:38,0c202dea03b0272d0c870fa03f4ba816e4aa6039,4.0,0.0,1.0,0.0
+64,Commit,fedora-selinux_setroubleshoot,2019-11-20 12:45:01,cb40f56e7bd9ed91cdcecddc1c1d6048821bc80a,1.0,1.0,1.0,0.0
+65,Commit,fedora-selinux_setroubleshoot,2019-11-20 12:42:17,26f7d8bb00eb049d5edfb801e148a39276fae7ce,8.0,0.0,1.0,0.0
+66,Commit,fedora-selinux_setroubleshoot,2019-11-18 15:09:33,2429710aa07e6f926cd1ef084743e77879e29394,1.0,0.0,1.0,0.0
+67,Commit,fedora-selinux_setroubleshoot,2019-09-17 08:34:27,44cf3c3f5611c8c0f77aaa0a41f520d0068394d5,85.0,0.0,1.0,0.0
+68,Commit,fedora-selinux_setroubleshoot,2019-09-16 06:53:57,838864aeb22fb558575899ad5a9323c76be97813,3.0,3.0,2.0,0.0
+69,Commit,fedora-selinux_setroubleshoot,2019-08-30 11:13:31,c55edb36ca68a783f7b61d306e81163b8d464325,11.0,2.0,1.0,0.0
+70,Commit,fedora-selinux_setroubleshoot,2019-08-27 20:34:08,a47895131484cfb5d3b6bbbce1e1f223d69c5dda,3.0,1.0,1.0,0.0
+71,Commit,fedora-selinux_setroubleshoot,2019-08-16 15:57:09,ba65fc22aeff72a04aa7849af5e3e9a3f0b4329c,16.0,9.0,2.0,0.0
+72,Commit,fedora-selinux_setroubleshoot,2019-08-16 15:57:09,32b2974e53c264e7f9a57db8fb0b216c7d8e522e,4.0,2.0,1.0,0.0
+73,Commit,fedora-selinux_setroubleshoot,2019-08-16 15:57:09,45d51e755d0273336d11c3be9d4a3b7ad04f9459,22.0,8.0,1.0,0.0
+74,Commit,fedora-selinux_setroubleshoot,2019-07-17 11:14:06,7264a7ec05b7a6f3bb8ad0baea4585625a09054c,1.0,1.0,1.0,0.0
+75,Commit,fedora-selinux_setroubleshoot,2019-07-16 14:49:49,a8ef8ff8e3a7152c28d9586f458419d3ad5d9b9a,6.0,0.0,1.0,0.0
+76,Commit,fedora-selinux_setroubleshoot,2019-07-16 10:15:40,f20d2c0d138c6f9c7cf9395eae2e3644ce48cccf,22.0,0.0,2.0,0.0
+77,Commit,fedora-selinux_setroubleshoot,2019-05-14 09:02:34,ed93fab98bfd0b52bb407ce294b0ffdafca8389a,156.0,317.0,2.0,0.0
+78,Commit,fedora-selinux_setroubleshoot,2019-05-10 07:37:04,516c183aa8ae2595904fa2abf0f6e88f0c44adee,32.0,2.0,1.0,0.0
+79,Commit,fedora-selinux_setroubleshoot,2019-02-20 16:55:29,c2991d1595aa57e7851bf91e2f8f7503c86af6dd,28.0,53.0,2.0,0.0
+80,Commit,fedora-selinux_setroubleshoot,2018-12-08 21:44:08,85b75300143f6cb8acb8e40308d590776dd832e9,1.0,1.0,1.0,0.0
+81,Commit,fedora-selinux_setroubleshoot,2018-12-08 21:39:02,e82107aed051bb4482e03e06a8e68cd97ddc0844,5.0,0.0,1.0,0.0
+82,Commit,fedora-selinux_setroubleshoot,2018-12-07 22:04:21,36c182cdb50f015c58bb1bf0908afc2fb7cd6491,1.0,1.0,1.0,0.0
+83,Commit,fedora-selinux_setroubleshoot,2018-12-07 21:57:33,0b961bd298852b15aaf4bc8b4c1f62ae364b6a6f,6.0,0.0,1.0,0.0
+84,Commit,fedora-selinux_setroubleshoot,2018-12-05 21:10:54,652f9dfe5132503176e45bb7bb70dfc76418a754,1447.0,194.0,7.0,0.0
+85,Commit,fedora-selinux_setroubleshoot,2018-12-05 21:08:01,d4af7e3bf266a2024ce3647ba7de3b0f40be969c,74.0,45.0,7.0,0.0
+86,Commit,fedora-selinux_setroubleshoot,2018-11-01 16:52:50,73c5ba15fd5955147151f46809d670975b386388,36.0,4.0,1.0,0.0
+87,Commit,fedora-selinux_setroubleshoot,2018-09-20 08:14:34,06e4ebf603ef936e1422cb887403994abb29c459,146.0,39.0,13.0,0.0
+88,Commit,fedora-selinux_setroubleshoot,2018-08-31 10:41:09,f47ca051b0c8b7e6e8e84d7efbc69336e18cfee9,6.0,4.0,1.0,0.0
+89,Commit,fedora-selinux_setroubleshoot,2018-08-31 07:35:18,95e1467616e80b800e0e3e397e6944a8a67098fb,1.0,1.0,1.0,0.0
+90,Commit,fedora-selinux_setroubleshoot,2018-08-31 07:33:42,4f2ae1c99ee96683330e8e81b3ac5a90f27d1bf5,1.0,1.0,1.0,0.0
+91,Commit,fedora-selinux_setroubleshoot,2018-08-07 13:38:22,28cc276252c1617972aa45d341ee53d3a69d4d4e,10.0,7.0,3.0,0.0
+92,Commit,fedora-selinux_setroubleshoot,2018-08-03 12:20:36,70176da3757b07fe42ed9421f9bda5ad1f82cb0a,8538.0,10718.0,85.0,0.0
+93,Commit,fedora-selinux_setroubleshoot,2018-07-18 19:50:56,31dc139538a29e675aeaf6b7f757bfa67d53f06c,4.0,0.0,1.0,0.0
+94,Commit,fedora-selinux_setroubleshoot,2018-07-18 19:30:00,ea1753cca8736233bffb9be1de096a50b9f117ee,8.0,4.0,2.0,0.0
+95,Commit,fedora-selinux_setroubleshoot,2018-06-15 14:03:36,c63891444e0c283951ad38470e12f6ee535e8cc5,2.0,1.0,1.0,0.0
+96,Commit,fedora-selinux_setroubleshoot,2018-06-15 14:03:26,da8297684f0879a0bbc5fa4c9b321dc8f962b0f0,4.0,2.0,2.0,0.0
+97,Commit,fedora-selinux_setroubleshoot,2018-06-15 14:02:31,826766f50b783f6796524250fb12c49eb8af5e39,0.0,1.0,1.0,0.0
+98,Commit,fedora-selinux_setroubleshoot,2018-03-09 09:15:32,00769460f0c8bc4883448b43ce71c85ec6aa2b92,0.0,580.0,1.0,0.0
+99,Commit,fedora-selinux_setroubleshoot,2018-03-09 09:06:56,609f45fa80299b8464befe85723d996c461f7f95,2090.0,1790.0,31.0,0.0
+100,Commit,fedora-selinux_setroubleshoot,2018-03-09 09:05:42,e683311c67e1b6c1fdd2dfd09c7de34278ad287d,0.0,10.0,1.0,0.0
+101,Commit,fedora-selinux_setroubleshoot,2018-02-26 20:19:13,719d3c046f4a5d1ab2310e3bd5d75eb8d91f8594,1.0,1.0,1.0,0.0
+102,Commit,fedora-selinux_setroubleshoot,2018-02-26 20:02:39,39bb918b375fd1f06934b73080d4b2a43bbbe43c,5.0,0.0,1.0,0.0
+103,Commit,fedora-selinux_setroubleshoot,2018-02-26 10:27:33,f05cc7c465f373793b6f59ab5241fcb1ed86f19a,1.0,1.0,1.0,0.0
+104,Commit,fedora-selinux_setroubleshoot,2018-02-26 10:24:13,fb8517fea875865ddd05df1daf429e24e27ebd2a,3.0,2.0,1.0,0.0
+105,Commit,fedora-selinux_setroubleshoot,2018-02-26 10:24:13,b3294c5a5dbde57f5f46a1ee07799c0d18670f68,6.0,6.0,1.0,0.0
+106,Commit,fedora-selinux_setroubleshoot,2018-02-26 10:24:13,f39cccef892cffa2ea0fe87f94b034c0d4145048,7.0,2.0,1.0,0.0
+107,Commit,fedora-selinux_setroubleshoot,2018-02-20 08:58:32,ec934a80c3d265e6cf7a0a05c8ab86402e7f134e,1.0,1.0,1.0,0.0
+108,Commit,fedora-selinux_setroubleshoot,2018-02-20 08:53:41,b176f460b48c5b0b3d8864c90ad2c6ef38cea216,5.0,0.0,1.0,0.0
+109,Commit,fedora-selinux_setroubleshoot,2018-02-12 09:17:30,ac37d0394ecc721f40eedb8d252dc5fc13eda315,2.0,1.0,1.0,0.0
+110,Commit,fedora-selinux_setroubleshoot,2018-02-12 09:17:30,6096887786a2ea23a3f46ecaa9131973fcb38b43,7.0,0.0,1.0,0.0
+111,Commit,fedora-selinux_setroubleshoot,2018-02-09 22:44:00,a271d8b2d5337a4eecec7408a4d4e85ec08e7eeb,3.0,3.0,1.0,0.0
+112,Commit,fedora-selinux_setroubleshoot,2018-02-09 22:42:51,f729b387c6e7073fc26e605be10fe81db55c5484,40.0,8.0,1.0,0.0
+113,Commit,fedora-selinux_setroubleshoot,2018-02-09 22:40:34,dde737724956b5849148f5c650a43191636ffeb3,1.0,1.0,1.0,0.0
+114,Commit,fedora-selinux_setroubleshoot,2018-01-19 15:56:11,764d0c3426cc93f0d57a21a361226b9abfb75459,6.0,0.0,1.0,0.0
+115,Commit,fedora-selinux_setroubleshoot,2018-01-19 15:50:13,000f8b7dbbec70023ddb3d7ad10b1f78f9aa40ae,47.0,1.0,1.0,0.0
+116,Commit,fedora-selinux_setroubleshoot,2018-01-19 10:00:06,b9ce253306c64305db46ed7e055983d46c41660f,4.0,4.0,1.0,0.0
+117,Commit,fedora-selinux_setroubleshoot,2018-01-19 09:59:12,6e974f9b319704296b4ee9397bae679a90d692da,2.0,1.0,1.0,0.0
+118,Commit,fedora-selinux_setroubleshoot,2018-01-19 09:11:14,f3c67f2145b1dcc97c331791dcdd438239a743d6,25.0,9.0,4.0,0.0
+119,Commit,fedora-selinux_setroubleshoot,2018-01-19 09:05:10,c3addc63a0204379bec72147d6b62e082771a74b,120.0,1.0,2.0,0.0
+120,Commit,fedora-selinux_setroubleshoot,2018-01-19 09:02:14,1ad5190161bc69ac29d843f5bc3f4496a8c9ed28,1.0,0.0,1.0,0.0
+121,Commit,fedora-selinux_setroubleshoot,2018-01-18 16:10:40,d8877c6b8b4cbc1af84616f12e5f60f8362cce25,1.0,1.0,1.0,0.0
+122,Commit,fedora-selinux_setroubleshoot,2017-11-22 12:03:37,584b1e33808a55c82259a0d7787cbfa5200d7022,530.0,123.0,36.0,0.0
+123,Commit,fedora-selinux_setroubleshoot,2017-11-22 11:59:53,245d79a30aba6a79e6700f84439ad16879b7fc87,2593.0,2669.0,49.0,0.0
+124,Commit,fedora-selinux_setroubleshoot,2017-11-18 22:16:49,bb5c936528299f34208c569e5e2764ac82fb44a2,479.0,51.0,2.0,0.0
+125,Commit,fedora-selinux_setroubleshoot,2017-11-18 22:16:33,af1192a503bac60d02328243d8b57caec14b0e0a,54.0,35.0,5.0,0.0
+126,Commit,fedora-selinux_setroubleshoot,2017-11-18 21:35:00,095146aaa964042fb722189a8d714c9ed2fe3a21,3.0,1.0,1.0,0.0
+127,Commit,fedora-selinux_setroubleshoot,2017-11-18 21:03:25,a15c5761688ee4217e0b39a05b3874f16778d291,7.0,0.0,1.0,0.0
+128,Commit,fedora-selinux_setroubleshoot,2017-11-15 16:04:04,1b6283b3b8be9af9e14882f03f9a675b99d04f19,1.0,1.0,1.0,0.0
+129,Commit,fedora-selinux_setroubleshoot,2017-11-15 13:45:19,e62ea53b8eb9e81e638d43c47ed4c78612f79f26,1.0,1.0,1.0,0.0
+130,Commit,fedora-selinux_setroubleshoot,2017-11-15 13:44:49,6962402b06e0a354615c216af03b041a5ee2d7d9,2.0,1.0,1.0,0.0
+131,Commit,fedora-selinux_setroubleshoot,2017-11-15 13:42:48,324981f7d58585a58beeace737de3971faf86941,2.0,2.0,2.0,0.0
+132,Commit,fedora-selinux_setroubleshoot,2017-10-10 07:17:53,3453148d12876fc57ac33b0b60b084aeff7e96f2,8.0,8.0,1.0,0.0
+133,Commit,fedora-selinux_setroubleshoot,2017-09-25 11:58:07,1bd57b2818fca5014924350b2af76625cbc5cb1a,2.0,2.0,1.0,0.0
+134,Commit,fedora-selinux_setroubleshoot,2017-09-15 05:44:07,eaa987f70d6d964099717f661f6d4e872d2752f6,1.0,1.0,1.0,0.0
+135,Commit,fedora-selinux_setroubleshoot,2017-09-15 05:43:47,f6a5f0336615d74b0a8562450afc907c1abd60e6,1.0,1.0,1.0,0.0
+136,Commit,fedora-selinux_setroubleshoot,2017-09-15 05:36:28,7338ec598f7359a5a39f198fb01a864e8500b3f2,20.0,0.0,2.0,0.0
+137,Commit,fedora-selinux_setroubleshoot,2017-09-14 15:52:42,6a122d90770aaeb527d5cb1bae7de2adea4d65ea,8843.0,6995.0,85.0,0.0
+138,Commit,fedora-selinux_setroubleshoot,2017-09-14 15:29:31,7b8aa22dc03e214b5492264cf2dbacfbba18cfcf,0.0,140.0,1.0,0.0
+139,Commit,fedora-selinux_setroubleshoot,2017-09-14 06:05:47,af2aa6c0491cb719d4be2ce60bc79c0541d18a44,0.0,5.0,1.0,0.0
+140,Commit,fedora-selinux_setroubleshoot,2017-09-14 06:05:47,a176d587b7d66ba37f07e9f122be4b6664553e92,2.0,1.0,1.0,0.0
+141,Commit,fedora-selinux_setroubleshoot,2017-09-14 06:05:47,fb9b7c9ecd55456cbf078ec2e4cd26f0074a2045,5.0,5.0,3.0,0.0
+142,Commit,fedora-selinux_setroubleshoot,2017-09-05 12:26:36,67c8d8d452c44519ba78fc0f605d6754afc4fe0b,41.0,20.0,6.0,0.0
+143,Commit,fedora-selinux_setroubleshoot,2017-08-28 07:01:49,64f09779477f17759aa8e3d5ca47975ca46856d0,1.0,1.0,1.0,0.0
+144,Commit,fedora-selinux_setroubleshoot,2017-08-23 08:38:52,e7eac652343370957b6f6fdad5fe2eb9de416a33,524.0,79.0,9.0,0.0
+145,Commit,fedora-selinux_setroubleshoot,2017-08-22 10:21:46,ddbc9cd31a153d8f0bc2810157ddb593610a9c68,73878.0,166163.0,240.0,0.0
+146,Commit,fedora-selinux_setroubleshoot,2017-08-22 08:45:38,8be44048b35333c9745e7c8949f2b69ef1efa2e5,5.0,5.0,1.0,0.0
+147,Commit,fedora-selinux_setroubleshoot,2017-08-22 08:44:23,4a0172ae99bbda60ba0cae7b070285ed55bb2be0,1.0,1.0,1.0,0.0
+148,Commit,fedora-selinux_setroubleshoot,2017-08-21 13:49:29,98c2ad7c16be9b79f880964b3ccfbfbc5bb4ed58,47.0,47.0,39.0,0.0
+149,Commit,fedora-selinux_setroubleshoot,2017-08-04 15:03:12,3afcbef8ec3f03c7f5562bbedad86ceb778c318b,27.0,19.0,3.0,0.0
+150,Commit,fedora-selinux_setroubleshoot,2017-08-04 12:35:37,5e97f34c60487476527581ed7ba93fd3a8406c06,1.0,0.0,1.0,0.0
+151,Commit,fedora-selinux_setroubleshoot,2017-08-04 12:03:43,8d2d943dfb4c752aaf0f847994261beef26e73b8,2.0,0.0,1.0,0.0
+152,Commit,fedora-selinux_setroubleshoot,2017-07-14 11:16:11,e9e2872101db300938a56d79899496c3080a1565,2.0,1.0,1.0,0.0
+153,Commit,fedora-selinux_setroubleshoot,2017-06-13 14:05:40,cf57d64021349c63d92bd7ffe3e4592ba04cd2e3,1.0,1.0,1.0,0.0
+154,Commit,fedora-selinux_setroubleshoot,2017-06-13 13:59:19,e1ed5952ab98d6131aec074e9f4a07a51e52f372,13.0,0.0,1.0,0.0
+155,Commit,fedora-selinux_setroubleshoot,2017-06-13 13:54:40,72011551bae15566bef4e6cf38bf528de3981d43,1.0,1.0,1.0,0.0
+156,Commit,fedora-selinux_setroubleshoot,2017-06-13 13:49:23,55c59ca60692569acac8431f90d4468a731ead6b,1.0,1.0,1.0,0.0
+157,Commit,fedora-selinux_setroubleshoot,2017-06-13 13:38:48,31b6b3403562bf09c5084fcd32507855f127a6c0,0.0,222.0,1.0,0.0
+158,Commit,fedora-selinux_setroubleshoot,2017-06-13 13:05:06,ca067ad76f1762b198e02528a7803337c821d036,1.0,1.0,1.0,0.0
+159,Commit,fedora-selinux_setroubleshoot,2017-06-13 13:05:00,98f053f4c218ac2a956e5ed14afe9e68b513711e,0.0,7.0,1.0,0.0
+160,Commit,fedora-selinux_setroubleshoot,2017-06-06 11:29:51,6e580e4e8182d8117707c8b3592390682ef82740,5.0,1.0,1.0,0.0
+161,Commit,fedora-selinux_setroubleshoot,2017-06-06 11:29:44,a2b85788fa263f3c1e0db9990420952c1fd2fb17,3.0,1.0,1.0,0.0
+162,Commit,fedora-selinux_setroubleshoot,2017-06-06 11:29:33,563f03c53e99d595e2ee8d77d9ad41ccf9fe5d56,10.0,3.0,1.0,0.0
+163,Commit,fedora-selinux_setroubleshoot,2017-06-06 11:29:21,4c3d14f776d97e07ff07ca826deeb92eef0c005a,15.0,11.0,2.0,0.0
+164,Commit,fedora-selinux_setroubleshoot,2017-06-06 11:29:11,dbfc6fabd652ff6334fa3c34ebe43862b9f44ad1,33.0,9.0,1.0,0.0
+165,Commit,fedora-selinux_setroubleshoot,2017-06-06 11:20:44,4e1aec126ed8b7ce3b78175bfa562c35dee522ce,13.0,0.0,1.0,0.0
+166,Commit,fedora-selinux_setroubleshoot,2017-06-01 21:03:47,c357e0735736d90e2bbdd4a5351367fbe51057eb,1.0,1.0,1.0,0.0
+167,Commit,fedora-selinux_setroubleshoot,2017-06-01 20:46:03,345b7b9e55276d9db4fad367e76aa1f5e2eccd7b,2.0,2.0,2.0,0.0
+168,Commit,fedora-selinux_setroubleshoot,2017-06-01 20:46:03,efb55f1b5bb93b5c0f52a3191751ad9b20ae70b3,4.0,0.0,2.0,0.0
+169,Commit,fedora-selinux_setroubleshoot,2017-06-01 20:41:46,a93a75fe97ced2da66c39b427657d052cbce48b7,4.0,0.0,1.0,0.0
+170,Commit,fedora-selinux_setroubleshoot,2017-06-01 18:25:51,807f8f5ffee5dc13fcea7a97cfd3e75741976b4f,1.0,1.0,1.0,0.0
+171,Commit,fedora-selinux_setroubleshoot,2017-04-24 14:24:46,51128abe9a47ff6dee1cb142e936f3f9e6b70f2f,2.0,2.0,1.0,0.0
+172,Commit,fedora-selinux_setroubleshoot,2017-04-05 14:12:26,28e3a0b14b1bac52f596bd8e8e45c61077604720,3.0,1.0,1.0,0.0
+173,Commit,fedora-selinux_setroubleshoot,2017-04-05 10:48:43,83a1739231f7d4250bbc3c0b896774000af434fb,13.0,3.0,1.0,0.0
+174,Commit,fedora-selinux_setroubleshoot,2017-04-05 10:40:51,8c83dc60b115dfdddaeb21923de5006b29bd3054,6.0,7.0,1.0,0.0
+175,Commit,fedora-selinux_setroubleshoot,2017-04-05 10:40:42,3ce6e888178425ad73111f171cf4f5a4020700fa,1.0,1.0,1.0,0.0
+176,Commit,fedora-selinux_setroubleshoot,2017-04-05 10:40:22,b75cc8769abbfa4f7a53344e4cfa3f1cad9645e1,3.0,0.0,1.0,0.0
+177,Commit,fedora-selinux_setroubleshoot,2017-04-05 10:38:19,44d7ef2b461da4ec4aa874b57e339edf6abece6a,1.0,0.0,1.0,0.0
+178,Commit,fedora-selinux_setroubleshoot,2017-03-15 13:53:42,f6731b74e9341f929ff685cfe590fa1d93556bd3,26.0,24.0,11.0,0.0
+179,Commit,fedora-selinux_setroubleshoot,2017-03-09 14:51:11,125015dd98e31207ed87a21c149f6fb367b89e5b,0.0,22.0,1.0,0.0
+180,Commit,fedora-selinux_setroubleshoot,2017-03-09 14:46:25,e2cfa7b7d881ab9d8ebc99cfdf07cef6a0e95d3e,59.0,59.0,9.0,0.0
+181,Commit,fedora-selinux_setroubleshoot,2017-03-09 14:33:45,e94bb4ea8c278b09c59dff7a84b89b29a6dfc5c0,16.0,16.0,5.0,0.0
+182,Commit,fedora-selinux_setroubleshoot,2016-10-21 13:46:23,9d58604b4b68a0ab89c3b195f0b3002500f7e511,3.0,3.0,2.0,0.0
+183,Commit,fedora-selinux_setroubleshoot,2016-09-06 14:12:52,fcca51d50e8bcb9677f43bf64dc648e5ff002949,310.0,215.0,3.0,0.0
+184,Commit,fedora-selinux_setroubleshoot,2016-09-01 09:09:51,1edd9851ae628a1b13283a33ca980c3b8cb6c221,1.0,1.0,1.0,0.0
+185,Commit,fedora-selinux_setroubleshoot,2016-09-01 08:55:51,976fbaba5c1d4b0b5f1c5de0fa0e9f636bff5300,1.0,1.0,1.0,0.0
+186,Commit,fedora-selinux_setroubleshoot,2016-09-01 08:51:47,a3104f3bdc1741daa5072b72528d9ec2528d0d5b,2803.0,326.0,36.0,0.0
+187,Commit,fedora-selinux_setroubleshoot,2016-08-31 13:14:29,17a0a163c993fd4b6572882963485f28f24b84c5,1.0,1.0,1.0,0.0
+188,Commit,fedora-selinux_setroubleshoot,2016-08-31 13:01:57,e42a9e4e054e830eeaa018229826a06dd90745c7,4.0,0.0,1.0,0.0
+189,Commit,fedora-selinux_setroubleshoot,2016-08-31 08:25:15,355befb4e8afea783c600e8278ed6b0ede949c0a,1.0,1.0,1.0,0.0
+190,Commit,fedora-selinux_setroubleshoot,2016-08-31 08:25:08,9d82895c9a06575a976dee0d8ccea412610d5b01,2.0,1.0,1.0,0.0
+191,Commit,fedora-selinux_setroubleshoot,2016-08-31 07:48:55,47ab292c6c2f336e5f49765700cac0e411a55cf8,1.0,1.0,1.0,0.0
+192,Commit,fedora-selinux_setroubleshoot,2016-08-25 09:19:24,82a6f1cdf716513d63b3908ebe419eaf077bd74d,10.0,0.0,1.0,0.0
+193,Commit,fedora-selinux_setroubleshoot,2016-07-16 13:51:12,5e411e0a62d870cb514c76c7bd8d5d608107f2ef,1.0,1.0,1.0,0.0
+194,Commit,fedora-selinux_setroubleshoot,2016-07-14 16:45:25,b01ca5ff8066bf6ac750aa0da7395ea437f7c4b5,5.0,1.0,2.0,0.0
+195,Commit,fedora-selinux_setroubleshoot,2016-07-14 16:34:26,29607cf109120a8eddecd5f266c016a7a0b5fc89,3393.0,13421.0,36.0,0.0
+196,Commit,fedora-selinux_setroubleshoot,2016-07-14 16:33:31,2475c5849ca2c90c665399e491aa1c9a8befd963,327.0,3132.0,48.0,0.0
+197,Commit,fedora-selinux_setroubleshoot,2016-07-13 14:44:34,843a2a9f61d38b6d38651aedf7f07e87daeccd51,0.0,165.0,1.0,0.0
+198,Commit,fedora-selinux_setroubleshoot,2016-07-13 14:43:41,442c7a458aa97899c197a380912049370e2dcdeb,6.0,82547.0,28.0,0.0
+199,Commit,fedora-selinux_setroubleshoot,2016-07-13 14:42:32,d75124e10496699429f2e2e354cdeec829fb562a,6.0,21610.0,28.0,0.0
+200,Commit,fedora-selinux_setroubleshoot,2016-07-05 10:25:40,06e2c9e570e1fcaa963b797096793a225aa2f74d,0.0,1.0,1.0,0.0
+201,Commit,fedora-selinux_setroubleshoot,2016-06-22 15:18:32,8e99f0c5f39b881f8ec1fda722f5629070a85c03,1.0,1.0,1.0,0.0
+202,Commit,fedora-selinux_setroubleshoot,2016-06-22 13:59:05,503d348f029e096fe20c04b287eb400c348747c6,25.0,8.0,3.0,0.0
+203,Commit,fedora-selinux_setroubleshoot,2016-06-22 13:53:39,fa2365f94ec1d33e3be14416b801b5f6e0ac840b,3.0,1.0,2.0,0.0
+204,Commit,fedora-selinux_setroubleshoot,2016-06-22 08:48:08,8f729eb10153863d7b731eec61b664b2a25e9dab,1.0,1.0,1.0,0.0
+205,Commit,fedora-selinux_setroubleshoot,2016-06-21 13:35:14,5b39d916b289289071a04e4d359a20c46aaa283a,3.0,2.0,2.0,0.0
+206,Commit,fedora-selinux_setroubleshoot,2016-06-21 13:15:41,4011d66b137289e8016498481e16ae03a65f0e9a,4.0,4.0,2.0,0.0
+207,Commit,fedora-selinux_setroubleshoot,2016-06-21 13:15:00,e119d9fec06a0eccee60eab2ebbdd45c9b071ed8,2.0,2.0,1.0,0.0
+208,Commit,fedora-selinux_setroubleshoot,2016-06-21 09:09:48,d7b6f989e325a1fbea8805fde16fbaa5a01e2653,1.0,1.0,1.0,0.0
+209,Commit,fedora-selinux_setroubleshoot,2016-06-21 09:07:56,f9783a76d2c234c17feff735064f472bb23c0d29,4.0,1.0,2.0,0.0
+210,Commit,fedora-selinux_setroubleshoot,2016-06-21 09:05:02,3f903b62224c8d916f79451b1a42a6edbfc916a3,3.0,4.0,2.0,0.0
+211,Commit,fedora-selinux_setroubleshoot,2016-06-06 16:19:51,013d910c59084d850808cf75002792677bd5aea8,3.0,3.0,1.0,0.0
+212,Commit,fedora-selinux_setroubleshoot,2016-06-02 16:41:19,4988ed7448a88824bded546d4db0410bd9428331,4.0,1.0,2.0,0.0
+213,Commit,fedora-selinux_setroubleshoot,2016-06-02 16:39:05,b5b31cb0766218e0338be25fa68ce678ca5f3185,1.0,1.0,1.0,0.0
+214,Commit,fedora-selinux_setroubleshoot,2016-06-02 13:03:01,88420088bfd2a9a42efdb870f5319e7f733e19a4,9.0,1.0,2.0,0.0
+215,Commit,fedora-selinux_setroubleshoot,2016-06-02 12:58:33,1f2d2104978af0d498441a7b6e1607e92197d8f3,5.0,5.0,2.0,0.0
+216,Commit,fedora-selinux_setroubleshoot,2016-06-02 12:33:21,1da878cdf8660765f652b68dae8f3799ca1a1a55,9.0,7.0,2.0,0.0
+217,Commit,fedora-selinux_setroubleshoot,2016-06-02 10:40:04,28c0b3af6983a503b66dcf8d249cbb231a53a508,0.0,33.0,2.0,0.0
+218,Commit,fedora-selinux_setroubleshoot,2016-06-01 06:54:13,20a932edd9c89062441eb85c3a50eba7e954f662,0.0,54.0,2.0,0.0
+219,Commit,fedora-selinux_setroubleshoot,2016-06-01 06:49:38,02838c81aa3d6a51a045e16d08742e5f0e9d8185,36.0,22.0,5.0,0.0
+220,Commit,fedora-selinux_setroubleshoot,2016-05-30 16:52:13,f490c5676e2680ed6f5ce0c4c9c8b0505c4429cb,2.0,56.0,2.0,0.0
+221,Commit,fedora-selinux_setroubleshoot,2016-05-30 16:49:23,515802cddf29f5eb81bb22b050349053c2e1ff57,14.0,6.0,3.0,0.0
+222,Commit,fedora-selinux_setroubleshoot,2016-05-30 12:16:34,a798fb0ce1cb8e8981e5f5cbc66778f533f75473,1.0,12.0,3.0,0.0
+223,Commit,fedora-selinux_setroubleshoot,2016-05-30 12:16:34,423b17613da00ce41cfdf056393c41ee275e49a6,1.0,1.0,2.0,0.0
+224,Commit,fedora-selinux_setroubleshoot,2016-05-18 20:06:27,b3df473638a55579e257adc7676b1d04e8ed3999,5.0,1.0,2.0,0.0
+225,Commit,fedora-selinux_setroubleshoot,2016-05-18 19:54:33,1ad1237cc79a3091727785a2afa8fd3b52d75e6b,71.0,22.0,1.0,0.0
+226,Commit,fedora-selinux_setroubleshoot,2016-05-06 13:34:54,ee06a8f48e865d8617f5a60500a968f60ca9e8fe,24.0,0.0,2.0,0.0
+227,Commit,fedora-selinux_setroubleshoot,2016-05-06 13:18:01,a21e2e3ea72946537fdd8ffcfb70713b4108d7c0,6.0,0.0,1.0,0.0
+228,Commit,fedora-selinux_setroubleshoot,2016-05-06 13:18:01,09ddd301a9a72eb40dde48d4ad60f64696e64b80,14.0,2.0,1.0,0.0
+229,Commit,fedora-selinux_setroubleshoot,2016-05-06 13:18:01,5bbab328ace82956d42c67e61dac5da70a419c13,22.0,0.0,1.0,0.0
+230,Commit,fedora-selinux_setroubleshoot,2016-05-06 13:18:01,a5191c2c4a9aab15a7e47290547521a7fc40b582,9.0,7.0,1.0,0.0
+231,Commit,fedora-selinux_setroubleshoot,2016-05-06 11:13:17,8924932e7281719e45781aefdb8ccf4f2b3d3dd6,1.0,1.0,1.0,0.0
+232,Commit,fedora-selinux_setroubleshoot,2016-05-06 11:10:21,197af6481b652b309d80da66da66f2ec1bd08d55,8.0,1.0,2.0,0.0
+233,Commit,fedora-selinux_setroubleshoot,2016-05-05 11:44:57,87600576429ae30f9e220a14c6497f9aa2df3243,3.0,2.0,2.0,0.0
+234,Commit,fedora-selinux_setroubleshoot,2016-05-05 11:41:41,8adf7e62142d83c4a679148f7434cbbdf69049fe,1.0,1.0,1.0,0.0
+235,Commit,fedora-selinux_setroubleshoot,2016-05-05 09:43:22,26b4d4d96ed11402ed5e62627aaf24840737bcc3,8.0,7.0,1.0,0.0
+236,Commit,fedora-selinux_setroubleshoot,2016-05-04 09:02:16,c6fa379fcd3e81540cc6b3d49593b8fe932a6d47,2.0,2.0,2.0,0.0
+237,Commit,fedora-selinux_setroubleshoot,2016-05-04 09:02:11,8c97d1e919206d4e98923273bb190bc96629e5d6,4.0,4.0,2.0,0.0
+238,Commit,fedora-selinux_setroubleshoot,2016-04-25 11:40:13,46c138528be6da4224e431181b63ef4125e9d804,898.0,220.0,84.0,0.0
+239,Commit,fedora-selinux_setroubleshoot,2016-04-25 11:40:13,b2fd2e864b1d25ffd05c7bd38a36b2f6a4ea622a,4.0,4.0,4.0,0.0
+240,Commit,fedora-selinux_setroubleshoot,2016-04-25 11:40:13,5bc1538cabbc81f588eb61fddcc2c568ad6eeb52,1.0,1.0,1.0,0.0
+241,Commit,fedora-selinux_setroubleshoot,2016-04-14 09:24:33,4271b72e879ca25ba244036c0c2b6b9dbf7b2edf,2.0,3.0,1.0,0.0
+242,Commit,fedora-selinux_setroubleshoot,2016-04-07 09:27:31,a1d303150b341d6cfdc1f7d36c38004cee01fdb7,1.0,1.0,1.0,0.0
+243,Commit,fedora-selinux_setroubleshoot,2016-04-04 19:22:35,316e94643b8f4c8e422f5a506f484ee3bc03064e,1.0,1.0,1.0,0.0
+244,Commit,fedora-selinux_setroubleshoot,2016-04-04 18:57:36,090dd23c4627824115b565c70edc47d13bda06bc,6.0,1.0,2.0,0.0
+245,Commit,fedora-selinux_setroubleshoot,2016-04-04 08:05:17,723d4890c18444ab7ff68b33b4d28137dc07f94c,20.0,0.0,1.0,0.0
+246,Commit,fedora-selinux_setroubleshoot,2016-04-04 08:05:07,42edc1dcae82da6dd79f4437631eb0f0ebb11bbd,7.0,3.0,2.0,0.0
+247,Commit,fedora-selinux_setroubleshoot,2016-04-04 08:04:55,900166830aea54cc3534fd638e8d3637bf32eab4,6.0,3.0,2.0,0.0
+248,Commit,fedora-selinux_setroubleshoot,2016-04-04 08:04:49,5b4f69e696b989378f7d1a42959bae3c695321e6,7.0,3.0,2.0,0.0
+249,Commit,fedora-selinux_setroubleshoot,2016-04-04 08:04:37,5f5dc8f846fd428bdd20d4b09d2bfaecf6b76c64,14.0,2.0,3.0,0.0
+250,Commit,fedora-selinux_setroubleshoot,2016-03-31 10:01:07,9642ff10ed51c79c213e93b8fe993fe334907657,1.0,0.0,1.0,0.0
+251,Commit,fedora-selinux_setroubleshoot,2016-03-27 19:31:01,b5bea07ecb0112a9838bc6af89c5e2bfa8bd4fea,1.0,1.0,1.0,0.0
+252,Commit,fedora-selinux_setroubleshoot,2016-03-24 20:55:47,94bd60fbc1273ea997dd7434a6da0e90e24d393c,118.0,94.0,29.0,0.0
+253,Commit,fedora-selinux_setroubleshoot,2016-03-24 20:41:17,f3ebd0890fbdb128e8fd83ea0ae63c1b4543a873,125.0,130.0,37.0,0.0
+254,Commit,fedora-selinux_setroubleshoot,2016-02-16 16:39:57,f198e902d313218685d69e2b20f9ad49dfaae1a6,2.0,2.0,2.0,0.0
+255,Commit,fedora-selinux_setroubleshoot,2016-02-10 09:49:56,0c8bdb4a64858edef251506e5970b4dd00fde16f,4.0,1.0,2.0,0.0
+256,Commit,fedora-selinux_setroubleshoot,2016-02-09 11:38:15,4a8853300237b34502ed7a86a483dd15f28058c5,2.0,2.0,1.0,0.0
+257,Commit,fedora-selinux_setroubleshoot,2016-01-21 12:56:57,5ad7fb92b6ccadac83c0d2df40392c0f6bbe26d7,6.0,1.0,2.0,0.0
+258,Commit,fedora-selinux_setroubleshoot,2016-01-21 11:50:34,69a6254058ef25ccac12a4a47bf38dbbb1b6bcc3,14.0,12.0,1.0,0.0
+259,Commit,fedora-selinux_setroubleshoot,2016-01-21 11:50:28,267559f8fcf28f59895b6dc0a7ae54a2746d2362,24.0,21.0,1.0,0.0
+260,Commit,fedora-selinux_setroubleshoot,2016-01-19 10:58:15,e6178011fc80c519c5ac8bbec66aabc553a8eb32,0.0,222.0,1.0,0.0
+261,Commit,fedora-selinux_setroubleshoot,2016-01-19 10:58:12,914f5d421fc51396c1c516d5a2b9a0fe8ea2a040,90.0,0.0,2.0,0.0
+262,Commit,fedora-selinux_setroubleshoot,2016-01-19 10:58:12,85b178bf5795c45b2b82ea1156adf34429596410,22.0,9.0,2.0,0.0
+263,Commit,fedora-selinux_setroubleshoot,2016-01-19 10:58:12,d9d42e53c6b7ca7b90862edca5823de6d00a085d,84.0,1.0,2.0,0.0
+264,Commit,fedora-selinux_setroubleshoot,2016-01-19 10:58:12,7f479c4d0c7471b1ec8b3e9d284399f2a62c0090,20.0,0.0,1.0,0.0
+265,Commit,fedora-selinux_setroubleshoot,2016-01-15 16:58:13,79aca9dbbbd19c01832c535bb09e4b1328e788ed,0.0,1.0,1.0,0.0
+266,Commit,fedora-selinux_setroubleshoot,2016-01-15 16:58:13,3087c724ac0671d3a9b77a20ee0cb7e9c1bf483d,17.0,18.0,1.0,0.0
+267,Commit,fedora-selinux_setroubleshoot,2016-01-15 16:57:27,d0fc5f3064d1abdac66a365d24c268764abeb3f3,8199.0,63483.0,84.0,0.0
+268,Commit,fedora-selinux_setroubleshoot,2016-01-15 16:51:20,acaac8ab7539582b51d76c92a575e42da471a307,0.0,98.0,1.0,0.0
+269,Commit,fedora-selinux_setroubleshoot,2016-01-15 15:03:10,407ca6eb14e2642db2a17694dbb12986f67ca780,3.0,3.0,1.0,0.0
+270,Commit,fedora-selinux_setroubleshoot,2015-10-19 07:37:56,271055e5476cc7480d9750a067261db650b668b5,8.0,2.0,1.0,0.0
+271,Commit,fedora-selinux_setroubleshoot,2015-10-19 07:37:56,ce5705d5e80efc0d2862f5a77939acfbb3dcc67e,3.0,5.0,1.0,0.0
+272,Commit,fedora-selinux_setroubleshoot,2015-10-15 06:15:02,2dba6275ad96f2eed953187e02d4b1abaeb6f87c,80.0,69.0,2.0,0.0
+273,Commit,fedora-selinux_setroubleshoot,2015-10-13 16:31:46,5380ee3f236ac29a817403656293bec143d935eb,4.0,1.0,2.0,0.0
+274,Commit,fedora-selinux_setroubleshoot,2015-10-13 16:31:46,53ebcb77caa9102e41f0fddf4b9a693b9d40574a,319.0,308.0,84.0,0.0
+275,Commit,fedora-selinux_setroubleshoot,2015-10-13 16:06:14,00f71f563a280bfae2120cd5f1bbe6d6798b25be,3.0,1.0,1.0,0.0
+276,Commit,fedora-selinux_setroubleshoot,2015-10-13 16:05:56,6837a483e48f0b9959ca657237ec5def7c8acb29,0.0,760.0,2.0,0.0
+277,Commit,fedora-selinux_setroubleshoot,2015-10-13 16:05:43,8c72e1b4349c782c4406abf0bafe18366c568304,5.0,10.0,1.0,0.0
+278,Commit,fedora-selinux_setroubleshoot,2015-10-13 16:05:32,044d6fbb5489ee0b0980c75279ac5d20bb1be685,38.0,39.0,3.0,0.0
+279,Commit,fedora-selinux_setroubleshoot,2015-10-06 07:04:42,8f7ce5705bc08104a90771ed4ca12469468bc5e1,1.0,1.0,1.0,0.0
+280,Commit,fedora-selinux_setroubleshoot,2015-10-05 14:37:36,21a00f8cd35218c167e16ee5cf92ee56a877e568,3.0,1.0,1.0,0.0
+281,Commit,fedora-selinux_setroubleshoot,2015-09-02 14:47:11,46c3cb58a8afc298a47e2e904c1db891e97bfb10,1.0,1.0,1.0,0.0
+282,Commit,fedora-selinux_setroubleshoot,2015-08-21 07:16:08,2c79e9c0543b94def94388e14ee0d71db240e7ca,10.0,10.0,3.0,0.0
+283,Commit,fedora-selinux_setroubleshoot,2015-08-21 07:13:56,54e9279f78841e78c2017a32f7dba7b8e25aa735,503.0,570.0,4.0,0.0
+284,Commit,fedora-selinux_setroubleshoot,2015-08-19 15:10:50,c16a8832d99021f9f78c1177f20834de2683f2c9,2.0,2.0,1.0,0.0
+285,Commit,fedora-selinux_setroubleshoot,2015-08-18 16:02:10,e52a05819c4dfe5bdc6998c75780c890ca9ed288,3.0,0.0,1.0,0.0
+286,Commit,fedora-selinux_setroubleshoot,2015-08-18 15:52:55,2147f5f10e664ee8e1323a31426f581fdb641aca,2.0,2.0,2.0,0.0
+287,Commit,fedora-selinux_setroubleshoot,2015-08-14 10:02:39,5c4d34155dcc2efe1ce47fde349b37841ca55e84,2.0,2.0,1.0,0.0
+288,Commit,fedora-selinux_setroubleshoot,2015-08-14 09:42:55,ea3b984ec006ad57332dd03a547f7edf456d8c85,1.0,1.0,1.0,0.0
+289,Commit,fedora-selinux_setroubleshoot,2015-08-13 09:11:10,4a7627e6b9eabf20134f4c0d881877b32c78314e,204.0,217.0,4.0,0.0
+290,Commit,fedora-selinux_setroubleshoot,2015-08-13 07:22:28,aa45b3915203896d1c3d993c663f1d5d8a0d50d8,10.0,3.0,2.0,0.0
+291,Commit,fedora-selinux_setroubleshoot,2015-08-12 14:02:28,ee3755f08e13b7cfce716b0b46bcf919aedf1e44,3.0,1.0,1.0,0.0
+292,Commit,fedora-selinux_setroubleshoot,2015-08-12 13:58:51,352b5801e987385698b845edfdbf93d4db9517ef,8.0,3.0,1.0,0.0
+293,Commit,fedora-selinux_setroubleshoot,2015-08-12 13:11:09,1c6a6c07c0f11cbbec3a69c4f2261d3d35c33c16,4.0,3.0,2.0,0.0
+294,Commit,fedora-selinux_setroubleshoot,2015-08-11 13:16:43,262edbae130662e5c902f9c90a84c93d50515191,94.0,94.0,6.0,0.0
+295,Commit,fedora-selinux_setroubleshoot,2015-08-11 12:35:56,08d9f0a6dd4bfd57b6bd01d2d39545b2edaac622,6.0,1.0,1.0,0.0
+296,Commit,fedora-selinux_setroubleshoot,2015-08-10 12:20:29,dd52a5ef33f1b4905355f67eae171d6e80d320a0,4.0,4.0,4.0,0.0
+297,Commit,fedora-selinux_setroubleshoot,2015-08-10 12:04:53,159f5f30e2a69eaa904cf556a1b6d1b59d999524,2.0,1.0,1.0,0.0
+298,Commit,fedora-selinux_setroubleshoot,2015-08-05 10:18:26,bdbae087ca4d80f2f1f40d64cc40ba4576e19e0c,3.0,3.0,1.0,0.0
+299,Commit,fedora-selinux_setroubleshoot,2015-08-05 07:19:05,0b485b5da33a601015d91b687cd6c1ade7caa919,8.0,7.0,4.0,0.0
+300,Commit,fedora-selinux_setroubleshoot,2015-08-05 07:16:20,125efe78e6a59818ce42dc38f4bf26e2f79a95a9,4.0,4.0,1.0,0.0
+301,Commit,fedora-selinux_setroubleshoot,2015-08-05 07:16:20,87bfc66cf048cfbba24c7149209d20e0d4c6300e,0.0,1.0,1.0,0.0
+302,Commit,fedora-selinux_setroubleshoot,2015-08-05 07:16:20,8b1ae2981a360485de5b3b0d0e45e3be19d02695,1.0,1.0,1.0,0.0
+303,Commit,fedora-selinux_setroubleshoot,2015-08-05 07:16:20,5114fb9ade5ed328035949f06bcc7a421a5fd80b,3.0,3.0,1.0,0.0
+304,Commit,fedora-selinux_setroubleshoot,2015-08-05 07:16:20,b7130a482475fae894e343bca21ab6f05e7e6865,5.0,4.0,2.0,0.0
+305,Commit,fedora-selinux_setroubleshoot,2015-07-29 16:58:36,7ecae692219b752cf67e0ff1b98083c678bbce77,0.0,0.0,0.0,0.0
+306,Commit,fedora-selinux_setroubleshoot,2015-07-29 14:13:28,81c88ba66803eb6834fb8f310318c2e62a40161a,8.0,2.0,1.0,0.0
+307,Commit,fedora-selinux_setroubleshoot,2015-07-29 13:19:52,edd0072b09c07bea90c4a1defc8405221c9a266c,5.0,4.0,3.0,0.0
+308,Commit,fedora-selinux_setroubleshoot,2015-07-29 12:17:47,37059f91ffd4b43affa16d72f2e338f97de27069,7.0,6.0,4.0,0.0
+309,Commit,fedora-selinux_setroubleshoot,2015-07-29 12:16:51,c490a77f3da5446439d40537700866f7c9dc80cf,3.0,2.0,1.0,0.0
+310,Commit,fedora-selinux_setroubleshoot,2015-07-29 11:38:10,2b5fdd9504e93dc1d8d496dd49eef336d083e0f2,2.0,1.0,1.0,0.0
+311,Commit,fedora-selinux_setroubleshoot,2015-07-29 10:46:44,27cb72d08fa3e04efe8044efa50e92ab66297ea1,1.0,1.0,1.0,0.0
+312,Commit,fedora-selinux_setroubleshoot,2015-07-29 10:46:11,a9dfab519535db817e28330c6918bb7dda04d8ae,1.0,0.0,1.0,0.0
+313,Commit,fedora-selinux_setroubleshoot,2015-07-29 10:26:46,141b92cc9cddcd8cd5ab366990666162b2e86149,23.0,5.0,5.0,0.0
+314,Commit,fedora-selinux_setroubleshoot,2015-07-28 14:26:30,58ba169dc1dbad16b16d8f8a81bbdf1f129f1eed,44.0,41.0,4.0,0.0
+315,Commit,fedora-selinux_setroubleshoot,2015-07-28 11:22:18,dbaaf0f1d2d1ad5d7cd8b796f0dd370c8a157e2b,24.0,20.0,6.0,0.0
+316,Commit,fedora-selinux_setroubleshoot,2015-07-28 10:17:00,d5714955b663e671ebe153bf2c76201322956ef1,14.0,14.0,6.0,0.0
+317,Commit,fedora-selinux_setroubleshoot,2015-07-28 09:21:29,b9ec21743926d1e76af091b5ffb4d19e51b554c0,1.0,1.0,1.0,0.0
+318,Commit,fedora-selinux_setroubleshoot,2015-07-28 08:48:02,d8bbd0eab632248a5e4434cce46cd38844886d36,0.0,0.0,0.0,0.0
+319,Commit,fedora-selinux_setroubleshoot,2015-07-28 08:44:45,1031399e4b31a1131138718a2fb1a71a94bf5c23,8.0,8.0,3.0,0.0
+320,Commit,fedora-selinux_setroubleshoot,2015-07-28 08:32:44,574e85edaa2e2bf75e7bc44452ad0d297f75014a,1.0,1.0,1.0,0.0
+321,Commit,fedora-selinux_setroubleshoot,2015-07-28 08:13:25,d3b65f10a60bdc1b4e79ba9a73859472360c7662,62.0,60.0,1.0,0.0
+322,Commit,fedora-selinux_setroubleshoot,2015-07-28 08:13:22,b56ae38a38058dc30e5b2ad91e2c6e1cc2f622d2,5.0,5.0,2.0,0.0
+323,Commit,fedora-selinux_setroubleshoot,2015-07-28 08:13:19,95da7b7afbdb23eeeda444e267ef228777918380,1.0,1.0,1.0,0.0
+324,Commit,fedora-selinux_setroubleshoot,2015-07-28 08:13:15,d6f3eabd495e4bb714f0faf9a672cf8a7e240334,2.0,1.0,1.0,0.0
+325,Commit,fedora-selinux_setroubleshoot,2015-07-28 07:53:43,7482a34d2e42a17eaea596221ace972de2706fce,45.0,29.0,9.0,0.0
+326,Commit,fedora-selinux_setroubleshoot,2015-07-27 14:36:30,63e94e27b6a977070a7d85d671f563ab78d1ba09,8.0,2.0,1.0,0.0
+327,Commit,fedora-selinux_setroubleshoot,2015-07-27 14:13:13,30f460c089c5eb659ad2682a96a113b5ad227222,5.0,2.0,1.0,0.0
+328,Commit,fedora-selinux_setroubleshoot,2015-07-27 14:13:09,ca585876ced3263a009431ece036971a0839c016,8.0,1.0,1.0,0.0
+329,Commit,fedora-selinux_setroubleshoot,2015-07-27 14:13:06,8cfcafeabaa02e7a64b721332c1f675257126807,5.0,4.0,1.0,0.0
+330,Commit,fedora-selinux_setroubleshoot,2015-07-27 14:13:03,e44a3a1cbc25ee234b10749c1bb197c5f83aad28,42.0,14.0,1.0,0.0
+331,Commit,fedora-selinux_setroubleshoot,2015-07-27 14:12:14,17cca4bbb37c3cf2942a4efc875c4b0ccda42310,502.0,452.0,21.0,0.0
+332,Commit,fedora-selinux_setroubleshoot,2015-04-23 13:02:05,7916750725775a1871619d8c69b1c8f878b9a182,4.0,0.0,1.0,0.0
+333,Commit,fedora-selinux_setroubleshoot,2015-04-20 07:58:24,23899d44b4d2a7d616aaa7f769b63163da1f4001,0.0,0.0,0.0,0.0
+334,Commit,fedora-selinux_setroubleshoot,2015-04-20 07:30:13,52eb6a792ddbf6f09489240f268ef3bfba616013,0.0,0.0,0.0,0.0
+335,Commit,fedora-selinux_setroubleshoot,2015-04-19 09:52:26,3b8d73dc362706646eb55adeca4ace3702173bd5,0.0,2709.0,1.0,0.0
+336,Commit,fedora-selinux_setroubleshoot,2015-04-17 12:23:11,b34b306cadcbe95051e728b93856ef5f4c4d7fbd,4.0,2.0,1.0,0.0
+337,Commit,fedora-selinux_setroubleshoot,2015-04-17 12:00:33,309b578c8b071944383413786879691e23349ecf,1.0,1.0,1.0,0.0
+338,Commit,fedora-selinux_setroubleshoot,2015-04-17 11:52:29,f05356b88cea9afa721b492d4198951f47496629,64482.0,18690.0,84.0,0.0
+339,Commit,fedora-selinux_setroubleshoot,2015-04-17 11:52:29,ba28e2ec2b25f91a7875d467bf478799968aae8a,106.0,0.0,1.0,0.0
+340,Commit,fedora-selinux_setroubleshoot,2015-04-17 11:52:29,a422f9910d28c6f656048e2a8e33e3c894cd7a4c,1.0,1.0,1.0,0.0
+341,Commit,fedora-selinux_setroubleshoot,2015-04-09 12:25:08,dc79f6a4e0eb87ad62c63ca8faebc96e9f589ea6,0.0,0.0,0.0,0.0
+342,Commit,fedora-selinux_setroubleshoot,2015-04-09 12:14:44,e2bb6367ab8c2ca4b22b021817237510dac12e8c,7.0,2.0,2.0,0.0
+343,Commit,fedora-selinux_setroubleshoot,2015-04-09 12:14:44,5cd60033ea7f5bdf8c19c27b23ea2d773d9b09f5,8.0,2.0,1.0,1.0
+344,Commit,fedora-selinux_setroubleshoot,2015-04-09 12:14:44,2d12677629ca319310f6263688bb1b7f676c01b7,10.0,7.0,2.0,1.0
+345,Commit,fedora-selinux_setroubleshoot,2015-04-09 12:14:44,e83aa2e4165f91c1df174081db1a9c904dd0323b,2.0,0.0,1.0,0.0
+346,Commit,fedora-selinux_setroubleshoot,2015-04-09 12:14:44,d436fe7bf51a3d2858b319811d6d89b0b350b0a9,1.0,0.0,1.0,0.0
+347,Commit,fedora-selinux_setroubleshoot,2015-04-09 12:14:44,d23479953b042535d9e6c85ed0a2441092d6a9f9,2.0,1.0,1.0,0.0
+348,Commit,fedora-selinux_setroubleshoot,2015-04-08 12:39:24,d78c74893bbe28c011670f90b9b185ce7f066dd1,5.0,3.0,1.0,0.0
+349,Commit,fedora-selinux_setroubleshoot,2015-04-07 16:22:52,b9fdcc208a87855b23bd0accc9a329e115a8cfe8,1.0,1.0,1.0,0.0
+350,Commit,fedora-selinux_setroubleshoot,2015-04-07 15:43:01,ee18abf4c8839fa9766302415bb3b2fb4cc5d6a7,1.0,4.0,1.0,0.0
+351,Commit,fedora-selinux_setroubleshoot,2015-04-07 10:22:19,b0461301be70190fc11b8517b45f2c21eaf2c253,3.0,3.0,1.0,0.0
+352,Commit,fedora-selinux_setroubleshoot,2015-04-02 14:57:18,42416f58b99ddd85a9a59c8aaedd7a1114959d05,0.0,0.0,0.0,0.0
+353,Commit,fedora-selinux_setroubleshoot,2015-04-02 14:35:29,5786c294c0beaaef00f7bb6c5c51f8540797b002,30.0,0.0,2.0,0.0
+354,Commit,fedora-selinux_setroubleshoot,2015-04-02 13:31:11,9bfca04f55b27478691474954c70a1964d0a3add,0.0,0.0,0.0,0.0
+355,Commit,fedora-selinux_setroubleshoot,2015-04-02 10:06:11,963832252bc730153e4ea447732e7a2533c60af5,1.0,1.0,1.0,0.0
+356,Commit,fedora-selinux_setroubleshoot,2015-03-31 12:30:02,98591bf7421f17c2d7d1b4bda8eb4cab63d1bda4,7.0,5.0,4.0,0.0
+357,Commit,fedora-selinux_setroubleshoot,2015-03-23 16:07:37,9831f438a7cc8de3d4c1bd1fc436e78910ecf4e1,1.0,1.0,1.0,0.0
+358,Commit,fedora-selinux_setroubleshoot,2015-03-23 16:05:56,d78a46d19ad3001fb3e3a44bd6b4bb507f2017f4,9.0,9.0,1.0,0.0
+359,Commit,fedora-selinux_setroubleshoot,2015-03-23 13:04:42,b03b7fc6b1032023bef5444788eb1b14f809ccd2,28.0,0.0,2.0,0.0
+360,Commit,fedora-selinux_setroubleshoot,2015-02-17 09:43:56,052e3dfada4059f0b520f3885091e9920257701a,1.0,0.0,1.0,0.0
+361,Commit,fedora-selinux_setroubleshoot,2015-02-17 09:30:34,bc4641dd171e640736f6a0f29e72f577a6f17436,5.0,8.0,3.0,0.0
+362,Commit,fedora-selinux_setroubleshoot,2015-02-16 11:51:26,62c9eceeedd6809939aefc58c8102e4d256874de,1.0,1.0,1.0,0.0
+363,Commit,fedora-selinux_setroubleshoot,2015-02-16 11:46:13,6655951fabea5d5c3ac5ea3d42ea9d0bb28da7c5,1.0,1.0,1.0,0.0
+364,Commit,fedora-selinux_setroubleshoot,2015-02-10 20:59:35,b64194c28b1e28bcdd9bde376a9316d093a2fcf4,1.0,2.0,2.0,0.0
+365,Commit,fedora-selinux_setroubleshoot,2015-02-10 19:07:03,ae95d4028cad6ec90f2299097647a662b8027f58,4.0,3.0,2.0,0.0
+366,Commit,fedora-selinux_setroubleshoot,2015-02-10 19:05:49,06ebda771825dc6c8ddf7b6b6dd77d65541c81f7,1.0,6.0,2.0,0.0
+367,Commit,fedora-selinux_setroubleshoot,2015-02-10 18:58:53,37d80af2f97917191d73f82011af7cdf33e58d40,141.0,131.0,11.0,0.0
+368,Commit,fedora-selinux_setroubleshoot,2015-02-10 18:58:44,7720626237f588569d4fa3d5a0f3c715c00340c4,6.0,5.0,3.0,0.0
+369,Commit,fedora-selinux_setroubleshoot,2014-11-13 10:20:40,275fb87155db6a30afb315d00e05164dc892ea39,0.0,0.0,0.0,0.0
+370,Commit,fedora-selinux_setroubleshoot,2014-11-12 14:03:14,9cf53d39f5a74743c6d9ef8273e565c2a9e7ab71,5.0,1.0,2.0,0.0
+371,Commit,fedora-selinux_setroubleshoot,2014-01-09 13:32:39,47a4dc585b68df9298edf03a662523f799c70a24,1.0,1.0,1.0,0.0
+372,Commit,fedora-selinux_setroubleshoot,2014-01-02 21:00:12,4cba08721b1885502c5ac638eb11f6e73887b08c,5.0,4.0,4.0,0.0
+373,Commit,fedora-selinux_setroubleshoot,2014-01-02 20:53:45,6b8a6617fe4fd3a329accffc3f6e3e96ea8f3e8b,1.0,1.0,1.0,0.0
+374,Commit,fedora-selinux_setroubleshoot,2014-01-02 20:53:19,7c3ae25080d21ec3fe5078834a7ca5bde635f3f5,12.0,7.0,2.0,0.0
+375,Commit,fedora-selinux_setroubleshoot,2014-01-02 20:52:58,581b9c58eb5554647d41575e2744dbb9ea28448c,17.0,17.0,3.0,0.0
+376,Commit,fedora-selinux_setroubleshoot,2013-12-03 14:55:30,5f5e4fe7b5fe7b7b61e894df7478df2c7920f969,40998.0,82269.0,191.0,0.0
+377,Commit,fedora-selinux_setroubleshoot,2013-12-03 13:28:51,0b72cf437a0f6775ac51280799e3c689db1d281a,130.0,130.0,115.0,0.0
+378,Commit,fedora-selinux_setroubleshoot,2013-11-20 14:59:25,878ce9934101ae9cea2ccdc81f12762f1de12051,18861.0,2873.0,119.0,0.0
+379,Commit,fedora-selinux_setroubleshoot,2013-11-11 20:44:14,dc0ab4eaffe93bc931cbd1ff68377f4b7cbc18c8,89002.0,47320.0,109.0,0.0
+380,Commit,fedora-selinux_setroubleshoot,2013-09-16 18:53:55,033517c9a0e3cc8ba780a6015b234d4c7ade6485,11.0,14.0,6.0,0.0
+381,Commit,fedora-selinux_setroubleshoot,2013-09-16 18:52:05,8d1402576c5390d39f1ceb9c2fe8cad94080bcef,3.0,3.0,3.0,0.0
+382,Commit,fedora-selinux_setroubleshoot,2013-09-16 18:51:41,aa9c05f32902a6322e41c01a9b923a6fca78b856,2929.0,1298.0,109.0,0.0
+383,Commit,fedora-selinux_setroubleshoot,2013-08-22 11:25:38,f449ca3d3c1d354b148e189c6451a12e8068f308,43214.0,35298.0,277.0,0.0
+384,Commit,fedora-selinux_setroubleshoot,2013-08-14 12:33:51,a8fa679b41ecd0720e4636968b03506e465325fb,4.0,4.0,2.0,0.0
+385,Commit,fedora-selinux_setroubleshoot,2013-08-05 18:26:57,1a86f73580a127dd1bb29a36dd7e0d7517d0557c,2.0,12.0,5.0,0.0
+386,Commit,fedora-selinux_setroubleshoot,2013-08-05 15:46:41,0efac6cff6d66bfffaa72c7de7acf133a825077e,47.0,46.0,3.0,0.0
+387,Commit,fedora-selinux_setroubleshoot,2013-08-05 15:46:14,4c4b2f2326778335e22af7c7640a13f43b115aff,2.0,2.0,1.0,0.0
+388,Commit,fedora-selinux_setroubleshoot,2013-07-31 18:33:20,f163bfe2d1af03f7c346515f57cd7230a316ca3d,1.0,1.0,1.0,0.0
+389,Commit,fedora-selinux_setroubleshoot,2013-07-31 18:32:37,06f3fa1e817f891486264a709431ebe943e71d8c,5.0,1.0,1.0,0.0
+390,Commit,fedora-selinux_setroubleshoot,2013-07-31 18:32:08,45f8d6442804466d7700d0c87c607f894f21f0fa,274.0,614.0,8.0,0.0
+391,Commit,fedora-selinux_setroubleshoot,2013-07-22 13:27:44,58e7a662ed7cc4a19a2d4535d785a36e5e904529,92.0,86.0,6.0,0.0
+392,Commit,fedora-selinux_setroubleshoot,2013-07-21 10:45:29,6787ec63fd133bf63c9233b10ec6c7814629c04a,1.0,1.0,1.0,0.0
+393,Commit,fedora-selinux_setroubleshoot,2013-07-21 10:45:12,315797882557b619377ef3c4853ecc521515d526,0.0,1.0,1.0,0.0
+394,Commit,fedora-selinux_setroubleshoot,2013-06-27 21:28:40,906620552dfcda799237d148b6c4be72e3020777,59400.0,0.0,20.0,0.0
+395,Commit,fedora-selinux_setroubleshoot,2013-06-27 21:27:44,f435adf38a8084c97690086b1d80f0a06d5522bf,46427.0,94183.0,145.0,0.0
+396,Commit,fedora-selinux_setroubleshoot,2013-06-24 16:01:29,37caae2325718641ce9c64cf7f1c9395c26edc08,13564.0,8370.0,110.0,0.0
+397,Commit,fedora-selinux_setroubleshoot,2013-06-24 15:59:41,6af80c77b48b753c9b4ad46813b71f1ee361e562,103482.0,49409.0,115.0,0.0
+398,Commit,fedora-selinux_setroubleshoot,2013-06-24 14:34:45,2829b1a8c8581c3265ef8c9c1e923eebca995b84,5.0,0.0,1.0,0.0
+399,Commit,fedora-selinux_setroubleshoot,2013-06-20 18:47:10,012c1c1caf07adebed8fcce0d2e6d8d580ed73d6,2.0,2.0,2.0,0.0
+400,Commit,fedora-selinux_setroubleshoot,2013-05-21 13:47:48,f6277ea34dbcad5dc5f563a56b4a3335ec3c5120,10.0,7.0,1.0,0.0
+401,Commit,fedora-selinux_setroubleshoot,2013-05-07 19:54:41,4babc8bd8a0ee2c933d6478023283283572ac8e3,2.0,2.0,1.0,0.0
+402,Commit,fedora-selinux_setroubleshoot,2013-05-07 19:36:25,2c58f40f16c513abee8df2ce78f48fa9d709dd5c,3.0,1.0,1.0,0.0
+403,Commit,fedora-selinux_setroubleshoot,2013-05-07 19:00:06,8aab176604d8af547583d8ad888c8148cf230518,640.0,756.0,14.0,0.0
+404,Commit,fedora-selinux_setroubleshoot,2013-05-07 18:18:58,ea3c0a359c377885ca0c8de16dc219786be6dd0c,9.0,14.0,2.0,0.0
+405,Commit,fedora-selinux_setroubleshoot,2013-04-19 17:50:04,076e675d47028d378cb9c08bcc61700f2d82810d,12.0,6.0,4.0,0.0
+406,Commit,fedora-selinux_setroubleshoot,2013-04-19 15:51:46,443058799597e9ddcb951b4bd1cdbe579b800534,643.0,633.0,13.0,0.0
+407,Commit,fedora-selinux_setroubleshoot,2013-04-19 12:30:10,cffb71228676e883452db74c6cc97bc36c2a6d7e,141.0,313.0,6.0,0.0
+408,Commit,fedora-selinux_setroubleshoot,2013-04-08 18:59:11,88a2fd6e482ee0286b8d31aa543b29cb197dc8e3,1.0,1.0,1.0,0.0
+409,Commit,fedora-selinux_setroubleshoot,2013-04-08 18:57:08,b23887cec106cd0b0aa2f3e36fd83e5cb03d42d9,15.0,2.0,1.0,0.0
+410,Commit,fedora-selinux_setroubleshoot,2013-04-08 18:54:48,8925af194a2bba890a23ba45897c7b1922ec5478,4.0,4.0,2.0,0.0
+411,Commit,fedora-selinux_setroubleshoot,2013-04-08 17:58:48,8f329bdf2c60f50f207f71d1a869cf581a82f6c9,75359.0,94848.0,113.0,0.0
+412,Commit,fedora-selinux_setroubleshoot,2013-04-08 17:58:06,0695721c4cf813b634e230b9d9c5b1ae7b16ab59,353.0,905.0,13.0,0.0
+413,Commit,fedora-selinux_setroubleshoot,2013-03-27 16:05:42,f32251b4f311c7fb9edb853dbeb20f7b5f97b66a,3695.0,3173.0,113.0,0.0
+414,Commit,fedora-selinux_setroubleshoot,2013-03-27 16:03:02,7dbb7c685b221fd286d97fe46074defb85e426a7,2.0,2.0,1.0,0.0
+415,Commit,fedora-selinux_setroubleshoot,2013-03-06 16:33:08,6c6a337544b067a113ee01a8cda571da31916774,1.0,1.0,1.0,0.0
+416,Commit,fedora-selinux_setroubleshoot,2013-03-06 16:32:54,0bc91f63f3efbaf82b34f9b80b007cca1daa4a2c,2.0,0.0,2.0,0.0
+417,Commit,fedora-selinux_setroubleshoot,2013-03-06 16:32:41,69dd1393e1527fce8d040e71b34104bca26ba86d,5.0,2.0,1.0,0.0
+418,Commit,fedora-selinux_setroubleshoot,2013-03-06 16:32:23,433a905e21fa831a90c2c26a2e2ba9a1e14cee41,65.0,0.0,1.0,0.0
+419,Commit,fedora-selinux_setroubleshoot,2013-03-05 18:57:37,a44d180899c9257028b24dfe12bde261a7e29005,7.0,6.0,2.0,0.0
+420,Commit,fedora-selinux_setroubleshoot,2013-03-05 16:47:13,a9242527d7ef224e5e8dbc157e5599b9ff3fce84,1.0,1.0,1.0,0.0
+421,Commit,fedora-selinux_setroubleshoot,2013-03-05 16:47:04,b9a63414503bf18a24b59db98a0e288bed41de57,0.0,1.0,1.0,0.0
+422,Commit,fedora-selinux_setroubleshoot,2013-03-05 16:46:45,ec69aeea641e58b934fdb31eb44ee6369715d8e4,37.0,80.0,1.0,0.0
+423,Commit,fedora-selinux_setroubleshoot,2013-03-05 16:45:54,0b8d61abb7bee6a73faec6570489dcc21d633776,14.0,1.0,1.0,0.0
+424,Commit,fedora-selinux_setroubleshoot,2013-03-05 16:45:32,ba2454fdc00541019f218f237d64a1355b339c88,581.0,1478.0,1.0,0.0
+425,Commit,fedora-selinux_setroubleshoot,2013-02-15 16:55:26,338dcf03295d5ef1a0fd420c7534bc092c813e7d,6.0,5.0,2.0,0.0
+426,Commit,fedora-selinux_setroubleshoot,2013-02-15 16:54:04,9bcd43cb29521ff034d5de3eb5042809b3eda352,14.0,9.0,3.0,0.0
+427,Commit,fedora-selinux_setroubleshoot,2013-01-31 19:12:23,1974a9c8f4201c36997511df0a7c44052a3f095b,1.0,2.0,2.0,0.0
+428,Commit,fedora-selinux_setroubleshoot,2013-01-31 19:07:39,21074fa55e7ab15eeb1697b23da9007eeea3a9c8,25.0,550.0,10.0,0.0
+429,Commit,fedora-selinux_setroubleshoot,2013-01-22 20:04:12,e445270c746444dfaf6a8dcbb1d91b8297a0e88e,41.0,87.0,3.0,0.0
+430,Commit,fedora-selinux_setroubleshoot,2013-01-09 16:03:31,2f81327982e40b0ab64fcfdf15a7bde361ce8f15,70.0,69.0,3.0,0.0
+431,Commit,fedora-selinux_setroubleshoot,2013-01-07 21:27:44,1c52cfb32ec9d11229fd2a0d0ca49735aeac98af,2.0,2.0,2.0,0.0
+432,Commit,fedora-selinux_setroubleshoot,2013-01-07 20:51:34,544926696be8047c26604759b619d0d756a0ab3e,1.0,1.0,1.0,0.0
+433,Commit,fedora-selinux_setroubleshoot,2013-01-07 20:50:34,ebecd2d8626840e1d76574efcb87aa5210658271,43.0,6.0,1.0,0.0
+434,Commit,fedora-selinux_setroubleshoot,2013-01-07 20:49:23,2b74e0e3879de4e41c8926678cac0f6e26a58bdb,1495.0,4210.0,2.0,0.0
+435,Commit,fedora-selinux_setroubleshoot,2012-12-05 21:55:22,d87d30e9f595f07b34ca7538cb3b43d487ea3412,2848.0,7291.0,7.0,0.0
+436,Commit,fedora-selinux_setroubleshoot,2012-11-13 12:20:02,913e252a30040b5750138cf38edebecb38a2f9ea,100687.0,51524.0,121.0,0.0
+437,Commit,fedora-selinux_setroubleshoot,2012-10-30 21:02:45,bb9a77ea2c87cf1527226f1cd16de845122815da,4710.0,1682.0,20.0,0.0
+438,Commit,fedora-selinux_setroubleshoot,2012-09-28 10:24:06,f8fae3bb8ea65991c8bdfd8c4c40cb433b8cbb1e,6.0,2.0,1.0,0.0
+439,Commit,fedora-selinux_setroubleshoot,2012-09-28 10:05:34,b7a4de53f33959bae1e28b18ebdd0de853401e93,19445.0,64920.0,62.0,0.0
+440,Commit,fedora-selinux_setroubleshoot,2012-09-28 10:03:22,fccf17701498c5fa63d68ac25a603e14e2579f56,127.0,1.0,4.0,0.0
+441,Commit,fedora-selinux_setroubleshoot,2012-09-28 10:02:37,68debeb4a5ce1f8b9269a1a6bee594d619db9a49,103.0,79.0,1.0,0.0
+442,Commit,fedora-selinux_setroubleshoot,2012-09-28 10:01:50,51303643fafbb4571c3f510302134fbb04b006eb,8530.0,6963.0,111.0,0.0
+443,Commit,fedora-selinux_setroubleshoot,2012-09-28 10:01:24,da09a0542d572802f322f6e540524bb30bf4e0fd,68779.0,42935.0,110.0,0.0
+444,Commit,fedora-selinux_setroubleshoot,2012-08-19 10:48:51,75c94edd73f9bbf29a229d8d61486b135cc98161,20.0,19.0,2.0,0.0
+445,Commit,fedora-selinux_setroubleshoot,2012-08-13 17:47:48,681d017b7a39661befc1efe0ef1ddc2806004283,1413.0,4655.0,6.0,0.0
+446,Commit,fedora-selinux_setroubleshoot,2012-08-13 17:45:18,33f30821279604d5d8431cb5076698ad074fd167,24.0,10.0,2.0,0.0
+447,Commit,fedora-selinux_setroubleshoot,2012-08-13 17:44:21,55993d7dcc60fac8b288a27589fd7ff68557ed94,6.0,6.0,2.0,0.0
+448,Commit,fedora-selinux_setroubleshoot,2012-08-13 17:43:31,bbede7680b6e5f1e4f404369eaf904f02b9c6ea4,1237.0,3569.0,59.0,0.0
+449,Commit,fedora-selinux_setroubleshoot,2012-08-13 17:43:11,321bdd982eab69f82ba7f14eeb0b384cc282fc79,7.0,3.0,1.0,0.0
+450,Commit,fedora-selinux_setroubleshoot,2012-07-25 15:37:09,fafba04274d60e177d02ff2c326be1824e25ddcf,67792.0,23475.0,162.0,0.0
+451,Commit,fedora-selinux_setroubleshoot,2012-07-25 15:04:38,bdb4761945c34bd9ce4cc7ec35935069fb963354,22.0,8.0,3.0,0.0
+452,Commit,fedora-selinux_setroubleshoot,2012-07-25 15:04:19,dbacb13a208b64a154d0c7e13c5b95165fc90399,15535.0,14753.0,110.0,0.0
+453,Commit,fedora-selinux_setroubleshoot,2012-06-14 19:39:56,97d66ab14ac0293a846471cddcb19664dc599f6f,1.0,1.0,1.0,0.0
+454,Commit,fedora-selinux_setroubleshoot,2012-06-14 19:39:40,be93d04805f61b00ae456f540402081dc68857a7,2.0,4.0,1.0,0.0
+455,Commit,fedora-selinux_setroubleshoot,2012-06-08 11:01:39,90818d522f34c860df0fff529a1e3dd65283cc26,180.0,353.0,2.0,0.0
+456,Commit,fedora-selinux_setroubleshoot,2012-06-08 11:01:14,da0904a6b15ee2efd7108606bdc3efdd7fd372b5,5.0,2.0,2.0,0.0
+457,Commit,fedora-selinux_setroubleshoot,2012-05-31 20:28:09,b523586a56a6d7ada5db70a5c1658d37fb84aeaf,1.0,1.0,1.0,0.0
+458,Commit,fedora-selinux_setroubleshoot,2012-05-31 20:03:36,5c226ae8208f943efb9afc8c021ee2617306466d,1.0,1.0,1.0,0.0
+459,Commit,fedora-selinux_setroubleshoot,2012-05-31 20:03:18,f1a36a79a6e32f63b50d0959e7d546ff9fdd4ac2,907.0,1080.0,7.0,0.0
+460,Commit,fedora-selinux_setroubleshoot,2012-05-31 20:03:08,513c0fe708ae9bd65f9a6624931e5c43d4ab6d9a,68.0,113.0,2.0,0.0
+461,Commit,fedora-selinux_setroubleshoot,2012-05-11 15:03:33,3a56a6920b6a82bfd33798b6edf4832d27cda5d3,1.0,1.0,1.0,0.0
+462,Commit,fedora-selinux_setroubleshoot,2012-05-11 15:02:35,7efb88323cf5103169029c4be65fd49946bba471,7.0,4.0,1.0,0.0
+463,Commit,fedora-selinux_setroubleshoot,2012-05-09 18:28:33,41bb6033736098d29647c3f328a86b52d77773a6,905.0,895.0,16.0,0.0
+464,Commit,fedora-selinux_setroubleshoot,2012-05-09 18:02:40,b6a71661aa16742ab3a88954d012639796c774cb,62.0,151.0,4.0,0.0
+465,Commit,fedora-selinux_setroubleshoot,2012-04-26 17:50:58,28034dddfae7b15203ddcbcc6def363b0a6d9d2e,1.0,1.0,1.0,0.0
+466,Commit,fedora-selinux_setroubleshoot,2012-04-26 17:47:17,62f68042cf66287259fd8556efdcdc02289ffd42,11.0,3.0,1.0,0.0
+467,Commit,fedora-selinux_setroubleshoot,2012-04-26 17:29:42,ac61d2c195f3e3613469e76fbf5799fbf4b4108c,370.0,721.0,6.0,0.0
+468,Commit,fedora-selinux_setroubleshoot,2012-04-23 14:11:25,dca8917f9c506ba29bbd5e15628f4d1e72ab50f4,1234.0,1567.0,9.0,0.0
+469,Commit,fedora-selinux_setroubleshoot,2012-03-28 16:52:27,dc008690e26c952984c73fe15308243870b18c27,5.0,7.0,5.0,0.0
+470,Commit,fedora-selinux_setroubleshoot,2012-03-28 16:02:25,afd0cb3bf0059497b3eae00d82c7ad094dc1e269,141.0,140.0,8.0,0.0
+471,Commit,fedora-selinux_setroubleshoot,2012-03-17 10:26:09,e108e864fae77609b452ef842d97c99baf611daa,68.0,2.0,7.0,0.0
+472,Commit,fedora-selinux_setroubleshoot,2012-03-17 10:13:52,f8af53755e7a96476c020d690e879f3831de3ad8,601.0,1115.0,14.0,0.0
+473,Commit,fedora-selinux_setroubleshoot,2012-03-13 15:34:50,e3896ddd520b749266a063d9e148d881e3b07f3f,14460.0,50159.0,152.0,0.0
+474,Commit,fedora-selinux_setroubleshoot,2012-03-13 15:31:49,359e5958002000fc3cc4f1c05a7c8605980b158e,166448.0,24.0,89.0,0.0
+475,Commit,fedora-selinux_setroubleshoot,2012-03-13 13:24:47,c24b556a815ed2e8105bcf9f34fa43e9c183f285,52163.0,23633.0,75.0,0.0
+476,Commit,fedora-selinux_setroubleshoot,2012-03-13 13:19:28,0becd9934e370bcbd36b5a56c3d721f7aec92958,11419.0,11078.0,93.0,0.0
+477,Commit,fedora-selinux_setroubleshoot,2012-03-13 12:46:32,d6ad7f0df05fc9a3b9812d88b2d9893830800f13,402.0,1620.0,9.0,0.0
+478,Commit,fedora-selinux_setroubleshoot,2012-03-08 21:07:51,dcd7a56cf37ae8b7a7fd6c2ec9898a55bb4eff8a,2.0,433.0,2.0,0.0
+479,Commit,fedora-selinux_setroubleshoot,2012-03-08 14:52:46,22a3ae6582f7defaef80b3766dd333d5944a0554,1.0,1.0,1.0,0.0
+480,Commit,fedora-selinux_setroubleshoot,2012-03-08 14:52:23,dcb66fefe7b326acd21c0742f7d4e06be6a6950c,939.0,981.0,7.0,0.0
+481,Commit,fedora-selinux_setroubleshoot,2012-03-01 22:08:13,102c5c3c416d983de33fa2373dd0bbe458827668,292.0,316.0,10.0,0.0
+482,Commit,fedora-selinux_setroubleshoot,2012-02-22 13:12:51,29fc1ef3d9aebcd43614ab5496e871197ec76aae,5090.0,13495.0,30.0,0.0
+483,Commit,fedora-selinux_setroubleshoot,2012-02-14 18:24:40,a21d5375e2a6d4478d050ea76d9cbd648c718a27,3.0,2.0,1.0,0.0
+484,Commit,fedora-selinux_setroubleshoot,2012-02-14 18:24:06,5bb625698282de210ccc3b5c7e99a77e2e629509,1.0,1.0,1.0,0.0
+485,Commit,fedora-selinux_setroubleshoot,2012-02-14 18:23:50,ba1688673db903ed3b6cfac75d24840e8876e88e,0.0,3169.0,6.0,0.0
+486,Commit,fedora-selinux_setroubleshoot,2012-02-14 18:23:25,8a29f4b29166414a2953127e1af0d8dcab4d99cf,4.0,4.0,1.0,0.0
+487,Commit,fedora-selinux_setroubleshoot,2012-02-14 18:22:49,dba4030a8468ccd1659922b8388aaa4d2b49ee0d,2.0,2.0,1.0,0.0
+488,Commit,fedora-selinux_setroubleshoot,2012-02-14 18:22:26,2ce5ee99755b02ad508894fe2245b7572034e488,131.0,160.0,5.0,0.0
+489,Commit,fedora-selinux_setroubleshoot,2012-02-14 18:05:24,cdc255fd7290da4f58965b3a57efe4cb7b6d82fc,3.0,2.0,1.0,0.0
+490,Commit,fedora-selinux_setroubleshoot,2012-02-09 22:24:45,5ddfb80bc4f10e5e3b2f9d4562dde46b0ef6a44f,30.0,29.0,11.0,0.0
+491,Commit,fedora-selinux_setroubleshoot,2012-02-08 19:20:35,7d8e1f54db5ae383492603b8ab94ae001f4c523c,12116.0,18587.0,36.0,0.0
+492,Commit,fedora-selinux_setroubleshoot,2012-02-08 19:13:52,5bf7813658f18d08746c4712aff0da2ce3927414,18637.0,12974.0,76.0,0.0
+493,Commit,fedora-selinux_setroubleshoot,2012-02-08 19:04:18,480fc20ac202d91b5d1beb477867b90caac7607f,1.0,1.0,1.0,0.0
+494,Commit,fedora-selinux_setroubleshoot,2012-02-07 14:32:01,82b0350584f55c555fa016337af77aa225578875,3806.0,1252.0,37.0,0.0
+495,Commit,fedora-selinux_setroubleshoot,2012-02-01 20:39:30,4a404515572f99968e778f437230392e8d9044b7,79.0,79.0,75.0,0.0
+496,Commit,fedora-selinux_setroubleshoot,2012-02-01 20:35:52,0b28f0b1d8cf60e06517d65abc1d8b9cfa4b2c08,14815.0,13522.0,38.0,0.0
+497,Commit,fedora-selinux_setroubleshoot,2012-01-27 16:47:56,7214d86c6ca332c64fbcfd4e878eea1307e5c70c,30068.0,17268.0,77.0,0.0
+498,Commit,fedora-selinux_setroubleshoot,2012-01-23 18:29:05,1321ffa36cffe8bc22d02b0ea7bc5cfce4876278,14.0,6.0,2.0,0.0
+499,Commit,fedora-selinux_setroubleshoot,2012-01-23 18:20:59,d466eb3bc5e6f6ffc96552c25c5127232bd9542a,608.0,836.0,11.0,0.0
+500,Commit,fedora-selinux_setroubleshoot,2012-01-20 20:39:30,18c97d6ef668a5c9ea642ae32d3b7215ff4fa9cf,239.0,865.0,25.0,0.0
+501,Commit,fedora-selinux_setroubleshoot,2012-01-17 18:44:27,0029df6d78236689b4a5604a1ddb0dca85905a2b,645.0,1114.0,10.0,0.0
+502,Commit,fedora-selinux_setroubleshoot,2012-01-11 13:40:06,ca355d2f4a00b83a8388a9849139edc7a954a6b4,33400.0,18464.0,145.0,0.0
+503,Commit,fedora-selinux_setroubleshoot,2012-01-06 14:25:26,d8013423cec72ff2066a859a6baf1c757c5ce28c,13202.0,134.0,20.0,0.0
+504,Commit,fedora-selinux_setroubleshoot,2011-12-20 13:55:51,9becb9b936afa60b0f014da51f5d4425fcc579c3,4.0,8.0,2.0,0.0
+505,Commit,fedora-selinux_setroubleshoot,2011-12-19 21:43:18,956cef01c7366df2af0102b31fba830cc0b7d9a7,238.0,193.0,8.0,0.0
+506,Commit,fedora-selinux_setroubleshoot,2011-12-13 21:23:01,3312b35881f2b5c91737ca2a9f4e04a01ba0e084,1097.0,12.0,4.0,0.0
+507,Commit,fedora-selinux_setroubleshoot,2011-12-08 19:37:57,ca34e766dad4f482fe4cd5314bab53acb7dd7316,72.0,872.0,29.0,0.0
+508,Commit,fedora-selinux_setroubleshoot,2011-12-08 18:29:19,d3a21130fb49c64715569098b74de79ce361f95f,19305.0,149479.0,151.0,0.0
+509,Commit,fedora-selinux_setroubleshoot,2011-12-08 18:29:04,930474419cfc9a377ee3e09e22ee68c4cbe77f79,18.0,11.0,1.0,0.0
+510,Commit,fedora-selinux_setroubleshoot,2011-12-05 22:14:58,17949252b90668cb2773fd2e67e2b57e3398a864,1.0,1.0,1.0,0.0
+511,Commit,fedora-selinux_setroubleshoot,2011-12-05 22:14:04,b3123737a18afdabbf02e8a33e6af0dd901c9e71,1668.0,1601.0,18.0,0.0
+512,Commit,fedora-selinux_setroubleshoot,2011-12-05 21:59:10,8e8414c16699cbc953d0387eacae72b16fc174d2,3302.0,1.0,3.0,0.0
+513,Commit,fedora-selinux_setroubleshoot,2011-12-05 21:46:52,3304cdbc9dd86c75c809b567450860e2cde2109c,8.0,0.0,1.0,0.0
+514,Commit,fedora-selinux_setroubleshoot,2011-12-05 21:42:41,f16077a004d2ba777fb7acef93f4d1a511587333,0.0,0.0,0.0,0.0
+515,Commit,fedora-selinux_setroubleshoot,2011-12-05 21:41:58,da850aaffc31c4dd700cd5fbe8b5c94118cdebc5,1676.0,801.0,144.0,0.0
+516,Commit,fedora-selinux_setroubleshoot,2011-11-14 20:28:43,8642819f684bca6cdfa97c55d0f88f52ac3de320,1.0,1.0,1.0,0.0
+517,Commit,fedora-selinux_setroubleshoot,2011-11-14 20:17:13,31c3dd9cabbf802162ea3bf39711fe767b93dafb,0.0,0.0,0.0,0.0
+518,Commit,fedora-selinux_setroubleshoot,2011-11-14 20:16:58,a4abc056c3df55a601f8e2f2b75779f04559dac6,3.0,3.0,3.0,0.0
+519,Commit,fedora-selinux_setroubleshoot,2011-11-11 16:42:49,e2d61a541f62760b5fdfb3b585351366c794edd2,2.0,1.0,2.0,0.0
+520,Commit,fedora-selinux_setroubleshoot,2011-11-09 19:05:47,75d293725774cb7b6a4d9293d91939f63c42fa65,2.0,1.0,2.0,0.0
+521,Commit,fedora-selinux_setroubleshoot,2011-11-04 17:04:54,312ed79076880451c69ee14a11180694c5569dd0,4239.0,3897.0,76.0,0.0
+522,Commit,fedora-selinux_setroubleshoot,2011-10-25 14:28:46,dc91b87bf7b10a1565ebb931777d43260dc35332,1.0,1.0,1.0,0.0
+523,Commit,fedora-selinux_setroubleshoot,2011-10-25 14:27:32,6008d3c80a77f2814ae9baba7be3b3110c962499,84.0,98.0,1.0,0.0
+524,Commit,fedora-selinux_setroubleshoot,2011-10-07 13:08:46,9451cadd9c393a411ae7d1955fc9e97ed46e052c,1.0,61.0,2.0,0.0
+525,Commit,fedora-selinux_setroubleshoot,2011-10-07 13:06:17,be10e87eb96e572a47d7f1edb71b0064233b78a1,8.0,6.0,1.0,0.0
+526,Commit,fedora-selinux_setroubleshoot,2011-07-29 14:57:09,8a4f58565c1c2557cd15a9465bbf12b7ce3344b5,1.0,1.0,1.0,0.0
+527,Commit,fedora-selinux_setroubleshoot,2011-07-13 20:48:31,ddb6143c34bfd6950879040ed29c4986113a2050,5.0,6.0,3.0,0.0
+528,Commit,fedora-selinux_setroubleshoot,2011-06-24 18:32:01,e466250cd4741f80a876440ce4fc0b90fc23e6f0,1.0,594.0,4.0,0.0
+529,Commit,fedora-selinux_setroubleshoot,2011-06-13 12:54:56,5e64dc6d5078c964a3bd0c685bde6745beba13b4,2.0,2.0,2.0,0.0
+530,Commit,fedora-selinux_setroubleshoot,2011-05-24 21:02:37,f1c1b05e0ee274c48e2b98940e15782c1f94ae5b,29.0,16.0,2.0,0.0
+531,Commit,fedora-selinux_setroubleshoot,2011-05-24 19:18:08,1b425e5d10073933076d55e58cad4e42e3b50a90,5.0,9.0,3.0,0.0
+532,Commit,fedora-selinux_setroubleshoot,2011-04-19 14:42:39,3fc11a49b41141e7b7cee1b29883586a7bda0a06,1.0,1.0,1.0,0.0
+533,Commit,fedora-selinux_setroubleshoot,2011-04-19 14:41:55,963559f0a83cdbe327c19305ad7ada475f47b045,6.0,6.0,1.0,0.0
+534,Commit,fedora-selinux_setroubleshoot,2011-04-18 20:57:55,e90b082fc57e1bc4b5209f3ce427afa32c613e20,1.0,1.0,1.0,0.0
+535,Commit,fedora-selinux_setroubleshoot,2011-04-18 20:57:21,380b8aea53fa82a90fb6db289c5c497031a4aaac,30.0,14.0,1.0,0.0
+536,Commit,fedora-selinux_setroubleshoot,2011-04-13 20:37:03,7eea221c3a4e3dd49a42d7753741b48ff7e5fc84,1.0,1.0,1.0,0.0
+537,Commit,fedora-selinux_setroubleshoot,2011-04-13 20:32:07,f876dae846b728fd9431f96248e83ec58b520068,4.0,157.0,2.0,0.0
+538,Commit,fedora-selinux_setroubleshoot,2011-04-11 17:40:37,88c85e30f8f787f1b58cba092e0c377b56e6bea1,20910.0,16710.0,145.0,0.0
+539,Commit,fedora-selinux_setroubleshoot,2011-03-01 15:59:13,cf92959b7dfeb6c292854f4a73df7dca93964d13,16.0,0.0,1.0,0.0
+540,Commit,fedora-selinux_setroubleshoot,2011-03-01 15:31:59,b12662d74d76cbe6676a2768e9cd9f2646862622,1.0,1.0,1.0,0.0
+541,Commit,fedora-selinux_setroubleshoot,2011-03-01 15:25:13,cf120e573a4b39b2a7b50fe411c5e924b63a5810,6.0,6.0,1.0,0.0
+542,Commit,fedora-selinux_setroubleshoot,2011-03-01 15:21:31,d6d51064718eccc229be25bf72e3ebed8a1cd84e,27.0,13.0,2.0,0.0
+543,Commit,fedora-selinux_setroubleshoot,2011-02-21 22:58:10,0c221bdf9757d7ce06b9fc2fd5ea8622f40b44bb,1.0,1.0,1.0,0.0
+544,Commit,fedora-selinux_setroubleshoot,2011-02-21 22:57:51,824d7457f07d7250927061b863e7f5bea6539e2a,6.0,5.0,1.0,0.0
+545,Commit,fedora-selinux_setroubleshoot,2011-02-21 19:04:16,077e5b1771f1a2af45cbfa6c181a49cb7b2203b0,230.0,279.0,1.0,0.0
+546,Commit,fedora-selinux_setroubleshoot,2011-02-20 06:46:06,784c35b1d05192a4ef3ceec97bcc8d3fda489c29,3.0,3.0,1.0,0.0
+547,Commit,fedora-selinux_setroubleshoot,2011-02-20 06:27:29,232332b03360c8ab71ac7f397371cb0ef79520d5,659.0,1536.0,1.0,0.0
+548,Commit,fedora-selinux_setroubleshoot,2011-02-19 06:37:28,624748885e805181865bc60116f0199b995e42da,99.0,114.0,1.0,0.0
+549,Commit,fedora-selinux_setroubleshoot,2011-02-18 20:17:18,1a8969e38e5ed48fb49013414455e32081fe41bd,1.0,1.0,1.0,0.0
+550,Commit,fedora-selinux_setroubleshoot,2011-02-18 20:17:07,7cba8b1a40046949ee2781b0d892ddc550cf61db,279.0,268.0,2.0,0.0
+551,Commit,fedora-selinux_setroubleshoot,2011-02-18 14:24:09,516a3954856458743cdd5b63a6e0011ec5ee5118,1.0,2.0,2.0,0.0
+552,Commit,fedora-selinux_setroubleshoot,2011-02-16 23:38:42,994e1b43da3a7ada7f1ad6f111c92ceff1a6be3e,605.0,1108.0,1.0,0.0
+553,Commit,fedora-selinux_setroubleshoot,2011-02-15 15:13:03,3c4d6d3d8539fe71b7526b007cfc077e323f7487,115.0,110.0,1.0,0.0
+554,Commit,fedora-selinux_setroubleshoot,2011-02-14 11:44:09,29a3399d215e1639e2b53493c97b50300f0f3f88,135.0,78.0,1.0,0.0
+555,Commit,fedora-selinux_setroubleshoot,2011-02-14 08:47:20,5414373ba2828715b2f70cfb2824a5be1bfbdc18,119.0,175.0,1.0,0.0
+556,Commit,fedora-selinux_setroubleshoot,2011-02-11 10:49:18,a6c3fb424f1a206d1cc2143be946da94ce11a280,84.0,105.0,1.0,0.0
+557,Commit,fedora-selinux_setroubleshoot,2011-02-09 16:05:23,8564d2d0ad0174664d5f120b44a7b744e7a4dd37,8.0,7.0,2.0,0.0
+558,Commit,fedora-selinux_setroubleshoot,2011-02-09 15:45:06,95c0cb4c3a42bc73549d98619f27ec519a6fe2fc,1.0,1.0,1.0,0.0
+559,Commit,fedora-selinux_setroubleshoot,2011-02-09 15:44:06,f011d129f11d47672713c7fe17d9940ac05d139a,109.0,112.0,1.0,0.0
+560,Commit,fedora-selinux_setroubleshoot,2011-02-07 17:47:47,2fd7e68e3e2d0b4c7c25e25e71c03d4e22d7e14c,22.0,3.0,2.0,0.0
+561,Commit,fedora-selinux_setroubleshoot,2011-02-07 10:24:56,ffd265d2174e5edc31fbe6978b7b10caecca0160,61.0,105.0,1.0,0.0
+562,Commit,fedora-selinux_setroubleshoot,2011-02-07 08:54:01,b7ff1f474bd3713214804787f8692625701574be,73.0,123.0,1.0,0.0
+563,Commit,fedora-selinux_setroubleshoot,2011-02-06 14:35:15,cf2be2011b1591a5cfbae8c3781db5f8b5a7ba75,14.0,13.0,1.0,0.0
+564,Commit,fedora-selinux_setroubleshoot,2011-02-05 14:53:46,b14622897fe95b077178cb3107a1649718290477,19.0,21.0,1.0,0.0
+565,Commit,fedora-selinux_setroubleshoot,2011-02-04 19:14:47,cf156ae69ac0ee46c8ed97b0ff8cc97e0efd4cef,15.0,14.0,1.0,0.0
+566,Commit,fedora-selinux_setroubleshoot,2011-02-04 18:33:44,392b24dfcf6980fba49c70ff179280bb8626a70e,1.0,1.0,1.0,0.0
+567,Commit,fedora-selinux_setroubleshoot,2011-02-04 18:33:08,3af2fff498ab4ca87e67ff22a50eb1afcf15984d,2636.0,1493.0,72.0,0.0
+568,Commit,fedora-selinux_setroubleshoot,2011-02-04 18:31:04,16d6882eda071700cfc7ee6bee317e55d765e64e,6.0,6.0,6.0,0.0
+569,Commit,fedora-selinux_setroubleshoot,2011-02-03 12:38:32,efb049d3d7e1ffd057b01c96688d122ac55385d4,69.0,26.0,1.0,0.0
+570,Commit,fedora-selinux_setroubleshoot,2011-02-03 10:59:59,2ebac0183ec3da7b84cb81f2f65e72d0706f1d1c,54.0,33.0,1.0,0.0
+571,Commit,fedora-selinux_setroubleshoot,2011-02-02 14:05:50,f9d3494eeb2f2fe374808959882c567b8502ddf3,26.0,14.0,3.0,0.0
+572,Commit,fedora-selinux_setroubleshoot,2011-02-02 12:25:54,1c045200164d1c72cf564d1df80f7d5fc4253693,119.0,61.0,1.0,0.0
+573,Commit,fedora-selinux_setroubleshoot,2011-02-01 13:21:39,cd72d6e8107724f1a3e192b8b04d78fac14477d6,45.0,11.0,1.0,0.0
+574,Commit,fedora-selinux_setroubleshoot,2011-02-01 11:18:16,eea214d534a541df38cefa3bf743310576986167,81.0,110.0,1.0,0.0
+575,Commit,fedora-selinux_setroubleshoot,2011-02-01 09:34:38,b042c38440e1d8b6d7c3ba57e6b3bc8816d5fc71,58.0,110.0,1.0,0.0
+576,Commit,fedora-selinux_setroubleshoot,2011-01-27 12:06:40,c26dd822c1ae59335581835176446c3f2d5df44e,263.0,309.0,1.0,0.0
+577,Commit,fedora-selinux_setroubleshoot,2011-01-26 14:12:03,238214a6232409d25f73ce7b6900a5503fe66c6d,1.0,1.0,1.0,0.0
+578,Commit,fedora-selinux_setroubleshoot,2011-01-26 14:11:40,a2bc5fc524cbe1a853677d36e68d8924bf8ccbd7,3.0,0.0,1.0,0.0
+579,Commit,fedora-selinux_setroubleshoot,2011-01-24 19:14:56,2e030a1ea6c4566587e06ee181f21759b54ea79c,1.0,1.0,1.0,0.0
+580,Commit,fedora-selinux_setroubleshoot,2011-01-24 19:06:41,7779743afa7443269f771cf109a0aaa6ace96103,1.0,1.0,1.0,0.0
+581,Commit,fedora-selinux_setroubleshoot,2011-01-24 19:06:16,fc839b007754ce55da39e2265a543ccb740d26c2,1.0,32.0,1.0,0.0
+582,Commit,fedora-selinux_setroubleshoot,2011-01-24 18:27:24,7afb39189d8c34d87ac1ae13ee8748d9132612dd,0.0,0.0,0.0,0.0
+583,Commit,fedora-selinux_setroubleshoot,2011-01-24 05:30:59,00449fe5594a4aa2718c2bff72175135cd6c4b56,66.0,118.0,1.0,0.0
+584,Commit,fedora-selinux_setroubleshoot,2011-01-20 16:38:50,7fa02bbbc3af562808ef4f83aa3956dd2bc66ee9,207.0,186.0,1.0,0.0
+585,Commit,fedora-selinux_setroubleshoot,2011-01-19 16:36:43,d1a409d692e6ecb437792f9ebb10ef5e24897d38,10.0,9.0,1.0,0.0
+586,Commit,fedora-selinux_setroubleshoot,2011-01-19 15:53:39,14eb142afe1745cbf934b9b0952f562086d9dcf6,11.0,9.0,1.0,0.0
+587,Commit,fedora-selinux_setroubleshoot,2011-01-18 17:01:10,09199a06173686b77925686cc4a0313552edcc60,11.0,8.0,1.0,0.0
+588,Commit,fedora-selinux_setroubleshoot,2011-01-18 16:59:45,947f42f96ead05956ffe5905109742e2b87415b0,4.0,1.0,2.0,0.0
+589,Commit,fedora-selinux_setroubleshoot,2011-01-18 15:51:10,1a790c88b534395c156fc86de93147d184a965d3,2.0,1.0,1.0,0.0
+590,Commit,fedora-selinux_setroubleshoot,2011-01-18 15:25:48,6f4137931fa9053db16cd87060fa1530193329ce,11189.0,8407.0,77.0,0.0
+591,Commit,fedora-selinux_setroubleshoot,2011-01-18 15:17:22,7186bbe068079196020cbf224e8c877810a5cb16,0.0,0.0,0.0,0.0
+592,Commit,fedora-selinux_setroubleshoot,2011-01-18 10:27:35,4efef04413dcd07df02bb8d5b5c1000cfa7b91a5,436.0,317.0,1.0,0.0
+593,Commit,fedora-selinux_setroubleshoot,2011-01-18 09:09:44,fdfddbe042c588c1a0e2cb4dfdd04951a7f3ba10,83.0,52.0,1.0,0.0
+594,Commit,fedora-selinux_setroubleshoot,2011-01-17 10:10:28,225401a8a55cb365b0ec73bff55b70ef4d855583,90.0,2458.0,1.0,0.0
+595,Commit,fedora-selinux_setroubleshoot,2011-01-17 06:21:46,dfe70174f523616210e9b482b7b9055508986fbc,73.0,111.0,1.0,0.0
+596,Commit,fedora-selinux_setroubleshoot,2011-01-17 04:33:13,ab7a801a405fad81151ef9a522f0c2e731594d5c,5.0,3.0,1.0,0.0
+597,Commit,fedora-selinux_setroubleshoot,2011-01-14 16:57:50,9535e90734743ef251a21dff8fe3cba298ebbbcc,0.0,0.0,0.0,0.0
+598,Commit,fedora-selinux_setroubleshoot,2011-01-13 22:06:35,9269858726b83763495b45a1d961102ae363fc26,154.0,150.0,1.0,0.0
+599,Commit,fedora-selinux_setroubleshoot,2011-01-13 20:10:02,0d3cb01e208191c227f272e155023c5e5c0aca16,245.0,190.0,1.0,0.0
+600,Commit,fedora-selinux_setroubleshoot,2011-01-13 17:00:44,257b0626a6ebcd4ddfa5eb36dff77ef55bca5b86,28.0,13.0,1.0,0.0
+601,Commit,fedora-selinux_setroubleshoot,2011-01-13 11:58:53,1799f8675307d4e2cb6f11115c906fb9c1a013f5,380.0,271.0,1.0,0.0
+602,Commit,fedora-selinux_setroubleshoot,2011-01-13 10:12:23,5ca76168094056799bfeb096a837ab0f94111c5f,87.0,75.0,1.0,0.0
+603,Commit,fedora-selinux_setroubleshoot,2011-01-13 08:02:09,0e9f8dee9192ad221b52be766e31c97bc7b4468f,87.0,141.0,1.0,0.0
+604,Commit,fedora-selinux_setroubleshoot,2011-01-12 18:32:26,d54b4ef8c14dbe63ab0435666d85a814b97efc61,67.0,74.0,1.0,0.0
+605,Commit,fedora-selinux_setroubleshoot,2011-01-12 18:29:38,b32c175e250174ecd5ca136f6960f6635521e66a,29.0,11.0,1.0,0.0
+606,Commit,fedora-selinux_setroubleshoot,2011-01-12 17:14:09,8795ea45120d986431128ae570d71e83991cc4ba,26.0,11.0,1.0,0.0
+607,Commit,fedora-selinux_setroubleshoot,2011-01-12 16:03:46,59cbef02d8cba3cf67bd522318a79208081299d8,6840.0,2507.0,76.0,0.0
+608,Commit,fedora-selinux_setroubleshoot,2011-01-11 06:48:48,158667516d35b96537839da7f79a854816841d65,86.0,73.0,1.0,0.0
+609,Commit,fedora-selinux_setroubleshoot,2011-01-10 17:36:59,e80f4878c001b4e1ab9e98414c8b6b879a8507ee,1.0,1.0,1.0,0.0
+610,Commit,fedora-selinux_setroubleshoot,2011-01-10 17:36:34,88a912bc9befa00071d178806d7b5118045b610b,18.0,7.0,1.0,0.0
+611,Commit,fedora-selinux_setroubleshoot,2011-01-07 22:14:02,7c935f8729bfb2b6f3310c1b49be7c8de9aa5208,1.0,1.0,1.0,0.0
+612,Commit,fedora-selinux_setroubleshoot,2011-01-07 22:13:31,2c29f193b893fcf1045e65495099bee3310ece54,0.0,0.0,0.0,0.0
+613,Commit,fedora-selinux_setroubleshoot,2011-01-07 22:13:19,598999cfca1081062a084b7b9e0965593ef97be6,1.0,1.0,1.0,0.0
+614,Commit,fedora-selinux_setroubleshoot,2011-01-07 22:09:25,5fa6ada065f32821960155b29cb947415b863933,239.0,203.0,3.0,0.0
+615,Commit,fedora-selinux_setroubleshoot,2011-01-07 13:46:32,7235f6600725b7cd0bcf24e3d48f4c886220a991,137.0,124.0,1.0,0.0
+616,Commit,fedora-selinux_setroubleshoot,2011-01-07 12:54:53,7d0570352aa62c75c138d13a2235abf5f7b999dd,69.0,70.0,1.0,0.0
+617,Commit,fedora-selinux_setroubleshoot,2011-01-07 09:51:36,627c0db4a1d309a623e5f1ab2baa66f5dd695c27,43.0,20.0,1.0,0.0
+618,Commit,fedora-selinux_setroubleshoot,2011-01-07 07:11:34,2883ae3eefdf602fbe72cb83e10ef07f6c4fc88a,35.0,35.0,1.0,0.0
+619,Commit,fedora-selinux_setroubleshoot,2011-01-06 16:34:50,9059d7bb5b5c867c0cdf8e746374c11120620ad7,14.0,98.0,2.0,0.0
+620,Commit,fedora-selinux_setroubleshoot,2011-01-06 11:22:47,4316a4cae57869cdc3560a3202b2fc7e455b8c2c,12.0,12.0,1.0,0.0
+621,Commit,fedora-selinux_setroubleshoot,2011-01-05 09:20:11,1ba0bfb18f0f778f2494535d80b09f2590910d04,28.0,28.0,1.0,0.0
+622,Commit,fedora-selinux_setroubleshoot,2011-01-05 08:51:17,b28b55b82d8ae533b45574cc8ab2611cb31148d7,23.0,23.0,1.0,0.0
+623,Commit,fedora-selinux_setroubleshoot,2011-01-05 08:37:34,b4bb4b9dcc83e7776483c1875399614de9ef2e31,72.0,75.0,1.0,0.0
+624,Commit,fedora-selinux_setroubleshoot,2011-01-05 08:34:21,9cf34cbffb39979c4fa0e79014b8955acda4dce7,75.0,111.0,1.0,0.0
+625,Commit,fedora-selinux_setroubleshoot,2011-01-04 21:45:42,65b3f1ac4508026d6dd46a92258c45d909038560,1.0,2.0,2.0,0.0
+626,Commit,fedora-selinux_setroubleshoot,2011-01-04 21:45:34,50b6cbb64f9728166b2fd1f0e700f569c37d346f,0.0,0.0,0.0,0.0
+627,Commit,fedora-selinux_setroubleshoot,2011-01-04 07:34:05,d06fce08f9914409a3ab829a7c4af7274678476d,112.0,2309.0,1.0,0.0
+628,Commit,fedora-selinux_setroubleshoot,2011-01-03 20:36:30,6f30bdce89afe3b5e86cb40dd91b8ca554e94dc2,2.0,2.0,2.0,0.0
+629,Commit,fedora-selinux_setroubleshoot,2010-12-28 13:26:37,d2ff891df6ba4c562812eb22c0577419bb0da3d1,9.0,5.0,2.0,0.0
+630,Commit,fedora-selinux_setroubleshoot,2010-12-23 14:47:34,cb3e167d032e4c7fef3451eab78022acbdbcfd22,231.0,0.0,1.0,0.0
+631,Commit,fedora-selinux_setroubleshoot,2010-12-23 14:46:26,fc98cb0f680e2e5add7ea04d00ebeee07832dcec,1.0,1.0,1.0,0.0
+632,Commit,fedora-selinux_setroubleshoot,2010-12-23 14:44:56,42233e22208b4193f9af4b42a39e9de0cd21a1ec,21.0,2062.0,4.0,0.0
+633,Commit,fedora-selinux_setroubleshoot,2010-12-22 14:26:49,fb82a24c3122e61f692f6a1f237767c6c17facd5,1.0,1.0,1.0,0.0
+634,Commit,fedora-selinux_setroubleshoot,2010-12-22 14:26:18,e198a8ea7450b4bc904a96132346196b04a82eab,0.0,1856.0,1.0,0.0
+635,Commit,fedora-selinux_setroubleshoot,2010-12-20 21:56:40,ff1b233f352c6cada412c80dacde818c2a99a585,0.0,0.0,0.0,0.0
+636,Commit,fedora-selinux_setroubleshoot,2010-12-15 22:55:39,a00a186c9558c111a15e21e50b3e42f6219ae3c4,86.0,74.0,1.0,0.0
+637,Commit,fedora-selinux_setroubleshoot,2010-12-13 19:18:48,681415b28049884100525bfa929ed9b7f2156025,1.0,1.0,1.0,0.0
+638,Commit,fedora-selinux_setroubleshoot,2010-12-13 19:17:48,ebb7ba6b5642e80c3db723037da379193b6b764e,0.0,0.0,0.0,0.0
+639,Commit,fedora-selinux_setroubleshoot,2010-12-11 13:48:03,32beec772d25883728a034b522ba8b754febafcb,782.0,1382.0,1.0,0.0
+640,Commit,fedora-selinux_setroubleshoot,2010-12-09 14:48:50,5d19c92530cd59ac5c3fb7a4757239c4664b60f0,5.0,5.0,1.0,0.0
+641,Commit,fedora-selinux_setroubleshoot,2010-12-09 12:27:43,a909a005b2884d8d8cf090230b93ec054a8b5707,119.0,112.0,1.0,0.0
+642,Commit,fedora-selinux_setroubleshoot,2010-12-07 14:10:33,6bdf90a9d57233a76d3844853d5efd962f1f2815,0.0,0.0,0.0,0.0
+643,Commit,fedora-selinux_setroubleshoot,2010-12-05 17:27:08,230672fab86dbae2f87e6d85473e9724222f6edb,2461.0,0.0,1.0,0.0
+644,Commit,fedora-selinux_setroubleshoot,2010-12-05 17:18:41,3bb8b11bfbe570928c2b68934e85555fd334cd57,764.0,0.0,1.0,0.0
+645,Commit,fedora-selinux_setroubleshoot,2010-12-02 17:40:02,c06885ad13b7cde7396b254b8890850676e4dc57,0.0,0.0,1.0,0.0
+646,Commit,fedora-selinux_setroubleshoot,2010-12-02 14:20:06,d63f3c56e4718d8b2d8d9fd956278a0d25356f3e,2.0,2.0,2.0,0.0
+647,Commit,fedora-selinux_setroubleshoot,2010-12-02 14:18:21,36120511c5a1900bda70413edf45dd2ebfc3c40b,51.0,25.0,5.0,0.0
+648,Commit,fedora-selinux_setroubleshoot,2010-12-02 13:21:42,290d50aa1cc76f05491251e3d5edde177d1ca36a,0.0,0.0,0.0,0.0
+649,Commit,fedora-selinux_setroubleshoot,2010-12-01 14:52:48,44f2924217696ee568b89245e3e2fc1d9a5e9a32,11.0,8.0,1.0,0.0
+650,Commit,fedora-selinux_setroubleshoot,2010-12-01 11:28:55,5ccaa491982b1c27bdec930ae8625aa75442b65b,81.0,216.0,1.0,0.0
+651,Commit,fedora-selinux_setroubleshoot,2010-11-30 22:09:58,0f0c548df5f327361b49e9fcf3b4ae16dabbe94e,4.0,3.0,2.0,0.0
+652,Commit,fedora-selinux_setroubleshoot,2010-11-30 16:03:02,e41154147c40ae25d391a1a1f915823cf1062bc1,0.0,0.0,0.0,0.0
+653,Commit,fedora-selinux_setroubleshoot,2010-11-30 09:58:44,89aa1f9368aeaec805b2dc985c45d2a5b34493b8,7.0,4.0,1.0,0.0
+654,Commit,fedora-selinux_setroubleshoot,2010-11-30 09:20:23,5b250c59d0f70251e57c9110b0652b41b20a81a3,11.0,9.0,1.0,0.0
+655,Commit,fedora-selinux_setroubleshoot,2010-11-29 18:52:58,dbf2e43d7abddbc61470be7d6728ae476bace917,17.0,0.0,1.0,0.0
+656,Commit,fedora-selinux_setroubleshoot,2010-11-29 18:49:41,95ba2a7ea922981d643340bfe4f24d956c049706,0.0,195.0,1.0,0.0
+657,Commit,fedora-selinux_setroubleshoot,2010-11-29 18:43:01,2593f38aeb3219cd261b4fc782087ce8cf130697,4.0,4.0,2.0,0.0
+658,Commit,fedora-selinux_setroubleshoot,2010-11-29 16:56:20,26c837d396d0bd777a28a5c4d66485fbc8d0b3f9,6.0,467.0,3.0,0.0
+659,Commit,fedora-selinux_setroubleshoot,2010-11-29 16:03:54,fad2a7fda3630be96ad86c03c8c27a56944ca2f6,3555.0,1421.0,76.0,0.0
+660,Commit,fedora-selinux_setroubleshoot,2010-11-29 15:57:18,4ccce89dcda260cab4ebc6f78e200ce9851bd076,0.0,0.0,0.0,0.0
+661,Commit,fedora-selinux_setroubleshoot,2010-11-24 20:27:24,ffa4e7bc4cc78c766b35f6a4820ae78af7c102cd,48.0,52.0,1.0,0.0
+662,Commit,fedora-selinux_setroubleshoot,2010-11-24 13:47:16,89267249f170d0ef2746986f558e176cd204b20f,0.0,0.0,0.0,0.0
+663,Commit,fedora-selinux_setroubleshoot,2010-11-24 10:50:29,346e1e22163ea4cf63f5179ee657b54620b60647,48.0,58.0,1.0,0.0
+664,Commit,fedora-selinux_setroubleshoot,2010-11-23 21:45:46,311ab77cf32738467f6de31b50a53578fde27321,37.0,56.0,1.0,0.0
+665,Commit,fedora-selinux_setroubleshoot,2010-11-23 16:58:25,e6c5c542706ce3e3d5b190b70c50bb74a4bf905d,1.0,1.0,1.0,0.0
+666,Commit,fedora-selinux_setroubleshoot,2010-11-23 16:55:22,a8225b05cf0d1ea95bb679750638b2558d3908d8,3563.0,2002.0,73.0,0.0
+667,Commit,fedora-selinux_setroubleshoot,2010-11-23 16:53:11,f69d73e8488ca3704d907afabb7bb9c7874cd1f5,23.0,20.0,2.0,0.0
+668,Commit,fedora-selinux_setroubleshoot,2010-11-23 15:30:54,ad9cf446b5f930f5b79b97905dfa969a6cf2c31d,0.0,0.0,0.0,0.0
+669,Commit,fedora-selinux_setroubleshoot,2010-11-23 07:55:23,4eb3d1af43fb5d952b41c44ea7052fc48fd72bc4,5.0,9.0,1.0,0.0
+670,Commit,fedora-selinux_setroubleshoot,2010-11-22 18:44:59,5d9bd1742e8d3039423658d9a5a961c7f0857047,286.0,136.0,1.0,0.0
+671,Commit,fedora-selinux_setroubleshoot,2010-11-22 16:01:03,0cbfb3ae93ed2f4c9f40807a8271f4f936b50b96,1.0,1.0,1.0,0.0
+672,Commit,fedora-selinux_setroubleshoot,2010-11-22 15:54:26,86271d9e9887f9f406c00587162609699ed07149,1637.0,428.0,77.0,0.0
+673,Commit,fedora-selinux_setroubleshoot,2010-11-22 15:51:26,fe5dadc9166f4d2bfd17b16d052d3cf27f6c4ec1,0.0,0.0,0.0,0.0
+674,Commit,fedora-selinux_setroubleshoot,2010-11-21 20:45:12,6f14d23698cbd71748847dbc34bda45d66b99ab7,163.0,104.0,1.0,0.0
+675,Commit,fedora-selinux_setroubleshoot,2010-11-21 18:15:19,d4f14a61ffaad964ca56f0c37232a22993ecfc3e,82.0,61.0,1.0,0.0
+676,Commit,fedora-selinux_setroubleshoot,2010-11-21 16:16:10,7a217cadf87ac73f8ac9f06ffccf854d4daae2ca,366.0,378.0,1.0,0.0
+677,Commit,fedora-selinux_setroubleshoot,2010-11-21 15:57:03,a91e8f54d15325baf31248a69b2ef46186852ad9,82.0,72.0,1.0,0.0
+678,Commit,fedora-selinux_setroubleshoot,2010-11-21 15:46:55,6aa3a394a83bcdac1dad5ab6fb6e8bd1aecd386a,378.0,366.0,1.0,0.0
+679,Commit,fedora-selinux_setroubleshoot,2010-11-20 15:31:02,f33c883d737dd0a86227f1b1720ec01f61a1c665,404.0,2479.0,1.0,0.0
+680,Commit,fedora-selinux_setroubleshoot,2010-11-20 15:04:12,fc7b6c667f6f97b6c8bbc6522d087491611a260c,276.0,39.0,1.0,0.0
+681,Commit,fedora-selinux_setroubleshoot,2010-11-20 12:18:40,c3acbb6c270d7c16117782b8cd0fd6c7501d1699,235.0,138.0,1.0,0.0
+682,Commit,fedora-selinux_setroubleshoot,2010-11-20 07:16:28,4979fcbd96b76bb20fa37981e6fb729d40a6d5f1,94.0,75.0,1.0,0.0
+683,Commit,fedora-selinux_setroubleshoot,2010-11-19 15:18:29,4c699224708533b487a4565db19e8459fc825391,2.0,2.0,2.0,0.0
+684,Commit,fedora-selinux_setroubleshoot,2010-11-19 15:17:17,f03eea3d4115328ca7fc70751459f436f6ed704b,0.0,0.0,0.0,0.0
+685,Commit,fedora-selinux_setroubleshoot,2010-11-19 13:36:29,b5482a1152ec85335f3825bfeba89c41b81acdc3,82.0,210.0,1.0,0.0
+686,Commit,fedora-selinux_setroubleshoot,2010-11-18 14:59:51,46de4d7b86bebb8375f69e78a88fe154c9a97800,3.0,99.0,8.0,0.0
+687,Commit,fedora-selinux_setroubleshoot,2010-11-18 14:02:43,585a99d0e4072999744bdf560f582858aab294a9,3.0,19.0,4.0,0.0
+688,Commit,fedora-selinux_setroubleshoot,2010-11-17 20:52:38,a8c206c7b79f633cb30113df19eb5640207997a8,15.0,172.0,6.0,0.0
+689,Commit,fedora-selinux_setroubleshoot,2010-11-17 19:08:13,5c19f4ba91bd81e313cb013d499bd5895ba2885a,14.0,7.0,2.0,0.0
+690,Commit,fedora-selinux_setroubleshoot,2010-11-17 18:05:01,473874e1dcfb1b094a6c74efd96eabcad176d203,17.0,5.0,5.0,0.0
+691,Commit,fedora-selinux_setroubleshoot,2010-11-15 19:35:37,961a4e468ec1e65dda174ea3d6c3969e0ebe8641,190568.0,166620.0,76.0,0.0
+692,Commit,fedora-selinux_setroubleshoot,2010-11-15 19:13:26,ae929dad2dc7181b2e6b6196a57d127a765be77d,11.0,1073.0,2.0,0.0
+693,Commit,fedora-selinux_setroubleshoot,2010-11-15 18:46:54,04b83847514ee5cb4b19de0bcce799a5153c2408,88.0,0.0,3.0,0.0
+694,Commit,fedora-selinux_setroubleshoot,2010-11-15 16:35:44,06389fc211e27e02b6b49b3bb6cf9b60432a2743,3.0,3.0,3.0,0.0
+695,Commit,fedora-selinux_setroubleshoot,2010-11-12 19:40:56,18f04e485df454834081dc9b45a19e34f9c2d735,0.0,2.0,2.0,0.0
+696,Commit,fedora-selinux_setroubleshoot,2010-11-12 19:39:01,893d368a873c99549f884a616b5d79b98a5e6aee,0.0,165.0,1.0,0.0
+697,Commit,fedora-selinux_setroubleshoot,2010-11-12 19:38:15,6df3bc0c86c0d4f577fdb5d2e1cad1a23b432dfe,52.0,2292.0,10.0,0.0
+698,Commit,fedora-selinux_setroubleshoot,2010-11-12 17:20:06,d15bba2ff80dcaa172ee8bb3287779dbe7414944,1.0,1.0,1.0,0.0
+699,Commit,fedora-selinux_setroubleshoot,2010-11-12 17:19:24,f6247adb41c6ad4dad7c6fab8310c93aee1e28e1,51.0,0.0,1.0,0.0
+700,Commit,fedora-selinux_setroubleshoot,2010-11-12 17:18:50,f1d9860c0d4521d8cea17e010204c24d560aa822,208.0,209.0,10.0,0.0
+701,Commit,fedora-selinux_setroubleshoot,2010-11-10 18:49:10,813bdfc8db4f7cf4329bd054ddce563671dc5002,1.0,1.0,1.0,0.0
+702,Commit,fedora-selinux_setroubleshoot,2010-11-10 18:48:07,e96ef729f127d3cd20961e93956c24a8a9761b89,13.0,23.0,4.0,0.0
+703,Commit,fedora-selinux_setroubleshoot,2010-11-09 22:39:26,02e492fb92bf0c9a790e9bc36306edddc4c7e66f,6.0,1.0,2.0,0.0
+704,Commit,fedora-selinux_setroubleshoot,2010-11-09 22:37:55,7a076e2fba168d865237d322508351dda5c0a6e1,189.0,149.0,2.0,0.0
+705,Commit,fedora-selinux_setroubleshoot,2010-11-05 17:53:08,c095734c3b0f6aea69e96a83178b61c95bc4685b,1.0,1.0,1.0,0.0
+706,Commit,fedora-selinux_setroubleshoot,2010-11-05 17:29:17,ccafe47cc70dd90d36842b5572dfad9f6cf40d46,4.0,6.0,1.0,0.0
+707,Commit,fedora-selinux_setroubleshoot,2010-11-05 16:00:12,e38f36c2c657e0bb1f384ae02b86255ce2da75f5,1.0,4.0,1.0,0.0
+708,Commit,fedora-selinux_setroubleshoot,2010-11-05 15:28:34,08e152fdd6fa9c496c64d25739f1cbdecd6e97ad,1.0,1.0,1.0,0.0
+709,Commit,fedora-selinux_setroubleshoot,2010-11-05 11:33:45,6d49bb93bae4b39bca31d6816e1cce914064fa56,1.0,1.0,1.0,0.0
+710,Commit,fedora-selinux_setroubleshoot,2010-11-05 11:32:56,6120473e27475dcea6489b201cd1f485b9d188b0,194.0,896.0,3.0,0.0
+711,Commit,fedora-selinux_setroubleshoot,2010-11-02 21:02:26,f5874503eed4c107ea1a85a97bbbf3f10496823f,1.0,1.0,1.0,0.0
+712,Commit,fedora-selinux_setroubleshoot,2010-11-02 20:58:08,91aefb34484787ddbbc24014ad370a5e94ea9ee6,0.0,7596.0,1.0,0.0
+713,Commit,fedora-selinux_setroubleshoot,2010-11-02 20:52:19,e4d04d0ee62438cc8f3b19ee6e8041d8cbbb88da,267.0,104.0,9.0,0.0
+714,Commit,fedora-selinux_setroubleshoot,2010-11-01 19:40:57,9d76e52db8603f7767aeda1869cbd9949a3f02cc,1.0,6896.0,2.0,0.0
+715,Commit,fedora-selinux_setroubleshoot,2010-11-01 18:02:17,863f18d721e08e5dd303744be38ae8f19e31b468,4.0,1.0,2.0,0.0
+716,Commit,fedora-selinux_setroubleshoot,2010-11-01 17:58:21,0de5f70e6c4834c0e470355679eb5fec8a17d647,25.0,7.0,3.0,0.0
+717,Commit,fedora-selinux_setroubleshoot,2010-10-28 21:26:11,018cb636f65a51a37b66129ff7057fb47199608f,26069.0,14228.0,73.0,0.0
+718,Commit,fedora-selinux_setroubleshoot,2010-10-28 21:15:53,84ce75713e0bf241b6ffe04bf5ccc26307487268,115.0,78.0,2.0,0.0
+719,Commit,fedora-selinux_setroubleshoot,2010-10-28 16:20:40,6bf549cf72d1487673ff9681d69edb08d9042b7e,86.0,32.0,5.0,0.0
+720,Commit,fedora-selinux_setroubleshoot,2010-10-27 21:48:21,9a04d755d33c53c6c1ced15c987b453d9d90ebe9,46.0,16005.0,22.0,0.0
+721,Commit,fedora-selinux_setroubleshoot,2010-10-27 21:45:49,86ddb24786d18e4e4d74d8c2310a319cccca0fc0,0.0,0.0,2.0,0.0
+722,Commit,fedora-selinux_setroubleshoot,2010-10-27 21:34:13,a3baa75629534ff8690109e18797abdda61f1694,1038.0,18789.0,11.0,0.0
+723,Commit,fedora-selinux_setroubleshoot,2010-10-04 20:38:56,66d0b9b404b6e53b1f4297f9140c67490c96d671,28.0,9.0,5.0,0.0
+724,Commit,fedora-selinux_setroubleshoot,2010-09-29 19:09:44,612a2ee89b73a07317b79a3ec054d70d7227bc5e,109.0,205.0,5.0,0.0
+725,Commit,fedora-selinux_setroubleshoot,2010-09-29 14:49:32,bae33de51a84e2714dbc88348cb86160acac1ef6,411047.0,0.0,396.0,0.0
+0,forks,fedora-selinux_setroubleshoot,2014-11-12 14:01:09+00:00,,,,,
+1,forks,fedora-selinux_setroubleshoot,2015-02-10 09:42:59+00:00,,,,,
+2,forks,fedora-selinux_setroubleshoot,2015-07-16 14:39:29+00:00,,,,,
+3,forks,fedora-selinux_setroubleshoot,2015-10-05 14:34:24+00:00,,,,,
+4,forks,fedora-selinux_setroubleshoot,2016-03-21 08:25:18+00:00,,,,,
+5,forks,fedora-selinux_setroubleshoot,2016-08-08 12:46:41+00:00,,,,,
+6,forks,fedora-selinux_setroubleshoot,2017-04-04 18:01:45+00:00,,,,,
+7,forks,fedora-selinux_setroubleshoot,2017-10-26 09:51:48+00:00,,,,,
+0,issues,fedora-selinux_setroubleshoot,2015-04-30 11:34:04+00:00,,,,,
+1,issues,fedora-selinux_setroubleshoot,2016-03-22 10:34:46+00:00,,,,,
+2,issues,fedora-selinux_setroubleshoot,2016-03-22 10:39:41+00:00,,,,,
+3,issues,fedora-selinux_setroubleshoot,2016-03-22 10:42:43+00:00,,,,,
+4,issues,fedora-selinux_setroubleshoot,2016-03-22 12:40:34+00:00,,,,,
+5,issues,fedora-selinux_setroubleshoot,2016-03-24 08:10:02+00:00,,,,,
+6,issues,fedora-selinux_setroubleshoot,2016-03-24 14:23:45+00:00,,,,,
+7,issues,fedora-selinux_setroubleshoot,2016-03-24 21:06:42+00:00,,,,,
+8,issues,fedora-selinux_setroubleshoot,2016-03-24 21:07:37+00:00,,,,,
+9,issues,fedora-selinux_setroubleshoot,2016-03-24 21:10:06+00:00,,,,,
+10,issues,fedora-selinux_setroubleshoot,2016-03-24 21:14:12+00:00,,,,,
+11,issues,fedora-selinux_setroubleshoot,2016-03-29 14:02:00+00:00,,,,,
+12,issues,fedora-selinux_setroubleshoot,2016-05-13 08:41:45+00:00,,,,,
+13,issues,fedora-selinux_setroubleshoot,2016-05-16 08:12:18+00:00,,,,,
+14,issues,fedora-selinux_setroubleshoot,2016-05-23 18:05:16+00:00,,,,,
+15,issues,fedora-selinux_setroubleshoot,2016-06-23 08:52:54+00:00,,,,,
+16,issues,fedora-selinux_setroubleshoot,2016-06-23 12:45:56+00:00,,,,,
+17,issues,fedora-selinux_setroubleshoot,2016-08-17 18:57:37+00:00,,,,,
+18,issues,fedora-selinux_setroubleshoot,2016-10-03 11:25:12+00:00,,,,,
+19,issues,fedora-selinux_setroubleshoot,2017-02-27 13:06:00+00:00,,,,,
+20,issues,fedora-selinux_setroubleshoot,2017-03-01 12:37:21+00:00,,,,,
+21,issues,fedora-selinux_setroubleshoot,2017-03-01 12:39:37+00:00,,,,,
+22,issues,fedora-selinux_setroubleshoot,2017-03-01 12:42:29+00:00,,,,,
+23,issues,fedora-selinux_setroubleshoot,2017-03-17 15:55:40+00:00,,,,,
+24,issues,fedora-selinux_setroubleshoot,2017-07-10 14:56:02+00:00,,,,,
+25,issues,fedora-selinux_setroubleshoot,2017-08-01 14:16:06+00:00,,,,,
+26,issues,fedora-selinux_setroubleshoot,2017-08-09 17:14:42+00:00,,,,,
+27,issues,fedora-selinux_setroubleshoot,2017-08-13 14:06:57+00:00,,,,,
+28,issues,fedora-selinux_setroubleshoot,2017-09-09 19:22:05+00:00,,,,,
+29,issues,fedora-selinux_setroubleshoot,2018-02-02 06:36:49+00:00,,,,,
+30,issues,fedora-selinux_setroubleshoot,2018-06-15 07:24:39+00:00,,,,,
+31,issues,fedora-selinux_setroubleshoot,2018-08-31 07:20:13+00:00,,,,,
+32,issues,fedora-selinux_setroubleshoot,2019-03-26 15:20:07+00:00,,,,,
+33,issues,fedora-selinux_setroubleshoot,2020-01-09 12:25:15+00:00,,,,,
+34,issues,fedora-selinux_setroubleshoot,2020-06-14 17:02:48+00:00,,,,,
+35,issues,fedora-selinux_setroubleshoot,2020-12-10 01:18:00+00:00,,,,,
+36,issues,fedora-selinux_setroubleshoot,2020-12-19 18:47:46+00:00,,,,,
+0,pullRequests,fedora-selinux_setroubleshoot,2014-11-12 14:06:10+00:00,,,,,
+1,pullRequests,fedora-selinux_setroubleshoot,2014-12-22 03:46:59+00:00,,,,,
+2,pullRequests,fedora-selinux_setroubleshoot,2015-03-31 12:43:00+00:00,,,,,
+3,pullRequests,fedora-selinux_setroubleshoot,2015-04-02 14:55:52+00:00,,,,,
+4,pullRequests,fedora-selinux_setroubleshoot,2015-04-09 12:18:53+00:00,,,,,
+5,pullRequests,fedora-selinux_setroubleshoot,2015-04-20 07:54:54+00:00,,,,,
+6,pullRequests,fedora-selinux_setroubleshoot,2015-08-04 11:32:04+00:00,,,,,
+7,pullRequests,fedora-selinux_setroubleshoot,2015-10-05 14:48:43+00:00,,,,,
+8,pullRequests,fedora-selinux_setroubleshoot,2015-12-15 15:00:16+00:00,,,,,
+9,pullRequests,fedora-selinux_setroubleshoot,2016-03-21 09:04:16+00:00,,,,,
+10,pullRequests,fedora-selinux_setroubleshoot,2016-03-24 20:59:01+00:00,,,,,
+11,pullRequests,fedora-selinux_setroubleshoot,2016-03-24 22:55:39+00:00,,,,,
+12,pullRequests,fedora-selinux_setroubleshoot,2016-03-30 20:14:38+00:00,,,,,
+13,pullRequests,fedora-selinux_setroubleshoot,2016-03-31 07:43:01+00:00,,,,,
+14,pullRequests,fedora-selinux_setroubleshoot,2016-04-06 08:11:43+00:00,,,,,
+15,pullRequests,fedora-selinux_setroubleshoot,2016-04-16 17:04:23+00:00,,,,,
+16,pullRequests,fedora-selinux_setroubleshoot,2016-04-21 15:54:23+00:00,,,,,
+17,pullRequests,fedora-selinux_setroubleshoot,2016-05-06 13:08:59+00:00,,,,,
+18,pullRequests,fedora-selinux_setroubleshoot,2016-07-13 14:00:28+00:00,,,,,
+19,pullRequests,fedora-selinux_setroubleshoot,2016-08-08 12:56:29+00:00,,,,,
+20,pullRequests,fedora-selinux_setroubleshoot,2016-08-31 07:10:21+00:00,,,,,
+21,pullRequests,fedora-selinux_setroubleshoot,2016-09-29 10:18:11+00:00,,,,,
+22,pullRequests,fedora-selinux_setroubleshoot,2016-10-21 13:52:04+00:00,,,,,
+23,pullRequests,fedora-selinux_setroubleshoot,2016-11-08 11:24:11+00:00,,,,,
+24,pullRequests,fedora-selinux_setroubleshoot,2016-11-08 11:33:59+00:00,,,,,
+25,pullRequests,fedora-selinux_setroubleshoot,2016-11-10 17:16:21+00:00,,,,,
+26,pullRequests,fedora-selinux_setroubleshoot,2016-11-16 12:43:00+00:00,,,,,
+27,pullRequests,fedora-selinux_setroubleshoot,2016-12-19 17:43:24+00:00,,,,,
+28,pullRequests,fedora-selinux_setroubleshoot,2017-03-16 11:49:43+00:00,,,,,
+29,pullRequests,fedora-selinux_setroubleshoot,2017-04-24 12:32:04+00:00,,,,,
+30,pullRequests,fedora-selinux_setroubleshoot,2017-08-03 22:47:43+00:00,,,,,
+31,pullRequests,fedora-selinux_setroubleshoot,2017-08-03 22:50:58+00:00,,,,,
+32,pullRequests,fedora-selinux_setroubleshoot,2017-08-03 22:51:45+00:00,,,,,
+33,pullRequests,fedora-selinux_setroubleshoot,2017-08-04 09:22:25+00:00,,,,,
+34,pullRequests,fedora-selinux_setroubleshoot,2017-08-04 11:13:25+00:00,,,,,
+35,pullRequests,fedora-selinux_setroubleshoot,2017-09-05 12:27:53+00:00,,,,,
+36,pullRequests,fedora-selinux_setroubleshoot,2017-09-25 00:00:58+00:00,,,,,
+37,pullRequests,fedora-selinux_setroubleshoot,2017-11-15 13:55:53+00:00,,,,,
+38,pullRequests,fedora-selinux_setroubleshoot,2018-03-06 15:39:15+00:00,,,,,
+39,pullRequests,fedora-selinux_setroubleshoot,2018-08-03 11:41:54+00:00,,,,,
+40,pullRequests,fedora-selinux_setroubleshoot,2018-08-06 13:26:45+00:00,,,,,
+41,pullRequests,fedora-selinux_setroubleshoot,2018-08-06 14:10:57+00:00,,,,,
+42,pullRequests,fedora-selinux_setroubleshoot,2018-08-06 14:17:05+00:00,,,,,
+43,pullRequests,fedora-selinux_setroubleshoot,2018-08-07 08:53:01+00:00,,,,,
+44,pullRequests,fedora-selinux_setroubleshoot,2018-08-07 13:29:11+00:00,,,,,
+45,pullRequests,fedora-selinux_setroubleshoot,2019-01-09 18:09:34+00:00,,,,,
+46,pullRequests,fedora-selinux_setroubleshoot,2019-02-12 18:31:16+00:00,,,,,
+47,pullRequests,fedora-selinux_setroubleshoot,2019-03-11 14:59:28+00:00,,,,,
+48,pullRequests,fedora-selinux_setroubleshoot,2019-03-25 14:22:28+00:00,,,,,
+49,pullRequests,fedora-selinux_setroubleshoot,2019-06-11 15:54:34+00:00,,,,,
+50,pullRequests,fedora-selinux_setroubleshoot,2019-07-02 16:00:33+00:00,,,,,
+51,pullRequests,fedora-selinux_setroubleshoot,2019-08-02 16:19:14+00:00,,,,,
+52,pullRequests,fedora-selinux_setroubleshoot,2019-08-16 15:35:01+00:00,,,,,
+53,pullRequests,fedora-selinux_setroubleshoot,2019-09-13 14:18:16+00:00,,,,,
+54,pullRequests,fedora-selinux_setroubleshoot,2019-09-13 15:02:26+00:00,,,,,
+55,pullRequests,fedora-selinux_setroubleshoot,2020-04-07 20:53:30+00:00,,,,,
+56,pullRequests,fedora-selinux_setroubleshoot,2020-04-08 09:08:53+00:00,,,,,
+57,pullRequests,fedora-selinux_setroubleshoot,2020-05-27 15:29:12+00:00,,,,,
+0,releases,fedora-selinux_setroubleshoot,2015-02-10 20:59:35+00:00,,,,,
+1,releases,fedora-selinux_setroubleshoot,2015-04-09 12:25:08+00:00,,,,,
+2,releases,fedora-selinux_setroubleshoot,2016-01-21 12:56:57+00:00,,,,,
+0,stargazers,fedora-selinux_setroubleshoot,2015-04-29 07:14:52+00:00,,,,,
+1,stargazers,fedora-selinux_setroubleshoot,2015-10-07 13:10:20+00:00,,,,,
+2,stargazers,fedora-selinux_setroubleshoot,2016-05-04 20:19:29+00:00,,,,,
+3,stargazers,fedora-selinux_setroubleshoot,2016-05-04 20:22:38+00:00,,,,,
+4,stargazers,fedora-selinux_setroubleshoot,2018-04-18 10:47:10+00:00,,,,,
+5,stargazers,fedora-selinux_setroubleshoot,2018-07-10 01:08:19+00:00,,,,,
+6,stargazers,fedora-selinux_setroubleshoot,2019-04-30 12:33:21+00:00,,,,,
+7,stargazers,fedora-selinux_setroubleshoot,2019-12-06 07:44:49+00:00,,,,,
+8,stargazers,fedora-selinux_setroubleshoot,2020-09-01 19:08:40+00:00,,,,,

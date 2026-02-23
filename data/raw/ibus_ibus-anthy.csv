@@ -1,0 +1,630 @@
+,type,name,created_at,Hash,Add,Del,Files,Vuln
+283606,ReleaseEvent,ibus_ibus-anthy,2015-06-03 04:02:20 UTC,,,,,
+327147,ReleaseEvent,ibus_ibus-anthy,2015-06-03 04:00:22 UTC,,,,,
+461469,ReleaseEvent,ibus_ibus-anthy,2015-06-03 03:55:41 UTC,,,,,
+544215,ReleaseEvent,ibus_ibus-anthy,2015-06-03 04:10:29 UTC,,,,,
+651066,ReleaseEvent,ibus_ibus-anthy,2015-06-03 03:40:02 UTC,,,,,
+794474,IssueCommentEvent,ibus_ibus-anthy,2015-09-18 08:28:30 UTC,,,,,
+931478,ReleaseEvent,ibus_ibus-anthy,2015-06-03 03:37:40 UTC,,,,,
+935345,ReleaseEvent,ibus_ibus-anthy,2015-06-03 03:42:53 UTC,,,,,
+1057220,ReleaseEvent,ibus_ibus-anthy,2015-06-03 03:44:11 UTC,,,,,
+1112367,ReleaseEvent,ibus_ibus-anthy,2015-06-03 03:38:45 UTC,,,,,
+1369825,ReleaseEvent,ibus_ibus-anthy,2015-06-03 03:41:41 UTC,,,,,
+1484684,ReleaseEvent,ibus_ibus-anthy,2015-06-03 04:12:06 UTC,,,,,
+1496438,ReleaseEvent,ibus_ibus-anthy,2015-06-03 04:04:32 UTC,,,,,
+1504366,ReleaseEvent,ibus_ibus-anthy,2015-06-03 03:35:20 UTC,,,,,
+1522090,ForkEvent,ibus_ibus-anthy,2015-07-10 14:17:06 UTC,,,,,
+1654487,ReleaseEvent,ibus_ibus-anthy,2015-07-16 10:29:14 UTC,,,,,
+1656581,ForkEvent,ibus_ibus-anthy,2015-05-09 19:41:48 UTC,,,,,
+1682304,ReleaseEvent,ibus_ibus-anthy,2015-06-03 03:32:24 UTC,,,,,
+1694059,IssuesEvent,ibus_ibus-anthy,2015-09-18 08:28:30 UTC,,,,,
+1942775,PushEvent,ibus_ibus-anthy,2015-07-16 10:04:37 UTC,,,,,
+2103209,ReleaseEvent,ibus_ibus-anthy,2015-06-03 03:34:17 UTC,,,,,
+2107108,ReleaseEvent,ibus_ibus-anthy,2015-06-03 03:33:17 UTC,,,,,
+2165980,CreateEvent,ibus_ibus-anthy,2015-07-16 10:04:42 UTC,,,,,
+2415196,ReleaseEvent,ibus_ibus-anthy,2015-06-03 03:36:21 UTC,,,,,
+2493355,IssuesEvent,ibus_ibus-anthy,2015-09-15 06:09:42 UTC,,,,,
+2572700,ReleaseEvent,ibus_ibus-anthy,2015-06-03 04:03:18 UTC,,,,,
+2770144,IssueCommentEvent,ibus_ibus-anthy,2015-09-18 04:05:20 UTC,,,,,
+2912305,IssueCommentEvent,ibus_ibus-anthy,2015-09-18 03:29:32 UTC,,,,,
+2973835,WatchEvent,ibus_ibus-anthy,2015-06-16 18:49:34 UTC,,,,,
+2974436,ReleaseEvent,ibus_ibus-anthy,2015-06-03 04:06:10 UTC,,,,,
+193581,PushEvent,ibus_ibus-anthy,2016-01-20 08:32:50 UTC,,,,,
+1030151,ReleaseEvent,ibus_ibus-anthy,2016-10-20 03:38:51 UTC,,,,,
+1348475,CreateEvent,ibus_ibus-anthy,2016-10-20 03:08:58 UTC,,,,,
+1597488,ForkEvent,ibus_ibus-anthy,2016-05-25 12:26:50 UTC,,,,,
+2156995,ReleaseEvent,ibus_ibus-anthy,2016-01-20 08:36:05 UTC,,,,,
+2252306,IssueCommentEvent,ibus_ibus-anthy,2016-02-01 12:35:55 UTC,,,,,
+2272225,ForkEvent,ibus_ibus-anthy,2016-11-28 14:38:51 UTC,,,,,
+2556841,PushEvent,ibus_ibus-anthy,2016-10-20 03:08:51 UTC,,,,,
+2841316,IssuesEvent,ibus_ibus-anthy,2016-02-01 12:35:55 UTC,,,,,
+2938884,CreateEvent,ibus_ibus-anthy,2016-01-20 08:33:06 UTC,,,,,
+2961651,IssueCommentEvent,ibus_ibus-anthy,2016-02-01 03:53:02 UTC,,,,,
+4120807,IssuesEvent,ibus_ibus-anthy,2016-01-30 07:47:51 UTC,,,,,
+101388,ForkEvent,ibus_ibus-anthy,2017-10-11 12:54:28 UTC,,,,,
+285564,ForkEvent,ibus_ibus-anthy,2017-03-16 01:32:22 UTC,,,,,
+2055828,IssuesEvent,ibus_ibus-anthy,2017-03-22 10:56:58 UTC,,,,,
+2074155,IssuesEvent,ibus_ibus-anthy,2017-03-22 10:49:01 UTC,,,,,
+2604203,PullRequestEvent,ibus_ibus-anthy,2017-03-16 01:38:37 UTC,,,,,
+2830163,PullRequestEvent,ibus_ibus-anthy,2017-03-17 04:50:07 UTC,,,,,
+3083206,IssueCommentEvent,ibus_ibus-anthy,2017-03-22 10:56:58 UTC,,,,,
+3228890,IssueCommentEvent,ibus_ibus-anthy,2017-03-17 04:50:07 UTC,,,,,
+3235782,IssueCommentEvent,ibus_ibus-anthy,2017-03-16 12:16:48 UTC,,,,,
+3324566,IssueCommentEvent,ibus_ibus-anthy,2017-03-22 10:50:37 UTC,,,,,
+3330935,IssueCommentEvent,ibus_ibus-anthy,2017-03-18 00:22:24 UTC,,,,,
+3984483,IssueCommentEvent,ibus_ibus-anthy,2017-03-16 20:32:45 UTC,,,,,
+4643068,PullRequestReviewCommentEvent,ibus_ibus-anthy,2017-03-16 12:14:10 UTC,,,,,
+4990271,PullRequestReviewCommentEvent,ibus_ibus-anthy,2017-03-16 12:13:54 UTC,,,,,
+35641,ReleaseEvent,ibus_ibus-anthy,2018-03-19 10:53:28 UTC,,,,,
+340652,PushEvent,ibus_ibus-anthy,2018-03-19 09:30:52 UTC,,,,,
+1176745,WatchEvent,ibus_ibus-anthy,2018-04-18 07:34:30 UTC,,,,,
+1895879,CreateEvent,ibus_ibus-anthy,2018-03-19 09:31:23 UTC,,,,,
+2040563,IssuesEvent,ibus_ibus-anthy,2018-12-06 14:11:25 UTC,,,,,
+2163179,IssuesEvent,ibus_ibus-anthy,2018-06-11 03:36:44 UTC,,,,,
+2239642,IssuesEvent,ibus_ibus-anthy,2018-10-10 10:55:54 UTC,,,,,
+2268544,IssuesEvent,ibus_ibus-anthy,2018-05-10 05:25:33 UTC,,,,,
+2272167,IssuesEvent,ibus_ibus-anthy,2018-12-05 15:44:52 UTC,,,,,
+2295185,IssuesEvent,ibus_ibus-anthy,2018-06-10 07:47:29 UTC,,,,,
+3298791,IssueCommentEvent,ibus_ibus-anthy,2018-12-06 13:14:49 UTC,,,,,
+3437251,IssueCommentEvent,ibus_ibus-anthy,2018-06-11 03:36:44 UTC,,,,,
+3554611,IssueCommentEvent,ibus_ibus-anthy,2018-06-10 07:48:26 UTC,,,,,
+3737663,IssueCommentEvent,ibus_ibus-anthy,2018-12-06 14:11:25 UTC,,,,,
+4328124,IssueCommentEvent,ibus_ibus-anthy,2018-12-05 15:46:10 UTC,,,,,
+4456367,IssueCommentEvent,ibus_ibus-anthy,2018-12-06 18:36:54 UTC,,,,,
+18638,ReleaseEvent,ibus_ibus-anthy,2019-05-14 08:46:58 UTC,,,,,
+44793,ForkEvent,ibus_ibus-anthy,2019-03-07 22:28:24 UTC,,,,,
+185641,ForkEvent,ibus_ibus-anthy,2019-12-28 07:03:29 UTC,,,,,
+769544,PushEvent,ibus_ibus-anthy,2019-03-11 07:37:27 UTC,,,,,
+868223,PushEvent,ibus_ibus-anthy,2019-05-14 08:40:55 UTC,,,,,
+2062472,WatchEvent,ibus_ibus-anthy,2019-06-05 02:57:28 UTC,,,,,
+2409175,CreateEvent,ibus_ibus-anthy,2019-05-14 08:41:05 UTC,,,,,
+2596630,IssuesEvent,ibus_ibus-anthy,2019-09-14 08:53:17 UTC,,,,,
+2662895,IssuesEvent,ibus_ibus-anthy,2019-04-22 09:28:34 UTC,,,,,
+2665151,IssuesEvent,ibus_ibus-anthy,2019-03-13 03:40:17 UTC,,,,,
+2700636,IssuesEvent,ibus_ibus-anthy,2019-12-18 06:37:30 UTC,,,,,
+2794600,IssuesEvent,ibus_ibus-anthy,2019-03-06 23:23:18 UTC,,,,,
+2829028,IssuesEvent,ibus_ibus-anthy,2019-12-20 03:17:53 UTC,,,,,
+2982251,PullRequestEvent,ibus_ibus-anthy,2020-01-07 08:49:37 UTC,,,,,
+3221550,PullRequestEvent,ibus_ibus-anthy,2019-03-07 23:34:42 UTC,,,,,
+3263862,PullRequestEvent,ibus_ibus-anthy,2019-03-12 08:28:03 UTC,,,,,
+3390216,PullRequestEvent,ibus_ibus-anthy,2019-12-28 07:03:39 UTC,,,,,
+3391667,PullRequestEvent,ibus_ibus-anthy,2020-01-07 07:46:31 UTC,,,,,
+3687092,IssueCommentEvent,ibus_ibus-anthy,2019-03-12 08:28:03 UTC,,,,,
+3715061,IssueCommentEvent,ibus_ibus-anthy,2020-01-09 03:38:59 UTC,,,,,
+3829752,IssueCommentEvent,ibus_ibus-anthy,2020-01-08 20:26:04 UTC,,,,,
+4021921,IssueCommentEvent,ibus_ibus-anthy,2019-04-22 09:28:34 UTC,,,,,
+4215558,IssueCommentEvent,ibus_ibus-anthy,2019-03-12 13:05:24 UTC,,,,,
+4301556,IssueCommentEvent,ibus_ibus-anthy,2020-01-09 12:59:24 UTC,,,,,
+4354978,IssueCommentEvent,ibus_ibus-anthy,2020-01-11 07:42:00 UTC,,,,,
+4545990,IssueCommentEvent,ibus_ibus-anthy,2020-01-07 07:55:55 UTC,,,,,
+4672466,IssueCommentEvent,ibus_ibus-anthy,2019-12-31 10:20:49 UTC,,,,,
+4770044,IssueCommentEvent,ibus_ibus-anthy,2019-04-22 09:33:14 UTC,,,,,
+4787511,IssueCommentEvent,ibus_ibus-anthy,2019-04-23 08:41:51 UTC,,,,,
+4860553,IssueCommentEvent,ibus_ibus-anthy,2020-01-07 07:46:31 UTC,,,,,
+4934033,IssueCommentEvent,ibus_ibus-anthy,2019-12-20 03:17:52 UTC,,,,,
+4998488,IssueCommentEvent,ibus_ibus-anthy,2020-01-09 07:19:56 UTC,,,,,
+5014910,IssueCommentEvent,ibus_ibus-anthy,2019-03-12 13:04:06 UTC,,,,,
+5420539,IssueCommentEvent,ibus_ibus-anthy,2019-03-13 03:43:32 UTC,,,,,
+5750069,PullRequestReviewCommentEvent,ibus_ibus-anthy,2019-03-10 15:14:31 UTC,,,,,
+5768730,PullRequestReviewCommentEvent,ibus_ibus-anthy,2019-03-11 21:42:05 UTC,,,,,
+5816871,PullRequestReviewCommentEvent,ibus_ibus-anthy,2019-03-08 09:22:30 UTC,,,,,
+5818576,PullRequestReviewCommentEvent,ibus_ibus-anthy,2019-03-11 07:47:09 UTC,,,,,
+5829291,PullRequestReviewCommentEvent,ibus_ibus-anthy,2019-03-10 14:43:12 UTC,,,,,
+5868146,PullRequestReviewCommentEvent,ibus_ibus-anthy,2019-03-11 07:52:49 UTC,,,,,
+5880932,PullRequestReviewCommentEvent,ibus_ibus-anthy,2019-03-08 09:00:58 UTC,,,,,
+5903861,PullRequestReviewCommentEvent,ibus_ibus-anthy,2019-03-10 15:10:37 UTC,,,,,
+5966707,PullRequestReviewCommentEvent,ibus_ibus-anthy,2019-03-11 07:45:00 UTC,,,,,
+5971957,PullRequestReviewCommentEvent,ibus_ibus-anthy,2019-03-12 08:26:13 UTC,,,,,
+5980486,PullRequestReviewCommentEvent,ibus_ibus-anthy,2019-03-08 09:04:40 UTC,,,,,
+6051638,PullRequestReviewCommentEvent,ibus_ibus-anthy,2019-03-11 07:43:58 UTC,,,,,
+6052724,PullRequestReviewCommentEvent,ibus_ibus-anthy,2019-03-11 21:43:41 UTC,,,,,
+6078438,PullRequestReviewCommentEvent,ibus_ibus-anthy,2019-03-08 09:24:14 UTC,,,,,
+6082846,PullRequestReviewCommentEvent,ibus_ibus-anthy,2019-03-08 09:24:25 UTC,,,,,
+6136577,PullRequestReviewCommentEvent,ibus_ibus-anthy,2019-03-08 09:09:14 UTC,,,,,
+6143585,PullRequestReviewCommentEvent,ibus_ibus-anthy,2019-03-08 09:16:55 UTC,,,,,
+6176596,PullRequestReviewCommentEvent,ibus_ibus-anthy,2019-03-10 14:50:42 UTC,,,,,
+0,Commit,ibus_ibus-anthy,2021-12-24 14:11:59,152a77a5639108c37c06d3de7c0d6a4a8c8494a2,98.0,87.0,1.0,0.0
+1,Commit,ibus_ibus-anthy,2021-12-24 14:08:22,a764da3125b27879d19f8faabd5abfd005106348,5.0,5.0,1.0,0.0
+2,Commit,ibus_ibus-anthy,2021-12-24 14:04:04,f0a685ab168765c95490476513a37b39a9fe3e63,4.0,4.0,1.0,0.0
+3,Commit,ibus_ibus-anthy,2021-12-24 14:02:43,020d3678b114e3fa7949fc0edf246dd3502db7ac,6.0,6.0,1.0,0.0
+4,Commit,ibus_ibus-anthy,2021-08-18 08:22:43,7078f324a85b4f8d79445cf64691dc3e04b68fb3,7.0,7.0,1.0,0.0
+5,Commit,ibus_ibus-anthy,2021-08-18 08:22:39,7c676f6b531b0f15b21fb25e6f191ab48e1eb8d9,24.0,23.0,1.0,0.0
+6,Commit,ibus_ibus-anthy,2021-08-18 08:22:36,5e238b74f888beeafdda1b863aeb0e7cdfe4531f,890.0,0.0,2.0,0.0
+7,Commit,ibus_ibus-anthy,2021-08-18 08:22:34,340b88d5978f897907d85650434cab40303af9f6,885.0,0.0,2.0,0.0
+8,Commit,ibus_ibus-anthy,2021-02-19 14:31:33,8030cbf09fa24f1b7ad26a3dfc6943994559d6ad,7.0,4.0,1.0,0.0
+9,Commit,ibus_ibus-anthy,2021-02-19 14:31:29,e79f11c947c212911a6192b0ea188cb24b03ee21,8.0,6.0,1.0,0.0
+10,Commit,ibus_ibus-anthy,2021-02-19 14:31:25,e31baae0f58b89fe0e4911cacd05522e2bbea231,13.0,14.0,1.0,0.0
+11,Commit,ibus_ibus-anthy,2021-02-19 14:31:22,2a00717cef53c8d199634d775c8062d664928bee,26.0,25.0,1.0,0.0
+12,Commit,ibus_ibus-anthy,2021-02-19 14:31:18,cd3175040a02ba27a99245c1f1a8cd68cfd0040e,14.0,15.0,1.0,0.0
+13,Commit,ibus_ibus-anthy,2021-02-19 14:31:12,fb5bcd04aeb4c21a542f762c9a0e26e0bd388052,12.0,12.0,1.0,0.0
+14,Commit,ibus_ibus-anthy,2020-09-03 02:00:26,2d4f74a0695ae2950d1a50b696c805babd64f4e5,10.0,10.0,1.0,0.0
+15,Commit,ibus_ibus-anthy,2020-09-03 01:54:58,0f0bcae04d376e0c32756be7aef2a2bb4b279b94,20.0,19.0,1.0,0.0
+16,Commit,ibus_ibus-anthy,2020-09-03 01:52:37,e5624893c6d688fc3418092e1ebbfeca41693bc2,2.0,2.0,1.0,0.0
+17,Commit,ibus_ibus-anthy,2020-01-07 07:35:37,c2435f68792b8e8f47a4db5b3943b954f4958124,877.0,0.0,2.0,0.0
+18,Commit,ibus_ibus-anthy,2020-01-07 07:32:27,43a92c0913b62c68fd681ed336c894c6f6f7bdd3,900.0,0.0,2.0,0.0
+19,Commit,ibus_ibus-anthy,2020-01-07 07:28:33,c888ad185e8c086257d4af7a79102ec5318c8878,885.0,0.0,2.0,0.0
+20,Commit,ibus_ibus-anthy,2020-01-07 07:24:04,93a5e0e70fee7e9ca19d5f27295818d3437b0919,13.0,12.0,1.0,0.0
+21,Commit,ibus_ibus-anthy,2020-01-07 07:22:08,faf9b0e627c64352802a0327ddbda4b6d65ccfbb,163.0,139.0,1.0,0.0
+22,Commit,ibus_ibus-anthy,2020-01-07 07:20:36,cd6dcf654182c203799bc9f96e3f39a2cfa07b8b,11.0,9.0,1.0,0.0
+23,Commit,ibus_ibus-anthy,2020-01-07 07:16:53,100837f978a230a4295bf597dea7716c8a43fbc3,12.0,11.0,1.0,0.0
+24,Commit,ibus_ibus-anthy,2020-01-07 07:15:49,d8d1e4ba110ccc74ef7bc5855e233c4b116d650d,895.0,0.0,2.0,0.0
+25,Commit,ibus_ibus-anthy,2019-03-12 08:13:30,da71a2e69726815a561f0f8dc6ade572d08a037c,108.0,44.0,12.0,0.0
+26,Commit,ibus_ibus-anthy,2018-02-07 10:36:16,e0e64927cb95857c89faf85527d0b3f90fe40fb9,38.0,0.0,1.0,0.0
+27,Commit,ibus_ibus-anthy,2017-12-28 11:48:32,89f8ddf86f417ed3074532e7b66f5eabc9595984,1267.0,2574.0,22.0,0.0
+28,Commit,ibus_ibus-anthy,2017-12-15 10:38:51,ae039c727a89c8a27d5224adafb656a37d345d22,2170.0,2348.0,16.0,0.0
+29,Commit,ibus_ibus-anthy,2017-11-23 09:04:26,34e8b0ca96fb5c94405d413c01578282ea005397,7.0,7.0,1.0,0.0
+30,Commit,ibus_ibus-anthy,2017-11-23 08:42:36,6d843d0505b31a622a69d318e8f4a62eea398b80,52.0,3.0,4.0,0.0
+31,Commit,ibus_ibus-anthy,2017-11-23 06:01:56,ec02cbdf6a61996ce1c1a5112bd16d316d266632,71.0,12.0,2.0,0.0
+32,Commit,ibus_ibus-anthy,2017-11-21 06:56:28,190bde7ff8ec5a263c92d5e9dbca4cc35fe6c511,54.0,1.0,2.0,0.0
+33,Commit,ibus_ibus-anthy,2017-11-21 05:45:01,b87c5939d30ebbc87533f36c9f6a96c773dab5f9,190.0,16.0,4.0,0.0
+34,Commit,ibus_ibus-anthy,2017-11-21 03:52:07,cd7568ce9b837eac65be9897345697780806b596,12.0,18.0,2.0,0.0
+35,Commit,ibus_ibus-anthy,2017-11-20 11:37:35,341964a78fcd5b2bfe7176af839eb3102fe212eb,266.0,0.0,4.0,0.0
+36,Commit,ibus_ibus-anthy,2016-01-19 02:47:14,bb2765a73f7b205c719fa81df2f90b40ce9dc6ec,8.0,2.0,1.0,0.0
+37,Commit,ibus_ibus-anthy,2016-01-19 02:47:08,78e2ddfba82977120d199ecef3c79664f68d2046,80.0,24.0,12.0,0.0
+38,Commit,ibus_ibus-anthy,2015-11-06 09:19:32,9ba0a2a1e595fbf6e39c50a15814bb6f9e337769,53.0,3.0,1.0,0.0
+39,Commit,ibus_ibus-anthy,2015-09-18 08:23:14,0fc8cc7eff39a8fe7f1689affa47fdc779570df5,197.0,164.0,7.0,0.0
+40,Commit,ibus_ibus-anthy,2015-09-18 07:42:29,7e4a3c960daedab1f1ed8daa8ec9ef85ca86f87d,2.0,36.0,2.0,0.0
+41,Commit,ibus_ibus-anthy,2015-09-17 08:39:18,c031fb80b9c6a7f505ef30008330bc3ea0b61ebf,2.0,2.0,2.0,0.0
+42,Commit,ibus_ibus-anthy,2015-09-17 06:25:21,a76d93dd1a787795ffc07ded6af3b70a39a11756,2.0,2.0,1.0,0.0
+43,Commit,ibus_ibus-anthy,2015-09-02 08:25:45,b4a93404d83a4d051f4804bd97655c021c7ebc7a,3.0,3.0,1.0,0.0
+44,Commit,ibus_ibus-anthy,2015-07-16 09:04:18,b9f1f52aedce3682a2070ab2dd0b00aaa47f57fc,1.0,1.0,1.0,0.0
+45,Commit,ibus_ibus-anthy,2015-07-10 14:34:50,e44c3f927b1662274f9c064aa26973d746ef78f3,28.0,53.0,1.0,0.0
+46,Commit,ibus_ibus-anthy,2015-07-01 10:12:37,58c9e86cef1d06451acfafdab3e224eca83ad45c,150.0,4.0,1.0,0.0
+47,Commit,ibus_ibus-anthy,2015-06-26 10:01:52,7321f54eb4cf583a81c3a7bab7d157b52400d1df,26.0,26.0,16.0,0.0
+48,Commit,ibus_ibus-anthy,2015-06-26 08:51:35,b0249f499e3ff264d3b7c5ca43fba86a21b0084d,18.0,0.0,3.0,0.0
+49,Commit,ibus_ibus-anthy,2015-06-26 08:19:03,107f08343063275a84ce370e4c40bf222507ba4c,54.0,43.0,3.0,0.0
+50,Commit,ibus_ibus-anthy,2015-05-15 06:25:43,4f37090b5192088d06d849af4b874377b670b15f,2098.0,2166.0,2.0,0.0
+51,Commit,ibus_ibus-anthy,2015-04-22 06:08:55,891afb4287cc1b538f1ee20a7de1d3dd0ac30f1b,3.0,6.0,1.0,0.0
+52,Commit,ibus_ibus-anthy,2015-04-22 03:45:48,5cd95abb49956d4014b0bdc5b5dba356d9d3767c,14.0,10.0,4.0,0.0
+53,Commit,ibus_ibus-anthy,2015-03-26 10:26:17,84da39df1b3580a04202c97e452e41586ce225bd,1859.0,40.0,4.0,0.0
+54,Commit,ibus_ibus-anthy,2015-03-26 09:44:00,eac962b0d73a6ae8dbbdf22419a0ecb5cad1dbaf,90.0,38.0,4.0,0.0
+55,Commit,ibus_ibus-anthy,2015-03-26 09:37:30,51ff84e0ffce0eb72dd093a890dd4f4cfdbc6c61,34.0,48.0,8.0,0.0
+56,Commit,ibus_ibus-anthy,2014-10-28 06:42:41,a9b880226fcc7a22ca84ed1947c047c6c53c8028,51.0,0.0,1.0,0.0
+57,Commit,ibus_ibus-anthy,2014-10-08 06:42:04,a3c5187942eda25aee37bb6ed71347abdbe70da2,4.0,4.0,2.0,0.0
+58,Commit,ibus_ibus-anthy,2014-09-24 06:43:45,7bfd04659a1c69f4cea65178b13e2d2b80f165bf,7.0,7.0,1.0,0.0
+59,Commit,ibus_ibus-anthy,2014-09-16 04:56:55,b68b17f0729c24021e451ef73d66dc0d03813b7d,1.0,1.0,1.0,0.0
+60,Commit,ibus_ibus-anthy,2014-09-15 17:49:41,3e1540a9f34a59d550876936a2ef9f61b8cdebc3,6.0,2.0,2.0,0.0
+61,Commit,ibus_ibus-anthy,2014-09-12 09:55:14,6205766a6f060f98d7deb6475ad202179c7aa026,29.0,2.0,2.0,0.0
+62,Commit,ibus_ibus-anthy,2014-08-27 08:55:02,cca25661491098a986449c3a0fd0e3e065f16c20,166.0,0.0,2.0,0.0
+63,Commit,ibus_ibus-anthy,2014-08-22 09:36:06,bc0538c828ec491af465edeae9d5340a7bd8aeae,2.0,2.0,2.0,0.0
+64,Commit,ibus_ibus-anthy,2014-08-22 02:54:14,f122f7f5bbc411169732ad323713e41c21cb1007,528.0,500.0,5.0,0.0
+65,Commit,ibus_ibus-anthy,2014-08-22 02:54:02,64f60791cf80476c80390888a8310a0df1a505f2,1716.0,2.0,5.0,0.0
+66,Commit,ibus_ibus-anthy,2014-08-21 09:21:44,3df770e1a650f2653ef42e3814498dd808217002,617.0,617.0,1.0,0.0
+67,Commit,ibus_ibus-anthy,2014-08-11 04:49:03,2280be6e42ef4310617a24c4d6b2056010f5d40c,2.0,2.0,2.0,0.0
+68,Commit,ibus_ibus-anthy,2014-07-16 05:57:34,e6323369582831b5260c216237a5a4f355051264,40.0,10.0,2.0,0.0
+69,Commit,ibus_ibus-anthy,2014-07-16 05:57:25,44b089e73b911db560245768de193d771dd620af,2.0,0.0,2.0,0.0
+70,Commit,ibus_ibus-anthy,2014-07-16 05:57:07,c7caeaf8dc3aaaf5b1d546ffb418aae52b8905a4,64.0,40.0,2.0,0.0
+71,Commit,ibus_ibus-anthy,2014-02-20 09:32:12,9cff458e97337b4a3b47a71a640f5599aa267fa0,35.0,16.0,1.0,0.0
+72,Commit,ibus_ibus-anthy,2014-02-18 08:54:57,1f2152f2674715e6456ff3de31326dd2193cb7e4,477.0,352.0,5.0,0.0
+73,Commit,ibus_ibus-anthy,2014-02-18 08:36:45,ffd69683443c56910e6db6d4526992a92c222275,361.0,291.0,5.0,0.0
+74,Commit,ibus_ibus-anthy,2014-02-05 08:16:13,dc90362b9b981bb69f90fcdab313408679601cbc,3.0,3.0,1.0,0.0
+75,Commit,ibus_ibus-anthy,2014-02-05 08:14:49,e1781553312d54e835a59e7443d0a95ecbba7c1e,20.0,9.0,1.0,0.0
+76,Commit,ibus_ibus-anthy,2014-02-04 20:06:44,1ae9a571c009d96b95da0c53ca6460d41ff067e7,8.0,2.0,1.0,0.0
+77,Commit,ibus_ibus-anthy,2014-02-04 07:29:34,016b2ea957b2e1985af6d5ad508588174b7aca8f,981.0,781.0,4.0,0.0
+78,Commit,ibus_ibus-anthy,2014-02-04 06:49:13,bd5dcd074de31ffcecffde962e313b334841adb6,305.0,187.0,3.0,0.0
+79,Commit,ibus_ibus-anthy,2014-02-04 06:47:53,cc3bdbe663c2f89d3998cb5ec66174b9f695745e,16.0,8.0,2.0,0.0
+80,Commit,ibus_ibus-anthy,2014-01-30 08:33:33,2e8e2bef7a7943ed351278c2f6c601339abd4d54,12288.0,275.0,52.0,0.0
+81,Commit,ibus_ibus-anthy,2014-01-06 07:22:25,85330465240ba6a028c92290d74ef05dcb5d7cb9,28.0,18.0,2.0,0.0
+82,Commit,ibus_ibus-anthy,2013-09-13 08:36:00,9932e3920f19d78e5bfb5a357590e3e6893b24a9,2.0,2.0,1.0,0.0
+83,Commit,ibus_ibus-anthy,2013-09-09 07:03:04,0270ac6d390f581f2b4d336b6605483148070bab,5.0,5.0,1.0,0.0
+84,Commit,ibus_ibus-anthy,2013-09-09 04:00:30,e68f0a982c6d987579e332f2adbc12f1f24abfea,1.0,1.0,1.0,0.0
+85,Commit,ibus_ibus-anthy,2013-09-09 03:58:40,aaaad7fe60c0574baa95a8ae3707eb24c9be0869,3.0,0.0,1.0,0.0
+86,Commit,ibus_ibus-anthy,2013-09-09 02:51:00,307ba7ee814b0fe4188924f813aa4b0eb488344b,4.0,17.0,1.0,0.0
+87,Commit,ibus_ibus-anthy,2013-09-07 08:56:08,623ac9aa8496d0a048ced3bdc83d9fc129c98c4b,5.0,5.0,1.0,0.0
+88,Commit,ibus_ibus-anthy,2013-09-02 09:56:51,742f1f2e646dc6e649186789e6694112ea0cd622,610.0,608.0,4.0,0.0
+89,Commit,ibus_ibus-anthy,2013-09-02 09:33:06,addd57cbd30df42185e7735c9036b0024f9670aa,26.0,10.0,1.0,0.0
+90,Commit,ibus_ibus-anthy,2013-09-02 05:49:03,db8f61c0b09ac9cf3d5486a1844f459417cba6ec,25.0,10.0,1.0,0.0
+91,Commit,ibus_ibus-anthy,2013-08-30 02:13:31,6aae0a9f145f536515e268dd6b25aa740a5edfe7,14.0,0.0,1.0,1.0
+92,Commit,ibus_ibus-anthy,2013-08-30 02:08:49,868921480f38c038abc017f31a54153e0c885b78,6.0,14.0,1.0,0.0
+93,Commit,ibus_ibus-anthy,2013-08-29 03:57:47,2335ca9049142408a7ce7cf9b5a83de006827452,8.0,3.0,1.0,0.0
+94,Commit,ibus_ibus-anthy,2013-08-29 03:57:44,3a237f806954f091164f6ccc9cdcb091900e156e,32.0,19.0,3.0,0.0
+95,Commit,ibus_ibus-anthy,2013-08-29 03:57:40,17d8871211a531c755cd4397a75f4892222412ff,68.0,42.0,5.0,0.0
+96,Commit,ibus_ibus-anthy,2013-08-29 03:57:36,e1a94ef87577a38b3402a0ebaa1f0e5088f99c2a,140.0,140.0,28.0,0.0
+97,Commit,ibus_ibus-anthy,2013-08-29 03:57:27,c5b47a31c1d5556990024b21476fa8accc1ded24,635.0,138.0,4.0,0.0
+98,Commit,ibus_ibus-anthy,2013-08-29 03:57:17,d62eb73a03fc0fc264eb1eb7dc06c21aca67d40f,215.0,262.0,4.0,0.0
+99,Commit,ibus_ibus-anthy,2013-08-19 16:40:34,a6d2c590d750f00c0678d0620e500e761ba71ba9,24.0,0.0,1.0,0.0
+100,Commit,ibus_ibus-anthy,2013-08-19 14:25:04,907ec406cc3e919c39690799940956a1da895394,377.0,377.0,2.0,0.0
+101,Commit,ibus_ibus-anthy,2013-07-08 07:11:42,2ff24999599d34abf0c1f2c9da683232065c4154,1.0,0.0,1.0,0.0
+102,Commit,ibus_ibus-anthy,2013-06-19 04:48:39,db50a2b8939a98be15de6dad5eb4e0d1ce232da7,41.0,17.0,4.0,0.0
+103,Commit,ibus_ibus-anthy,2013-06-19 03:18:36,579229e2cfe9c13396abaa7adc3e5a963bfd726a,42.0,16.0,4.0,0.0
+104,Commit,ibus_ibus-anthy,2013-06-14 01:45:56,75801eaa24eef877d5b5cdda7363094f1b75ced8,2.0,0.0,1.0,0.0
+105,Commit,ibus_ibus-anthy,2013-05-14 08:14:59,7f06fd6cd46e00abcf7431dfd6e0fb0aa4df61ad,6.0,6.0,4.0,0.0
+106,Commit,ibus_ibus-anthy,2013-05-13 05:46:00,46a4942d0cbe8e094d9bfa8d7b08cdf06dd1f73a,4.0,7.0,1.0,0.0
+107,Commit,ibus_ibus-anthy,2013-05-13 03:48:14,d2a596732c80973465ffdb61242597b5189c1aba,1.0,1.0,1.0,0.0
+108,Commit,ibus_ibus-anthy,2013-05-13 01:52:20,4f5a40fe1a689ff5baab8716d987bd57075f1ac9,17.0,8.0,3.0,0.0
+109,Commit,ibus_ibus-anthy,2013-05-13 00:14:26,32c26ab0fffb52aa5df8f529f4697b17ab9f29e2,53.0,16.0,3.0,0.0
+110,Commit,ibus_ibus-anthy,2013-05-11 12:35:16,b5502cfcfb0ff57c434e09d3e55877ff5495fd47,1.0,1.0,1.0,0.0
+111,Commit,ibus_ibus-anthy,2013-05-11 12:34:15,f609a0ff4e150a6ad1cfa81363ef1d1fea89bb5d,40.0,2.0,1.0,0.0
+112,Commit,ibus_ibus-anthy,2013-05-11 09:03:02,37caf0b0d9afefad1055846dd3e4389fd4f2a792,14.0,4.0,4.0,0.0
+113,Commit,ibus_ibus-anthy,2013-05-11 08:59:25,d363288fac669fb2528b0bb01d4cd154b1c8bbee,1.0,1.0,1.0,0.0
+114,Commit,ibus_ibus-anthy,2013-05-10 12:44:12,50f4b9dd7bfe3ba7a687c682bb517240f9d5b866,13.0,9.0,1.0,0.0
+115,Commit,ibus_ibus-anthy,2013-05-10 12:43:13,fdb34be148bf8896a8bd08a54534417dfe9f0dbf,0.0,1.0,1.0,0.0
+116,Commit,ibus_ibus-anthy,2013-05-10 10:27:15,1b9c3db06f60fcad4b8df4819c92ced7292a5e70,129.0,123.0,1.0,0.0
+117,Commit,ibus_ibus-anthy,2013-05-09 15:54:57,9e3037efdc5cbfa1227fb0d6c442e02f1cec8824,691.0,672.0,4.0,0.0
+118,Commit,ibus_ibus-anthy,2013-05-09 15:49:32,faadb94d226a2876adc3246ee33ee77f5208da79,312.0,205.0,7.0,0.0
+119,Commit,ibus_ibus-anthy,2013-05-09 04:52:31,dbb75a72894145cad1de4fc53a067fffa0816cab,63.0,63.0,34.0,0.0
+120,Commit,ibus_ibus-anthy,2013-05-07 03:16:12,71fa48c6aeae129297a1c430d6187735c61828d6,2.0,1.0,1.0,0.0
+121,Commit,ibus_ibus-anthy,2013-03-14 08:43:22,a0066d98c5340bcfa202beaf967702a74484a122,14.0,12.0,3.0,0.0
+122,Commit,ibus_ibus-anthy,2013-02-20 09:16:56,18415352643a88e4609d466eb0ba00739b3b5f87,11.0,14.0,3.0,0.0
+123,Commit,ibus_ibus-anthy,2013-02-08 07:39:12,2690b6ccb27cb14a8878b8ce1bf4540ae6c78b40,1.0,1.0,1.0,0.0
+124,Commit,ibus_ibus-anthy,2013-01-21 15:14:49,63745ac30aa452b55433656087646f9e2d8a638c,25.0,1.0,2.0,0.0
+125,Commit,ibus_ibus-anthy,2013-01-07 03:42:50,c60ece97c3751cfcee0e2bf98ea19971623fa8b1,7.0,11.0,3.0,0.0
+126,Commit,ibus_ibus-anthy,2012-12-30 15:42:29,93a85649a556d52f688df1fc818bf4b910cec1c5,3.0,3.0,1.0,0.0
+127,Commit,ibus_ibus-anthy,2012-12-30 15:31:50,ccc32ee73eb600bb1aabe60eafe7696c5ea1a16d,81.0,2.0,4.0,0.0
+128,Commit,ibus_ibus-anthy,2012-12-25 09:46:51,83d02bc6ce75e3f76eceffd2b0f234bde34e6a14,119.0,119.0,1.0,0.0
+129,Commit,ibus_ibus-anthy,2012-12-25 06:45:46,ceae69b7d49ae7d3c109e35e44fd5ae310cba150,811.0,735.0,4.0,0.0
+130,Commit,ibus_ibus-anthy,2012-12-25 06:27:20,e0c973ba136d34e1e6d4dd8e2832509c5003c49b,565.0,373.0,6.0,0.0
+131,Commit,ibus_ibus-anthy,2012-12-25 06:05:20,1c632f884565d30fd3ba9689f93e7582608e6edd,32.0,5.0,6.0,0.0
+132,Commit,ibus_ibus-anthy,2012-12-19 11:38:09,29e42960417d42b1ea6e2fd2c79cda5a68118846,757.0,0.0,2.0,0.0
+133,Commit,ibus_ibus-anthy,2012-12-12 12:02:33,80853b7b8b1f7c7bfe9bfc125ad55491925f6c8c,0.0,2.0,1.0,0.0
+134,Commit,ibus_ibus-anthy,2012-12-05 06:27:54,4e9bc6c81cf26bef2eadc2692f78f2d65599ce83,1.0,1.0,1.0,0.0
+135,Commit,ibus_ibus-anthy,2012-10-26 01:28:18,16f5dfd3f284941cc2f692a277329ee615efb2d4,147.0,125.0,3.0,0.0
+136,Commit,ibus_ibus-anthy,2012-10-26 01:23:04,d977caad9bf7c52ba201becdd037496f0514b23e,288.0,279.0,3.0,0.0
+137,Commit,ibus_ibus-anthy,2012-10-26 01:22:44,4183ae6407274e6b6e70623aaa531f55f1c6b130,541.0,327.0,6.0,0.0
+138,Commit,ibus_ibus-anthy,2012-10-24 01:28:51,aa669840d3084489f5e9613c184600565dff9825,71.0,50.0,1.0,0.0
+139,Commit,ibus_ibus-anthy,2012-10-19 08:42:23,d5fd7c7277ca7116181e35a325a1234ded7368c2,195.0,8.0,4.0,0.0
+140,Commit,ibus_ibus-anthy,2012-10-19 08:41:56,3800c47df3c2a7306f37589647d67220f8426524,128.0,46.0,5.0,0.0
+141,Commit,ibus_ibus-anthy,2012-10-16 01:22:51,1765e872691080d8dc6f3f7997443c84aa629fe9,2.0,0.0,1.0,0.0
+142,Commit,ibus_ibus-anthy,2012-10-06 12:58:37,422ae1e1239cce300430c4f84da98fb9e03ab5d0,12.0,9.0,3.0,0.0
+143,Commit,ibus_ibus-anthy,2012-10-05 16:29:11,e685f0182f205e3daf75d55a7e53cebdb173bc61,127.0,133.0,1.0,0.0
+144,Commit,ibus_ibus-anthy,2012-10-05 12:42:00,fd07465a6fdd25ed6b5ee17bd7e52f3b386c812b,527.0,387.0,3.0,0.0
+145,Commit,ibus_ibus-anthy,2012-10-05 12:24:54,acaaa1578cbff50806bbd977e42b37f6358b0734,454.0,179.0,13.0,0.0
+146,Commit,ibus_ibus-anthy,2012-10-02 06:18:00,70dc912db827c333995c09e06dda88ab076e792d,3.0,2.0,1.0,0.0
+147,Commit,ibus_ibus-anthy,2012-09-14 02:40:57,7f5a9dc9942b52381d6ab7b4f6c9009057a2c759,172.0,96.0,4.0,0.0
+148,Commit,ibus_ibus-anthy,2012-09-12 02:31:04,82dd7dd6c1511002296c3b9d4d8487e22eb0700d,251.0,254.0,6.0,0.0
+149,Commit,ibus_ibus-anthy,2012-09-12 02:26:28,f03a8ec1e134535482a960c329298d122662e830,17.0,7.0,1.0,0.0
+150,Commit,ibus_ibus-anthy,2012-09-11 10:05:47,6a86f52e21e6893beee2a7d9f747a0326dc0ba86,22.0,2.0,1.0,0.0
+151,Commit,ibus_ibus-anthy,2012-09-11 09:41:20,a3b1609171b3ab44a640b0675177cf6ae2ea840d,24.0,0.0,3.0,0.0
+152,Commit,ibus_ibus-anthy,2012-09-11 09:40:29,ca75b950777a27b7244e028b5874db0ffc33f1ac,14.0,2.0,1.0,0.0
+153,Commit,ibus_ibus-anthy,2012-07-12 10:37:50,6fbeb9223b4fa942933f4ceaea0c25161b1e6e55,203.0,6.0,6.0,0.0
+154,Commit,ibus_ibus-anthy,2012-07-10 02:49:37,3947c625ffd89dfe269e78a4ce9de98f1cd91a2e,503.0,454.0,7.0,0.0
+155,Commit,ibus_ibus-anthy,2012-07-09 06:36:42,c2e158ad896f40202927610b87220159da4af84f,59.0,32.0,5.0,0.0
+156,Commit,ibus_ibus-anthy,2012-07-06 02:55:29,f129804fe1103fbc89f3322f89bfb4f7ffa6e984,121.0,86.0,5.0,0.0
+157,Commit,ibus_ibus-anthy,2012-07-04 10:46:02,d47e8aeb29efdbba15649b48eea622c76a6083cc,33.0,16.0,2.0,0.0
+158,Commit,ibus_ibus-anthy,2012-06-29 02:42:34,bc89d1214988f4a2fc86d308b95492ea1203aa9c,3.0,3.0,1.0,0.0
+159,Commit,ibus_ibus-anthy,2012-05-08 04:13:49,ca10d184d1345c2943d2d0757bf7893d82825019,19.0,7.0,2.0,0.0
+160,Commit,ibus_ibus-anthy,2012-03-27 04:22:23,e835629a970eb788f773038c6fc05aaf3bfc7835,2.0,2.0,1.0,0.0
+161,Commit,ibus_ibus-anthy,2012-03-27 03:35:32,3c1d831b3418926e3b19b5095e3a4878f1fbb5cc,55.0,2.0,1.0,0.0
+162,Commit,ibus_ibus-anthy,2012-03-27 03:14:21,5e5432995d9fb0af137eecbc20f71f20815462ba,52.0,30.0,27.0,0.0
+163,Commit,ibus_ibus-anthy,2012-03-27 02:58:23,09e24c6dcd3e9a34fdecfb9989b89b2e0d4d7dc0,25.0,17.0,1.0,0.0
+164,Commit,ibus_ibus-anthy,2012-03-24 11:31:31,04ea5ef649c71bf5c9f049fe841a8618d36e2b2d,60.0,65.0,1.0,0.0
+165,Commit,ibus_ibus-anthy,2012-03-05 05:03:44,3947560ec6bc1f6f7ab08db8cfdc9827c273cb95,73.0,1.0,1.0,0.0
+166,Commit,ibus_ibus-anthy,2012-03-05 05:03:34,5ecd67f59c8aa8993dc6eb9afeb66c330b1eb8c8,5276.0,4045.0,31.0,0.0
+167,Commit,ibus_ibus-anthy,2012-03-05 04:07:24,85e1b094985d6f8f61d324f45cf893c7c63c38b5,1.0,1.0,1.0,0.0
+168,Commit,ibus_ibus-anthy,2012-02-06 06:53:45,f3ec209c0ad49a35afb1ce9d37ad6be9dddf2aba,16.0,1.0,2.0,0.0
+169,Commit,ibus_ibus-anthy,2011-08-08 08:27:55,dc810769a06be481c364a5f7f2835068af7694eb,48.0,0.0,3.0,0.0
+170,Commit,ibus_ibus-anthy,2011-08-08 04:56:02,0faaa05ea0627e1b8a849ca5b6ab4492fb217bac,22.0,2.0,2.0,0.0
+171,Commit,ibus_ibus-anthy,2011-08-08 04:54:30,6be08c9dca0a36564f5e483843047e06cbae0905,1.0,1.0,1.0,0.0
+172,Commit,ibus_ibus-anthy,2011-05-16 02:01:04,ff016097f53b00bde1f9fc69e6242ed31b20ff1c,1.0,1.0,1.0,0.0
+173,Commit,ibus_ibus-anthy,2011-05-13 12:04:23,51ca600061a580ff415fb3ab54fe784afa8804e8,1.0,2.0,1.0,0.0
+174,Commit,ibus_ibus-anthy,2011-05-13 12:02:56,1cdf70275e1e034bdcf49a25e60813398096de8f,5.0,4.0,1.0,0.0
+175,Commit,ibus_ibus-anthy,2011-05-13 06:27:35,9df35978cc736accb5b647b1d293cc350aae1373,686.0,0.0,1.0,0.0
+176,Commit,ibus_ibus-anthy,2011-05-13 05:51:01,1cdc0b5bdf804c924f34a572ef552c1604555802,252.0,240.0,3.0,0.0
+177,Commit,ibus_ibus-anthy,2011-05-13 01:33:20,a86df1b6d8fc0552c82fd3e63f003566444e0014,70.0,2.0,6.0,0.0
+178,Commit,ibus_ibus-anthy,2011-05-12 05:16:29,35f0898601caf39bc5a5c71765f734f5b749a3e1,54.0,2.0,1.0,0.0
+179,Commit,ibus_ibus-anthy,2011-01-17 05:16:47,acf1189284ad7b9fe9f76afc9a972057124b386f,30.0,29.0,26.0,0.0
+180,Commit,ibus_ibus-anthy,2010-12-17 01:19:42,35e2d3a76f6d40d293a470c835e7383912acef98,253.0,0.0,7.0,0.0
+181,Commit,ibus_ibus-anthy,2010-12-10 05:54:15,70633cda85851e0cdd6353d553649cbb51200a5c,3.0,0.0,1.0,0.0
+182,Commit,ibus_ibus-anthy,2010-12-01 05:39:26,797b4a230935036498ec71378700f0babe00a9ca,1.0,1.0,1.0,0.0
+183,Commit,ibus_ibus-anthy,2010-11-25 10:02:32,d58f2b95400d0474fc6744987943a502f960c00f,8.0,4.0,1.0,0.0
+184,Commit,ibus_ibus-anthy,2010-11-23 09:33:58,ef1a6edef6bd269677b57aa243dd6dd2e9a221a9,16.0,0.0,2.0,0.0
+185,Commit,ibus_ibus-anthy,2010-11-23 09:01:56,f8f201c12fbd2af2154e13d5d46bff67f714179d,135.0,43.0,6.0,0.0
+186,Commit,ibus_ibus-anthy,2010-11-15 04:25:11,aaa2f6ad0ff5da7915b33b5d30ded25def187e7c,4.0,18.0,2.0,0.0
+187,Commit,ibus_ibus-anthy,2010-11-15 04:24:22,fec83a2862a021a4cda94a07abd16b151c5f1525,3.0,0.0,1.0,0.0
+188,Commit,ibus_ibus-anthy,2010-10-28 09:54:42,8e3306424226f907aa585427689193ae7b0f9d74,30.0,4.0,1.0,0.0
+189,Commit,ibus_ibus-anthy,2010-10-26 06:44:07,325e69f5abb193c6127bdeb3ad738e17c1cfcb8a,9.0,5.0,2.0,0.0
+190,Commit,ibus_ibus-anthy,2010-10-26 02:11:35,0a8ec8bd4d68c75f407963c2196e69acb5299ab1,1.0,1.0,1.0,0.0
+191,Commit,ibus_ibus-anthy,2010-10-25 05:26:59,35f2731281f4b1f71bdd54f75df75f853a6bb02b,4.0,0.0,1.0,0.0
+192,Commit,ibus_ibus-anthy,2010-10-25 01:40:38,e6696d8920798b69d7b288ed0cd4b710131d9e4b,2.0,2.0,2.0,0.0
+193,Commit,ibus_ibus-anthy,2010-10-21 02:31:13,91ddf1fe0a88a97bbc34d248ef675761c5ef2d2e,14.0,6.0,3.0,0.0
+194,Commit,ibus_ibus-anthy,2010-10-21 02:29:15,9901e45ca39834a0c7066ca05c0d325f7869539f,78.0,80.0,4.0,0.0
+195,Commit,ibus_ibus-anthy,2010-10-21 02:20:36,2850985d49e7fe412b45e4f1a187c19360a9be3e,2.0,2.0,1.0,0.0
+196,Commit,ibus_ibus-anthy,2010-10-19 01:44:40,c1c3731e256fc2223f9c312c148195d7202581e1,3.0,1.0,2.0,0.0
+197,Commit,ibus_ibus-anthy,2010-10-19 01:44:12,3d1ac32900bfc72e1345f4afcea5615d07157919,1.0,0.0,1.0,0.0
+198,Commit,ibus_ibus-anthy,2010-10-16 14:13:54,67916c71f1b58483ddc3bc19b8cf43b016908533,2.0,2.0,1.0,0.0
+199,Commit,ibus_ibus-anthy,2010-10-16 13:11:06,fa5e3252123aaefd5d53da7b37b94e0c687de94c,75.0,106.0,1.0,0.0
+200,Commit,ibus_ibus-anthy,2010-10-15 09:20:13,63ab8ce17f75a01e8def7b97b1ffd56e8b7339bb,893.0,395.0,4.0,0.0
+201,Commit,ibus_ibus-anthy,2010-10-15 09:08:39,4899169b33e41542d5ed59ef9355178e2f14db6e,41.0,11.0,4.0,0.0
+202,Commit,ibus_ibus-anthy,2010-10-15 08:02:33,35de39bf7fb43d429672b30996adaf65e6a7de4a,4.0,4.0,3.0,0.0
+203,Commit,ibus_ibus-anthy,2010-10-15 07:50:21,609de132807b7c36b9db3ad16905b908f877f67e,84.0,3.0,2.0,0.0
+204,Commit,ibus_ibus-anthy,2010-10-15 04:04:19,ddaf0a50acde55db87ff007c92ced28be1550cfd,1628.0,84.0,8.0,0.0
+205,Commit,ibus_ibus-anthy,2010-10-12 02:28:39,db8a7878f30d5dc528487063403db8757b934986,0.0,0.0,2.0,0.0
+206,Commit,ibus_ibus-anthy,2010-10-12 02:19:29,f7f89e9bbd305994008db422b523dab67a6694d7,6.0,7.0,3.0,0.0
+207,Commit,ibus_ibus-anthy,2010-06-05 04:58:21,cf6bba87884933cc8d0f96b11b63dd12eae0eee2,1.0,1.0,1.0,0.0
+208,Commit,ibus_ibus-anthy,2010-04-26 05:26:41,9c70d6ba2c3f346add0fa72fc55ca7899b5fc98e,3.0,3.0,2.0,0.0
+209,Commit,ibus_ibus-anthy,2010-04-23 01:38:36,34030e3f1115e34e5dd9c9c419ac4bb73bf62d09,4.0,5.0,1.0,0.0
+210,Commit,ibus_ibus-anthy,2010-04-19 01:15:16,c7e237e3e3110a5b5d321e31546812e08842e046,14.0,9.0,4.0,0.0
+211,Commit,ibus_ibus-anthy,2010-04-16 13:47:42,ec9cda8a73caf5dad6a6a0da5d5813fbd8887169,6.0,3.0,1.0,0.0
+212,Commit,ibus_ibus-anthy,2010-04-16 13:36:32,b259ba4db902d492d0676e1760f1d129a0c1e4c5,74.0,21.0,6.0,0.0
+213,Commit,ibus_ibus-anthy,2010-04-10 16:26:00,f6c1d1dde7179c26d07f8d7c9558866e6acb1886,0.0,0.0,1.0,0.0
+214,Commit,ibus_ibus-anthy,2010-04-05 06:20:39,6ee44a752a2852ae6d661d541502af37bfbd0ba3,8.0,1.0,1.0,0.0
+215,Commit,ibus_ibus-anthy,2010-03-13 00:20:08,f6edf40762342bd1c92d26ba4fc4e089fd7bf1be,88.0,76.0,2.0,0.0
+216,Commit,ibus_ibus-anthy,2010-03-12 04:45:56,9c00e1841bfbba51e0a87b5b709483086148a82d,1.0,1.0,1.0,0.0
+217,Commit,ibus_ibus-anthy,2010-03-12 03:05:13,df32fd5eade22a7c8606a283b2cb437b89dc25a1,24.0,10.0,3.0,0.0
+218,Commit,ibus_ibus-anthy,2010-03-11 15:21:09,582a091c53ea0d4a77ea2b0f144921c61a888a02,74.0,71.0,1.0,0.0
+219,Commit,ibus_ibus-anthy,2010-03-11 13:46:44,915873192f128bd0717939af1dfa80e654dde501,941.0,183.0,3.0,0.0
+220,Commit,ibus_ibus-anthy,2010-03-11 13:31:48,0b8a908719588d202bd83c85dc2052f5144bb691,149.0,22.0,4.0,0.0
+221,Commit,ibus_ibus-anthy,2010-03-11 10:22:15,f8c60a9844df6da08cc0327b62dec6917961dfc4,1439.0,30.0,7.0,0.0
+222,Commit,ibus_ibus-anthy,2010-03-11 10:21:40,1c30de7977d789d084df6122b73f9dc6a4b44f26,609.0,3.0,4.0,0.0
+223,Commit,ibus_ibus-anthy,2010-03-05 01:23:36,e030899c294b1bbb99f385e960b51a1a8d5909a4,824.0,44.0,6.0,0.0
+224,Commit,ibus_ibus-anthy,2010-02-16 01:35:00,34b256da4ce65ca5479906cf906971e13fef1b8a,57.0,14.0,2.0,0.0
+225,Commit,ibus_ibus-anthy,2010-02-12 07:44:09,9f67c6def39759acefd5b877226a1b407685047c,14.0,5.0,1.0,0.0
+226,Commit,ibus_ibus-anthy,2010-02-12 01:42:18,866a2668eb3d0f5fb237ca1b32f745b35935d968,28.0,9.0,3.0,0.0
+227,Commit,ibus_ibus-anthy,2010-02-12 01:24:12,afde33eb8a14d7922e475a967d66ba230c519af0,25.0,6.0,1.0,0.0
+228,Commit,ibus_ibus-anthy,2010-02-04 07:53:08,660f970b03ef188a37f0a00e2598c1721b7a9bd8,1.0,0.0,1.0,0.0
+229,Commit,ibus_ibus-anthy,2010-01-15 03:20:06,2d3be0aa51ce6a5fe116dd3e216aaf0eabdfd58e,10.0,0.0,1.0,0.0
+230,Commit,ibus_ibus-anthy,2010-01-15 02:21:32,e21b1fc31da27d27dc8c8b08cef780cf0725b937,25.0,4.0,2.0,0.0
+231,Commit,ibus_ibus-anthy,2010-01-14 16:33:34,6e95720cefb8da30ada3c686df8f9c636b2418bd,1.0,1.0,1.0,0.0
+232,Commit,ibus_ibus-anthy,2010-01-14 16:28:57,879d7499c0e8971cdab4de5985a4b5d2fa917847,160.0,0.0,1.0,0.0
+233,Commit,ibus_ibus-anthy,2010-01-14 16:02:52,e13d48df80614c372a9785239781002627c575da,90.0,90.0,3.0,0.0
+234,Commit,ibus_ibus-anthy,2010-01-14 15:54:22,c582132ab69cb1c092a8e667bf0ec99645aff0d4,47.0,11.0,5.0,0.0
+235,Commit,ibus_ibus-anthy,2010-01-14 05:04:53,4fe1e6d1c32f0450218098f6cd947be37852edf5,8.0,8.0,1.0,0.0
+236,Commit,ibus_ibus-anthy,2010-01-14 04:20:28,24ee4689479cf2d048a8554a60984dcec152c919,162.0,52.0,27.0,0.0
+237,Commit,ibus_ibus-anthy,2010-01-13 14:04:14,e1893737066698ae442c4c7f65f82adabfd455d5,5.0,5.0,4.0,0.0
+238,Commit,ibus_ibus-anthy,2010-01-13 13:07:17,012a4d8a87e19263be25d4523fbf36884044102a,10.0,10.0,1.0,0.0
+239,Commit,ibus_ibus-anthy,2010-01-13 04:01:31,bb4ec215022956ffd50628f66ddd349addde8b91,111.0,36.0,3.0,0.0
+240,Commit,ibus_ibus-anthy,2010-01-13 03:51:30,b3129181a0da8c424d68050c94f44f582d9fc275,57.0,5.0,1.0,0.0
+241,Commit,ibus_ibus-anthy,2009-12-07 04:45:19,3663a5ed2e9e185d099829103bbaf6141e2c6185,22.0,20.0,2.0,0.0
+242,Commit,ibus_ibus-anthy,2009-12-01 02:35:58,ea646e27ddfb64f15c247f09fbd329d60afec291,11.0,2.0,1.0,0.0
+243,Commit,ibus_ibus-anthy,2009-11-24 07:07:54,baffd94317ab56e2a947357e9cb1c2ef4dc8259d,34.0,21.0,3.0,0.0
+244,Commit,ibus_ibus-anthy,2009-11-24 07:06:02,66289944d40ad8c11d288fea9cdc03dcce5ddc27,1.0,1.0,1.0,0.0
+245,Commit,ibus_ibus-anthy,2009-11-24 06:51:43,6665dac9c02b8d4fe9dda5e1df2a36680fa47bc2,62.0,20.0,4.0,0.0
+246,Commit,ibus_ibus-anthy,2009-11-24 06:42:29,33ad32c26e1a9c73ae0e7329de201e26626817a0,5.0,3.0,1.0,0.0
+247,Commit,ibus_ibus-anthy,2009-11-20 10:30:37,68ed9d15467f1f1451cccecb9d1b3198884cf9d8,1.0,1.0,1.0,0.0
+248,Commit,ibus_ibus-anthy,2009-11-20 09:30:20,94d89ef2841f9f2a700fe4cb3af8667eb670ccc2,0.0,0.0,0.0,0.0
+249,Commit,ibus_ibus-anthy,2009-10-21 06:57:39,302cc389550f56a42c6bc989ccf44abdcdefda0c,11.0,6.0,1.0,0.0
+250,Commit,ibus_ibus-anthy,2009-10-21 06:47:17,088d2d9167bc7492c0d2896e4659cc37c82c17d3,449.0,440.0,10.0,0.0
+251,Commit,ibus_ibus-anthy,2009-09-19 01:40:37,72b550e424c962d07783594bd0bbe4f808cde91e,1.0,72.0,3.0,0.0
+252,Commit,ibus_ibus-anthy,2009-09-17 11:08:55,f09d05126c3d5dfbd2f7e29aec41cc186b0fc49f,0.0,0.0,0.0,0.0
+253,Commit,ibus_ibus-anthy,2009-09-17 04:58:36,f6dae6ed81f38496ec62f657b69de681e02f86c8,31.0,30.0,5.0,0.0
+254,Commit,ibus_ibus-anthy,2009-09-16 17:19:27,8c0d109421483b3769fd18b106e94f0e640b435e,10.0,10.0,1.0,0.0
+255,Commit,ibus_ibus-anthy,2009-09-16 17:18:22,bbd10231f864278e59b864dbd5a7b0ab6386f57d,4.0,3.0,1.0,0.0
+256,Commit,ibus_ibus-anthy,2009-09-16 14:02:50,4d85ae841be02eed0ab445429b5ce49c0d616eb4,0.0,0.0,0.0,0.0
+257,Commit,ibus_ibus-anthy,2009-09-16 13:59:31,007bec06be96146b2151e5539d981602a4d14ae0,72.0,1.0,3.0,0.0
+258,Commit,ibus_ibus-anthy,2009-09-16 09:54:45,03c6086d3f6c43a40581eeb792a0a85f726cb55c,32.0,20.0,3.0,0.0
+259,Commit,ibus_ibus-anthy,2009-09-11 11:42:12,048ee7090317bfefea29d7054eac2d39bd8d6a01,27.0,7.0,1.0,0.0
+260,Commit,ibus_ibus-anthy,2009-09-10 12:10:03,667ae731671e24d141d0bbb034f3522008e0422b,40.0,0.0,2.0,0.0
+261,Commit,ibus_ibus-anthy,2009-09-10 06:44:42,f1e7adfc74b938e6b2bcba8b2a3f14593765f279,439.0,325.0,7.0,0.0
+262,Commit,ibus_ibus-anthy,2009-09-08 06:17:24,45693eb92cdeb52c928d70f36dad1b42614a3083,40.0,12.0,1.0,0.0
+263,Commit,ibus_ibus-anthy,2009-09-08 03:48:03,8d3622f810e5ba887aaa23329dac6f269b37ca98,0.0,0.0,0.0,0.0
+264,Commit,ibus_ibus-anthy,2009-09-08 00:24:11,7e89d3e364331a4c88015d88bb105642bb55a8f3,0.0,0.0,0.0,0.0
+265,Commit,ibus_ibus-anthy,2009-09-07 14:19:54,4a9511c2691b83fc7f7e02e693e44ff9c80f9c34,5.0,4.0,1.0,0.0
+266,Commit,ibus_ibus-anthy,2009-09-07 02:37:46,627a6346eeebea547adb547e6254983cea6bc429,1.0,1.0,1.0,0.0
+267,Commit,ibus_ibus-anthy,2009-09-06 03:51:26,22c91cc35c5ee1807ea30fa4b39ff33a136dca76,8.0,8.0,1.0,0.0
+268,Commit,ibus_ibus-anthy,2009-09-04 14:50:11,b78da803de4aa7d8f23255d9766ef3101f46b381,4.0,3.0,1.0,0.0
+269,Commit,ibus_ibus-anthy,2009-09-04 13:55:43,085c61140df7a1a78a85981c255189954efbd897,2.0,0.0,1.0,0.0
+270,Commit,ibus_ibus-anthy,2009-09-02 10:24:38,d34e39294edcdff7ca90412eb8e30fa3013570d3,171.0,148.0,5.0,0.0
+271,Commit,ibus_ibus-anthy,2009-09-02 10:01:51,6347fc86b2ad1fe9a680143613d1de767ebf3296,0.0,0.0,0.0,0.0
+272,Commit,ibus_ibus-anthy,2009-08-31 13:52:15,cd5ddf41e42a38adf8850bb891bb21caa3fb7983,291.0,5.0,4.0,0.0
+273,Commit,ibus_ibus-anthy,2009-08-20 09:25:30,be41a363875937a9afefb52448cfe23ac18f3596,9.0,2.0,3.0,0.0
+274,Commit,ibus_ibus-anthy,2009-08-20 08:44:06,3865f09899c69e671fe00d55e0ff61615188476d,1.0,1.0,1.0,0.0
+275,Commit,ibus_ibus-anthy,2009-08-19 02:25:15,d5ff1b291c4d17b2f1ac643c90f55a8f13f03991,4.0,1.0,1.0,0.0
+276,Commit,ibus_ibus-anthy,2009-08-14 01:32:18,e2e52b28ea138f946d5819b385382c1c8005e094,6.0,6.0,1.0,0.0
+277,Commit,ibus_ibus-anthy,2009-08-13 01:17:33,c77c9c8129900533e8415c5cc8dceb0327f37c6f,5.0,1.0,1.0,0.0
+278,Commit,ibus_ibus-anthy,2009-08-12 09:07:47,2e4bf57cf5625ad825a86b55fdfbce39eab360ab,94.0,3.0,1.0,0.0
+279,Commit,ibus_ibus-anthy,2009-07-23 06:15:45,de5a8392910777c72e42120ef4d8206b0c6d7014,3.0,9.0,1.0,0.0
+280,Commit,ibus_ibus-anthy,2009-07-22 02:48:56,5f6fabc10d33a9bee0de43d851d20b6664b6ef8c,9.0,0.0,2.0,0.0
+281,Commit,ibus_ibus-anthy,2009-07-06 02:51:47,030d0a1deb9a0ec187e01ebfba8d1426e9d55d60,1.0,0.0,1.0,0.0
+282,Commit,ibus_ibus-anthy,2009-06-25 07:37:28,744b98aea6c9a864302fc66976f15249d2a849f8,0.0,0.0,0.0,0.0
+283,Commit,ibus_ibus-anthy,2009-06-25 07:19:59,7dc23e67974ce7cc182b32def1260a486cc9b50e,0.0,0.0,0.0,0.0
+284,Commit,ibus_ibus-anthy,2009-06-25 07:06:38,d55ed0bbd0f8498c11d275a9d1d860a94a3e64b1,1.0,1.0,1.0,0.0
+285,Commit,ibus_ibus-anthy,2009-06-17 09:23:27,7224a6d4d2309e6c42df52f3a039540bdebc3f02,0.0,0.0,0.0,0.0
+286,Commit,ibus_ibus-anthy,2009-06-17 08:56:19,cd52370442c94814a67e10b28b9fc85d3c128d71,0.0,0.0,0.0,0.0
+287,Commit,ibus_ibus-anthy,2009-06-17 07:57:32,1ab43e76bfbad4f96c8a506f41c72efcf5c44b8f,11.0,6.0,2.0,0.0
+288,Commit,ibus_ibus-anthy,2009-06-17 06:18:47,2bd39435adbe329c46acd2cb18a6cd180cf02b5f,22.0,12.0,1.0,0.0
+289,Commit,ibus_ibus-anthy,2009-06-14 06:47:14,8acfe8de97a0099aab0b3724c3a95fd409aba6be,2.0,2.0,2.0,0.0
+290,Commit,ibus_ibus-anthy,2009-06-14 05:51:33,79083667175ae91bdd1d9171e3ee55b84f2f2a27,1.0,1.0,1.0,0.0
+291,Commit,ibus_ibus-anthy,2009-06-12 03:03:32,78860e65cdd46152cc576db01597d8d01db03504,9.0,2.0,1.0,0.0
+292,Commit,ibus_ibus-anthy,2009-06-09 02:04:08,98e56a85635cdbe2d02c681c2e3b04c06f8a2027,272.0,137.0,2.0,0.0
+293,Commit,ibus_ibus-anthy,2009-06-06 02:56:30,e9c356983cf3e06ad3c67392ca558b221f119257,542.0,341.0,7.0,0.0
+294,Commit,ibus_ibus-anthy,2009-06-03 12:17:09,eede04867dacd2afb657b603cdd42187658b501d,0.0,0.0,0.0,0.0
+295,Commit,ibus_ibus-anthy,2009-06-03 12:05:50,d4faf16b47a28d74944eb78676eb786c9d2c4c68,0.0,0.0,0.0,0.0
+296,Commit,ibus_ibus-anthy,2009-06-03 11:58:32,5f4f3b4d0ae62a677588722af8d2311898efc510,3.0,0.0,1.0,0.0
+297,Commit,ibus_ibus-anthy,2009-06-03 03:50:13,911290f1b209fd70f7d3243e766cd8417a5a4387,4.0,1.0,1.0,0.0
+298,Commit,ibus_ibus-anthy,2009-06-03 01:25:06,0a4f6d6914521e33d27bfe47880bad52698a682d,0.0,0.0,0.0,0.0
+299,Commit,ibus_ibus-anthy,2009-06-02 13:41:51,24f6a22f403f0dd446cdc3e2e1ba938e60e0cda2,12.0,5.0,2.0,0.0
+300,Commit,ibus_ibus-anthy,2009-06-02 12:58:07,b2caa17074633dbe221db5e049a364e8c02163aa,3.0,0.0,1.0,0.0
+301,Commit,ibus_ibus-anthy,2009-06-02 02:11:37,0afbf6500ca414ed4a2242fcf7607a1f8d840f97,0.0,0.0,0.0,0.0
+302,Commit,ibus_ibus-anthy,2009-06-02 01:58:46,b08c6836a6a46f87d42717d654a7d3c56a937c97,0.0,0.0,0.0,0.0
+303,Commit,ibus_ibus-anthy,2009-06-02 00:45:02,9a2b0369493ce74f2529633e4d0baefbee81215c,20.0,25.0,4.0,0.0
+304,Commit,ibus_ibus-anthy,2009-06-01 06:51:48,6085129ec2ad6c5b5fe72778b219245fde930423,2.0,2.0,1.0,0.0
+305,Commit,ibus_ibus-anthy,2009-06-01 02:47:05,4099a0c22f0eecb220f950fc3d3780e937bfdca4,10.0,5.0,2.0,0.0
+306,Commit,ibus_ibus-anthy,2009-05-31 02:28:42,a7fbc51d64f4f0147d1a4d3f6d0a12e5afd7c969,8.0,3.0,1.0,0.0
+307,Commit,ibus_ibus-anthy,2009-05-30 07:04:46,b8113559288c08e2f279bccf4e1eadb35a95e8b9,2791.0,91.0,18.0,0.0
+308,Commit,ibus_ibus-anthy,2009-04-30 02:01:58,ba22c5983d2d7987db530f99ed7db65338d1b877,11.0,6.0,1.0,0.0
+309,Commit,ibus_ibus-anthy,2009-04-02 07:34:58,9a38d50b45154e028aeacb429934891e1d421f9e,1.0,1.0,1.0,0.0
+310,Commit,ibus_ibus-anthy,2009-04-02 07:34:00,59816253168605012a106ba70047907bb1ade3da,1.0,1.0,1.0,0.0
+311,Commit,ibus_ibus-anthy,2009-04-02 06:32:40,905cd3c54ff9fe58306541c837595cb841df9d0f,27.0,4.0,1.0,0.0
+312,Commit,ibus_ibus-anthy,2009-04-02 05:49:27,9e2cfeec319df46c6fb34043fd258108377b2c6d,40.0,0.0,1.0,0.0
+313,Commit,ibus_ibus-anthy,2009-03-20 10:36:28,499c63d824a1a5f951d15249e9753fca47e4f432,59.0,0.0,3.0,0.0
+314,Commit,ibus_ibus-anthy,2009-03-20 10:28:58,348ddc8b8d9a7265492f75c442f12f1045e9ea7a,2.0,2.0,1.0,0.0
+315,Commit,ibus_ibus-anthy,2009-02-24 09:19:01,07bab88246c8699d549b2f4646e4dcc58df7608a,1.0,1.0,1.0,0.0
+316,Commit,ibus_ibus-anthy,2009-02-24 08:44:22,5395579f434d7f5256474f0661369a0b25e0d760,1.0,0.0,1.0,0.0
+317,Commit,ibus_ibus-anthy,2009-02-18 11:38:01,291a7bb6bb051e1b1e71d64a59af9b3075d47706,1.0,1.0,1.0,0.0
+318,Commit,ibus_ibus-anthy,2009-02-09 02:28:45,de40431a13528860630036d8190e4d166e3876eb,1.0,1.0,1.0,0.0
+319,Commit,ibus_ibus-anthy,2009-02-07 03:44:38,5b7bd78a4df238d1c57c952b85ec46227ad0c86a,1.0,1.0,1.0,0.0
+320,Commit,ibus_ibus-anthy,2009-02-06 01:47:33,194feaf505333003664e8f7d134d25069fcbb3a3,13.0,4.0,3.0,0.0
+321,Commit,ibus_ibus-anthy,2009-02-05 07:25:13,5fc311c8a1195afca7a29006f8d3e785b35c6b00,128.0,78.0,9.0,0.0
+322,Commit,ibus_ibus-anthy,2009-01-20 11:49:51,87c79e5ebdbac37e6a7533f2d41a3905ca62692a,0.0,1.0,1.0,0.0
+323,Commit,ibus_ibus-anthy,2009-01-14 02:21:41,5d7b535d5b6ccbe129c2c76b038b4c9016c9b7ea,0.0,0.0,0.0,0.0
+324,Commit,ibus_ibus-anthy,2009-01-13 10:24:14,7d7382e1172a9eea4c62589ea4f2d2a19a3c4a28,10.0,0.0,2.0,0.0
+325,Commit,ibus_ibus-anthy,2009-01-13 09:54:56,cc633aca6b9e8638bb57ac3072f9d49dc876643b,5.0,5.0,1.0,0.0
+326,Commit,ibus_ibus-anthy,2009-01-13 09:50:49,31764f1f208178c890e3a8f33e50b8e971e9a111,11.0,0.0,1.0,0.0
+327,Commit,ibus_ibus-anthy,2008-10-23 06:33:42,5950579d59e2a04776fab64d5d05bf0e05706505,19.0,7.0,1.0,0.0
+328,Commit,ibus_ibus-anthy,2008-09-10 02:16:18,151f1f4ea685227c0381add295d96a7bd0bb82ad,6.0,6.0,1.0,0.0
+329,Commit,ibus_ibus-anthy,2008-09-09 10:40:51,2138830b9a5c950dcd8db23865a762e1157571fa,2.0,1.0,2.0,0.0
+330,Commit,ibus_ibus-anthy,2008-09-03 15:13:43,6ff7e73f6725bb26e535b3052a3de9490a6aa4c8,8.0,1.0,2.0,0.0
+331,Commit,ibus_ibus-anthy,2008-09-03 11:13:21,34f6bbec5bb73f84e0c228734878fee4a0d2c130,2.0,0.0,1.0,0.0
+332,Commit,ibus_ibus-anthy,2008-09-03 09:51:37,b68fd916d05fbe5c2be3aa79b8abb3f64d76d7ac,3.0,2.0,1.0,0.0
+333,Commit,ibus_ibus-anthy,2008-09-03 07:11:40,78daf05a54aba3c0d979bfe4f92ae514d9019332,19.0,7.0,1.0,0.0
+334,Commit,ibus_ibus-anthy,2008-09-03 07:10:37,294587606de7da0798aebd44b46a7f2bc5e4e62b,1.0,1.0,1.0,0.0
+335,Commit,ibus_ibus-anthy,2008-09-03 07:06:39,ee159653208349c396917be34730b278195f4027,1.0,1.0,1.0,0.0
+336,Commit,ibus_ibus-anthy,2008-09-03 07:05:25,23a1640aefbd2c251f949c78585df31775b9837d,81.0,56.0,1.0,0.0
+337,Commit,ibus_ibus-anthy,2008-09-03 06:12:40,bb4a93cf72378b125124d05d18a4f5eac3b49482,153.0,33.0,5.0,0.0
+338,Commit,ibus_ibus-anthy,2008-09-03 05:04:38,d70c6f0d300195e10b568990b8bc82acb88efcf1,1.0,1.0,1.0,0.0
+339,Commit,ibus_ibus-anthy,2008-09-03 04:57:24,b82ce734346f5303f781cda15310a361e11dfa20,9.0,3.0,1.0,0.0
+340,Commit,ibus_ibus-anthy,2008-09-03 04:54:55,bb1ea5a40167345044fd2f5db5252afa2573f710,18.0,1.0,1.0,0.0
+341,Commit,ibus_ibus-anthy,2008-09-03 04:47:16,e3d28530028dc7fb145c7e2807309782cba2aafc,6.0,19.0,1.0,0.0
+342,Commit,ibus_ibus-anthy,2008-09-03 02:39:03,51d1686671b5597e29672a2026ccff7640cf4f3a,110.0,74.0,5.0,0.0
+343,Commit,ibus_ibus-anthy,2008-09-03 01:58:04,63faa83cc3086f8f57e6425d82cf38b31e53d9c4,5.0,43.0,2.0,0.0
+344,Commit,ibus_ibus-anthy,2008-09-03 01:31:56,c7940fa8c95fbce3bff95a5c67bc001555de7c46,16.0,2.0,2.0,0.0
+345,Commit,ibus_ibus-anthy,2008-09-03 01:15:07,673e69982143c0cc47de3c93e77453ffc390afa2,164.0,1.0,2.0,0.0
+346,Commit,ibus_ibus-anthy,2008-09-03 01:03:16,a170b2704194c5a047820cfa5d68e3a22e84e5f7,3.0,142.0,2.0,0.0
+347,Commit,ibus_ibus-anthy,2008-09-03 00:59:23,287f00547cb55e969d14ecd7730f8322d94788d6,14.0,14.0,1.0,0.0
+348,Commit,ibus_ibus-anthy,2008-09-03 00:56:47,2e690a24c3d080dbfaf8c82cd54b69193c8c030b,273.0,248.0,3.0,0.0
+349,Commit,ibus_ibus-anthy,2008-09-03 00:38:08,6a036dbf0d3f3147828d9591a0f902f1e4355522,16.0,11.0,2.0,0.0
+350,Commit,ibus_ibus-anthy,2008-09-03 00:14:29,8cdb785f56f3957dd0a12493a6dea88435dc4faa,169.0,31.0,2.0,0.0
+351,Commit,ibus_ibus-anthy,2008-09-02 07:30:32,ea0255953a5b6f1d2a2fc38435cf3da1ffe2988d,4.0,0.0,1.0,0.0
+352,Commit,ibus_ibus-anthy,2008-09-01 07:40:18,aa328e9eb0962501570158eb9d942cd72afd3fd1,2.0,2.0,1.0,0.0
+353,Commit,ibus_ibus-anthy,2008-08-31 11:18:25,548544ad801a5e6a29cd775362413c29ff2c4442,10.0,2.0,2.0,0.0
+354,Commit,ibus_ibus-anthy,2008-08-31 10:54:32,e7a394a31a6fe10ad0775d70fd1dcd8871b85521,2.0,2.0,2.0,0.0
+355,Commit,ibus_ibus-anthy,2008-08-31 02:15:31,3f0bbeaad12fd9eaad2d84097f1118b4f5d2d1a0,1.0,1.0,1.0,0.0
+356,Commit,ibus_ibus-anthy,2008-08-30 00:00:08,bea516f4d9a1bb164a80df8065aae23a06585795,5.0,1.0,1.0,0.0
+357,Commit,ibus_ibus-anthy,2008-08-29 23:41:47,5ea3f8adfbd564ff9e3a68deea67dc40fe863dad,15.0,2.0,2.0,0.0
+358,Commit,ibus_ibus-anthy,2008-08-29 00:23:17,a2fe34cfe155842717c7a8d8e10340ce8e7b95ab,37.0,3.0,2.0,0.0
+359,Commit,ibus_ibus-anthy,2008-08-28 23:52:52,a21b77eac885051faddb3aeb7e75b9264188b820,2.0,4.0,1.0,0.0
+360,Commit,ibus_ibus-anthy,2008-08-28 09:56:30,fb021459af202b62bf899448c64bafcf12299b11,34.0,34.0,1.0,0.0
+361,Commit,ibus_ibus-anthy,2008-08-28 09:52:07,d46b6d7551fd5ac3737ee1db9badcd3ec68aeb9c,2.0,0.0,1.0,0.0
+362,Commit,ibus_ibus-anthy,2008-08-28 09:49:33,ed14b45ea5089bbf8c066f6637833251b371dec9,9.0,3.0,1.0,0.0
+363,Commit,ibus_ibus-anthy,2008-08-28 09:09:06,9395befee66acdb1748f2619ed0523d7639e2be8,20.0,23.0,2.0,0.0
+364,Commit,ibus_ibus-anthy,2008-08-28 08:52:40,4485fe836a29a17ad69042413ef106cb44369fbf,25.0,26.0,1.0,0.0
+365,Commit,ibus_ibus-anthy,2008-08-28 08:09:32,9517190ff039f44ec30ff37b53429a33a435958b,1.0,1.0,1.0,0.0
+366,Commit,ibus_ibus-anthy,2008-08-28 07:41:46,c28c64949da9d8fc6165ec6043c52d1261e9622b,169.0,63.0,2.0,0.0
+367,Commit,ibus_ibus-anthy,2008-08-28 06:17:27,c47a08bd9f27d3f8f086c6f8d687880a6297462f,312.0,100.0,3.0,0.0
+368,Commit,ibus_ibus-anthy,2008-08-28 01:11:21,3ba701e016171f31bc6eb0d5e5cc3bedc05ade87,16.0,9.0,1.0,0.0
+369,Commit,ibus_ibus-anthy,2008-08-27 23:36:35,cd8417bf976a4a13d972abe4295ae996c397c6de,1.0,1.0,1.0,0.0
+370,Commit,ibus_ibus-anthy,2008-08-27 23:29:54,5537a8485aabe508d3ec813b000efbec8b4cc1a3,45.0,2.0,1.0,0.0
+371,Commit,ibus_ibus-anthy,2008-08-27 23:11:27,b40210e8b47e7b534cf91bb39839c2e5b82dbc4d,4.0,2.0,1.0,0.0
+372,Commit,ibus_ibus-anthy,2008-08-27 09:39:24,7890800fc3a6fb5c5191dd6804baa5aae36d9f1b,8.0,9.0,1.0,0.0
+373,Commit,ibus_ibus-anthy,2008-08-27 09:35:57,a50d373ef63a9a6f5f9bac447fde8afede53a973,52.0,0.0,3.0,0.0
+374,Commit,ibus_ibus-anthy,2008-08-27 09:34:37,30e70213e7e5cbdd87839d61e5a7cbd76991735b,10.0,2.0,2.0,0.0
+375,Commit,ibus_ibus-anthy,2008-08-27 02:49:42,9d5a9aeec47932711ef3f80ba967cb7f09d2e16f,34.0,3.0,1.0,0.0
+376,Commit,ibus_ibus-anthy,2008-08-26 13:46:01,030ba62afe335686483f3c2a26739f7acf03f1b8,13.0,8.0,1.0,0.0
+377,Commit,ibus_ibus-anthy,2008-08-26 12:13:20,1701d94498ef9227a5d5dea79189afa46d3f45eb,2.0,0.0,1.0,0.0
+378,Commit,ibus_ibus-anthy,2008-08-26 11:52:31,72384e0f70371c6c459d5b2248f0aed01dc0b51b,22.0,19.0,1.0,0.0
+379,Commit,ibus_ibus-anthy,2008-08-21 13:38:08,6af656ae0b8ae5bb18e18fd70852d5e3aaf865b3,18.0,14.0,2.0,0.0
+380,Commit,ibus_ibus-anthy,2008-08-19 01:05:44,c387042b85990070a5a347562ddeb3f3ae3be63f,29.0,39.0,1.0,0.0
+381,Commit,ibus_ibus-anthy,2008-08-15 06:09:37,2d8de5944b67c9a23e0383a3073e13e67eca5841,12.0,7.0,4.0,0.0
+382,Commit,ibus_ibus-anthy,2008-08-15 03:36:08,1667a8b717889846ac1b11d5894a0d0bfc014867,0.0,1.0,1.0,0.0
+383,Commit,ibus_ibus-anthy,2008-08-14 13:36:55,81ce81ab758a7e790ecf55008a8c1b2a137fd2e9,2.0,0.0,1.0,0.0
+384,Commit,ibus_ibus-anthy,2008-08-14 00:23:50,5fc5c08ac17c487b9ad7a9d3a1f34707e2e04e24,1.0,1.0,1.0,0.0
+385,Commit,ibus_ibus-anthy,2008-08-14 00:19:35,6776309a93d38bfe282592b2ddbb89d7d623c6ac,1.0,1.0,1.0,0.0
+386,Commit,ibus_ibus-anthy,2008-08-13 15:20:43,190702f40ccb0ded38707086b2ca7ed54632cde0,47.0,3.0,4.0,0.0
+387,Commit,ibus_ibus-anthy,2008-08-13 07:59:48,0d020d985ca471ed77e6178a15f6ff7367848195,1.0,1.0,1.0,0.0
+388,Commit,ibus_ibus-anthy,2008-08-13 07:56:15,247c55667726963583ac5534b0aadc4b9c111146,2.0,2.0,2.0,0.0
+389,Commit,ibus_ibus-anthy,2008-08-12 07:08:04,c28c742752ece3add8034ebdc16764ab3b48fdf6,1.0,1.0,1.0,0.0
+390,Commit,ibus_ibus-anthy,2008-08-09 06:16:33,bbd7d388017487ca9371e77eed5c4a0c8e4cf2d7,6.0,6.0,1.0,0.0
+391,Commit,ibus_ibus-anthy,2008-08-09 06:15:38,04a71600d8310a4ed8fe1bea7d95be46a05b1bfe,42.0,11.0,1.0,0.0
+392,Commit,ibus_ibus-anthy,2008-08-09 05:41:58,04c9b7f8fe89a43f1c576b2557165e60559679c1,20.0,5.0,1.0,0.0
+393,Commit,ibus_ibus-anthy,2008-08-09 05:24:15,18d4a9bfab3409e95299188757c5dda2c45a6cdb,38.0,2.0,2.0,0.0
+394,Commit,ibus_ibus-anthy,2008-08-09 05:13:36,3e3baac2d7adce38ab79411eca3a6901048a8452,33.0,0.0,1.0,0.0
+395,Commit,ibus_ibus-anthy,2008-08-09 00:31:32,989ff6725e394ed6058b1d478962ecc02864b48b,6.0,6.0,1.0,0.0
+396,Commit,ibus_ibus-anthy,2008-08-09 00:20:13,391eccdb5281b674d15317967c14a9dc895de3b6,60.0,2.0,3.0,0.0
+397,Commit,ibus_ibus-anthy,2008-08-08 08:58:35,0b3b87399a492492a5708ebac23182600fc26f94,0.0,1.0,1.0,0.0
+398,Commit,ibus_ibus-anthy,2008-08-08 08:43:41,7c78074f06abfa8df3441296bd711cf3030d9b4b,12.0,4.0,1.0,0.0
+399,Commit,ibus_ibus-anthy,2008-08-08 07:23:58,91f9509cd1f9a0f12e0ccaee923ebf070ff1fd30,288.0,623.0,1.0,0.0
+400,Commit,ibus_ibus-anthy,2008-08-08 05:12:13,854ab51e4506e162148e10b43f488a57a3a3fe79,2.0,1.0,1.0,0.0
+401,Commit,ibus_ibus-anthy,2008-08-08 01:16:07,48b7c4d75d8e8585637297facbc8b29fd392b811,4.0,4.0,3.0,0.0
+402,Commit,ibus_ibus-anthy,2008-08-07 01:37:15,561181ad976bb1b8e489111ee2336536bc17ba9d,1.0,1.0,1.0,0.0
+403,Commit,ibus_ibus-anthy,2008-08-07 01:30:12,5e3b0338afb3e16e6cb0a299108fa478d0aa3a58,5.0,3.0,3.0,0.0
+404,Commit,ibus_ibus-anthy,2008-08-06 06:06:36,7f4dbd0a16bfc4bb56dbf31eaa38efd96bb5f26e,1.0,1.0,1.0,0.0
+405,Commit,ibus_ibus-anthy,2008-08-06 06:05:31,e3ce275ef13ae5245f306cdfc0b6f965f48afaae,6.0,4.0,5.0,0.0
+406,Commit,ibus_ibus-anthy,2008-07-31 05:06:03,df7e66da7d4ac0c27914d92faedc8f752d7dfbcc,9.0,10.0,3.0,0.0
+407,Commit,ibus_ibus-anthy,2008-07-30 23:33:14,27b327806015f16b91f9b2832e9e7005aa06c607,1.0,1.0,1.0,0.0
+408,Commit,ibus_ibus-anthy,2008-07-28 06:50:56,66e6bef38244af606f1fbf08c8ecbfedfa22e1b6,5.0,12.0,1.0,0.0
+409,Commit,ibus_ibus-anthy,2008-07-22 06:39:22,0f21c5e8f20c76f856487eb295ac3d0deaaca0bf,7.0,7.0,1.0,0.0
+410,Commit,ibus_ibus-anthy,2008-07-22 06:02:40,baaf25def04b95ff49162f627317f3544b530abf,0.0,1.0,1.0,0.0
+411,Commit,ibus_ibus-anthy,2008-07-22 06:02:21,94e58c7da14f35119fab43f71b37d7fcc8fb89ec,2.0,2.0,1.0,0.0
+412,Commit,ibus_ibus-anthy,2008-07-18 09:04:15,b127966bc01cf4b3afa46a4f7af9430a5251e032,3.0,5.0,3.0,0.0
+413,Commit,ibus_ibus-anthy,2008-07-18 02:27:11,d2c733640e3e995002d4e8202aad13e4a2d5fd29,306.0,361.0,3.0,0.0
+414,Commit,ibus_ibus-anthy,2008-07-15 09:04:39,7701c38f5d00841f1f4fbb2e888916a09b59e02f,4.0,4.0,4.0,0.0
+415,Commit,ibus_ibus-anthy,2008-07-15 05:37:14,74118afb2d9ae183e71a2246919ce97b2f8c37ba,557.0,557.0,4.0,0.0
+416,Commit,ibus_ibus-anthy,2008-07-10 07:41:38,07c018e8c1d7b94432854ec034734665ee4f27c0,14.0,4.0,4.0,0.0
+417,Commit,ibus_ibus-anthy,2008-07-08 10:09:54,0882b282593ddd02e4e921b73be4006c90938b52,2.0,2.0,1.0,0.0
+418,Commit,ibus_ibus-anthy,2008-07-08 10:09:33,cf03784615a9771a09f2bdf2e58a254aff02481f,15.0,5.0,1.0,0.0
+419,Commit,ibus_ibus-anthy,2008-07-04 03:09:35,77d6c856ff55d6e8e61636e78dfd4b32e135c058,1.0,1.0,1.0,0.0
+420,Commit,ibus_ibus-anthy,2008-06-30 11:34:48,72dfaadcdd51bc4179c1d7a7ffe354c40c4cf179,0.0,1.0,1.0,0.0
+421,Commit,ibus_ibus-anthy,2008-06-29 23:57:45,dec189db6c9e312c08fd26d63011f106e443c9db,3.0,0.0,1.0,0.0
+422,Commit,ibus_ibus-anthy,2008-06-29 23:57:04,8bcbfaeb665b5a9c1edf5fd6545bccca7e4aae63,1051.0,359.0,16.0,0.0
+423,Commit,ibus_ibus-anthy,2008-06-29 08:48:38,f6303d37775aff4c1087bea9da91345a5c849afd,231.0,2.0,6.0,0.0
+424,Commit,ibus_ibus-anthy,2008-06-29 08:18:54,b741f5db502727dfe40d4087019c882a85d96f9f,86.0,95.0,9.0,0.0
+425,Commit,ibus_ibus-anthy,2008-06-29 08:10:36,1e9f9787283d449fe7446a9fa19924c964980180,403.0,10.0,8.0,0.0
+426,Commit,ibus_ibus-anthy,2008-06-29 07:57:07,058ff8eec8aa8a7e5e8e7b404f2f47d87456bfaa,1053.0,0.0,16.0,0.0
+0,forks,ibus_ibus-anthy,2013-02-09 06:35:17+00:00,,,,,
+1,forks,ibus_ibus-anthy,2016-05-25 12:26:50+00:00,,,,,
+2,forks,ibus_ibus-anthy,2017-03-16 01:32:22+00:00,,,,,
+3,forks,ibus_ibus-anthy,2019-12-28 07:03:29+00:00,,,,,
+4,forks,ibus_ibus-anthy,2022-07-09 19:12:28+00:00,,,,,
+0,issues,ibus_ibus-anthy,2015-09-15 06:09:42+00:00,,,,,
+1,issues,ibus_ibus-anthy,2016-01-30 07:47:50+00:00,,,,,
+2,issues,ibus_ibus-anthy,2017-03-22 10:49:01+00:00,,,,,
+3,issues,ibus_ibus-anthy,2018-05-10 05:25:33+00:00,,,,,
+4,issues,ibus_ibus-anthy,2018-06-10 07:47:29+00:00,,,,,
+5,issues,ibus_ibus-anthy,2018-10-10 10:55:54+00:00,,,,,
+6,issues,ibus_ibus-anthy,2018-12-05 15:44:52+00:00,,,,,
+7,issues,ibus_ibus-anthy,2019-03-06 23:23:18+00:00,,,,,
+8,issues,ibus_ibus-anthy,2019-09-13 06:01:32+00:00,,,,,
+9,issues,ibus_ibus-anthy,2019-09-14 08:53:17+00:00,,,,,
+10,issues,ibus_ibus-anthy,2019-12-18 06:37:30+00:00,,,,,
+11,issues,ibus_ibus-anthy,2020-07-20 11:12:19+00:00,,,,,
+12,issues,ibus_ibus-anthy,2021-03-09 23:52:43+00:00,,,,,
+13,issues,ibus_ibus-anthy,2021-03-21 07:10:23+00:00,,,,,
+14,issues,ibus_ibus-anthy,2021-08-12 09:52:23+00:00,,,,,
+15,issues,ibus_ibus-anthy,2021-08-19 12:41:19+00:00,,,,,
+16,issues,ibus_ibus-anthy,2021-12-22 03:39:02+00:00,,,,,
+17,issues,ibus_ibus-anthy,2022-04-13 11:41:34+00:00,,,,,
+18,issues,ibus_ibus-anthy,2022-06-24 01:37:11+00:00,,,,,
+0,pullRequests,ibus_ibus-anthy,2013-02-09 07:22:15+00:00,,,,,
+1,pullRequests,ibus_ibus-anthy,2013-02-09 07:50:19+00:00,,,,,
+2,pullRequests,ibus_ibus-anthy,2017-03-16 01:38:37+00:00,,,,,
+3,pullRequests,ibus_ibus-anthy,2019-03-07 23:34:41+00:00,,,,,
+4,pullRequests,ibus_ibus-anthy,2019-12-28 07:03:38+00:00,,,,,
+5,pullRequests,ibus_ibus-anthy,2020-01-07 08:49:36+00:00,,,,,
+6,pullRequests,ibus_ibus-anthy,2020-09-04 20:29:22+00:00,,,,,
+7,pullRequests,ibus_ibus-anthy,2021-03-03 21:13:46+00:00,,,,,
+8,pullRequests,ibus_ibus-anthy,2021-08-23 18:04:51+00:00,,,,,
+0,releases,ibus_ibus-anthy,2014-02-05 08:16:13+00:00,,,,,
+1,releases,ibus_ibus-anthy,2014-09-16 04:56:55+00:00,,,,,
+2,releases,ibus_ibus-anthy,2013-09-09 04:00:30+00:00,,,,,
+3,releases,ibus_ibus-anthy,2013-05-13 05:46:00+00:00,,,,,
+4,releases,ibus_ibus-anthy,2013-05-13 03:48:14+00:00,,,,,
+5,releases,ibus_ibus-anthy,2013-05-11 12:35:16+00:00,,,,,
+6,releases,ibus_ibus-anthy,2012-12-30 15:42:29+00:00,,,,,
+7,releases,ibus_ibus-anthy,2012-10-06 12:58:37+00:00,,,,,
+8,releases,ibus_ibus-anthy,2012-03-27 04:22:23+00:00,,,,,
+9,releases,ibus_ibus-anthy,2012-03-27 03:57:09+00:00,,,,,
+10,releases,ibus_ibus-anthy,2012-03-05 04:07:24+00:00,,,,,
+11,releases,ibus_ibus-anthy,2011-05-16 02:01:04+00:00,,,,,
+12,releases,ibus_ibus-anthy,2010-12-01 05:39:26+00:00,,,,,
+13,releases,ibus_ibus-anthy,2010-10-26 06:44:07+00:00,,,,,
+14,releases,ibus_ibus-anthy,2010-10-16 14:13:54+00:00,,,,,
+15,releases,ibus_ibus-anthy,2010-10-15 09:20:13+00:00,,,,,
+16,releases,ibus_ibus-anthy,2010-04-23 01:38:36+00:00,,,,,
+17,releases,ibus_ibus-anthy,2010-03-13 00:20:08+00:00,,,,,
+18,releases,ibus_ibus-anthy,2009-06-17 09:23:27+00:00,,,,,
+19,releases,ibus_ibus-anthy,2009-08-14 04:04:25+00:00,,,,,
+20,releases,ibus_ibus-anthy,2008-08-31 11:18:25+00:00,,,,,
+21,releases,ibus_ibus-anthy,2015-07-16 09:04:18+00:00,,,,,
+22,releases,ibus_ibus-anthy,2016-01-20 07:46:50+00:00,,,,,
+23,releases,ibus_ibus-anthy,2016-10-19 11:22:00+00:00,,,,,
+24,releases,ibus_ibus-anthy,2018-03-19 09:29:59+00:00,,,,,
+25,releases,ibus_ibus-anthy,2019-05-14 08:10:41+00:00,,,,,
+26,releases,ibus_ibus-anthy,2021-02-22 01:43:57+00:00,,,,,
+27,releases,ibus_ibus-anthy,2021-08-20 08:57:59+00:00,,,,,
+28,releases,ibus_ibus-anthy,2021-12-24 14:25:17+00:00,,,,,
+0,stargazers,ibus_ibus-anthy,2010-09-09 03:49:02+00:00,,,,,
+1,stargazers,ibus_ibus-anthy,2013-05-18 08:23:49+00:00,,,,,
+2,stargazers,ibus_ibus-anthy,2013-09-21 21:11:53+00:00,,,,,
+3,stargazers,ibus_ibus-anthy,2018-04-18 07:34:30+00:00,,,,,
+4,stargazers,ibus_ibus-anthy,2019-06-05 02:57:28+00:00,,,,,
+5,stargazers,ibus_ibus-anthy,2020-05-14 17:42:52+00:00,,,,,
+6,stargazers,ibus_ibus-anthy,2020-12-05 08:35:29+00:00,,,,,
+7,stargazers,ibus_ibus-anthy,2021-01-01 09:58:19+00:00,,,,,
+8,stargazers,ibus_ibus-anthy,2021-03-07 10:46:09+00:00,,,,,
+9,stargazers,ibus_ibus-anthy,2021-10-17 04:57:09+00:00,,,,,
+10,stargazers,ibus_ibus-anthy,2021-11-04 22:28:00+00:00,,,,,
+11,stargazers,ibus_ibus-anthy,2022-01-06 10:50:42+00:00,,,,,
+12,stargazers,ibus_ibus-anthy,2022-02-05 11:51:47+00:00,,,,,
+13,stargazers,ibus_ibus-anthy,2022-04-16 10:06:16+00:00,,,,,
+14,stargazers,ibus_ibus-anthy,2022-06-06 05:05:07+00:00,,,,,
+15,stargazers,ibus_ibus-anthy,2022-06-06 22:20:47+00:00,,,,,

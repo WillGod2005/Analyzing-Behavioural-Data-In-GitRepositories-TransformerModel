@@ -1,0 +1,2006 @@
+,type,name,created_at,Hash,Add,Del,Files,Vuln
+4824,WatchEvent,dmendel_bindata,2015-07-17 12:28:54 UTC,,,,,
+37300,IssuesEvent,dmendel_bindata,2015-12-02 01:52:59 UTC,,,,,
+56511,WatchEvent,dmendel_bindata,2015-08-12 02:04:32 UTC,,,,,
+84162,WatchEvent,dmendel_bindata,2015-04-07 01:30:59 UTC,,,,,
+104104,WatchEvent,dmendel_bindata,2015-02-24 11:52:06 UTC,,,,,
+108167,WatchEvent,dmendel_bindata,2015-08-16 12:16:19 UTC,,,,,
+111243,ForkEvent,dmendel_bindata,2015-02-27 16:33:27 UTC,,,,,
+139857,WatchEvent,dmendel_bindata,2015-05-16 00:02:30 UTC,,,,,
+153210,IssueCommentEvent,dmendel_bindata,2015-03-26 03:13:08 UTC,,,,,
+154928,ForkEvent,dmendel_bindata,2015-01-14 07:12:43 UTC,,,,,
+163722,WatchEvent,dmendel_bindata,2015-08-19 05:13:43 UTC,,,,,
+176347,IssuesEvent,dmendel_bindata,2015-02-19 08:34:05 UTC,,,,,
+184690,PullRequestEvent,dmendel_bindata,2015-02-06 06:26:58 UTC,,,,,
+193107,IssueCommentEvent,dmendel_bindata,2015-11-25 15:14:12 UTC,,,,,
+197007,IssueCommentEvent,dmendel_bindata,2015-04-04 09:25:39 UTC,,,,,
+220742,IssueCommentEvent,dmendel_bindata,2015-12-02 08:22:16 UTC,,,,,
+243895,IssuesEvent,dmendel_bindata,2015-09-21 03:14:21 UTC,,,,,
+294978,IssuesEvent,dmendel_bindata,2015-11-06 06:03:19 UTC,,,,,
+305449,PushEvent,dmendel_bindata,2015-05-04 08:56:43 UTC,,,,,
+331504,IssueCommentEvent,dmendel_bindata,2015-02-06 18:18:45 UTC,,,,,
+410702,IssueCommentEvent,dmendel_bindata,2015-12-02 03:59:04 UTC,,,,,
+417173,WatchEvent,dmendel_bindata,2015-01-26 03:04:28 UTC,,,,,
+425171,WatchEvent,dmendel_bindata,2015-08-01 16:07:56 UTC,,,,,
+425865,IssuesEvent,dmendel_bindata,2015-12-02 03:57:57 UTC,,,,,
+468617,WatchEvent,dmendel_bindata,2015-09-04 11:22:40 UTC,,,,,
+481350,PullRequestEvent,dmendel_bindata,2015-10-29 06:21:29 UTC,,,,,
+492260,WatchEvent,dmendel_bindata,2015-05-23 03:12:25 UTC,,,,,
+496066,WatchEvent,dmendel_bindata,2015-06-19 21:25:45 UTC,,,,,
+515670,WatchEvent,dmendel_bindata,2015-12-19 10:38:14 UTC,,,,,
+515718,WatchEvent,dmendel_bindata,2015-06-30 11:34:31 UTC,,,,,
+519659,WatchEvent,dmendel_bindata,2015-01-18 09:19:52 UTC,,,,,
+532767,IssueCommentEvent,dmendel_bindata,2015-12-02 04:58:06 UTC,,,,,
+535986,IssuesEvent,dmendel_bindata,2015-11-16 07:19:27 UTC,,,,,
+574040,ForkEvent,dmendel_bindata,2015-02-06 05:45:46 UTC,,,,,
+625622,ForkEvent,dmendel_bindata,2015-04-04 07:43:49 UTC,,,,,
+651467,IssueCommentEvent,dmendel_bindata,2015-11-25 16:21:16 UTC,,,,,
+666059,WatchEvent,dmendel_bindata,2015-02-12 17:00:10 UTC,,,,,
+693971,WatchEvent,dmendel_bindata,2015-12-03 06:24:14 UTC,,,,,
+714323,IssuesEvent,dmendel_bindata,2015-02-14 00:09:09 UTC,,,,,
+847820,WatchEvent,dmendel_bindata,2015-12-04 22:34:43 UTC,,,,,
+849280,IssueCommentEvent,dmendel_bindata,2015-09-21 03:14:21 UTC,,,,,
+872852,IssueCommentEvent,dmendel_bindata,2015-11-16 14:47:56 UTC,,,,,
+876352,PullRequestEvent,dmendel_bindata,2015-02-07 18:21:36 UTC,,,,,
+906850,WatchEvent,dmendel_bindata,2015-01-17 07:41:08 UTC,,,,,
+910720,WatchEvent,dmendel_bindata,2015-09-03 22:33:21 UTC,,,,,
+918721,WatchEvent,dmendel_bindata,2015-01-14 07:10:56 UTC,,,,,
+926623,WatchEvent,dmendel_bindata,2015-10-08 12:42:14 UTC,,,,,
+955489,IssueCommentEvent,dmendel_bindata,2015-02-06 06:28:52 UTC,,,,,
+965747,WatchEvent,dmendel_bindata,2015-02-19 13:33:00 UTC,,,,,
+994678,IssueCommentEvent,dmendel_bindata,2015-01-17 02:29:14 UTC,,,,,
+1016655,WatchEvent,dmendel_bindata,2015-07-14 13:36:08 UTC,,,,,
+1028692,WatchEvent,dmendel_bindata,2015-02-02 09:53:26 UTC,,,,,
+1060210,WatchEvent,dmendel_bindata,2015-09-03 08:43:13 UTC,,,,,
+1083954,WatchEvent,dmendel_bindata,2015-01-10 20:36:27 UTC,,,,,
+1095658,WatchEvent,dmendel_bindata,2015-04-05 21:17:39 UTC,,,,,
+1108855,IssueCommentEvent,dmendel_bindata,2015-07-09 07:44:21 UTC,,,,,
+1144007,IssuesEvent,dmendel_bindata,2015-11-16 06:26:11 UTC,,,,,
+1182637,WatchEvent,dmendel_bindata,2015-07-27 13:12:53 UTC,,,,,
+1190567,WatchEvent,dmendel_bindata,2015-02-02 05:51:58 UTC,,,,,
+1197697,ForkEvent,dmendel_bindata,2015-10-28 17:49:50 UTC,,,,,
+1198574,WatchEvent,dmendel_bindata,2015-10-25 12:37:22 UTC,,,,,
+1209528,ForkEvent,dmendel_bindata,2015-06-12 12:27:30 UTC,,,,,
+1211032,GollumEvent,dmendel_bindata,2015-10-29 06:28:01 UTC,,,,,
+1226361,WatchEvent,dmendel_bindata,2015-05-23 06:05:08 UTC,,,,,
+1239909,IssueCommentEvent,dmendel_bindata,2015-11-16 07:19:27 UTC,,,,,
+1247785,IssueCommentEvent,dmendel_bindata,2015-07-14 07:14:45 UTC,,,,,
+1266179,WatchEvent,dmendel_bindata,2015-08-16 11:21:21 UTC,,,,,
+1291132,IssueCommentEvent,dmendel_bindata,2015-02-07 07:51:17 UTC,,,,,
+1297701,WatchEvent,dmendel_bindata,2015-01-17 15:27:18 UTC,,,,,
+1309469,WatchEvent,dmendel_bindata,2015-03-27 04:31:08 UTC,,,,,
+1309535,WatchEvent,dmendel_bindata,2015-10-15 22:04:28 UTC,,,,,
+1314808,IssueCommentEvent,dmendel_bindata,2015-07-16 05:14:02 UTC,,,,,
+1322588,IssueCommentEvent,dmendel_bindata,2015-12-03 06:23:42 UTC,,,,,
+1370235,IssueCommentEvent,dmendel_bindata,2015-11-24 23:49:50 UTC,,,,,
+1391920,ForkEvent,dmendel_bindata,2015-11-24 17:54:23 UTC,,,,,
+1409973,IssueCommentEvent,dmendel_bindata,2015-12-02 06:44:24 UTC,,,,,
+1414111,IssueCommentEvent,dmendel_bindata,2015-11-25 16:04:35 UTC,,,,,
+1473298,IssueCommentEvent,dmendel_bindata,2015-05-01 18:01:31 UTC,,,,,
+1492918,IssueCommentEvent,dmendel_bindata,2015-02-07 00:43:11 UTC,,,,,
+1547973,IssueCommentEvent,dmendel_bindata,2015-11-25 14:50:06 UTC,,,,,
+1558282,WatchEvent,dmendel_bindata,2015-01-15 09:03:39 UTC,,,,,
+1558386,WatchEvent,dmendel_bindata,2015-09-19 23:35:18 UTC,,,,,
+1566885,IssuesEvent,dmendel_bindata,2015-11-16 11:30:55 UTC,,,,,
+1583481,IssueCommentEvent,dmendel_bindata,2015-04-04 11:06:41 UTC,,,,,
+1590005,WatchEvent,dmendel_bindata,2015-04-06 14:40:21 UTC,,,,,
+1617692,WatchEvent,dmendel_bindata,2015-12-21 03:33:55 UTC,,,,,
+1780513,WatchEvent,dmendel_bindata,2015-09-07 12:35:37 UTC,,,,,
+1800121,WatchEvent,dmendel_bindata,2015-05-26 01:29:01 UTC,,,,,
+1812130,WatchEvent,dmendel_bindata,2015-09-07 19:17:17 UTC,,,,,
+1817520,IssueCommentEvent,dmendel_bindata,2015-09-20 18:40:59 UTC,,,,,
+1820058,WatchEvent,dmendel_bindata,2015-09-01 06:00:13 UTC,,,,,
+1839002,ForkEvent,dmendel_bindata,2015-03-31 18:45:19 UTC,,,,,
+1859843,WatchEvent,dmendel_bindata,2015-06-03 03:19:04 UTC,,,,,
+1892317,IssuesEvent,dmendel_bindata,2015-11-16 06:18:21 UTC,,,,,
+1955181,WatchEvent,dmendel_bindata,2015-04-23 11:33:51 UTC,,,,,
+1974434,PushEvent,dmendel_bindata,2015-05-03 09:34:16 UTC,,,,,
+1976384,IssueCommentEvent,dmendel_bindata,2015-02-07 18:21:36 UTC,,,,,
+1986739,WatchEvent,dmendel_bindata,2015-11-05 12:13:23 UTC,,,,,
+1994658,WatchEvent,dmendel_bindata,2015-04-05 16:34:31 UTC,,,,,
+2007327,IssuesEvent,dmendel_bindata,2015-11-16 07:05:27 UTC,,,,,
+2011263,IssuesEvent,dmendel_bindata,2015-04-04 08:16:16 UTC,,,,,
+2019154,IssuesEvent,dmendel_bindata,2015-04-04 11:06:41 UTC,,,,,
+2038394,WatchEvent,dmendel_bindata,2015-12-08 04:34:32 UTC,,,,,
+2038464,WatchEvent,dmendel_bindata,2015-10-22 16:14:00 UTC,,,,,
+2055605,IssueCommentEvent,dmendel_bindata,2015-07-14 07:06:53 UTC,,,,,
+2065560,PushEvent,dmendel_bindata,2015-11-02 03:15:30 UTC,,,,,
+2074076,WatchEvent,dmendel_bindata,2015-12-15 12:26:07 UTC,,,,,
+2078168,WatchEvent,dmendel_bindata,2015-02-27 16:29:32 UTC,,,,,
+2090166,WatchEvent,dmendel_bindata,2015-01-15 08:58:51 UTC,,,,,
+2098095,WatchEvent,dmendel_bindata,2015-01-02 14:58:10 UTC,,,,,
+2126013,WatchEvent,dmendel_bindata,2015-03-31 18:41:42 UTC,,,,,
+2162893,IssueCommentEvent,dmendel_bindata,2015-05-03 09:27:32 UTC,,,,,
+2190638,IssueCommentEvent,dmendel_bindata,2015-02-14 00:09:24 UTC,,,,,
+2219868,ForkEvent,dmendel_bindata,2015-07-31 16:37:48 UTC,,,,,
+2220639,WatchEvent,dmendel_bindata,2015-05-03 22:28:38 UTC,,,,,
+2222155,IssueCommentEvent,dmendel_bindata,2015-12-03 04:38:46 UTC,,,,,
+2226167,IssueCommentEvent,dmendel_bindata,2015-07-15 12:28:40 UTC,,,,,
+2237893,IssueCommentEvent,dmendel_bindata,2015-02-06 13:54:37 UTC,,,,,
+2243818,PushEvent,dmendel_bindata,2015-10-29 06:19:35 UTC,,,,,
+2249039,IssuesEvent,dmendel_bindata,2015-03-24 16:53:09 UTC,,,,,
+2257687,IssueCommentEvent,dmendel_bindata,2015-04-04 09:40:21 UTC,,,,,
+2260856,IssuesEvent,dmendel_bindata,2015-11-25 13:52:40 UTC,,,,,
+2264875,IssuesEvent,dmendel_bindata,2015-03-26 03:13:08 UTC,,,,,
+2295730,WatchEvent,dmendel_bindata,2015-07-23 22:02:35 UTC,,,,,
+2346971,WatchEvent,dmendel_bindata,2015-06-01 23:14:57 UTC,,,,,
+2362791,WatchEvent,dmendel_bindata,2015-01-19 14:04:13 UTC,,,,,
+2363531,IssuesEvent,dmendel_bindata,2015-02-18 13:09:22 UTC,,,,,
+2366727,WatchEvent,dmendel_bindata,2015-05-15 08:53:37 UTC,,,,,
+2378473,WatchEvent,dmendel_bindata,2015-12-23 13:18:28 UTC,,,,,
+2386482,WatchEvent,dmendel_bindata,2015-09-05 03:51:44 UTC,,,,,
+2387216,IssuesEvent,dmendel_bindata,2015-10-26 18:00:44 UTC,,,,,
+2394405,WatchEvent,dmendel_bindata,2015-05-13 15:10:20 UTC,,,,,
+2395109,IssuesEvent,dmendel_bindata,2015-11-25 11:17:25 UTC,,,,,
+2395859,IssueCommentEvent,dmendel_bindata,2015-03-26 16:51:37 UTC,,,,,
+2426829,IssuesEvent,dmendel_bindata,2015-12-02 03:59:04 UTC,,,,,
+2458195,IssuesEvent,dmendel_bindata,2015-11-25 13:50:31 UTC,,,,,
+2462097,IssuesEvent,dmendel_bindata,2015-09-20 18:15:15 UTC,,,,,
+2465352,WatchEvent,dmendel_bindata,2015-10-26 23:15:52 UTC,,,,,
+2469253,WatchEvent,dmendel_bindata,2015-11-20 07:41:58 UTC,,,,,
+2505741,IssueCommentEvent,dmendel_bindata,2015-11-16 07:21:15 UTC,,,,,
+2520143,WatchEvent,dmendel_bindata,2015-04-29 07:04:53 UTC,,,,,
+2520247,WatchEvent,dmendel_bindata,2015-09-04 03:10:38 UTC,,,,,
+2525553,IssueCommentEvent,dmendel_bindata,2015-02-19 08:34:05 UTC,,,,,
+2592167,IssuesEvent,dmendel_bindata,2015-11-16 15:03:53 UTC,,,,,
+2608613,IssueCommentEvent,dmendel_bindata,2015-09-22 13:37:29 UTC,,,,,
+2608653,IssueCommentEvent,dmendel_bindata,2015-04-04 10:24:30 UTC,,,,,
+2615881,IssuesEvent,dmendel_bindata,2015-01-17 01:11:08 UTC,,,,,
+2635034,WatchEvent,dmendel_bindata,2015-11-05 05:30:39 UTC,,,,,
+2643577,IssuesEvent,dmendel_bindata,2015-05-01 17:58:52 UTC,,,,,
+2645991,ForkEvent,dmendel_bindata,2015-08-13 06:31:46 UTC,,,,,
+2671746,IssueCommentEvent,dmendel_bindata,2015-01-17 14:44:41 UTC,,,,,
+2703101,IssueCommentEvent,dmendel_bindata,2015-11-25 11:16:57 UTC,,,,,
+2717216,WatchEvent,dmendel_bindata,2015-05-16 17:35:58 UTC,,,,,
+2729027,WatchEvent,dmendel_bindata,2015-09-16 21:37:11 UTC,,,,,
+2744774,WatchEvent,dmendel_bindata,2015-11-25 10:25:48 UTC,,,,,
+2745529,IssuesEvent,dmendel_bindata,2015-02-13 03:22:44 UTC,,,,,
+2762028,IssueCommentEvent,dmendel_bindata,2015-04-04 08:38:55 UTC,,,,,
+2776376,WatchEvent,dmendel_bindata,2015-11-18 16:27:14 UTC,,,,,
+2804176,WatchEvent,dmendel_bindata,2015-03-11 00:54:39 UTC,,,,,
+2813435,IssueCommentEvent,dmendel_bindata,2015-02-07 05:44:45 UTC,,,,,
+2855362,WatchEvent,dmendel_bindata,2015-02-03 06:19:04 UTC,,,,,
+2859238,WatchEvent,dmendel_bindata,2015-03-15 16:29:41 UTC,,,,,
+2890113,PushEvent,dmendel_bindata,2015-05-03 09:30:28 UTC,,,,,
+2906524,WatchEvent,dmendel_bindata,2015-08-30 11:54:27 UTC,,,,,
+2927585,IssueCommentEvent,dmendel_bindata,2015-10-27 04:12:32 UTC,,,,,
+3002368,PullRequestEvent,dmendel_bindata,2015-10-28 18:03:53 UTC,,,,,
+3040955,WatchEvent,dmendel_bindata,2015-12-03 08:55:13 UTC,,,,,
+3040974,WatchEvent,dmendel_bindata,2015-06-25 12:38:58 UTC,,,,,
+3041754,IssuesEvent,dmendel_bindata,2015-05-03 09:27:32 UTC,,,,,
+3073260,GollumEvent,dmendel_bindata,2015-05-04 08:56:00 UTC,,,,,
+3144161,IssuesEvent,dmendel_bindata,2015-11-24 15:18:19 UTC,,,,,
+3159316,WatchEvent,dmendel_bindata,2015-03-17 17:37:47 UTC,,,,,
+3179548,IssuesEvent,dmendel_bindata,2015-01-17 14:44:41 UTC,,,,,
+3190777,WatchEvent,dmendel_bindata,2015-12-20 12:59:09 UTC,,,,,
+3226584,WatchEvent,dmendel_bindata,2015-04-04 09:03:36 UTC,,,,,
+3295177,IssueCommentEvent,dmendel_bindata,2015-10-29 06:21:29 UTC,,,,,
+3313493,WatchEvent,dmendel_bindata,2015-02-12 16:53:58 UTC,,,,,
+3860,WatchEvent,dmendel_bindata,2016-02-02 09:00:21 UTC,,,,,
+10836,IssuesEvent,dmendel_bindata,2016-07-20 07:42:37 UTC,,,,,
+27122,IssueCommentEvent,dmendel_bindata,2016-12-01 18:39:31 UTC,,,,,
+34978,PushEvent,dmendel_bindata,2016-09-06 11:00:22 UTC,,,,,
+64983,IssueCommentEvent,dmendel_bindata,2016-03-26 08:08:29 UTC,,,,,
+67035,WatchEvent,dmendel_bindata,2016-02-16 07:51:00 UTC,,,,,
+89881,GollumEvent,dmendel_bindata,2016-03-25 06:50:11 UTC,,,,,
+100088,IssueCommentEvent,dmendel_bindata,2016-08-31 07:27:39 UTC,,,,,
+102928,PullRequestEvent,dmendel_bindata,2016-10-17 10:33:09 UTC,,,,,
+129930,ForkEvent,dmendel_bindata,2016-08-01 11:11:09 UTC,,,,,
+146411,WatchEvent,dmendel_bindata,2016-01-11 02:46:02 UTC,,,,,
+178686,CreateEvent,dmendel_bindata,2016-03-25 09:04:46 UTC,,,,,
+193949,WatchEvent,dmendel_bindata,2016-06-21 22:47:19 UTC,,,,,
+228955,IssuesEvent,dmendel_bindata,2016-03-24 17:49:44 UTC,,,,,
+331909,WatchEvent,dmendel_bindata,2016-08-12 22:55:08 UTC,,,,,
+386820,IssueCommentEvent,dmendel_bindata,2016-09-26 12:05:13 UTC,,,,,
+389332,IssuesEvent,dmendel_bindata,2016-07-18 20:21:52 UTC,,,,,
+395193,WatchEvent,dmendel_bindata,2016-01-07 12:40:38 UTC,,,,,
+404699,WatchEvent,dmendel_bindata,2016-05-13 16:52:42 UTC,,,,,
+414773,GollumEvent,dmendel_bindata,2016-03-25 05:21:16 UTC,,,,,
+429254,ForkEvent,dmendel_bindata,2016-08-30 16:24:43 UTC,,,,,
+429435,PushEvent,dmendel_bindata,2016-09-02 07:19:42 UTC,,,,,
+506257,IssuesEvent,dmendel_bindata,2016-02-20 22:19:47 UTC,,,,,
+508722,WatchEvent,dmendel_bindata,2016-07-28 05:06:16 UTC,,,,,
+515155,WatchEvent,dmendel_bindata,2016-03-10 11:55:31 UTC,,,,,
+517933,PushEvent,dmendel_bindata,2016-03-26 08:39:14 UTC,,,,,
+527882,WatchEvent,dmendel_bindata,2016-08-18 03:10:06 UTC,,,,,
+531501,CreateEvent,dmendel_bindata,2016-06-17 09:46:21 UTC,,,,,
+537422,WatchEvent,dmendel_bindata,2016-06-22 16:14:40 UTC,,,,,
+554226,IssueCommentEvent,dmendel_bindata,2016-09-23 02:26:25 UTC,,,,,
+625438,WatchEvent,dmendel_bindata,2016-02-11 12:31:29 UTC,,,,,
+625491,WatchEvent,dmendel_bindata,2016-02-24 06:34:38 UTC,,,,,
+628679,WatchEvent,dmendel_bindata,2016-10-28 02:03:53 UTC,,,,,
+633038,IssueCommentEvent,dmendel_bindata,2016-07-20 07:42:37 UTC,,,,,
+673310,IssuesEvent,dmendel_bindata,2016-09-24 15:35:27 UTC,,,,,
+679072,WatchEvent,dmendel_bindata,2016-08-15 15:06:49 UTC,,,,,
+683298,IssueCommentEvent,dmendel_bindata,2016-07-14 07:18:23 UTC,,,,,
+726937,IssuesEvent,dmendel_bindata,2016-12-01 05:01:56 UTC,,,,,
+733242,IssuesEvent,dmendel_bindata,2016-12-01 02:11:43 UTC,,,,,
+745112,WatchEvent,dmendel_bindata,2016-07-08 18:04:27 UTC,,,,,
+834522,IssueCommentEvent,dmendel_bindata,2016-10-17 11:09:17 UTC,,,,,
+861520,PushEvent,dmendel_bindata,2016-03-25 08:57:31 UTC,,,,,
+875787,IssueCommentEvent,dmendel_bindata,2016-09-02 12:48:46 UTC,,,,,
+886506,ForkEvent,dmendel_bindata,2016-02-19 04:04:32 UTC,,,,,
+911857,PushEvent,dmendel_bindata,2016-09-02 07:27:56 UTC,,,,,
+937603,WatchEvent,dmendel_bindata,2016-01-08 11:41:27 UTC,,,,,
+1029872,IssuesEvent,dmendel_bindata,2016-09-06 05:11:55 UTC,,,,,
+1042528,IssuesEvent,dmendel_bindata,2016-03-26 08:23:01 UTC,,,,,
+1052665,IssueCommentEvent,dmendel_bindata,2016-09-07 03:08:45 UTC,,,,,
+1058990,IssueCommentEvent,dmendel_bindata,2016-09-06 16:57:30 UTC,,,,,
+1068453,IssueCommentEvent,dmendel_bindata,2016-12-01 06:57:37 UTC,,,,,
+1071064,IssuesEvent,dmendel_bindata,2016-08-30 16:30:51 UTC,,,,,
+1076238,PushEvent,dmendel_bindata,2016-03-24 08:23:05 UTC,,,,,
+1084254,IssueCommentEvent,dmendel_bindata,2016-09-25 03:03:28 UTC,,,,,
+1096921,IssueCommentEvent,dmendel_bindata,2016-09-24 06:55:25 UTC,,,,,
+1101402,ForkEvent,dmendel_bindata,2016-10-15 13:59:38 UTC,,,,,
+1103284,IssueCommentEvent,dmendel_bindata,2016-06-26 02:13:48 UTC,,,,,
+1162278,WatchEvent,dmendel_bindata,2016-03-20 08:51:06 UTC,,,,,
+1168037,PushEvent,dmendel_bindata,2016-01-18 05:18:46 UTC,,,,,
+1210052,GollumEvent,dmendel_bindata,2016-01-30 13:50:31 UTC,,,,,
+1210082,IssuesEvent,dmendel_bindata,2016-07-07 05:08:56 UTC,,,,,
+1212640,WatchEvent,dmendel_bindata,2016-10-08 05:56:53 UTC,,,,,
+1257893,IssueCommentEvent,dmendel_bindata,2016-09-24 16:59:20 UTC,,,,,
+1279430,IssuesEvent,dmendel_bindata,2016-01-30 13:25:10 UTC,,,,,
+1286303,IssueCommentEvent,dmendel_bindata,2016-09-02 11:10:55 UTC,,,,,
+1295182,GollumEvent,dmendel_bindata,2016-03-25 06:54:34 UTC,,,,,
+1303561,PushEvent,dmendel_bindata,2016-12-01 05:00:10 UTC,,,,,
+1306562,PushEvent,dmendel_bindata,2016-03-25 02:09:37 UTC,,,,,
+1325557,PushEvent,dmendel_bindata,2016-01-30 14:09:35 UTC,,,,,
+1342286,IssuesEvent,dmendel_bindata,2016-09-22 20:47:32 UTC,,,,,
+1354347,WatchEvent,dmendel_bindata,2016-12-18 17:54:31 UTC,,,,,
+1354926,IssuesEvent,dmendel_bindata,2016-07-16 20:45:37 UTC,,,,,
+1360497,WatchEvent,dmendel_bindata,2016-06-08 09:20:50 UTC,,,,,
+1399688,IssueCommentEvent,dmendel_bindata,2016-09-06 13:22:02 UTC,,,,,
+1420110,PushEvent,dmendel_bindata,2016-01-30 09:12:15 UTC,,,,,
+1450334,IssueCommentEvent,dmendel_bindata,2016-09-24 14:03:33 UTC,,,,,
+1459904,IssueCommentEvent,dmendel_bindata,2016-05-22 06:12:23 UTC,,,,,
+1472814,IssueCommentEvent,dmendel_bindata,2016-09-02 12:50:09 UTC,,,,,
+1526492,IssueCommentEvent,dmendel_bindata,2016-09-26 02:39:17 UTC,,,,,
+1549979,ForkEvent,dmendel_bindata,2016-10-03 02:04:47 UTC,,,,,
+1559554,ForkEvent,dmendel_bindata,2016-10-03 02:05:08 UTC,,,,,
+1569453,WatchEvent,dmendel_bindata,2016-12-07 18:34:14 UTC,,,,,
+1589636,IssueCommentEvent,dmendel_bindata,2016-12-01 09:27:07 UTC,,,,,
+1598092,WatchEvent,dmendel_bindata,2016-10-27 03:54:05 UTC,,,,,
+1614834,IssueCommentEvent,dmendel_bindata,2016-12-01 05:01:56 UTC,,,,,
+1632760,WatchEvent,dmendel_bindata,2016-03-24 14:43:38 UTC,,,,,
+1633323,IssuesEvent,dmendel_bindata,2016-08-09 07:19:42 UTC,,,,,
+1638398,PushEvent,dmendel_bindata,2016-09-02 07:01:52 UTC,,,,,
+1645673,CreateEvent,dmendel_bindata,2016-01-30 14:20:37 UTC,,,,,
+1649439,IssueCommentEvent,dmendel_bindata,2016-09-07 08:06:41 UTC,,,,,
+1658276,GollumEvent,dmendel_bindata,2016-03-25 06:56:07 UTC,,,,,
+1661401,IssuesEvent,dmendel_bindata,2016-09-06 11:00:22 UTC,,,,,
+1667621,IssuesEvent,dmendel_bindata,2016-06-17 08:37:35 UTC,,,,,
+1670131,WatchEvent,dmendel_bindata,2016-09-19 22:13:24 UTC,,,,,
+1690457,IssueCommentEvent,dmendel_bindata,2016-07-17 00:43:22 UTC,,,,,
+1714128,PushEvent,dmendel_bindata,2016-10-17 10:33:09 UTC,,,,,
+1765594,GollumEvent,dmendel_bindata,2016-01-30 13:54:37 UTC,,,,,
+1775706,IssueCommentEvent,dmendel_bindata,2016-01-30 13:25:10 UTC,,,,,
+1802567,PushEvent,dmendel_bindata,2016-10-17 11:07:05 UTC,,,,,
+1853038,PushEvent,dmendel_bindata,2016-09-02 07:31:01 UTC,,,,,
+1859884,WatchEvent,dmendel_bindata,2016-10-17 20:52:16 UTC,,,,,
+1897294,WatchEvent,dmendel_bindata,2016-01-15 06:10:05 UTC,,,,,
+1919249,WatchEvent,dmendel_bindata,2016-02-12 16:33:27 UTC,,,,,
+1960432,WatchEvent,dmendel_bindata,2016-08-21 15:29:46 UTC,,,,,
+1971122,IssueCommentEvent,dmendel_bindata,2016-09-25 20:44:04 UTC,,,,,
+1980495,IssueCommentEvent,dmendel_bindata,2016-07-20 07:41:00 UTC,,,,,
+1985612,WatchEvent,dmendel_bindata,2016-07-14 01:59:59 UTC,,,,,
+1997764,PushEvent,dmendel_bindata,2016-03-24 04:36:43 UTC,,,,,
+2051124,PushEvent,dmendel_bindata,2016-09-02 03:21:37 UTC,,,,,
+2079519,PushEvent,dmendel_bindata,2016-09-02 04:07:11 UTC,,,,,
+2086237,WatchEvent,dmendel_bindata,2016-05-11 04:03:43 UTC,,,,,
+2111552,WatchEvent,dmendel_bindata,2016-01-08 20:27:21 UTC,,,,,
+2124902,IssuesEvent,dmendel_bindata,2016-05-20 19:05:35 UTC,,,,,
+2131814,IssueCommentEvent,dmendel_bindata,2016-03-25 23:31:02 UTC,,,,,
+2140867,IssuesEvent,dmendel_bindata,2016-07-13 21:31:18 UTC,,,,,
+2162418,WatchEvent,dmendel_bindata,2016-09-18 23:55:52 UTC,,,,,
+2198544,IssueCommentEvent,dmendel_bindata,2016-03-26 08:23:01 UTC,,,,,
+2198567,IssueCommentEvent,dmendel_bindata,2016-06-17 09:48:42 UTC,,,,,
+2231586,PushEvent,dmendel_bindata,2016-09-02 07:14:19 UTC,,,,,
+2231993,WatchEvent,dmendel_bindata,2016-02-03 15:40:03 UTC,,,,,
+2242573,IssueCommentEvent,dmendel_bindata,2016-09-07 02:36:04 UTC,,,,,
+2254675,IssuesEvent,dmendel_bindata,2016-09-24 09:58:00 UTC,,,,,
+2263769,IssuesEvent,dmendel_bindata,2016-02-21 00:06:43 UTC,,,,,
+2273386,IssuesEvent,dmendel_bindata,2016-09-26 12:05:13 UTC,,,,,
+2286743,IssueCommentEvent,dmendel_bindata,2016-06-26 09:31:14 UTC,,,,,
+2302581,IssueCommentEvent,dmendel_bindata,2016-02-20 23:57:10 UTC,,,,,
+2304713,WatchEvent,dmendel_bindata,2016-07-18 03:37:13 UTC,,,,,
+2317781,GollumEvent,dmendel_bindata,2016-03-25 06:52:55 UTC,,,,,
+2356198,IssueCommentEvent,dmendel_bindata,2016-02-20 23:52:01 UTC,,,,,
+2367019,PushEvent,dmendel_bindata,2016-03-24 17:56:20 UTC,,,,,
+2385890,PushEvent,dmendel_bindata,2016-03-25 08:11:28 UTC,,,,,
+2385915,PushEvent,dmendel_bindata,2016-03-25 03:17:57 UTC,,,,,
+2395720,WatchEvent,dmendel_bindata,2016-09-30 03:19:14 UTC,,,,,
+2431736,IssueCommentEvent,dmendel_bindata,2016-09-07 02:51:57 UTC,,,,,
+2499780,WatchEvent,dmendel_bindata,2016-09-12 20:56:32 UTC,,,,,
+2535644,IssuesEvent,dmendel_bindata,2016-06-17 09:45:47 UTC,,,,,
+2582329,WatchEvent,dmendel_bindata,2016-06-15 02:10:17 UTC,,,,,
+2611869,IssueCommentEvent,dmendel_bindata,2016-09-06 13:24:25 UTC,,,,,
+2616931,WatchEvent,dmendel_bindata,2016-04-17 14:35:23 UTC,,,,,
+2636589,IssuesEvent,dmendel_bindata,2016-07-16 19:27:28 UTC,,,,,
+2646740,IssueCommentEvent,dmendel_bindata,2016-07-16 19:27:28 UTC,,,,,
+2682663,ForkEvent,dmendel_bindata,2016-07-06 10:29:03 UTC,,,,,
+2774435,WatchEvent,dmendel_bindata,2016-06-17 06:28:39 UTC,,,,,
+2775684,IssueCommentEvent,dmendel_bindata,2016-09-06 11:00:03 UTC,,,,,
+2778833,IssueCommentEvent,dmendel_bindata,2016-07-18 20:30:50 UTC,,,,,
+2780813,WatchEvent,dmendel_bindata,2016-12-14 00:39:11 UTC,,,,,
+2781324,GollumEvent,dmendel_bindata,2016-03-14 01:37:29 UTC,,,,,
+2785034,IssueCommentEvent,dmendel_bindata,2016-07-08 02:11:08 UTC,,,,,
+2788235,IssueCommentEvent,dmendel_bindata,2016-09-07 02:47:22 UTC,,,,,
+2809174,WatchEvent,dmendel_bindata,2016-07-07 08:59:38 UTC,,,,,
+2818602,WatchEvent,dmendel_bindata,2016-10-04 17:18:26 UTC,,,,,
+2846492,PushEvent,dmendel_bindata,2016-06-17 09:45:48 UTC,,,,,
+2876660,IssueCommentEvent,dmendel_bindata,2016-03-24 06:58:49 UTC,,,,,
+2892250,IssueCommentEvent,dmendel_bindata,2016-05-21 18:02:11 UTC,,,,,
+2919331,WatchEvent,dmendel_bindata,2016-06-24 03:16:24 UTC,,,,,
+2932080,WatchEvent,dmendel_bindata,2016-07-02 03:12:57 UTC,,,,,
+2936365,IssueCommentEvent,dmendel_bindata,2016-08-31 01:04:56 UTC,,,,,
+2941565,WatchEvent,dmendel_bindata,2016-09-07 23:04:51 UTC,,,,,
+3011934,IssueCommentEvent,dmendel_bindata,2016-07-18 20:10:19 UTC,,,,,
+3045324,WatchEvent,dmendel_bindata,2016-03-16 22:57:35 UTC,,,,,
+3086867,GollumEvent,dmendel_bindata,2016-09-07 03:10:30 UTC,,,,,
+3092607,WatchEvent,dmendel_bindata,2016-09-06 06:39:40 UTC,,,,,
+3095300,PushEvent,dmendel_bindata,2016-03-25 03:57:27 UTC,,,,,
+3139333,PushEvent,dmendel_bindata,2016-01-18 03:19:59 UTC,,,,,
+3177437,WatchEvent,dmendel_bindata,2016-06-26 14:58:39 UTC,,,,,
+3199350,WatchEvent,dmendel_bindata,2016-08-29 08:31:03 UTC,,,,,
+3208777,WatchEvent,dmendel_bindata,2016-06-15 02:47:51 UTC,,,,,
+3212001,WatchEvent,dmendel_bindata,2016-07-09 07:02:17 UTC,,,,,
+3224735,WatchEvent,dmendel_bindata,2016-09-06 06:50:09 UTC,,,,,
+3228000,WatchEvent,dmendel_bindata,2016-06-17 08:44:04 UTC,,,,,
+3229135,IssueCommentEvent,dmendel_bindata,2016-10-15 14:32:25 UTC,,,,,
+3235365,IssueCommentEvent,dmendel_bindata,2016-03-04 04:09:51 UTC,,,,,
+3246420,PushEvent,dmendel_bindata,2016-01-30 12:59:36 UTC,,,,,
+3263761,IssueCommentEvent,dmendel_bindata,2016-09-02 03:29:17 UTC,,,,,
+3275104,WatchEvent,dmendel_bindata,2016-08-18 03:31:56 UTC,,,,,
+3303400,WatchEvent,dmendel_bindata,2016-08-06 12:47:23 UTC,,,,,
+3303405,WatchEvent,dmendel_bindata,2016-08-01 20:53:41 UTC,,,,,
+3321844,PushEvent,dmendel_bindata,2016-03-25 06:57:36 UTC,,,,,
+3322238,WatchEvent,dmendel_bindata,2016-05-25 09:01:40 UTC,,,,,
+3341504,CreateEvent,dmendel_bindata,2016-09-02 07:31:13 UTC,,,,,
+3342188,IssueCommentEvent,dmendel_bindata,2016-07-09 05:13:18 UTC,,,,,
+3359913,WatchEvent,dmendel_bindata,2016-09-10 19:11:55 UTC,,,,,
+3361088,IssueCommentEvent,dmendel_bindata,2016-07-20 07:09:10 UTC,,,,,
+3367465,IssueCommentEvent,dmendel_bindata,2016-05-21 00:10:53 UTC,,,,,
+3369367,WatchEvent,dmendel_bindata,2016-08-23 15:47:09 UTC,,,,,
+3370604,IssueCommentEvent,dmendel_bindata,2016-03-26 07:59:33 UTC,,,,,
+3372070,PushEvent,dmendel_bindata,2016-03-24 17:46:12 UTC,,,,,
+3376824,IssueCommentEvent,dmendel_bindata,2016-10-15 14:32:25 UTC,,,,,
+3391325,WatchEvent,dmendel_bindata,2016-11-13 03:41:21 UTC,,,,,
+3414584,IssueCommentEvent,dmendel_bindata,2016-03-26 08:31:42 UTC,,,,,
+3438628,WatchEvent,dmendel_bindata,2016-06-15 12:41:13 UTC,,,,,
+3464606,IssuesEvent,dmendel_bindata,2016-06-25 08:52:18 UTC,,,,,
+3470245,WatchEvent,dmendel_bindata,2016-08-19 13:29:50 UTC,,,,,
+3502989,IssueCommentEvent,dmendel_bindata,2016-09-06 16:53:14 UTC,,,,,
+3511927,IssuesEvent,dmendel_bindata,2016-05-21 18:02:11 UTC,,,,,
+3537185,IssuesEvent,dmendel_bindata,2016-03-25 23:29:04 UTC,,,,,
+3553537,IssueCommentEvent,dmendel_bindata,2016-03-26 09:05:54 UTC,,,,,
+3558610,WatchEvent,dmendel_bindata,2016-07-05 07:15:25 UTC,,,,,
+3615090,WatchEvent,dmendel_bindata,2016-04-19 01:51:37 UTC,,,,,
+3631278,CreateEvent,dmendel_bindata,2016-09-07 03:12:36 UTC,,,,,
+3656186,WatchEvent,dmendel_bindata,2016-01-06 20:50:51 UTC,,,,,
+3668338,PushEvent,dmendel_bindata,2016-09-07 03:12:21 UTC,,,,,
+3671499,PushEvent,dmendel_bindata,2016-01-18 04:37:53 UTC,,,,,
+3694667,CreateEvent,dmendel_bindata,2016-10-17 11:07:09 UTC,,,,,
+3704198,IssuesEvent,dmendel_bindata,2016-09-02 03:29:29 UTC,,,,,
+3771159,IssueCommentEvent,dmendel_bindata,2016-09-06 04:46:10 UTC,,,,,
+3815001,IssuesEvent,dmendel_bindata,2016-09-06 04:34:41 UTC,,,,,
+3830664,GollumEvent,dmendel_bindata,2016-03-25 06:47:12 UTC,,,,,
+3846966,IssueCommentEvent,dmendel_bindata,2016-06-25 14:09:46 UTC,,,,,
+3867265,PushEvent,dmendel_bindata,2016-09-30 08:11:33 UTC,,,,,
+3931761,IssueCommentEvent,dmendel_bindata,2016-07-18 20:22:42 UTC,,,,,
+3944632,IssueCommentEvent,dmendel_bindata,2016-09-23 14:02:44 UTC,,,,,
+3946211,PushEvent,dmendel_bindata,2016-03-01 13:07:27 UTC,,,,,
+3956122,WatchEvent,dmendel_bindata,2016-12-22 19:13:09 UTC,,,,,
+3995117,PullRequestEvent,dmendel_bindata,2016-10-15 14:19:55 UTC,,,,,
+4022525,WatchEvent,dmendel_bindata,2016-01-23 14:09:41 UTC,,,,,
+4038187,WatchEvent,dmendel_bindata,2016-10-16 00:56:36 UTC,,,,,
+4053531,PushEvent,dmendel_bindata,2016-03-24 18:32:42 UTC,,,,,
+4054604,GollumEvent,dmendel_bindata,2016-09-02 03:46:54 UTC,,,,,
+4067837,IssueCommentEvent,dmendel_bindata,2016-02-20 23:39:22 UTC,,,,,
+4113872,WatchEvent,dmendel_bindata,2016-01-12 12:44:06 UTC,,,,,
+4123179,WatchEvent,dmendel_bindata,2016-11-23 15:00:50 UTC,,,,,
+4129452,WatchEvent,dmendel_bindata,2016-06-22 13:36:30 UTC,,,,,
+4135256,PushEvent,dmendel_bindata,2016-09-07 03:05:57 UTC,,,,,
+4160527,ForkEvent,dmendel_bindata,2016-05-11 04:03:34 UTC,,,,,
+11051,GollumEvent,dmendel_bindata,2017-03-09 00:48:19 UTC,,,,,
+66886,ForkEvent,dmendel_bindata,2017-04-19 23:13:08 UTC,,,,,
+150949,ForkEvent,dmendel_bindata,2017-09-15 16:45:32 UTC,,,,,
+185133,ForkEvent,dmendel_bindata,2017-01-14 18:42:02 UTC,,,,,
+227836,ForkEvent,dmendel_bindata,2017-08-26 03:33:36 UTC,,,,,
+306108,ForkEvent,dmendel_bindata,2017-04-10 08:49:23 UTC,,,,,
+317569,ForkEvent,dmendel_bindata,2017-06-07 10:41:48 UTC,,,,,
+318225,ForkEvent,dmendel_bindata,2017-11-13 16:04:48 UTC,,,,,
+375759,PushEvent,dmendel_bindata,2017-03-01 05:37:52 UTC,,,,,
+534082,PushEvent,dmendel_bindata,2017-03-21 05:49:57 UTC,,,,,
+536963,PushEvent,dmendel_bindata,2017-04-09 09:57:43 UTC,,,,,
+617268,PushEvent,dmendel_bindata,2017-03-02 00:54:25 UTC,,,,,
+663746,PushEvent,dmendel_bindata,2017-08-30 03:27:49 UTC,,,,,
+720106,PushEvent,dmendel_bindata,2017-01-19 14:13:29 UTC,,,,,
+969420,WatchEvent,dmendel_bindata,2017-12-20 23:30:32 UTC,,,,,
+972651,WatchEvent,dmendel_bindata,2017-10-15 13:56:47 UTC,,,,,
+1039305,WatchEvent,dmendel_bindata,2017-06-07 14:33:58 UTC,,,,,
+1039484,WatchEvent,dmendel_bindata,2017-06-22 04:05:58 UTC,,,,,
+1073718,WatchEvent,dmendel_bindata,2017-11-17 05:55:19 UTC,,,,,
+1089986,WatchEvent,dmendel_bindata,2017-09-30 16:10:30 UTC,,,,,
+1102515,WatchEvent,dmendel_bindata,2017-04-07 04:57:06 UTC,,,,,
+1105546,WatchEvent,dmendel_bindata,2017-02-08 06:41:00 UTC,,,,,
+1107425,WatchEvent,dmendel_bindata,2017-12-07 20:44:47 UTC,,,,,
+1108549,WatchEvent,dmendel_bindata,2017-12-08 05:27:22 UTC,,,,,
+1111990,WatchEvent,dmendel_bindata,2017-05-10 10:36:11 UTC,,,,,
+1119395,WatchEvent,dmendel_bindata,2017-05-11 14:49:07 UTC,,,,,
+1122341,WatchEvent,dmendel_bindata,2017-08-17 06:20:20 UTC,,,,,
+1123476,WatchEvent,dmendel_bindata,2017-01-05 08:10:44 UTC,,,,,
+1133267,WatchEvent,dmendel_bindata,2017-03-12 03:42:54 UTC,,,,,
+1139090,WatchEvent,dmendel_bindata,2017-10-30 07:12:42 UTC,,,,,
+1143129,WatchEvent,dmendel_bindata,2017-02-13 19:57:26 UTC,,,,,
+1156019,WatchEvent,dmendel_bindata,2017-01-05 11:47:31 UTC,,,,,
+1205737,WatchEvent,dmendel_bindata,2017-05-25 17:55:13 UTC,,,,,
+1213106,WatchEvent,dmendel_bindata,2017-09-30 09:39:51 UTC,,,,,
+1220404,WatchEvent,dmendel_bindata,2017-12-25 10:17:05 UTC,,,,,
+1255704,WatchEvent,dmendel_bindata,2017-12-11 13:29:53 UTC,,,,,
+1256057,WatchEvent,dmendel_bindata,2017-07-20 09:10:53 UTC,,,,,
+1259256,WatchEvent,dmendel_bindata,2017-01-21 07:17:04 UTC,,,,,
+1271906,WatchEvent,dmendel_bindata,2017-09-15 06:48:20 UTC,,,,,
+1290143,WatchEvent,dmendel_bindata,2017-10-14 11:18:07 UTC,,,,,
+1294887,WatchEvent,dmendel_bindata,2017-10-12 02:08:24 UTC,,,,,
+1296485,WatchEvent,dmendel_bindata,2017-10-30 12:22:52 UTC,,,,,
+1300212,WatchEvent,dmendel_bindata,2017-01-06 21:08:18 UTC,,,,,
+1307128,WatchEvent,dmendel_bindata,2017-12-07 17:31:50 UTC,,,,,
+1348183,WatchEvent,dmendel_bindata,2017-09-03 14:49:04 UTC,,,,,
+1369387,WatchEvent,dmendel_bindata,2017-03-28 12:42:56 UTC,,,,,
+1379087,WatchEvent,dmendel_bindata,2017-05-09 18:09:56 UTC,,,,,
+1379461,WatchEvent,dmendel_bindata,2017-06-19 10:41:14 UTC,,,,,
+1396005,WatchEvent,dmendel_bindata,2017-04-19 23:13:02 UTC,,,,,
+1413265,WatchEvent,dmendel_bindata,2017-04-19 16:01:48 UTC,,,,,
+1438219,WatchEvent,dmendel_bindata,2017-08-29 02:51:55 UTC,,,,,
+1486276,WatchEvent,dmendel_bindata,2017-06-21 00:40:40 UTC,,,,,
+1496941,WatchEvent,dmendel_bindata,2017-04-18 12:36:17 UTC,,,,,
+1500702,WatchEvent,dmendel_bindata,2017-11-25 15:25:06 UTC,,,,,
+1504615,WatchEvent,dmendel_bindata,2017-11-23 20:44:37 UTC,,,,,
+1550008,WatchEvent,dmendel_bindata,2017-06-15 02:22:43 UTC,,,,,
+1561522,WatchEvent,dmendel_bindata,2017-01-25 04:40:20 UTC,,,,,
+1567906,WatchEvent,dmendel_bindata,2017-09-30 15:44:53 UTC,,,,,
+1574089,WatchEvent,dmendel_bindata,2017-01-02 15:58:33 UTC,,,,,
+1582997,WatchEvent,dmendel_bindata,2017-04-03 03:54:38 UTC,,,,,
+1597194,WatchEvent,dmendel_bindata,2017-10-16 04:45:04 UTC,,,,,
+1602130,WatchEvent,dmendel_bindata,2017-05-08 08:11:30 UTC,,,,,
+1612517,WatchEvent,dmendel_bindata,2017-05-07 00:33:16 UTC,,,,,
+1626155,WatchEvent,dmendel_bindata,2017-10-01 10:13:15 UTC,,,,,
+1641977,WatchEvent,dmendel_bindata,2017-01-06 17:34:16 UTC,,,,,
+1642965,WatchEvent,dmendel_bindata,2017-01-17 09:20:35 UTC,,,,,
+1647879,WatchEvent,dmendel_bindata,2017-11-01 06:51:58 UTC,,,,,
+1660793,WatchEvent,dmendel_bindata,2017-03-24 22:11:00 UTC,,,,,
+1679162,WatchEvent,dmendel_bindata,2017-07-25 03:30:53 UTC,,,,,
+1700303,WatchEvent,dmendel_bindata,2017-04-12 08:46:06 UTC,,,,,
+1705137,WatchEvent,dmendel_bindata,2017-09-29 20:24:45 UTC,,,,,
+1712750,WatchEvent,dmendel_bindata,2017-01-25 19:40:06 UTC,,,,,
+1712956,WatchEvent,dmendel_bindata,2017-01-17 18:49:47 UTC,,,,,
+1727169,WatchEvent,dmendel_bindata,2017-09-01 19:08:41 UTC,,,,,
+1754227,WatchEvent,dmendel_bindata,2017-01-21 19:36:03 UTC,,,,,
+1754247,WatchEvent,dmendel_bindata,2017-08-21 10:22:31 UTC,,,,,
+1774372,WatchEvent,dmendel_bindata,2017-02-07 20:41:20 UTC,,,,,
+1798780,WatchEvent,dmendel_bindata,2017-08-27 20:02:20 UTC,,,,,
+1800683,WatchEvent,dmendel_bindata,2017-03-24 02:05:26 UTC,,,,,
+1805118,WatchEvent,dmendel_bindata,2017-10-03 13:36:53 UTC,,,,,
+1830801,WatchEvent,dmendel_bindata,2017-10-02 10:32:55 UTC,,,,,
+1839969,WatchEvent,dmendel_bindata,2017-01-20 10:45:33 UTC,,,,,
+1851688,WatchEvent,dmendel_bindata,2017-02-26 13:10:27 UTC,,,,,
+1864149,WatchEvent,dmendel_bindata,2017-01-19 10:13:35 UTC,,,,,
+1888768,WatchEvent,dmendel_bindata,2017-11-06 21:37:33 UTC,,,,,
+1896201,WatchEvent,dmendel_bindata,2017-03-02 04:50:14 UTC,,,,,
+1896215,WatchEvent,dmendel_bindata,2017-09-29 11:59:27 UTC,,,,,
+1907949,WatchEvent,dmendel_bindata,2017-01-11 10:13:50 UTC,,,,,
+1913362,CreateEvent,dmendel_bindata,2017-01-19 14:27:33 UTC,,,,,
+1946160,CreateEvent,dmendel_bindata,2017-08-30 03:28:10 UTC,,,,,
+1954948,CreateEvent,dmendel_bindata,2017-04-09 09:58:03 UTC,,,,,
+2060505,IssuesEvent,dmendel_bindata,2017-01-05 21:36:34 UTC,,,,,
+2078923,IssuesEvent,dmendel_bindata,2017-03-13 14:21:02 UTC,,,,,
+2090935,IssuesEvent,dmendel_bindata,2017-03-15 07:48:32 UTC,,,,,
+2097352,IssuesEvent,dmendel_bindata,2017-03-14 04:44:24 UTC,,,,,
+2113768,IssuesEvent,dmendel_bindata,2017-04-26 07:41:53 UTC,,,,,
+2132881,IssuesEvent,dmendel_bindata,2017-06-14 06:49:18 UTC,,,,,
+2136014,IssuesEvent,dmendel_bindata,2017-03-14 15:14:46 UTC,,,,,
+2143129,IssuesEvent,dmendel_bindata,2017-01-19 14:13:29 UTC,,,,,
+2199925,IssuesEvent,dmendel_bindata,2017-03-13 14:21:09 UTC,,,,,
+2233523,IssuesEvent,dmendel_bindata,2017-04-08 20:56:58 UTC,,,,,
+2236358,IssuesEvent,dmendel_bindata,2017-03-08 14:34:41 UTC,,,,,
+2244418,IssuesEvent,dmendel_bindata,2017-03-13 14:09:27 UTC,,,,,
+2263440,IssuesEvent,dmendel_bindata,2017-03-13 14:18:26 UTC,,,,,
+2294528,IssuesEvent,dmendel_bindata,2017-01-19 03:24:39 UTC,,,,,
+2320900,IssuesEvent,dmendel_bindata,2017-05-12 12:07:43 UTC,,,,,
+2332171,IssuesEvent,dmendel_bindata,2017-08-31 14:08:26 UTC,,,,,
+2340417,IssuesEvent,dmendel_bindata,2017-04-09 10:03:01 UTC,,,,,
+2348679,IssuesEvent,dmendel_bindata,2017-05-12 14:44:43 UTC,,,,,
+2365381,IssuesEvent,dmendel_bindata,2017-01-04 22:18:31 UTC,,,,,
+2409939,IssuesEvent,dmendel_bindata,2017-05-13 07:19:29 UTC,,,,,
+2410131,IssuesEvent,dmendel_bindata,2017-04-19 07:11:46 UTC,,,,,
+2426614,IssuesEvent,dmendel_bindata,2017-08-30 08:06:01 UTC,,,,,
+2444307,PullRequestEvent,dmendel_bindata,2017-09-15 16:48:11 UTC,,,,,
+2467493,PullRequestEvent,dmendel_bindata,2017-09-15 17:03:24 UTC,,,,,
+3054462,IssueCommentEvent,dmendel_bindata,2017-04-09 10:03:01 UTC,,,,,
+3070073,IssueCommentEvent,dmendel_bindata,2017-08-30 03:33:32 UTC,,,,,
+3083832,IssueCommentEvent,dmendel_bindata,2017-05-13 07:19:30 UTC,,,,,
+3180896,IssueCommentEvent,dmendel_bindata,2017-05-15 11:26:03 UTC,,,,,
+3207901,IssueCommentEvent,dmendel_bindata,2017-08-30 14:52:10 UTC,,,,,
+3230526,IssueCommentEvent,dmendel_bindata,2017-04-20 04:47:43 UTC,,,,,
+3233610,IssueCommentEvent,dmendel_bindata,2017-04-26 07:41:53 UTC,,,,,
+3367923,IssueCommentEvent,dmendel_bindata,2017-04-19 09:28:21 UTC,,,,,
+3423087,IssueCommentEvent,dmendel_bindata,2017-05-15 11:05:53 UTC,,,,,
+3428229,IssueCommentEvent,dmendel_bindata,2017-08-31 14:08:23 UTC,,,,,
+3471742,IssueCommentEvent,dmendel_bindata,2017-03-15 04:27:08 UTC,,,,,
+3505793,IssueCommentEvent,dmendel_bindata,2017-05-15 15:15:05 UTC,,,,,
+3559776,IssueCommentEvent,dmendel_bindata,2017-03-08 18:18:17 UTC,,,,,
+3624508,IssueCommentEvent,dmendel_bindata,2017-01-19 14:22:45 UTC,,,,,
+3653791,IssueCommentEvent,dmendel_bindata,2017-05-13 07:25:01 UTC,,,,,
+3787848,IssueCommentEvent,dmendel_bindata,2017-03-13 14:26:55 UTC,,,,,
+3909750,IssueCommentEvent,dmendel_bindata,2017-04-19 08:57:01 UTC,,,,,
+4160028,IssueCommentEvent,dmendel_bindata,2017-01-05 21:36:34 UTC,,,,,
+4163041,IssueCommentEvent,dmendel_bindata,2017-08-29 21:48:33 UTC,,,,,
+4309251,IssueCommentEvent,dmendel_bindata,2017-01-05 00:31:59 UTC,,,,,
+4390732,IssueCommentEvent,dmendel_bindata,2017-03-13 14:36:26 UTC,,,,,
+4412962,IssueCommentEvent,dmendel_bindata,2017-09-15 17:03:24 UTC,,,,,
+4413943,IssueCommentEvent,dmendel_bindata,2017-03-15 07:48:31 UTC,,,,,
+4495681,IssueCommentEvent,dmendel_bindata,2017-05-16 05:25:31 UTC,,,,,
+4564889,IssueCommentEvent,dmendel_bindata,2017-03-14 04:44:24 UTC,,,,,
+4601558,IssueCommentEvent,dmendel_bindata,2017-09-15 17:09:30 UTC,,,,,
+8270,GollumEvent,dmendel_bindata,2018-10-27 20:45:18 UTC,,,,,
+27970,GollumEvent,dmendel_bindata,2018-03-09 16:43:47 UTC,,,,,
+36710,GollumEvent,dmendel_bindata,2018-05-02 14:10:05 UTC,,,,,
+62990,ForkEvent,dmendel_bindata,2018-05-16 14:18:06 UTC,,,,,
+86472,ForkEvent,dmendel_bindata,2018-06-14 09:30:52 UTC,,,,,
+130898,ForkEvent,dmendel_bindata,2018-04-26 15:34:44 UTC,,,,,
+236312,ForkEvent,dmendel_bindata,2018-03-08 20:09:16 UTC,,,,,
+277663,ForkEvent,dmendel_bindata,2018-11-18 16:07:15 UTC,,,,,
+288860,ForkEvent,dmendel_bindata,2018-07-03 20:12:51 UTC,,,,,
+304769,ForkEvent,dmendel_bindata,2018-07-18 19:44:01 UTC,,,,,
+447087,PushEvent,dmendel_bindata,2018-10-03 05:41:47 UTC,,,,,
+545335,PushEvent,dmendel_bindata,2018-10-03 05:19:11 UTC,,,,,
+553420,PushEvent,dmendel_bindata,2018-10-03 05:34:00 UTC,,,,,
+599104,PushEvent,dmendel_bindata,2018-03-09 16:32:14 UTC,,,,,
+770888,PushEvent,dmendel_bindata,2018-10-03 05:35:34 UTC,,,,,
+957988,WatchEvent,dmendel_bindata,2018-02-25 02:19:09 UTC,,,,,
+976498,WatchEvent,dmendel_bindata,2018-08-08 20:06:20 UTC,,,,,
+1040384,WatchEvent,dmendel_bindata,2018-07-14 14:29:49 UTC,,,,,
+1049561,WatchEvent,dmendel_bindata,2018-05-05 10:59:25 UTC,,,,,
+1091261,WatchEvent,dmendel_bindata,2018-07-12 19:44:40 UTC,,,,,
+1133427,WatchEvent,dmendel_bindata,2018-02-27 19:09:53 UTC,,,,,
+1157794,WatchEvent,dmendel_bindata,2018-12-29 03:03:15 UTC,,,,,
+1208671,WatchEvent,dmendel_bindata,2018-05-28 12:46:12 UTC,,,,,
+1214848,WatchEvent,dmendel_bindata,2018-08-02 00:53:57 UTC,,,,,
+1252574,WatchEvent,dmendel_bindata,2018-07-02 23:22:12 UTC,,,,,
+1263742,WatchEvent,dmendel_bindata,2018-06-27 07:59:27 UTC,,,,,
+1269839,WatchEvent,dmendel_bindata,2018-02-24 04:24:34 UTC,,,,,
+1276818,WatchEvent,dmendel_bindata,2018-11-18 03:49:52 UTC,,,,,
+1284533,WatchEvent,dmendel_bindata,2018-06-07 03:35:59 UTC,,,,,
+1305906,WatchEvent,dmendel_bindata,2018-07-11 03:36:15 UTC,,,,,
+1320865,WatchEvent,dmendel_bindata,2018-02-05 19:13:26 UTC,,,,,
+1323156,WatchEvent,dmendel_bindata,2018-02-08 15:18:00 UTC,,,,,
+1323507,WatchEvent,dmendel_bindata,2018-02-27 02:56:02 UTC,,,,,
+1340422,WatchEvent,dmendel_bindata,2018-02-15 00:38:22 UTC,,,,,
+1396901,WatchEvent,dmendel_bindata,2018-07-29 13:09:08 UTC,,,,,
+1397074,WatchEvent,dmendel_bindata,2018-06-07 08:29:54 UTC,,,,,
+1399202,WatchEvent,dmendel_bindata,2018-03-16 16:43:35 UTC,,,,,
+1408879,WatchEvent,dmendel_bindata,2018-09-03 14:30:08 UTC,,,,,
+1416970,WatchEvent,dmendel_bindata,2018-12-15 21:35:17 UTC,,,,,
+1420547,WatchEvent,dmendel_bindata,2018-03-14 16:54:23 UTC,,,,,
+1427395,WatchEvent,dmendel_bindata,2018-05-31 08:55:28 UTC,,,,,
+1451143,WatchEvent,dmendel_bindata,2018-11-11 21:29:02 UTC,,,,,
+1471594,WatchEvent,dmendel_bindata,2018-03-04 12:15:00 UTC,,,,,
+1473463,WatchEvent,dmendel_bindata,2018-02-02 22:44:39 UTC,,,,,
+1498424,WatchEvent,dmendel_bindata,2018-07-13 07:33:41 UTC,,,,,
+1533488,WatchEvent,dmendel_bindata,2018-04-17 15:50:18 UTC,,,,,
+1535913,WatchEvent,dmendel_bindata,2018-02-15 01:43:13 UTC,,,,,
+1557986,WatchEvent,dmendel_bindata,2018-06-13 19:02:36 UTC,,,,,
+1593269,WatchEvent,dmendel_bindata,2018-06-14 09:30:47 UTC,,,,,
+1608122,WatchEvent,dmendel_bindata,2018-11-17 22:51:16 UTC,,,,,
+1635241,WatchEvent,dmendel_bindata,2018-06-07 19:34:43 UTC,,,,,
+1704653,WatchEvent,dmendel_bindata,2018-03-05 20:04:44 UTC,,,,,
+1739549,WatchEvent,dmendel_bindata,2018-11-18 16:07:12 UTC,,,,,
+1744422,WatchEvent,dmendel_bindata,2018-08-16 02:26:46 UTC,,,,,
+1840607,WatchEvent,dmendel_bindata,2018-11-06 01:40:14 UTC,,,,,
+1863556,WatchEvent,dmendel_bindata,2018-06-25 09:34:26 UTC,,,,,
+1878055,WatchEvent,dmendel_bindata,2018-04-21 09:02:50 UTC,,,,,
+1922049,CreateEvent,dmendel_bindata,2018-10-03 05:36:35 UTC,,,,,
+1927903,CreateEvent,dmendel_bindata,2018-03-09 16:32:19 UTC,,,,,
+2042107,IssuesEvent,dmendel_bindata,2018-10-02 21:55:07 UTC,,,,,
+2049015,IssuesEvent,dmendel_bindata,2018-03-09 20:22:07 UTC,,,,,
+2065655,IssuesEvent,dmendel_bindata,2018-05-20 09:48:27 UTC,,,,,
+2084247,IssuesEvent,dmendel_bindata,2018-10-03 05:44:43 UTC,,,,,
+2104444,IssuesEvent,dmendel_bindata,2018-05-21 02:35:09 UTC,,,,,
+2129191,IssuesEvent,dmendel_bindata,2018-05-05 23:39:48 UTC,,,,,
+2206123,IssuesEvent,dmendel_bindata,2018-05-21 02:02:51 UTC,,,,,
+2228230,IssuesEvent,dmendel_bindata,2018-06-03 22:02:58 UTC,,,,,
+2242099,IssuesEvent,dmendel_bindata,2018-06-02 21:21:16 UTC,,,,,
+2247428,IssuesEvent,dmendel_bindata,2018-05-02 09:10:15 UTC,,,,,
+2288473,IssuesEvent,dmendel_bindata,2018-05-02 08:09:44 UTC,,,,,
+2292331,IssuesEvent,dmendel_bindata,2018-05-09 18:15:41 UTC,,,,,
+2308110,IssuesEvent,dmendel_bindata,2018-05-06 22:09:10 UTC,,,,,
+2345086,IssuesEvent,dmendel_bindata,2018-03-12 16:30:26 UTC,,,,,
+2348678,IssuesEvent,dmendel_bindata,2018-05-07 09:43:36 UTC,,,,,
+2357852,IssuesEvent,dmendel_bindata,2018-05-03 09:42:51 UTC,,,,,
+2424473,PullRequestEvent,dmendel_bindata,2018-07-03 20:43:17 UTC,,,,,
+2491514,PullRequestEvent,dmendel_bindata,2018-03-09 16:37:14 UTC,,,,,
+2736100,PullRequestEvent,dmendel_bindata,2018-03-08 20:55:28 UTC,,,,,
+2951494,IssueCommentEvent,dmendel_bindata,2018-10-03 06:21:19 UTC,,,,,
+2953470,IssueCommentEvent,dmendel_bindata,2018-05-02 14:11:39 UTC,,,,,
+3105566,IssueCommentEvent,dmendel_bindata,2018-05-03 14:02:56 UTC,,,,,
+3350638,IssueCommentEvent,dmendel_bindata,2018-03-12 16:30:26 UTC,,,,,
+3422266,IssueCommentEvent,dmendel_bindata,2018-05-06 02:29:47 UTC,,,,,
+3509255,IssueCommentEvent,dmendel_bindata,2018-05-06 02:40:26 UTC,,,,,
+3552219,IssueCommentEvent,dmendel_bindata,2018-05-21 10:37:06 UTC,,,,,
+3577126,IssueCommentEvent,dmendel_bindata,2018-05-10 03:04:29 UTC,,,,,
+3585616,IssueCommentEvent,dmendel_bindata,2018-07-03 20:47:39 UTC,,,,,
+3689969,IssueCommentEvent,dmendel_bindata,2018-05-10 18:16:23 UTC,,,,,
+3729751,IssueCommentEvent,dmendel_bindata,2018-10-03 05:44:43 UTC,,,,,
+3747122,IssueCommentEvent,dmendel_bindata,2018-05-02 09:10:15 UTC,,,,,
+3912076,IssueCommentEvent,dmendel_bindata,2018-03-09 16:37:14 UTC,,,,,
+4015123,IssueCommentEvent,dmendel_bindata,2018-03-09 04:46:51 UTC,,,,,
+4036416,IssueCommentEvent,dmendel_bindata,2018-05-11 03:15:38 UTC,,,,,
+4061857,IssueCommentEvent,dmendel_bindata,2018-06-03 22:02:58 UTC,,,,,
+4245466,IssueCommentEvent,dmendel_bindata,2018-05-21 02:35:09 UTC,,,,,
+4330505,IssueCommentEvent,dmendel_bindata,2018-03-08 20:58:58 UTC,,,,,
+4341486,IssueCommentEvent,dmendel_bindata,2018-05-02 08:57:49 UTC,,,,,
+4347041,IssueCommentEvent,dmendel_bindata,2018-03-10 12:51:33 UTC,,,,,
+4358732,IssueCommentEvent,dmendel_bindata,2018-05-07 05:17:10 UTC,,,,,
+4449134,IssueCommentEvent,dmendel_bindata,2018-03-09 13:12:35 UTC,,,,,
+4494460,IssueCommentEvent,dmendel_bindata,2018-05-03 09:43:06 UTC,,,,,
+14040,GollumEvent,dmendel_bindata,2019-03-04 03:39:18 UTC,,,,,
+15700,GollumEvent,dmendel_bindata,2019-03-04 03:48:31 UTC,,,,,
+28781,GollumEvent,dmendel_bindata,2019-03-04 03:49:57 UTC,,,,,
+141954,ForkEvent,dmendel_bindata,2019-09-23 16:33:19 UTC,,,,,
+602788,PushEvent,dmendel_bindata,2019-06-21 15:54:24 UTC,,,,,
+737796,PushEvent,dmendel_bindata,2020-01-01 04:52:02 UTC,,,,,
+1015925,PushEvent,dmendel_bindata,2019-05-11 14:32:14 UTC,,,,,
+1205644,WatchEvent,dmendel_bindata,2019-05-05 22:54:35 UTC,,,,,
+1216846,WatchEvent,dmendel_bindata,2019-06-07 03:33:08 UTC,,,,,
+1228098,WatchEvent,dmendel_bindata,2019-03-06 23:10:31 UTC,,,,,
+1247644,WatchEvent,dmendel_bindata,2019-02-16 03:35:04 UTC,,,,,
+1329045,WatchEvent,dmendel_bindata,2019-03-20 20:51:46 UTC,,,,,
+1434807,WatchEvent,dmendel_bindata,2019-11-19 03:04:51 UTC,,,,,
+1436991,WatchEvent,dmendel_bindata,2019-03-16 09:58:39 UTC,,,,,
+1442609,WatchEvent,dmendel_bindata,2019-10-09 08:29:51 UTC,,,,,
+1456903,WatchEvent,dmendel_bindata,2019-09-13 16:43:03 UTC,,,,,
+1474728,WatchEvent,dmendel_bindata,2019-05-28 07:29:50 UTC,,,,,
+1474969,WatchEvent,dmendel_bindata,2019-03-08 11:01:54 UTC,,,,,
+1519443,WatchEvent,dmendel_bindata,2019-11-05 17:13:58 UTC,,,,,
+1532304,WatchEvent,dmendel_bindata,2019-12-29 21:26:06 UTC,,,,,
+1534693,WatchEvent,dmendel_bindata,2019-02-02 03:02:20 UTC,,,,,
+1611339,WatchEvent,dmendel_bindata,2019-05-28 15:08:56 UTC,,,,,
+1646847,WatchEvent,dmendel_bindata,2019-05-14 11:56:29 UTC,,,,,
+1646861,WatchEvent,dmendel_bindata,2019-04-26 03:41:03 UTC,,,,,
+1707646,WatchEvent,dmendel_bindata,2019-06-01 15:13:44 UTC,,,,,
+1724235,WatchEvent,dmendel_bindata,2019-04-28 02:06:13 UTC,,,,,
+1732713,WatchEvent,dmendel_bindata,2019-11-24 23:17:14 UTC,,,,,
+1778327,WatchEvent,dmendel_bindata,2019-02-03 06:43:44 UTC,,,,,
+1806372,WatchEvent,dmendel_bindata,2019-06-01 04:47:37 UTC,,,,,
+1947302,WatchEvent,dmendel_bindata,2019-05-28 11:23:45 UTC,,,,,
+2071427,WatchEvent,dmendel_bindata,2020-01-08 19:41:18 UTC,,,,,
+2137636,WatchEvent,dmendel_bindata,2019-09-02 00:49:45 UTC,,,,,
+2142775,WatchEvent,dmendel_bindata,2019-06-06 13:34:48 UTC,,,,,
+2143913,WatchEvent,dmendel_bindata,2019-05-17 11:01:13 UTC,,,,,
+2145692,WatchEvent,dmendel_bindata,2019-10-22 11:01:32 UTC,,,,,
+2167873,WatchEvent,dmendel_bindata,2019-02-04 23:14:43 UTC,,,,,
+2170173,WatchEvent,dmendel_bindata,2019-09-03 03:52:17 UTC,,,,,
+2201370,WatchEvent,dmendel_bindata,2019-03-14 16:22:03 UTC,,,,,
+2220255,WatchEvent,dmendel_bindata,2019-10-22 13:28:50 UTC,,,,,
+2256693,WatchEvent,dmendel_bindata,2019-12-21 10:39:41 UTC,,,,,
+2262760,WatchEvent,dmendel_bindata,2019-04-01 13:24:16 UTC,,,,,
+2554184,IssuesEvent,dmendel_bindata,2019-04-12 10:11:15 UTC,,,,,
+2571188,IssuesEvent,dmendel_bindata,2019-05-11 14:34:26 UTC,,,,,
+2574930,IssuesEvent,dmendel_bindata,2019-05-11 14:33:39 UTC,,,,,
+2575096,IssuesEvent,dmendel_bindata,2019-10-23 03:45:53 UTC,,,,,
+2599076,IssuesEvent,dmendel_bindata,2019-05-12 09:09:12 UTC,,,,,
+2649473,IssuesEvent,dmendel_bindata,2019-06-21 15:58:26 UTC,,,,,
+2666167,IssuesEvent,dmendel_bindata,2019-05-11 07:18:27 UTC,,,,,
+2669580,IssuesEvent,dmendel_bindata,2019-03-04 08:28:30 UTC,,,,,
+2686511,IssuesEvent,dmendel_bindata,2019-05-05 22:55:02 UTC,,,,,
+2738845,IssuesEvent,dmendel_bindata,2019-03-04 08:26:02 UTC,,,,,
+2769123,IssuesEvent,dmendel_bindata,2019-02-26 20:48:11 UTC,,,,,
+2771505,IssuesEvent,dmendel_bindata,2019-03-04 01:33:03 UTC,,,,,
+2775579,IssuesEvent,dmendel_bindata,2019-05-11 07:00:35 UTC,,,,,
+2809726,IssuesEvent,dmendel_bindata,2019-04-23 18:41:20 UTC,,,,,
+2815792,IssuesEvent,dmendel_bindata,2019-02-26 03:19:52 UTC,,,,,
+2825261,IssuesEvent,dmendel_bindata,2019-10-23 03:57:56 UTC,,,,,
+2837711,IssuesEvent,dmendel_bindata,2019-02-27 02:42:05 UTC,,,,,
+2883642,IssuesEvent,dmendel_bindata,2019-10-21 06:29:15 UTC,,,,,
+2926116,IssuesEvent,dmendel_bindata,2019-06-21 14:44:39 UTC,,,,,
+2934912,IssuesEvent,dmendel_bindata,2019-05-06 01:26:36 UTC,,,,,
+3901067,IssueCommentEvent,dmendel_bindata,2019-05-11 14:33:39 UTC,,,,,
+3995276,IssueCommentEvent,dmendel_bindata,2019-03-04 08:28:30 UTC,,,,,
+4154259,IssueCommentEvent,dmendel_bindata,2019-03-04 03:30:25 UTC,,,,,
+4254818,IssueCommentEvent,dmendel_bindata,2019-02-27 02:42:05 UTC,,,,,
+4425729,IssueCommentEvent,dmendel_bindata,2019-10-23 03:45:52 UTC,,,,,
+4662243,IssueCommentEvent,dmendel_bindata,2019-05-06 01:10:59 UTC,,,,,
+4708285,IssueCommentEvent,dmendel_bindata,2019-03-04 08:26:02 UTC,,,,,
+4730405,IssueCommentEvent,dmendel_bindata,2019-10-23 06:42:44 UTC,,,,,
+4758563,IssueCommentEvent,dmendel_bindata,2019-05-11 14:34:26 UTC,,,,,
+4868720,IssueCommentEvent,dmendel_bindata,2019-05-06 01:03:37 UTC,,,,,
+5145763,IssueCommentEvent,dmendel_bindata,2019-10-23 03:57:58 UTC,,,,,
+5354057,IssueCommentEvent,dmendel_bindata,2019-05-06 01:26:36 UTC,,,,,
+5426758,IssueCommentEvent,dmendel_bindata,2019-06-21 15:58:26 UTC,,,,,
+5441491,IssueCommentEvent,dmendel_bindata,2019-05-06 00:57:42 UTC,,,,,
+5584978,IssueCommentEvent,dmendel_bindata,2019-02-26 07:27:55 UTC,,,,,
+0,Commit,dmendel_bindata,2022-11-10 07:06:28,adc59cc74380139e9da8f348d29a09813382cdb6,9.0,75.0,5.0,0.0
+1,Commit,dmendel_bindata,2022-11-03 10:37:40,4b5dfbf45a35598ee22a2c3c743bf2f5b9d3951c,1.0,1.0,1.0,0.0
+2,Commit,dmendel_bindata,2022-10-31 09:39:36,23f08833ac8152c3cac2beb6048f7cb55d52befc,5.0,0.0,2.0,0.0
+3,Commit,dmendel_bindata,2022-10-30 16:21:31,9674389ed5da80a6d26d9a523796bc99257f2b1c,2.0,2.0,2.0,0.0
+4,Commit,dmendel_bindata,2022-10-30 16:20:40,3a0b75f06fa59fa3c2fd68818bc82510b3ecec31,8.0,7.0,4.0,0.0
+5,Commit,dmendel_bindata,2022-10-30 16:05:05,7cbd2d3ab7d6061bebb7120ebf4624109eb12301,881.0,880.0,29.0,0.0
+6,Commit,dmendel_bindata,2022-10-30 13:24:46,89a3c3652a361e73d95cbe97d0d5906db55a679a,19.0,17.0,3.0,0.0
+7,Commit,dmendel_bindata,2022-10-16 11:17:08,e3e9439cca140c058fb9e4443af20248183243ea,8.0,3.0,4.0,0.0
+8,Commit,dmendel_bindata,2022-10-03 05:38:13,01357c30585fb96b1742d525e14adb90577c8e72,5.0,1.0,2.0,0.0
+9,Commit,dmendel_bindata,2022-10-03 05:36:54,a25120628743e1b3fbbfdcc8276862d617d00af4,13.0,17.0,3.0,0.0
+10,Commit,dmendel_bindata,2022-09-27 14:05:01,94daeff4161544d6f21c335bcccfb417260b505d,5.0,1.0,2.0,0.0
+11,Commit,dmendel_bindata,2022-09-27 14:03:54,0b0d6f842c5b5a97e37e3c76947233e340734632,63.0,0.0,2.0,0.0
+12,Commit,dmendel_bindata,2022-03-02 23:57:59,bfdbb3a0461082be0fc61912036099762045d6bd,34.0,15.0,2.0,0.0
+13,Commit,dmendel_bindata,2021-05-18 03:40:07,de567f8cbdc6db612b51fe27eddf4c358548ce08,1.0,1.0,1.0,0.0
+14,Commit,dmendel_bindata,2021-05-18 03:39:35,d99f050b88337559be2cb35906c1f8da49531323,16.0,10.0,3.0,1.0
+15,Commit,dmendel_bindata,2021-04-21 16:52:28,bb6053198388ae7164e16c3197764d5fd773d975,2.0,2.0,2.0,0.0
+16,Commit,dmendel_bindata,2021-04-21 16:39:22,a2f3ef8008ece0f56e36dc57cc8df309ad8c097a,15.0,14.0,8.0,0.0
+17,Commit,dmendel_bindata,2020-11-11 01:52:50,a6d900a3066e979d091ac6d0845a035b3b4ecf1a,5.0,1.0,2.0,0.0
+18,Commit,dmendel_bindata,2020-09-25 08:33:34,6213f2986449338942d47de089b2d701d9254191,1.0,1.0,1.0,0.0
+19,Commit,dmendel_bindata,2020-07-21 04:28:38,2ef7a77ea3aaef816026ce5a97891ad687325217,1.0,1.0,1.0,0.0
+20,Commit,dmendel_bindata,2020-07-21 04:28:11,4f69a2dd36750b939f27b934d2168434dc261065,2.0,1.0,1.0,0.0
+21,Commit,dmendel_bindata,2020-07-16 18:58:08,27be2bfea06539762ad2c8ff22d87bd88ca01bd9,3.0,3.0,2.0,0.0
+22,Commit,dmendel_bindata,2020-07-15 04:48:58,c6fae73abb8dbd08eec0ee6637cfd8e4642c6725,10.0,0.0,3.0,0.0
+23,Commit,dmendel_bindata,2020-03-30 17:16:27,4c3be0f97a878c6c4e241f001297d6691456ed20,20.0,9.0,3.0,0.0
+24,Commit,dmendel_bindata,2020-02-27 07:41:22,05d31f12db266e4899d0c197b4b54a4c5448d7aa,5.0,1.0,2.0,0.0
+25,Commit,dmendel_bindata,2020-02-27 07:39:36,886686cfa8350386d07af34b0df39e99a862012a,34.0,34.0,2.0,0.0
+26,Commit,dmendel_bindata,2020-02-21 13:00:30,730fb9125f3d0df24b2560555f74dd1eef691589,1.0,1.0,1.0,0.0
+27,Commit,dmendel_bindata,2020-02-21 13:00:15,235fb2ef00f6dec6bfc14321fa7b2fcb7825ad04,6.0,0.0,1.0,0.0
+28,Commit,dmendel_bindata,2020-02-21 12:58:08,1b04145e75d2b8e7d35ae073265c218a0d1c72fb,18.0,6.0,2.0,0.0
+29,Commit,dmendel_bindata,2020-01-01 04:51:53,2f22031b867636914525e918e449d191fb96c5c0,2.0,3.0,2.0,0.0
+30,Commit,dmendel_bindata,2019-06-21 15:54:16,94eec858a6f612b05301da8a270d096751cc7a45,1.0,1.0,1.0,0.0
+31,Commit,dmendel_bindata,2019-05-11 14:32:03,c01145ac22d1d98fd9eb71d6a150b2648d942395,1.0,1.0,1.0,0.0
+32,Commit,dmendel_bindata,2018-10-03 05:41:39,d50bc3d609e1715d1988b119167862d1eb9c4b6e,3.0,2.0,1.0,0.0
+33,Commit,dmendel_bindata,2018-10-03 05:35:04,83efaa47a7d770ccd610f9e084ab10a8dd1d3863,0.0,0.0,0.0,0.0
+34,Commit,dmendel_bindata,2018-10-03 05:34:51,3312b9c2259ae29ccd93ee8fc8383cc88109883a,3.0,2.0,2.0,0.0
+35,Commit,dmendel_bindata,2018-10-03 05:32:29,63653a7938a8d380b5481acde573af9fe5072037,3.0,3.0,1.0,0.0
+36,Commit,dmendel_bindata,2018-10-03 05:31:48,9aa79024979e5b8f43678ef6bd41f1aaf0a2ff94,0.0,8.0,1.0,0.0
+37,Commit,dmendel_bindata,2018-10-03 05:19:00,b57a2d4a844d7cd015ffcbc7f77b44819487fc1f,24.0,14.0,4.0,0.0
+38,Commit,dmendel_bindata,2018-07-03 20:41:07,417ce48511177beff576daf33aa6047cd2693086,1.0,1.0,1.0,0.0
+39,Commit,dmendel_bindata,2018-05-06 02:18:55,a0cb37a1b8d34f59771ea9482734bedb2bf73adf,20.0,2.0,3.0,0.0
+40,Commit,dmendel_bindata,2018-03-09 16:31:59,a061067240b409cccec4cb3f9201876e2b8b2d2b,1.0,1.0,1.0,0.0
+41,Commit,dmendel_bindata,2018-03-09 16:31:23,c88ed7d003326c1ad3b942692e17162f24249636,111.0,0.0,4.0,0.0
+42,Commit,dmendel_bindata,2018-01-31 06:48:30,5c6761de47fdadef6e5cdc9ee36d9009460ca37c,1.0,1.0,1.0,0.0
+43,Commit,dmendel_bindata,2018-01-31 06:47:58,5d501accfc26a5a7a23afa62e5e29a311211f7c5,29.0,5.0,4.0,0.0
+44,Commit,dmendel_bindata,2017-08-30 03:27:36,b94a32b6ac1decd1b42a344a517c0339ef909e71,6.0,1.0,2.0,0.0
+45,Commit,dmendel_bindata,2017-08-30 03:27:11,dd9015bbbd85895af713f649218219f373e68e62,6.0,2.0,1.0,0.0
+46,Commit,dmendel_bindata,2017-04-09 09:57:28,54c4c01897948b77df66baa012b6f120e3f43c82,1.0,1.0,1.0,0.0
+47,Commit,dmendel_bindata,2017-04-09 09:56:43,690fc84ab6eb4e0a82cd1643508d6101abde05b9,14.0,14.0,2.0,0.0
+48,Commit,dmendel_bindata,2017-03-21 05:49:42,5a523e2d826763a7505d73920de1a09ffdb4ef23,128.0,103.0,12.0,0.0
+49,Commit,dmendel_bindata,2017-03-02 00:54:07,ab9f4561f73b09c2561f7c18432de65924193f2b,15.0,13.0,1.0,0.0
+50,Commit,dmendel_bindata,2017-03-01 05:37:41,4a8f30ded3f8a30ef67c5121e5ec5ec7cda5d865,18.0,16.0,2.0,0.0
+51,Commit,dmendel_bindata,2017-01-19 14:13:20,d097cd3538654a2694ec9651b45119b862bbd0ea,6.0,1.0,2.0,0.0
+52,Commit,dmendel_bindata,2017-01-19 14:12:43,c43158ba8486ea5839f2d8096cc039461f1d46fd,2.0,0.0,1.0,0.0
+53,Commit,dmendel_bindata,2016-12-01 04:59:47,351c2ba0bc3450939f0d0e2a650f7fc360000634,1.0,1.0,1.0,0.0
+54,Commit,dmendel_bindata,2016-10-17 11:06:41,761f64e90b8e2cce8c851fc5bdc5b3e78a7be7a4,1.0,1.0,1.0,0.0
+55,Commit,dmendel_bindata,2016-10-17 10:33:47,fc8afe2108f2b8bcb4602b3a11d567d7bfb9dcc5,1.0,1.0,1.0,0.0
+56,Commit,dmendel_bindata,2016-10-17 10:32:50,72dec7eeb95d883565fe1be9d692981b71bd8345,7.0,0.0,2.0,0.0
+57,Commit,dmendel_bindata,2016-10-17 06:22:51,38edfa07bf38f7a366f3babc7f31a303a8d84868,16.0,24.0,2.0,0.0
+58,Commit,dmendel_bindata,2016-09-30 08:11:21,044a091b2d98224b927a8af0360d0d76a6c5db24,257.0,259.0,29.0,0.0
+59,Commit,dmendel_bindata,2016-09-30 04:17:52,e287a07128c9ffb20b345d5786147a95b056aeb4,2.0,2.0,1.0,0.0
+60,Commit,dmendel_bindata,2016-09-30 04:12:05,4901b08634483f1057d65ebefbf77ff6e926a400,512.0,511.0,40.0,0.0
+61,Commit,dmendel_bindata,2016-09-07 03:12:09,0582b9c8b1f36e5288307207a8e6845262a2d727,3.0,2.0,2.0,0.0
+62,Commit,dmendel_bindata,2016-09-07 03:05:21,4257d8f4533655ce19e6224515cca0da625c3bbd,17.0,0.0,2.0,0.0
+63,Commit,dmendel_bindata,2016-09-06 10:59:26,cd14c28a36676324dec0ad688e929eb0d901c0f8,24.0,3.0,3.0,0.0
+64,Commit,dmendel_bindata,2016-09-02 07:30:23,8cbf03f547ed0911bdab36fd7c9c89398eb7ac32,2.0,2.0,2.0,0.0
+65,Commit,dmendel_bindata,2016-09-02 07:27:45,0d9e065f4e73092e70b970d02d6e76b538081a1c,1.0,1.0,1.0,0.0
+66,Commit,dmendel_bindata,2016-09-02 07:19:33,ba353b091875ff29e6edcc2b42c6ee34b3a9eb66,4.0,4.0,1.0,0.0
+67,Commit,dmendel_bindata,2016-09-02 07:14:11,03be0b150b985b14ca97163c7ca23dfdb3513579,2.0,3.0,1.0,0.0
+68,Commit,dmendel_bindata,2016-09-02 07:01:45,c64fc4645f1c9f75484110d744bd239c72f98702,1.0,1.0,1.0,0.0
+69,Commit,dmendel_bindata,2016-09-02 04:07:02,8b34c05a58967972332045ab49256226ed5f41fc,3.0,1.0,1.0,0.0
+70,Commit,dmendel_bindata,2016-09-02 03:21:25,4232239e406d5c4cd24e20103dfaebdb43b4ddae,240.0,20.0,6.0,0.0
+71,Commit,dmendel_bindata,2016-09-01 03:28:50,4521e2b68de81e240f183e59f6903cfaeef0bd89,36.0,3.0,3.0,0.0
+72,Commit,dmendel_bindata,2016-09-01 03:23:02,4d6f812ab699cef0933cc507ae07b194743da371,8.0,8.0,1.0,0.0
+73,Commit,dmendel_bindata,2016-06-17 09:44:44,8afcddc1cc197f1dfda6a094d9078984176d82b7,3.0,2.0,2.0,0.0
+74,Commit,dmendel_bindata,2016-06-17 09:43:49,c03cc0ce6bd21124ece5879d95d4e40712d921a7,6.0,4.0,1.0,0.0
+75,Commit,dmendel_bindata,2016-03-28 06:11:31,4a5b4442a89dbbec86abb0cee6714705248a57ec,1.0,4.0,1.0,0.0
+76,Commit,dmendel_bindata,2016-03-28 06:11:12,4fbda6e2a9663d7f8620b94e3b29b13a8f6dac80,3.0,2.0,1.0,0.0
+77,Commit,dmendel_bindata,2016-03-26 08:42:19,681cd97ccf17f1c19b05c8ef59620b975265d873,4.0,0.0,1.0,0.0
+78,Commit,dmendel_bindata,2016-03-26 08:39:06,0e0e636364647e14f03853993490d10a5edf30f5,5.0,1.0,1.0,0.0
+79,Commit,dmendel_bindata,2016-03-25 08:56:51,1fdaa65193af3301a7523ba5e30f92b4a1ca5094,1.0,1.0,1.0,0.0
+80,Commit,dmendel_bindata,2016-03-25 08:56:04,dbf3271091a9b33c9be94e8222970a87401aea74,1.0,1.0,1.0,0.0
+81,Commit,dmendel_bindata,2016-03-25 08:55:11,e8ee22cafe150f0b9c06dd3180ed185a868cc68a,6.0,2.0,2.0,0.0
+82,Commit,dmendel_bindata,2016-03-25 07:47:46,f6bc38e2ef33661bad850df6206ed0199bab94a1,4.0,6.0,1.0,0.0
+83,Commit,dmendel_bindata,2016-03-25 07:42:23,7fcddd6968d1f21a5b633b332f60e9f2a9075c58,39.0,22.0,4.0,0.0
+84,Commit,dmendel_bindata,2016-03-25 07:19:35,82fe221af1ebb18a0638a6adb81e7b2deba1ec9b,1.0,13.0,4.0,0.0
+85,Commit,dmendel_bindata,2016-03-25 07:19:01,f66bedcd282ca760cb98f464a5b708b96e4fbb0e,1.0,0.0,1.0,0.0
+86,Commit,dmendel_bindata,2016-03-25 06:57:14,66309e41045d98691cecc9d26246c9b77283dc10,21.0,0.0,2.0,0.0
+87,Commit,dmendel_bindata,2016-03-25 05:08:25,b0132de56e746334763d6cc1f65832b1de7f9e53,2.0,7.0,1.0,0.0
+88,Commit,dmendel_bindata,2016-03-25 03:57:17,2fcdede580c5d2c3606c50fb68d90954a2f4a0b7,8.0,2.0,3.0,0.0
+89,Commit,dmendel_bindata,2016-03-25 03:53:24,13d814915a1e763548d4701f9a56d85a9daba6a9,2.0,7.0,1.0,0.0
+90,Commit,dmendel_bindata,2016-03-25 03:33:21,45dd9e36babbbbc8577f77ce5fe03a1e56023990,2.0,4.0,2.0,0.0
+91,Commit,dmendel_bindata,2016-03-25 03:17:40,e849d933776b856fd30eba533f9107e6cb09bbb0,60.0,1.0,3.0,0.0
+92,Commit,dmendel_bindata,2016-03-25 03:04:23,1ae91d2a52a2132a9d238e75fd59be790d9f0f21,1.0,1.0,1.0,0.0
+93,Commit,dmendel_bindata,2016-03-25 02:47:51,40c4cb92d57dab8ab308165aa60e65858f07cf7b,4.0,3.0,2.0,0.0
+94,Commit,dmendel_bindata,2016-03-25 02:09:29,390850e94fa01e877eb403f38ea519eb523d6f7a,11.0,10.0,1.0,0.0
+95,Commit,dmendel_bindata,2016-03-24 18:32:18,b037564c79038c0849eea00611cf5dd029f19d94,2.0,2.0,1.0,0.0
+96,Commit,dmendel_bindata,2016-03-24 17:56:09,82853998f503d37e7cbc14fb989fc276a5867251,23.0,23.0,1.0,0.0
+97,Commit,dmendel_bindata,2016-03-24 17:45:43,11e1532b2192247e074b28cefe2f6ddfc8f031f8,471.0,37.0,5.0,0.0
+98,Commit,dmendel_bindata,2016-03-24 17:44:03,6615e3feabe7796b704de0eb4507b949e969b045,3.0,4.0,1.0,0.0
+99,Commit,dmendel_bindata,2016-03-24 06:19:51,59ae5aa9ad51923f6d21bb799388991206cb2560,164.0,219.0,1.0,0.0
+100,Commit,dmendel_bindata,2016-03-24 05:47:49,c43d73ea290b5151511b9dca2fd096fcab436204,144.0,42.0,2.0,0.0
+101,Commit,dmendel_bindata,2016-03-24 04:43:12,16ce219a6a5837d8b30edea3a0767c7a1e4a1042,10.0,0.0,1.0,0.0
+102,Commit,dmendel_bindata,2016-03-24 04:36:22,e58b003728e78ea060eeec3c3584f5f59f801ffa,9.0,0.0,1.0,0.0
+103,Commit,dmendel_bindata,2016-03-24 04:21:51,9050cd3f8c84d98e321637a1ba902710f69c6ea6,9.0,0.0,1.0,0.0
+104,Commit,dmendel_bindata,2016-03-24 04:20:17,ff2e6f0c3e20bb396cbd7211c29a5f12d7d0f756,0.0,7.0,1.0,0.0
+105,Commit,dmendel_bindata,2016-03-24 04:16:09,810f54c67df7afbb5e5d0fc7f3a49398797c12e6,6.0,2.0,3.0,0.0
+106,Commit,dmendel_bindata,2016-03-24 03:41:44,df58f322f24f011bb1c86d0c19702e01981ad992,1.0,1.0,1.0,0.0
+107,Commit,dmendel_bindata,2016-03-23 17:08:51,f7c2e99ccf0a194f6d3750ec9251ffbc7082e214,3.0,1.0,2.0,0.0
+108,Commit,dmendel_bindata,2016-03-04 04:01:53,842f22f402659e8668767ae89b2862474ba9d099,9.0,0.0,1.0,0.0
+109,Commit,dmendel_bindata,2016-03-01 13:07:18,44908757da185e1c38a21d45fe9b250fe9639317,97.0,7.0,2.0,0.0
+110,Commit,dmendel_bindata,2016-03-01 10:43:45,d09ddf8e4f37c2557abc353b3b99fa13716f816b,14.0,11.0,10.0,0.0
+111,Commit,dmendel_bindata,2016-03-01 10:03:55,54c0f1fe08d6443a449fcfc049c6572df207421e,15.0,3.0,5.0,0.0
+112,Commit,dmendel_bindata,2016-01-30 14:09:26,7c541a5abcf9eb73329a0757b1444b692c76f182,4.0,4.0,3.0,0.0
+113,Commit,dmendel_bindata,2016-01-30 12:59:29,02786d72211eb9d2bcd8e4bb6f8b3e5c5083fb63,295.0,66.0,8.0,0.0
+114,Commit,dmendel_bindata,2016-01-30 12:44:51,b89f276d7144e5102e66df58430034586fef78e4,4.0,0.0,1.0,0.0
+115,Commit,dmendel_bindata,2016-01-30 09:11:39,9d1a1fc7064578c014af90ec3daad3d16a8ac40a,103.0,93.0,1.0,0.0
+116,Commit,dmendel_bindata,2016-01-21 03:01:41,90d50308ea0f8254b9cfb0eda57f4c55093739ca,6.0,5.0,2.0,0.0
+117,Commit,dmendel_bindata,2016-01-18 05:16:56,443bc807d1c98eecac77aa03ef62dbff02441d23,1.0,0.0,1.0,0.0
+118,Commit,dmendel_bindata,2016-01-18 04:37:20,4b64138b92496e5faba72fe508c40bd412949e9f,0.0,1.0,1.0,0.0
+119,Commit,dmendel_bindata,2016-01-18 04:35:31,b73077a68f424ec4217e7b7143bf9abd4c0ddf2a,0.0,1.0,1.0,0.0
+120,Commit,dmendel_bindata,2016-01-18 04:34:59,473151e57585424492e1f0962629b194938ddadd,27.0,37.0,1.0,0.0
+121,Commit,dmendel_bindata,2016-01-18 03:19:52,42f950e15dfbdd2eee19eb6a90c82eb50c4e98f2,3.0,2.0,1.0,0.0
+122,Commit,dmendel_bindata,2016-01-18 03:14:46,d48bfed39dbd5e7271a2391c0d5178461fc6c344,14.0,5.0,1.0,0.0
+123,Commit,dmendel_bindata,2015-11-02 03:15:23,5ce756c2991c38c3a3d587f8fb6987107ae3c234,1.0,1.0,1.0,0.0
+124,Commit,dmendel_bindata,2015-10-29 06:19:22,94bdd0e9a621e177e60811a1ace2eddd8eaaa8c8,12.0,0.0,3.0,0.0
+125,Commit,dmendel_bindata,2015-05-04 08:56:35,9f2edd6fb280c34a8c0f06f239e2e7b0ffe26b05,3.0,3.0,3.0,0.0
+126,Commit,dmendel_bindata,2015-05-03 09:34:09,31f18755ae67d6b55dea2568d64676d5648b0703,2.0,1.0,1.0,0.0
+127,Commit,dmendel_bindata,2015-05-03 09:30:20,76bfefd999d6835ca116a1a8e3c9c7835ea2fe42,2.0,2.0,1.0,0.0
+128,Commit,dmendel_bindata,2014-07-24 04:47:19,d7b97ffae9f80ef29a46a520b3305536de29fc01,5.0,0.0,2.0,0.0
+129,Commit,dmendel_bindata,2014-07-21 02:44:23,1b24b8e9bd5bc84664bdd93390dd246072724830,6.0,17.0,4.0,0.0
+130,Commit,dmendel_bindata,2014-07-21 02:11:27,98295c7d6fc4a52cce18c5a02b00c685193b4ed5,19.0,0.0,3.0,0.0
+131,Commit,dmendel_bindata,2014-07-20 10:36:22,8faa02dfa2251f992629c2018c2a9bf67ccdcce1,41.0,0.0,3.0,0.0
+132,Commit,dmendel_bindata,2014-05-12 06:46:06,ffaf3b256667ab42e57f2e6d500229fa294d80a5,22.0,21.0,1.0,0.0
+133,Commit,dmendel_bindata,2014-04-16 08:15:28,41a3c60f1fb0c868f95bd4551e48f395292655aa,25.0,25.0,26.0,0.0
+134,Commit,dmendel_bindata,2014-04-16 08:11:44,64085151a960f1e8b822b3888ea72914f72cc658,112.0,120.0,18.0,0.0
+135,Commit,dmendel_bindata,2014-04-16 06:06:51,8131383d321d2adfe051644eed81eb059e1ce9cb,18.0,2.0,3.0,0.0
+136,Commit,dmendel_bindata,2014-04-15 17:56:27,10d1bdebf22a84fce773fb480588513ed43484db,1.0,1.0,1.0,0.0
+137,Commit,dmendel_bindata,2014-04-15 17:48:37,2b008d6fe3315ff0b98479c72d324eb318c2b3a4,1.0,5.0,1.0,0.0
+138,Commit,dmendel_bindata,2014-04-15 17:40:31,d9ebafb220dc12b0a34302e6485989abf529e03a,143.0,99.0,1.0,0.0
+139,Commit,dmendel_bindata,2014-04-15 16:05:23,a4bb6b6d04af352dc741d0676ec33cf377323fcc,175.0,20.0,5.0,0.0
+140,Commit,dmendel_bindata,2014-04-15 06:27:31,d0b9738adefc80a37e3273eb28f647e675294f8f,18.0,23.0,6.0,0.0
+141,Commit,dmendel_bindata,2014-04-15 06:17:43,92b466aff229391d1fcece85d2bd48dd8f17902c,83.0,92.0,1.0,0.0
+142,Commit,dmendel_bindata,2014-04-15 04:05:01,13849a4e96922884d1399e3dd18c0993c0192c0e,89.0,45.0,5.0,0.0
+143,Commit,dmendel_bindata,2014-04-14 15:43:08,685326bb4bf817397d04c6a78671e218d55d6857,84.0,150.0,8.0,0.0
+144,Commit,dmendel_bindata,2014-04-14 07:43:31,3b43a952eb65c5633a58381fcb87fd6f0ed0a8ec,124.0,58.0,3.0,0.0
+145,Commit,dmendel_bindata,2014-04-14 03:52:22,c01fde9097a5346a40657980078aab7d60857273,0.0,1.0,1.0,0.0
+146,Commit,dmendel_bindata,2014-04-14 03:41:19,d35ab98dc6564e4792796d9431ce6fb0eb1fe70b,98.0,11.0,5.0,0.0
+147,Commit,dmendel_bindata,2014-04-10 01:52:22,c39bccd5b7a7e2400f73da25b362051c9f99537e,31.0,23.0,6.0,0.0
+148,Commit,dmendel_bindata,2014-03-27 01:58:22,8649021e5ba2383d2c2e2cd30a799f786532ec60,5.0,0.0,1.0,0.0
+149,Commit,dmendel_bindata,2014-03-26 09:25:20,7d1f50ccf4f22481e9cdffe629c6cf19f6431d48,3.0,2.0,1.0,0.0
+150,Commit,dmendel_bindata,2014-03-26 09:10:30,e93e459b69d0b2cf13944033a08cc69213d5d6e3,3.0,3.0,1.0,0.0
+151,Commit,dmendel_bindata,2014-03-26 08:47:22,a3845bb6b501fb3db53ed16dc497923c5c5a6255,4.0,0.0,2.0,0.0
+152,Commit,dmendel_bindata,2014-02-21 02:45:25,20351d8d2f8ec626cc6b1f0e44e9de0d789e5d42,1.0,1.0,1.0,0.0
+153,Commit,dmendel_bindata,2014-02-21 02:38:22,fc907abfb4367eca7ae962ce18ef026fb8c7a3c8,2.0,0.0,1.0,0.0
+154,Commit,dmendel_bindata,2014-02-21 02:37:09,4422c134566fa163ac4b0e6b147f56e99f94927a,15.0,6.0,2.0,0.0
+155,Commit,dmendel_bindata,2014-02-21 02:04:14,03afced587ffd0391be1736c28f5e4f8a7fe959e,12.0,4.0,2.0,0.0
+156,Commit,dmendel_bindata,2014-02-07 01:41:51,e58769f07dd7b26ebda2b9e6c8d41cb991b565e5,7.0,0.0,1.0,0.0
+157,Commit,dmendel_bindata,2014-02-07 01:39:26,cb797395775c6ac80a5e10bc9bdd4ec8df74b964,4.0,4.0,3.0,0.0
+158,Commit,dmendel_bindata,2014-02-06 15:12:06,53a7b7eb2de2eee0b68d159d48dd44dcbfc2d96d,4.0,4.0,3.0,0.0
+159,Commit,dmendel_bindata,2014-02-06 14:58:44,7f97196c62802f937dde42ee0af17e9555d0ac78,1.0,1.0,3.0,0.0
+160,Commit,dmendel_bindata,2014-02-06 14:55:08,78a398a5b793c8a8d3d56b66212a51d024dd81ac,6.0,72.0,3.0,0.0
+161,Commit,dmendel_bindata,2014-02-06 14:49:06,11639def45ea4d92f5c8664d07522c6b7f8ba378,306.0,273.0,12.0,0.0
+162,Commit,dmendel_bindata,2014-02-06 03:19:18,c9257ed1851a5a1af06c3388f778a67121c4cf37,27.0,32.0,2.0,0.0
+163,Commit,dmendel_bindata,2014-02-04 07:20:26,c160efe935b826b3f51c3eb65f924276d90ac435,2.0,1.0,1.0,0.0
+164,Commit,dmendel_bindata,2014-02-04 06:27:52,1af589c6ec98d47699b5d9af6675c63456c261b5,65.0,33.0,1.0,0.0
+165,Commit,dmendel_bindata,2014-02-02 13:09:03,d3816196b61a2aa690d2d45c9720cc118dfcd504,4.0,2.0,2.0,0.0
+166,Commit,dmendel_bindata,2014-02-02 12:53:31,782a1ce7e48df779110087396ce8d52ebc072af8,34.0,28.0,3.0,0.0
+167,Commit,dmendel_bindata,2014-01-29 14:53:54,70e9b7e5a66cba177493864085b74cca38341795,4.0,1.0,1.0,0.0
+168,Commit,dmendel_bindata,2014-01-23 01:32:10,feb65d7da62b9c1bd9f6514277067371bfc557c8,1.0,1.0,1.0,0.0
+169,Commit,dmendel_bindata,2014-01-23 01:30:22,42f6939b14af7cf0837db006acb5a7cea20a5ec4,1.0,0.0,1.0,0.0
+170,Commit,dmendel_bindata,2014-01-15 04:26:21,935edb6d89b94ccb2827ec839aad3fc6c9ce42d6,110.0,24.0,4.0,0.0
+171,Commit,dmendel_bindata,2014-01-08 07:24:49,63d5dbf6e86a045c899972fe5b209e207e483d2a,69.0,105.0,1.0,0.0
+172,Commit,dmendel_bindata,2014-01-08 05:36:59,13ffc0540593f8e1a51ba68d4ca35c5f34576144,10.0,9.0,1.0,0.0
+173,Commit,dmendel_bindata,2014-01-08 05:06:13,131d9988171a4286fb2bd827b9da316df207cf14,8.0,10.0,1.0,0.0
+174,Commit,dmendel_bindata,2014-01-08 04:31:55,f5b4bd071fcd2d39772a6812eae6a99aca686554,56.0,51.0,8.0,0.0
+175,Commit,dmendel_bindata,2014-01-08 03:39:07,b11b6a21788510ae5109f7885d7b7b70c308caaa,4.0,0.0,1.0,0.0
+176,Commit,dmendel_bindata,2014-01-06 17:06:29,0044064c5ae9953ef38924237c78c027fd653c2b,5.0,0.0,1.0,0.0
+177,Commit,dmendel_bindata,2014-01-06 17:05:57,5fb4b9adc96b95feb6f57c7e3fe4f3de733e772a,0.0,1.0,1.0,0.0
+178,Commit,dmendel_bindata,2014-01-06 15:58:10,273e59a6e60a36856b842afbc56ed2adbbc11326,0.0,1585.0,1.0,0.0
+179,Commit,dmendel_bindata,2014-01-06 15:57:13,59223a982c2e3f4bf17e364af0c4d8432f23bf05,30.0,2223.0,14.0,0.0
+180,Commit,dmendel_bindata,2014-01-06 15:31:41,bd17069dfc8d2cd2a58463bf8d12732a42ed758f,6.0,2.0,2.0,0.0
+181,Commit,dmendel_bindata,2014-01-06 14:49:19,4a7bdd2f8dc8624e178afc67a664f017d9c65dcd,2.0,2.0,2.0,0.0
+182,Commit,dmendel_bindata,2014-01-06 14:49:00,adcf88bdbdfcf597a8833b986890281ecbac036b,1.0,0.0,1.0,0.0
+183,Commit,dmendel_bindata,2014-01-06 13:46:17,c4ec7f1ae6feea7f0853d3d00cb5c2078cf9a3a5,7.0,8.0,1.0,0.0
+184,Commit,dmendel_bindata,2014-01-06 08:37:12,c8963424fcb75f74b1459a6c7362011e455a311c,47.0,4.0,4.0,0.0
+185,Commit,dmendel_bindata,2014-01-06 07:58:26,5ea1116ef7f25cce56f1de4d8a1fe20a26176d15,24.0,21.0,1.0,0.0
+186,Commit,dmendel_bindata,2014-01-06 07:57:53,c752bfde0d5120b0fd21ef6c7928118f9fbe6f1c,119.0,0.0,1.0,0.0
+187,Commit,dmendel_bindata,2014-01-06 07:49:46,0e4a1e387609578b82b97487d07af77093f52e75,205.0,39.0,7.0,0.0
+188,Commit,dmendel_bindata,2014-01-05 10:29:09,1b1e842b19ed3114491f3a1ce40401a891895665,422.0,226.0,4.0,0.0
+189,Commit,dmendel_bindata,2013-12-04 06:01:19,24a5184f5accc7835a1bda12ddcf020b3b7b3592,8.0,1.0,1.0,0.0
+190,Commit,dmendel_bindata,2013-11-24 08:40:40,2ee42cc968863904fd02d58fb3b494005806c25b,1.0,1.0,1.0,0.0
+191,Commit,dmendel_bindata,2013-11-24 08:12:46,d5b0cc4c25b80174e6c4355200c6582f45b2674e,3.0,0.0,1.0,0.0
+192,Commit,dmendel_bindata,2013-11-24 08:10:44,035cee19086edaaa279577a0470b2f18b89a23df,1.0,0.0,1.0,0.0
+193,Commit,dmendel_bindata,2013-11-24 08:09:18,b1ebca5fd415e35b1229552c5ee4db113d7b09ff,0.0,0.0,0.0,0.0
+194,Commit,dmendel_bindata,2013-11-24 08:08:55,94cb4f923c782cd9e222b07118630c8c29e40a9a,0.0,0.0,0.0,0.0
+195,Commit,dmendel_bindata,2013-11-24 08:05:39,b96c5edca0b6b03ece99519f343a5b541ad42e62,4.0,4.0,1.0,0.0
+196,Commit,dmendel_bindata,2013-11-24 08:01:51,8249dbcd0f2022ca4725f3803ea8bb0f13c59d30,0.0,0.0,0.0,0.0
+197,Commit,dmendel_bindata,2013-11-24 07:54:01,9f4008a23aaa29ee18a1bb1a2dff9d822b9caa07,0.0,0.0,0.0,0.0
+198,Commit,dmendel_bindata,2013-11-22 22:34:15,ce269945a24cc19a540019a5e0f2e3994e80f438,1.0,0.0,1.0,0.0
+199,Commit,dmendel_bindata,2013-11-22 18:27:22,a4d600589601b6d645f4e8a02d1d0ddf309da30e,4.0,0.0,1.0,0.0
+200,Commit,dmendel_bindata,2013-11-22 18:08:48,f67710f276bbdf05a3d8a86a53251d2572f2101e,16.0,30.0,2.0,0.0
+201,Commit,dmendel_bindata,2013-11-22 09:11:59,631f33d9af21dfebf1ecf83436b3f039b41b82a4,74.0,17.0,4.0,0.0
+202,Commit,dmendel_bindata,2013-09-11 06:27:48,219d82370c425e44c85f439edd2528882f928c2f,26.0,0.0,2.0,0.0
+203,Commit,dmendel_bindata,2013-09-11 05:44:22,8cb7ceaaa4473107fc1f8f4956e9d897851ecf3c,2.0,2.0,1.0,0.0
+204,Commit,dmendel_bindata,2013-09-03 07:10:58,7f9bfc4385144cf65e63d453535e0d6ca83c7420,178.0,0.0,1.0,0.0
+205,Commit,dmendel_bindata,2013-09-02 04:47:43,22ebbb5bf64259829fbdff328e7c2f3caea6ac99,11.0,6.0,1.0,0.0
+206,Commit,dmendel_bindata,2013-09-02 04:46:26,dba83b66fb98bf4af51c79384c985804e89e309c,4.0,0.0,1.0,0.0
+207,Commit,dmendel_bindata,2013-09-02 04:46:06,6338025d6f7cda642013cff02170c7c789cbb762,1.0,1.0,1.0,0.0
+208,Commit,dmendel_bindata,2013-09-02 03:55:48,a6e2703a6a0677d63c0a326a62b253b51070ca01,15.0,3.0,4.0,0.0
+209,Commit,dmendel_bindata,2013-09-02 03:54:09,e120352ecec2532b21411c4ba638e072c62c134d,2.0,12.0,2.0,0.0
+210,Commit,dmendel_bindata,2013-09-02 03:43:24,846006b2696fb32f3968d1b264abcdddf8e83013,1.0,1.0,1.0,0.0
+211,Commit,dmendel_bindata,2013-09-01 16:37:24,ed6bfac736a9b6ce798e56df4a7ec2ff0b3bb120,1.0,0.0,1.0,0.0
+212,Commit,dmendel_bindata,2013-09-01 16:36:22,0a1af430e91efdba634aefa8070c06349c794421,170.0,32.0,7.0,0.0
+213,Commit,dmendel_bindata,2013-09-01 12:23:20,48657ae325e5486ddf99115000a91b4c646207ff,12.0,7.0,2.0,0.0
+214,Commit,dmendel_bindata,2013-09-01 10:43:52,e1db18e41db5f6b32f34d9542ae0dbe44339fd77,6.0,21.0,7.0,0.0
+215,Commit,dmendel_bindata,2013-09-01 10:39:14,219460782e5b52fc31b377bbdf1ea3440ada38e6,24.0,27.0,2.0,0.0
+216,Commit,dmendel_bindata,2013-09-01 10:15:19,dbb11f9b114efb9553b1adc56098f60eb09c6877,72.0,68.0,4.0,0.0
+217,Commit,dmendel_bindata,2013-08-30 13:47:16,bcccd7d9992644e1848ef2cb7b9771d89d00be5e,251.0,273.0,12.0,0.0
+218,Commit,dmendel_bindata,2013-08-22 05:39:28,c664741749ca0a43bf261a5a791b52e576650b21,0.0,24.0,1.0,0.0
+219,Commit,dmendel_bindata,2013-08-18 06:50:06,9127d835296acf319fd6ca9c243883a0a7fa9de1,0.0,514.0,1.0,0.0
+220,Commit,dmendel_bindata,2013-08-18 06:46:54,38aae9df018ac231b171f1c3624f569621d842a2,3.0,3.0,1.0,0.0
+221,Commit,dmendel_bindata,2013-08-17 13:28:37,bfc972b779a9a9c71fcbde669e6be5c0b6e00260,2776.0,2227.0,38.0,0.0
+222,Commit,dmendel_bindata,2013-08-17 13:19:51,fac8bb7a05efc558bc042698f870546e1a7e62e1,1.0,0.0,1.0,0.0
+223,Commit,dmendel_bindata,2013-08-16 03:21:10,66fe8be8050b86f19cec7efa130129717bf9a339,73.0,2.0,4.0,0.0
+224,Commit,dmendel_bindata,2013-08-08 05:29:42,3ca7371032f1f47ada2c6e1a9965ca5a3dd396dc,27.0,69.0,5.0,0.0
+225,Commit,dmendel_bindata,2013-07-03 06:57:23,493bb2f17fa0860208e7469d2b1f52520e3ac4b7,19.0,27.0,1.0,0.0
+226,Commit,dmendel_bindata,2013-07-03 05:39:20,d684211fa16e2ad98376cc4bebfa411a813c79fc,2.0,2.0,2.0,0.0
+227,Commit,dmendel_bindata,2013-07-03 03:31:57,5a3901184742406adadf91260a443898fb29122e,6.0,4.0,4.0,0.0
+228,Commit,dmendel_bindata,2013-07-02 08:46:37,e5a5810e81333ade21d3eebce386191a5d3bb5b7,16.0,2.0,4.0,0.0
+229,Commit,dmendel_bindata,2013-06-30 07:29:40,5d51256a13ac02f33fbbf769bfe123ca0c6dc660,1.0,1.0,1.0,0.0
+230,Commit,dmendel_bindata,2013-06-30 07:27:04,9e56662c5497c67ac360cfe30d2817e42e4fb07c,50.0,74.0,10.0,0.0
+231,Commit,dmendel_bindata,2013-05-21 10:48:02,8c1d445b645c074ac19cb2796d763fb9d1017802,6.0,6.0,3.0,0.0
+232,Commit,dmendel_bindata,2013-05-21 10:41:55,258ff5836786a0a2000ea5a63a0c0fb70e9c35ad,26.0,456.0,8.0,0.0
+233,Commit,dmendel_bindata,2013-05-21 10:06:00,3cf66039ba429ab4fa4b07c3117451db8ad56d60,4.0,4.0,3.0,0.0
+234,Commit,dmendel_bindata,2013-05-21 10:04:58,82826acec2b9498bfc79857821c81f2c82beaf69,77.0,11.0,8.0,0.0
+235,Commit,dmendel_bindata,2013-05-21 07:08:55,5ac31b727ad3d475ee4867842ea9c7c7fb1aae69,15.0,3.0,3.0,0.0
+236,Commit,dmendel_bindata,2013-05-17 04:59:48,d8b76a4ca80adfe143b85725546196817ecde59e,1.0,1.0,1.0,0.0
+237,Commit,dmendel_bindata,2013-05-17 04:55:05,88c99dab5431189325c90ac3054d069aeed97438,22.0,18.0,4.0,0.0
+238,Commit,dmendel_bindata,2013-05-17 04:50:19,3bfc6e1e004a301568ff27af6cb93ef43467c4fd,45.0,36.0,9.0,0.0
+239,Commit,dmendel_bindata,2013-05-17 03:19:00,8f019cb65483aec92ac4a1fcd3389fca295c7449,25.0,25.0,1.0,0.0
+240,Commit,dmendel_bindata,2013-05-17 03:05:10,7fe02c0bdfd298e0146ba6b0edcdc9d66aafbd06,0.0,0.0,0.0,0.0
+241,Commit,dmendel_bindata,2013-05-17 02:54:56,8bd781ebf0a71eb058166d3904d23b3e8bb6b490,0.0,0.0,1.0,0.0
+242,Commit,dmendel_bindata,2013-05-17 02:27:44,7e590861ebf8801879a36c7a7b5e5968efe3f58b,22.0,0.0,2.0,0.0
+243,Commit,dmendel_bindata,2012-07-24 05:12:37,5c4d1763fe61a8c4a3700302789fbbc4e6a833a9,78.0,5.0,5.0,0.0
+244,Commit,dmendel_bindata,2012-06-21 05:00:30,147fbcbdbbd0eb3a40c0c1d2f25e512fc24a4993,8.0,5.0,3.0,0.0
+245,Commit,dmendel_bindata,2012-06-21 04:58:56,4175dbf751ccab0960e21ca0865baaf47c620394,9.0,0.0,1.0,0.0
+246,Commit,dmendel_bindata,2012-06-21 04:47:46,dff3fa6e1347c42e8c0875a17d426cf5f0487ab0,401.0,306.0,2.0,0.0
+247,Commit,dmendel_bindata,2012-06-21 03:10:19,5268c19d6855251e1ab1435a1ef1a2a3692710f3,52.0,28.0,3.0,0.0
+248,Commit,dmendel_bindata,2012-06-19 11:28:18,e56149403c72399d27663b2d4f6bc4f760527de7,11.0,11.0,3.0,0.0
+249,Commit,dmendel_bindata,2012-06-19 11:25:00,fb677f9632e49e019f95591beb3edfca392e4d08,3.0,1.0,2.0,0.0
+250,Commit,dmendel_bindata,2012-06-19 11:24:31,9be84eab7bfce576b84bda39ffbb46382449a2c5,14.0,3.0,4.0,0.0
+251,Commit,dmendel_bindata,2012-06-19 11:22:50,319942c41b68d3f6df7f67a24c7d738c205ff3f8,693.0,702.0,23.0,0.0
+252,Commit,dmendel_bindata,2011-11-11 04:19:57,73833e7145771e5cc59e381517ec98be8dfe7e86,7.0,2.0,2.0,0.0
+253,Commit,dmendel_bindata,2011-10-01 14:28:31,052f0e34f38fabbcf68a73c6d3716efd32c9dd60,1.0,1.0,1.0,0.0
+254,Commit,dmendel_bindata,2011-10-01 14:27:42,e3045285fd80e93b934c81302cdaf4c6100954fc,36.0,2.0,6.0,0.0
+255,Commit,dmendel_bindata,2011-08-06 04:02:12,3c0d32516b73c9f04579bcc2a0fdf7c114212cf1,43.0,2.0,6.0,0.0
+256,Commit,dmendel_bindata,2011-06-20 03:24:37,65faa42652d5968695843f369d842fcc61c0ba11,1.0,1.0,1.0,0.0
+257,Commit,dmendel_bindata,2011-06-20 03:23:41,a9258cac0f6005af11a30161d4b13b6ff2fbab20,63.0,68.0,5.0,0.0
+258,Commit,dmendel_bindata,2011-06-20 03:12:38,55d6416818f048e7fc6d5be5f7bd06262fefb69f,106.0,1.0,6.0,0.0
+259,Commit,dmendel_bindata,2011-06-20 01:40:36,fd345ac7e14ecbd7da8aeab7ea7b8e652dfbb6fe,25.0,0.0,2.0,0.0
+260,Commit,dmendel_bindata,2011-06-19 06:13:53,3a5cc78bd11d4468bd79d0502303a2816f12259c,57.0,9.0,6.0,0.0
+261,Commit,dmendel_bindata,2011-06-14 02:25:01,c3f31a530fb7059b0315d0fc4ff7402fa708efcb,6.0,3.0,4.0,0.0
+262,Commit,dmendel_bindata,2011-03-12 13:43:26,dca755aecd786059d487da1e0a0480c33c227994,10.0,11.0,2.0,0.0
+263,Commit,dmendel_bindata,2011-03-12 13:14:57,cd9dae9534019be00165cdf0e333eb8b4dfb820a,13.0,12.0,1.0,0.0
+264,Commit,dmendel_bindata,2011-03-12 11:08:03,94028aabdf67aea2f8b2225a04d3be4e104141fa,1.0,3.0,1.0,0.0
+265,Commit,dmendel_bindata,2011-03-07 14:14:23,502f1fcf0f52d0978f2635c0f8e6ad95abb1c404,12.0,7.0,2.0,0.0
+266,Commit,dmendel_bindata,2011-03-07 12:51:52,2dc897e2041ba3f422244c917530af5221e1a0a0,158.0,95.0,5.0,0.0
+267,Commit,dmendel_bindata,2011-02-25 12:57:48,21c13820e03fba6a046d070009aa4e6a497fd00d,25.0,341.0,4.0,0.0
+268,Commit,dmendel_bindata,2011-02-25 12:55:43,5e7a3402fe299e0d878b5366697aacd0afa114bb,273.0,293.0,11.0,0.0
+269,Commit,dmendel_bindata,2011-02-25 04:07:36,7fedb4b5667c3dda0c66323cda99f8d67e0de33a,120.0,145.0,7.0,0.0
+270,Commit,dmendel_bindata,2011-02-20 08:36:45,1147bb3b60adafc0f9690cc0096c8e3af48816a5,68.0,0.0,2.0,0.0
+271,Commit,dmendel_bindata,2011-02-20 06:52:30,0e250d0642cefd182e2902ae6b4b3bba7ea7bfce,504.0,338.0,20.0,0.0
+272,Commit,dmendel_bindata,2011-02-18 14:09:03,3266a67ff237e8fc8ba78f174c50d60b48e4e30a,87.0,64.0,27.0,0.0
+273,Commit,dmendel_bindata,2011-01-30 07:56:55,9a61efc3b04a8513b34a661cfa3b6c853325af6e,48.0,3.0,3.0,0.0
+274,Commit,dmendel_bindata,2011-01-25 04:41:10,c346b5181fb6cad4895bbcc8ea506426a55e9ead,3.0,0.0,1.0,0.0
+275,Commit,dmendel_bindata,2011-01-24 16:33:14,cd5af8754ac38fad4419a2c9dbae030de1fe6f75,5.0,1.0,2.0,0.0
+276,Commit,dmendel_bindata,2011-01-24 16:01:35,6c307dda5823bb7c7beac693489df4be1996ab04,5.0,2.0,2.0,0.0
+277,Commit,dmendel_bindata,2011-01-24 16:01:10,0dff9959e837c45c3b48e5d9b6742ce5ae2ce615,374.0,123.0,2.0,0.0
+278,Commit,dmendel_bindata,2011-01-24 07:52:46,6a9e50d456c500b4b0dc476bb414cc5cb64efeb1,153.0,4.0,4.0,0.0
+279,Commit,dmendel_bindata,2011-01-24 07:23:59,01b4bc2dd276b4089cf617f177fbd372dde80a7a,20.0,6.0,2.0,0.0
+280,Commit,dmendel_bindata,2011-01-24 06:52:28,f898c701b9400305c400f27bc539a3c760895daf,36.0,11.0,3.0,0.0
+281,Commit,dmendel_bindata,2011-01-24 05:18:55,f040158bac63b07f860f5810b83fd179d3fc38ae,93.0,60.0,7.0,0.0
+282,Commit,dmendel_bindata,2011-01-23 10:46:04,b8d35ad41b672bbe0cc57e2e25a98682720537c2,124.0,0.0,1.0,0.0
+283,Commit,dmendel_bindata,2011-01-23 09:52:03,b88b1586a3ba0dec366a2ca1d7cf7b84a49672c3,345.0,2.0,3.0,0.0
+284,Commit,dmendel_bindata,2011-01-23 05:18:10,320512242237ea1cee9dd954badfdeeea23c7438,155.0,135.0,18.0,0.0
+285,Commit,dmendel_bindata,2011-01-23 03:31:26,f2fba67ad8a795696b614670f4b079efd98e256f,2.0,2.0,1.0,0.0
+286,Commit,dmendel_bindata,2011-01-22 17:14:18,ff3df1705eea36c93cda0bcee586baf5fd167b6b,107.0,65.0,4.0,0.0
+287,Commit,dmendel_bindata,2011-01-22 16:36:09,d8a8f3e98b46856af3cb22bc63aca42d4c589b54,18.0,28.0,6.0,0.0
+288,Commit,dmendel_bindata,2011-01-22 14:58:16,8163a19e89a0da8c55eff00a1a09b2d4ff26c7fd,157.0,79.0,10.0,0.0
+289,Commit,dmendel_bindata,2011-01-22 05:51:04,2dbfa09b50b7f62415611c0f4a3fec12536769fb,100.0,80.0,2.0,0.0
+290,Commit,dmendel_bindata,2011-01-22 04:03:02,94de8ea82455958f51f65f15c7bc8b8e456db20f,217.0,80.0,16.0,0.0
+291,Commit,dmendel_bindata,2011-01-21 05:27:37,d3cf928b8126c46e5d2dad0d648b32410a0f7362,134.0,74.0,11.0,0.0
+292,Commit,dmendel_bindata,2011-01-20 05:15:22,63cf2d5307f4579d2e36c9d18988c0317509e5e8,100.0,10.0,11.0,0.0
+293,Commit,dmendel_bindata,2011-01-19 17:21:42,59e900bdffc4d8af9abf12aeb0b9d74fd368e377,1218.0,1507.0,23.0,0.0
+294,Commit,dmendel_bindata,2010-12-14 01:39:48,4892ed3dbd2bd5ef00396c31c2b5b0961eca930a,2.0,1.0,1.0,0.0
+295,Commit,dmendel_bindata,2010-12-14 01:35:15,e496c204a9c6c4e1ad5a3ec842c7f462f208bf77,2.0,2.0,2.0,0.0
+296,Commit,dmendel_bindata,2010-12-01 12:07:09,698538fe03a68bf8e416ba4d21ed08b774cd1647,26.0,3.0,5.0,0.0
+297,Commit,dmendel_bindata,2010-12-01 07:53:24,451a00fba0485f12d0819e7c077f13a341b46166,47.0,17.0,4.0,0.0
+298,Commit,dmendel_bindata,2010-11-29 01:58:13,6053741ea08ad9ce988623c9301f8b2a5ccc2ead,17.0,47.0,4.0,0.0
+299,Commit,dmendel_bindata,2010-11-29 01:40:11,85bf201323ec833d3fd64bc570f91b076a8e7064,25.0,0.0,1.0,0.0
+300,Commit,dmendel_bindata,2010-11-29 01:35:39,5c35008db9053972151414d7d4a109009ea7e447,19.0,0.0,2.0,0.0
+301,Commit,dmendel_bindata,2010-11-29 01:14:48,83693b103927a0dbc7dc3f2a8c6da0c1e6a90173,2.0,0.0,1.0,0.0
+302,Commit,dmendel_bindata,2010-11-06 07:17:22,96f633890d5f01a1edc90952ea8eed70b8ac5d6a,271.0,223.0,15.0,0.0
+303,Commit,dmendel_bindata,2010-10-04 03:35:34,eb124b3baac1f5d5e4eb4d3072b83b3b0893ad57,1.0,1.0,1.0,0.0
+304,Commit,dmendel_bindata,2010-10-03 11:36:46,d53fa864627b2ed18f81d89252b0a2a0be9a733f,50.0,67.0,13.0,0.0
+305,Commit,dmendel_bindata,2010-08-02 14:41:28,19c636b8ba412f6b31900f4c6a23882b848495fe,13.0,0.0,3.0,0.0
+306,Commit,dmendel_bindata,2010-07-20 04:48:14,eba465d1ca13b9a97c9f3aba3bc4e44592014c47,5.0,1.0,2.0,0.0
+307,Commit,dmendel_bindata,2010-07-20 04:46:46,89c8059af4a09fabdcf93bb40528b742ec06dfd2,6.0,7.0,2.0,0.0
+308,Commit,dmendel_bindata,2010-07-20 04:46:13,53673cc9e2235cfb96e89d33a8783105e07a1a7f,2.0,2.0,2.0,0.0
+309,Commit,dmendel_bindata,2010-07-09 09:00:36,7bb0bbca44fe3caca96641446a62644173c0a007,2.0,1.0,1.0,0.0
+310,Commit,dmendel_bindata,2010-07-09 08:58:22,eee038cc38a0564660f5ccc5b0e0271faf93d003,12.0,6.0,2.0,0.0
+311,Commit,dmendel_bindata,2010-07-09 08:57:40,9f99876854a7415b6660a3427ff747bac09f3f59,1.0,2.0,1.0,0.0
+312,Commit,dmendel_bindata,2010-07-09 08:11:21,cc4f6f999afcddca5be63e4b246ba3f5b7017d92,29.0,26.0,1.0,0.0
+313,Commit,dmendel_bindata,2010-07-09 05:27:47,91f54c0bd8795687524dfdd0f3a33744d6908adb,1.0,1.0,1.0,0.0
+314,Commit,dmendel_bindata,2010-07-09 04:04:14,2016b00407fbbea02bed1d8ac079ce8efb2bad00,1.0,1.0,1.0,0.0
+315,Commit,dmendel_bindata,2010-07-09 04:00:32,21f3a766facc970bcfeb7fa118228341519f80fe,22.0,11.0,1.0,0.0
+316,Commit,dmendel_bindata,2010-07-09 03:57:49,ae0979e16705f8888edd81c70dab1bd2a5b5f709,11.0,7.0,2.0,0.0
+317,Commit,dmendel_bindata,2010-04-29 17:44:47,e00024ed78c8c5850c8e3fbbea52aeb9c62fcb4d,607.0,259.0,22.0,0.0
+318,Commit,dmendel_bindata,2010-04-29 15:40:12,8cd9a8d01e0cfdf6a6ec3a00dee42c20e8e7a4f2,149.0,173.0,3.0,0.0
+319,Commit,dmendel_bindata,2010-04-29 02:43:04,b510b9c191c83eea20ed0f31a4e5515f2a283bc4,6.0,3.0,2.0,0.0
+320,Commit,dmendel_bindata,2010-04-28 03:35:03,3666eaadfd1183744822d3e641e6495a21a91eeb,10.0,10.0,4.0,0.0
+321,Commit,dmendel_bindata,2010-04-27 02:15:51,d109a9496d4578e368e836946ee3dcda97716428,1.0,1.0,1.0,0.0
+322,Commit,dmendel_bindata,2010-04-27 02:10:03,2c1a8d718faa44f8b8e04e4e2ea15de995e36935,50.0,0.0,1.0,0.0
+323,Commit,dmendel_bindata,2010-04-27 01:56:54,878573a8bf16a365babcbee2b987680bf34f13da,15.0,2.0,4.0,0.0
+324,Commit,dmendel_bindata,2010-04-23 05:33:12,289466efb5db94ed61597a2656fa9ab993c1c9f6,147.0,167.0,5.0,0.0
+325,Commit,dmendel_bindata,2010-04-23 05:31:44,7815a5a732260d5a472023b45e09c1c704df27fc,59.0,26.0,10.0,0.0
+326,Commit,dmendel_bindata,2010-04-21 13:12:16,1351854bb93144bea11cdc47bd6e186c101eaf14,149.0,128.0,8.0,0.0
+327,Commit,dmendel_bindata,2010-04-20 02:57:28,931fc1a3f1a4180fa5273ff964e47b1f623f4934,15.0,17.0,5.0,0.0
+328,Commit,dmendel_bindata,2010-04-14 03:25:34,69fd559e5cdd0e369b98665174ce8d6aea3eb41f,84.0,38.0,18.0,0.0
+329,Commit,dmendel_bindata,2010-04-05 03:09:22,8524b15ac6536711b6bd7b62a140f460d0239e80,52.0,39.0,5.0,0.0
+330,Commit,dmendel_bindata,2010-04-05 03:05:30,0a07d1f054b5b8f0573bec5ac0617903e0b75327,2.0,2.0,1.0,0.0
+331,Commit,dmendel_bindata,2009-11-24 04:18:39,6519898cb7f453d11e6e83eccbd9828fd2551d47,2.0,5.0,3.0,0.0
+332,Commit,dmendel_bindata,2009-11-24 04:15:18,b83defa8567890aa73a7c9ff1b6684ec68ff11e5,111.0,89.0,6.0,0.0
+333,Commit,dmendel_bindata,2009-10-21 08:55:51,44059e4bf1e0a885f9f3b83a4f124574cf668ace,157.0,38.0,9.0,0.0
+334,Commit,dmendel_bindata,2009-10-20 17:45:34,a52e12df33a706fa7dae3566656d085f5b1c54d9,23.0,6.0,3.0,0.0
+335,Commit,dmendel_bindata,2009-10-20 17:09:25,e531b349a8d5f54df3d97ddeac448d4fc7ad7808,79.0,7.0,8.0,0.0
+336,Commit,dmendel_bindata,2009-10-20 07:16:43,690f464aae617e127d67ee90e95dc06332808824,118.0,0.0,5.0,0.0
+337,Commit,dmendel_bindata,2009-10-20 06:18:34,2ef5502ab53d4154343524b00f476864d8ba191f,59.0,10.0,2.0,0.0
+338,Commit,dmendel_bindata,2009-09-13 04:33:23,f094eceb6f467aa1f952ae612ab84909114a66b6,1.0,1.0,1.0,0.0
+339,Commit,dmendel_bindata,2009-09-13 04:06:44,4e298577831555df85a1adf4711ff12d8d7273b4,17.0,6.0,1.0,0.0
+340,Commit,dmendel_bindata,2009-09-12 15:49:34,f0422ef2e7d37e47c03282abe43abbd2ec8add7c,5.0,0.0,1.0,0.0
+341,Commit,dmendel_bindata,2009-09-12 14:50:49,c697a2c37d87a3338e3054511ac9a284809b2452,5.0,5.0,3.0,0.0
+342,Commit,dmendel_bindata,2009-09-12 14:45:57,fd961f657857b14b4c72827c222d2d7aab7914c4,1.0,0.0,1.0,0.0
+343,Commit,dmendel_bindata,2009-09-12 14:41:58,516395b073dbfd0a67415216a0b47de5aab9a61c,38.0,228.0,14.0,0.0
+344,Commit,dmendel_bindata,2009-09-12 14:23:32,de68f2cec93c36e9b1ce9b379f36ed7443fcf1bd,0.0,6.0,1.0,0.0
+345,Commit,dmendel_bindata,2009-09-12 14:22:55,6d10a802afc6eb2a46dd51670553915b802cc8f5,337.0,4.0,3.0,0.0
+346,Commit,dmendel_bindata,2009-09-12 14:19:54,10c5efab670b4fab9be406d30745d4fb195b8ed8,1.0,1.0,1.0,0.0
+347,Commit,dmendel_bindata,2009-09-12 13:24:04,275f66546a03dde005236a973c0c89d0113f345d,49.0,41.0,10.0,0.0
+348,Commit,dmendel_bindata,2009-09-12 13:22:31,28bb0d63afb5dc5a0bd33bd08dd201d6ce1bc895,1054.0,1354.0,2.0,0.0
+349,Commit,dmendel_bindata,2009-09-12 13:21:27,d18a61269664a807d4112a1b2c254c934fed63ef,4.0,4.0,2.0,0.0
+350,Commit,dmendel_bindata,2009-09-12 12:46:29,054bf5417315c6fc89c99e667a92ff8016c88a96,802.0,718.0,1.0,0.0
+351,Commit,dmendel_bindata,2009-09-11 04:36:51,e4486b39d083911d57443c9611dc75520272525b,23.0,48.0,8.0,0.0
+352,Commit,dmendel_bindata,2009-09-11 04:09:16,05b8f4c39fb7c69c34e2edf6f16a0f337472f20d,2.0,2.0,1.0,0.0
+353,Commit,dmendel_bindata,2009-09-04 14:34:00,1082a5bcad392e5332d800768a7da4673d062639,12.0,2.0,2.0,0.0
+354,Commit,dmendel_bindata,2009-09-04 12:36:18,2c5d63a936e5cd42ebe02ba468783634f33a3b2f,283.0,173.0,1.0,0.0
+355,Commit,dmendel_bindata,2009-09-04 11:20:40,8b2020b830417cc1e4c526602ee44dc654dfd974,23.0,0.0,1.0,0.0
+356,Commit,dmendel_bindata,2009-09-04 11:17:53,2260f3c28a1a06cb1189c5beeda6f44a26ddf57e,4.0,4.0,1.0,0.0
+357,Commit,dmendel_bindata,2009-09-02 13:30:45,987dfc2b90266dbd6da6ab03e6488ee4e0dae692,54.0,36.0,9.0,0.0
+358,Commit,dmendel_bindata,2009-09-02 12:03:55,cdd9ecd4d58aae1f298be5172d2ae24419e47d0c,1.0,1.0,1.0,0.0
+359,Commit,dmendel_bindata,2009-09-02 11:59:40,7b58aad9cf6ee7243637b3158c228d0580f69827,1.0,1.0,1.0,0.0
+360,Commit,dmendel_bindata,2009-09-02 11:55:53,457a0fc7e325dfe982cb320eaf16f9eb632f2c72,15.0,6.0,4.0,0.0
+361,Commit,dmendel_bindata,2009-09-02 11:33:27,67f3c05dffbfa547db840388945e9d4036b9d135,22.0,13.0,5.0,0.0
+362,Commit,dmendel_bindata,2009-08-29 12:46:33,eaed16c05d9edd3a7d9cf646c970f73b2101795a,949.0,0.0,1.0,0.0
+363,Commit,dmendel_bindata,2009-08-29 12:44:58,406c900731a35b1679b18b8cdba816ca52142f21,1.0,1.0,1.0,0.0
+364,Commit,dmendel_bindata,2009-08-29 12:43:39,ab5498517f588e53828e5c6506134d0684c01056,17.0,0.0,1.0,0.0
+365,Commit,dmendel_bindata,2009-07-23 08:42:47,c4b92c02ec2bdda2b2b3f7c91d16d9e640adadbc,188.0,340.0,8.0,0.0
+366,Commit,dmendel_bindata,2009-07-16 06:28:48,14e1bf42a70b5afb39587d1a94b54af5c21b70bf,2.0,2.0,1.0,0.0
+367,Commit,dmendel_bindata,2009-07-15 04:25:31,ef1ef8ada1c3dbd0e1a73649f852cec8375c5408,6.0,4.0,3.0,0.0
+368,Commit,dmendel_bindata,2009-07-09 05:56:37,ec98a839a24dfff1a2705348a86be33456a72087,5.0,5.0,3.0,0.0
+369,Commit,dmendel_bindata,2009-07-09 05:42:07,bcd6c1674e4c533e653fa24357892e2c17452b9b,67.0,95.0,5.0,0.0
+370,Commit,dmendel_bindata,2009-07-08 12:16:26,da84b6a3998dfb53e299813edadd954c28c36e12,23.0,1.0,3.0,0.0
+371,Commit,dmendel_bindata,2009-06-28 03:41:27,2a1bd0b5078dc9a8590369a65a0ce14c7772caf4,4.0,0.0,1.0,0.0
+372,Commit,dmendel_bindata,2009-06-28 03:38:11,cc45bfc679f79a83d5f0f4fbb7020da6803f43b2,231.0,3.0,4.0,0.0
+373,Commit,dmendel_bindata,2009-06-28 03:37:37,ddd2a910a3c471b5a8e234b49d06c7a6c0d46cd5,1.0,22.0,1.0,0.0
+374,Commit,dmendel_bindata,2009-06-28 02:35:52,ecd8146fa35d4d9bf188520f70230459d372e0e4,78.0,28.0,5.0,0.0
+375,Commit,dmendel_bindata,2009-06-28 02:33:12,dac17caad0465ef07cdc3d09af6364a0057eb135,4.0,0.0,1.0,0.0
+376,Commit,dmendel_bindata,2009-06-27 15:31:10,b08fb8f31f295fc3c9cc07441387c5fb3c0d0474,183.0,193.0,13.0,0.0
+377,Commit,dmendel_bindata,2009-06-25 05:01:34,b802c28f322e57276ef4151d17bf402c1733e544,24.0,24.0,19.0,0.0
+378,Commit,dmendel_bindata,2009-06-25 04:05:29,87783f64731dda93989365a9416dd1d819916388,89.0,35.0,3.0,0.0
+379,Commit,dmendel_bindata,2009-06-25 03:20:42,f600b75815d4ac5d9a7c15cc489e9a0f69e54e50,17.0,17.0,1.0,0.0
+380,Commit,dmendel_bindata,2009-06-25 03:12:22,7533e842827df249d4895f2d5ab316b753a2f57f,1.0,2.0,1.0,0.0
+381,Commit,dmendel_bindata,2009-06-24 07:58:33,dcaf0f5a09fdfbccf6233278f5233d2f6cb39c78,0.0,4.0,4.0,0.0
+382,Commit,dmendel_bindata,2009-06-22 04:21:13,3ca3124eb36bb3fa91c285c4b1c7bd86f9ac6211,14.0,13.0,2.0,0.0
+383,Commit,dmendel_bindata,2009-06-18 02:50:23,9cc0fcd089ef86cd24576fc17cf55e6d142d757a,8.0,25.0,1.0,0.0
+384,Commit,dmendel_bindata,2009-06-17 10:05:34,74d8becf22a2332c30ef61f454ff8af1d3af8411,234.0,280.0,13.0,0.0
+385,Commit,dmendel_bindata,2009-06-15 05:13:38,1320cd2922d72430de269b84937dd4ff07a0c709,1.0,3.0,1.0,0.0
+386,Commit,dmendel_bindata,2009-06-15 04:25:52,6d3bcccc979b900cad0bca1b7c736b9e842415c9,12.0,0.0,1.0,0.0
+387,Commit,dmendel_bindata,2009-06-14 11:14:14,c0175fd9caf88a1d8a8bfc4c4df7ed535ab643d7,20.0,1.0,3.0,0.0
+388,Commit,dmendel_bindata,2009-06-14 10:31:13,f770527a47a877a25755b7e16aa658648c66c649,283.0,191.0,16.0,0.0
+389,Commit,dmendel_bindata,2009-04-17 12:23:06,d461fee963b495f831d761102761b7cb3b3f0ee3,59.0,0.0,1.0,0.0
+390,Commit,dmendel_bindata,2009-04-17 12:01:15,e65a8614125159790f6fdb46ba617d47d03a3e19,1.0,1.0,1.0,0.0
+391,Commit,dmendel_bindata,2009-04-17 11:48:53,3836a3f869cf6cabb4dbf788caa9729e28c1260e,50.0,35.0,3.0,0.0
+392,Commit,dmendel_bindata,2009-04-17 11:47:54,3d5ad10ccc72ba9ff92e07c0e39186db3348a3a6,12.0,15.0,2.0,0.0
+393,Commit,dmendel_bindata,2009-04-17 11:27:44,37a0c2f7e05828e342890e84fa030306b4a4e22c,48.0,37.0,2.0,0.0
+394,Commit,dmendel_bindata,2009-04-16 08:01:59,7f2249eec4ec2e906dc1506a5f590149879e5d33,0.0,10.0,1.0,0.0
+395,Commit,dmendel_bindata,2009-04-16 07:40:19,a1516c4150f6b0baef1d93878f1e5db72428da3f,76.0,46.0,3.0,0.0
+396,Commit,dmendel_bindata,2009-04-15 17:19:21,1ef363f9d738b4b515b9e35d20f712e9a675c9fe,126.0,179.0,16.0,0.0
+397,Commit,dmendel_bindata,2009-04-15 11:08:16,dad5cf77f3675bf8f837005b5a02e98eeecfec31,5.0,1.0,1.0,0.0
+398,Commit,dmendel_bindata,2009-04-15 09:34:27,52d43b4eaf5f1d961d89d62c64438438f7a1b23b,1.0,1.0,1.0,0.0
+399,Commit,dmendel_bindata,2009-04-15 09:24:36,3c78884087f7a1523c135b95e89848dc7c8df75a,37.0,38.0,11.0,0.0
+400,Commit,dmendel_bindata,2009-04-15 09:08:01,a8d2a0703a92401cd23f71de4e29c13158ee823f,16.0,28.0,2.0,0.0
+401,Commit,dmendel_bindata,2009-04-15 06:30:49,7e478f1887ddf0b8cd49767fbc89d0df005d8b16,32.0,53.0,3.0,0.0
+402,Commit,dmendel_bindata,2009-04-15 06:30:06,8931635b29bc1ee248e9511f843b8c2a364cd7cd,1.0,1.0,1.0,0.0
+403,Commit,dmendel_bindata,2009-04-14 16:19:52,165ae3cbf914acc7b51a7d9f4ad6d23e4fd283bf,33.0,0.0,1.0,0.0
+404,Commit,dmendel_bindata,2009-04-14 16:10:42,9c14906d757fb48ca2631494f3ec743afd4b55af,55.0,3.0,3.0,0.0
+405,Commit,dmendel_bindata,2009-04-14 06:59:56,93db6cb1747bc78439c84f6ae82c13d2752ba1a5,9.0,9.0,5.0,0.0
+406,Commit,dmendel_bindata,2009-04-14 05:58:20,37cb50979ecba3da217239d71b829a768bdda389,142.0,106.0,10.0,0.0
+407,Commit,dmendel_bindata,2009-04-14 05:22:53,2837d364ffeb50543f5bc4e2c115e50161bd431b,15.0,15.0,1.0,0.0
+408,Commit,dmendel_bindata,2009-04-14 05:20:13,c710d22233944ba951260fcdb6652b34d8d7ae20,1.0,0.0,1.0,0.0
+409,Commit,dmendel_bindata,2009-04-14 05:16:55,8493984fd191e8bd22e39996cf66bffe158f1d92,7.0,0.0,1.0,0.0
+410,Commit,dmendel_bindata,2009-04-14 05:16:08,7ecf8aee842b610a4fa7ed4614362cbae18c4bcb,1.0,1.0,1.0,0.0
+411,Commit,dmendel_bindata,2009-04-14 04:22:15,3aff7fc57b87315802bc726690adff6be0d07bc5,67.0,8.0,2.0,0.0
+412,Commit,dmendel_bindata,2009-04-14 04:17:23,fcfdc729204e9fcd5664f6967ff1b558f9c5b209,21.0,16.0,1.0,0.0
+413,Commit,dmendel_bindata,2009-04-14 03:20:10,6a2cd623b578bdac7af13c0a0b4860e39b43001d,44.0,26.0,3.0,0.0
+414,Commit,dmendel_bindata,2009-04-13 08:29:21,6fe22d90871bcd06442ccca546a766cec49d584c,6.0,0.0,2.0,0.0
+415,Commit,dmendel_bindata,2009-04-13 08:18:06,c6625a8e1461c33deca5e4815f3bbbd142be4cf0,136.0,114.0,11.0,0.0
+416,Commit,dmendel_bindata,2009-04-13 05:00:35,ba9a0151e5733a9f1df5da403b7c2184b715c7d1,37.0,52.0,2.0,0.0
+417,Commit,dmendel_bindata,2009-04-13 04:32:30,ec312715021a7ad2944a3d63d928fe478d7d9b48,5.0,45.0,2.0,0.0
+418,Commit,dmendel_bindata,2009-04-13 04:00:24,e550292e29d525e1a7429d4a92fa8b9a94076a45,380.0,225.0,24.0,0.0
+419,Commit,dmendel_bindata,2009-04-12 14:16:40,dd42acc86c11e1145717134cc706197ba460acd4,16.0,0.0,1.0,0.0
+420,Commit,dmendel_bindata,2009-04-12 13:48:48,541015f75d53c80789e78cfad4ec795ed7c8be4f,37.0,40.0,2.0,0.0
+421,Commit,dmendel_bindata,2009-04-12 12:55:20,5fda130099ecd725a0f137c7270168cb7019d674,6.0,0.0,1.0,0.0
+422,Commit,dmendel_bindata,2009-04-12 12:50:49,72226fde1a70dd7a11a0e2cb55be36376e26a6da,16.0,0.0,1.0,0.0
+423,Commit,dmendel_bindata,2009-03-29 14:21:38,fa4bdb3d5fe71c48eeb1b69aae2899b6e4564f3a,19.0,0.0,2.0,0.0
+424,Commit,dmendel_bindata,2009-03-29 14:08:44,2fd300e928d27e2c0d0a0b71e48cbcc6eb6d294e,14.0,1.0,2.0,0.0
+425,Commit,dmendel_bindata,2009-03-29 12:34:47,66cd021b558451e3ccbde6ce2aa5db7f8308c19d,2.0,2.0,2.0,0.0
+426,Commit,dmendel_bindata,2009-03-29 08:05:52,751f2dc6aeac4e18fb7f29d757cae57259e8cc29,36.0,36.0,17.0,0.0
+427,Commit,dmendel_bindata,2009-03-29 06:29:32,3ee37742aab2431db52c4134dc10d7619f731194,46.0,1.0,3.0,0.0
+428,Commit,dmendel_bindata,2009-03-29 06:17:08,8c125e88cdfa9dcc376d39f501987a0ce4b563d4,23.0,18.0,3.0,0.0
+429,Commit,dmendel_bindata,2009-03-29 03:17:01,3ea21896a194810bbb8a0bb63f885072fc236f6d,5.0,4.0,3.0,0.0
+430,Commit,dmendel_bindata,2009-01-13 01:54:11,8c037f2924fbe625fce3f21e97a5645276f1e5b0,20.0,0.0,1.0,0.0
+431,Commit,dmendel_bindata,2009-01-13 01:53:45,bc468b18b72a18510b33e8cb5fcec4fed8e954f8,2.0,2.0,1.0,0.0
+432,Commit,dmendel_bindata,2009-01-13 01:34:46,bfd0a6267080b8440f930ee888550c2aff685ebe,25.0,1.0,1.0,0.0
+433,Commit,dmendel_bindata,2009-01-13 01:34:07,9a0876de4e08bf8979ebb6e2ed15d30158e7a43f,5.0,3.0,1.0,0.0
+434,Commit,dmendel_bindata,2009-01-03 13:43:43,577c92f2d74da84b0197b333f7a8ceacf1d74dee,17.0,12.0,3.0,0.0
+435,Commit,dmendel_bindata,2009-01-03 13:30:22,7bd81c1a8d3e291806bfab387f1973658651b343,25.0,18.0,8.0,0.0
+436,Commit,dmendel_bindata,2009-01-01 02:37:23,82b65a0edbd2b5abf2e3befaae705c65fc790df7,5.0,5.0,2.0,0.0
+437,Commit,dmendel_bindata,2009-01-01 02:35:33,3f6efbd2ff4b978cc22409c84035531833d14cbc,110.0,7.0,6.0,0.0
+438,Commit,dmendel_bindata,2008-12-30 06:16:04,beaa710e49e97ccdf962c278fd4ae4777d0f0cbc,61.0,12.0,6.0,0.0
+439,Commit,dmendel_bindata,2008-12-30 04:09:04,e1f9598fd59e5f085c9a0952f3e8d26043fa78ef,295.0,156.0,2.0,0.0
+440,Commit,dmendel_bindata,2008-12-30 02:22:15,eddc762eded6804990e032e29dd8990678d86317,3.0,0.0,1.0,0.0
+441,Commit,dmendel_bindata,2008-12-30 02:19:36,93c99674322a872725c28dfaa0cf89f8de4b8dd8,146.0,50.0,6.0,0.0
+442,Commit,dmendel_bindata,2008-12-28 09:32:56,f0037224599d4676651c5815093d0c74cf1aa5ca,26.0,24.0,4.0,0.0
+443,Commit,dmendel_bindata,2008-12-22 02:00:56,6bb6583792a953aa136116374d85feef7004397e,5.0,9.0,2.0,0.0
+444,Commit,dmendel_bindata,2008-12-21 13:21:59,0c2f9218589bf0db74882f3c2a192ffab2e09c3b,1.0,1.0,1.0,0.0
+445,Commit,dmendel_bindata,2008-12-21 13:18:15,0322dc3d914bb2789ec2f7c4805b32ca1374025d,7.0,2.0,2.0,0.0
+446,Commit,dmendel_bindata,2008-12-21 09:52:12,8474042f831154234cd370f2ac8b0142153f32f2,5.0,6.0,4.0,0.0
+447,Commit,dmendel_bindata,2008-12-19 09:42:48,f473d1504e70ae4f3b09425d79e49269ae208d8d,176.0,185.0,9.0,0.0
+448,Commit,dmendel_bindata,2008-12-19 09:40:45,73ef7a185dd8bb48e1b70ed381c26b4933d0bb7f,0.0,2.0,1.0,0.0
+449,Commit,dmendel_bindata,2008-12-19 09:32:53,904a9078b1bf098cbefe6cfa4aa941136a5118e9,4.0,11.0,1.0,0.0
+450,Commit,dmendel_bindata,2008-12-19 09:24:17,22d640394ddf4411021b036aa62f452f7fd4409a,9.0,9.0,1.0,0.0
+451,Commit,dmendel_bindata,2008-12-16 05:38:15,9f42e5d23cbaa4cb04f835c6982bd3bfcd84d04e,1021.0,887.0,29.0,0.0
+452,Commit,dmendel_bindata,2008-12-11 08:06:48,4e3e46d123ea564f9dcd8b1152dbf70e2d5f814c,28.0,17.0,4.0,0.0
+453,Commit,dmendel_bindata,2008-12-11 06:45:13,4502add88e779c0647ee17561482e9db06ee886d,30.0,26.0,2.0,0.0
+454,Commit,dmendel_bindata,2008-12-11 06:35:25,5cedd24cc25ba14c8eddd0e121da17ff02dc9274,46.0,50.0,3.0,0.0
+455,Commit,dmendel_bindata,2008-12-11 04:13:52,e895da10a0b0c7061a6cd07cd411cebfccc299bb,571.0,475.0,16.0,0.0
+456,Commit,dmendel_bindata,2008-12-11 04:12:37,b3082ef5c542e9c75c037b5e262ef5837581e8d8,5.0,2.0,1.0,0.0
+457,Commit,dmendel_bindata,2008-12-11 04:11:42,b932b1702b73becbcb304511141a476166b5c3a0,31.0,0.0,1.0,0.0
+458,Commit,dmendel_bindata,2008-12-10 10:57:19,682290a3a6d48b02c840e8034870f4fa67a90d1f,191.0,202.0,3.0,0.0
+459,Commit,dmendel_bindata,2008-12-09 05:07:15,82e26f1281c4af27ffac2b445ca7c038a8dcaac2,3.0,3.0,1.0,0.0
+460,Commit,dmendel_bindata,2008-12-09 04:38:13,fbe3f12526cdea3b45233d82ab119d7176e9eb64,19.0,757.0,1.0,0.0
+461,Commit,dmendel_bindata,2008-12-04 05:53:58,b8372c7c88ff86edaafc4178d7a1eb52d7968b0e,219.0,265.0,3.0,0.0
+462,Commit,dmendel_bindata,2008-12-03 14:29:52,22b6932779bf01bc59e589b14b4ff6d1ef363845,2.0,2.0,2.0,0.0
+463,Commit,dmendel_bindata,2008-12-03 14:28:36,b0eb95ed05c617848ef6c779ec610d1d2f8776d5,18.0,1.0,1.0,0.0
+464,Commit,dmendel_bindata,2008-12-03 14:06:22,c64b82db4d177d3308b42e06fddfc076218072b5,168.0,104.0,13.0,0.0
+465,Commit,dmendel_bindata,2008-12-03 08:38:51,1f1435e1a576fe710be8206db2730c7e9721d871,2.0,75.0,1.0,0.0
+466,Commit,dmendel_bindata,2008-12-03 08:32:56,3edcd5a03429549094f1fdd30f3b042517e5f70f,511.0,379.0,19.0,0.0
+467,Commit,dmendel_bindata,2008-12-03 08:30:21,4285d680f52dfd0ebf0bbc313bd594d6eb9873a6,48.0,13.0,1.0,0.0
+468,Commit,dmendel_bindata,2008-12-03 08:27:49,2527cce44982c374178b2081ce05a99f7963c58a,107.0,64.0,1.0,0.0
+469,Commit,dmendel_bindata,2008-07-28 03:37:09,59a055473e783ec519150a1cb399f131fa12f3ee,89.0,121.0,8.0,0.0
+470,Commit,dmendel_bindata,2008-07-27 06:28:02,8b4236238e489af7ff893d1726a8176f4be7bef1,78.0,77.0,11.0,0.0
+471,Commit,dmendel_bindata,2008-07-25 04:45:49,4b5be1b588b5bc4e3ab7fcffd8e3d8538a48e1ce,49.0,10.0,3.0,0.0
+472,Commit,dmendel_bindata,2008-07-18 14:46:10,ac4758bb1ffba153643615cd9c8e161a42fd7a6b,3.0,2.0,2.0,0.0
+473,Commit,dmendel_bindata,2008-07-18 14:42:50,c482b5d3165cebecd6c9680d25416fb8db0c3efb,58.0,39.0,2.0,0.0
+474,Commit,dmendel_bindata,2008-07-18 13:53:25,3322014da99b4c10a0628ee76114b21f2e9b6729,2.0,2.0,1.0,0.0
+475,Commit,dmendel_bindata,2008-07-18 13:26:17,0a9d22f3fc8a63fe77f45dcbba2f674eae57e803,18.0,0.0,1.0,0.0
+476,Commit,dmendel_bindata,2008-07-18 12:18:32,8475860ce38fad12028a1658a4771647b60010bc,133.0,105.0,7.0,0.0
+477,Commit,dmendel_bindata,2008-07-14 11:48:52,6fa61a75bbe117aa113a01f16d2dda82079ed8dc,359.0,385.0,16.0,0.0
+478,Commit,dmendel_bindata,2008-07-14 11:48:02,fdd845d7ad6b26af869dc2991f78f326b1244761,2.0,2.0,2.0,0.0
+479,Commit,dmendel_bindata,2008-07-14 11:46:25,b294535d4f9a5bdce09641f96ea5f0982f87390d,144.0,144.0,3.0,0.0
+480,Commit,dmendel_bindata,2008-07-14 11:44:40,32ebcbf5887c885a902e37bc96a6c66019b933f9,0.0,6.0,1.0,0.0
+481,Commit,dmendel_bindata,2008-06-15 07:33:47,b0d95af4dfbdf41f5d8ba31807c09ca3e1f60588,7.0,7.0,2.0,0.0
+482,Commit,dmendel_bindata,2008-06-15 07:31:08,79db9e958144211d61e4bb93c66b0d3629890a39,4.0,0.0,1.0,0.0
+483,Commit,dmendel_bindata,2008-06-15 07:28:56,0931bf27eb760b3029cd8f99609534e47c7d6fa1,3.0,3.0,1.0,0.0
+484,Commit,dmendel_bindata,2008-06-15 07:26:52,6165870d2ccc7dd3af5cc6b707565a2a8e6a147d,37.0,3.0,2.0,0.0
+485,Commit,dmendel_bindata,2008-06-15 07:24:27,7c7da66af4a6b53d9c43fe9ea9167e34ec2ec999,32.0,45.0,1.0,0.0
+486,Commit,dmendel_bindata,2008-06-09 11:16:06,af849772dca3a4b15616aad5484a55a85fdfddeb,0.0,1.0,1.0,0.0
+487,Commit,dmendel_bindata,2008-06-09 10:48:44,91c6357d2354a6678bfaace69b8e6f770ba34305,2.0,0.0,1.0,0.0
+488,Commit,dmendel_bindata,2008-06-09 10:47:13,1171237c05baecabae53caa8fbd145ba742e55ad,25.0,0.0,2.0,0.0
+489,Commit,dmendel_bindata,2008-06-09 09:41:51,06b4b32f8185f33940cec8a4c357a2c08ce3607d,997.0,4.0,8.0,0.0
+490,Commit,dmendel_bindata,2008-06-09 07:49:11,b9f095be86e729bce528ba1d46b2e0d07a4ef286,48.0,32.0,8.0,0.0
+491,Commit,dmendel_bindata,2008-06-09 07:36:30,841d8274a312e33f1020bda02f1fd56d275b29c4,40.0,10.0,2.0,0.0
+492,Commit,dmendel_bindata,2008-06-09 06:54:26,4b11f745ceaec13b53d56ef0eac8d5428f91740e,144.0,143.0,5.0,0.0
+493,Commit,dmendel_bindata,2008-06-09 06:41:43,91f74812319886cadcfc08fa2c45f9a88bbb0b01,27.0,15.0,7.0,0.0
+494,Commit,dmendel_bindata,2008-06-09 05:19:11,e93554c8f62afb9e8e1a5a77a8572251502f2d7a,351.0,17.0,5.0,0.0
+495,Commit,dmendel_bindata,2008-06-08 07:13:50,b4c3655998b53f468e612ef72d63ea5bbbfe9af2,143.0,42.0,13.0,0.0
+496,Commit,dmendel_bindata,2008-06-02 05:51:33,5999f489c6fa174624f21dc6b5c75b58ca754839,14.0,3.0,3.0,0.0
+497,Commit,dmendel_bindata,2008-06-02 05:42:11,37d163e18a5533935f5c305c314e9f7798e285b7,1.0,0.0,1.0,0.0
+498,Commit,dmendel_bindata,2008-06-02 05:35:21,03f575a435ed326a96b5ee6c06524d3e2d2c4e0e,451.0,166.0,8.0,0.0
+499,Commit,dmendel_bindata,2008-06-02 05:34:49,7fb8c55dedbda008786c7c3020b9cfb845053482,80.0,42.0,6.0,0.0
+500,Commit,dmendel_bindata,2008-06-02 05:34:31,967f6521069d7a426ccd6ba445b93f9b26bcd4ba,121.0,69.0,1.0,0.0
+501,Commit,dmendel_bindata,2008-06-02 05:33:22,133fe3f7c1d5d46c74454b552a36e8351705cab4,35.0,0.0,1.0,0.0
+502,Commit,dmendel_bindata,2008-06-01 09:50:10,630bac8d602b04cb68ee5b54dfd7073d9e876bca,13.0,8.0,1.0,0.0
+503,Commit,dmendel_bindata,2008-06-01 09:48:12,e53607785fac7f83ec3cbdc36b6efe378a54bcbd,3.0,3.0,1.0,0.0
+504,Commit,dmendel_bindata,2008-06-01 08:41:09,f4156a6815c9723274c43ba1a78408a5d49a2bf8,1766.0,863.0,29.0,0.0
+505,Commit,dmendel_bindata,2008-06-01 08:39:52,51976ac44e38801c226c3abe8d6a151aa42deb5f,41.0,0.0,1.0,0.0
+506,Commit,dmendel_bindata,2008-05-25 11:40:43,410332ab5487d0154e98030e09701055a96a3b77,11.0,11.0,1.0,0.0
+507,Commit,dmendel_bindata,2008-05-25 06:08:30,690bb8baaf734ae7772b996e7f4e6b6aac6e3025,45.0,38.0,3.0,0.0
+508,Commit,dmendel_bindata,2008-05-25 05:36:08,eaebaed880dd16072580074fc64f4b0b9883557b,5.0,4.0,3.0,0.0
+509,Commit,dmendel_bindata,2008-05-25 03:23:24,f0e181c5b517e960e4f72395f1db893078140e4f,20.0,15.0,4.0,0.0
+510,Commit,dmendel_bindata,2008-05-25 03:11:08,3f026fbeec41f995fe5375f1f6f06f62b467b93c,1.0,1.0,1.0,0.0
+511,Commit,dmendel_bindata,2008-02-25 02:46:03,0da5b9640556d8f12ed007ee2ce3c77c8cf1e1a6,67.0,1.0,2.0,0.0
+512,Commit,dmendel_bindata,2008-01-14 01:45:00,145edcd6eace190d33094daf94136830a716d3a5,9.0,2.0,2.0,0.0
+513,Commit,dmendel_bindata,2008-01-14 01:27:34,2e2624f52d892850ac02fb8c558cbfbbcabf5eca,3.0,3.0,1.0,0.0
+514,Commit,dmendel_bindata,2008-01-14 01:13:45,dbe841ecc0e5a5cebf650d52a649a0f580e51a10,4.0,4.0,2.0,0.0
+515,Commit,dmendel_bindata,2007-10-15 12:22:36,9028967ea3f40ee10496506a342054a223d7bbff,3.0,1.0,1.0,0.0
+516,Commit,dmendel_bindata,2007-10-15 08:25:47,5b31f874dd7a27abffa41d362eef20cb70d7a3b4,2.0,0.0,1.0,0.0
+517,Commit,dmendel_bindata,2007-10-15 08:20:50,c03d937b196acb4cf608ef44d30263519f50714e,29.0,28.0,4.0,0.0
+518,Commit,dmendel_bindata,2007-10-15 06:27:58,06205dd2a82e632caa405b0bef394ef474420a68,33.0,15.0,2.0,0.0
+519,Commit,dmendel_bindata,2007-10-15 06:26:08,6974e2b7acea4b05cc21e7ed415ac43a0dc4c415,18.0,7.0,1.0,0.0
+520,Commit,dmendel_bindata,2007-10-15 06:25:12,6906e9972da1d44d4ac15661bda1c1cece5d7a13,12.0,17.0,1.0,0.0
+521,Commit,dmendel_bindata,2007-10-14 11:19:56,0e331e3e5a41041476c613bbec4e19de48b52f2f,2.0,2.0,1.0,0.0
+522,Commit,dmendel_bindata,2007-10-14 10:30:40,8271b9a362a5fe2e357653d789d029cada282575,3.0,2.0,1.0,0.0
+523,Commit,dmendel_bindata,2007-10-14 10:19:43,190ae988c2782a15dd2a5b4d7b0e430881ad2cd9,9.0,1.0,2.0,0.0
+524,Commit,dmendel_bindata,2007-10-14 10:18:50,165a4df27d6701c238f0ecbc15fd167b9a543707,2.0,2.0,1.0,0.0
+525,Commit,dmendel_bindata,2007-10-14 03:23:52,6e23d71644abbd8149a03f51f0d25fb2f83c7339,244.0,70.0,2.0,0.0
+526,Commit,dmendel_bindata,2007-10-14 03:21:23,d3593a58a2a37483f83f2eeaab24c2e06dd5759d,2.0,13.0,1.0,0.0
+527,Commit,dmendel_bindata,2007-10-13 17:27:08,42f0c7572a93702814fd76933bb1bc45770e8241,13.0,2.0,1.0,0.0
+528,Commit,dmendel_bindata,2007-10-13 16:04:27,300b2de19d7a996107eafce159ab0c6d2b530f19,26.0,3.0,2.0,0.0
+529,Commit,dmendel_bindata,2007-10-13 15:56:10,2174a70be747f6b81678d72f9063200819ac5b74,14.0,0.0,2.0,0.0
+530,Commit,dmendel_bindata,2007-10-13 12:06:27,eb9c5c887b099fad4dbe04b994a82b97781aa17d,4.0,0.0,1.0,0.0
+531,Commit,dmendel_bindata,2007-10-13 11:58:50,b15251bf3f8f19ef9abe56dc294d9736472be9d8,9.0,0.0,1.0,0.0
+532,Commit,dmendel_bindata,2007-10-12 13:09:50,0d39d780928892750ce0283d32d09c4b7af2f6b7,69.0,34.0,2.0,0.0
+533,Commit,dmendel_bindata,2007-10-12 12:29:12,53221580da63095fd57a268ada9517d7437ce653,5.0,0.0,1.0,0.0
+534,Commit,dmendel_bindata,2007-10-12 12:12:03,3b88698961e4a56fd597e0454b3986f077e9a1a5,1.0,1.0,1.0,0.0
+535,Commit,dmendel_bindata,2007-10-12 12:05:07,b834c84a311753c37e19ab6091ee08e14890e95c,62.0,53.0,3.0,0.0
+536,Commit,dmendel_bindata,2007-10-12 09:04:17,3460b18b3a90cf9a6c558c5a282f1bc56fda5ea4,9.0,5.0,2.0,0.0
+537,Commit,dmendel_bindata,2007-10-12 05:04:24,c1e4b9071cd1fcf53e93fa0ca2d6762e0b1ccb9f,13.0,1.0,1.0,0.0
+538,Commit,dmendel_bindata,2007-09-23 07:53:37,8a79d6dccb967d11e697e5f7e7ca4f59777a23b0,1.0,0.0,1.0,0.0
+539,Commit,dmendel_bindata,2007-09-18 06:25:50,bf0f7dcd03869a03e1c2d0d86db65445d86aff2d,7.0,2.0,1.0,0.0
+540,Commit,dmendel_bindata,2007-08-26 08:26:53,3a96a14bf6d5aa7d4d310a1d0b3750497bdefa6c,2.0,2.0,2.0,0.0
+541,Commit,dmendel_bindata,2007-08-26 08:24:05,2c3378483b5f3b748fdf06b92a8f4820b84eb5fa,196.0,18.0,4.0,0.0
+542,Commit,dmendel_bindata,2007-08-24 05:04:24,bc1a0032afced311eb16ebe5eff99ce754eb8759,109.0,87.0,7.0,0.0
+543,Commit,dmendel_bindata,2007-08-23 12:27:14,3dad373bfd0265227cd8f1f9f2d4035cae702696,267.0,263.0,13.0,0.0
+544,Commit,dmendel_bindata,2007-04-04 03:12:58,372dcb0e08667aa5c7f6e1c6b0e0399602c6b0aa,4.0,4.0,1.0,0.0
+545,Commit,dmendel_bindata,2007-04-04 03:11:35,97b43c0d7530a1659059d6a72585047a80c7a766,1.0,2.0,1.0,0.0
+546,Commit,dmendel_bindata,2007-03-28 06:19:11,722f3e5c59afa07da4ef50d18e177f8098ca95e1,3.0,2.0,2.0,0.0
+547,Commit,dmendel_bindata,2007-03-28 06:15:15,249260079c6823b4e64162b012131c1a478d018d,124.0,11.0,8.0,0.0
+548,Commit,dmendel_bindata,2007-03-25 06:05:02,db362700568f990c3aab739e82968a46f54530ac,196.0,0.0,5.0,0.0
+549,Commit,dmendel_bindata,2007-03-25 06:03:48,cd20430d42a3d5a74d5c4fe72462eed3f6f5107d,3.0,0.0,1.0,0.0
+550,Commit,dmendel_bindata,2007-03-21 06:24:57,32491568394b55a8cbd605695f6c4237bbd9009e,121.0,111.0,4.0,0.0
+551,Commit,dmendel_bindata,2007-03-21 03:24:13,e11b9fcab9ed6f51064388f8794fbad0a9146aa4,1.0,1.0,1.0,0.0
+552,Commit,dmendel_bindata,2007-03-21 03:22:43,049093be56294c801f6bd6a5fc3a531694e2c6ce,5.0,5.0,3.0,0.0
+553,Commit,dmendel_bindata,2007-03-21 03:22:07,6ca3e0da2464faa0c3494d572a0c0f05892c24aa,7.0,7.0,1.0,0.0
+554,Commit,dmendel_bindata,2007-03-21 03:13:38,42477bdf90e965ea2f1dc1aaa842563f01a1fc45,23.0,0.0,2.0,0.0
+555,Commit,dmendel_bindata,2007-03-21 03:12:18,41ef322fe48706edacc0da835ac4385aeee87b97,1.0,1.0,1.0,0.0
+556,Commit,dmendel_bindata,2007-03-21 00:39:03,94b0dd5e3241964163b5aaf730d0afaf0d2e465b,151.0,151.0,10.0,0.0
+557,Commit,dmendel_bindata,2007-03-16 07:09:08,4434969312073a7b387e111f4d9252241d74bf99,28.0,0.0,1.0,0.0
+558,Commit,dmendel_bindata,2007-03-16 06:34:01,eda0e45b398b970d85bdaca46e146b938836f2e1,150.0,109.0,9.0,0.0
+559,Commit,dmendel_bindata,2007-03-14 11:28:27,c6d201c2a6f9d60fca032198e8c30dae56eeb5b1,5331.0,0.0,29.0,0.0
+0,forks,dmendel_bindata,2013-06-30 02:14:50+00:00,,,,,
+1,forks,dmendel_bindata,2013-07-02 18:12:43+00:00,,,,,
+2,forks,dmendel_bindata,2013-08-15 00:42:54+00:00,,,,,
+3,forks,dmendel_bindata,2013-11-09 03:40:10+00:00,,,,,
+4,forks,dmendel_bindata,2013-11-22 18:03:10+00:00,,,,,
+5,forks,dmendel_bindata,2013-11-22 22:33:39+00:00,,,,,
+6,forks,dmendel_bindata,2014-05-01 06:23:58+00:00,,,,,
+7,forks,dmendel_bindata,2014-07-15 05:23:33+00:00,,,,,
+8,forks,dmendel_bindata,2014-07-31 18:17:00+00:00,,,,,
+9,forks,dmendel_bindata,2014-09-09 11:46:43+00:00,,,,,
+10,forks,dmendel_bindata,2014-10-19 19:55:56+00:00,,,,,
+11,forks,dmendel_bindata,2014-11-01 05:59:31+00:00,,,,,
+12,forks,dmendel_bindata,2014-11-01 18:41:52+00:00,,,,,
+13,forks,dmendel_bindata,2014-11-28 01:25:39+00:00,,,,,
+14,forks,dmendel_bindata,2014-11-28 03:10:04+00:00,,,,,
+15,forks,dmendel_bindata,2015-03-31 18:45:19+00:00,,,,,
+16,forks,dmendel_bindata,2015-04-04 07:43:49+00:00,,,,,
+17,forks,dmendel_bindata,2015-07-31 16:37:48+00:00,,,,,
+18,forks,dmendel_bindata,2015-08-13 06:31:42+00:00,,,,,
+19,forks,dmendel_bindata,2015-10-28 17:49:49+00:00,,,,,
+20,forks,dmendel_bindata,2016-05-11 04:03:33+00:00,,,,,
+21,forks,dmendel_bindata,2016-07-06 10:29:03+00:00,,,,,
+22,forks,dmendel_bindata,2016-08-01 11:11:09+00:00,,,,,
+23,forks,dmendel_bindata,2016-10-03 02:04:47+00:00,,,,,
+24,forks,dmendel_bindata,2016-10-03 02:05:08+00:00,,,,,
+25,forks,dmendel_bindata,2016-10-15 13:59:38+00:00,,,,,
+26,forks,dmendel_bindata,2017-04-10 08:49:23+00:00,,,,,
+27,forks,dmendel_bindata,2017-04-19 23:13:08+00:00,,,,,
+28,forks,dmendel_bindata,2017-06-07 10:41:48+00:00,,,,,
+29,forks,dmendel_bindata,2017-08-26 03:33:36+00:00,,,,,
+30,forks,dmendel_bindata,2017-09-15 16:45:31+00:00,,,,,
+31,forks,dmendel_bindata,2017-11-13 16:04:48+00:00,,,,,
+32,forks,dmendel_bindata,2018-03-08 20:09:16+00:00,,,,,
+33,forks,dmendel_bindata,2018-04-26 15:34:44+00:00,,,,,
+34,forks,dmendel_bindata,2018-05-16 14:18:05+00:00,,,,,
+35,forks,dmendel_bindata,2018-06-14 09:30:51+00:00,,,,,
+36,forks,dmendel_bindata,2018-07-03 20:12:51+00:00,,,,,
+37,forks,dmendel_bindata,2018-11-18 16:07:15+00:00,,,,,
+38,forks,dmendel_bindata,2019-09-23 16:33:18+00:00,,,,,
+39,forks,dmendel_bindata,2020-07-10 15:36:47+00:00,,,,,
+40,forks,dmendel_bindata,2020-07-16 18:52:04+00:00,,,,,
+41,forks,dmendel_bindata,2020-09-09 19:28:54+00:00,,,,,
+42,forks,dmendel_bindata,2020-10-12 16:50:14+00:00,,,,,
+43,forks,dmendel_bindata,2020-12-07 11:33:01+00:00,,,,,
+44,forks,dmendel_bindata,2021-02-17 23:19:03+00:00,,,,,
+45,forks,dmendel_bindata,2021-02-23 11:17:32+00:00,,,,,
+46,forks,dmendel_bindata,2021-04-21 15:43:21+00:00,,,,,
+47,forks,dmendel_bindata,2022-03-02 23:03:29+00:00,,,,,
+48,forks,dmendel_bindata,2022-03-15 16:47:28+00:00,,,,,
+49,forks,dmendel_bindata,2022-04-20 14:04:35+00:00,,,,,
+0,issues,dmendel_bindata,2013-06-30 02:10:28+00:00,,,,,
+1,issues,dmendel_bindata,2013-07-02 05:41:13+00:00,,,,,
+2,issues,dmendel_bindata,2013-07-02 19:15:30+00:00,,,,,
+3,issues,dmendel_bindata,2013-07-10 04:05:03+00:00,,,,,
+4,issues,dmendel_bindata,2013-08-06 06:07:30+00:00,,,,,
+5,issues,dmendel_bindata,2013-08-16 19:49:41+00:00,,,,,
+6,issues,dmendel_bindata,2013-08-20 04:59:05+00:00,,,,,
+7,issues,dmendel_bindata,2013-09-11 01:42:23+00:00,,,,,
+8,issues,dmendel_bindata,2013-09-11 02:42:56+00:00,,,,,
+9,issues,dmendel_bindata,2013-09-12 20:02:40+00:00,,,,,
+10,issues,dmendel_bindata,2013-10-24 19:44:47+00:00,,,,,
+11,issues,dmendel_bindata,2013-11-07 09:52:42+00:00,,,,,
+12,issues,dmendel_bindata,2013-11-19 04:48:52+00:00,,,,,
+13,issues,dmendel_bindata,2013-11-21 02:32:58+00:00,,,,,
+14,issues,dmendel_bindata,2013-11-26 01:08:23+00:00,,,,,
+15,issues,dmendel_bindata,2013-11-27 06:35:31+00:00,,,,,
+16,issues,dmendel_bindata,2013-11-29 00:49:43+00:00,,,,,
+17,issues,dmendel_bindata,2013-12-03 13:53:16+00:00,,,,,
+18,issues,dmendel_bindata,2014-01-02 21:35:19+00:00,,,,,
+19,issues,dmendel_bindata,2014-01-15 01:05:38+00:00,,,,,
+20,issues,dmendel_bindata,2014-02-02 10:45:11+00:00,,,,,
+21,issues,dmendel_bindata,2014-02-02 20:24:32+00:00,,,,,
+22,issues,dmendel_bindata,2014-02-06 18:35:46+00:00,,,,,
+23,issues,dmendel_bindata,2014-02-25 12:22:28+00:00,,,,,
+24,issues,dmendel_bindata,2014-02-26 04:13:53+00:00,,,,,
+25,issues,dmendel_bindata,2014-02-27 14:42:24+00:00,,,,,
+26,issues,dmendel_bindata,2014-03-24 04:58:59+00:00,,,,,
+27,issues,dmendel_bindata,2014-03-29 11:06:42+00:00,,,,,
+28,issues,dmendel_bindata,2014-04-05 03:09:53+00:00,,,,,
+29,issues,dmendel_bindata,2014-04-06 02:24:56+00:00,,,,,
+30,issues,dmendel_bindata,2014-06-16 19:28:24+00:00,,,,,
+31,issues,dmendel_bindata,2014-07-02 10:07:49+00:00,,,,,
+32,issues,dmendel_bindata,2014-07-20 06:26:33+00:00,,,,,
+33,issues,dmendel_bindata,2014-07-20 16:10:05+00:00,,,,,
+34,issues,dmendel_bindata,2014-07-20 16:16:53+00:00,,,,,
+35,issues,dmendel_bindata,2014-07-24 01:40:56+00:00,,,,,
+36,issues,dmendel_bindata,2014-08-01 15:03:17+00:00,,,,,
+37,issues,dmendel_bindata,2014-08-22 07:19:16+00:00,,,,,
+38,issues,dmendel_bindata,2014-08-31 21:19:04+00:00,,,,,
+39,issues,dmendel_bindata,2014-09-08 00:48:44+00:00,,,,,
+40,issues,dmendel_bindata,2014-09-10 12:21:37+00:00,,,,,
+41,issues,dmendel_bindata,2014-12-01 15:09:04+00:00,,,,,
+42,issues,dmendel_bindata,2014-12-09 12:12:46+00:00,,,,,
+43,issues,dmendel_bindata,2014-12-09 13:29:07+00:00,,,,,
+44,issues,dmendel_bindata,2015-01-17 01:11:08+00:00,,,,,
+45,issues,dmendel_bindata,2015-02-13 03:22:44+00:00,,,,,
+46,issues,dmendel_bindata,2015-02-18 13:09:22+00:00,,,,,
+47,issues,dmendel_bindata,2015-03-24 16:53:09+00:00,,,,,
+48,issues,dmendel_bindata,2015-04-04 08:16:16+00:00,,,,,
+49,issues,dmendel_bindata,2015-05-01 17:58:51+00:00,,,,,
+50,issues,dmendel_bindata,2015-09-20 18:15:14+00:00,,,,,
+51,issues,dmendel_bindata,2015-10-26 18:00:43+00:00,,,,,
+52,issues,dmendel_bindata,2015-11-16 06:18:20+00:00,,,,,
+53,issues,dmendel_bindata,2015-11-16 06:26:11+00:00,,,,,
+54,issues,dmendel_bindata,2015-11-16 11:30:55+00:00,,,,,
+55,issues,dmendel_bindata,2015-11-24 15:18:18+00:00,,,,,
+56,issues,dmendel_bindata,2015-11-25 13:50:31+00:00,,,,,
+57,issues,dmendel_bindata,2015-11-25 13:52:40+00:00,,,,,
+58,issues,dmendel_bindata,2015-12-02 01:52:58+00:00,,,,,
+59,issues,dmendel_bindata,2016-02-20 22:19:46+00:00,,,,,
+60,issues,dmendel_bindata,2016-03-25 23:29:04+00:00,,,,,
+61,issues,dmendel_bindata,2016-05-20 19:05:35+00:00,,,,,
+62,issues,dmendel_bindata,2016-06-17 08:37:34+00:00,,,,,
+63,issues,dmendel_bindata,2016-06-25 08:52:18+00:00,,,,,
+64,issues,dmendel_bindata,2016-07-13 21:31:18+00:00,,,,,
+65,issues,dmendel_bindata,2016-07-16 20:45:37+00:00,,,,,
+66,issues,dmendel_bindata,2016-07-18 20:21:51+00:00,,,,,
+67,issues,dmendel_bindata,2016-08-30 16:30:50+00:00,,,,,
+68,issues,dmendel_bindata,2016-09-06 04:34:40+00:00,,,,,
+69,issues,dmendel_bindata,2016-09-06 05:11:54+00:00,,,,,
+70,issues,dmendel_bindata,2016-09-22 20:47:32+00:00,,,,,
+71,issues,dmendel_bindata,2016-09-24 09:58:00+00:00,,,,,
+72,issues,dmendel_bindata,2016-12-01 02:11:43+00:00,,,,,
+73,issues,dmendel_bindata,2017-01-04 22:18:31+00:00,,,,,
+74,issues,dmendel_bindata,2017-01-19 03:24:39+00:00,,,,,
+75,issues,dmendel_bindata,2017-03-08 14:34:41+00:00,,,,,
+76,issues,dmendel_bindata,2017-03-13 14:09:27+00:00,,,,,
+77,issues,dmendel_bindata,2017-03-14 15:14:45+00:00,,,,,
+78,issues,dmendel_bindata,2017-04-08 20:56:58+00:00,,,,,
+79,issues,dmendel_bindata,2017-04-19 07:11:46+00:00,,,,,
+80,issues,dmendel_bindata,2017-05-12 12:07:43+00:00,,,,,
+81,issues,dmendel_bindata,2017-05-12 14:44:43+00:00,,,,,
+82,issues,dmendel_bindata,2017-08-30 08:06:00+00:00,,,,,
+83,issues,dmendel_bindata,2018-01-30 14:17:35+00:00,,,,,
+84,issues,dmendel_bindata,2018-01-30 15:21:48+00:00,,,,,
+85,issues,dmendel_bindata,2018-03-09 20:22:07+00:00,,,,,
+86,issues,dmendel_bindata,2018-05-02 08:09:44+00:00,,,,,
+87,issues,dmendel_bindata,2018-05-03 09:42:50+00:00,,,,,
+88,issues,dmendel_bindata,2018-05-05 23:39:48+00:00,,,,,
+89,issues,dmendel_bindata,2018-05-06 22:09:10+00:00,,,,,
+90,issues,dmendel_bindata,2018-05-09 18:15:40+00:00,,,,,
+91,issues,dmendel_bindata,2018-05-20 09:48:26+00:00,,,,,
+92,issues,dmendel_bindata,2018-06-02 21:21:16+00:00,,,,,
+93,issues,dmendel_bindata,2018-10-02 21:55:07+00:00,,,,,
+94,issues,dmendel_bindata,2019-01-11 13:28:09+00:00,,,,,
+95,issues,dmendel_bindata,2019-02-26 03:19:52+00:00,,,,,
+96,issues,dmendel_bindata,2019-02-26 20:48:11+00:00,,,,,
+97,issues,dmendel_bindata,2019-03-04 01:33:02+00:00,,,,,
+98,issues,dmendel_bindata,2019-04-12 10:11:15+00:00,,,,,
+99,issues,dmendel_bindata,2019-05-05 22:55:02+00:00,,,,,
+100,issues,dmendel_bindata,2019-05-11 07:00:35+00:00,,,,,
+101,issues,dmendel_bindata,2019-05-11 07:18:26+00:00,,,,,
+102,issues,dmendel_bindata,2019-05-12 09:09:12+00:00,,,,,
+103,issues,dmendel_bindata,2019-06-21 14:44:39+00:00,,,,,
+104,issues,dmendel_bindata,2019-10-21 06:29:12+00:00,,,,,
+105,issues,dmendel_bindata,2020-03-29 22:18:00+00:00,,,,,
+106,issues,dmendel_bindata,2020-04-07 18:10:00+00:00,,,,,
+107,issues,dmendel_bindata,2020-07-08 14:29:39+00:00,,,,,
+108,issues,dmendel_bindata,2020-07-11 12:44:12+00:00,,,,,
+109,issues,dmendel_bindata,2020-08-17 04:05:45+00:00,,,,,
+110,issues,dmendel_bindata,2020-09-12 05:11:53+00:00,,,,,
+111,issues,dmendel_bindata,2020-10-28 23:27:57+00:00,,,,,
+112,issues,dmendel_bindata,2020-11-11 00:04:36+00:00,,,,,
+113,issues,dmendel_bindata,2022-03-31 10:19:29+00:00,,,,,
+0,pullRequests,dmendel_bindata,2013-07-02 18:45:48+00:00,,,,,
+1,pullRequests,dmendel_bindata,2013-08-15 05:15:43+00:00,,,,,
+2,pullRequests,dmendel_bindata,2013-11-21 21:54:52+00:00,,,,,
+3,pullRequests,dmendel_bindata,2013-11-22 18:11:20+00:00,,,,,
+4,pullRequests,dmendel_bindata,2013-11-22 18:28:54+00:00,,,,,
+5,pullRequests,dmendel_bindata,2013-11-22 22:34:28+00:00,,,,,
+6,pullRequests,dmendel_bindata,2014-03-20 00:49:18+00:00,,,,,
+7,pullRequests,dmendel_bindata,2014-07-31 19:55:50+00:00,,,,,
+8,pullRequests,dmendel_bindata,2015-02-06 06:26:58+00:00,,,,,
+9,pullRequests,dmendel_bindata,2015-10-28 18:03:52+00:00,,,,,
+10,pullRequests,dmendel_bindata,2016-10-15 14:19:55+00:00,,,,,
+11,pullRequests,dmendel_bindata,2017-09-15 16:48:10+00:00,,,,,
+12,pullRequests,dmendel_bindata,2018-03-08 20:55:27+00:00,,,,,
+13,pullRequests,dmendel_bindata,2018-07-03 20:43:17+00:00,,,,,
+14,pullRequests,dmendel_bindata,2020-02-20 23:27:52+00:00,,,,,
+15,pullRequests,dmendel_bindata,2020-02-26 18:11:39+00:00,,,,,
+16,pullRequests,dmendel_bindata,2020-07-10 15:43:14+00:00,,,,,
+17,pullRequests,dmendel_bindata,2020-07-16 19:12:03+00:00,,,,,
+18,pullRequests,dmendel_bindata,2020-09-09 19:29:19+00:00,,,,,
+19,pullRequests,dmendel_bindata,2020-09-25 08:33:43+00:00,,,,,
+20,pullRequests,dmendel_bindata,2020-12-07 12:34:06+00:00,,,,,
+21,pullRequests,dmendel_bindata,2021-04-21 15:48:19+00:00,,,,,
+22,pullRequests,dmendel_bindata,2021-11-19 22:14:58+00:00,,,,,
+23,pullRequests,dmendel_bindata,2022-03-03 00:00:45+00:00,,,,,
+0,stargazers,dmendel_bindata,2013-05-21 17:28:51+00:00,,,,,
+1,stargazers,dmendel_bindata,2013-05-22 11:25:50+00:00,,,,,
+2,stargazers,dmendel_bindata,2013-05-23 00:42:13+00:00,,,,,
+3,stargazers,dmendel_bindata,2013-05-28 12:22:44+00:00,,,,,
+4,stargazers,dmendel_bindata,2013-06-03 20:04:13+00:00,,,,,
+5,stargazers,dmendel_bindata,2013-06-05 11:25:04+00:00,,,,,
+6,stargazers,dmendel_bindata,2013-06-09 15:54:53+00:00,,,,,
+7,stargazers,dmendel_bindata,2013-06-12 12:51:41+00:00,,,,,
+8,stargazers,dmendel_bindata,2013-06-13 11:35:45+00:00,,,,,
+9,stargazers,dmendel_bindata,2013-06-14 19:13:26+00:00,,,,,
+10,stargazers,dmendel_bindata,2013-06-14 19:19:43+00:00,,,,,
+11,stargazers,dmendel_bindata,2013-06-14 19:27:49+00:00,,,,,
+12,stargazers,dmendel_bindata,2013-06-14 19:34:50+00:00,,,,,
+13,stargazers,dmendel_bindata,2013-06-14 19:42:50+00:00,,,,,
+14,stargazers,dmendel_bindata,2013-06-14 20:10:59+00:00,,,,,
+15,stargazers,dmendel_bindata,2013-06-14 20:14:10+00:00,,,,,
+16,stargazers,dmendel_bindata,2013-06-16 11:11:31+00:00,,,,,
+17,stargazers,dmendel_bindata,2013-06-16 23:41:59+00:00,,,,,
+18,stargazers,dmendel_bindata,2013-06-17 13:06:27+00:00,,,,,
+19,stargazers,dmendel_bindata,2013-06-30 02:00:34+00:00,,,,,
+20,stargazers,dmendel_bindata,2013-07-10 03:42:42+00:00,,,,,
+21,stargazers,dmendel_bindata,2013-07-18 22:00:59+00:00,,,,,
+22,stargazers,dmendel_bindata,2013-08-03 22:25:14+00:00,,,,,
+23,stargazers,dmendel_bindata,2013-08-04 09:36:53+00:00,,,,,
+24,stargazers,dmendel_bindata,2013-08-06 07:15:50+00:00,,,,,
+25,stargazers,dmendel_bindata,2013-08-06 17:17:32+00:00,,,,,
+26,stargazers,dmendel_bindata,2013-08-12 18:18:55+00:00,,,,,
+27,stargazers,dmendel_bindata,2013-08-15 01:29:20+00:00,,,,,
+28,stargazers,dmendel_bindata,2013-08-16 09:38:07+00:00,,,,,
+29,stargazers,dmendel_bindata,2013-08-16 15:29:17+00:00,,,,,
+30,stargazers,dmendel_bindata,2013-08-21 09:10:37+00:00,,,,,
+31,stargazers,dmendel_bindata,2013-09-10 22:18:43+00:00,,,,,
+32,stargazers,dmendel_bindata,2013-09-14 19:36:05+00:00,,,,,
+33,stargazers,dmendel_bindata,2013-09-25 14:53:39+00:00,,,,,
+34,stargazers,dmendel_bindata,2013-10-03 09:52:57+00:00,,,,,
+35,stargazers,dmendel_bindata,2013-10-04 22:07:08+00:00,,,,,
+36,stargazers,dmendel_bindata,2013-10-06 10:22:53+00:00,,,,,
+37,stargazers,dmendel_bindata,2013-10-22 22:29:30+00:00,,,,,
+38,stargazers,dmendel_bindata,2013-11-04 00:35:27+00:00,,,,,
+39,stargazers,dmendel_bindata,2013-11-07 10:44:26+00:00,,,,,
+40,stargazers,dmendel_bindata,2013-11-08 15:22:00+00:00,,,,,
+41,stargazers,dmendel_bindata,2013-11-09 18:32:17+00:00,,,,,
+42,stargazers,dmendel_bindata,2013-11-12 17:57:40+00:00,,,,,
+43,stargazers,dmendel_bindata,2013-11-14 14:23:40+00:00,,,,,
+44,stargazers,dmendel_bindata,2013-11-17 19:08:32+00:00,,,,,
+45,stargazers,dmendel_bindata,2013-11-22 18:16:57+00:00,,,,,
+46,stargazers,dmendel_bindata,2013-11-22 18:18:38+00:00,,,,,
+47,stargazers,dmendel_bindata,2013-11-23 20:49:35+00:00,,,,,
+48,stargazers,dmendel_bindata,2013-11-24 00:40:11+00:00,,,,,
+49,stargazers,dmendel_bindata,2013-11-25 11:10:12+00:00,,,,,
+50,stargazers,dmendel_bindata,2013-12-01 08:35:48+00:00,,,,,
+51,stargazers,dmendel_bindata,2013-12-03 10:49:31+00:00,,,,,
+52,stargazers,dmendel_bindata,2013-12-04 00:07:59+00:00,,,,,
+53,stargazers,dmendel_bindata,2013-12-07 19:54:41+00:00,,,,,
+54,stargazers,dmendel_bindata,2013-12-14 15:01:10+00:00,,,,,
+55,stargazers,dmendel_bindata,2013-12-19 21:43:27+00:00,,,,,
+56,stargazers,dmendel_bindata,2013-12-21 16:00:41+00:00,,,,,
+57,stargazers,dmendel_bindata,2013-12-25 03:26:20+00:00,,,,,
+58,stargazers,dmendel_bindata,2014-01-06 19:39:17+00:00,,,,,
+59,stargazers,dmendel_bindata,2014-01-19 03:01:49+00:00,,,,,
+60,stargazers,dmendel_bindata,2014-01-22 01:23:14+00:00,,,,,
+61,stargazers,dmendel_bindata,2014-01-27 02:15:19+00:00,,,,,
+62,stargazers,dmendel_bindata,2014-01-27 14:44:52+00:00,,,,,
+63,stargazers,dmendel_bindata,2014-01-27 15:41:54+00:00,,,,,
+64,stargazers,dmendel_bindata,2014-01-30 11:15:24+00:00,,,,,
+65,stargazers,dmendel_bindata,2014-02-04 13:21:20+00:00,,,,,
+66,stargazers,dmendel_bindata,2014-02-07 04:39:27+00:00,,,,,
+67,stargazers,dmendel_bindata,2014-02-07 15:45:20+00:00,,,,,
+68,stargazers,dmendel_bindata,2014-02-08 04:32:43+00:00,,,,,
+69,stargazers,dmendel_bindata,2014-02-08 14:50:29+00:00,,,,,
+70,stargazers,dmendel_bindata,2014-02-08 20:08:28+00:00,,,,,
+71,stargazers,dmendel_bindata,2014-02-09 16:36:20+00:00,,,,,
+72,stargazers,dmendel_bindata,2014-02-11 09:15:21+00:00,,,,,
+73,stargazers,dmendel_bindata,2014-02-12 09:23:35+00:00,,,,,
+74,stargazers,dmendel_bindata,2014-02-21 11:01:27+00:00,,,,,
+75,stargazers,dmendel_bindata,2014-02-25 13:53:10+00:00,,,,,
+76,stargazers,dmendel_bindata,2014-02-26 09:33:16+00:00,,,,,
+77,stargazers,dmendel_bindata,2014-02-27 13:54:37+00:00,,,,,
+78,stargazers,dmendel_bindata,2014-03-12 06:45:02+00:00,,,,,
+79,stargazers,dmendel_bindata,2014-03-13 12:24:16+00:00,,,,,
+80,stargazers,dmendel_bindata,2014-03-14 07:06:23+00:00,,,,,
+81,stargazers,dmendel_bindata,2014-03-14 09:24:24+00:00,,,,,
+82,stargazers,dmendel_bindata,2014-03-23 13:49:56+00:00,,,,,
+83,stargazers,dmendel_bindata,2014-03-24 18:59:11+00:00,,,,,
+84,stargazers,dmendel_bindata,2014-03-24 21:21:13+00:00,,,,,
+85,stargazers,dmendel_bindata,2014-03-29 15:14:39+00:00,,,,,
+86,stargazers,dmendel_bindata,2014-04-03 09:03:09+00:00,,,,,
+87,stargazers,dmendel_bindata,2014-04-05 01:31:38+00:00,,,,,
+88,stargazers,dmendel_bindata,2014-04-05 22:15:49+00:00,,,,,
+89,stargazers,dmendel_bindata,2014-04-07 16:04:02+00:00,,,,,
+90,stargazers,dmendel_bindata,2014-04-17 15:00:40+00:00,,,,,
+91,stargazers,dmendel_bindata,2014-04-18 06:29:33+00:00,,,,,
+92,stargazers,dmendel_bindata,2014-04-20 20:49:43+00:00,,,,,
+93,stargazers,dmendel_bindata,2014-04-26 05:49:12+00:00,,,,,
+94,stargazers,dmendel_bindata,2014-04-27 04:15:28+00:00,,,,,
+95,stargazers,dmendel_bindata,2014-05-01 06:23:56+00:00,,,,,
+96,stargazers,dmendel_bindata,2014-05-07 21:24:06+00:00,,,,,
+97,stargazers,dmendel_bindata,2014-05-09 15:11:30+00:00,,,,,
+98,stargazers,dmendel_bindata,2014-05-17 05:00:11+00:00,,,,,
+99,stargazers,dmendel_bindata,2014-05-20 09:43:51+00:00,,,,,
+100,stargazers,dmendel_bindata,2014-05-23 12:34:26+00:00,,,,,
+101,stargazers,dmendel_bindata,2014-05-23 22:41:41+00:00,,,,,
+102,stargazers,dmendel_bindata,2014-05-28 19:36:24+00:00,,,,,
+103,stargazers,dmendel_bindata,2014-05-30 02:23:29+00:00,,,,,
+104,stargazers,dmendel_bindata,2014-06-04 04:01:32+00:00,,,,,
+105,stargazers,dmendel_bindata,2014-06-12 16:44:16+00:00,,,,,
+106,stargazers,dmendel_bindata,2014-06-13 14:14:24+00:00,,,,,
+107,stargazers,dmendel_bindata,2014-06-15 02:21:16+00:00,,,,,
+108,stargazers,dmendel_bindata,2014-06-27 22:33:28+00:00,,,,,
+109,stargazers,dmendel_bindata,2014-07-10 06:30:33+00:00,,,,,
+110,stargazers,dmendel_bindata,2014-07-18 02:45:01+00:00,,,,,
+111,stargazers,dmendel_bindata,2014-07-21 21:14:33+00:00,,,,,
+112,stargazers,dmendel_bindata,2014-07-22 14:00:07+00:00,,,,,
+113,stargazers,dmendel_bindata,2014-07-23 19:06:50+00:00,,,,,
+114,stargazers,dmendel_bindata,2014-08-01 21:27:52+00:00,,,,,
+115,stargazers,dmendel_bindata,2014-08-07 14:06:19+00:00,,,,,
+116,stargazers,dmendel_bindata,2014-08-10 11:30:52+00:00,,,,,
+117,stargazers,dmendel_bindata,2014-08-19 02:37:17+00:00,,,,,
+118,stargazers,dmendel_bindata,2014-08-22 22:34:13+00:00,,,,,
+119,stargazers,dmendel_bindata,2014-09-01 00:57:49+00:00,,,,,
+120,stargazers,dmendel_bindata,2014-09-01 07:16:36+00:00,,,,,
+121,stargazers,dmendel_bindata,2014-09-01 07:17:01+00:00,,,,,
+122,stargazers,dmendel_bindata,2014-09-20 03:52:05+00:00,,,,,
+123,stargazers,dmendel_bindata,2014-10-07 20:58:53+00:00,,,,,
+124,stargazers,dmendel_bindata,2014-10-10 21:02:12+00:00,,,,,
+125,stargazers,dmendel_bindata,2014-10-17 07:42:57+00:00,,,,,
+126,stargazers,dmendel_bindata,2014-10-20 05:14:59+00:00,,,,,
+127,stargazers,dmendel_bindata,2014-10-28 14:06:22+00:00,,,,,
+128,stargazers,dmendel_bindata,2014-11-06 14:59:52+00:00,,,,,
+129,stargazers,dmendel_bindata,2014-11-25 20:56:56+00:00,,,,,
+130,stargazers,dmendel_bindata,2014-11-26 15:29:18+00:00,,,,,
+131,stargazers,dmendel_bindata,2014-12-08 08:31:05+00:00,,,,,
+132,stargazers,dmendel_bindata,2014-12-12 05:54:16+00:00,,,,,
+133,stargazers,dmendel_bindata,2014-12-14 19:54:14+00:00,,,,,
+134,stargazers,dmendel_bindata,2014-12-16 10:48:22+00:00,,,,,
+135,stargazers,dmendel_bindata,2015-01-02 14:58:10+00:00,,,,,
+136,stargazers,dmendel_bindata,2015-01-10 20:36:27+00:00,,,,,
+137,stargazers,dmendel_bindata,2015-01-14 07:10:56+00:00,,,,,
+138,stargazers,dmendel_bindata,2015-01-15 09:03:38+00:00,,,,,
+139,stargazers,dmendel_bindata,2015-01-17 07:41:08+00:00,,,,,
+140,stargazers,dmendel_bindata,2015-01-17 15:27:17+00:00,,,,,
+141,stargazers,dmendel_bindata,2015-01-18 09:19:52+00:00,,,,,
+142,stargazers,dmendel_bindata,2015-01-19 14:04:12+00:00,,,,,
+143,stargazers,dmendel_bindata,2015-01-26 03:04:27+00:00,,,,,
+144,stargazers,dmendel_bindata,2015-02-02 05:51:58+00:00,,,,,
+145,stargazers,dmendel_bindata,2015-02-02 09:53:26+00:00,,,,,
+146,stargazers,dmendel_bindata,2015-02-03 06:19:03+00:00,,,,,
+147,stargazers,dmendel_bindata,2015-02-12 17:00:09+00:00,,,,,
+148,stargazers,dmendel_bindata,2015-02-19 13:32:59+00:00,,,,,
+149,stargazers,dmendel_bindata,2015-02-24 11:52:05+00:00,,,,,
+150,stargazers,dmendel_bindata,2015-03-11 00:54:38+00:00,,,,,
+151,stargazers,dmendel_bindata,2015-03-15 16:29:41+00:00,,,,,
+152,stargazers,dmendel_bindata,2015-03-17 17:37:47+00:00,,,,,
+153,stargazers,dmendel_bindata,2015-03-27 04:31:08+00:00,,,,,
+154,stargazers,dmendel_bindata,2015-03-31 18:41:42+00:00,,,,,
+155,stargazers,dmendel_bindata,2015-04-04 09:03:36+00:00,,,,,
+156,stargazers,dmendel_bindata,2015-04-05 16:34:31+00:00,,,,,
+157,stargazers,dmendel_bindata,2015-04-05 21:17:39+00:00,,,,,
+158,stargazers,dmendel_bindata,2015-04-06 14:40:21+00:00,,,,,
+159,stargazers,dmendel_bindata,2015-04-07 01:30:59+00:00,,,,,
+160,stargazers,dmendel_bindata,2015-04-23 11:33:51+00:00,,,,,
+161,stargazers,dmendel_bindata,2015-04-29 07:04:53+00:00,,,,,
+162,stargazers,dmendel_bindata,2015-05-03 22:28:38+00:00,,,,,
+163,stargazers,dmendel_bindata,2015-05-13 15:10:20+00:00,,,,,
+164,stargazers,dmendel_bindata,2015-05-15 08:53:37+00:00,,,,,
+165,stargazers,dmendel_bindata,2015-05-16 00:02:29+00:00,,,,,
+166,stargazers,dmendel_bindata,2015-05-16 17:35:57+00:00,,,,,
+167,stargazers,dmendel_bindata,2015-05-23 03:12:25+00:00,,,,,
+168,stargazers,dmendel_bindata,2015-05-26 01:29:01+00:00,,,,,
+169,stargazers,dmendel_bindata,2015-06-01 23:14:54+00:00,,,,,
+170,stargazers,dmendel_bindata,2015-06-03 03:19:03+00:00,,,,,
+171,stargazers,dmendel_bindata,2015-06-19 21:25:45+00:00,,,,,
+172,stargazers,dmendel_bindata,2015-06-25 12:38:58+00:00,,,,,
+173,stargazers,dmendel_bindata,2015-06-30 11:34:31+00:00,,,,,
+174,stargazers,dmendel_bindata,2015-07-14 13:36:07+00:00,,,,,
+175,stargazers,dmendel_bindata,2015-07-17 12:28:54+00:00,,,,,
+176,stargazers,dmendel_bindata,2015-07-23 22:02:34+00:00,,,,,
+177,stargazers,dmendel_bindata,2015-07-27 13:12:53+00:00,,,,,
+178,stargazers,dmendel_bindata,2015-08-01 16:07:55+00:00,,,,,
+179,stargazers,dmendel_bindata,2015-08-12 02:04:32+00:00,,,,,
+180,stargazers,dmendel_bindata,2015-08-16 11:21:21+00:00,,,,,
+181,stargazers,dmendel_bindata,2015-08-16 12:16:19+00:00,,,,,
+182,stargazers,dmendel_bindata,2015-08-19 05:13:43+00:00,,,,,
+183,stargazers,dmendel_bindata,2015-08-30 11:54:26+00:00,,,,,
+184,stargazers,dmendel_bindata,2015-09-01 06:00:13+00:00,,,,,
+185,stargazers,dmendel_bindata,2015-09-03 08:43:13+00:00,,,,,
+186,stargazers,dmendel_bindata,2015-09-03 22:33:21+00:00,,,,,
+187,stargazers,dmendel_bindata,2015-09-04 03:10:38+00:00,,,,,
+188,stargazers,dmendel_bindata,2015-09-04 11:22:39+00:00,,,,,
+189,stargazers,dmendel_bindata,2015-09-05 03:51:44+00:00,,,,,
+190,stargazers,dmendel_bindata,2015-09-07 12:35:37+00:00,,,,,
+191,stargazers,dmendel_bindata,2015-09-07 19:17:17+00:00,,,,,
+192,stargazers,dmendel_bindata,2015-09-16 21:37:11+00:00,,,,,
+193,stargazers,dmendel_bindata,2015-09-19 23:35:18+00:00,,,,,
+194,stargazers,dmendel_bindata,2015-10-08 12:42:14+00:00,,,,,
+195,stargazers,dmendel_bindata,2015-10-15 22:04:28+00:00,,,,,
+196,stargazers,dmendel_bindata,2015-10-22 16:14:00+00:00,,,,,
+197,stargazers,dmendel_bindata,2015-10-25 12:37:22+00:00,,,,,
+198,stargazers,dmendel_bindata,2015-10-26 23:15:52+00:00,,,,,
+199,stargazers,dmendel_bindata,2015-11-05 05:30:39+00:00,,,,,
+200,stargazers,dmendel_bindata,2015-11-05 12:13:22+00:00,,,,,
+201,stargazers,dmendel_bindata,2015-11-18 16:27:14+00:00,,,,,
+202,stargazers,dmendel_bindata,2015-11-20 07:41:58+00:00,,,,,
+203,stargazers,dmendel_bindata,2015-11-25 10:25:47+00:00,,,,,
+204,stargazers,dmendel_bindata,2015-12-03 06:24:14+00:00,,,,,
+205,stargazers,dmendel_bindata,2015-12-03 08:55:13+00:00,,,,,
+206,stargazers,dmendel_bindata,2015-12-04 22:34:43+00:00,,,,,
+207,stargazers,dmendel_bindata,2015-12-08 04:34:32+00:00,,,,,
+208,stargazers,dmendel_bindata,2015-12-20 12:59:08+00:00,,,,,
+209,stargazers,dmendel_bindata,2015-12-21 03:33:55+00:00,,,,,
+210,stargazers,dmendel_bindata,2015-12-23 13:18:28+00:00,,,,,
+211,stargazers,dmendel_bindata,2016-01-07 12:40:38+00:00,,,,,
+212,stargazers,dmendel_bindata,2016-01-08 11:41:27+00:00,,,,,
+213,stargazers,dmendel_bindata,2016-01-08 20:27:21+00:00,,,,,
+214,stargazers,dmendel_bindata,2016-01-11 02:46:02+00:00,,,,,
+215,stargazers,dmendel_bindata,2016-01-12 12:44:06+00:00,,,,,
+216,stargazers,dmendel_bindata,2016-01-15 06:10:04+00:00,,,,,
+217,stargazers,dmendel_bindata,2016-02-02 09:00:20+00:00,,,,,
+218,stargazers,dmendel_bindata,2016-02-03 15:40:02+00:00,,,,,
+219,stargazers,dmendel_bindata,2016-02-11 12:31:29+00:00,,,,,
+220,stargazers,dmendel_bindata,2016-02-12 16:33:27+00:00,,,,,
+221,stargazers,dmendel_bindata,2016-02-24 06:34:38+00:00,,,,,
+222,stargazers,dmendel_bindata,2016-03-10 11:55:31+00:00,,,,,
+223,stargazers,dmendel_bindata,2016-03-16 22:57:35+00:00,,,,,
+224,stargazers,dmendel_bindata,2016-03-20 08:51:05+00:00,,,,,
+225,stargazers,dmendel_bindata,2016-03-24 14:43:38+00:00,,,,,
+226,stargazers,dmendel_bindata,2016-04-17 14:35:23+00:00,,,,,
+227,stargazers,dmendel_bindata,2016-04-19 01:51:37+00:00,,,,,
+228,stargazers,dmendel_bindata,2016-05-11 04:03:43+00:00,,,,,
+229,stargazers,dmendel_bindata,2016-05-25 09:01:40+00:00,,,,,
+230,stargazers,dmendel_bindata,2016-06-08 09:20:50+00:00,,,,,
+231,stargazers,dmendel_bindata,2016-06-15 02:10:17+00:00,,,,,
+232,stargazers,dmendel_bindata,2016-06-15 02:47:51+00:00,,,,,
+233,stargazers,dmendel_bindata,2016-06-17 06:28:39+00:00,,,,,
+234,stargazers,dmendel_bindata,2016-06-17 08:44:04+00:00,,,,,
+235,stargazers,dmendel_bindata,2016-06-21 22:47:18+00:00,,,,,
+236,stargazers,dmendel_bindata,2016-06-22 13:36:30+00:00,,,,,
+237,stargazers,dmendel_bindata,2016-06-22 16:14:39+00:00,,,,,
+238,stargazers,dmendel_bindata,2016-06-24 03:16:23+00:00,,,,,
+239,stargazers,dmendel_bindata,2016-07-02 03:12:57+00:00,,,,,
+240,stargazers,dmendel_bindata,2016-07-05 07:15:25+00:00,,,,,
+241,stargazers,dmendel_bindata,2016-07-07 08:59:37+00:00,,,,,
+242,stargazers,dmendel_bindata,2016-07-08 18:04:27+00:00,,,,,
+243,stargazers,dmendel_bindata,2016-07-09 07:02:17+00:00,,,,,
+244,stargazers,dmendel_bindata,2016-07-14 01:59:58+00:00,,,,,
+245,stargazers,dmendel_bindata,2016-07-18 03:37:13+00:00,,,,,
+246,stargazers,dmendel_bindata,2016-07-28 05:06:16+00:00,,,,,
+247,stargazers,dmendel_bindata,2016-08-01 20:53:41+00:00,,,,,
+248,stargazers,dmendel_bindata,2016-08-06 12:47:23+00:00,,,,,
+249,stargazers,dmendel_bindata,2016-08-12 22:55:08+00:00,,,,,
+250,stargazers,dmendel_bindata,2016-08-15 15:06:49+00:00,,,,,
+251,stargazers,dmendel_bindata,2016-08-18 03:10:06+00:00,,,,,
+252,stargazers,dmendel_bindata,2016-08-18 03:31:56+00:00,,,,,
+253,stargazers,dmendel_bindata,2016-08-19 13:29:50+00:00,,,,,
+254,stargazers,dmendel_bindata,2016-08-23 15:47:09+00:00,,,,,
+255,stargazers,dmendel_bindata,2016-08-29 08:31:03+00:00,,,,,
+256,stargazers,dmendel_bindata,2016-09-06 06:39:39+00:00,,,,,
+257,stargazers,dmendel_bindata,2016-09-06 06:50:07+00:00,,,,,
+258,stargazers,dmendel_bindata,2016-09-10 19:11:55+00:00,,,,,
+259,stargazers,dmendel_bindata,2016-09-12 20:56:32+00:00,,,,,
+260,stargazers,dmendel_bindata,2016-09-18 23:55:51+00:00,,,,,
+261,stargazers,dmendel_bindata,2016-09-19 22:13:24+00:00,,,,,
+262,stargazers,dmendel_bindata,2016-09-30 03:19:14+00:00,,,,,
+263,stargazers,dmendel_bindata,2016-10-04 17:18:24+00:00,,,,,
+264,stargazers,dmendel_bindata,2016-10-08 05:56:53+00:00,,,,,
+265,stargazers,dmendel_bindata,2016-10-16 00:56:35+00:00,,,,,
+266,stargazers,dmendel_bindata,2016-10-17 20:52:16+00:00,,,,,
+267,stargazers,dmendel_bindata,2016-10-27 03:54:04+00:00,,,,,
+268,stargazers,dmendel_bindata,2016-10-28 02:03:53+00:00,,,,,
+269,stargazers,dmendel_bindata,2016-11-13 03:41:21+00:00,,,,,
+270,stargazers,dmendel_bindata,2016-11-23 15:00:50+00:00,,,,,
+271,stargazers,dmendel_bindata,2016-12-07 18:34:13+00:00,,,,,
+272,stargazers,dmendel_bindata,2016-12-14 00:39:10+00:00,,,,,
+273,stargazers,dmendel_bindata,2016-12-18 17:54:31+00:00,,,,,
+274,stargazers,dmendel_bindata,2016-12-22 19:13:09+00:00,,,,,
+275,stargazers,dmendel_bindata,2017-01-02 15:58:32+00:00,,,,,
+276,stargazers,dmendel_bindata,2017-01-05 08:10:44+00:00,,,,,
+277,stargazers,dmendel_bindata,2017-01-05 11:47:31+00:00,,,,,
+278,stargazers,dmendel_bindata,2017-01-06 17:34:16+00:00,,,,,
+279,stargazers,dmendel_bindata,2017-01-11 10:13:50+00:00,,,,,
+280,stargazers,dmendel_bindata,2017-01-17 09:20:34+00:00,,,,,
+281,stargazers,dmendel_bindata,2017-01-17 18:49:47+00:00,,,,,
+282,stargazers,dmendel_bindata,2017-01-19 10:13:35+00:00,,,,,
+283,stargazers,dmendel_bindata,2017-01-20 10:45:33+00:00,,,,,
+284,stargazers,dmendel_bindata,2017-01-21 07:17:04+00:00,,,,,
+285,stargazers,dmendel_bindata,2017-01-21 19:36:03+00:00,,,,,
+286,stargazers,dmendel_bindata,2017-01-25 04:40:20+00:00,,,,,
+287,stargazers,dmendel_bindata,2017-01-25 19:40:06+00:00,,,,,
+288,stargazers,dmendel_bindata,2017-02-07 20:41:20+00:00,,,,,
+289,stargazers,dmendel_bindata,2017-02-08 06:41:00+00:00,,,,,
+290,stargazers,dmendel_bindata,2017-02-13 19:57:26+00:00,,,,,
+291,stargazers,dmendel_bindata,2017-02-26 13:10:27+00:00,,,,,
+292,stargazers,dmendel_bindata,2017-03-02 04:50:14+00:00,,,,,
+293,stargazers,dmendel_bindata,2017-03-12 03:42:54+00:00,,,,,
+294,stargazers,dmendel_bindata,2017-03-24 02:05:26+00:00,,,,,
+295,stargazers,dmendel_bindata,2017-03-24 22:11:00+00:00,,,,,
+296,stargazers,dmendel_bindata,2017-04-03 03:54:38+00:00,,,,,
+297,stargazers,dmendel_bindata,2017-04-07 04:57:06+00:00,,,,,
+298,stargazers,dmendel_bindata,2017-04-12 08:46:06+00:00,,,,,
+299,stargazers,dmendel_bindata,2017-04-19 16:01:48+00:00,,,,,
+300,stargazers,dmendel_bindata,2017-04-19 23:13:02+00:00,,,,,
+301,stargazers,dmendel_bindata,2017-05-07 00:33:16+00:00,,,,,
+302,stargazers,dmendel_bindata,2017-05-08 08:11:30+00:00,,,,,
+303,stargazers,dmendel_bindata,2017-05-09 18:09:56+00:00,,,,,
+304,stargazers,dmendel_bindata,2017-05-10 10:36:11+00:00,,,,,
+305,stargazers,dmendel_bindata,2017-05-11 14:49:07+00:00,,,,,
+306,stargazers,dmendel_bindata,2017-05-25 17:55:13+00:00,,,,,
+307,stargazers,dmendel_bindata,2017-06-07 14:33:57+00:00,,,,,
+308,stargazers,dmendel_bindata,2017-06-15 02:22:43+00:00,,,,,
+309,stargazers,dmendel_bindata,2017-06-19 10:41:14+00:00,,,,,
+310,stargazers,dmendel_bindata,2017-06-21 00:40:40+00:00,,,,,
+311,stargazers,dmendel_bindata,2017-06-22 04:05:58+00:00,,,,,
+312,stargazers,dmendel_bindata,2017-07-20 09:10:53+00:00,,,,,
+313,stargazers,dmendel_bindata,2017-07-25 03:30:53+00:00,,,,,
+314,stargazers,dmendel_bindata,2017-08-17 06:20:20+00:00,,,,,
+315,stargazers,dmendel_bindata,2017-08-21 10:22:31+00:00,,,,,
+316,stargazers,dmendel_bindata,2017-08-27 20:02:20+00:00,,,,,
+317,stargazers,dmendel_bindata,2017-08-29 02:51:55+00:00,,,,,
+318,stargazers,dmendel_bindata,2017-09-01 19:08:41+00:00,,,,,
+319,stargazers,dmendel_bindata,2017-09-03 14:49:04+00:00,,,,,
+320,stargazers,dmendel_bindata,2017-09-15 06:48:20+00:00,,,,,
+321,stargazers,dmendel_bindata,2017-09-29 11:59:27+00:00,,,,,
+322,stargazers,dmendel_bindata,2017-09-29 20:24:45+00:00,,,,,
+323,stargazers,dmendel_bindata,2017-09-30 09:39:51+00:00,,,,,
+324,stargazers,dmendel_bindata,2017-09-30 15:44:53+00:00,,,,,
+325,stargazers,dmendel_bindata,2017-09-30 16:10:30+00:00,,,,,
+326,stargazers,dmendel_bindata,2017-10-01 10:13:15+00:00,,,,,
+327,stargazers,dmendel_bindata,2017-10-02 10:32:55+00:00,,,,,
+328,stargazers,dmendel_bindata,2017-10-03 13:36:53+00:00,,,,,
+329,stargazers,dmendel_bindata,2017-10-12 02:08:24+00:00,,,,,
+330,stargazers,dmendel_bindata,2017-10-14 11:18:07+00:00,,,,,
+331,stargazers,dmendel_bindata,2017-10-15 13:56:47+00:00,,,,,
+332,stargazers,dmendel_bindata,2017-10-16 04:45:04+00:00,,,,,
+333,stargazers,dmendel_bindata,2017-10-30 07:12:42+00:00,,,,,
+334,stargazers,dmendel_bindata,2017-10-30 12:22:52+00:00,,,,,
+335,stargazers,dmendel_bindata,2017-11-01 06:51:58+00:00,,,,,
+336,stargazers,dmendel_bindata,2017-11-06 21:37:33+00:00,,,,,
+337,stargazers,dmendel_bindata,2017-11-17 05:55:19+00:00,,,,,
+338,stargazers,dmendel_bindata,2017-11-23 20:44:37+00:00,,,,,
+339,stargazers,dmendel_bindata,2017-11-25 15:25:06+00:00,,,,,
+340,stargazers,dmendel_bindata,2017-12-07 17:31:50+00:00,,,,,
+341,stargazers,dmendel_bindata,2017-12-07 20:44:47+00:00,,,,,
+342,stargazers,dmendel_bindata,2017-12-08 05:27:22+00:00,,,,,
+343,stargazers,dmendel_bindata,2017-12-11 13:29:53+00:00,,,,,
+344,stargazers,dmendel_bindata,2017-12-20 23:30:32+00:00,,,,,
+345,stargazers,dmendel_bindata,2017-12-25 10:17:05+00:00,,,,,
+346,stargazers,dmendel_bindata,2018-01-14 16:36:38+00:00,,,,,
+347,stargazers,dmendel_bindata,2018-01-29 21:19:59+00:00,,,,,
+348,stargazers,dmendel_bindata,2018-02-02 22:44:39+00:00,,,,,
+349,stargazers,dmendel_bindata,2018-02-05 19:13:26+00:00,,,,,
+350,stargazers,dmendel_bindata,2018-02-08 15:18:00+00:00,,,,,
+351,stargazers,dmendel_bindata,2018-02-15 00:38:22+00:00,,,,,
+352,stargazers,dmendel_bindata,2018-02-15 01:43:13+00:00,,,,,
+353,stargazers,dmendel_bindata,2018-02-24 04:24:34+00:00,,,,,
+354,stargazers,dmendel_bindata,2018-02-25 02:19:09+00:00,,,,,
+355,stargazers,dmendel_bindata,2018-02-27 02:56:02+00:00,,,,,
+356,stargazers,dmendel_bindata,2018-02-27 19:09:53+00:00,,,,,
+357,stargazers,dmendel_bindata,2018-03-04 12:15:00+00:00,,,,,
+358,stargazers,dmendel_bindata,2018-03-05 20:04:44+00:00,,,,,
+359,stargazers,dmendel_bindata,2018-03-14 16:54:23+00:00,,,,,
+360,stargazers,dmendel_bindata,2018-03-16 16:43:35+00:00,,,,,
+361,stargazers,dmendel_bindata,2018-04-17 15:50:18+00:00,,,,,
+362,stargazers,dmendel_bindata,2018-05-05 10:59:25+00:00,,,,,
+363,stargazers,dmendel_bindata,2018-05-18 19:23:10+00:00,,,,,
+364,stargazers,dmendel_bindata,2018-05-28 12:46:12+00:00,,,,,
+365,stargazers,dmendel_bindata,2018-05-31 08:55:28+00:00,,,,,
+366,stargazers,dmendel_bindata,2018-06-07 03:35:59+00:00,,,,,
+367,stargazers,dmendel_bindata,2018-06-07 08:29:54+00:00,,,,,
+368,stargazers,dmendel_bindata,2018-06-07 19:34:43+00:00,,,,,
+369,stargazers,dmendel_bindata,2018-06-13 19:02:36+00:00,,,,,
+370,stargazers,dmendel_bindata,2018-06-14 09:30:47+00:00,,,,,
+371,stargazers,dmendel_bindata,2018-06-25 09:34:26+00:00,,,,,
+372,stargazers,dmendel_bindata,2018-06-27 07:59:26+00:00,,,,,
+373,stargazers,dmendel_bindata,2018-07-02 23:22:12+00:00,,,,,
+374,stargazers,dmendel_bindata,2018-07-11 03:36:15+00:00,,,,,
+375,stargazers,dmendel_bindata,2018-07-12 19:44:40+00:00,,,,,
+376,stargazers,dmendel_bindata,2018-07-14 14:29:49+00:00,,,,,
+377,stargazers,dmendel_bindata,2018-07-29 13:09:08+00:00,,,,,
+378,stargazers,dmendel_bindata,2018-08-02 00:53:57+00:00,,,,,
+379,stargazers,dmendel_bindata,2018-08-08 20:06:20+00:00,,,,,
+380,stargazers,dmendel_bindata,2018-08-16 02:26:46+00:00,,,,,
+381,stargazers,dmendel_bindata,2018-09-03 14:30:08+00:00,,,,,
+382,stargazers,dmendel_bindata,2018-10-09 23:05:18+00:00,,,,,
+383,stargazers,dmendel_bindata,2018-11-05 07:22:02+00:00,,,,,
+384,stargazers,dmendel_bindata,2018-11-06 01:40:14+00:00,,,,,
+385,stargazers,dmendel_bindata,2018-11-11 21:29:02+00:00,,,,,
+386,stargazers,dmendel_bindata,2018-11-17 22:51:16+00:00,,,,,
+387,stargazers,dmendel_bindata,2018-11-18 03:49:52+00:00,,,,,
+388,stargazers,dmendel_bindata,2018-11-18 16:07:12+00:00,,,,,
+389,stargazers,dmendel_bindata,2018-12-15 21:35:17+00:00,,,,,
+390,stargazers,dmendel_bindata,2018-12-29 03:03:15+00:00,,,,,
+391,stargazers,dmendel_bindata,2019-01-07 05:08:57+00:00,,,,,
+392,stargazers,dmendel_bindata,2019-01-18 02:43:37+00:00,,,,,
+393,stargazers,dmendel_bindata,2019-02-02 03:02:20+00:00,,,,,
+394,stargazers,dmendel_bindata,2019-02-03 06:43:42+00:00,,,,,
+395,stargazers,dmendel_bindata,2019-02-04 23:14:43+00:00,,,,,
+396,stargazers,dmendel_bindata,2019-02-16 03:35:04+00:00,,,,,
+397,stargazers,dmendel_bindata,2019-03-06 23:10:31+00:00,,,,,
+398,stargazers,dmendel_bindata,2019-03-14 16:22:03+00:00,,,,,
+399,stargazers,dmendel_bindata,2019-03-16 09:58:39+00:00,,,,,
+400,stargazers,dmendel_bindata,2019-03-20 20:51:46+00:00,,,,,
+401,stargazers,dmendel_bindata,2019-04-26 03:41:01+00:00,,,,,
+402,stargazers,dmendel_bindata,2019-04-28 02:06:13+00:00,,,,,
+403,stargazers,dmendel_bindata,2019-05-05 22:54:35+00:00,,,,,
+404,stargazers,dmendel_bindata,2019-05-17 11:01:13+00:00,,,,,
+405,stargazers,dmendel_bindata,2019-05-28 07:29:49+00:00,,,,,
+406,stargazers,dmendel_bindata,2019-05-28 11:23:45+00:00,,,,,
+407,stargazers,dmendel_bindata,2019-05-28 15:08:56+00:00,,,,,
+408,stargazers,dmendel_bindata,2019-06-01 04:47:37+00:00,,,,,
+409,stargazers,dmendel_bindata,2019-06-01 15:13:44+00:00,,,,,
+410,stargazers,dmendel_bindata,2019-06-06 13:34:48+00:00,,,,,
+411,stargazers,dmendel_bindata,2019-06-07 03:33:08+00:00,,,,,
+412,stargazers,dmendel_bindata,2019-09-02 00:49:45+00:00,,,,,
+413,stargazers,dmendel_bindata,2019-09-03 03:52:17+00:00,,,,,
+414,stargazers,dmendel_bindata,2019-09-12 19:26:23+00:00,,,,,
+415,stargazers,dmendel_bindata,2019-09-12 22:14:20+00:00,,,,,
+416,stargazers,dmendel_bindata,2019-09-13 01:51:27+00:00,,,,,
+417,stargazers,dmendel_bindata,2019-09-13 16:43:03+00:00,,,,,
+418,stargazers,dmendel_bindata,2019-09-24 12:12:09+00:00,,,,,
+419,stargazers,dmendel_bindata,2019-10-09 08:29:51+00:00,,,,,
+420,stargazers,dmendel_bindata,2019-10-22 11:01:32+00:00,,,,,
+421,stargazers,dmendel_bindata,2019-10-22 13:28:50+00:00,,,,,
+422,stargazers,dmendel_bindata,2019-11-05 16:50:36+00:00,,,,,
+423,stargazers,dmendel_bindata,2019-11-19 03:04:51+00:00,,,,,
+424,stargazers,dmendel_bindata,2019-11-24 23:17:14+00:00,,,,,
+425,stargazers,dmendel_bindata,2019-12-21 10:39:41+00:00,,,,,
+426,stargazers,dmendel_bindata,2019-12-29 21:26:05+00:00,,,,,
+427,stargazers,dmendel_bindata,2020-01-08 19:41:18+00:00,,,,,
+428,stargazers,dmendel_bindata,2020-02-04 14:42:42+00:00,,,,,
+429,stargazers,dmendel_bindata,2020-02-05 07:40:30+00:00,,,,,
+430,stargazers,dmendel_bindata,2020-02-07 12:52:27+00:00,,,,,
+431,stargazers,dmendel_bindata,2020-02-11 16:25:51+00:00,,,,,
+432,stargazers,dmendel_bindata,2020-02-11 18:48:52+00:00,,,,,
+433,stargazers,dmendel_bindata,2020-02-21 00:07:00+00:00,,,,,
+434,stargazers,dmendel_bindata,2020-02-21 01:37:31+00:00,,,,,
+435,stargazers,dmendel_bindata,2020-02-21 02:55:25+00:00,,,,,
+436,stargazers,dmendel_bindata,2020-02-21 03:10:05+00:00,,,,,
+437,stargazers,dmendel_bindata,2020-02-21 05:10:39+00:00,,,,,
+438,stargazers,dmendel_bindata,2020-02-21 06:24:04+00:00,,,,,
+439,stargazers,dmendel_bindata,2020-02-21 07:24:05+00:00,,,,,
+440,stargazers,dmendel_bindata,2020-02-21 08:44:56+00:00,,,,,
+441,stargazers,dmendel_bindata,2020-02-21 09:03:48+00:00,,,,,
+442,stargazers,dmendel_bindata,2020-02-21 11:04:21+00:00,,,,,
+443,stargazers,dmendel_bindata,2020-02-21 11:56:22+00:00,,,,,
+444,stargazers,dmendel_bindata,2020-02-21 14:13:21+00:00,,,,,
+445,stargazers,dmendel_bindata,2020-02-21 14:48:39+00:00,,,,,
+446,stargazers,dmendel_bindata,2020-02-21 16:23:10+00:00,,,,,
+447,stargazers,dmendel_bindata,2020-02-26 10:10:49+00:00,,,,,
+448,stargazers,dmendel_bindata,2020-02-26 18:58:58+00:00,,,,,
+449,stargazers,dmendel_bindata,2020-02-26 19:32:21+00:00,,,,,
+450,stargazers,dmendel_bindata,2020-02-26 21:05:02+00:00,,,,,
+451,stargazers,dmendel_bindata,2020-02-27 03:01:41+00:00,,,,,
+452,stargazers,dmendel_bindata,2020-02-27 03:46:25+00:00,,,,,
+453,stargazers,dmendel_bindata,2020-02-27 04:24:52+00:00,,,,,
+454,stargazers,dmendel_bindata,2020-02-27 05:56:40+00:00,,,,,
+455,stargazers,dmendel_bindata,2020-02-27 06:19:51+00:00,,,,,
+456,stargazers,dmendel_bindata,2020-02-27 09:48:27+00:00,,,,,
+457,stargazers,dmendel_bindata,2020-02-27 15:30:29+00:00,,,,,
+458,stargazers,dmendel_bindata,2020-02-28 14:53:48+00:00,,,,,
+459,stargazers,dmendel_bindata,2020-03-02 22:09:55+00:00,,,,,
+460,stargazers,dmendel_bindata,2020-03-03 08:28:14+00:00,,,,,
+461,stargazers,dmendel_bindata,2020-03-12 23:25:41+00:00,,,,,
+462,stargazers,dmendel_bindata,2020-03-19 07:21:29+00:00,,,,,
+463,stargazers,dmendel_bindata,2020-03-25 18:09:55+00:00,,,,,
+464,stargazers,dmendel_bindata,2020-03-27 18:02:37+00:00,,,,,
+465,stargazers,dmendel_bindata,2020-03-31 23:40:30+00:00,,,,,
+466,stargazers,dmendel_bindata,2020-04-02 07:32:21+00:00,,,,,
+467,stargazers,dmendel_bindata,2020-04-03 01:27:25+00:00,,,,,
+468,stargazers,dmendel_bindata,2020-04-04 11:55:56+00:00,,,,,
+469,stargazers,dmendel_bindata,2020-05-06 16:15:37+00:00,,,,,
+470,stargazers,dmendel_bindata,2020-05-07 22:39:25+00:00,,,,,
+471,stargazers,dmendel_bindata,2020-05-13 18:25:07+00:00,,,,,
+472,stargazers,dmendel_bindata,2020-05-14 23:43:39+00:00,,,,,
+473,stargazers,dmendel_bindata,2020-05-18 03:22:02+00:00,,,,,
+474,stargazers,dmendel_bindata,2020-05-21 06:44:31+00:00,,,,,
+475,stargazers,dmendel_bindata,2020-05-26 13:34:16+00:00,,,,,
+476,stargazers,dmendel_bindata,2020-05-30 11:18:36+00:00,,,,,
+477,stargazers,dmendel_bindata,2020-06-07 19:32:44+00:00,,,,,
+478,stargazers,dmendel_bindata,2020-06-27 04:25:15+00:00,,,,,
+479,stargazers,dmendel_bindata,2020-07-12 22:35:38+00:00,,,,,
+480,stargazers,dmendel_bindata,2020-08-14 20:38:05+00:00,,,,,
+481,stargazers,dmendel_bindata,2020-09-28 13:07:46+00:00,,,,,
+482,stargazers,dmendel_bindata,2020-10-15 15:05:57+00:00,,,,,
+483,stargazers,dmendel_bindata,2020-10-30 07:00:23+00:00,,,,,
+484,stargazers,dmendel_bindata,2020-11-13 21:28:57+00:00,,,,,
+485,stargazers,dmendel_bindata,2020-12-06 03:26:20+00:00,,,,,
+486,stargazers,dmendel_bindata,2021-01-06 06:46:37+00:00,,,,,
+487,stargazers,dmendel_bindata,2021-01-29 15:44:29+00:00,,,,,
+488,stargazers,dmendel_bindata,2021-02-02 17:38:29+00:00,,,,,
+489,stargazers,dmendel_bindata,2021-02-18 16:47:43+00:00,,,,,
+490,stargazers,dmendel_bindata,2021-02-18 21:28:35+00:00,,,,,
+491,stargazers,dmendel_bindata,2021-03-12 02:00:15+00:00,,,,,
+492,stargazers,dmendel_bindata,2021-03-24 02:18:05+00:00,,,,,
+493,stargazers,dmendel_bindata,2021-03-26 17:00:11+00:00,,,,,
+494,stargazers,dmendel_bindata,2021-04-09 16:51:13+00:00,,,,,
+495,stargazers,dmendel_bindata,2021-04-13 10:13:41+00:00,,,,,
+496,stargazers,dmendel_bindata,2021-04-21 15:49:37+00:00,,,,,
+497,stargazers,dmendel_bindata,2021-04-21 15:55:40+00:00,,,,,
+498,stargazers,dmendel_bindata,2021-04-21 16:17:56+00:00,,,,,
+499,stargazers,dmendel_bindata,2021-04-21 18:22:59+00:00,,,,,
+500,stargazers,dmendel_bindata,2021-04-21 18:25:11+00:00,,,,,
+501,stargazers,dmendel_bindata,2021-04-22 01:27:57+00:00,,,,,
+502,stargazers,dmendel_bindata,2021-04-22 02:05:11+00:00,,,,,
+503,stargazers,dmendel_bindata,2021-04-22 08:01:57+00:00,,,,,
+504,stargazers,dmendel_bindata,2021-04-23 10:42:43+00:00,,,,,
+505,stargazers,dmendel_bindata,2021-04-27 12:22:42+00:00,,,,,
+506,stargazers,dmendel_bindata,2021-05-04 20:03:24+00:00,,,,,
+507,stargazers,dmendel_bindata,2021-05-19 12:30:08+00:00,,,,,
+508,stargazers,dmendel_bindata,2021-05-29 12:31:07+00:00,,,,,
+509,stargazers,dmendel_bindata,2021-06-02 20:02:53+00:00,,,,,
+510,stargazers,dmendel_bindata,2021-06-04 13:47:03+00:00,,,,,
+511,stargazers,dmendel_bindata,2021-06-29 22:57:56+00:00,,,,,
+512,stargazers,dmendel_bindata,2021-06-30 06:18:10+00:00,,,,,
+513,stargazers,dmendel_bindata,2021-07-11 15:03:33+00:00,,,,,
+514,stargazers,dmendel_bindata,2021-07-15 10:31:04+00:00,,,,,
+515,stargazers,dmendel_bindata,2021-08-11 09:42:48+00:00,,,,,
+516,stargazers,dmendel_bindata,2021-08-11 22:27:39+00:00,,,,,
+517,stargazers,dmendel_bindata,2021-09-06 06:16:10+00:00,,,,,
+518,stargazers,dmendel_bindata,2021-09-09 03:05:57+00:00,,,,,
+519,stargazers,dmendel_bindata,2021-09-09 09:51:03+00:00,,,,,
+520,stargazers,dmendel_bindata,2021-09-11 04:14:44+00:00,,,,,
+521,stargazers,dmendel_bindata,2021-09-11 05:23:09+00:00,,,,,
+522,stargazers,dmendel_bindata,2021-09-11 07:57:03+00:00,,,,,
+523,stargazers,dmendel_bindata,2021-09-12 08:41:40+00:00,,,,,
+524,stargazers,dmendel_bindata,2021-10-11 18:24:51+00:00,,,,,
+525,stargazers,dmendel_bindata,2021-12-29 06:09:51+00:00,,,,,
+526,stargazers,dmendel_bindata,2022-01-05 08:00:07+00:00,,,,,
+527,stargazers,dmendel_bindata,2022-01-19 23:21:18+00:00,,,,,
+528,stargazers,dmendel_bindata,2022-02-16 18:11:51+00:00,,,,,
+529,stargazers,dmendel_bindata,2022-02-18 05:27:50+00:00,,,,,
+530,stargazers,dmendel_bindata,2022-02-21 15:29:47+00:00,,,,,
+531,stargazers,dmendel_bindata,2022-03-10 17:42:48+00:00,,,,,
+532,stargazers,dmendel_bindata,2022-03-24 07:45:39+00:00,,,,,
+533,stargazers,dmendel_bindata,2022-04-03 17:45:21+00:00,,,,,
+534,stargazers,dmendel_bindata,2022-04-14 04:50:37+00:00,,,,,
+535,stargazers,dmendel_bindata,2022-04-21 12:21:05+00:00,,,,,
+536,stargazers,dmendel_bindata,2022-04-29 05:26:31+00:00,,,,,

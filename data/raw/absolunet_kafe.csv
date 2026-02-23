@@ -1,0 +1,498 @@
+,type,name,created_at,Hash,Add,Del,Files,Vuln
+28454,PushEvent,absolunet_kafe,2015-12-17 20:10:10 UTC,,,,,
+65350,ReleaseEvent,absolunet_kafe,2015-12-17 20:10:55 UTC,,,,,
+996913,PushEvent,absolunet_kafe,2015-12-17 20:13:25 UTC,,,,,
+1087633,PushEvent,absolunet_kafe,2015-10-06 18:07:41 UTC,,,,,
+1108043,DeleteEvent,absolunet_kafe,2015-10-05 20:06:53 UTC,,,,,
+1313163,PushEvent,absolunet_kafe,2015-10-11 21:21:14 UTC,,,,,
+1372614,PushEvent,absolunet_kafe,2015-12-17 20:18:38 UTC,,,,,
+1401154,DeleteEvent,absolunet_kafe,2015-10-11 21:41:26 UTC,,,,,
+1460895,ReleaseEvent,absolunet_kafe,2015-12-17 20:14:21 UTC,,,,,
+1467711,PushEvent,absolunet_kafe,2015-10-11 21:43:05 UTC,,,,,
+1538503,PushEvent,absolunet_kafe,2015-11-25 20:17:48 UTC,,,,,
+1661108,PushEvent,absolunet_kafe,2015-11-25 20:15:49 UTC,,,,,
+1713647,CreateEvent,absolunet_kafe,2015-10-05 20:08:27 UTC,,,,,
+1827643,PushEvent,absolunet_kafe,2015-10-06 17:45:26 UTC,,,,,
+1864482,CreateEvent,absolunet_kafe,2015-12-17 20:10:56 UTC,,,,,
+1876390,CreateEvent,absolunet_kafe,2015-11-25 20:18:23 UTC,,,,,
+1904117,CreateEvent,absolunet_kafe,2015-10-11 21:20:48 UTC,,,,,
+1967744,CreateEvent,absolunet_kafe,2015-10-11 21:24:36 UTC,,,,,
+1972106,ReleaseEvent,absolunet_kafe,2015-10-11 21:24:35 UTC,,,,,
+2067170,ReleaseEvent,absolunet_kafe,2015-10-06 18:08:20 UTC,,,,,
+2130427,WatchEvent,absolunet_kafe,2015-12-05 09:25:00 UTC,,,,,
+2407213,ReleaseEvent,absolunet_kafe,2015-11-25 20:18:23 UTC,,,,,
+2504918,CreateEvent,absolunet_kafe,2015-12-17 20:14:21 UTC,,,,,
+2630789,PushEvent,absolunet_kafe,2015-12-17 22:52:52 UTC,,,,,
+2710083,CreateEvent,absolunet_kafe,2015-10-06 18:08:20 UTC,,,,,
+3037681,DeleteEvent,absolunet_kafe,2015-12-17 20:14:04 UTC,,,,,
+3108774,DeleteEvent,absolunet_kafe,2015-10-11 18:28:47 UTC,,,,,
+3182539,PushEvent,absolunet_kafe,2015-08-18 19:33:11 UTC,,,,,
+3234323,PushEvent,absolunet_kafe,2015-10-06 18:06:54 UTC,,,,,
+74136,ReleaseEvent,absolunet_kafe,2016-07-21 16:13:34 UTC,,,,,
+144201,ReleaseEvent,absolunet_kafe,2016-08-30 18:44:33 UTC,,,,,
+332957,PullRequestEvent,absolunet_kafe,2016-08-30 18:38:45 UTC,,,,,
+372876,PushEvent,absolunet_kafe,2016-08-30 18:42:40 UTC,,,,,
+519057,IssuesEvent,absolunet_kafe,2016-05-06 20:02:12 UTC,,,,,
+606358,PushEvent,absolunet_kafe,2016-08-25 14:21:08 UTC,,,,,
+735545,PushEvent,absolunet_kafe,2016-08-30 18:45:40 UTC,,,,,
+741409,ForkEvent,absolunet_kafe,2016-08-02 15:18:29 UTC,,,,,
+742653,IssuesEvent,absolunet_kafe,2016-05-06 20:06:12 UTC,,,,,
+783383,CreateEvent,absolunet_kafe,2016-11-02 21:15:12 UTC,,,,,
+810927,PushEvent,absolunet_kafe,2016-04-26 20:25:00 UTC,,,,,
+821198,CreateEvent,absolunet_kafe,2016-07-21 16:13:34 UTC,,,,,
+823582,PushEvent,absolunet_kafe,2016-07-21 16:12:13 UTC,,,,,
+869032,IssuesEvent,absolunet_kafe,2016-05-06 20:05:31 UTC,,,,,
+953249,PushEvent,absolunet_kafe,2016-08-18 20:04:45 UTC,,,,,
+979619,ReleaseEvent,absolunet_kafe,2016-08-18 20:05:29 UTC,,,,,
+1035521,PushEvent,absolunet_kafe,2016-08-25 14:20:12 UTC,,,,,
+1114536,PushEvent,absolunet_kafe,2016-04-26 20:25:31 UTC,,,,,
+1126781,ForkEvent,absolunet_kafe,2016-08-18 15:20:20 UTC,,,,,
+1260682,IssuesEvent,absolunet_kafe,2016-05-06 20:01:19 UTC,,,,,
+1345817,PullRequestEvent,absolunet_kafe,2016-08-18 19:10:24 UTC,,,,,
+1513649,PullRequestEvent,absolunet_kafe,2016-08-02 15:23:37 UTC,,,,,
+1762842,ReleaseEvent,absolunet_kafe,2016-11-02 21:15:12 UTC,,,,,
+1793396,PushEvent,absolunet_kafe,2016-11-02 21:14:43 UTC,,,,,
+1827909,PushEvent,absolunet_kafe,2016-08-18 19:10:26 UTC,,,,,
+1885405,CreateEvent,absolunet_kafe,2016-08-18 20:05:30 UTC,,,,,
+1983509,PullRequestEvent,absolunet_kafe,2016-08-18 19:09:31 UTC,,,,,
+2073478,PushEvent,absolunet_kafe,2016-08-18 20:03:47 UTC,,,,,
+2254594,CreateEvent,absolunet_kafe,2016-04-26 20:26:36 UTC,,,,,
+2392341,PushEvent,absolunet_kafe,2016-08-04 19:16:34 UTC,,,,,
+2558044,ReleaseEvent,absolunet_kafe,2016-04-26 20:26:35 UTC,,,,,
+2696857,PullRequestEvent,absolunet_kafe,2016-08-18 15:24:43 UTC,,,,,
+2809008,PushEvent,absolunet_kafe,2016-07-21 16:11:29 UTC,,,,,
+3003850,ForkEvent,absolunet_kafe,2016-08-30 15:23:45 UTC,,,,,
+3082868,PushEvent,absolunet_kafe,2016-08-18 19:09:32 UTC,,,,,
+3114382,PushEvent,absolunet_kafe,2016-11-02 21:16:18 UTC,,,,,
+3161637,PushEvent,absolunet_kafe,2016-08-04 19:18:09 UTC,,,,,
+3282186,IssuesEvent,absolunet_kafe,2016-04-26 19:56:19 UTC,,,,,
+3306999,CreateEvent,absolunet_kafe,2016-08-30 18:44:33 UTC,,,,,
+3391136,PushEvent,absolunet_kafe,2016-04-08 16:12:16 UTC,,,,,
+3470096,PushEvent,absolunet_kafe,2016-08-30 18:38:45 UTC,,,,,
+3528036,ReleaseEvent,absolunet_kafe,2016-08-04 19:19:17 UTC,,,,,
+3537115,CreateEvent,absolunet_kafe,2016-08-04 19:19:17 UTC,,,,,
+3878011,IssuesEvent,absolunet_kafe,2016-05-06 20:03:12 UTC,,,,,
+3889742,PushEvent,absolunet_kafe,2016-04-08 16:11:06 UTC,,,,,
+3979419,PullRequestEvent,absolunet_kafe,2016-08-30 15:28:27 UTC,,,,,
+3995101,ReleaseEvent,absolunet_kafe,2016-04-08 16:12:58 UTC,,,,,
+4026212,CreateEvent,absolunet_kafe,2016-04-08 16:12:58 UTC,,,,,
+1306,ReleaseEvent,absolunet_kafe,2017-11-09 14:23:59 UTC,,,,,
+6598,ReleaseEvent,absolunet_kafe,2017-10-19 16:01:35 UTC,,,,,
+10245,ReleaseEvent,absolunet_kafe,2017-08-28 13:49:46 UTC,,,,,
+11912,MemberEvent,absolunet_kafe,2017-09-05 18:33:06 UTC,,,,,
+11961,ReleaseEvent,absolunet_kafe,2017-02-01 16:08:13 UTC,,,,,
+14134,MemberEvent,absolunet_kafe,2017-09-05 18:33:00 UTC,,,,,
+16183,MemberEvent,absolunet_kafe,2017-09-05 18:30:28 UTC,,,,,
+20192,MemberEvent,absolunet_kafe,2017-09-05 18:32:55 UTC,,,,,
+21401,MemberEvent,absolunet_kafe,2017-09-05 18:32:22 UTC,,,,,
+28048,MemberEvent,absolunet_kafe,2017-09-05 18:32:37 UTC,,,,,
+29704,MemberEvent,absolunet_kafe,2017-09-05 18:32:43 UTC,,,,,
+43881,MemberEvent,absolunet_kafe,2017-09-05 18:32:48 UTC,,,,,
+128914,ForkEvent,absolunet_kafe,2017-11-07 15:50:38 UTC,,,,,
+145262,ForkEvent,absolunet_kafe,2017-07-20 14:07:54 UTC,,,,,
+291002,ForkEvent,absolunet_kafe,2017-11-20 20:41:44 UTC,,,,,
+351507,PushEvent,absolunet_kafe,2017-11-09 14:25:35 UTC,,,,,
+452960,PushEvent,absolunet_kafe,2017-11-09 14:23:13 UTC,,,,,
+557429,PushEvent,absolunet_kafe,2017-11-20 20:45:47 UTC,,,,,
+674400,PushEvent,absolunet_kafe,2017-10-19 15:59:24 UTC,,,,,
+706859,PushEvent,absolunet_kafe,2017-11-09 14:12:20 UTC,,,,,
+767520,PushEvent,absolunet_kafe,2017-08-28 13:37:45 UTC,,,,,
+840558,PushEvent,absolunet_kafe,2017-11-09 14:21:26 UTC,,,,,
+843587,PushEvent,absolunet_kafe,2017-10-19 16:01:08 UTC,,,,,
+921171,PushEvent,absolunet_kafe,2017-02-01 16:06:35 UTC,,,,,
+940253,PushEvent,absolunet_kafe,2017-08-28 13:48:52 UTC,,,,,
+948123,PushEvent,absolunet_kafe,2017-02-01 16:05:46 UTC,,,,,
+953567,PushEvent,absolunet_kafe,2017-08-28 14:19:26 UTC,,,,,
+1493353,WatchEvent,absolunet_kafe,2017-11-21 22:33:07 UTC,,,,,
+1913603,CreateEvent,absolunet_kafe,2017-10-19 16:01:35 UTC,,,,,
+1948606,CreateEvent,absolunet_kafe,2017-08-28 13:49:46 UTC,,,,,
+1954945,CreateEvent,absolunet_kafe,2017-02-01 16:09:15 UTC,,,,,
+1963605,CreateEvent,absolunet_kafe,2017-11-09 14:23:59 UTC,,,,,
+1995574,DeleteEvent,absolunet_kafe,2017-08-28 13:36:42 UTC,,,,,
+2613303,PullRequestEvent,absolunet_kafe,2017-08-28 13:37:45 UTC,,,,,
+2675511,PullRequestEvent,absolunet_kafe,2017-11-09 14:12:19 UTC,,,,,
+2697556,PullRequestEvent,absolunet_kafe,2017-11-20 20:44:20 UTC,,,,,
+2712214,PullRequestEvent,absolunet_kafe,2017-11-20 20:45:46 UTC,,,,,
+2753706,PullRequestEvent,absolunet_kafe,2017-07-20 17:09:08 UTC,,,,,
+4248090,IssueCommentEvent,absolunet_kafe,2017-11-08 15:45:41 UTC,,,,,
+31166,ReleaseEvent,absolunet_kafe,2018-12-10 14:22:20 UTC,,,,,
+139901,ForkEvent,absolunet_kafe,2018-12-06 16:46:49 UTC,,,,,
+450378,PushEvent,absolunet_kafe,2018-12-07 18:07:34 UTC,,,,,
+516858,PushEvent,absolunet_kafe,2018-12-10 14:20:46 UTC,,,,,
+539339,PushEvent,absolunet_kafe,2018-12-10 14:20:05 UTC,,,,,
+1918563,CreateEvent,absolunet_kafe,2018-12-07 20:32:29 UTC,,,,,
+1937643,CreateEvent,absolunet_kafe,2018-12-10 14:22:20 UTC,,,,,
+2817115,PullRequestEvent,absolunet_kafe,2018-12-07 18:07:34 UTC,,,,,
+2879799,PullRequestEvent,absolunet_kafe,2018-12-06 18:08:55 UTC,,,,,
+9,ReleaseEvent,absolunet_kafe,2019-03-26 13:00:07 UTC,,,,,
+16380,ReleaseEvent,absolunet_kafe,2019-05-07 19:12:04 UTC,,,,,
+18869,ReleaseEvent,absolunet_kafe,2019-05-07 19:11:44 UTC,,,,,
+36948,ReleaseEvent,absolunet_kafe,2019-04-17 18:51:57 UTC,,,,,
+382730,PushEvent,absolunet_kafe,2019-05-07 18:31:39 UTC,,,,,
+444316,PushEvent,absolunet_kafe,2019-05-07 19:07:37 UTC,,,,,
+540854,PushEvent,absolunet_kafe,2019-12-09 19:21:12 UTC,,,,,
+681286,PushEvent,absolunet_kafe,2019-03-26 12:50:29 UTC,,,,,
+767117,PushEvent,absolunet_kafe,2019-12-09 19:21:11 UTC,,,,,
+922577,PushEvent,absolunet_kafe,2019-05-07 19:07:38 UTC,,,,,
+955351,PushEvent,absolunet_kafe,2019-05-07 18:31:39 UTC,,,,,
+1114748,PushEvent,absolunet_kafe,2019-04-17 18:46:46 UTC,,,,,
+1201428,PushEvent,absolunet_kafe,2019-04-17 18:46:45 UTC,,,,,
+2308520,CreateEvent,absolunet_kafe,2019-12-09 19:21:10 UTC,,,,,
+2318053,CreateEvent,absolunet_kafe,2019-03-26 13:00:07 UTC,,,,,
+2355934,CreateEvent,absolunet_kafe,2019-02-11 16:14:23 UTC,,,,,
+2389417,CreateEvent,absolunet_kafe,2019-05-07 18:31:39 UTC,,,,,
+2399089,CreateEvent,absolunet_kafe,2019-04-17 18:46:46 UTC,,,,,
+2400120,CreateEvent,absolunet_kafe,2019-05-07 19:07:38 UTC,,,,,
+2431712,DeleteEvent,absolunet_kafe,2019-02-11 16:20:13 UTC,,,,,
+2449952,DeleteEvent,absolunet_kafe,2019-03-26 12:59:42 UTC,,,,,
+2531472,IssuesEvent,absolunet_kafe,2019-02-11 16:07:13 UTC,,,,,
+2535314,IssuesEvent,absolunet_kafe,2019-02-11 16:11:22 UTC,,,,,
+2638607,IssuesEvent,absolunet_kafe,2019-02-11 16:08:13 UTC,,,,,
+2816243,IssuesEvent,absolunet_kafe,2019-02-11 16:07:47 UTC,,,,,
+2904456,IssuesEvent,absolunet_kafe,2019-02-11 16:09:05 UTC,,,,,
+2945562,IssuesEvent,absolunet_kafe,2019-02-11 16:08:42 UTC,,,,,
+0,Commit,absolunet_kafe,2020-11-05 00:29:48,152850a7d77304af5a8b83fd09b3ee7f5f6c7ad5,0.0,0.0,0.0,0.0
+1,Commit,absolunet_kafe,2019-04-16 18:04:51,d6f9a42505ff3b403ec70d7bc8c0fe0489a6d45f,0.0,0.0,0.0,0.0
+2,Commit,absolunet_kafe,2019-04-16 18:03:59,d1e911ed2c5826fb9253d452cf46d30b03c01f2c,0.0,0.0,0.0,0.0
+3,Commit,absolunet_kafe,2019-03-29 13:49:56,dc1c4e61ef4364c524f09aedb94ae6423973b237,172.0,137.0,3.0,0.0
+4,Commit,absolunet_kafe,2019-03-29 13:49:09,04a6e99a78fe571ffa0f144c229aa2022e717a86,20.0,10.0,1.0,0.0
+5,Commit,absolunet_kafe,2019-03-29 13:11:38,98d756c4af18bf5eca141bbd2890c228afbea031,126.0,126.0,1.0,0.0
+6,Commit,absolunet_kafe,2019-03-29 12:50:30,cf862d35914f3ab251af93d32d0ed0443d1d98fb,193.0,193.0,3.0,0.0
+7,Commit,absolunet_kafe,2019-03-29 12:49:31,8ac67b9e130cd2d6bba2992cbedf589dca81bab1,191.0,191.0,1.0,0.0
+8,Commit,absolunet_kafe,2018-12-06 18:07:58,528405e2154f4d0c42e693e3792fb7a9866d4c05,25.0,17.0,2.0,0.0
+9,Commit,absolunet_kafe,2017-11-07 16:19:36,2a75f9608bdc880c49376e615909979b0ca5ea73,8.0,2.0,2.0,0.0
+10,Commit,absolunet_kafe,2017-08-28 13:48:49,f34727cbea940c8ff2635609d855df84d8801522,87.0,87.0,77.0,0.0
+11,Commit,absolunet_kafe,2017-08-28 13:37:44,ff479ef15a3db45171555b78884793e8ccbd706a,0.0,0.0,0.0,0.0
+12,Commit,absolunet_kafe,2017-07-21 14:35:17,05611a09a64dccea0ab500f064353d912e585c23,3.0,3.0,3.0,0.0
+13,Commit,absolunet_kafe,2017-07-20 14:42:15,8b116c5e2c17c8d090a5d68f513efaa5729eca69,4913.0,172.0,7.0,0.0
+14,Commit,absolunet_kafe,2017-02-01 16:04:54,ffde7d39d91ffa699c9faf5e6a52b80794cd900f,723.0,100.0,81.0,0.0
+15,Commit,absolunet_kafe,2016-11-02 21:14:40,bc6d3f1d6eb9f8507433cb1f0bd55a9ddc0da9a1,83.0,83.0,74.0,0.0
+16,Commit,absolunet_kafe,2016-08-30 18:42:38,d39753516bf0a2edbe5966e7ea08b635da062861,102.0,99.0,75.0,0.0
+17,Commit,absolunet_kafe,2016-08-30 18:38:44,74ac2b7c490c6a8e922fe56366052f3525da31f9,0.0,0.0,0.0,0.0
+18,Commit,absolunet_kafe,2016-08-30 15:55:39,a336555c5d7be08945525a110b220e9e95719182,8.0,4.0,2.0,0.0
+19,Commit,absolunet_kafe,2016-08-30 15:31:27,77a8505186b1c35ef1528f46b423ce56fc5c2b9f,2.0,2.0,2.0,0.0
+20,Commit,absolunet_kafe,2016-08-30 15:27:32,bdf7846b7d6fb4574e973b205d4fec403ff5e746,8.0,8.0,2.0,0.0
+21,Commit,absolunet_kafe,2016-08-25 14:20:04,523bb3fc041d009033337ae56b1520efd6c873d8,1016.0,709.0,4.0,0.0
+22,Commit,absolunet_kafe,2016-08-18 20:03:44,ed7988707872de81fa5cc46b48964d7da880ca2d,251.0,241.0,80.0,0.0
+23,Commit,absolunet_kafe,2016-08-18 19:10:22,388a3457d69c50158129c9249b548697637204af,0.0,0.0,0.0,0.0
+24,Commit,absolunet_kafe,2016-08-18 19:09:30,02d85374444eff69b1f8eb580b058d395fefb5da,0.0,0.0,0.0,0.0
+25,Commit,absolunet_kafe,2016-08-18 15:24:29,0c232d51a7b6e59d8a1c4e8e9422bef2d9e69e34,2.0,1.0,1.0,0.0
+26,Commit,absolunet_kafe,2016-08-04 19:15:20,a384da587ad3501e2cb5da5073cf24094b88bc66,468.0,348.0,80.0,0.0
+27,Commit,absolunet_kafe,2016-08-02 15:22:35,b8acf530432f4a6b22ebc1646643a08c44504407,1.0,1.0,1.0,0.0
+28,Commit,absolunet_kafe,2016-07-21 16:11:25,0252056abd966052e41df6ed580279e1564328f8,558.0,589.0,79.0,0.0
+29,Commit,absolunet_kafe,2016-04-26 20:24:58,2c4b7efd647d6b599cd6bc25d69e91efe6271647,318.0,114.0,76.0,0.0
+30,Commit,absolunet_kafe,2016-04-08 16:11:03,bd21b24a546b77e92582d0ffc0b58847838370ec,430.0,102.0,77.0,0.0
+31,Commit,absolunet_kafe,2015-12-17 22:52:49,8871252dc0f191c8dcee2ea97d04b1c25ce15bc9,644.0,18.0,75.0,0.0
+32,Commit,absolunet_kafe,2015-12-17 20:13:23,a1913653bef491652fda2154ed1a5f6f69b7403a,10.0,10.0,4.0,0.0
+33,Commit,absolunet_kafe,2015-12-17 20:10:08,17eb8de8eceb304a11c93360e9a1fe866ca6b8ed,3528.0,3725.0,86.0,0.0
+34,Commit,absolunet_kafe,2015-11-25 20:15:47,a14034469632204b866adbc13e3d9b5ae6a08434,77.0,77.0,71.0,0.0
+35,Commit,absolunet_kafe,2015-11-25 20:13:28,2468ea1472039f7b18e56b02cb2ae1eac42a265a,0.0,0.0,0.0,0.0
+36,Commit,absolunet_kafe,2015-11-25 19:45:36,3ffeef53c4d2d872424958d06f823857d755330e,100.0,85.0,72.0,0.0
+37,Commit,absolunet_kafe,2015-10-11 21:20:47,76cef917a5d34d88a07d2f3e9080c3b1141ce1af,993.0,286.0,76.0,0.0
+38,Commit,absolunet_kafe,2015-10-11 18:33:14,e5ca9cbb03ef51efbc5865f8a3404efbd5f7e5a5,0.0,0.0,0.0,0.0
+39,Commit,absolunet_kafe,2015-10-06 17:45:23,95a92a50f4624630b77b3a45a6d5b2acf245bf0e,19146.0,29974.0,92.0,0.0
+40,Commit,absolunet_kafe,2015-10-05 20:08:26,c0b46f0dae7c7deb2b63a926faf0d8d03997195d,34.0,30.0,5.0,0.0
+41,Commit,absolunet_kafe,2015-08-18 19:33:08,0db66af81e7b79184d06c68db03c6b15e89d6e75,12.0,3.0,2.0,0.0
+42,Commit,absolunet_kafe,2014-11-06 20:20:07,c438f4a109f49a5407f37b7cd84e0a064750b056,95.0,80.0,9.0,0.0
+43,Commit,absolunet_kafe,2014-10-16 15:48:04,93383d5711d52503bf3865b5ab3e382cfc4aa44e,3334.0,379.0,128.0,0.0
+44,Commit,absolunet_kafe,2014-10-15 12:38:42,046281c8151b162257b98880eb5145a35ff2936b,11.0,5.0,5.0,0.0
+45,Commit,absolunet_kafe,2014-10-01 15:11:54,ddf8b87bc924b97bf22482d8e325edf2092b6633,3381.0,3124.0,7.0,0.0
+46,Commit,absolunet_kafe,2014-10-01 14:55:03,724e4327436064fdd25ece1aa32cb38583294cf7,35.0,0.0,3.0,0.0
+47,Commit,absolunet_kafe,2014-10-01 14:08:08,a14690eb1990b3a662583cf454b328a03353f455,164.0,811.0,98.0,0.0
+48,Commit,absolunet_kafe,2014-09-30 21:15:04,6ac5ae681a290cb13f363c1839e91d0d2639567d,1869.0,1030.0,143.0,0.0
+49,Commit,absolunet_kafe,2014-09-29 20:28:50,ff6c317bb170c0de18557ec2cba985c4f0e5738c,5201.0,41831.0,171.0,0.0
+50,Commit,absolunet_kafe,2014-09-23 17:43:50,f4119967ceeda0cef31d5bfa04e6110d50c7e836,11.0,1.0,2.0,0.0
+51,Commit,absolunet_kafe,2014-08-27 20:04:36,9e34db138a11010cec673c00824bbdfd3fc36725,88.0,88.0,72.0,0.0
+52,Commit,absolunet_kafe,2014-08-27 19:22:45,123c888e8018fc06f51350a8f36c800b17efb801,204.0,62.0,6.0,0.0
+53,Commit,absolunet_kafe,2014-08-27 18:46:01,e2a60b7c20e930dc9fc7cac9f0fb40e6c7ba407b,822.0,822.0,5.0,0.0
+54,Commit,absolunet_kafe,2014-08-27 18:33:06,3c738a7ef4d1c6fc0566ce5f317afdc51fd47dbc,3687.0,4506.0,31.0,0.0
+55,Commit,absolunet_kafe,2014-08-27 16:14:31,6a1e968186640419777349429e48cb7084ed5f49,531.0,170.0,4.0,0.0
+56,Commit,absolunet_kafe,2014-07-28 00:51:29,fdad262b5741575f944a6bf089f4b809d7a5a1de,11345.0,4823.0,84.0,0.0
+57,Commit,absolunet_kafe,2014-07-10 12:14:16,95c2f022cbae0f73b5ff69de3542b26013a271c0,1.0,1.0,1.0,0.0
+58,Commit,absolunet_kafe,2014-06-04 20:07:15,fde2d882d187ba90431d51bfe4e6d4307fbff408,4.0,4.0,4.0,0.0
+59,Commit,absolunet_kafe,2014-04-28 03:31:40,c62075d3aa28bcf29fdbaf3a17ef3b55f29a0c50,2.0,4.0,2.0,0.0
+60,Commit,absolunet_kafe,2014-04-28 03:30:49,e9bf35bd2868df04fc12a8cba1de54bf9d3ebc69,1.0,2.0,1.0,0.0
+61,Commit,absolunet_kafe,2014-04-28 03:25:14,d8627fdf2325b07e103a143f9ebab3cb6ab0a1ef,2443.0,3795.0,130.0,0.0
+62,Commit,absolunet_kafe,2014-03-20 00:07:00,1c66877114196eae01aea8e2fd1649b9b06695c3,4817.0,4614.0,66.0,0.0
+63,Commit,absolunet_kafe,2014-03-20 00:07:00,7faa29e9fee0ebc6a7ebe4d127532e1e7a847fe3,8333.0,5084.0,78.0,0.0
+64,Commit,absolunet_kafe,2014-03-20 00:07:00,aadee5e8b1143ac1e9b2d3e265d71055c894e24e,95.0,1.0,2.0,0.0
+65,Commit,absolunet_kafe,2014-03-20 00:07:00,cbabc114b6cd514b1dbd4f528c6984d1c3a08c43,207.0,6.0,3.0,0.0
+66,Commit,absolunet_kafe,2014-03-20 00:06:59,298642f252b476e23ff0ee99e14849ebeb4d3d0c,14128.0,3376.0,71.0,0.0
+67,Commit,absolunet_kafe,2014-03-20 00:06:59,f4c25dd066818f621c81a0474f02e1781aad84a6,534.0,421.0,9.0,0.0
+68,Commit,absolunet_kafe,2014-03-20 00:06:59,ed6624cd53aa9f7203150c8eaa3d3172dcf5d6dd,1.0,1.0,1.0,0.0
+69,Commit,absolunet_kafe,2014-03-20 00:06:59,7590d17d93663a7039cf1d10d29b2d710db21884,92.0,5.0,2.0,0.0
+70,Commit,absolunet_kafe,2014-03-20 00:06:59,3ab3eb51c3c135e4108f3fcd61aa90da50b9fca0,117.0,11.0,3.0,0.0
+71,Commit,absolunet_kafe,2014-03-20 00:06:59,bef04a1f3e60948bd36358aae2b651ca68acfa4f,26.0,26.0,5.0,0.0
+72,Commit,absolunet_kafe,2014-03-20 00:06:59,6f30f3a56f8fabc927f3af1b929601d42bd9a30b,198.0,21.0,4.0,0.0
+73,Commit,absolunet_kafe,2014-03-20 00:06:59,355593a71bb754c9648f1b525501dd9287ad6b07,3796.0,14015.0,69.0,0.0
+74,Commit,absolunet_kafe,2014-03-20 00:06:59,e0ff49db29cd9187706485bbdb999723c93662ad,12209.0,10847.0,76.0,0.0
+75,Commit,absolunet_kafe,2014-03-20 00:06:58,a1f13cdf443ce2bb58cf41798fee549223bca46f,164.0,6.0,1.0,0.0
+76,Commit,absolunet_kafe,2014-03-20 00:06:58,c9ae70f09f62c387943b45fcbf9a69d99e3aaf0e,1.0,1.0,2.0,0.0
+77,Commit,absolunet_kafe,2014-03-20 00:06:58,e9c0986b416e715c81f408ec6fc453bd1a13c5ec,62.0,10.0,2.0,0.0
+78,Commit,absolunet_kafe,2014-03-20 00:06:58,04a6b931a284df7d09f3c6f58d74784f8c155842,699.0,411.0,13.0,0.0
+79,Commit,absolunet_kafe,2014-03-20 00:06:58,f269d6c3c4f257a8df8967b9d83bb6b60435aeb2,129.0,0.0,2.0,0.0
+80,Commit,absolunet_kafe,2014-03-20 00:06:58,58d1c5a31bb11c42282f422e7cf984b48bec0d25,74.0,74.0,4.0,0.0
+81,Commit,absolunet_kafe,2014-03-20 00:06:58,2956447ff9cdb9668fcd0e49e5ef192b19e5b30a,12159.0,12155.0,82.0,0.0
+82,Commit,absolunet_kafe,2014-03-20 00:06:58,139b9af6e0f742d1e030ac9449a0d9cf167b626e,65.0,51.0,11.0,0.0
+83,Commit,absolunet_kafe,2014-03-20 00:06:58,60fdcb9f517029ed04181614430e52a5aad92576,180.0,1980.0,13.0,0.0
+84,Commit,absolunet_kafe,2014-03-20 00:06:58,e9f82e451517b86dad38db80c48b7e49d1241b22,105.0,103.0,8.0,0.0
+85,Commit,absolunet_kafe,2014-03-20 00:06:57,5d85df4a7c6ab054f7c1db507e120e0532ee9c15,195.0,175.0,12.0,0.0
+86,Commit,absolunet_kafe,2014-03-20 00:06:57,29a81c02a25522c972aad4c16649e1cbc054f11a,82.0,247.0,7.0,0.0
+87,Commit,absolunet_kafe,2014-03-20 00:06:57,8cca58685a6a86d2bb515e02a319577c7081bae5,65.0,90.0,4.0,0.0
+88,Commit,absolunet_kafe,2014-03-20 00:06:57,9392b73980ab48e0a3596f82b967418f305c7ac2,66.0,63.0,3.0,0.0
+89,Commit,absolunet_kafe,2014-03-20 00:06:57,ca35f9767464ade17f4bb1ba62d89cda3bc2aa9b,233.0,88.0,8.0,0.0
+90,Commit,absolunet_kafe,2014-03-20 00:06:57,441ab048b0605a9bcfefd104121d4f4639178384,174.0,146.0,10.0,0.0
+91,Commit,absolunet_kafe,2014-03-20 00:06:57,bde3168b15341573390b59132204edac15d1239a,357.0,5918.0,180.0,0.0
+92,Commit,absolunet_kafe,2014-03-20 00:06:56,74f810c4cd61bdbc1e23b08e7f22e261992adb9c,5587.0,20073.0,71.0,0.0
+93,Commit,absolunet_kafe,2014-03-20 00:06:56,f237131e4f1164be8a53c9df9f62c1a37929ef73,7478.0,1371.0,13.0,0.0
+94,Commit,absolunet_kafe,2014-03-20 00:06:56,ccdb61b79bede167fba5d9ee2db0a17550af25f2,0.0,11418.0,11.0,0.0
+95,Commit,absolunet_kafe,2014-03-20 00:06:56,0fe1e48c708b689e3fdab4ace0991407d51819fe,9451.0,3223.0,17.0,0.0
+96,Commit,absolunet_kafe,2014-03-20 00:06:56,4f311ae46ea096fbc68edd207fb0fe974b4ec166,144.0,48.0,14.0,0.0
+97,Commit,absolunet_kafe,2014-03-20 00:06:56,49e8cb9b9d8b7f8911fb99afe685658ea3da3e07,168.0,116.0,10.0,0.0
+98,Commit,absolunet_kafe,2014-03-20 00:06:55,9251b28a6405d871639f4a9f8610aaac46723abe,2574.0,4696.0,70.0,0.0
+99,Commit,absolunet_kafe,2014-03-20 00:06:55,dfcf992833d1cfe96d2b708e5f48f367e0ea8c3d,339.0,339.0,326.0,0.0
+100,Commit,absolunet_kafe,2014-03-20 00:06:55,f4c0ba064343ca27160ddb633176a59bdd09e6ff,53.0,8193.0,6.0,0.0
+101,Commit,absolunet_kafe,2014-03-20 00:06:54,58226df0a34db065b0baca4964baaaf7564365a9,8316.0,45.0,41.0,0.0
+102,Commit,absolunet_kafe,2014-03-20 00:06:54,35e9d07a417ece2b94f7124321ba835897d0f82d,3747.0,3592.0,76.0,0.0
+103,Commit,absolunet_kafe,2014-03-20 00:06:54,90e75b222772cc212d91268f4cb14fbf09e80a39,358.0,322.0,94.0,0.0
+104,Commit,absolunet_kafe,2014-03-20 00:06:54,a40376d890f1fc3550f4a2f1f133a2528ba74caf,2847.0,2763.0,81.0,0.0
+105,Commit,absolunet_kafe,2014-03-20 00:06:54,1caa7fb8d4903a5942969d93fe9ec11226b0b0c1,5844.0,7784.0,96.0,0.0
+106,Commit,absolunet_kafe,2014-03-20 00:06:54,a59eaa8fc90d54e9ba5ef981c87303fbef3768f8,24527.0,56660.0,175.0,0.0
+107,Commit,absolunet_kafe,2014-03-20 00:06:53,877a8e8841a062c25236dbe2a947a072b33546b1,790.0,0.0,7.0,0.0
+108,Commit,absolunet_kafe,2014-03-20 00:06:53,89747a0231389bee1d99b26a1ef9757a68718482,48133.0,13684.0,221.0,0.0
+109,Commit,absolunet_kafe,2014-03-20 00:06:53,1a5485cbd53d1a912d028316bee9c30ce0765d42,38587.0,8735.0,208.0,0.0
+110,Commit,absolunet_kafe,2014-03-20 00:06:53,f0f5efdf948387d156852fd1bd98bd5c541154e0,23250.0,28945.0,237.0,0.0
+111,Commit,absolunet_kafe,2014-03-20 00:06:52,9db5286d80be908e66b181885ecc3239a193d77a,46078.0,40.0,129.0,0.0
+112,Commit,absolunet_kafe,2014-03-20 00:06:52,23f91644bec29c3b5cf5962e68fbcaf40ea1639e,60.0,40.0,3.0,0.0
+113,Commit,absolunet_kafe,2014-03-20 00:06:52,e9fa571b1f807ed7abb392048c43e16f02d8922d,347.0,100.0,8.0,0.0
+114,Commit,absolunet_kafe,2014-03-20 00:06:52,f790916182479d93774e2e86263b4d821dd99d8a,253.0,66.0,11.0,0.0
+115,Commit,absolunet_kafe,2014-03-20 00:06:52,e5d5c3543b601fcb4add2449922659fd5866c477,113.0,33.0,8.0,0.0
+116,Commit,absolunet_kafe,2014-03-20 00:06:52,267bb1c10a93f356d1bbf4a0f128973ca80da887,147.0,0.0,8.0,0.0
+117,Commit,absolunet_kafe,2014-03-20 00:06:52,4119073482a3acee697c17a598d7306c39dcf437,9.0,4.0,1.0,0.0
+118,Commit,absolunet_kafe,2014-03-20 00:06:52,90707ce247f39a956b1188297e0a4a907ad87248,23.0,24.0,1.0,0.0
+119,Commit,absolunet_kafe,2014-03-20 00:06:52,9e643d3a992b20b182fc4ae03527c1297ea97e0f,11973.0,6940.0,72.0,0.0
+120,Commit,absolunet_kafe,2014-03-20 00:06:52,cbcec3c78bedfceb710040d4a4aef4abc3bfc54e,52.0,63.0,2.0,0.0
+121,Commit,absolunet_kafe,2014-03-20 00:06:52,0c8656f98a318330b803b882eb0b3fe89b16e822,8.0,0.0,1.0,0.0
+122,Commit,absolunet_kafe,2014-03-20 00:06:52,11d30c8a318b76ab162623c34f858948d094bfe5,86.0,58.0,1.0,0.0
+123,Commit,absolunet_kafe,2014-03-20 00:06:52,b7b8367c7269c5dd4f51c1902dc2341f0afe19be,19.0,0.0,1.0,0.0
+124,Commit,absolunet_kafe,2014-03-20 00:06:51,8a8be0e49b5e45948c6b89fba4f423a41bc45695,54.0,962.0,4.0,0.0
+125,Commit,absolunet_kafe,2014-03-20 00:06:51,b85281ee79d675fe11b7a682b3e5127a2e6eeaa5,681.0,539.0,10.0,0.0
+126,Commit,absolunet_kafe,2014-03-20 00:06:51,943f1020acf6eb6a7a816fee78215fef6513cb17,151.0,36565.0,188.0,0.0
+127,Commit,absolunet_kafe,2014-03-20 00:06:51,aaee1c830639852362ac3f2fab45a2ea4d1b752d,1978.0,1250.0,49.0,0.0
+128,Commit,absolunet_kafe,2014-03-20 00:06:51,d15a7e8257b0f4c4347aede086a86cd71bbe52df,1.0,1.0,1.0,0.0
+129,Commit,absolunet_kafe,2014-03-20 00:06:49,677602c9c52ee7c8aa45fa7d6206fec1b6c04f13,6.0,6.0,1.0,0.0
+130,Commit,absolunet_kafe,2014-03-20 00:06:47,dec846b9a9bb7ede6b7e2c4b379b5ea7682b7820,25.0,14.0,1.0,0.0
+131,Commit,absolunet_kafe,2014-03-20 00:06:47,1dc0aa75f417c978757f812814b89a65445be713,24.0,2.0,1.0,0.0
+132,Commit,absolunet_kafe,2014-03-20 00:06:47,9d90015560a22c668aca43536bda94776f0e91ec,2269.0,632.0,56.0,0.0
+133,Commit,absolunet_kafe,2014-03-20 00:06:47,d654248b2826e8d60252fdab31bedc1b514798df,644.0,192.0,7.0,0.0
+134,Commit,absolunet_kafe,2014-03-20 00:06:47,7708cd624d4aca2134c0ec769bcfd59d08fcc91f,22.0,2.0,1.0,0.0
+135,Commit,absolunet_kafe,2014-03-20 00:06:47,7710d341e35301c8c749fbdc34f9fcae08686d29,600.0,648.0,18.0,0.0
+136,Commit,absolunet_kafe,2014-03-20 00:06:46,894878b803a175633b81eeedc978ed1bf96f624b,1822.0,1040.0,66.0,0.0
+137,Commit,absolunet_kafe,2014-03-20 00:06:46,f10321f73151c7b5fdbffc545c5238a9f526d194,50.0,25.0,1.0,0.0
+138,Commit,absolunet_kafe,2014-03-20 00:06:46,314c882eefcf6988905a42758ded11b1289f82a9,1245.0,1537.0,28.0,0.0
+139,Commit,absolunet_kafe,2014-03-20 00:06:44,1363af4eb05a9af4945c62a1600f157dfd097909,2482.0,1053.0,58.0,0.0
+140,Commit,absolunet_kafe,2014-03-20 00:06:44,1f7af1b877e784f837b1da201136a9e7c1da746e,3.0,0.0,1.0,0.0
+141,Commit,absolunet_kafe,2014-03-20 00:06:42,734247ca51e5dfeec349edfeb06d9bccbd3ee272,0.0,83.0,1.0,0.0
+142,Commit,absolunet_kafe,2014-03-20 00:06:40,8235134e8e59516c8077c98893a8af35e2cba036,2917.0,263.0,53.0,0.0
+143,Commit,absolunet_kafe,2014-03-20 00:06:40,a86392dd49dd88af73118f10486adc55419922bf,52.0,22.0,5.0,0.0
+144,Commit,absolunet_kafe,2014-03-20 00:06:38,ce5219bbe8e14beb810810133ca7dc6b1b986e66,2387.0,12.0,45.0,0.0
+145,Commit,absolunet_kafe,2014-03-20 00:06:36,bd293c4b2e49662b6bee2e1a9a172d3b6fbb70d3,844.0,17.0,41.0,0.0
+146,Commit,absolunet_kafe,2014-03-20 00:06:33,0b3e59c7b2d9ebc783697b86e34d7dcfcde94f9b,4.0,5.0,4.0,0.0
+147,Commit,absolunet_kafe,2014-03-20 00:06:30,410acf102e5b97d73c14f23810ac20a05adf0a32,8018.0,322.0,38.0,0.0
+148,Commit,absolunet_kafe,2014-03-20 00:06:28,f05f6f47d4b031a922afb725507645aeb07d3d4d,202.0,75.0,4.0,0.0
+149,Commit,absolunet_kafe,2014-03-20 00:06:26,78f8fc7feec8ca84afe288b982e4891bb115af07,80.0,8.0,1.0,0.0
+150,Commit,absolunet_kafe,2014-03-20 00:06:26,23de2a9367ec26be61db4ee417dd8ccfa65ff2db,4.0,4.0,1.0,0.0
+151,Commit,absolunet_kafe,2014-03-20 00:06:25,bf73b70345d0ce92b00e3a76e6288b1704451b5c,8746.0,3276.0,53.0,0.0
+152,Commit,absolunet_kafe,2014-03-20 00:06:25,9792ae71555804e60dc82c2d01991f31359dba09,4.0,5.0,1.0,0.0
+153,Commit,absolunet_kafe,2014-03-20 00:06:25,35c207de3dfba0941c48a9832a483a5e802cdc5a,8.0,9.0,1.0,0.0
+154,Commit,absolunet_kafe,2014-03-20 00:06:25,72326c64e5918b5ecd142537eb31dc5af05350be,6279.0,5626.0,110.0,0.0
+155,Commit,absolunet_kafe,2014-03-20 00:06:25,a0d01275fc4481fe9ae2a242fafe97aee61dadf9,529.0,9598.0,4.0,0.0
+156,Commit,absolunet_kafe,2014-03-20 00:06:25,71a191410c7e08231dd553450342769cea078404,9594.0,1048.0,59.0,0.0
+157,Commit,absolunet_kafe,2014-03-20 00:06:25,14ca89bb0de6d9b91d88686b0458cb719621c2ad,1.0,9599.0,2.0,0.0
+158,Commit,absolunet_kafe,2014-03-20 00:06:25,7577ea65e1b8b6fa1d9f38df6a72b9aa1a73fab4,20946.0,186.0,86.0,0.0
+159,Commit,absolunet_kafe,2014-03-20 00:06:25,e05ed2cb74c1af2bece1b3377457a77201bed819,2135.0,1819.0,16.0,0.0
+160,Commit,absolunet_kafe,2014-03-20 00:06:25,c9098f97ce0371017aeb6c9f24617fe0819a36fa,79.0,205.0,1.0,0.0
+161,Commit,absolunet_kafe,2014-03-20 00:06:23,bc061915557df50fc539a6410372acb1100444a6,1924.0,25.0,12.0,0.0
+162,Commit,absolunet_kafe,2014-03-20 00:06:23,08d3623313bafcd20ae06ea2d86d67199eb1e209,29.0,0.0,1.0,0.0
+163,Commit,absolunet_kafe,2014-03-20 00:06:23,fb52e401ada19b2c6d69817712df47c868d08fc2,2.0,0.0,1.0,0.0
+164,Commit,absolunet_kafe,2014-03-20 00:06:22,eb2d5fc5111aa15ac196472b1f96a45c738066e2,4.0,2.0,1.0,0.0
+165,Commit,absolunet_kafe,2014-03-20 00:06:22,a39e8d6a333bf7ea812fe1f11f03b36d7d197c74,31.0,0.0,1.0,0.0
+166,Commit,absolunet_kafe,2014-03-20 00:06:22,b39fde06fcc07e1729e2a921acf27995b3b76355,57.0,21.0,1.0,0.0
+167,Commit,absolunet_kafe,2014-03-20 00:06:22,b961f2b09d816bf941aa6a6ffd34ae38229d8fd8,8.0,0.0,1.0,0.0
+168,Commit,absolunet_kafe,2014-03-20 00:06:22,3c1b61522d38945a641f294bd03fb70af6bd7897,18.0,4.0,2.0,0.0
+169,Commit,absolunet_kafe,2014-03-20 00:06:20,311b3b3fd8ca40d7872f58113b647298d4cfa0e5,4.0,1.0,1.0,0.0
+170,Commit,absolunet_kafe,2014-03-20 00:06:20,46013ba77c118e62758e42068f25df7d3a27d652,2.0,2.0,1.0,0.0
+171,Commit,absolunet_kafe,2014-03-20 00:06:20,eb02b6dfc2227548534c425f24fc538112455d51,16.0,16.0,7.0,0.0
+172,Commit,absolunet_kafe,2014-03-20 00:06:20,00ee4bc63a52a7970510be678f3104019b51495a,444.0,407.0,4.0,0.0
+173,Commit,absolunet_kafe,2014-03-20 00:06:18,9c8221c41b24ad96f73c17f6c7a2d0f0bac27a2c,6.0,2.0,1.0,0.0
+174,Commit,absolunet_kafe,2014-03-20 00:06:18,e096abe01d162e4d36355198ffa22a7be4456b6d,1584.0,10.0,6.0,0.0
+175,Commit,absolunet_kafe,2014-03-20 00:06:18,e8ea3e963005a6c673ef71ceab5965facb26e0d2,1800.0,819.0,47.0,0.0
+176,Commit,absolunet_kafe,2014-03-20 00:06:16,dbbc42f121a3c43d7a80d0117cbc0b402e541900,1.0,1.0,1.0,0.0
+177,Commit,absolunet_kafe,2014-03-20 00:06:14,f8e54694086ebec4177ecb22b37eaf60fb057712,33.0,16.0,1.0,0.0
+178,Commit,absolunet_kafe,2014-03-20 00:06:12,2a946baef15a1ba897032e88add61c4714c9dddd,6.0,5.0,1.0,0.0
+179,Commit,absolunet_kafe,2014-03-20 00:06:09,86b56df2bdbf2f635f590c47aef11921a1efdd72,2.0,2.0,1.0,0.0
+180,Commit,absolunet_kafe,2014-03-20 00:06:07,8bed86e4cd07ebbb9da5bef0dfe44e1e08db612e,7.0,0.0,1.0,0.0
+181,Commit,absolunet_kafe,2014-03-20 00:06:05,7b6b207fceb17921a26150e5c36cb922d18b1e1d,3.0,3.0,1.0,0.0
+182,Commit,absolunet_kafe,2014-03-20 00:06:05,dc65bc2cfc102fe9262eeb3d786dc44bc81af522,408.0,170.0,1.0,0.0
+183,Commit,absolunet_kafe,2014-03-20 00:06:05,5e935730c72b90c52b4444599f34a6db3a914b8d,260.0,1.0,2.0,0.0
+184,Commit,absolunet_kafe,2014-03-20 00:06:05,d10024b94066144961ef823a523b450d8fe860fd,429.0,18.0,12.0,0.0
+185,Commit,absolunet_kafe,2014-03-20 00:06:05,1bb0d04071a36420d8f72d80adc26478c61dd095,5.0,5.0,1.0,0.0
+186,Commit,absolunet_kafe,2014-03-20 00:06:05,97460781ea31ca4bd637b0b5fd3227a83597b599,3.0,3.0,1.0,0.0
+187,Commit,absolunet_kafe,2014-03-20 00:06:05,9a3e5c2d5c5dc5f3f2d329c5b33f9f34e2c8bcd4,1.0,1.0,1.0,0.0
+188,Commit,absolunet_kafe,2014-03-20 00:06:05,41f92ff6138f3f5cb76310f6c0f80a6da211612f,14.0,14.0,11.0,0.0
+189,Commit,absolunet_kafe,2014-03-20 00:06:05,79d44cdbe7dbb3aed012050cee8a5b19030a0c85,164.0,152.0,16.0,0.0
+190,Commit,absolunet_kafe,2014-03-20 00:06:05,c8f04aa6b2f73433703f703bd138f5f84f32b3c2,258.0,26.0,7.0,0.0
+191,Commit,absolunet_kafe,2014-03-20 00:06:05,e8b8596d738a0e3fa31855900a9001c9906d45f5,4940.0,3184.0,14.0,0.0
+192,Commit,absolunet_kafe,2014-03-20 00:06:05,dbea29645046ecd26004198df66ebcb3b6aa6dce,290.0,432.0,14.0,0.0
+193,Commit,absolunet_kafe,2014-03-20 00:06:02,26a72b0612ec4857b932e28b9fb56c5b7e5aec2d,18.0,4.0,1.0,0.0
+194,Commit,absolunet_kafe,2014-03-20 00:06:00,6a8d48703ad79dde08dbb318c8b5e275d7559f75,6.0,6.0,1.0,0.0
+195,Commit,absolunet_kafe,2014-03-20 00:06:00,dfe1b4bde3365bfd032db2b6bbd58c26f0d79c20,35.0,37.0,1.0,0.0
+196,Commit,absolunet_kafe,2014-03-20 00:06:00,6b732f77baf6187cd882387ab31872da84808889,89.0,6.0,2.0,0.0
+197,Commit,absolunet_kafe,2014-03-20 00:05:58,81e4564e2d396f9a8d6210fea9a9b9a759563dd6,1.0,0.0,1.0,0.0
+198,Commit,absolunet_kafe,2014-03-20 00:05:58,c9c53bc51580d4751b0eb1b503bbc572e993c93c,173.0,0.0,1.0,0.0
+199,Commit,absolunet_kafe,2014-03-20 00:05:58,71fdf0d61cfae5709a5d9fdc1b7e6e407e4fe2fe,34.0,31.0,1.0,0.0
+200,Commit,absolunet_kafe,2014-03-20 00:05:58,78336e472f515364af17103053152ab6014be367,411.0,0.0,1.0,0.0
+201,Commit,absolunet_kafe,2014-03-20 00:05:58,b43c1af2bc00f6358f7b11170963743fb6aa840a,0.0,1.0,1.0,0.0
+202,Commit,absolunet_kafe,2014-03-20 00:05:58,d3d7f1d89b4c048e6c51f9fae12dffff005b5fea,6.0,5.0,1.0,0.0
+203,Commit,absolunet_kafe,2014-03-20 00:05:56,fd40678452e41eb87bb6631de323c3fbf51cebe2,21.0,20.0,1.0,0.0
+204,Commit,absolunet_kafe,2014-03-20 00:05:55,ee43d09211d76f9f74affeb8dbeb38d731a9a9ac,1.0,1.0,1.0,0.0
+205,Commit,absolunet_kafe,2014-03-20 00:05:55,a35bd0daea32b6590fce840fe17a41b7f9e74cbb,2085.0,682.0,2.0,0.0
+206,Commit,absolunet_kafe,2014-03-20 00:05:55,cf022d173fc6de8b6cc035fdc9dedbefbb3d01e3,773.0,773.0,7.0,0.0
+207,Commit,absolunet_kafe,2014-03-20 00:05:55,7a850e3d13ffcc851f6874632451705530eebfb2,1.0,1.0,1.0,0.0
+208,Commit,absolunet_kafe,2014-03-20 00:05:55,3000606fcfd5ad96aa3674c62f7b56d20ef52049,9.0,9.0,1.0,0.0
+209,Commit,absolunet_kafe,2014-03-20 00:05:55,3ba3c62898ffd005c852129ca09802dcb9216c1e,15.0,10.0,1.0,0.0
+210,Commit,absolunet_kafe,2014-03-20 00:05:53,208e82e76de93527b13017dc170aca1a9e8a51ba,0.0,0.0,1.0,0.0
+211,Commit,absolunet_kafe,2014-03-20 00:05:53,dd588e1b81e926af76d5226fd9832b8fb7653d7c,1670.0,255.0,5.0,0.0
+212,Commit,absolunet_kafe,2014-03-20 00:05:53,4df299bbd6a2b121d5b493173975a39eae6f82e2,66.0,66.0,4.0,0.0
+213,Commit,absolunet_kafe,2014-03-20 00:05:53,9a3c570fb35691c1ac4d4088590bc13d6ff368c8,16.0,0.0,1.0,0.0
+214,Commit,absolunet_kafe,2014-03-20 00:05:53,3f006bfe4d2d921ca197fd7c488321f5e0f9d0eb,4.0,2.0,1.0,0.0
+215,Commit,absolunet_kafe,2014-03-20 00:05:51,bf47f4c2099fceed728766729c456b7d9b266c0b,1.0,1.0,1.0,0.0
+216,Commit,absolunet_kafe,2014-03-20 00:05:51,5d45b223504b6771225cb4fdcf2fcb47df01300e,10.0,0.0,1.0,0.0
+217,Commit,absolunet_kafe,2014-03-20 00:05:51,daf00f2ce6c579fb5616053d83e3c89f74270783,2.0,26.0,1.0,0.0
+218,Commit,absolunet_kafe,2014-03-20 00:05:50,c1c9cdd50ec204333fa278aa5998fd173d080e79,46.0,1.0,1.0,0.0
+219,Commit,absolunet_kafe,2014-03-20 00:05:50,2c376049239ea0bf2585e7a7d2eed35831797b31,3.0,2.0,1.0,0.0
+220,Commit,absolunet_kafe,2014-03-20 00:05:50,4eb6a30b5aae15f8a7171c73f2ac78c75b6f1d91,2.0,1.0,1.0,0.0
+221,Commit,absolunet_kafe,2014-03-20 00:05:50,01bb1af5dec07dd3c399f993a6a086912c617ba7,52.0,21.0,1.0,0.0
+222,Commit,absolunet_kafe,2014-03-20 00:05:50,b4fea355cd034bd2e2deba1e83fe8d6e3b0c193c,21.0,0.0,1.0,0.0
+223,Commit,absolunet_kafe,2014-03-20 00:05:50,a52aedf8aa5e51de0bd6441d9998433967308341,176.0,6.0,2.0,0.0
+224,Commit,absolunet_kafe,2014-03-20 00:05:50,994178e047fcfa581a2b993cc0a5227258bd9ebe,5.0,2.0,1.0,0.0
+225,Commit,absolunet_kafe,2014-03-20 00:05:48,a2d9f27d9427326f52d5ec57fbc3aed77e3a158a,15.0,1.0,1.0,0.0
+226,Commit,absolunet_kafe,2014-03-20 00:05:48,7fa4fd5ba6a16e73b1f09c13d32fbd2de7e2f627,1.0,1.0,1.0,0.0
+227,Commit,absolunet_kafe,2014-03-20 00:05:48,c2dcd4c8ef82f6dcab82338eeb52cde3980467b7,1.0,1.0,1.0,0.0
+228,Commit,absolunet_kafe,2014-03-20 00:05:48,37df5a4d8e110a31957435085ab7d899c570ae46,480.0,0.0,1.0,0.0
+229,Commit,absolunet_kafe,2014-03-20 00:05:48,f39b43cc3fa6ff99f81c9afc638ae2f90e8da0fe,4.0,4.0,3.0,0.0
+230,Commit,absolunet_kafe,2014-03-20 00:05:47,2056a4663a4f18793376a578c40cf85983db6859,1117.0,965.0,3.0,0.0
+231,Commit,absolunet_kafe,2014-03-20 00:05:47,e8e6db4380ca2efb5c079699c8e2b7ffe06930a6,158.0,162.0,4.0,0.0
+232,Commit,absolunet_kafe,2014-03-20 00:05:47,09b275c8d7584445cbffd6b7dcb8a23a8c71167d,262.0,48.0,3.0,0.0
+233,Commit,absolunet_kafe,2014-03-20 00:05:47,1c0e58934a0279a049424acb53a668e83b885dc5,1.0,0.0,1.0,0.0
+234,Commit,absolunet_kafe,2014-03-20 00:05:45,9692da792910fecdf8700f18340e39d30f5de190,1.0,1.0,1.0,0.0
+235,Commit,absolunet_kafe,2014-03-20 00:05:45,4c97511fe2c9715e406a3396da420e4c9a8a92e1,2.0,2.0,1.0,0.0
+236,Commit,absolunet_kafe,2014-03-20 00:05:43,ab10dcf4f4d9caffbce7c89608aab5a7937d337c,135.0,14.0,2.0,0.0
+237,Commit,absolunet_kafe,2014-03-20 00:05:43,ea2fb7b6fa4e2b9e750a8c4b40d8e4b7e4124fba,1.0,1.0,1.0,0.0
+238,Commit,absolunet_kafe,2014-03-20 00:05:41,bf84441eff6fac167bcef8e1bb312b97e15626f9,63.0,12.0,4.0,0.0
+239,Commit,absolunet_kafe,2014-03-20 00:05:41,b5152ae82083645240a9bddede977f4441e9a654,1132.0,2.0,3.0,0.0
+240,Commit,absolunet_kafe,2014-03-20 00:05:39,0fc54994e6d4139979aee0d076a0b96f0763d5fc,3.0,1.0,1.0,0.0
+241,Commit,absolunet_kafe,2014-03-20 00:05:39,8a99d72cf9d2b9ea3ff53fc7d4dd6ecc00e82a75,1.0,1.0,1.0,0.0
+242,Commit,absolunet_kafe,2014-03-20 00:05:37,9be599cbb1dfa7a06e6ecba25da306a2b6aa9654,1.0,1.0,1.0,0.0
+243,Commit,absolunet_kafe,2014-03-20 00:05:37,cc2965f2307ed5fb1d6dadb0540bb12ea0d8ead5,8.0,10.0,1.0,0.0
+244,Commit,absolunet_kafe,2014-03-20 00:05:34,f0f248e651664e665ea9e5cef02e6de176a1a03a,6.0,5.0,1.0,0.0
+245,Commit,absolunet_kafe,2014-03-20 00:05:34,15480dcdd7fa18733fa8f868c8e107694c288633,5.0,5.0,2.0,0.0
+246,Commit,absolunet_kafe,2014-03-20 00:05:34,bc720364e9b8f8d797e714c6afd20e8aeb899b59,715.0,0.0,1.0,0.0
+247,Commit,absolunet_kafe,2014-03-20 00:05:34,cb7b72b3024c819a306a22b933aa03a10e3d73f3,585.0,579.0,1.0,0.0
+248,Commit,absolunet_kafe,2014-03-20 00:05:32,54a7629756ea4e8e562032f865dfb33e1ce40c1f,8.0,1.0,1.0,0.0
+249,Commit,absolunet_kafe,2014-03-20 00:05:32,4d7ffc0a8492f505c6a585218f16ddbdd68c5e30,3.0,2.0,1.0,0.0
+250,Commit,absolunet_kafe,2014-03-20 00:05:32,82fcc47ef35c032d9051e09b297584aee96fb622,237.0,0.0,2.0,0.0
+251,Commit,absolunet_kafe,2014-03-20 00:05:32,04d9241fc4aa19900cc0f4a11673e7c6e8fbd6ad,639.0,642.0,1.0,0.0
+252,Commit,absolunet_kafe,2014-03-20 00:05:32,4b653164f0039aca8f8c99a734135e07879082b9,9.0,6.0,1.0,0.0
+253,Commit,absolunet_kafe,2014-03-20 00:05:32,7c2661c93a00c7d9f344b7adbc51ea6e6c98ada7,71.0,64.0,1.0,0.0
+254,Commit,absolunet_kafe,2014-03-20 00:05:29,877df3580f81b11f1d2828903369d37c3c3bb214,21.0,10.0,1.0,0.0
+255,Commit,absolunet_kafe,2014-03-20 00:05:27,cdcddd2b3d4aaecf12f043462c8e3e1ddc97dc07,2.0,2.0,1.0,0.0
+256,Commit,absolunet_kafe,2014-03-20 00:05:24,7ce7ae62e232ffe831a2c72f48e35459294a055b,1.0,1.0,1.0,0.0
+257,Commit,absolunet_kafe,2014-03-20 00:05:20,d13b28d4d1cbd8c668b0ed706f91b4ef5210a05f,22.0,11.0,1.0,0.0
+258,Commit,absolunet_kafe,2014-03-20 00:05:20,e36be823af92d1ba3665704dbc5277fb0fe4fd5d,557.0,565.0,1.0,0.0
+259,Commit,absolunet_kafe,2014-03-20 00:05:20,05734083f63734ae2a7b30e22387a5c2b2a2ec99,566.0,0.0,1.0,0.0
+260,Commit,absolunet_kafe,2014-03-20 00:05:17,e624c8ae74e5ed091a2227e07f4b02617ebf3dfa,114.0,14.0,4.0,0.0
+261,Commit,absolunet_kafe,2014-03-20 00:05:14,d43237931d6c3961fb985ab5b6d013f9a3ff6543,208.0,0.0,4.0,0.0
+262,Commit,absolunet_kafe,2014-03-20 00:05:11,89ad601ab3a0515eea75862a7908ba2f2fabe1b4,11.0,11.0,1.0,0.0
+263,Commit,absolunet_kafe,2014-03-20 00:05:09,fe389e8d7ee8d0d086d3b6b2aecc050926126320,124.0,28.0,5.0,0.0
+264,Commit,absolunet_kafe,2014-03-20 00:05:06,c4c39105862217e2f6d88c3f144d21cfadeff65c,219.0,0.0,5.0,0.0
+265,Commit,absolunet_kafe,2014-03-20 00:05:06,020b65db4206937cae611ab25e2da2b057545078,1.0,1.0,1.0,0.0
+266,Commit,absolunet_kafe,2014-03-20 00:05:06,1a9d52a5dc2325bbf7ba6bd4f88c43a28cea1592,789.0,707.0,4.0,0.0
+267,Commit,absolunet_kafe,2014-03-20 00:05:06,20cc3520bb2ac7e957834f3516b12b37c3a1a32f,709.0,0.0,2.0,0.0
+268,Commit,absolunet_kafe,2014-03-20 00:05:06,37bd0c9e02bfd3c767f7c90a831b0e79bd8aa8a2,6.0,5.0,6.0,0.0
+269,Commit,absolunet_kafe,2014-03-20 00:05:06,3ba1236068311d4ac3ea64cb0d87aa5396c0d1e0,131.0,28.0,3.0,0.0
+270,Commit,absolunet_kafe,2014-03-20 00:05:06,29c3e1b24c20de6ce9de2bb3e8b6dbe94f81978b,30.0,23.0,3.0,0.0
+271,Commit,absolunet_kafe,2014-03-20 00:05:06,85384c36007455a93f4e2c91e887c6dc89f47648,284.0,276.0,16.0,0.0
+272,Commit,absolunet_kafe,2014-03-20 00:05:06,dc96c00ca9e3205323cfd3ffda9589e1dda2b38f,138.0,7.0,4.0,0.0
+273,Commit,absolunet_kafe,2014-03-20 00:05:02,c2cc144a7ad12d1fb2e10abb7fb4100572af27a7,1.0,1.0,1.0,0.0
+274,Commit,absolunet_kafe,2014-03-20 00:05:02,5efe854147dff5390f83fbd705af80f73dcff6ab,4.0,2.0,1.0,0.0
+275,Commit,absolunet_kafe,2014-03-20 00:04:55,1f466b479723456165e2229c6018a96f9f358d8e,3.0,0.0,1.0,0.0
+276,Commit,absolunet_kafe,2014-03-20 00:04:51,28927d4b09adbab33ffd674f07cc82ad0e5bc20c,104.0,27.0,1.0,0.0
+277,Commit,absolunet_kafe,2014-03-20 00:04:51,97403bfa1cff00bb83829d35dcb4126aac570c24,888.0,0.0,3.0,0.0
+278,Commit,absolunet_kafe,2014-03-20 00:04:51,7f29ce0a78e90125a7d2731da5db0d1d08a3f3cd,0.0,8657.0,72.0,0.0
+279,Commit,absolunet_kafe,2014-03-20 00:04:51,85e4835eedbad58c131dc88760787561747d7f76,19.0,2.0,2.0,0.0
+280,Commit,absolunet_kafe,2014-03-20 00:04:51,1743f60b850fbe8eb0e76e0efb9aaadf6f094830,34.0,4.0,1.0,0.0
+281,Commit,absolunet_kafe,2014-03-20 00:04:51,51863526787cb058a600d823547c7249ba5944d9,172.0,175.0,13.0,0.0
+282,Commit,absolunet_kafe,2014-03-20 00:04:51,fb50474ee18462431aadd422ef10d33b85b1ae94,35.0,1.0,1.0,0.0
+283,Commit,absolunet_kafe,2014-03-20 00:04:45,f89758acb9fd245f68d6df3ff5991f7260731665,25.0,11.0,1.0,0.0
+284,Commit,absolunet_kafe,2014-03-20 00:04:42,383432117092c529c07e400307f517d6e6c0551d,2.0,1.0,1.0,0.0
+285,Commit,absolunet_kafe,2014-03-20 00:04:38,4e64e46d9db932d75ab8666c8074ff0ec03eda39,1192.0,0.0,2.0,0.0
+286,Commit,absolunet_kafe,2014-03-20 00:04:34,46a3a153e8a65fd982b668e73c76c8d1d70aadb4,9.0,9.0,1.0,0.0
+287,Commit,absolunet_kafe,2014-03-20 00:04:34,909e0d9e6bca31bee1f2f4548cc3373e95bc1539,71.0,57.0,1.0,0.0
+288,Commit,absolunet_kafe,2014-03-20 00:04:16,a11f8c81db8f5c75a9bceb989a90817e1db0a08b,7.0,7.0,1.0,0.0
+289,Commit,absolunet_kafe,2014-03-20 00:01:22,6a13c203c2eded280e270a13a457c296de675d9c,8657.0,0.0,72.0,0.0
+290,Commit,absolunet_kafe,2011-05-10 17:52:45,ed7f6fd2504988fe266d8a70b2fae948a9c3f78d,5.0,4.0,1.0,0.0
+291,Commit,absolunet_kafe,2011-04-27 15:22:10,008c57045e58111d762e55077afcdd2cb6a56e64,103.0,96.0,4.0,0.0
+292,Commit,absolunet_kafe,2011-04-27 11:57:53,81811b61271728287fdb786fff7c4c94ac2ed884,70.0,2.0,1.0,0.0
+293,Commit,absolunet_kafe,2011-04-26 18:13:56,12503f60ab2d0f1e14ea611ec98bde73e28131a9,9.0,9.0,1.0,0.0
+294,Commit,absolunet_kafe,2011-04-21 13:54:42,4318e10166be47fa00b3c04c10acb7648191df96,59.0,0.0,1.0,0.0
+295,Commit,absolunet_kafe,2011-04-19 15:23:22,8df7eb69c6247e22ab55a807a565f623109c8fe8,253.0,25.0,6.0,0.0
+296,Commit,absolunet_kafe,2011-04-11 19:40:48,b0438e6f16b837aaec1ae95771eda39e87a13fa5,116.0,14.0,12.0,0.0
+297,Commit,absolunet_kafe,2011-04-11 17:24:02,eafa54f579002b0a124164f6c19cd4b5ea9d7ce9,8178.0,0.0,63.0,0.0
+0,forks,absolunet_kafe,2016-08-02 15:18:28+00:00,,,,,
+1,forks,absolunet_kafe,2016-08-18 15:20:19+00:00,,,,,
+2,forks,absolunet_kafe,2017-11-07 15:50:38+00:00,,,,,
+3,forks,absolunet_kafe,2017-11-20 20:41:44+00:00,,,,,
+4,forks,absolunet_kafe,2018-12-06 16:46:48+00:00,,,,,
+0,issues,absolunet_kafe,2016-04-26 19:56:19+00:00,,,,,
+1,issues,absolunet_kafe,2016-05-06 20:01:19+00:00,,,,,
+2,issues,absolunet_kafe,2016-05-06 20:02:12+00:00,,,,,
+3,issues,absolunet_kafe,2016-05-06 20:03:12+00:00,,,,,
+4,issues,absolunet_kafe,2016-05-06 20:05:30+00:00,,,,,
+5,issues,absolunet_kafe,2016-05-06 20:06:12+00:00,,,,,
+0,pullRequests,absolunet_kafe,2016-08-02 15:23:36+00:00,,,,,
+1,pullRequests,absolunet_kafe,2016-08-18 15:24:43+00:00,,,,,
+2,pullRequests,absolunet_kafe,2016-08-30 15:28:27+00:00,,,,,
+3,pullRequests,absolunet_kafe,2017-07-20 17:09:08+00:00,,,,,
+4,pullRequests,absolunet_kafe,2017-11-07 16:21:11+00:00,,,,,
+5,pullRequests,absolunet_kafe,2017-11-20 20:44:20+00:00,,,,,
+6,pullRequests,absolunet_kafe,2018-12-06 18:08:55+00:00,,,,,
+0,releases,absolunet_kafe,2014-03-20 00:07:00+00:00,,,,,
+1,releases,absolunet_kafe,2014-04-28 03:31:40+00:00,,,,,
+2,releases,absolunet_kafe,2014-08-27 20:04:36+00:00,,,,,
+3,releases,absolunet_kafe,2014-10-01 14:08:08+00:00,,,,,
+4,releases,absolunet_kafe,2014-10-16 15:48:04+00:00,,,,,
+5,releases,absolunet_kafe,2015-10-06 17:45:23+00:00,,,,,
+6,releases,absolunet_kafe,2015-10-11 21:20:47+00:00,,,,,
+7,releases,absolunet_kafe,2015-11-25 20:15:47+00:00,,,,,
+8,releases,absolunet_kafe,2015-12-17 20:13:23+00:00,,,,,
+9,releases,absolunet_kafe,2016-04-08 16:11:03+00:00,,,,,
+10,releases,absolunet_kafe,2016-04-26 20:24:58+00:00,,,,,
+11,releases,absolunet_kafe,2016-07-21 16:11:25+00:00,,,,,
+12,releases,absolunet_kafe,2016-08-04 19:15:20+00:00,,,,,
+13,releases,absolunet_kafe,2016-08-18 20:03:44+00:00,,,,,
+14,releases,absolunet_kafe,2016-08-30 18:42:38+00:00,,,,,
+15,releases,absolunet_kafe,2016-11-02 21:14:40+00:00,,,,,
+16,releases,absolunet_kafe,2017-02-01 16:04:54+00:00,,,,,
+17,releases,absolunet_kafe,2017-08-28 13:48:49+00:00,,,,,
+18,releases,absolunet_kafe,2017-10-19 15:59:21+00:00,,,,,
+19,releases,absolunet_kafe,2017-11-09 14:23:10+00:00,,,,,
+20,releases,absolunet_kafe,2019-03-26 13:00:52+00:00,,,,,
+21,releases,absolunet_kafe,2019-04-17 18:45:24+00:00,,,,,
+22,releases,absolunet_kafe,2019-05-07 18:27:59+00:00,,,,,
+23,releases,absolunet_kafe,2019-05-07 19:06:20+00:00,,,,,
+0,stargazers,absolunet_kafe,2014-01-31 00:57:34+00:00,,,,,
+1,stargazers,absolunet_kafe,2014-03-20 13:59:30+00:00,,,,,
+2,stargazers,absolunet_kafe,2014-03-24 13:51:56+00:00,,,,,
+3,stargazers,absolunet_kafe,2015-12-05 09:25:00+00:00,,,,,
+4,stargazers,absolunet_kafe,2017-11-21 22:33:07+00:00,,,,,

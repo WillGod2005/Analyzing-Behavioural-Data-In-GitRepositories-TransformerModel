@@ -1,0 +1,1602 @@
+,type,name,created_at,Hash,Add,Del,Files,Vuln
+5406,CreateEvent,dankogai_p5-encode,2015-04-15 23:15:31 UTC,,,,,
+101277,PullRequestEvent,dankogai_p5-encode,2015-12-09 22:37:36 UTC,,,,,
+109114,PullRequestEvent,dankogai_p5-encode,2015-10-22 20:00:11 UTC,,,,,
+140916,PullRequestEvent,dankogai_p5-encode,2015-03-12 00:02:33 UTC,,,,,
+149217,IssueCommentEvent,dankogai_p5-encode,2015-04-01 07:29:04 UTC,,,,,
+171018,PushEvent,dankogai_p5-encode,2015-02-04 05:00:01 UTC,,,,,
+175039,PushEvent,dankogai_p5-encode,2015-02-05 16:31:39 UTC,,,,,
+216322,PullRequestEvent,dankogai_p5-encode,2015-03-28 23:57:08 UTC,,,,,
+290931,CreateEvent,dankogai_p5-encode,2015-09-15 13:54:39 UTC,,,,,
+303078,PullRequestEvent,dankogai_p5-encode,2015-11-12 09:21:35 UTC,,,,,
+313493,PushEvent,dankogai_p5-encode,2015-02-05 10:55:26 UTC,,,,,
+329204,ForkEvent,dankogai_p5-encode,2015-11-13 16:14:46 UTC,,,,,
+394496,PullRequestEvent,dankogai_p5-encode,2015-02-24 06:16:42 UTC,,,,,
+404765,PushEvent,dankogai_p5-encode,2015-09-14 02:17:31 UTC,,,,,
+469124,CreateEvent,dankogai_p5-encode,2015-02-05 10:55:29 UTC,,,,,
+558441,PushEvent,dankogai_p5-encode,2015-01-06 14:30:08 UTC,,,,,
+562116,ForkEvent,dankogai_p5-encode,2015-01-25 03:34:51 UTC,,,,,
+570298,PushEvent,dankogai_p5-encode,2015-09-14 02:41:38 UTC,,,,,
+579895,PullRequestEvent,dankogai_p5-encode,2015-08-31 17:47:20 UTC,,,,,
+586279,PushEvent,dankogai_p5-encode,2015-05-14 07:36:41 UTC,,,,,
+586293,PushEvent,dankogai_p5-encode,2015-03-30 14:40:11 UTC,,,,,
+598024,PushEvent,dankogai_p5-encode,2015-09-15 13:49:19 UTC,,,,,
+626972,CreateEvent,dankogai_p5-encode,2015-03-12 00:08:09 UTC,,,,,
+671326,IssueCommentEvent,dankogai_p5-encode,2015-03-09 12:33:17 UTC,,,,,
+689327,PushEvent,dankogai_p5-encode,2015-03-12 00:02:33 UTC,,,,,
+701256,PushEvent,dankogai_p5-encode,2015-01-20 00:11:01 UTC,,,,,
+748104,ForkEvent,dankogai_p5-encode,2015-11-13 15:56:40 UTC,,,,,
+762061,PullRequestEvent,dankogai_p5-encode,2015-02-05 15:39:53 UTC,,,,,
+791910,ForkEvent,dankogai_p5-encode,2015-01-22 00:32:27 UTC,,,,,
+805557,PullRequestEvent,dankogai_p5-encode,2015-07-31 02:04:42 UTC,,,,,
+829317,PullRequestEvent,dankogai_p5-encode,2015-01-22 01:05:45 UTC,,,,,
+841192,PullRequestEvent,dankogai_p5-encode,2015-02-01 12:14:34 UTC,,,,,
+844628,CreateEvent,dankogai_p5-encode,2015-01-22 10:22:13 UTC,,,,,
+874707,PushEvent,dankogai_p5-encode,2015-02-04 06:07:17 UTC,,,,,
+897801,CommitCommentEvent,dankogai_p5-encode,2015-09-24 02:16:28 UTC,,,,,
+925429,CommitCommentEvent,dankogai_p5-encode,2015-09-24 16:11:58 UTC,,,,,
+957161,ForkEvent,dankogai_p5-encode,2015-09-24 13:40:33 UTC,,,,,
+966793,PullRequestEvent,dankogai_p5-encode,2015-01-22 00:43:48 UTC,,,,,
+1000217,ForkEvent,dankogai_p5-encode,2015-01-19 14:03:39 UTC,,,,,
+1017326,CreateEvent,dankogai_p5-encode,2015-06-25 00:51:52 UTC,,,,,
+1020155,PushEvent,dankogai_p5-encode,2015-06-30 10:03:53 UTC,,,,,
+1023884,ForkEvent,dankogai_p5-encode,2015-11-29 01:02:27 UTC,,,,,
+1139220,WatchEvent,dankogai_p5-encode,2015-12-09 22:25:06 UTC,,,,,
+1160370,IssueCommentEvent,dankogai_p5-encode,2015-02-05 10:31:48 UTC,,,,,
+1201322,CommitCommentEvent,dankogai_p5-encode,2015-03-22 03:21:01 UTC,,,,,
+1211373,PullRequestEvent,dankogai_p5-encode,2015-01-31 21:51:51 UTC,,,,,
+1213734,PushEvent,dankogai_p5-encode,2015-02-24 06:32:58 UTC,,,,,
+1231115,IssuesEvent,dankogai_p5-encode,2015-03-09 12:33:17 UTC,,,,,
+1233801,PushEvent,dankogai_p5-encode,2015-02-05 16:34:45 UTC,,,,,
+1247045,IssuesEvent,dankogai_p5-encode,2015-01-21 07:20:35 UTC,,,,,
+1259214,PullRequestEvent,dankogai_p5-encode,2015-09-24 13:53:31 UTC,,,,,
+1273397,PushEvent,dankogai_p5-encode,2015-06-24 23:58:56 UTC,,,,,
+1308324,CommitCommentEvent,dankogai_p5-encode,2015-09-23 05:49:32 UTC,,,,,
+1336455,PushEvent,dankogai_p5-encode,2015-04-02 11:36:18 UTC,,,,,
+1356367,PushEvent,dankogai_p5-encode,2015-02-01 12:14:34 UTC,,,,,
+1372241,PushEvent,dankogai_p5-encode,2015-06-25 00:15:26 UTC,,,,,
+1373876,PullRequestEvent,dankogai_p5-encode,2015-01-20 00:11:01 UTC,,,,,
+1399764,ForkEvent,dankogai_p5-encode,2015-07-30 12:11:42 UTC,,,,,
+1448666,CreateEvent,dankogai_p5-encode,2015-03-14 02:46:26 UTC,,,,,
+1449461,IssueCommentEvent,dankogai_p5-encode,2015-10-29 14:48:49 UTC,,,,,
+1515715,DeleteEvent,dankogai_p5-encode,2015-06-30 10:03:27 UTC,,,,,
+1518416,PushEvent,dankogai_p5-encode,2015-09-15 13:54:35 UTC,,,,,
+1537894,ForkEvent,dankogai_p5-encode,2015-09-24 19:55:42 UTC,,,,,
+1566909,IssuesEvent,dankogai_p5-encode,2015-02-05 10:31:48 UTC,,,,,
+1595415,IssueCommentEvent,dankogai_p5-encode,2015-04-01 17:59:10 UTC,,,,,
+1606874,PullRequestEvent,dankogai_p5-encode,2015-01-22 09:00:48 UTC,,,,,
+1606897,PullRequestEvent,dankogai_p5-encode,2015-03-31 22:34:41 UTC,,,,,
+1633006,PushEvent,dankogai_p5-encode,2015-06-25 00:51:49 UTC,,,,,
+1642210,CreateEvent,dankogai_p5-encode,2015-06-30 10:03:56 UTC,,,,,
+1692688,PushEvent,dankogai_p5-encode,2015-11-12 09:21:36 UTC,,,,,
+1745514,CreateEvent,dankogai_p5-encode,2015-02-05 10:37:11 UTC,,,,,
+1753888,PullRequestEvent,dankogai_p5-encode,2015-12-21 03:57:31 UTC,,,,,
+1765782,PullRequestEvent,dankogai_p5-encode,2015-02-05 15:35:05 UTC,,,,,
+1769611,PullRequestEvent,dankogai_p5-encode,2015-02-05 16:31:38 UTC,,,,,
+1771746,ForkEvent,dankogai_p5-encode,2015-02-02 17:11:28 UTC,,,,,
+1777858,IssueCommentEvent,dankogai_p5-encode,2015-10-22 14:25:35 UTC,,,,,
+1801193,PullRequestEvent,dankogai_p5-encode,2015-02-24 06:32:58 UTC,,,,,
+1807249,ForkEvent,dankogai_p5-encode,2015-02-24 05:54:13 UTC,,,,,
+1835238,PushEvent,dankogai_p5-encode,2015-11-02 17:13:14 UTC,,,,,
+1836855,PullRequestEvent,dankogai_p5-encode,2015-11-02 17:13:12 UTC,,,,,
+1852914,PullRequestEvent,dankogai_p5-encode,2015-03-30 14:40:11 UTC,,,,,
+1874634,CommitCommentEvent,dankogai_p5-encode,2015-09-23 18:53:05 UTC,,,,,
+1878939,ForkEvent,dankogai_p5-encode,2015-02-05 15:29:51 UTC,,,,,
+1885086,IssueCommentEvent,dankogai_p5-encode,2015-02-04 06:09:04 UTC,,,,,
+1892612,PullRequestEvent,dankogai_p5-encode,2015-11-07 11:50:36 UTC,,,,,
+1908763,IssueCommentEvent,dankogai_p5-encode,2015-04-02 11:53:02 UTC,,,,,
+1956744,IssueCommentEvent,dankogai_p5-encode,2015-04-01 18:18:27 UTC,,,,,
+1968156,PullRequestEvent,dankogai_p5-encode,2015-11-29 01:12:10 UTC,,,,,
+1974224,ForkEvent,dankogai_p5-encode,2015-12-09 22:33:27 UTC,,,,,
+1999799,PullRequestEvent,dankogai_p5-encode,2015-04-02 07:17:05 UTC,,,,,
+2002138,PushEvent,dankogai_p5-encode,2015-03-09 12:32:05 UTC,,,,,
+2069480,PushEvent,dankogai_p5-encode,2015-04-02 12:07:53 UTC,,,,,
+2105506,PushEvent,dankogai_p5-encode,2015-06-05 03:42:00 UTC,,,,,
+2135487,IssueCommentEvent,dankogai_p5-encode,2015-07-31 01:51:00 UTC,,,,,
+2148536,CommitCommentEvent,dankogai_p5-encode,2015-09-23 03:56:00 UTC,,,,,
+2156738,ForkEvent,dankogai_p5-encode,2015-09-15 17:54:27 UTC,,,,,
+2182239,PullRequestEvent,dankogai_p5-encode,2015-01-19 14:41:56 UTC,,,,,
+2200412,PushEvent,dankogai_p5-encode,2015-09-24 02:14:51 UTC,,,,,
+2235828,PushEvent,dankogai_p5-encode,2015-09-14 02:28:54 UTC,,,,,
+2271582,PushEvent,dankogai_p5-encode,2015-01-06 19:25:27 UTC,,,,,
+2359902,PullRequestEvent,dankogai_p5-encode,2015-09-14 01:59:24 UTC,,,,,
+2405598,PushEvent,dankogai_p5-encode,2015-01-22 10:22:08 UTC,,,,,
+2434952,PullRequestEvent,dankogai_p5-encode,2015-07-31 00:10:55 UTC,,,,,
+2453025,PushEvent,dankogai_p5-encode,2015-03-12 00:08:06 UTC,,,,,
+2497330,IssuesEvent,dankogai_p5-encode,2015-02-05 03:54:03 UTC,,,,,
+2521232,PullRequestEvent,dankogai_p5-encode,2015-02-04 05:00:00 UTC,,,,,
+2535450,PushEvent,dankogai_p5-encode,2015-07-31 02:19:23 UTC,,,,,
+2547129,PushEvent,dankogai_p5-encode,2015-09-17 16:03:12 UTC,,,,,
+2547189,PushEvent,dankogai_p5-encode,2015-02-05 10:37:03 UTC,,,,,
+2552764,PullRequestEvent,dankogai_p5-encode,2015-12-04 04:24:54 UTC,,,,,
+2555077,PushEvent,dankogai_p5-encode,2015-04-15 23:15:30 UTC,,,,,
+2584955,IssueCommentEvent,dankogai_p5-encode,2015-02-04 16:57:37 UTC,,,,,
+2610473,PushEvent,dankogai_p5-encode,2015-03-14 02:46:23 UTC,,,,,
+2673464,ForkEvent,dankogai_p5-encode,2015-01-22 08:48:23 UTC,,,,,
+2714368,PullRequestEvent,dankogai_p5-encode,2015-01-22 10:13:48 UTC,,,,,
+2753414,IssuesEvent,dankogai_p5-encode,2015-03-04 10:52:23 UTC,,,,,
+2767844,PushEvent,dankogai_p5-encode,2015-01-22 01:05:46 UTC,,,,,
+2801141,PullRequestEvent,dankogai_p5-encode,2015-02-05 16:34:44 UTC,,,,,
+2835312,PushEvent,dankogai_p5-encode,2015-04-02 07:17:06 UTC,,,,,
+2864232,PullRequestEvent,dankogai_p5-encode,2015-03-11 16:17:56 UTC,,,,,
+2882375,PushEvent,dankogai_p5-encode,2015-07-31 02:04:43 UTC,,,,,
+2893943,ForkEvent,dankogai_p5-encode,2015-11-07 11:49:11 UTC,,,,,
+2907133,CreateEvent,dankogai_p5-encode,2015-06-30 10:01:13 UTC,,,,,
+2926678,CreateEvent,dankogai_p5-encode,2015-09-24 02:21:11 UTC,,,,,
+2949046,PushEvent,dankogai_p5-encode,2015-09-24 02:21:07 UTC,,,,,
+2960834,PushEvent,dankogai_p5-encode,2015-12-21 03:57:31 UTC,,,,,
+2976732,PushEvent,dankogai_p5-encode,2015-12-04 04:24:54 UTC,,,,,
+2976781,PushEvent,dankogai_p5-encode,2015-01-22 10:13:48 UTC,,,,,
+3044426,PushEvent,dankogai_p5-encode,2015-09-14 01:59:24 UTC,,,,,
+3060118,PushEvent,dankogai_p5-encode,2015-06-25 00:44:46 UTC,,,,,
+3116664,CreateEvent,dankogai_p5-encode,2015-07-31 02:19:24 UTC,,,,,
+3192282,IssueCommentEvent,dankogai_p5-encode,2015-04-02 10:15:03 UTC,,,,,
+3275015,PullRequestEvent,dankogai_p5-encode,2015-09-24 13:58:11 UTC,,,,,
+3296968,ForkEvent,dankogai_p5-encode,2015-09-12 00:32:36 UTC,,,,,
+34991,PushEvent,dankogai_p5-encode,2016-01-25 17:21:25 UTC,,,,,
+42750,PullRequestEvent,dankogai_p5-encode,2016-10-26 23:31:51 UTC,,,,,
+52130,PullRequestEvent,dankogai_p5-encode,2016-10-26 22:29:21 UTC,,,,,
+52399,IssueCommentEvent,dankogai_p5-encode,2016-04-25 16:43:29 UTC,,,,,
+68157,IssueCommentEvent,dankogai_p5-encode,2016-10-26 22:59:25 UTC,,,,,
+71036,PullRequestEvent,dankogai_p5-encode,2016-02-05 23:30:43 UTC,,,,,
+82478,PushEvent,dankogai_p5-encode,2016-06-14 08:01:09 UTC,,,,,
+86985,PullRequestEvent,dankogai_p5-encode,2016-11-29 23:06:26 UTC,,,,,
+90522,IssueCommentEvent,dankogai_p5-encode,2016-03-24 08:44:24 UTC,,,,,
+103215,IssueCommentEvent,dankogai_p5-encode,2016-08-05 14:25:12 UTC,,,,,
+144219,PullRequestEvent,dankogai_p5-encode,2016-12-08 22:27:38 UTC,,,,,
+207588,IssueCommentEvent,dankogai_p5-encode,2016-05-08 10:03:03 UTC,,,,,
+226379,IssueCommentEvent,dankogai_p5-encode,2016-08-17 08:35:48 UTC,,,,,
+229199,PullRequestEvent,dankogai_p5-encode,2016-09-22 12:51:45 UTC,,,,,
+279693,IssueCommentEvent,dankogai_p5-encode,2016-12-14 06:00:27 UTC,,,,,
+292344,IssueCommentEvent,dankogai_p5-encode,2016-08-05 15:27:52 UTC,,,,,
+307561,PullRequestEvent,dankogai_p5-encode,2016-03-21 23:04:06 UTC,,,,,
+312457,PushEvent,dankogai_p5-encode,2016-06-23 06:40:32 UTC,,,,,
+323249,PullRequestEvent,dankogai_p5-encode,2016-08-19 04:05:32 UTC,,,,,
+326455,PullRequestEvent,dankogai_p5-encode,2016-09-28 16:06:41 UTC,,,,,
+328277,PushEvent,dankogai_p5-encode,2016-09-28 16:06:41 UTC,,,,,
+342727,IssueCommentEvent,dankogai_p5-encode,2016-07-31 21:33:34 UTC,,,,,
+371090,IssueCommentEvent,dankogai_p5-encode,2016-03-22 00:12:39 UTC,,,,,
+389600,PullRequestEvent,dankogai_p5-encode,2016-10-28 01:36:32 UTC,,,,,
+420077,PushEvent,dankogai_p5-encode,2016-11-29 23:04:33 UTC,,,,,
+426062,ForkEvent,dankogai_p5-encode,2016-08-08 16:25:52 UTC,,,,,
+432414,ForkEvent,dankogai_p5-encode,2016-02-25 17:19:58 UTC,,,,,
+440242,PullRequestEvent,dankogai_p5-encode,2016-11-23 04:06:16 UTC,,,,,
+442100,PushEvent,dankogai_p5-encode,2016-06-23 07:05:37 UTC,,,,,
+470228,PushEvent,dankogai_p5-encode,2016-06-23 06:32:16 UTC,,,,,
+478252,IssueCommentEvent,dankogai_p5-encode,2016-08-10 05:59:00 UTC,,,,,
+487733,IssueCommentEvent,dankogai_p5-encode,2016-08-17 09:01:44 UTC,,,,,
+494198,IssueCommentEvent,dankogai_p5-encode,2016-04-01 18:52:46 UTC,,,,,
+497382,IssueCommentEvent,dankogai_p5-encode,2016-08-04 03:08:22 UTC,,,,,
+498923,PushEvent,dankogai_p5-encode,2016-03-24 07:52:44 UTC,,,,,
+562858,CreateEvent,dankogai_p5-encode,2016-02-06 19:28:07 UTC,,,,,
+580784,PushEvent,dankogai_p5-encode,2016-08-10 17:57:30 UTC,,,,,
+594802,PullRequestEvent,dankogai_p5-encode,2016-10-26 22:58:32 UTC,,,,,
+610838,IssueCommentEvent,dankogai_p5-encode,2016-09-28 16:17:28 UTC,,,,,
+610841,IssueCommentEvent,dankogai_p5-encode,2016-12-13 04:25:59 UTC,,,,,
+620315,IssueCommentEvent,dankogai_p5-encode,2016-05-12 12:16:15 UTC,,,,,
+621854,PushEvent,dankogai_p5-encode,2016-01-22 06:47:23 UTC,,,,,
+632674,PullRequestEvent,dankogai_p5-encode,2016-10-26 23:12:15 UTC,,,,,
+637650,PushEvent,dankogai_p5-encode,2016-11-22 12:05:33 UTC,,,,,
+642413,IssueCommentEvent,dankogai_p5-encode,2016-07-30 18:55:19 UTC,,,,,
+664092,PullRequestEvent,dankogai_p5-encode,2016-12-16 22:51:34 UTC,,,,,
+677026,IssueCommentEvent,dankogai_p5-encode,2016-08-16 21:35:44 UTC,,,,,
+699124,IssueCommentEvent,dankogai_p5-encode,2016-02-06 20:00:45 UTC,,,,,
+701993,PullRequestEvent,dankogai_p5-encode,2016-11-19 20:42:28 UTC,,,,,
+702311,IssueCommentEvent,dankogai_p5-encode,2016-11-29 22:58:55 UTC,,,,,
+724368,IssueCommentEvent,dankogai_p5-encode,2016-08-22 13:50:51 UTC,,,,,
+739967,IssueCommentEvent,dankogai_p5-encode,2016-12-19 23:19:08 UTC,,,,,
+741485,PushEvent,dankogai_p5-encode,2016-06-23 06:13:09 UTC,,,,,
+742791,PullRequestEvent,dankogai_p5-encode,2016-07-09 23:04:34 UTC,,,,,
+746228,IssueCommentEvent,dankogai_p5-encode,2016-08-16 11:46:40 UTC,,,,,
+748816,IssuesEvent,dankogai_p5-encode,2016-11-20 09:55:01 UTC,,,,,
+783709,PullRequestEvent,dankogai_p5-encode,2016-10-26 22:32:26 UTC,,,,,
+790303,IssueCommentEvent,dankogai_p5-encode,2016-11-23 18:11:34 UTC,,,,,
+791807,PushEvent,dankogai_p5-encode,2016-02-06 20:20:19 UTC,,,,,
+796359,PullRequestEvent,dankogai_p5-encode,2016-11-22 12:08:53 UTC,,,,,
+802858,IssueCommentEvent,dankogai_p5-encode,2016-11-03 22:33:11 UTC,,,,,
+839270,PushEvent,dankogai_p5-encode,2016-10-28 02:08:13 UTC,,,,,
+844082,IssueCommentEvent,dankogai_p5-encode,2016-11-23 10:33:29 UTC,,,,,
+848858,PushEvent,dankogai_p5-encode,2016-11-01 13:32:01 UTC,,,,,
+853727,IssueCommentEvent,dankogai_p5-encode,2016-11-19 20:43:36 UTC,,,,,
+856877,IssueCommentEvent,dankogai_p5-encode,2016-10-28 02:10:26 UTC,,,,,
+865981,PullRequestEvent,dankogai_p5-encode,2016-09-28 15:14:14 UTC,,,,,
+911859,PushEvent,dankogai_p5-encode,2016-08-22 03:28:25 UTC,,,,,
+941907,IssueCommentEvent,dankogai_p5-encode,2016-11-20 15:41:47 UTC,,,,,
+946507,ForkEvent,dankogai_p5-encode,2016-09-22 12:38:59 UTC,,,,,
+954287,PullRequestEvent,dankogai_p5-encode,2016-11-22 12:05:32 UTC,,,,,
+957813,IssueCommentEvent,dankogai_p5-encode,2016-11-09 03:07:46 UTC,,,,,
+988959,PullRequestEvent,dankogai_p5-encode,2016-11-29 22:58:50 UTC,,,,,
+990724,PushEvent,dankogai_p5-encode,2016-02-26 04:28:17 UTC,,,,,
+998452,PullRequestEvent,dankogai_p5-encode,2016-05-08 10:02:04 UTC,,,,,
+1017728,IssueCommentEvent,dankogai_p5-encode,2016-06-14 12:36:28 UTC,,,,,
+1029890,IssuesEvent,dankogai_p5-encode,2016-03-24 08:21:47 UTC,,,,,
+1047850,PushEvent,dankogai_p5-encode,2016-03-22 00:11:13 UTC,,,,,
+1050946,PushEvent,dankogai_p5-encode,2016-10-28 05:06:11 UTC,,,,,
+1050947,PushEvent,dankogai_p5-encode,2016-08-10 18:10:11 UTC,,,,,
+1074060,CreateEvent,dankogai_p5-encode,2016-01-25 14:55:24 UTC,,,,,
+1112397,PullRequestEvent,dankogai_p5-encode,2016-12-09 10:12:18 UTC,,,,,
+1115577,PullRequestEvent,dankogai_p5-encode,2016-11-19 23:27:23 UTC,,,,,
+1137348,CreateEvent,dankogai_p5-encode,2016-02-06 20:20:37 UTC,,,,,
+1169761,IssueCommentEvent,dankogai_p5-encode,2016-08-19 07:28:11 UTC,,,,,
+1194405,IssuesEvent,dankogai_p5-encode,2016-08-22 20:22:02 UTC,,,,,
+1194915,IssueCommentEvent,dankogai_p5-encode,2016-12-08 23:26:52 UTC,,,,,
+1229502,IssueCommentEvent,dankogai_p5-encode,2016-08-05 15:17:00 UTC,,,,,
+1242135,IssueCommentEvent,dankogai_p5-encode,2016-08-10 06:14:40 UTC,,,,,
+1242169,IssueCommentEvent,dankogai_p5-encode,2016-08-17 08:00:22 UTC,,,,,
+1262740,PushEvent,dankogai_p5-encode,2016-01-26 10:41:13 UTC,,,,,
+1289472,IssueCommentEvent,dankogai_p5-encode,2016-12-22 00:28:53 UTC,,,,,
+1295769,IssueCommentEvent,dankogai_p5-encode,2016-08-20 09:10:59 UTC,,,,,
+1303573,PushEvent,dankogai_p5-encode,2016-08-10 17:44:00 UTC,,,,,
+1311011,PullRequestEvent,dankogai_p5-encode,2016-10-26 23:07:08 UTC,,,,,
+1325540,PushEvent,dankogai_p5-encode,2016-07-12 09:07:43 UTC,,,,,
+1326884,PullRequestEvent,dankogai_p5-encode,2016-10-27 00:08:24 UTC,,,,,
+1333422,IssueCommentEvent,dankogai_p5-encode,2016-02-06 19:20:25 UTC,,,,,
+1355191,PullRequestEvent,dankogai_p5-encode,2016-03-22 00:11:12 UTC,,,,,
+1358297,PullRequestEvent,dankogai_p5-encode,2016-12-14 05:59:42 UTC,,,,,
+1358640,IssueCommentEvent,dankogai_p5-encode,2016-09-28 16:26:55 UTC,,,,,
+1386985,IssueCommentEvent,dankogai_p5-encode,2016-08-17 09:18:17 UTC,,,,,
+1396552,IssueCommentEvent,dankogai_p5-encode,2016-03-24 09:25:49 UTC,,,,,
+1399379,PullRequestEvent,dankogai_p5-encode,2016-11-23 18:46:27 UTC,,,,,
+1407576,PushEvent,dankogai_p5-encode,2016-02-06 19:14:06 UTC,,,,,
+1421460,PullRequestEvent,dankogai_p5-encode,2016-08-22 03:28:24 UTC,,,,,
+1497935,IssueCommentEvent,dankogai_p5-encode,2016-08-20 18:02:53 UTC,,,,,
+1535682,PullRequestEvent,dankogai_p5-encode,2016-11-22 12:14:54 UTC,,,,,
+1545105,PullRequestEvent,dankogai_p5-encode,2016-10-28 01:20:41 UTC,,,,,
+1546763,ForkEvent,dankogai_p5-encode,2016-07-27 04:35:55 UTC,,,,,
+1561032,PullRequestEvent,dankogai_p5-encode,2016-02-26 04:28:17 UTC,,,,,
+1572223,PushEvent,dankogai_p5-encode,2016-02-06 19:28:04 UTC,,,,,
+1585971,IssuesEvent,dankogai_p5-encode,2016-03-24 07:46:03 UTC,,,,,
+1606940,PushEvent,dankogai_p5-encode,2016-10-26 23:07:08 UTC,,,,,
+1610150,PushEvent,dankogai_p5-encode,2016-08-04 03:08:12 UTC,,,,,
+1614857,IssueCommentEvent,dankogai_p5-encode,2016-09-26 07:46:47 UTC,,,,,
+1641541,PushEvent,dankogai_p5-encode,2016-11-23 04:06:17 UTC,,,,,
+1677430,PullRequestEvent,dankogai_p5-encode,2016-08-16 21:35:14 UTC,,,,,
+1683756,PullRequestEvent,dankogai_p5-encode,2016-07-22 07:56:28 UTC,,,,,
+1688854,PushEvent,dankogai_p5-encode,2016-07-22 08:29:33 UTC,,,,,
+1693569,IssueCommentEvent,dankogai_p5-encode,2016-08-22 20:08:39 UTC,,,,,
+1696674,IssueCommentEvent,dankogai_p5-encode,2016-09-28 15:15:18 UTC,,,,,
+1706124,IssueCommentEvent,dankogai_p5-encode,2016-10-26 22:34:48 UTC,,,,,
+1752064,PushEvent,dankogai_p5-encode,2016-10-26 22:32:26 UTC,,,,,
+1765863,PullRequestEvent,dankogai_p5-encode,2016-03-11 05:13:27 UTC,,,,,
+1786457,ForkEvent,dankogai_p5-encode,2016-11-21 17:09:38 UTC,,,,,
+1786462,ForkEvent,dankogai_p5-encode,2016-07-09 22:38:36 UTC,,,,,
+1799878,WatchEvent,dankogai_p5-encode,2016-05-09 09:09:20 UTC,,,,,
+1813567,IssueCommentEvent,dankogai_p5-encode,2016-11-23 14:47:36 UTC,,,,,
+1815992,CreateEvent,dankogai_p5-encode,2016-01-22 06:47:28 UTC,,,,,
+1819474,PullRequestEvent,dankogai_p5-encode,2016-11-23 08:57:09 UTC,,,,,
+1854633,IssueCommentEvent,dankogai_p5-encode,2016-12-16 23:04:55 UTC,,,,,
+1872058,PushEvent,dankogai_p5-encode,2016-01-25 14:42:51 UTC,,,,,
+1889069,IssueCommentEvent,dankogai_p5-encode,2016-12-10 01:39:22 UTC,,,,,
+1901524,IssueCommentEvent,dankogai_p5-encode,2016-03-24 08:05:09 UTC,,,,,
+1914009,IssueCommentEvent,dankogai_p5-encode,2016-08-11 21:45:44 UTC,,,,,
+1948900,IssueCommentEvent,dankogai_p5-encode,2016-09-26 08:45:04 UTC,,,,,
+1958364,IssueCommentEvent,dankogai_p5-encode,2016-04-25 14:47:26 UTC,,,,,
+1974212,IssueCommentEvent,dankogai_p5-encode,2016-10-26 23:09:30 UTC,,,,,
+1975296,CommitCommentEvent,dankogai_p5-encode,2016-02-25 17:47:00 UTC,,,,,
+1982009,PushEvent,dankogai_p5-encode,2016-10-26 23:31:52 UTC,,,,,
+2005616,IssueCommentEvent,dankogai_p5-encode,2016-08-18 12:35:02 UTC,,,,,
+2008753,IssueCommentEvent,dankogai_p5-encode,2016-07-11 01:38:08 UTC,,,,,
+2017790,PullRequestEvent,dankogai_p5-encode,2016-07-27 05:17:01 UTC,,,,,
+2030086,CreateEvent,dankogai_p5-encode,2016-04-11 07:17:51 UTC,,,,,
+2046139,PullRequestEvent,dankogai_p5-encode,2016-11-09 03:07:27 UTC,,,,,
+2049616,IssueCommentEvent,dankogai_p5-encode,2016-11-22 12:09:49 UTC,,,,,
+2065023,PullRequestEvent,dankogai_p5-encode,2016-11-01 20:58:54 UTC,,,,,
+2066631,ForkEvent,dankogai_p5-encode,2016-04-11 12:27:37 UTC,,,,,
+2115598,PullRequestEvent,dankogai_p5-encode,2016-10-26 23:58:47 UTC,,,,,
+2120400,ForkEvent,dankogai_p5-encode,2016-03-23 19:53:59 UTC,,,,,
+2125419,IssueCommentEvent,dankogai_p5-encode,2016-09-29 12:40:46 UTC,,,,,
+2131525,PullRequestEvent,dankogai_p5-encode,2016-08-10 06:14:02 UTC,,,,,
+2131843,IssueCommentEvent,dankogai_p5-encode,2016-08-20 18:01:21 UTC,,,,,
+2158842,PushEvent,dankogai_p5-encode,2016-10-28 01:20:42 UTC,,,,,
+2188469,IssuesEvent,dankogai_p5-encode,2016-08-16 22:17:04 UTC,,,,,
+2188734,PullRequestEvent,dankogai_p5-encode,2016-10-22 10:59:08 UTC,,,,,
+2234661,PushEvent,dankogai_p5-encode,2016-01-26 01:51:58 UTC,,,,,
+2239414,IssueCommentEvent,dankogai_p5-encode,2016-08-16 22:36:53 UTC,,,,,
+2242550,IssueCommentEvent,dankogai_p5-encode,2016-08-18 08:26:22 UTC,,,,,
+2248810,IssueCommentEvent,dankogai_p5-encode,2016-03-23 20:43:12 UTC,,,,,
+2254925,PullRequestEvent,dankogai_p5-encode,2016-04-11 12:55:14 UTC,,,,,
+2264394,IssueCommentEvent,dankogai_p5-encode,2016-08-18 10:07:09 UTC,,,,,
+2291477,PushEvent,dankogai_p5-encode,2016-11-29 23:06:26 UTC,,,,,
+2304214,PushEvent,dankogai_p5-encode,2016-07-11 01:58:08 UTC,,,,,
+2387203,PullRequestEvent,dankogai_p5-encode,2016-03-10 21:21:44 UTC,,,,,
+2388546,PullRequestReviewCommentEvent,dankogai_p5-encode,2016-08-10 07:11:16 UTC,,,,,
+2441175,IssueCommentEvent,dankogai_p5-encode,2016-08-16 22:16:54 UTC,,,,,
+2441222,IssueCommentEvent,dankogai_p5-encode,2016-07-12 09:13:13 UTC,,,,,
+2441232,IssueCommentEvent,dankogai_p5-encode,2016-11-29 23:35:21 UTC,,,,,
+2445611,ForkEvent,dankogai_p5-encode,2016-01-07 10:07:06 UTC,,,,,
+2447416,IssueCommentEvent,dankogai_p5-encode,2016-03-24 17:51:38 UTC,,,,,
+2474121,PushEvent,dankogai_p5-encode,2016-12-14 05:59:43 UTC,,,,,
+2475408,PullRequestEvent,dankogai_p5-encode,2016-08-08 18:04:46 UTC,,,,,
+2503929,PullRequestEvent,dankogai_p5-encode,2016-03-29 18:56:35 UTC,,,,,
+2513752,IssueCommentEvent,dankogai_p5-encode,2016-02-26 04:28:27 UTC,,,,,
+2542576,IssueCommentEvent,dankogai_p5-encode,2016-12-23 02:16:23 UTC,,,,,
+2555206,IssueCommentEvent,dankogai_p5-encode,2016-03-24 17:43:55 UTC,,,,,
+2583189,PullRequestEvent,dankogai_p5-encode,2016-09-29 01:14:19 UTC,,,,,
+2589761,IssueCommentEvent,dankogai_p5-encode,2016-09-26 07:49:42 UTC,,,,,
+2592956,IssueCommentEvent,dankogai_p5-encode,2016-04-14 12:42:02 UTC,,,,,
+2601149,WatchEvent,dankogai_p5-encode,2016-08-23 14:53:10 UTC,,,,,
+2641828,PushEvent,dankogai_p5-encode,2016-12-08 23:24:24 UTC,,,,,
+2654504,PushEvent,dankogai_p5-encode,2016-08-10 06:14:02 UTC,,,,,
+2657722,PushEvent,dankogai_p5-encode,2016-07-11 01:22:00 UTC,,,,,
+2660924,PushEvent,dankogai_p5-encode,2016-11-29 23:33:50 UTC,,,,,
+2671993,IssueCommentEvent,dankogai_p5-encode,2016-08-10 18:01:22 UTC,,,,,
+2681261,IssueCommentEvent,dankogai_p5-encode,2016-07-11 01:23:38 UTC,,,,,
+2684463,IssueCommentEvent,dankogai_p5-encode,2016-08-19 04:29:01 UTC,,,,,
+2715612,PullRequestEvent,dankogai_p5-encode,2016-07-11 01:22:00 UTC,,,,,
+2725142,PullRequestEvent,dankogai_p5-encode,2016-04-04 21:01:59 UTC,,,,,
+2748832,ForkEvent,dankogai_p5-encode,2016-05-08 08:09:22 UTC,,,,,
+2772184,PullRequestEvent,dankogai_p5-encode,2016-04-01 18:51:19 UTC,,,,,
+2794206,PullRequestEvent,dankogai_p5-encode,2016-08-11 21:14:46 UTC,,,,,
+2794485,IssueCommentEvent,dankogai_p5-encode,2016-08-16 22:43:29 UTC,,,,,
+2802408,PushEvent,dankogai_p5-encode,2016-04-14 12:40:51 UTC,,,,,
+2816710,IssueCommentEvent,dankogai_p5-encode,2016-03-24 11:10:28 UTC,,,,,
+2821304,PushEvent,dankogai_p5-encode,2016-09-29 01:14:19 UTC,,,,,
+2859116,PushEvent,dankogai_p5-encode,2016-01-25 14:55:21 UTC,,,,,
+2875017,PushEvent,dankogai_p5-encode,2016-01-26 10:52:44 UTC,,,,,
+2881304,PushEvent,dankogai_p5-encode,2016-08-10 05:25:24 UTC,,,,,
+2901676,IssueCommentEvent,dankogai_p5-encode,2016-08-10 03:35:01 UTC,,,,,
+2914274,IssueCommentEvent,dankogai_p5-encode,2016-10-26 23:31:55 UTC,,,,,
+2925242,PushEvent,dankogai_p5-encode,2016-11-09 03:07:28 UTC,,,,,
+2931459,ForkEvent,dankogai_p5-encode,2016-03-10 21:20:22 UTC,,,,,
+2948940,IssueCommentEvent,dankogai_p5-encode,2016-10-28 02:10:49 UTC,,,,,
+2956635,PushEvent,dankogai_p5-encode,2016-08-11 21:43:24 UTC,,,,,
+2958289,IssueCommentEvent,dankogai_p5-encode,2016-08-10 07:13:00 UTC,,,,,
+2964290,PullRequestEvent,dankogai_p5-encode,2016-12-10 01:39:15 UTC,,,,,
+2973864,PullRequestEvent,dankogai_p5-encode,2016-08-04 03:08:12 UTC,,,,,
+2977254,IssueCommentEvent,dankogai_p5-encode,2016-08-15 22:55:43 UTC,,,,,
+2983485,IssueCommentEvent,dankogai_p5-encode,2016-07-27 16:29:02 UTC,,,,,
+3005030,IssuesEvent,dankogai_p5-encode,2016-03-24 07:46:03 UTC,,,,,
+3043376,IssueCommentEvent,dankogai_p5-encode,2016-08-22 20:22:02 UTC,,,,,
+3073195,PushEvent,dankogai_p5-encode,2016-08-19 04:05:33 UTC,,,,,
+3139310,PushEvent,dankogai_p5-encode,2016-05-08 10:02:05 UTC,,,,,
+3167457,ForkEvent,dankogai_p5-encode,2016-07-22 07:50:53 UTC,,,,,
+3173994,PushEvent,dankogai_p5-encode,2016-11-29 22:58:51 UTC,,,,,
+3190513,IssuesEvent,dankogai_p5-encode,2016-08-04 16:25:04 UTC,,,,,
+3192561,PushEvent,dankogai_p5-encode,2016-07-11 01:36:10 UTC,,,,,
+3193842,PullRequestEvent,dankogai_p5-encode,2016-10-21 20:45:52 UTC,,,,,
+3222770,IssueCommentEvent,dankogai_p5-encode,2016-08-20 17:58:03 UTC,,,,,
+3232127,IssueCommentEvent,dankogai_p5-encode,2016-08-16 22:50:20 UTC,,,,,
+3244148,CreateEvent,dankogai_p5-encode,2016-11-29 23:33:53 UTC,,,,,
+3248063,IssueCommentEvent,dankogai_p5-encode,2016-07-11 07:13:06 UTC,,,,,
+3251038,IssueCommentEvent,dankogai_p5-encode,2016-08-19 20:56:27 UTC,,,,,
+3251062,IssueCommentEvent,dankogai_p5-encode,2016-07-11 02:17:18 UTC,,,,,
+3257374,IssueCommentEvent,dankogai_p5-encode,2016-07-11 07:12:32 UTC,,,,,
+3260473,IssueCommentEvent,dankogai_p5-encode,2016-10-28 01:23:47 UTC,,,,,
+3263130,IssuesEvent,dankogai_p5-encode,2016-08-22 20:08:39 UTC,,,,,
+3270019,IssueCommentEvent,dankogai_p5-encode,2016-07-22 08:32:59 UTC,,,,,
+3284009,ForkEvent,dankogai_p5-encode,2016-02-05 23:14:45 UTC,,,,,
+3301445,IssueCommentEvent,dankogai_p5-encode,2016-08-16 22:25:41 UTC,,,,,
+3362687,PushEvent,dankogai_p5-encode,2016-11-22 12:08:53 UTC,,,,,
+3372071,PushEvent,dankogai_p5-encode,2016-08-04 03:18:20 UTC,,,,,
+3384609,PushEvent,dankogai_p5-encode,2016-03-11 05:13:28 UTC,,,,,
+3390893,PushEvent,dankogai_p5-encode,2016-01-22 06:19:24 UTC,,,,,
+3407938,PullRequestEvent,dankogai_p5-encode,2016-04-14 12:40:51 UTC,,,,,
+3430067,PullRequestEvent,dankogai_p5-encode,2016-02-25 17:50:36 UTC,,,,,
+3433388,IssueCommentEvent,dankogai_p5-encode,2016-04-14 13:15:14 UTC,,,,,
+3455602,IssueCommentEvent,dankogai_p5-encode,2016-07-12 07:25:31 UTC,,,,,
+3458528,PullRequestEvent,dankogai_p5-encode,2016-05-08 09:18:35 UTC,,,,,
+3461964,IssueCommentEvent,dankogai_p5-encode,2016-03-29 00:06:34 UTC,,,,,
+3515686,IssueCommentEvent,dankogai_p5-encode,2016-10-26 22:31:03 UTC,,,,,
+3518294,IssuesEvent,dankogai_p5-encode,2016-03-24 07:46:03 UTC,,,,,
+3521427,CreateEvent,dankogai_p5-encode,2016-08-10 18:10:15 UTC,,,,,
+3556375,PullRequestEvent,dankogai_p5-encode,2016-11-22 12:07:37 UTC,,,,,
+3559256,IssuesEvent,dankogai_p5-encode,2016-08-10 16:54:18 UTC,,,,,
+3562643,PullRequestEvent,dankogai_p5-encode,2016-12-12 12:51:55 UTC,,,,,
+3579866,ForkEvent,dankogai_p5-encode,2016-12-12 18:43:35 UTC,,,,,
+3592729,PushEvent,dankogai_p5-encode,2016-12-10 01:39:15 UTC,,,,,
+3595486,PullRequestReviewCommentEvent,dankogai_p5-encode,2016-08-10 05:58:33 UTC,,,,,
+3616306,IssueCommentEvent,dankogai_p5-encode,2016-07-27 16:27:48 UTC,,,,,
+3644287,PullRequestEvent,dankogai_p5-encode,2016-12-08 23:24:23 UTC,,,,,
+3660542,IssueCommentEvent,dankogai_p5-encode,2016-08-18 20:11:08 UTC,,,,,
+3682377,PullRequestEvent,dankogai_p5-encode,2016-02-06 19:14:06 UTC,,,,,
+3682689,IssueCommentEvent,dankogai_p5-encode,2016-10-21 20:46:20 UTC,,,,,
+3685563,PullRequestEvent,dankogai_p5-encode,2016-11-29 23:04:32 UTC,,,,,
+3698511,IssueCommentEvent,dankogai_p5-encode,2016-09-28 16:29:14 UTC,,,,,
+3745840,IssueCommentEvent,dankogai_p5-encode,2016-08-18 07:31:53 UTC,,,,,
+3750481,PushEvent,dankogai_p5-encode,2016-06-23 06:02:37 UTC,,,,,
+3774323,IssueCommentEvent,dankogai_p5-encode,2016-11-20 13:25:36 UTC,,,,,
+3774345,IssueCommentEvent,dankogai_p5-encode,2016-08-20 17:38:31 UTC,,,,,
+3824685,PullRequestEvent,dankogai_p5-encode,2016-11-29 21:56:27 UTC,,,,,
+3848415,PushEvent,dankogai_p5-encode,2016-10-26 22:29:22 UTC,,,,,
+3875337,IssueCommentEvent,dankogai_p5-encode,2016-08-16 22:44:32 UTC,,,,,
+3890397,CreateEvent,dankogai_p5-encode,2016-11-29 23:33:53 UTC,,,,,
+3894244,IssueCommentEvent,dankogai_p5-encode,2016-10-27 00:09:43 UTC,,,,,
+3903314,PullRequestEvent,dankogai_p5-encode,2016-10-27 07:38:33 UTC,,,,,
+3906733,IssueCommentEvent,dankogai_p5-encode,2016-12-13 21:31:58 UTC,,,,,
+3921940,PullRequestEvent,dankogai_p5-encode,2016-07-22 08:29:32 UTC,,,,,
+3921942,PullRequestEvent,dankogai_p5-encode,2016-10-28 02:08:13 UTC,,,,,
+3928557,IssueCommentEvent,dankogai_p5-encode,2016-08-16 23:10:24 UTC,,,,,
+3938170,IssueCommentEvent,dankogai_p5-encode,2016-07-30 18:57:53 UTC,,,,,
+3966374,CreateEvent,dankogai_p5-encode,2016-08-04 03:18:22 UTC,,,,,
+3992016,PullRequestEvent,dankogai_p5-encode,2016-08-11 21:43:24 UTC,,,,,
+3992315,IssueCommentEvent,dankogai_p5-encode,2016-10-26 23:38:21 UTC,,,,,
+4001661,IssueCommentEvent,dankogai_p5-encode,2016-11-22 12:10:26 UTC,,,,,
+4020516,IssueCommentEvent,dankogai_p5-encode,2016-08-10 07:16:22 UTC,,,,,
+4045384,PullRequestEvent,dankogai_p5-encode,2016-08-20 09:01:21 UTC,,,,,
+4045742,IssueCommentEvent,dankogai_p5-encode,2016-02-06 20:40:09 UTC,,,,,
+4048555,PullRequestEvent,dankogai_p5-encode,2016-11-09 17:04:09 UTC,,,,,
+4058369,IssueCommentEvent,dankogai_p5-encode,2016-03-24 18:00:38 UTC,,,,,
+4063059,PushEvent,dankogai_p5-encode,2016-10-27 00:08:24 UTC,,,,,
+4065756,PullRequestReviewCommentEvent,dankogai_p5-encode,2016-08-09 10:54:05 UTC,,,,,
+4088136,PushEvent,dankogai_p5-encode,2016-04-11 07:17:48 UTC,,,,,
+4103933,PushEvent,dankogai_p5-encode,2016-01-22 05:15:11 UTC,,,,,
+4127411,IssueCommentEvent,dankogai_p5-encode,2016-10-21 20:46:33 UTC,,,,,
+4128985,PushEvent,dankogai_p5-encode,2016-11-22 12:07:38 UTC,,,,,
+4130636,IssueCommentEvent,dankogai_p5-encode,2016-09-29 08:10:45 UTC,,,,,
+4144822,PushEvent,dankogai_p5-encode,2016-04-04 21:02:00 UTC,,,,,
+4165578,IssueCommentEvent,dankogai_p5-encode,2016-08-18 10:45:25 UTC,,,,,
+4168177,IssuesEvent,dankogai_p5-encode,2016-03-24 09:31:02 UTC,,,,,
+39836,CommitCommentEvent,dankogai_p5-encode,2017-06-22 08:28:59 UTC,,,,,
+43103,CommitCommentEvent,dankogai_p5-encode,2017-06-22 08:57:31 UTC,,,,,
+146647,ForkEvent,dankogai_p5-encode,2017-08-29 16:15:32 UTC,,,,,
+296714,ForkEvent,dankogai_p5-encode,2017-10-02 23:32:03 UTC,,,,,
+341503,PushEvent,dankogai_p5-encode,2017-06-10 00:36:52 UTC,,,,,
+346122,PushEvent,dankogai_p5-encode,2017-05-08 10:20:24 UTC,,,,,
+353551,PushEvent,dankogai_p5-encode,2017-06-10 16:49:19 UTC,,,,,
+367816,PushEvent,dankogai_p5-encode,2017-04-19 03:33:28 UTC,,,,,
+376485,PushEvent,dankogai_p5-encode,2017-06-22 08:05:20 UTC,,,,,
+385650,PushEvent,dankogai_p5-encode,2017-09-13 02:30:39 UTC,,,,,
+406567,PushEvent,dankogai_p5-encode,2017-05-29 15:25:48 UTC,,,,,
+431356,PushEvent,dankogai_p5-encode,2017-06-19 17:17:44 UTC,,,,,
+436250,PushEvent,dankogai_p5-encode,2017-10-03 09:04:07 UTC,,,,,
+473041,PushEvent,dankogai_p5-encode,2017-09-06 00:18:02 UTC,,,,,
+496425,PushEvent,dankogai_p5-encode,2017-05-17 01:51:21 UTC,,,,,
+552776,PushEvent,dankogai_p5-encode,2017-05-08 17:57:05 UTC,,,,,
+567481,PushEvent,dankogai_p5-encode,2017-06-22 08:12:31 UTC,,,,,
+590520,PushEvent,dankogai_p5-encode,2017-07-18 04:28:45 UTC,,,,,
+618642,PushEvent,dankogai_p5-encode,2017-06-10 17:25:58 UTC,,,,,
+626287,PushEvent,dankogai_p5-encode,2017-03-27 07:54:12 UTC,,,,,
+627156,PushEvent,dankogai_p5-encode,2017-06-10 17:36:48 UTC,,,,,
+637364,PushEvent,dankogai_p5-encode,2017-02-11 22:27:13 UTC,,,,,
+637492,PushEvent,dankogai_p5-encode,2017-01-14 23:31:23 UTC,,,,,
+640728,PushEvent,dankogai_p5-encode,2017-04-21 03:13:28 UTC,,,,,
+644701,PushEvent,dankogai_p5-encode,2017-03-27 16:46:17 UTC,,,,,
+677596,PushEvent,dankogai_p5-encode,2017-06-01 02:52:21 UTC,,,,,
+731381,PushEvent,dankogai_p5-encode,2017-05-31 02:01:54 UTC,,,,,
+732767,PushEvent,dankogai_p5-encode,2017-04-21 05:23:10 UTC,,,,,
+750546,PushEvent,dankogai_p5-encode,2017-07-18 04:27:37 UTC,,,,,
+763264,PushEvent,dankogai_p5-encode,2017-03-26 15:15:34 UTC,,,,,
+771968,PushEvent,dankogai_p5-encode,2017-12-30 13:15:42 UTC,,,,,
+779799,PushEvent,dankogai_p5-encode,2017-06-08 07:51:34 UTC,,,,,
+802534,PushEvent,dankogai_p5-encode,2017-05-15 18:19:33 UTC,,,,,
+809126,PushEvent,dankogai_p5-encode,2017-07-09 16:18:12 UTC,,,,,
+811373,PushEvent,dankogai_p5-encode,2017-06-07 06:20:42 UTC,,,,,
+812850,PushEvent,dankogai_p5-encode,2017-06-22 09:13:54 UTC,,,,,
+813445,PushEvent,dankogai_p5-encode,2017-05-30 02:48:18 UTC,,,,,
+823346,PushEvent,dankogai_p5-encode,2017-09-30 12:43:48 UTC,,,,,
+826498,PushEvent,dankogai_p5-encode,2017-03-17 02:45:59 UTC,,,,,
+838590,PushEvent,dankogai_p5-encode,2017-06-09 07:43:44 UTC,,,,,
+846164,PushEvent,dankogai_p5-encode,2017-07-18 07:16:50 UTC,,,,,
+926259,PushEvent,dankogai_p5-encode,2017-01-14 02:44:45 UTC,,,,,
+931944,PushEvent,dankogai_p5-encode,2017-10-06 22:23:34 UTC,,,,,
+1497895,WatchEvent,dankogai_p5-encode,2017-07-22 10:45:05 UTC,,,,,
+1736057,WatchEvent,dankogai_p5-encode,2017-05-18 15:09:48 UTC,,,,,
+1910920,CreateEvent,dankogai_p5-encode,2017-04-21 05:23:14 UTC,,,,,
+1913988,CreateEvent,dankogai_p5-encode,2017-07-18 07:16:54 UTC,,,,,
+1960097,CreateEvent,dankogai_p5-encode,2017-06-22 08:12:35 UTC,,,,,
+1963856,CreateEvent,dankogai_p5-encode,2017-06-10 17:26:03 UTC,,,,,
+1969770,CreateEvent,dankogai_p5-encode,2017-10-06 22:23:39 UTC,,,,,
+2066753,IssuesEvent,dankogai_p5-encode,2017-07-18 04:27:36 UTC,,,,,
+2089556,IssuesEvent,dankogai_p5-encode,2017-10-13 12:39:40 UTC,,,,,
+2168310,IssuesEvent,dankogai_p5-encode,2017-01-27 05:27:33 UTC,,,,,
+2217612,IssuesEvent,dankogai_p5-encode,2017-01-27 12:05:22 UTC,,,,,
+2249759,IssuesEvent,dankogai_p5-encode,2017-01-05 04:59:27 UTC,,,,,
+2260938,IssuesEvent,dankogai_p5-encode,2017-06-19 17:17:44 UTC,,,,,
+2268237,IssuesEvent,dankogai_p5-encode,2017-07-18 04:28:44 UTC,,,,,
+2282920,IssuesEvent,dankogai_p5-encode,2017-06-19 10:57:56 UTC,,,,,
+2291749,IssuesEvent,dankogai_p5-encode,2017-06-19 17:26:04 UTC,,,,,
+2297131,IssuesEvent,dankogai_p5-encode,2017-12-30 17:54:55 UTC,,,,,
+2331192,IssuesEvent,dankogai_p5-encode,2017-05-31 12:59:34 UTC,,,,,
+2338417,IssuesEvent,dankogai_p5-encode,2017-07-17 09:38:12 UTC,,,,,
+2368886,IssuesEvent,dankogai_p5-encode,2017-07-16 16:56:05 UTC,,,,,
+2431004,IssuesEvent,dankogai_p5-encode,2017-06-14 04:34:34 UTC,,,,,
+2455040,PullRequestEvent,dankogai_p5-encode,2017-05-08 10:12:32 UTC,,,,,
+2463809,PullRequestEvent,dankogai_p5-encode,2017-07-18 04:27:36 UTC,,,,,
+2476263,PullRequestEvent,dankogai_p5-encode,2017-09-06 00:18:02 UTC,,,,,
+2478641,PullRequestEvent,dankogai_p5-encode,2017-03-26 16:52:47 UTC,,,,,
+2485222,PullRequestEvent,dankogai_p5-encode,2017-06-10 16:49:18 UTC,,,,,
+2497784,PullRequestEvent,dankogai_p5-encode,2017-07-18 04:28:44 UTC,,,,,
+2500585,PullRequestEvent,dankogai_p5-encode,2017-06-08 22:15:32 UTC,,,,,
+2504731,PullRequestEvent,dankogai_p5-encode,2017-04-19 03:33:27 UTC,,,,,
+2505805,PullRequestEvent,dankogai_p5-encode,2017-03-17 02:45:58 UTC,,,,,
+2511456,PullRequestEvent,dankogai_p5-encode,2017-05-17 01:51:20 UTC,,,,,
+2530282,PullRequestEvent,dankogai_p5-encode,2017-01-14 23:31:23 UTC,,,,,
+2546529,PullRequestEvent,dankogai_p5-encode,2017-07-07 21:05:30 UTC,,,,,
+2548926,PullRequestEvent,dankogai_p5-encode,2017-09-30 11:18:33 UTC,,,,,
+2565415,PullRequestEvent,dankogai_p5-encode,2017-06-09 15:31:28 UTC,,,,,
+2570493,PullRequestEvent,dankogai_p5-encode,2017-12-30 13:15:42 UTC,,,,,
+2574025,PullRequestEvent,dankogai_p5-encode,2017-01-13 20:57:54 UTC,,,,,
+2575990,PullRequestEvent,dankogai_p5-encode,2017-05-15 08:53:54 UTC,,,,,
+2587726,PullRequestEvent,dankogai_p5-encode,2017-05-08 17:57:04 UTC,,,,,
+2592842,PullRequestEvent,dankogai_p5-encode,2017-06-08 07:51:33 UTC,,,,,
+2603566,PullRequestEvent,dankogai_p5-encode,2017-06-10 10:05:00 UTC,,,,,
+2610587,PullRequestEvent,dankogai_p5-encode,2017-06-09 07:43:43 UTC,,,,,
+2622259,PullRequestEvent,dankogai_p5-encode,2017-02-11 18:42:21 UTC,,,,,
+2624358,PullRequestEvent,dankogai_p5-encode,2017-04-20 16:23:06 UTC,,,,,
+2625302,PullRequestEvent,dankogai_p5-encode,2017-05-16 16:02:51 UTC,,,,,
+2627147,PullRequestEvent,dankogai_p5-encode,2017-05-08 10:20:23 UTC,,,,,
+2656547,PullRequestEvent,dankogai_p5-encode,2017-03-16 23:00:23 UTC,,,,,
+2662514,PullRequestEvent,dankogai_p5-encode,2017-02-11 22:27:12 UTC,,,,,
+2663398,PullRequestEvent,dankogai_p5-encode,2017-05-30 15:48:35 UTC,,,,,
+2665268,PullRequestEvent,dankogai_p5-encode,2017-09-05 13:06:36 UTC,,,,,
+2666968,PullRequestEvent,dankogai_p5-encode,2017-05-29 19:21:08 UTC,,,,,
+2672384,PullRequestEvent,dankogai_p5-encode,2017-03-27 16:46:16 UTC,,,,,
+2675137,PullRequestEvent,dankogai_p5-encode,2017-12-28 23:08:54 UTC,,,,,
+2677938,PullRequestEvent,dankogai_p5-encode,2017-10-13 12:41:24 UTC,,,,,
+2684705,PullRequestEvent,dankogai_p5-encode,2017-09-30 12:43:47 UTC,,,,,
+2689439,PullRequestEvent,dankogai_p5-encode,2017-07-09 16:18:11 UTC,,,,,
+2692834,PullRequestEvent,dankogai_p5-encode,2017-03-27 07:54:11 UTC,,,,,
+2693910,PullRequestEvent,dankogai_p5-encode,2017-01-14 11:31:35 UTC,,,,,
+2702155,PullRequestEvent,dankogai_p5-encode,2017-06-06 21:09:46 UTC,,,,,
+2704534,PullRequestEvent,dankogai_p5-encode,2017-05-25 17:36:08 UTC,,,,,
+2713865,PullRequestEvent,dankogai_p5-encode,2017-03-26 15:15:33 UTC,,,,,
+2716039,PullRequestEvent,dankogai_p5-encode,2017-05-29 15:25:46 UTC,,,,,
+2728459,PullRequestEvent,dankogai_p5-encode,2017-09-13 02:30:38 UTC,,,,,
+2737799,PullRequestEvent,dankogai_p5-encode,2017-05-08 11:33:49 UTC,,,,,
+2744681,PullRequestEvent,dankogai_p5-encode,2017-03-27 16:34:44 UTC,,,,,
+2747615,PullRequestEvent,dankogai_p5-encode,2017-06-10 00:36:51 UTC,,,,,
+2749058,PullRequestEvent,dankogai_p5-encode,2017-07-17 15:32:54 UTC,,,,,
+2756697,PullRequestEvent,dankogai_p5-encode,2017-04-04 19:53:46 UTC,,,,,
+2759162,PullRequestEvent,dankogai_p5-encode,2017-05-30 02:48:18 UTC,,,,,
+2764511,PullRequestEvent,dankogai_p5-encode,2017-03-21 19:38:12 UTC,,,,,
+2773233,PullRequestEvent,dankogai_p5-encode,2017-09-12 22:38:16 UTC,,,,,
+2781163,PullRequestEvent,dankogai_p5-encode,2017-06-19 12:35:41 UTC,,,,,
+2781742,PullRequestEvent,dankogai_p5-encode,2017-06-01 02:52:20 UTC,,,,,
+2787488,PullRequestEvent,dankogai_p5-encode,2017-10-02 23:50:12 UTC,,,,,
+2789805,PullRequestEvent,dankogai_p5-encode,2017-06-19 17:17:44 UTC,,,,,
+2789904,PullRequestEvent,dankogai_p5-encode,2017-10-03 09:04:06 UTC,,,,,
+2823979,PullRequestEvent,dankogai_p5-encode,2017-06-07 21:01:58 UTC,,,,,
+2836465,PullRequestEvent,dankogai_p5-encode,2017-01-14 02:44:44 UTC,,,,,
+2843157,PullRequestEvent,dankogai_p5-encode,2017-06-07 06:20:41 UTC,,,,,
+2859702,PullRequestEvent,dankogai_p5-encode,2017-05-31 21:18:08 UTC,,,,,
+2870597,PullRequestEvent,dankogai_p5-encode,2017-04-21 03:13:27 UTC,,,,,
+2872221,PullRequestEvent,dankogai_p5-encode,2017-05-31 02:01:53 UTC,,,,,
+2873299,PullRequestEvent,dankogai_p5-encode,2017-05-15 18:19:32 UTC,,,,,
+2875565,PullRequestEvent,dankogai_p5-encode,2017-09-01 13:24:15 UTC,,,,,
+2876440,PullRequestEvent,dankogai_p5-encode,2017-07-17 09:45:21 UTC,,,,,
+2897958,IssueCommentEvent,dankogai_p5-encode,2017-05-08 17:57:28 UTC,,,,,
+2904414,IssueCommentEvent,dankogai_p5-encode,2017-01-26 22:05:02 UTC,,,,,
+2927034,IssueCommentEvent,dankogai_p5-encode,2017-07-17 10:05:36 UTC,,,,,
+2935322,IssueCommentEvent,dankogai_p5-encode,2017-05-02 13:38:21 UTC,,,,,
+2938544,IssueCommentEvent,dankogai_p5-encode,2017-09-30 12:43:54 UTC,,,,,
+2943372,IssueCommentEvent,dankogai_p5-encode,2017-10-13 12:22:26 UTC,,,,,
+2947077,IssueCommentEvent,dankogai_p5-encode,2017-05-31 02:01:31 UTC,,,,,
+2959728,IssueCommentEvent,dankogai_p5-encode,2017-02-11 22:29:03 UTC,,,,,
+2977672,IssueCommentEvent,dankogai_p5-encode,2017-05-31 22:50:02 UTC,,,,,
+3024570,IssueCommentEvent,dankogai_p5-encode,2017-02-15 13:59:43 UTC,,,,,
+3037239,IssueCommentEvent,dankogai_p5-encode,2017-10-13 12:41:23 UTC,,,,,
+3093906,IssueCommentEvent,dankogai_p5-encode,2017-06-07 06:23:10 UTC,,,,,
+3150694,IssueCommentEvent,dankogai_p5-encode,2017-10-16 13:00:36 UTC,,,,,
+3153432,IssueCommentEvent,dankogai_p5-encode,2017-06-01 08:14:33 UTC,,,,,
+3176444,IssueCommentEvent,dankogai_p5-encode,2017-12-28 23:25:26 UTC,,,,,
+3244109,IssueCommentEvent,dankogai_p5-encode,2017-06-01 07:36:08 UTC,,,,,
+3261881,IssueCommentEvent,dankogai_p5-encode,2017-01-13 21:11:39 UTC,,,,,
+3286468,IssueCommentEvent,dankogai_p5-encode,2017-01-13 15:19:19 UTC,,,,,
+3320728,IssueCommentEvent,dankogai_p5-encode,2017-01-17 04:37:48 UTC,,,,,
+3345879,IssueCommentEvent,dankogai_p5-encode,2017-09-01 14:44:30 UTC,,,,,
+3376385,IssueCommentEvent,dankogai_p5-encode,2017-06-09 07:44:54 UTC,,,,,
+3384667,IssueCommentEvent,dankogai_p5-encode,2017-11-10 09:15:06 UTC,,,,,
+3385713,IssueCommentEvent,dankogai_p5-encode,2017-06-10 17:22:37 UTC,,,,,
+3391201,IssueCommentEvent,dankogai_p5-encode,2017-01-05 05:30:23 UTC,,,,,
+3418084,IssueCommentEvent,dankogai_p5-encode,2017-07-16 20:53:56 UTC,,,,,
+3456305,IssueCommentEvent,dankogai_p5-encode,2017-06-08 07:52:14 UTC,,,,,
+3490964,IssueCommentEvent,dankogai_p5-encode,2017-12-30 13:16:54 UTC,,,,,
+3530995,IssueCommentEvent,dankogai_p5-encode,2017-02-15 17:59:09 UTC,,,,,
+3538550,IssueCommentEvent,dankogai_p5-encode,2017-10-13 12:39:39 UTC,,,,,
+3539941,IssueCommentEvent,dankogai_p5-encode,2017-05-08 10:21:41 UTC,,,,,
+3544511,IssueCommentEvent,dankogai_p5-encode,2017-04-19 03:33:54 UTC,,,,,
+3575221,IssueCommentEvent,dankogai_p5-encode,2017-02-16 17:06:42 UTC,,,,,
+3597611,IssueCommentEvent,dankogai_p5-encode,2017-09-05 13:01:10 UTC,,,,,
+3601322,IssueCommentEvent,dankogai_p5-encode,2017-01-14 23:32:32 UTC,,,,,
+3604748,IssueCommentEvent,dankogai_p5-encode,2017-04-21 03:19:59 UTC,,,,,
+3628324,IssueCommentEvent,dankogai_p5-encode,2017-06-01 09:39:31 UTC,,,,,
+3630406,IssueCommentEvent,dankogai_p5-encode,2017-10-13 13:57:07 UTC,,,,,
+3648646,IssueCommentEvent,dankogai_p5-encode,2017-11-10 08:18:42 UTC,,,,,
+3662334,IssueCommentEvent,dankogai_p5-encode,2017-05-30 02:49:14 UTC,,,,,
+3664718,IssueCommentEvent,dankogai_p5-encode,2017-01-26 22:00:46 UTC,,,,,
+3669869,IssueCommentEvent,dankogai_p5-encode,2017-02-15 02:12:27 UTC,,,,,
+3673391,IssueCommentEvent,dankogai_p5-encode,2017-10-13 12:25:10 UTC,,,,,
+3683403,IssueCommentEvent,dankogai_p5-encode,2017-01-26 22:01:25 UTC,,,,,
+3684806,IssueCommentEvent,dankogai_p5-encode,2017-06-01 09:12:27 UTC,,,,,
+3694545,IssueCommentEvent,dankogai_p5-encode,2017-01-26 22:34:01 UTC,,,,,
+3719952,IssueCommentEvent,dankogai_p5-encode,2017-10-15 14:40:30 UTC,,,,,
+3724377,IssueCommentEvent,dankogai_p5-encode,2017-02-15 08:40:19 UTC,,,,,
+3740977,IssueCommentEvent,dankogai_p5-encode,2017-10-03 09:04:47 UTC,,,,,
+3763904,IssueCommentEvent,dankogai_p5-encode,2017-11-10 09:48:37 UTC,,,,,
+3791649,IssueCommentEvent,dankogai_p5-encode,2017-10-13 14:15:17 UTC,,,,,
+3818224,IssueCommentEvent,dankogai_p5-encode,2017-07-18 10:45:24 UTC,,,,,
+3830733,IssueCommentEvent,dankogai_p5-encode,2017-10-13 13:58:14 UTC,,,,,
+3846316,IssueCommentEvent,dankogai_p5-encode,2017-05-17 07:17:43 UTC,,,,,
+3852441,IssueCommentEvent,dankogai_p5-encode,2017-06-01 09:26:32 UTC,,,,,
+3870081,IssueCommentEvent,dankogai_p5-encode,2017-04-21 03:16:30 UTC,,,,,
+3895384,IssueCommentEvent,dankogai_p5-encode,2017-03-17 02:46:05 UTC,,,,,
+3899158,IssueCommentEvent,dankogai_p5-encode,2017-03-26 15:16:20 UTC,,,,,
+3906680,IssueCommentEvent,dankogai_p5-encode,2017-06-01 08:30:54 UTC,,,,,
+3907341,IssueCommentEvent,dankogai_p5-encode,2017-11-10 06:01:47 UTC,,,,,
+3930905,IssueCommentEvent,dankogai_p5-encode,2017-06-01 09:33:10 UTC,,,,,
+3938337,IssueCommentEvent,dankogai_p5-encode,2017-06-01 02:54:15 UTC,,,,,
+3945415,IssueCommentEvent,dankogai_p5-encode,2017-06-19 17:19:35 UTC,,,,,
+4032664,IssueCommentEvent,dankogai_p5-encode,2017-02-15 01:43:34 UTC,,,,,
+4062561,IssueCommentEvent,dankogai_p5-encode,2017-05-29 15:27:39 UTC,,,,,
+4081450,IssueCommentEvent,dankogai_p5-encode,2017-06-01 09:00:13 UTC,,,,,
+4124404,IssueCommentEvent,dankogai_p5-encode,2017-06-19 11:22:24 UTC,,,,,
+4128471,IssueCommentEvent,dankogai_p5-encode,2017-07-09 16:18:48 UTC,,,,,
+4139190,IssueCommentEvent,dankogai_p5-encode,2017-06-19 17:26:05 UTC,,,,,
+4149322,IssueCommentEvent,dankogai_p5-encode,2017-01-13 12:23:53 UTC,,,,,
+4157702,IssueCommentEvent,dankogai_p5-encode,2017-06-01 10:19:51 UTC,,,,,
+4163704,IssueCommentEvent,dankogai_p5-encode,2017-07-17 15:33:36 UTC,,,,,
+4166738,IssueCommentEvent,dankogai_p5-encode,2017-03-27 07:54:37 UTC,,,,,
+4168524,IssueCommentEvent,dankogai_p5-encode,2017-02-18 16:03:43 UTC,,,,,
+4211622,IssueCommentEvent,dankogai_p5-encode,2017-07-18 04:28:24 UTC,,,,,
+4213985,IssueCommentEvent,dankogai_p5-encode,2017-07-17 14:36:12 UTC,,,,,
+4267768,IssueCommentEvent,dankogai_p5-encode,2017-12-30 17:54:55 UTC,,,,,
+4280781,IssueCommentEvent,dankogai_p5-encode,2017-06-01 09:08:57 UTC,,,,,
+4287991,IssueCommentEvent,dankogai_p5-encode,2017-12-28 23:39:26 UTC,,,,,
+4296129,IssueCommentEvent,dankogai_p5-encode,2017-05-17 01:51:46 UTC,,,,,
+4303400,IssueCommentEvent,dankogai_p5-encode,2017-06-01 04:57:12 UTC,,,,,
+4342139,IssueCommentEvent,dankogai_p5-encode,2017-10-13 13:57:35 UTC,,,,,
+4366778,IssueCommentEvent,dankogai_p5-encode,2017-06-01 09:33:58 UTC,,,,,
+4375358,IssueCommentEvent,dankogai_p5-encode,2017-05-15 18:20:36 UTC,,,,,
+4380087,IssueCommentEvent,dankogai_p5-encode,2017-06-01 09:10:53 UTC,,,,,
+4383176,IssueCommentEvent,dankogai_p5-encode,2017-10-13 12:31:53 UTC,,,,,
+4388360,IssueCommentEvent,dankogai_p5-encode,2017-01-13 20:58:38 UTC,,,,,
+4402617,IssueCommentEvent,dankogai_p5-encode,2017-02-15 13:45:30 UTC,,,,,
+4438090,IssueCommentEvent,dankogai_p5-encode,2017-06-10 00:39:16 UTC,,,,,
+4463990,IssueCommentEvent,dankogai_p5-encode,2017-07-17 09:41:15 UTC,,,,,
+4464313,IssueCommentEvent,dankogai_p5-encode,2017-06-10 17:07:27 UTC,,,,,
+4480880,IssueCommentEvent,dankogai_p5-encode,2017-09-01 14:35:35 UTC,,,,,
+4483938,IssueCommentEvent,dankogai_p5-encode,2017-05-08 10:13:11 UTC,,,,,
+4487795,IssueCommentEvent,dankogai_p5-encode,2017-06-16 12:56:23 UTC,,,,,
+4541833,IssueCommentEvent,dankogai_p5-encode,2017-06-01 08:03:12 UTC,,,,,
+4569846,IssueCommentEvent,dankogai_p5-encode,2017-07-18 04:28:51 UTC,,,,,
+4604667,IssueCommentEvent,dankogai_p5-encode,2017-02-15 15:14:47 UTC,,,,,
+4641487,PullRequestReviewCommentEvent,dankogai_p5-encode,2017-05-06 05:07:38 UTC,,,,,
+4654047,PullRequestReviewCommentEvent,dankogai_p5-encode,2017-05-06 14:29:47 UTC,,,,,
+4661257,PullRequestReviewCommentEvent,dankogai_p5-encode,2017-05-05 20:46:40 UTC,,,,,
+4698999,PullRequestReviewCommentEvent,dankogai_p5-encode,2017-05-05 20:51:33 UTC,,,,,
+4715718,PullRequestReviewCommentEvent,dankogai_p5-encode,2017-05-02 13:32:22 UTC,,,,,
+4789428,PullRequestReviewCommentEvent,dankogai_p5-encode,2017-05-06 05:17:53 UTC,,,,,
+4811843,PullRequestReviewCommentEvent,dankogai_p5-encode,2017-05-02 14:36:25 UTC,,,,,
+4824747,PullRequestReviewCommentEvent,dankogai_p5-encode,2017-05-06 14:33:42 UTC,,,,,
+4898009,PullRequestReviewCommentEvent,dankogai_p5-encode,2017-05-02 13:26:45 UTC,,,,,
+4998035,PullRequestReviewCommentEvent,dankogai_p5-encode,2017-05-02 13:57:55 UTC,,,,,
+246854,ForkEvent,dankogai_p5-encode,2018-08-01 14:05:05 UTC,,,,,
+313036,PushEvent,dankogai_p5-encode,2018-06-28 11:28:14 UTC,,,,,
+344608,PushEvent,dankogai_p5-encode,2018-04-19 16:30:40 UTC,,,,,
+346031,PushEvent,dankogai_p5-encode,2018-02-08 00:29:52 UTC,,,,,
+347515,PushEvent,dankogai_p5-encode,2018-04-22 09:05:02 UTC,,,,,
+436186,PushEvent,dankogai_p5-encode,2018-02-16 00:54:34 UTC,,,,,
+609526,PushEvent,dankogai_p5-encode,2018-03-15 23:15:46 UTC,,,,,
+617864,PushEvent,dankogai_p5-encode,2018-02-08 00:21:45 UTC,,,,,
+651252,PushEvent,dankogai_p5-encode,2018-03-10 13:04:41 UTC,,,,,
+712018,PushEvent,dankogai_p5-encode,2018-02-21 12:15:50 UTC,,,,,
+772271,PushEvent,dankogai_p5-encode,2018-08-12 08:11:24 UTC,,,,,
+864744,PushEvent,dankogai_p5-encode,2018-03-14 00:39:12 UTC,,,,,
+929259,PushEvent,dankogai_p5-encode,2018-02-11 05:36:57 UTC,,,,,
+1897345,CreateEvent,dankogai_p5-encode,2018-02-21 12:15:55 UTC,,,,,
+1943526,CreateEvent,dankogai_p5-encode,2018-02-08 00:29:57 UTC,,,,,
+1947748,CreateEvent,dankogai_p5-encode,2018-02-11 05:37:02 UTC,,,,,
+1966245,CreateEvent,dankogai_p5-encode,2018-04-22 09:05:08 UTC,,,,,
+2047205,IssuesEvent,dankogai_p5-encode,2018-02-11 05:55:44 UTC,,,,,
+2348291,IssuesEvent,dankogai_p5-encode,2018-02-10 22:51:36 UTC,,,,,
+2435572,PullRequestEvent,dankogai_p5-encode,2018-08-12 08:11:23 UTC,,,,,
+2467161,PullRequestEvent,dankogai_p5-encode,2018-06-28 10:44:10 UTC,,,,,
+2467426,PullRequestEvent,dankogai_p5-encode,2018-03-10 17:46:15 UTC,,,,,
+2503052,PullRequestEvent,dankogai_p5-encode,2018-03-10 12:54:31 UTC,,,,,
+2506090,PullRequestEvent,dankogai_p5-encode,2018-06-28 11:29:53 UTC,,,,,
+2562288,PullRequestEvent,dankogai_p5-encode,2018-02-08 00:21:44 UTC,,,,,
+2574875,PullRequestEvent,dankogai_p5-encode,2018-03-14 00:39:12 UTC,,,,,
+2576403,PullRequestEvent,dankogai_p5-encode,2018-06-28 11:28:13 UTC,,,,,
+2624313,PullRequestEvent,dankogai_p5-encode,2018-02-15 01:50:55 UTC,,,,,
+2740572,PullRequestEvent,dankogai_p5-encode,2018-03-15 23:15:45 UTC,,,,,
+2749241,PullRequestEvent,dankogai_p5-encode,2018-03-14 20:48:58 UTC,,,,,
+2750212,PullRequestEvent,dankogai_p5-encode,2018-02-16 00:54:33 UTC,,,,,
+2793896,PullRequestEvent,dankogai_p5-encode,2018-02-07 19:58:37 UTC,,,,,
+2829356,PullRequestEvent,dankogai_p5-encode,2018-03-10 13:04:40 UTC,,,,,
+2879171,PullRequestEvent,dankogai_p5-encode,2018-08-12 07:30:51 UTC,,,,,
+2902103,IssueCommentEvent,dankogai_p5-encode,2018-03-10 13:04:49 UTC,,,,,
+2918061,IssueCommentEvent,dankogai_p5-encode,2018-02-11 11:26:46 UTC,,,,,
+3091241,IssueCommentEvent,dankogai_p5-encode,2018-02-11 20:32:15 UTC,,,,,
+3137749,IssueCommentEvent,dankogai_p5-encode,2018-02-14 01:42:02 UTC,,,,,
+3166376,IssueCommentEvent,dankogai_p5-encode,2018-02-14 19:19:30 UTC,,,,,
+3187630,IssueCommentEvent,dankogai_p5-encode,2018-02-19 21:19:18 UTC,,,,,
+3223288,IssueCommentEvent,dankogai_p5-encode,2018-02-16 21:38:38 UTC,,,,,
+3264295,IssueCommentEvent,dankogai_p5-encode,2018-02-08 00:31:34 UTC,,,,,
+3349975,IssueCommentEvent,dankogai_p5-encode,2018-02-21 12:16:48 UTC,,,,,
+3465136,IssueCommentEvent,dankogai_p5-encode,2018-02-13 19:46:55 UTC,,,,,
+3609769,IssueCommentEvent,dankogai_p5-encode,2018-03-15 23:17:11 UTC,,,,,
+3765761,IssueCommentEvent,dankogai_p5-encode,2018-06-28 11:28:56 UTC,,,,,
+3882275,IssueCommentEvent,dankogai_p5-encode,2018-02-19 21:17:58 UTC,,,,,
+3951732,IssueCommentEvent,dankogai_p5-encode,2018-02-14 13:01:51 UTC,,,,,
+4021750,IssueCommentEvent,dankogai_p5-encode,2018-02-14 01:49:47 UTC,,,,,
+4055737,IssueCommentEvent,dankogai_p5-encode,2018-02-07 20:07:07 UTC,,,,,
+4081097,IssueCommentEvent,dankogai_p5-encode,2018-02-11 20:44:41 UTC,,,,,
+4109098,IssueCommentEvent,dankogai_p5-encode,2018-02-11 20:31:30 UTC,,,,,
+4193444,IssueCommentEvent,dankogai_p5-encode,2018-02-21 19:02:35 UTC,,,,,
+4200205,IssueCommentEvent,dankogai_p5-encode,2018-02-11 05:55:44 UTC,,,,,
+4356615,IssueCommentEvent,dankogai_p5-encode,2018-02-14 13:01:17 UTC,,,,,
+4400959,IssueCommentEvent,dankogai_p5-encode,2018-02-14 16:24:21 UTC,,,,,
+4457744,IssueCommentEvent,dankogai_p5-encode,2018-08-12 08:11:32 UTC,,,,,
+4508500,IssueCommentEvent,dankogai_p5-encode,2018-02-14 16:58:25 UTC,,,,,
+68195,ForkEvent,dankogai_p5-encode,2019-06-19 15:20:29 UTC,,,,,
+128506,ForkEvent,dankogai_p5-encode,2019-12-22 08:53:55 UTC,,,,,
+335448,ForkEvent,dankogai_p5-encode,2019-06-19 15:17:28 UTC,,,,,
+347449,ForkEvent,dankogai_p5-encode,2019-02-14 17:43:27 UTC,,,,,
+557826,PushEvent,dankogai_p5-encode,2019-05-13 22:44:40 UTC,,,,,
+640572,PushEvent,dankogai_p5-encode,2019-12-25 09:40:40 UTC,,,,,
+807615,PushEvent,dankogai_p5-encode,2019-03-13 00:28:03 UTC,,,,,
+968030,PushEvent,dankogai_p5-encode,2019-02-01 03:22:01 UTC,,,,,
+969583,PushEvent,dankogai_p5-encode,2019-03-12 23:42:15 UTC,,,,,
+1024540,PushEvent,dankogai_p5-encode,2019-12-25 09:26:51 UTC,,,,,
+1033304,PushEvent,dankogai_p5-encode,2019-12-25 09:22:08 UTC,,,,,
+1045568,PushEvent,dankogai_p5-encode,2019-04-06 13:17:27 UTC,,,,,
+1125900,PushEvent,dankogai_p5-encode,2019-06-19 17:21:26 UTC,,,,,
+1950828,WatchEvent,dankogai_p5-encode,2019-12-22 08:58:36 UTC,,,,,
+2006940,WatchEvent,dankogai_p5-encode,2019-04-02 19:04:08 UTC,,,,,
+2380077,CreateEvent,dankogai_p5-encode,2019-03-13 00:27:51 UTC,,,,,
+2391488,CreateEvent,dankogai_p5-encode,2019-12-25 09:26:55 UTC,,,,,
+2517470,IssuesEvent,dankogai_p5-encode,2019-02-14 17:54:59 UTC,,,,,
+2526086,IssuesEvent,dankogai_p5-encode,2019-05-23 10:13:23 UTC,,,,,
+2537002,IssuesEvent,dankogai_p5-encode,2019-05-23 09:15:00 UTC,,,,,
+2577542,IssuesEvent,dankogai_p5-encode,2019-03-12 23:43:42 UTC,,,,,
+2667994,IssuesEvent,dankogai_p5-encode,2019-05-23 09:22:32 UTC,,,,,
+2829695,IssuesEvent,dankogai_p5-encode,2019-02-14 17:42:59 UTC,,,,,
+2915261,IssuesEvent,dankogai_p5-encode,2019-02-01 15:20:00 UTC,,,,,
+2960039,PullRequestEvent,dankogai_p5-encode,2019-04-06 13:17:26 UTC,,,,,
+2997723,PullRequestEvent,dankogai_p5-encode,2019-02-01 03:22:00 UTC,,,,,
+3017102,PullRequestEvent,dankogai_p5-encode,2019-04-05 13:28:01 UTC,,,,,
+3086872,PullRequestEvent,dankogai_p5-encode,2019-06-19 17:21:25 UTC,,,,,
+3355887,PullRequestEvent,dankogai_p5-encode,2019-05-10 09:30:47 UTC,,,,,
+3409149,PullRequestEvent,dankogai_p5-encode,2019-06-19 15:22:59 UTC,,,,,
+3494435,PullRequestEvent,dankogai_p5-encode,2019-05-13 22:44:40 UTC,,,,,
+3572093,IssueCommentEvent,dankogai_p5-encode,2019-04-06 13:17:32 UTC,,,,,
+3579054,IssueCommentEvent,dankogai_p5-encode,2019-02-01 16:52:22 UTC,,,,,
+3707909,IssueCommentEvent,dankogai_p5-encode,2019-03-12 23:43:42 UTC,,,,,
+3835914,IssueCommentEvent,dankogai_p5-encode,2019-02-02 02:40:18 UTC,,,,,
+3992070,IssueCommentEvent,dankogai_p5-encode,2019-02-14 17:54:59 UTC,,,,,
+4102247,IssueCommentEvent,dankogai_p5-encode,2019-05-23 10:09:05 UTC,,,,,
+4203612,IssueCommentEvent,dankogai_p5-encode,2019-02-14 17:56:43 UTC,,,,,
+4274207,IssueCommentEvent,dankogai_p5-encode,2019-02-02 08:36:43 UTC,,,,,
+4293318,IssueCommentEvent,dankogai_p5-encode,2019-02-01 15:45:11 UTC,,,,,
+4667564,IssueCommentEvent,dankogai_p5-encode,2019-05-23 11:21:44 UTC,,,,,
+4808883,IssueCommentEvent,dankogai_p5-encode,2019-02-14 18:09:11 UTC,,,,,
+4969921,IssueCommentEvent,dankogai_p5-encode,2019-05-23 10:40:32 UTC,,,,,
+4977399,IssueCommentEvent,dankogai_p5-encode,2019-06-19 17:21:33 UTC,,,,,
+5060658,IssueCommentEvent,dankogai_p5-encode,2019-03-12 19:38:53 UTC,,,,,
+5188157,IssueCommentEvent,dankogai_p5-encode,2019-05-23 11:12:59 UTC,,,,,
+5227508,IssueCommentEvent,dankogai_p5-encode,2019-05-13 22:44:50 UTC,,,,,
+5449824,IssueCommentEvent,dankogai_p5-encode,2019-05-23 10:13:22 UTC,,,,,
+5535122,IssueCommentEvent,dankogai_p5-encode,2019-05-23 10:43:42 UTC,,,,,
+5601403,IssueCommentEvent,dankogai_p5-encode,2019-02-01 03:37:37 UTC,,,,,
+0,Commit,dankogai_p5-encode,2022-10-22 09:28:37,ec50ed27fa5c09649a78be0a5b3ce2117aad7dc6,4.0,0.0,1.0,0.0
+1,Commit,dankogai_p5-encode,2022-08-04 04:44:09,f526f38216c256ab6c361caf0443ca35fee54559,5.0,5.0,3.0,0.0
+2,Commit,dankogai_p5-encode,2022-07-31 02:28:25,b80134ee6a4f51b3ef0d7441eb844ba0787e56c7,11.0,0.0,3.0,0.0
+3,Commit,dankogai_p5-encode,2022-06-25 02:11:14,80aebe26fc4d99bc2f604b299082ef4e2e4a4eb1,1.0,1.0,1.0,0.0
+4,Commit,dankogai_p5-encode,2022-06-25 02:06:46,3804902907d9e58a5176268bbc3ad2ed0ef173dd,15.0,12.0,9.0,0.0
+5,Commit,dankogai_p5-encode,2022-06-24 13:10:13,6513c0a54e5b02fbbd0c2f6096b03ea441438dc4,10.0,1.0,2.0,0.0
+6,Commit,dankogai_p5-encode,2022-06-24 13:06:47,cad62032b459f64100af147ef690f609e929fca2,7.0,2.0,2.0,0.0
+7,Commit,dankogai_p5-encode,2022-06-15 06:41:39,0f5b60c643df6f8e40668f45dc964c15871dfc27,2.0,0.0,1.0,0.0
+8,Commit,dankogai_p5-encode,2022-06-15 06:29:47,b3df56b85ec87481112e2e1c7cefc40ac158d7e8,1.0,1.0,1.0,0.0
+9,Commit,dankogai_p5-encode,2022-05-25 07:49:49,a80966c8a83d786c0359a06d98ca036dae98cb5e,6.0,17.0,2.0,0.0
+10,Commit,dankogai_p5-encode,2022-05-25 07:43:50,4ab7ce8ec72e89707e68859e3f9c8f04b5842fcf,6.0,0.0,1.0,0.0
+11,Commit,dankogai_p5-encode,2022-05-25 07:37:48,2c246197cf85f6c1c058532da8fa8db9c546de95,4.0,0.0,1.0,0.0
+12,Commit,dankogai_p5-encode,2022-05-25 07:34:18,e18c8caadb43a449f8328b9ab74fafbff9fb365f,0.0,0.0,0.0,0.0
+13,Commit,dankogai_p5-encode,2022-05-25 07:33:51,0c63e78f8e9e1d20add96ae169d388a20a3f5147,7.0,1.0,2.0,0.0
+14,Commit,dankogai_p5-encode,2022-05-25 07:26:28,68d46c669919919b10ed5b454b6bb2cfd88a6870,2.0,5.0,1.0,0.0
+15,Commit,dankogai_p5-encode,2022-05-25 07:16:54,90af05a8fc9a45d4a00a7667ab87a6004b2191fb,8.0,2.0,3.0,0.0
+16,Commit,dankogai_p5-encode,2022-05-25 06:59:46,a7b6c0a61976a4294c6423ceeb97d84096b68f93,3.0,2.0,2.0,0.0
+17,Commit,dankogai_p5-encode,2022-05-25 06:53:04,5cf8a5b8158b21348787fff5b88cc6a3fcf1075c,39.0,0.0,2.0,0.0
+18,Commit,dankogai_p5-encode,2022-05-25 06:38:44,9185dec96c301ad2e9c5b8b688bcc73a6fc9b2ce,26.0,0.0,1.0,0.0
+19,Commit,dankogai_p5-encode,2022-04-07 03:08:25,b4075617741d67665455247e7b047af8eac929dd,27.0,10.0,8.0,0.0
+20,Commit,dankogai_p5-encode,2022-04-06 04:47:53,1ceb7f521f7838459f20f72482d8a90566e1b3a0,4.0,4.0,4.0,0.0
+21,Commit,dankogai_p5-encode,2022-04-06 04:47:53,744d4563f637d1b9f00cbbe3e796e199bc8a95b9,4.0,4.0,1.0,0.0
+22,Commit,dankogai_p5-encode,2022-04-06 04:47:21,c4b25acd789c013a312134611387bf7e9da37ade,5.0,0.0,1.0,0.0
+23,Commit,dankogai_p5-encode,2022-03-26 23:22:17,ab009e3305a7c99f18e08f57a77ebef75d7d8158,1.0,0.0,1.0,0.0
+24,Commit,dankogai_p5-encode,2022-03-19 05:02:30,97effca1ec29ef0ba9fe0cf49386dbcc6031690c,1.0,0.0,1.0,0.0
+25,Commit,dankogai_p5-encode,2022-03-06 13:24:47,4acd408bcd3a4ba4907826fa350b2e731b3684ca,7.0,1.0,1.0,0.0
+26,Commit,dankogai_p5-encode,2022-01-12 19:03:37,667245126e3c82d2d4ad24efc81e0c94fc987978,1.0,1.0,1.0,0.0
+27,Commit,dankogai_p5-encode,2022-01-12 19:02:35,f1a5d3703f99d1909f3a485875e36fb2117d6e03,3.0,3.0,1.0,0.0
+28,Commit,dankogai_p5-encode,2022-01-12 19:01:04,dd749b0d850269bfd28c1fc35e451174eb3c6607,2.0,2.0,1.0,0.0
+29,Commit,dankogai_p5-encode,2022-01-12 19:00:18,f51fc7842709959a8d9a66b8ffdc24503616d5fb,1.0,1.0,1.0,0.0
+30,Commit,dankogai_p5-encode,2021-12-07 13:57:12,bb1ca83541de825cdebfdc75171bcbb6c1230a4a,1.0,1.0,1.0,0.0
+31,Commit,dankogai_p5-encode,2021-10-13 08:47:49,037eedc9fcebd1f1da0ecbf320cb53e03a89ebf3,1.0,1.0,1.0,0.0
+32,Commit,dankogai_p5-encode,2021-10-13 08:32:39,6a220b826be44f3158023b5794cb5e6d03d0988d,11.0,6.0,4.0,0.0
+33,Commit,dankogai_p5-encode,2021-10-13 08:01:26,7c9c5be4e658a5b37632b46925a2735123f65c6e,1.0,1.0,1.0,0.0
+34,Commit,dankogai_p5-encode,2021-10-08 15:30:50,dc651b2b778b1cbd53d6a84381601597632902fd,5.0,5.0,3.0,0.0
+35,Commit,dankogai_p5-encode,2021-10-08 15:27:04,d77a05cfcd816d74d1c67fb687539ef6e6826fe0,7.0,1.0,2.0,0.0
+36,Commit,dankogai_p5-encode,2021-10-08 00:32:32,4785137d56a70bed04b2cd7f0aee7eb2d05f0a91,10.0,5.0,3.0,0.0
+37,Commit,dankogai_p5-encode,2021-10-07 20:35:51,d77d726d206f16232df6edd80739720bb7011aea,12.0,11.0,1.0,0.0
+38,Commit,dankogai_p5-encode,2021-10-05 23:49:02,e90c231c5fa32fe35c2a268f1195963ae949d24f,6.0,5.0,3.0,0.0
+39,Commit,dankogai_p5-encode,2021-10-05 23:37:27,23978817a2c1ed13861167154e8eb3d829104b6b,6.0,0.0,2.0,0.0
+40,Commit,dankogai_p5-encode,2021-08-09 14:19:25,527e482dc70b035d0df4f8c77a00d81f8d775c74,12.0,8.0,4.0,1.0
+41,Commit,dankogai_p5-encode,2021-07-23 02:29:27,0935b486093df6cd110c076481645c527e743946,14.0,7.0,5.0,0.0
+42,Commit,dankogai_p5-encode,2021-07-08 16:10:54,232eff3a6226330b93553a1e0c12e1d5b1aaa223,4.0,4.0,1.0,0.0
+43,Commit,dankogai_p5-encode,2021-07-08 16:08:52,bcef46572e4601a88825ce593918eb854607ad2c,1.0,0.0,1.0,0.0
+44,Commit,dankogai_p5-encode,2021-07-08 13:49:11,fe80e688835498886b4e92a95a69561135e355c0,30.0,0.0,2.0,0.0
+45,Commit,dankogai_p5-encode,2021-07-04 05:23:57,9b66d2d7e28857cf5c034ebc036d9cb2a78e465d,1.0,1.0,1.0,0.0
+46,Commit,dankogai_p5-encode,2021-06-17 05:41:58,1dc8d53c4b396772f4cc0fbdd73569059ae9f652,2.0,2.0,2.0,0.0
+47,Commit,dankogai_p5-encode,2021-05-24 11:06:12,8b7a3e9bc00fdc9fd0b3003617614ac38341e19a,35.0,25.0,2.0,0.0
+48,Commit,dankogai_p5-encode,2021-05-18 07:44:23,991e2e96416f0c1ded9cbab796d07e793f816ed7,5.0,5.0,3.0,0.0
+49,Commit,dankogai_p5-encode,2021-05-18 07:41:16,70baeec5467a396aa08dac32a0f6936cf7c2e8ef,3.0,0.0,1.0,0.0
+50,Commit,dankogai_p5-encode,2021-05-18 07:30:56,07bf005c55f8e5b74ac6e5ef4fec3e4c35c2e1aa,2.0,2.0,1.0,0.0
+51,Commit,dankogai_p5-encode,2021-05-18 07:24:46,5cedcc336fdc92fbd962d828b63cafe42a5c5a32,13.0,3.0,2.0,0.0
+52,Commit,dankogai_p5-encode,2021-05-14 10:45:42,9aa44f108fe390a701401b5e6acee367c57c22c4,7.0,7.0,5.0,0.0
+53,Commit,dankogai_p5-encode,2021-05-14 10:38:46,06591f7920dc3af57b98b03934ea881b5566962b,7.0,22.0,3.0,0.0
+54,Commit,dankogai_p5-encode,2021-01-28 00:35:15,67f59dd4092c12043182e427dfaa5abd5c791e58,2.0,2.0,1.0,0.0
+55,Commit,dankogai_p5-encode,2021-01-26 14:50:41,a5cab8b6d9bd97398d93b12d76d5ba37473433d4,2.0,2.0,1.0,0.0
+56,Commit,dankogai_p5-encode,2021-01-26 14:28:15,36a2d4974315d5cdf92b168e2430265ddd370317,24.0,8.0,1.0,0.0
+57,Commit,dankogai_p5-encode,2020-12-02 01:30:15,ad2e1301f870333e08326642ce92b85560f86cab,8.0,8.0,5.0,0.0
+58,Commit,dankogai_p5-encode,2020-12-01 17:37:41,3bf67975b23e13710d5dc539d6539b7449dada17,7.0,1.0,2.0,0.0
+59,Commit,dankogai_p5-encode,2020-10-04 11:28:41,4dcebe3640f404e680a68e3c54ced48322955a4b,1.0,1.0,1.0,0.0
+60,Commit,dankogai_p5-encode,2020-10-02 12:07:29,60e3166dfb4eb9e1137073420ed19577ac22b9f5,9.0,0.0,1.0,0.0
+61,Commit,dankogai_p5-encode,2020-10-02 12:07:00,bc73035cd8b14ac0f7b383d62e4587bc03a16a27,1.0,0.0,1.0,0.0
+62,Commit,dankogai_p5-encode,2020-10-01 16:33:43,16d1883b371548a3181328d66194730688ea354d,0.0,47.0,1.0,0.0
+63,Commit,dankogai_p5-encode,2020-07-28 23:42:18,650a4f93c4bb864e84377b46a825455121b6781b,12.0,4.0,2.0,0.0
+64,Commit,dankogai_p5-encode,2020-07-25 13:00:55,9f79ff97c13048204216eb439cc567d96b78980a,12.0,6.0,3.0,0.0
+65,Commit,dankogai_p5-encode,2020-07-25 12:35:27,1f7968e8cd30b28b7cd7d8a1299a0e4e70876755,87.0,101.0,3.0,0.0
+66,Commit,dankogai_p5-encode,2020-05-02 02:33:39,088365049223e75df8616d23338910883a2a2561,7.0,7.0,4.0,0.0
+67,Commit,dankogai_p5-encode,2020-05-02 02:27:07,ba2aeeee4c2805df8bb2fc458efee9f0861047e7,10.0,18.0,2.0,0.0
+68,Commit,dankogai_p5-encode,2020-04-19 10:57:09,c9e52a8b9d2c763508d0c9cddbf95a5aa20cebf8,2.0,2.0,1.0,0.0
+69,Commit,dankogai_p5-encode,2020-03-18 04:57:41,f88692871dce592438c65a8d6ea42b3897f18033,16.0,6.0,3.0,0.0
+70,Commit,dankogai_p5-encode,2020-03-18 04:53:33,9c5f5a307863b66da3701f6c7d13139aa20179b8,1.0,1.0,1.0,0.0
+71,Commit,dankogai_p5-encode,2020-03-16 10:45:36,c9c9669b2fe2240711f9151ea79e9db3037918f0,1.0,1.0,1.0,0.0
+72,Commit,dankogai_p5-encode,2020-03-10 22:31:21,35ae2ab5023dabf2882cbb94f15abe0dfd9e9e7c,9.0,4.0,2.0,0.0
+73,Commit,dankogai_p5-encode,2020-03-02 04:38:41,7cde651f0593ac4ad0caa17ba0318480ce0071ad,12.0,4.0,3.0,0.0
+74,Commit,dankogai_p5-encode,2020-03-02 03:50:31,2e55be77b960a24c17fa25e198f8af58a2121efb,2.0,2.0,2.0,0.0
+75,Commit,dankogai_p5-encode,2020-02-06 14:31:43,8b72508dd6718469a9c944663e74ef80e261b57f,2.0,0.0,1.0,0.0
+76,Commit,dankogai_p5-encode,2019-12-25 09:40:34,e6de79fd2eb4ae3bee6947903d622c2afe13a842,1.0,0.0,1.0,0.0
+77,Commit,dankogai_p5-encode,2019-12-25 09:26:10,ca06c08bcf2897f988d802f141e26fc9be99df0e,8.0,8.0,5.0,0.0
+78,Commit,dankogai_p5-encode,2019-12-25 09:21:59,7d2ae9b8813c083b9e57e531a0c767236725e2c6,15.0,1.0,2.0,0.0
+79,Commit,dankogai_p5-encode,2019-06-19 15:21:49,8dfd814a34c67eda50d9003bc3225191b4c7cf2e,1.0,0.0,1.0,0.0
+80,Commit,dankogai_p5-encode,2019-05-10 09:29:24,dcdb25d0dcd12fc705eba5a2bfda10b96f03b5c7,7.0,6.0,1.0,0.0
+81,Commit,dankogai_p5-encode,2019-04-05 12:52:25,21f49ceb84999227e2d3d0a4017bd7a0faf9c571,4.0,0.0,1.0,0.0
+82,Commit,dankogai_p5-encode,2019-04-05 12:51:39,5576264bd60ad46ca92c0f57ea4690479386f7db,4.0,0.0,1.0,0.0
+83,Commit,dankogai_p5-encode,2019-03-13 00:27:33,3600b2ad85a0424bfad900a294cd68b2b42fa56f,5.0,5.0,3.0,0.0
+84,Commit,dankogai_p5-encode,2019-03-12 23:42:02,c59934e3f8e2b742e5f998746e685a6f6cadcf8b,13.0,5.0,2.0,0.0
+85,Commit,dankogai_p5-encode,2019-01-31 08:45:15,d71868853ec9458b52b3c1268de18750355e639b,9.0,7.0,1.0,0.0
+86,Commit,dankogai_p5-encode,2019-01-31 08:37:30,115c866f208cc314ee0faa913d724fd00c93a9b6,3.0,0.0,1.0,0.0
+87,Commit,dankogai_p5-encode,2019-01-31 04:55:01,1c0e06cb622be053b39d825b96885d20c6a8c744,11.0,7.0,5.0,0.0
+88,Commit,dankogai_p5-encode,2019-01-31 04:28:00,84cabc6e984fdd0fee1687dc9c65391413b446b6,11.0,7.0,5.0,0.0
+89,Commit,dankogai_p5-encode,2019-01-30 12:59:05,d515b4dd35e9c25bc560b10dccba6d31f842f23b,32.0,17.0,3.0,0.0
+90,Commit,dankogai_p5-encode,2019-01-30 10:03:07,b051db8c5698e44ea3978e935263e5db8fda5448,5.0,1.0,3.0,0.0
+91,Commit,dankogai_p5-encode,2019-01-21 03:17:35,a71eac91814315c6eb07bdb739f23a1ee34a3fcc,22.0,7.0,5.0,0.0
+92,Commit,dankogai_p5-encode,2018-08-12 07:28:46,02e0e6b7101aac71cf1b0cfe207467e5aa7bccc1,2.0,0.0,1.0,0.0
+93,Commit,dankogai_p5-encode,2018-06-28 10:36:37,d4692cfcd9e51d535b47abab8abff19d52d7eb15,6.0,0.0,1.0,0.0
+94,Commit,dankogai_p5-encode,2018-06-16 19:02:23,5e2183a3ccee4f9cccb25afcb9eaab596aafea1e,16.0,0.0,1.0,0.0
+95,Commit,dankogai_p5-encode,2018-06-16 19:02:23,cb36f73efbac770b656177080b128a02d5060247,1218.0,134.0,3.0,0.0
+96,Commit,dankogai_p5-encode,2018-06-16 19:02:12,7303cc7148f72bf4c0f65f793cb16c2ef3ccd63d,1.0,1.0,1.0,0.0
+97,Commit,dankogai_p5-encode,2018-06-16 19:02:12,30082bd76e91b6da62c752591c0fc427e56c4100,5.0,0.0,1.0,0.0
+98,Commit,dankogai_p5-encode,2018-06-16 18:35:26,3e0101d569faea28e25597e36758344651ddbd39,196.0,68.0,2.0,0.0
+99,Commit,dankogai_p5-encode,2018-06-16 18:35:17,a474ad97ad8e2f24e3dff937daf1c0af4427f54c,454.0,274.0,9.0,0.0
+100,Commit,dankogai_p5-encode,2018-04-22 09:04:44,04756fd3d6e4f3af19aec9cffea8893189546bca,6.0,6.0,4.0,0.0
+101,Commit,dankogai_p5-encode,2018-04-19 16:30:25,902e043a33e66761760b0cf0c32860a2349473f9,15.0,1.0,2.0,0.0
+102,Commit,dankogai_p5-encode,2018-03-14 17:10:57,dcc751aa6d7c917c85488fc8f03e3bd42bd4ad01,0.0,117.0,1.0,0.0
+103,Commit,dankogai_p5-encode,2018-03-10 17:43:55,b05292577e91bc712fbc1abba88b2a2037fde90b,10.0,10.0,1.0,0.0
+104,Commit,dankogai_p5-encode,2018-03-10 10:57:47,cca04a7e2be364a4dd1c1022aec3872386ae8429,1.0,1.0,1.0,0.0
+105,Commit,dankogai_p5-encode,2018-03-05 21:57:40,83c7c4990a3088579e0c807f0c7de7e43fe2469b,7.0,7.0,1.0,0.0
+106,Commit,dankogai_p5-encode,2018-02-21 12:15:33,408224e6b13bc84c04733f4d95bafff7104485ce,12.0,5.0,3.0,0.0
+107,Commit,dankogai_p5-encode,2018-02-14 23:23:26,cfaedb2beda37cbc3575ee818c3c83ea87673c32,1.0,1.0,1.0,0.0
+108,Commit,dankogai_p5-encode,2018-02-14 23:23:21,f6ea05b1f07c28761dc6bf870111710978cb67c8,1.0,1.0,1.0,0.0
+109,Commit,dankogai_p5-encode,2018-02-11 05:36:40,03aab5e9e1af96a33a8a385d09f979d723cd89f6,12.0,7.0,4.0,0.0
+110,Commit,dankogai_p5-encode,2018-02-08 00:29:33,4aa088f1d44d5b2c3aae67fa6606e00f0ff87957,12.0,6.0,5.0,0.0
+111,Commit,dankogai_p5-encode,2018-02-07 21:17:37,1d86b6ae9b82cfb5b2f64a0d9de7ee4ea2e0022f,8.0,1.0,1.0,0.0
+112,Commit,dankogai_p5-encode,2018-02-07 20:03:53,5e1acbc00b2fb4e13d0bd18ad8dce6fb97fb6d04,3.0,3.0,2.0,0.0
+113,Commit,dankogai_p5-encode,2018-02-07 19:56:29,4dff6557a6affb0b89384848cc499ecbadbb2ff7,42.0,42.0,1.0,0.0
+114,Commit,dankogai_p5-encode,2018-02-07 19:56:15,6128f248cd3dd33d15a9b534bb3f442e89106fab,55.0,0.0,1.0,0.0
+115,Commit,dankogai_p5-encode,2018-02-07 19:56:07,656b3607da6bc37cd016e330e6fad404b0f20af3,3.0,1.0,1.0,0.0
+116,Commit,dankogai_p5-encode,2018-02-07 19:56:04,daf506d26162272d7bfe48778f4cc3216ebf3625,6.0,1.0,1.0,0.0
+117,Commit,dankogai_p5-encode,2018-02-07 19:56:00,e638b6ce3c6ac54efa69a1e2454164bc7939a67c,18.0,1.0,1.0,0.0
+118,Commit,dankogai_p5-encode,2018-02-07 19:55:55,f68fc65efbed0778ef0a288996f29d83559336aa,54.0,53.0,2.0,0.0
+119,Commit,dankogai_p5-encode,2018-01-09 05:55:49,9174cbe6943bd92ce5d97776104623c57f887c89,9.0,9.0,7.0,0.0
+120,Commit,dankogai_p5-encode,2018-01-09 05:39:26,7609648146d4742b9e92861a0497892eff891f20,13.0,1.0,2.0,0.0
+121,Commit,dankogai_p5-encode,2018-01-03 12:59:25,86ec554c0e4fa597ff4caf927c208b0463b078c3,7.0,0.0,1.0,0.0
+122,Commit,dankogai_p5-encode,2017-12-28 23:06:09,77b687535236fe03ca34b69d8030537e4c1e1645,0.0,27.0,1.0,0.0
+123,Commit,dankogai_p5-encode,2017-10-06 22:23:15,3376708a7ccc2773390a05df89788edde96e4c93,31.0,14.0,11.0,0.0
+124,Commit,dankogai_p5-encode,2017-10-03 09:04:05,a0b04805eeef5b38df57c417721c44ec59676211,0.0,0.0,0.0,0.0
+125,Commit,dankogai_p5-encode,2017-10-03 04:44:34,8918a4ef8d653ce2cfdb03a49bb7fc7afca4c8b1,1.0,1.0,1.0,0.0
+126,Commit,dankogai_p5-encode,2017-10-02 23:35:26,042b7806c0d38612bbe61b76d63bcb8898948a7c,1.0,0.0,1.0,0.0
+127,Commit,dankogai_p5-encode,2017-09-30 12:43:46,d3f303a3db8a65a65d05b7e61111e589c816b726,0.0,0.0,0.0,0.0
+128,Commit,dankogai_p5-encode,2017-09-30 11:10:02,9053a8f1098c9f86268277d0146b90395f5df1e3,2.0,10.0,1.0,0.0
+129,Commit,dankogai_p5-encode,2017-09-13 02:30:38,0f784292489a334c777912a3b901410bb4e20e73,0.0,0.0,0.0,0.0
+130,Commit,dankogai_p5-encode,2017-09-12 18:58:01,1f886eb79e665f4cac92bedccb9f3aeed3353c3b,2.0,0.0,1.0,0.0
+131,Commit,dankogai_p5-encode,2017-09-12 18:56:58,8cf418437e02e539eaa68f5963eb957b339e4925,8.0,8.0,1.0,0.0
+132,Commit,dankogai_p5-encode,2017-09-12 18:54:16,3be54aacf385b78d3a471ce9fe468934e6f04fef,6.0,3.0,3.0,0.0
+133,Commit,dankogai_p5-encode,2017-09-06 00:18:00,c29c7d4167e8bebb726bfa2bdd2ed821a4b13693,0.0,0.0,0.0,0.0
+134,Commit,dankogai_p5-encode,2017-09-05 13:04:00,bf3a242c93678bb56eae7b5fbcb0aa9faa18b9c6,1.0,1.0,1.0,0.0
+135,Commit,dankogai_p5-encode,2017-07-18 07:16:34,fdf56e624b5c4b4273758d4370d89e99f4112114,20.0,9.0,6.0,0.0
+136,Commit,dankogai_p5-encode,2017-07-18 04:28:43,a5f33684cf332affc580a35584680330ae8fff21,0.0,0.0,0.0,0.0
+137,Commit,dankogai_p5-encode,2017-07-18 04:27:35,26f1a849a9cb483731efedcd6bca11c8174d0d95,0.0,0.0,0.0,0.0
+138,Commit,dankogai_p5-encode,2017-07-17 15:28:54,6d5e144b3be7934623039e673eebf2977494c206,22.0,3.0,4.0,0.0
+139,Commit,dankogai_p5-encode,2017-07-17 09:44:20,8692b48a39daa8f02448fb50a1d3cf77fb84f9ae,2.0,1.0,1.0,0.0
+140,Commit,dankogai_p5-encode,2017-07-09 16:18:10,f929414f1edad1f486cdc658f2c9c06a93e6e6af,0.0,0.0,0.0,0.0
+141,Commit,dankogai_p5-encode,2017-07-07 19:38:58,d889f1b0860a615f730c51b0856b2db6a0ef22df,6.0,2.0,2.0,0.0
+142,Commit,dankogai_p5-encode,2017-06-22 09:13:47,a2f702b28b5d93a96b83aff283575b5b155b50ac,13.0,6.0,2.0,0.0
+143,Commit,dankogai_p5-encode,2017-06-22 08:12:17,a4b170c0d492e582ab9d26180c8959ce6bc92b00,13.0,13.0,11.0,0.0
+144,Commit,dankogai_p5-encode,2017-06-22 08:05:01,208d094b8cf82da488495400ea9a518841fd007a,15.0,3.0,2.0,0.0
+145,Commit,dankogai_p5-encode,2017-06-19 17:17:43,1d2c1a22ce7cb2c9e7339d4d5f5a8f30548e5375,0.0,0.0,0.0,0.0
+146,Commit,dankogai_p5-encode,2017-06-19 12:34:44,f27775cc169bc198411cdc6d161cc35d4bcbd242,5.0,3.0,1.0,0.0
+147,Commit,dankogai_p5-encode,2017-06-10 17:36:39,01856e94e040e91db8159b32bc5ed074b83efd70,1.0,0.0,1.0,0.0
+148,Commit,dankogai_p5-encode,2017-06-10 17:25:39,e147196bc5e31df156703fd2ec0a480bbe2b544e,71.0,25.0,19.0,0.0
+149,Commit,dankogai_p5-encode,2017-06-10 16:49:17,102c482205f9a40f9c6a58acc4be3227a293dd78,0.0,0.0,0.0,0.0
+150,Commit,dankogai_p5-encode,2017-06-10 10:02:50,cc36aa03b23796a65408e7d23254f150847250c6,88.0,0.0,1.0,0.0
+151,Commit,dankogai_p5-encode,2017-06-10 00:36:50,73452599a71d23dddf40cf7bc86e54e1af32467e,0.0,0.0,0.0,0.0
+152,Commit,dankogai_p5-encode,2017-06-09 15:23:54,20ac73416ca23b60a518355addd402884567c4d6,11.0,19.0,5.0,0.0
+153,Commit,dankogai_p5-encode,2017-06-09 15:23:33,ce913ed6f4c6f25f7574900eca59c681a67d9463,2.0,4.0,1.0,0.0
+154,Commit,dankogai_p5-encode,2017-06-09 07:43:42,728e86efa11fe3e52ef02efefd68c64663498bda,0.0,0.0,0.0,0.0
+155,Commit,dankogai_p5-encode,2017-06-08 22:02:15,43773aef17b1e14f16e0ea01db0a597668b78b48,29.0,47.0,1.0,0.0
+156,Commit,dankogai_p5-encode,2017-06-08 22:01:55,21dca8936cafffd3e322e6dc84f2f9d1c77e0c31,1.0,1.0,1.0,0.0
+157,Commit,dankogai_p5-encode,2017-06-08 22:01:02,6f1d3be290f6873a7720ca3edf1d66da954273c0,5.0,16.0,1.0,0.0
+158,Commit,dankogai_p5-encode,2017-06-08 22:00:22,0f37ba326c8cb38d89aaaa9003e632a0d29966cd,2.0,2.0,1.0,0.0
+159,Commit,dankogai_p5-encode,2017-06-08 22:00:14,03415352fa460975d50525480ed7dc6cb26e195b,4.0,4.0,1.0,0.0
+160,Commit,dankogai_p5-encode,2017-06-08 22:00:01,1a6cb0118fd92886d0f39c0d7030409fce687334,18.0,19.0,1.0,0.0
+161,Commit,dankogai_p5-encode,2017-06-08 21:59:32,0f2b7cdc22b7cf52551a5e47b848b7e3bd78d5be,0.0,10.0,1.0,0.0
+162,Commit,dankogai_p5-encode,2017-06-08 07:51:32,21a409bbe8cc2a11c8b5196a07c6466c99a1a1c5,0.0,0.0,0.0,0.0
+163,Commit,dankogai_p5-encode,2017-06-07 20:55:10,647371a72d3dbd05c851aa638244ce7b97f9724c,1.0,5.0,1.0,0.0
+164,Commit,dankogai_p5-encode,2017-06-07 20:54:33,04d7bbff90a84752c89f760fe06c13c89d7bdf74,1.0,1.0,1.0,0.0
+165,Commit,dankogai_p5-encode,2017-06-07 20:52:21,2c108c4b0a8ff35440b6a702049a6526c9412fdd,1.0,1.0,1.0,0.0
+166,Commit,dankogai_p5-encode,2017-06-07 06:20:40,9b68e23d4639ac1e52f53f5404804add9b676f8d,0.0,0.0,0.0,0.0
+167,Commit,dankogai_p5-encode,2017-06-06 21:07:08,d24dbb8ab55ca0606155ac98d89aa0713725c698,3.0,2.0,2.0,0.0
+168,Commit,dankogai_p5-encode,2017-06-06 21:07:03,1b11aea9af601a2a5dff24c29dc202a0e978d68e,1.0,2.0,1.0,0.0
+169,Commit,dankogai_p5-encode,2017-06-01 02:52:20,9147e49cda25e4485f4a0100d523c3bffc797dde,0.0,0.0,0.0,0.0
+170,Commit,dankogai_p5-encode,2017-05-31 20:35:31,55364c9dfa1e3ce611cdff08fc576c86a0bdcdf4,8.0,15.0,4.0,0.0
+171,Commit,dankogai_p5-encode,2017-05-31 02:01:52,e42b22cff6e6d9560a6d5a25c6ec174c0c4ae941,0.0,0.0,0.0,0.0
+172,Commit,dankogai_p5-encode,2017-05-30 15:45:00,ed32e8cd031b36f3b09911dc6f6e4bbba3bd8ac1,66.0,78.0,1.0,0.0
+173,Commit,dankogai_p5-encode,2017-05-30 15:38:15,fe2c32d0dfde59ddb88236a77d428065ec102797,9.0,53.0,4.0,0.0
+174,Commit,dankogai_p5-encode,2017-05-30 02:48:17,a66849757a5b68f8ec08dee12fd3dee62a6cf2da,0.0,0.0,0.0,0.0
+175,Commit,dankogai_p5-encode,2017-05-29 19:15:26,f1894ea9a3868825baaf5718be81520285065ce7,3.0,3.0,1.0,0.0
+176,Commit,dankogai_p5-encode,2017-05-29 19:15:17,1a48682de026b40efdc53958dee9ce96bc059878,14.0,6.0,2.0,0.0
+177,Commit,dankogai_p5-encode,2017-05-29 15:25:45,20ed8f3ba97c7013b4b4e5d659eb86bfc5446897,0.0,0.0,0.0,0.0
+178,Commit,dankogai_p5-encode,2017-05-25 17:32:42,3c860475aee454495bde40a360b720185052162a,8.0,6.0,3.0,0.0
+179,Commit,dankogai_p5-encode,2017-05-25 17:32:33,e1f8bc2f46c1c230327938e585862ff65fd8c91a,22.0,16.0,6.0,0.0
+180,Commit,dankogai_p5-encode,2017-05-17 01:51:19,e52dd568fe243248098666402966be409984baaa,0.0,0.0,0.0,0.0
+181,Commit,dankogai_p5-encode,2017-05-16 15:59:20,9139ec59bf91f53ea5477d3cbb3288c93f215974,14.0,10.0,1.0,0.0
+182,Commit,dankogai_p5-encode,2017-05-16 15:59:15,f752c669d524c5247e944d3c77a5b00f424b58e5,1.0,0.0,1.0,0.0
+183,Commit,dankogai_p5-encode,2017-05-15 18:19:31,d42e1f125184d355953f160586299cac601c0318,0.0,0.0,0.0,0.0
+184,Commit,dankogai_p5-encode,2017-05-15 16:13:59,5131874b6cb572e2780815ca9dd54066c07b6e5a,2.0,2.0,1.0,0.0
+185,Commit,dankogai_p5-encode,2017-05-15 08:42:31,fa7cb8df82474aec36aae6f123ce00ca45c42614,11.0,8.0,3.0,0.0
+186,Commit,dankogai_p5-encode,2017-05-08 17:57:03,8f9d8e09db6100a4699541ddebb7010365568a08,0.0,0.0,0.0,0.0
+187,Commit,dankogai_p5-encode,2017-05-08 11:32:22,d888bc72e6ea19683ba6b6c844f63225025bcce8,4.0,0.0,1.0,0.0
+188,Commit,dankogai_p5-encode,2017-05-08 10:20:22,d0c072d22d827ba9c62540b667506aae8dd9b61d,0.0,0.0,0.0,0.0
+189,Commit,dankogai_p5-encode,2017-05-06 14:34:25,2e613480892f66ac262831c7a0efe6730e054e6c,66.0,20.0,2.0,0.0
+190,Commit,dankogai_p5-encode,2017-05-05 21:12:31,98cfc05344ec3d1416fa5c8777db102081860862,1.0,0.0,1.0,0.0
+191,Commit,dankogai_p5-encode,2017-05-05 20:53:49,07b71dbe081964fb020c336fd2e070d72c7b2210,1.0,1.0,1.0,0.0
+192,Commit,dankogai_p5-encode,2017-04-21 05:22:50,8dd705b7b672be15fff08b025eeb7100415363a4,60.0,23.0,19.0,0.0
+193,Commit,dankogai_p5-encode,2017-04-21 03:13:26,3f4f17e8e4a337d46528474c8ed0df632616ac3a,0.0,0.0,0.0,0.0
+194,Commit,dankogai_p5-encode,2017-04-20 16:10:14,bb60a14dcd278f6ed7fe3553ebb9ffcb7a34150e,1.0,1.0,1.0,0.0
+195,Commit,dankogai_p5-encode,2017-04-20 16:10:01,2fd62645ba57b6669663402d7d7534eb033d3f05,0.0,11.0,1.0,0.0
+196,Commit,dankogai_p5-encode,2017-04-20 16:09:45,c1bbfc0b839911bba9e12aeec307d777a15dcadb,67.0,8.0,5.0,0.0
+197,Commit,dankogai_p5-encode,2017-04-20 16:09:31,dc4214d098b1dfb6f31bacd0b1f19d950f3bf2b0,61.0,16.0,2.0,0.0
+198,Commit,dankogai_p5-encode,2017-04-19 03:33:26,c856e528bdfb02fd496b8a240133a785e878a78f,0.0,0.0,0.0,0.0
+199,Commit,dankogai_p5-encode,2017-04-04 19:46:36,56b9f96fa8a596942704196ba340cff91d0b1648,2.0,4.0,1.0,0.0
+200,Commit,dankogai_p5-encode,2017-03-27 16:46:15,df6cbc0473f388d1bed7fbf74b1d9dca5041f334,0.0,0.0,0.0,0.0
+201,Commit,dankogai_p5-encode,2017-03-27 16:29:57,f1f14e29ac04696742281bf372073368c126e420,1.0,1.0,1.0,0.0
+202,Commit,dankogai_p5-encode,2017-03-27 07:54:10,f7d2265b58909840cd711c43df67d84e251ea3ab,0.0,0.0,0.0,0.0
+203,Commit,dankogai_p5-encode,2017-03-26 16:50:56,8789dca5f79558b30320c9ce4a7b46527d4b2b84,1.0,1.0,1.0,0.0
+204,Commit,dankogai_p5-encode,2017-03-26 15:15:33,0aa6687e5c954001943f9a8a3be3199379cf4005,0.0,0.0,0.0,0.0
+205,Commit,dankogai_p5-encode,2017-03-21 19:36:03,505a4f580a9f333db672cbaa0ea9990f11567969,32.0,2.0,8.0,0.0
+206,Commit,dankogai_p5-encode,2017-03-17 02:45:57,6a1a4f7baf778d8f31d221decaa0da65dde0dc38,0.0,0.0,0.0,0.0
+207,Commit,dankogai_p5-encode,2017-03-16 22:50:26,6d24cd5b0164b2e78ff1495611cbc88404dd7e55,66.0,0.0,1.0,0.0
+208,Commit,dankogai_p5-encode,2017-03-16 22:38:11,d31a52fcc5f71cb85c3b2e2770280aa7b2f0a752,455.0,0.0,1.0,0.0
+209,Commit,dankogai_p5-encode,2017-02-11 22:27:11,40d9858e29df7f224a1cf9d49c53a379928ed518,0.0,0.0,0.0,0.0
+210,Commit,dankogai_p5-encode,2017-02-11 18:13:39,c7621fc85df336543226033030c44f5c0b8a0966,11.0,3.0,1.0,0.0
+211,Commit,dankogai_p5-encode,2017-02-11 18:13:34,5728f54dea3a51c8a42cd98b24b2b3b4e9d5b35a,6.0,6.0,1.0,0.0
+212,Commit,dankogai_p5-encode,2017-02-11 18:13:29,12feacd2ed6ad5716124b36233ea5b65ac7623f4,5.0,5.0,1.0,0.0
+213,Commit,dankogai_p5-encode,2017-01-14 23:31:22,a70d0f60d975c76d423d6a0aa26a75fee88067b9,0.0,0.0,0.0,0.0
+214,Commit,dankogai_p5-encode,2017-01-14 10:48:18,da46f85a3d05d3cbf2da3b22f1e2d89402fd89de,3.0,0.0,1.0,0.0
+215,Commit,dankogai_p5-encode,2017-01-14 02:44:43,a829667246949ce8232768215a9ed019f77e7740,0.0,0.0,0.0,0.0
+216,Commit,dankogai_p5-encode,2016-12-17 22:07:18,775c55f0b5d024cd6b81ea8c8fdbb82531faf4b5,4.0,1.0,1.0,0.0
+217,Commit,dankogai_p5-encode,2016-12-17 21:51:54,27367cf7260aef08b1c01f821fb58b59585481a7,5.0,2.0,1.0,0.0
+218,Commit,dankogai_p5-encode,2016-12-14 05:59:42,c2891ea4e4fd139db477a7c014d7b8122d870248,0.0,0.0,0.0,0.0
+219,Commit,dankogai_p5-encode,2016-12-12 12:50:14,56240d36da6daff01a517f7af0e7691574f14a9b,4.0,0.0,1.0,0.0
+220,Commit,dankogai_p5-encode,2016-12-10 01:39:15,273e3d1f05077e77f849463c9cc4f0b90c400f6d,0.0,0.0,0.0,0.0
+221,Commit,dankogai_p5-encode,2016-12-09 10:10:40,db6b3fbeac881b378c3244cabc55fa5397eba523,1.0,1.0,1.0,0.0
+222,Commit,dankogai_p5-encode,2016-12-08 23:24:22,a3541e5da553f58288fc8a7b21287ffd8f350c1a,0.0,0.0,0.0,0.0
+223,Commit,dankogai_p5-encode,2016-12-08 22:18:25,aac8a70b730a4a53ccb7fcdc1a13dc03d235a2e7,53.0,11.0,3.0,0.0
+224,Commit,dankogai_p5-encode,2016-11-29 23:33:32,b426e97a6d6ce789cba686917b8d73df481f8926,42.0,17.0,15.0,0.0
+225,Commit,dankogai_p5-encode,2016-11-29 23:06:25,714455c67f2e1ca54189667093ec147700444dc1,0.0,0.0,0.0,0.0
+226,Commit,dankogai_p5-encode,2016-11-29 23:04:32,3bf7587cbb61247a4be1a5193cd31c1fd2723340,0.0,0.0,0.0,0.0
+227,Commit,dankogai_p5-encode,2016-11-29 22:58:50,b7d51724046b4cf36cfa9149b8aefb6266590846,0.0,0.0,0.0,0.0
+228,Commit,dankogai_p5-encode,2016-11-29 21:55:11,44d25b24d8b6120d235f10f17e7aa278549ef30f,1.0,0.0,1.0,0.0
+229,Commit,dankogai_p5-encode,2016-11-23 18:43:37,de6dfa0f9b65b5df655b9131ad017ac728e255cc,16.0,5.0,2.0,0.0
+230,Commit,dankogai_p5-encode,2016-11-23 18:43:37,9e089351273a6a5924bbb0778faf58e70b650c95,3.0,1.0,1.0,0.0
+231,Commit,dankogai_p5-encode,2016-11-23 18:43:37,449ac9dea2752e280ab1caa04ea0d3300f370929,10.0,4.0,2.0,0.0
+232,Commit,dankogai_p5-encode,2016-11-23 18:43:37,b2d7aeb1c4e3dabd5f3c3a6684b079005fba930f,4.0,4.0,1.0,0.0
+233,Commit,dankogai_p5-encode,2016-11-23 18:43:37,ab93193ec399cea0e5aa41f6247acac808b5e6fa,161.0,0.0,1.0,0.0
+234,Commit,dankogai_p5-encode,2016-11-23 18:43:37,2fa74573aee75955c587908dfa26283647f05f36,4.0,4.0,4.0,0.0
+235,Commit,dankogai_p5-encode,2016-11-23 18:43:37,25b7365ad738dbd2ace21c7846ec997b67bc0957,20.0,5.0,1.0,0.0
+236,Commit,dankogai_p5-encode,2016-11-23 18:43:37,d92071dba0a9c72e78500825c263f1c90b5a7f15,11.0,0.0,1.0,0.0
+237,Commit,dankogai_p5-encode,2016-11-23 08:54:05,8591696a8652fcda58f77325d882a8f535ffb488,2.0,2.0,1.0,0.0
+238,Commit,dankogai_p5-encode,2016-11-23 04:06:16,3ae4d026a5416595102928b1d620cb6a9b4ed057,0.0,0.0,0.0,0.0
+239,Commit,dankogai_p5-encode,2016-11-22 12:09:45,648fcc106d1754918f485dca460daaeeb4b8f043,44.0,10.0,1.0,0.0
+240,Commit,dankogai_p5-encode,2016-11-22 12:08:53,69a505814b2b63d155eb24266053f996cd35c9b7,0.0,0.0,0.0,0.0
+241,Commit,dankogai_p5-encode,2016-11-22 12:07:37,e5234b12de5c7a0744cd4ad382468d3a130c0065,0.0,0.0,0.0,0.0
+242,Commit,dankogai_p5-encode,2016-11-22 12:05:32,3728813dff79006c4d8a24fd65d2018c7e266cd6,0.0,0.0,0.0,0.0
+243,Commit,dankogai_p5-encode,2016-11-19 23:25:25,4e4d32057c0a00b1d512155c20c518127e0073af,9.0,9.0,2.0,0.0
+244,Commit,dankogai_p5-encode,2016-11-09 17:37:35,e271ab0917d63bdad68f72d711b6502a40f1d87c,26.0,12.0,2.0,0.0
+245,Commit,dankogai_p5-encode,2016-11-09 17:01:37,e26cee2a10d74a63a19448743913653b0181408c,66.0,19.0,2.0,0.0
+246,Commit,dankogai_p5-encode,2016-11-09 03:07:27,d9154504dfd26b2f05296e825a5933756b74d0d5,0.0,0.0,0.0,0.0
+247,Commit,dankogai_p5-encode,2016-11-01 20:40:17,3284de749b712395a128a9eb28ce7d2a4af61390,2.0,2.0,1.0,0.0
+248,Commit,dankogai_p5-encode,2016-11-01 20:39:52,f995985cbf64ce5a1d66bb5f799e63cbb9873b12,9.0,9.0,1.0,0.0
+249,Commit,dankogai_p5-encode,2016-11-01 13:31:55,d14cc64e5ecf9056f55e6a9671984c3b988f14c6,46.0,23.0,3.0,0.0
+250,Commit,dankogai_p5-encode,2016-10-28 05:05:58,374dc05afe36d8472f6d493f3e848f6f8bb9e0bb,58.0,18.0,16.0,0.0
+251,Commit,dankogai_p5-encode,2016-10-28 02:08:13,7dfabb281d08aa9af340d5a0b29d5ff0ffa11f6b,0.0,0.0,0.0,0.0
+252,Commit,dankogai_p5-encode,2016-10-28 01:34:35,4736434e2b75ad04ff24eac6290d24fcb1306bb6,7.0,3.0,2.0,0.0
+253,Commit,dankogai_p5-encode,2016-10-28 01:20:40,cbd342124d8e457dee430aa7a018e76c7deb7ae0,0.0,0.0,0.0,0.0
+254,Commit,dankogai_p5-encode,2016-10-27 07:23:02,1605fa468a44e4c1b20635493b7ba58e23a42979,127.0,2.0,5.0,0.0
+255,Commit,dankogai_p5-encode,2016-10-27 00:08:23,1383c18a99d9d6f916c330c04265424f11f89fe2,0.0,0.0,0.0,0.0
+256,Commit,dankogai_p5-encode,2016-10-26 23:51:19,31b34fcc0be8c359994f136e7c504e32fb26fbce,53.0,10.0,3.0,0.0
+257,Commit,dankogai_p5-encode,2016-10-26 23:31:51,6e7463341d79da05cbf43977977436639307ffe7,0.0,0.0,0.0,0.0
+258,Commit,dankogai_p5-encode,2016-10-26 23:11:09,1001ccb529dab79f3fb66e0b5fd4242c395ffa27,1.0,0.0,1.0,0.0
+259,Commit,dankogai_p5-encode,2016-10-26 23:07:07,20eaeb85cb25b4472c4e994e84a6302bd954655f,0.0,0.0,0.0,0.0
+260,Commit,dankogai_p5-encode,2016-10-26 22:39:55,8d7150f0da05941392b7e56b2e2c7acd461979f0,1.0,3.0,1.0,0.0
+261,Commit,dankogai_p5-encode,2016-10-26 22:39:49,ebdad9b4ff4f93f57aca6e2d260ff74cbc2b93e9,380.0,125.0,6.0,0.0
+262,Commit,dankogai_p5-encode,2016-10-26 22:39:43,0da896b2cafd49aa9b10988be0d180940023c1fb,2.0,1.0,1.0,0.0
+263,Commit,dankogai_p5-encode,2016-10-26 22:32:25,9f304268000961e96d68d8094db07a3c0ef9d52e,0.0,0.0,0.0,0.0
+264,Commit,dankogai_p5-encode,2016-10-26 22:29:20,06e43282e073909c82b52bd27633f8fd5cbd2d47,0.0,0.0,0.0,0.0
+265,Commit,dankogai_p5-encode,2016-10-14 17:52:01,189c157dea0c647ae9077fe1d8b3776775e93c90,1.0,1.0,1.0,0.0
+266,Commit,dankogai_p5-encode,2016-10-11 19:24:44,6c2e4aff4bb12b7c0584354b788d142092d7c629,1.0,1.0,1.0,0.0
+267,Commit,dankogai_p5-encode,2016-10-11 19:20:06,ba0f5c1597d1d7d6437f3aea412247a19444cb3d,41.0,41.0,1.0,0.0
+268,Commit,dankogai_p5-encode,2016-10-08 13:48:46,8b6dace1d0cf7115974c999161430f0b8f273e21,7.0,7.0,4.0,0.0
+269,Commit,dankogai_p5-encode,2016-10-08 13:48:10,7f9aebd5e1deec265020ca62b98a32b924df839a,14.0,5.0,4.0,0.0
+270,Commit,dankogai_p5-encode,2016-10-06 19:48:58,dad0bc9fa3ef23f09e03980512f6d8f07b1b81e0,94.0,54.0,1.0,0.0
+271,Commit,dankogai_p5-encode,2016-10-06 19:48:58,ae1958c5b2604cf608c04cdc105ba978b1079e80,4.0,0.0,1.0,0.0
+272,Commit,dankogai_p5-encode,2016-10-06 19:48:58,03ce81895cfcde710b0703733d99a5491421734d,1.0,1.0,1.0,0.0
+273,Commit,dankogai_p5-encode,2016-10-06 19:48:58,c85796ff4386bfdb238c11f9297cf52849a0097e,1.0,1.0,1.0,0.0
+274,Commit,dankogai_p5-encode,2016-10-06 19:48:58,2770a0b33d609d90b2c72d012b5bad63ed6a9cc5,16.0,3.0,2.0,0.0
+275,Commit,dankogai_p5-encode,2016-10-06 19:48:58,3b3cdc49726c1e09c6ad41ea22944229ba64c611,14.0,1.0,1.0,0.0
+276,Commit,dankogai_p5-encode,2016-10-06 19:48:58,7cb2405474cc6bd2cd635c583f8f1d3af7b4c785,167.0,38.0,2.0,0.0
+277,Commit,dankogai_p5-encode,2016-10-06 19:48:58,ec880c9d7cf1da0c568351378d3dc0b8c33e1a16,32.0,21.0,1.0,0.0
+278,Commit,dankogai_p5-encode,2016-10-06 19:48:58,68934e57505b2b6a7d671b16116a75b809705cfd,56.0,6.0,2.0,0.0
+279,Commit,dankogai_p5-encode,2016-10-06 19:48:58,494a4553dbce427d1d5151bc911886c8c9946699,26.0,18.0,2.0,0.0
+280,Commit,dankogai_p5-encode,2016-10-06 19:48:58,0367a8f46738184b922c2a2887dd8dbb105b1f15,59.0,4.0,3.0,0.0
+281,Commit,dankogai_p5-encode,2016-10-06 19:48:58,2d7aaeeccf06bb8e624c89c2494d9540355e1be5,1.0,1.0,1.0,0.0
+282,Commit,dankogai_p5-encode,2016-10-06 19:48:58,614e348d34bd53d676a02752d6e3af9464731957,35.0,20.0,2.0,0.0
+283,Commit,dankogai_p5-encode,2016-10-06 19:48:58,66c91a489fe489837f1850aa8004f952b7f4b82a,1.0,1.0,1.0,0.0
+284,Commit,dankogai_p5-encode,2016-10-06 19:48:58,0dd732bfa2e43a541b34ccc3e5bb8ee75a33794a,5.0,3.0,2.0,0.0
+285,Commit,dankogai_p5-encode,2016-10-06 19:48:58,3cbf3e8ebf7910cb115fc5997f4a330751d92943,53.0,20.0,2.0,0.0
+286,Commit,dankogai_p5-encode,2016-10-06 19:48:58,2d6c29d6b3f08bf9233cff6a7ab8d73f5d3671f8,43.0,40.0,1.0,0.0
+287,Commit,dankogai_p5-encode,2016-10-06 19:48:58,cf1e1c0deb9abff24706709aeba94ddeb377fb12,9.0,1.0,1.0,0.0
+288,Commit,dankogai_p5-encode,2016-10-06 19:48:58,de4ce958481297c698b59d648d6ede2cf5df47e8,4.0,1.0,1.0,0.0
+289,Commit,dankogai_p5-encode,2016-10-06 19:48:58,2a2cc914a764adc58b7b65d658244b32454e996c,22.0,1.0,1.0,0.0
+290,Commit,dankogai_p5-encode,2016-09-29 15:37:13,a809359dfc8350c6f41dda766aac05ac8f9892f0,1.0,1.0,1.0,0.0
+291,Commit,dankogai_p5-encode,2016-09-29 01:14:19,d69edff38b76d7c83dbe3971e15e314b9bbdbc18,0.0,0.0,0.0,0.0
+292,Commit,dankogai_p5-encode,2016-09-28 16:06:40,1441d0691ebda27a1d49e2fe5adb0f5865791282,0.0,0.0,0.0,0.0
+293,Commit,dankogai_p5-encode,2016-09-28 15:07:24,0ed14e24219a934214a01d1a29cbfe3f95718e9e,18.0,105.0,1.0,0.0
+294,Commit,dankogai_p5-encode,2016-09-22 12:48:05,519fb7e761447245fed9bb2de02e894b71ccae2f,11.0,1.0,2.0,0.0
+295,Commit,dankogai_p5-encode,2016-08-22 03:28:23,22d3088a445fbddd9e0993652c291647af2b8cd3,0.0,0.0,0.0,0.0
+296,Commit,dankogai_p5-encode,2016-08-19 08:58:56,3cf4b7e53c84d91fa819d89d2504be2db90dee11,3.0,1.0,1.0,0.0
+297,Commit,dankogai_p5-encode,2016-08-19 04:05:31,cdb906e59bd90a9500650928779c1c1fa623a017,0.0,0.0,0.0,0.0
+298,Commit,dankogai_p5-encode,2016-08-16 17:07:31,b7fc82093961f282b986a62c582b4ca2fcc303db,14.0,0.0,1.0,0.0
+299,Commit,dankogai_p5-encode,2016-08-16 17:05:17,cbdb75742d763ab4133942014747132400c6ddfb,27.0,21.0,2.0,0.0
+300,Commit,dankogai_p5-encode,2016-08-16 16:34:37,2aac84fb885fb8560294c1080fc6bbf9be35e731,46.0,5.0,1.0,0.0
+301,Commit,dankogai_p5-encode,2016-08-11 21:43:24,3783dccdfc33a2c16f1ff07efc871658446b602e,0.0,0.0,0.0,0.0
+302,Commit,dankogai_p5-encode,2016-08-11 21:09:26,646aaae364fc8cd19786a66b88ec6aaf3f093024,15.0,1.0,2.0,0.0
+303,Commit,dankogai_p5-encode,2016-08-10 18:09:56,87f27923e349d1105bff846088f31a3706f3fa51,18.0,18.0,15.0,0.0
+304,Commit,dankogai_p5-encode,2016-08-10 17:57:23,cf6ff75f721b58676d44dc3f8d10e3dc8919795e,46.0,4.0,8.0,0.0
+305,Commit,dankogai_p5-encode,2016-08-10 17:43:52,f61f6122ea0915b73960df42b1b6ec25e8dc746b,7.0,1.0,2.0,0.0
+306,Commit,dankogai_p5-encode,2016-08-10 06:14:02,291016604c3124b8dffe9e53665c4c03f4cf7925,0.0,0.0,0.0,0.0
+307,Commit,dankogai_p5-encode,2016-08-10 05:54:44,352757b1e392cec9b20bc11d4adf712bba070e47,3.0,1.0,1.0,0.0
+308,Commit,dankogai_p5-encode,2016-08-10 05:53:52,89170a869cacda2bbca305a71a44eaa1b822f7ba,15.0,4.0,1.0,0.0
+309,Commit,dankogai_p5-encode,2016-08-10 05:25:16,0352ac06190766affa0a52565a321c6495ec5187,12.0,1.0,2.0,0.0
+310,Commit,dankogai_p5-encode,2016-08-04 03:17:33,423fdb4b98e9154b4603596989e983613e8d0764,24.0,14.0,11.0,0.0
+311,Commit,dankogai_p5-encode,2016-08-04 03:08:11,7e2aff29c263232a590d3520bf930a3cbc65f499,0.0,0.0,0.0,0.0
+312,Commit,dankogai_p5-encode,2016-07-27 04:52:40,12be15d64ce089154c4367dc1842cd0dc0993ec6,7.0,0.0,6.0,0.0
+313,Commit,dankogai_p5-encode,2016-07-22 08:29:31,8fe2cd042bc415f486924515daab7eace22f4d7c,0.0,0.0,0.0,0.0
+314,Commit,dankogai_p5-encode,2016-07-22 07:54:57,07c8adb58e55c7cf66b3d6673bf50010fe1a69ea,58.0,4.0,2.0,0.0
+315,Commit,dankogai_p5-encode,2016-07-12 09:07:36,97cc6d3ec6c92e96a4ab08a89a01ebdcb92c17b5,59.0,16.0,1.0,0.0
+316,Commit,dankogai_p5-encode,2016-07-11 01:56:46,64c9ae85b41210cdae6a7f95af9e158405a6a0e7,16.0,52.0,1.0,0.0
+317,Commit,dankogai_p5-encode,2016-07-11 01:53:00,e2416cb645fd0664eb88838eb55cd706edc9723f,32.0,29.0,2.0,0.0
+318,Commit,dankogai_p5-encode,2016-07-11 01:33:47,8e3b3e3dfa612016e385597ab74cccdd5f87d3a0,29.0,32.0,2.0,0.0
+319,Commit,dankogai_p5-encode,2016-07-11 01:21:59,8107d81b8931ae73e5d8493c16503a848e125495,0.0,0.0,0.0,0.0
+320,Commit,dankogai_p5-encode,2016-07-09 21:10:45,1d32768b61fd880462d6e205d42873fdbc2c2d1c,31.0,12.0,1.0,0.0
+321,Commit,dankogai_p5-encode,2016-07-09 18:19:48,3b837ce5cf34a87a2cb8a2b4bb935bb025643940,21.0,4.0,1.0,0.0
+322,Commit,dankogai_p5-encode,2016-06-23 07:05:28,96df5ed069baf5b3f6c62ad36eca4c92247d4f3d,32.0,29.0,2.0,0.0
+323,Commit,dankogai_p5-encode,2016-06-23 06:40:26,eed070b79003fb570ec11e3333a00a230dc4522a,7.0,5.0,2.0,0.0
+324,Commit,dankogai_p5-encode,2016-06-23 06:32:07,85e68df29f85dd66e8f790aa29ad4bc7bfbff235,7.0,3.0,2.0,0.0
+325,Commit,dankogai_p5-encode,2016-06-23 06:13:00,79f94f2594d245d9aa0d39a7934ace01079c66f0,4.0,0.0,1.0,0.0
+326,Commit,dankogai_p5-encode,2016-06-23 06:02:27,9aa5286c1ea323ca67ba9a769cb2ab4e10f1d5fe,14.0,2.0,3.0,0.0
+327,Commit,dankogai_p5-encode,2016-06-14 08:01:02,f37539b74f73327e6d1c85b245a064f6831edca0,43.0,4.0,4.0,0.0
+328,Commit,dankogai_p5-encode,2016-05-08 10:02:03,c94989b7b05b8796bb2d8e09542da4b3e5c605b7,0.0,0.0,0.0,0.0
+329,Commit,dankogai_p5-encode,2016-05-08 09:05:11,4dcbaecd0403d3fb131bc6b42e04a8da5e57ec72,3.0,0.0,1.0,0.0
+330,Commit,dankogai_p5-encode,2016-04-14 12:40:50,c87dcf8369341780c572acb1e1548d96a48921ea,0.0,0.0,0.0,0.0
+331,Commit,dankogai_p5-encode,2016-04-11 12:51:57,d24bd4f87aa4426a74120f150fa37c2c930f1f86,12.0,0.0,1.0,0.0
+332,Commit,dankogai_p5-encode,2016-04-11 07:17:32,cddbe41bfbdd332005ef608040c347275a74a0b7,15.0,6.0,4.0,0.0
+333,Commit,dankogai_p5-encode,2016-04-04 21:01:58,1fb769272f965d9e8dc9d3e134d98250091a23c4,0.0,0.0,0.0,0.0
+334,Commit,dankogai_p5-encode,2016-04-01 18:48:04,c480b4556fd9b0cb4743d14e88a7d0da3da754ab,3.0,2.0,1.0,0.0
+335,Commit,dankogai_p5-encode,2016-04-01 03:53:46,03d19c7e625720a927b8924e3ad8f8526966a853,0.0,0.0,0.0,0.0
+336,Commit,dankogai_p5-encode,2016-03-29 18:53:55,f6d580257ecf4ac75a38c19ff38dbbbe3c76aa0e,7.0,2.0,2.0,0.0
+337,Commit,dankogai_p5-encode,2016-03-24 07:52:31,ca4d1af04119cecf4576a10fafcd0666547172f7,17.0,12.0,5.0,0.0
+338,Commit,dankogai_p5-encode,2016-03-22 00:11:12,a65d12430d60ea1f223c40136c80c9ed36828f30,0.0,0.0,0.0,0.0
+339,Commit,dankogai_p5-encode,2016-03-21 23:00:39,dd0d5ab9f970e9ff99763ff43179cef827d231d9,243.0,206.0,4.0,0.0
+340,Commit,dankogai_p5-encode,2016-03-11 05:13:26,422724242539372aa89e281be1fbf718c5d8a927,0.0,0.0,0.0,0.0
+341,Commit,dankogai_p5-encode,2016-03-10 21:21:38,7086f87b3b9e7dab5e7672c752940519da8292cf,1.0,1.0,1.0,0.0
+342,Commit,dankogai_p5-encode,2016-02-26 04:28:17,ad4395a2cd9ef08f8e48a5eab5cc7dce0a089ff9,0.0,0.0,0.0,0.0
+343,Commit,dankogai_p5-encode,2016-02-25 17:42:30,d2a2021a1d433609a7b84f62d8a7538932a37f28,3.0,2.0,1.0,0.0
+344,Commit,dankogai_p5-encode,2016-02-06 20:19:50,5f77167065d2b5c30ea847b7aed17ef158c2efb9,26.0,9.0,5.0,0.0
+345,Commit,dankogai_p5-encode,2016-01-26 10:52:40,f234d82cef8276cbf909809fba6c2ff363c2a3c9,1.0,67.0,2.0,0.0
+346,Commit,dankogai_p5-encode,2016-01-26 10:38:36,aae5bef0ecb481b199b79dfc0f46312f63ee19ab,33.0,30.0,1.0,0.0
+347,Commit,dankogai_p5-encode,2016-01-26 01:51:52,50aabd105e2114dab466f9888a920474a7970ed0,3.0,0.0,1.0,0.0
+348,Commit,dankogai_p5-encode,2016-01-26 01:50:03,1d92540fbe85a5169dddeb2388a8f50c7797fb24,66.0,2.0,2.0,0.0
+349,Commit,dankogai_p5-encode,2016-01-25 17:21:18,b0d30fbf504b69caad5cc43b5c25c9a3b0166fa1,17.0,1.0,1.0,0.0
+350,Commit,dankogai_p5-encode,2016-01-25 14:55:06,78cd522162642590392c904c3135ca265ce0cbd6,6.0,6.0,4.0,0.0
+351,Commit,dankogai_p5-encode,2016-01-25 14:42:42,77c0a92d8d12f06a3d92ea3d798ec81170b9202b,22.0,20.0,3.0,0.0
+352,Commit,dankogai_p5-encode,2016-01-22 06:47:08,2455a983c3f2c7ce70dd17f4f8dedcd59c379364,34.0,88.0,12.0,0.0
+353,Commit,dankogai_p5-encode,2016-01-22 06:19:13,b14a812a86f7e586ac22e9410ffc50aa5dc3969a,28.0,20.0,3.0,0.0
+354,Commit,dankogai_p5-encode,2016-01-22 05:15:02,2319dac0c078d05babd4261e1fdd25dfa3d98cf7,16.0,1.0,2.0,0.0
+355,Commit,dankogai_p5-encode,2015-12-21 03:57:31,24c415e4f7ae581a8df31b9296ff7af3c4429817,0.0,0.0,0.0,0.0
+356,Commit,dankogai_p5-encode,2015-12-09 22:36:19,4139a009d4bba8f14b419136bc3ce549fd1f52d6,1.0,1.0,1.0,0.0
+357,Commit,dankogai_p5-encode,2015-12-04 04:24:53,61c710328e894da9e4317e39336c764882446ed8,0.0,0.0,0.0,0.0
+358,Commit,dankogai_p5-encode,2015-11-29 01:10:10,16de02c1b5bc0510ea2c6b25ba4269c8bebfa52e,4.0,4.0,2.0,0.0
+359,Commit,dankogai_p5-encode,2015-11-12 09:21:35,8c1c1283c29f6999ec1c93da11155f05e03287da,0.0,0.0,0.0,0.0
+360,Commit,dankogai_p5-encode,2015-11-07 11:49:58,33a3e11086631ab96566f54a866187c663913375,3.0,1.0,1.0,0.0
+361,Commit,dankogai_p5-encode,2015-11-02 17:13:12,e8a782995dedf507ca52fdd76958583064e1bb50,0.0,0.0,0.0,0.0
+362,Commit,dankogai_p5-encode,2015-10-22 18:02:16,41f8ec07df4832a7930cb64edd24f4dcaf525437,1.0,0.0,1.0,0.0
+363,Commit,dankogai_p5-encode,2015-09-24 02:20:49,8257db172d3d82e8f62038e4628fb4045d8c390a,8.0,8.0,6.0,0.0
+364,Commit,dankogai_p5-encode,2015-09-24 02:14:45,923e57be845754a8471670503e3920b901f183dd,6.0,2.0,2.0,0.0
+365,Commit,dankogai_p5-encode,2015-09-17 16:03:06,8c2f67f5b8b32d5c198acc596b765d7f74d8583a,6.0,1.0,2.0,0.0
+366,Commit,dankogai_p5-encode,2015-09-15 13:54:17,071d39b8ef67e5384575fc62feb96451f8b7d939,12.0,12.0,8.0,0.0
+367,Commit,dankogai_p5-encode,2015-09-15 13:49:12,27682d02f7ac0669043faeb419dd5a104eecfb73,26.0,4.0,3.0,0.0
+368,Commit,dankogai_p5-encode,2015-09-14 02:41:33,fd47e38bfef0d812d89f0c7b23dc0b3f22018eab,1.0,3.0,1.0,0.0
+369,Commit,dankogai_p5-encode,2015-09-14 02:28:48,2a8775de1efcaab7cccd0b32f490cdc96e12745c,7.0,4.0,1.0,0.0
+370,Commit,dankogai_p5-encode,2015-09-14 02:17:26,dd130e8a94c06a8306a8afa10887a92cc5e5a2e5,8.0,3.0,3.0,0.0
+371,Commit,dankogai_p5-encode,2015-09-14 01:59:22,7c35132f52ef4fe47697173b968baba25aa8de23,0.0,0.0,0.0,0.0
+372,Commit,dankogai_p5-encode,2015-09-04 21:37:53,50efc0f22f09c08d56e18aeed2ca78f1c470bf93,5.0,0.0,1.0,0.0
+373,Commit,dankogai_p5-encode,2015-09-04 21:37:50,6181a9f58618376f01d3f8d802655a7cd4d2ad6c,9.0,9.0,1.0,0.0
+374,Commit,dankogai_p5-encode,2015-08-31 17:40:30,cb0a5ae8385d432fe65e867c4b7f046af733a378,1.0,0.0,1.0,0.0
+375,Commit,dankogai_p5-encode,2015-08-31 16:20:19,a3ddd242244c33c373ff1531f890921a0ac75802,9.0,0.0,1.0,0.0
+376,Commit,dankogai_p5-encode,2015-08-31 15:46:55,77db44078378e49dd2f05538a6d7a9ef5d8cdc57,6.0,7.0,1.0,0.0
+377,Commit,dankogai_p5-encode,2015-07-31 02:19:11,fb54402033cf310e5cc9d91e50016b28c59bc42e,11.0,6.0,3.0,0.0
+378,Commit,dankogai_p5-encode,2015-07-31 02:04:42,d1806ca40dbebd2675dc4d2832a9c540297412ab,0.0,0.0,0.0,0.0
+379,Commit,dankogai_p5-encode,2015-07-31 00:07:18,e7daefbf47aa383b7ad19ea140f39e8fc8575151,2.0,2.0,1.0,0.0
+380,Commit,dankogai_p5-encode,2015-06-30 10:03:38,4642d840838e5283560811e358486756f459f4bb,14.0,9.0,6.0,0.0
+381,Commit,dankogai_p5-encode,2015-06-25 00:51:31,a947869ea477b81edeaf984c22fa16e5628781eb,8.0,8.0,6.0,0.0
+382,Commit,dankogai_p5-encode,2015-06-25 00:44:41,f15f69f44f653de8125f7a3d85530465fc70c75a,9.0,4.0,2.0,0.0
+383,Commit,dankogai_p5-encode,2015-06-25 00:15:19,61549f10854247b236c2d132a20826332e2848bb,40.0,25.0,9.0,0.0
+384,Commit,dankogai_p5-encode,2015-06-24 23:58:49,65ee96a15475be62b9de192fab7ba1d9bfcfcaae,56.0,16.0,1.0,0.0
+385,Commit,dankogai_p5-encode,2015-06-05 03:41:53,da7b9400a7bcecdb920c22904905ff4819978414,1.0,0.0,1.0,0.0
+386,Commit,dankogai_p5-encode,2015-05-14 07:36:28,2df66d62d718bd35b0fe8a1cff33b91117c88d06,7.0,1.0,2.0,0.0
+387,Commit,dankogai_p5-encode,2015-04-15 23:15:16,60a3ff8222ea85044372d223f4bd01a19e608376,7.0,7.0,4.0,0.0
+388,Commit,dankogai_p5-encode,2015-04-02 12:07:46,c471e0f02fb217f073d2e5da53306664475b30a7,13.0,0.0,3.0,0.0
+389,Commit,dankogai_p5-encode,2015-04-02 11:36:12,924c04f168fbc23035ecfbd41dfcdbbf9eb3702e,16.0,1.0,2.0,0.0
+390,Commit,dankogai_p5-encode,2015-04-02 07:17:05,a4d91345f1fa434b860331411888fea909ee10f1,0.0,0.0,0.0,0.0
+391,Commit,dankogai_p5-encode,2015-04-01 17:40:19,dd9bc61763360f166d38482b8490d9da217b2a21,25.0,0.0,1.0,0.0
+392,Commit,dankogai_p5-encode,2015-04-01 17:39:57,4ed9ed08d2943ffc222863bc353a4a6e484c97db,66.0,51.0,1.0,0.0
+393,Commit,dankogai_p5-encode,2015-03-30 14:40:11,49d1f8bcf6c511e911bbb1c84ac5dea7a1657afa,0.0,0.0,0.0,0.0
+394,Commit,dankogai_p5-encode,2015-03-28 23:47:01,5d76b1d593b79319028f61daedb23411df615e6b,4.0,3.0,1.0,0.0
+395,Commit,dankogai_p5-encode,2015-03-28 23:41:02,3fc8e9d2e3a2481d11ed547f370396915cb0c870,6.0,9.0,1.0,0.0
+396,Commit,dankogai_p5-encode,2015-03-14 02:46:06,5ac059564287c10e630675af3b65f6e8b1103528,18.0,11.0,3.0,0.0
+397,Commit,dankogai_p5-encode,2015-03-12 00:07:47,7874bd95aa10967a3b5dbae333d16bcd703ac6c6,10.0,7.0,5.0,0.0
+398,Commit,dankogai_p5-encode,2015-03-12 00:02:33,6b56748b27e44598c27027a6dccd3b1c217ef041,0.0,0.0,0.0,0.0
+399,Commit,dankogai_p5-encode,2015-03-11 16:12:03,afcba14d20549efcf80323ccf67c4fa36f5c16be,5.0,7.0,1.0,0.0
+400,Commit,dankogai_p5-encode,2015-03-09 12:32:00,84b9c1101d5251d37e226f80d1c6781718779047,17.0,0.0,3.0,0.0
+401,Commit,dankogai_p5-encode,2015-02-24 06:32:57,47c613ab332874d29b8c719c42bdf2db792fb077,0.0,0.0,0.0,0.0
+402,Commit,dankogai_p5-encode,2015-02-24 06:08:48,cb1b8ad3e4304803864ec12700c16e7e896feec2,241.0,227.0,1.0,0.0
+403,Commit,dankogai_p5-encode,2015-02-05 16:34:43,829bf6d9f11886a2c83f84c40b58dcb113819a6c,0.0,0.0,0.0,0.0
+404,Commit,dankogai_p5-encode,2015-02-05 16:31:38,be412900ecca6abdc245d2f0253c6e0e8b14c3e6,0.0,0.0,0.0,0.0
+405,Commit,dankogai_p5-encode,2015-02-05 15:37:33,af45e6a5df98c9b859af40752e28bcd69e1444d1,21.0,0.0,1.0,0.0
+406,Commit,dankogai_p5-encode,2015-02-05 15:33:43,ddf8a7c58c95c58f33ad47d8bf9563049ca956c4,7.0,0.0,1.0,0.0
+407,Commit,dankogai_p5-encode,2015-02-05 10:55:00,adc6bdc010010bf1758d5793db5c8818f3e54d2a,10.0,5.0,3.0,0.0
+408,Commit,dankogai_p5-encode,2015-02-05 10:36:44,7e99b47df46f004e785a3ffc9650bc60191a60a2,24.0,20.0,5.0,0.0
+409,Commit,dankogai_p5-encode,2015-02-04 06:07:11,c748222a30fa28edae94356dd5bf8ae61a0c4ac6,121.0,55.0,2.0,0.0
+410,Commit,dankogai_p5-encode,2015-02-04 05:00:00,dfafababde19037c67de2b360c6ff35c7d64f545,0.0,0.0,0.0,0.0
+411,Commit,dankogai_p5-encode,2015-02-03 15:57:38,7ff7ec02baacbea0a72345c1f4d808a03e0cfbf7,1.0,1.0,1.0,0.0
+412,Commit,dankogai_p5-encode,2015-02-03 15:54:03,461d5bd0b301df23976f09142df8e55814be848f,1.0,0.0,1.0,0.0
+413,Commit,dankogai_p5-encode,2015-02-03 15:48:02,6ef376f9bfd1b57fcd9a07094a3d10baea48f8f3,90.0,0.0,1.0,0.0
+414,Commit,dankogai_p5-encode,2015-02-01 12:14:34,08392c3707fe8191bfb29189b8905edfc2af50f3,0.0,0.0,0.0,0.0
+415,Commit,dankogai_p5-encode,2015-01-31 21:46:00,69e2b0924b7be0ae51139d811605e909e2e2b0fb,1.0,1.0,1.0,0.0
+416,Commit,dankogai_p5-encode,2015-01-22 10:21:53,eed7551bd879bb01e4e6c2a45d0674b0dbed06e1,19.0,8.0,6.0,0.0
+417,Commit,dankogai_p5-encode,2015-01-22 10:13:48,57cbf97a2893285c49be4c733da644bbca516694,0.0,0.0,0.0,0.0
+418,Commit,dankogai_p5-encode,2015-01-22 08:55:29,72fdc033df97a1ad6b07fcd630c59fa4f7a52987,5.0,4.0,2.0,0.0
+419,Commit,dankogai_p5-encode,2015-01-22 01:05:45,4d9fd3a94048f85562bc24f4f32eb0b63340d345,0.0,0.0,0.0,0.0
+420,Commit,dankogai_p5-encode,2015-01-22 00:38:22,f43da80043ae4ba222430e1dec6da2902e0248eb,1.0,1.0,1.0,0.0
+421,Commit,dankogai_p5-encode,2015-01-22 00:33:52,573190b516e0b6ef533bc007c835ef154cb242d3,3.0,2.0,1.0,0.0
+422,Commit,dankogai_p5-encode,2015-01-20 00:11:01,8a77500d9f8b6c69d5c9248a485c4d91df6c7186,0.0,0.0,0.0,0.0
+423,Commit,dankogai_p5-encode,2015-01-19 14:39:43,7cb106ce49a91b936d096a6b2225529fd7e3c502,1.0,1.0,1.0,0.0
+424,Commit,dankogai_p5-encode,2015-01-19 14:39:13,2cf8a5d3b4ec85d979e5fe8fbe82665af69824f3,2.0,2.0,1.0,0.0
+425,Commit,dankogai_p5-encode,2015-01-19 14:38:31,eca8927f4322e45f4cc389115a21f8c2768e6100,1.0,1.0,1.0,0.0
+426,Commit,dankogai_p5-encode,2015-01-06 19:25:21,f5240ca80607eac7d0bb61cc0ab6a2d0b998b2b0,13.0,5.0,1.0,0.0
+427,Commit,dankogai_p5-encode,2015-01-06 14:30:00,aec2497d30ecdceb37c2a09804b11305b3e5552e,9.0,4.0,2.0,0.0
+428,Commit,dankogai_p5-encode,2014-12-04 20:14:24,8466238944da785adea99355f1427ed95bfb3410,10.0,4.0,2.0,0.0
+429,Commit,dankogai_p5-encode,2014-12-04 19:59:20,fe2d83fa99763e62c03c4d5f751ed4a41e8b90f4,7.0,6.0,1.0,0.0
+430,Commit,dankogai_p5-encode,2014-12-04 19:38:10,6e6588a0ae17f0add5a71418af9a78110e4e9d66,18.0,7.0,1.0,0.0
+431,Commit,dankogai_p5-encode,2014-12-02 23:33:38,6917602ad798178c2298bb30e3274a5aea13a1c3,13.0,9.0,4.0,0.0
+432,Commit,dankogai_p5-encode,2014-12-02 17:39:08,1dc34a2de07c0a5e378542b1ec0dc9007928e8df,2.0,1.0,1.0,0.0
+433,Commit,dankogai_p5-encode,2014-11-27 14:09:39,0f17fcfd2042875f4e2de15255a1ed47304bb80f,5.0,5.0,4.0,0.0
+434,Commit,dankogai_p5-encode,2014-11-27 14:04:46,47595f26f87a7d923fd78fab239a2c80f5d420c0,6.0,3.0,2.0,0.0
+435,Commit,dankogai_p5-encode,2014-11-27 13:54:52,f84cb7f6b0f8e667d30c948580a6a326a19a0466,24.0,5.0,3.0,0.0
+436,Commit,dankogai_p5-encode,2014-10-29 15:40:14,619d5a188e247ad9d998e3de0522c90057ec715b,10.0,5.0,3.0,0.0
+437,Commit,dankogai_p5-encode,2014-10-29 15:12:47,6f1f873ecc10e27c5ad6caca3af556e8f15c7446,13.0,0.0,3.0,0.0
+438,Commit,dankogai_p5-encode,2014-10-29 15:05:30,d2e163387971d3abd73481eb75ac3c6be9164e8f,0.0,0.0,0.0,0.0
+439,Commit,dankogai_p5-encode,2014-10-29 14:54:08,020f2fcefb404985ee84ee49c0e61abda443876f,0.0,0.0,0.0,0.0
+440,Commit,dankogai_p5-encode,2014-10-25 02:26:31,a6c2ba385875c2c03bd42350e23aef0188fb23b0,88.0,2.0,2.0,0.0
+441,Commit,dankogai_p5-encode,2014-10-21 23:27:56,3e9fd0c7b9e51f9c40b1be3b648a7e65dcfd57cd,0.0,0.0,0.0,0.0
+442,Commit,dankogai_p5-encode,2014-10-21 22:31:45,07ee44ae21b6b99d4f05055be472791aa50ac24b,7.0,3.0,1.0,0.0
+443,Commit,dankogai_p5-encode,2014-10-19 07:06:48,b4d116b217528a83eebfd7a1b8eda203ca99f9bf,6.0,6.0,4.0,0.0
+444,Commit,dankogai_p5-encode,2014-10-19 06:58:32,c2b2772d2d14724d16baa0ca0cb16eca7a48a38e,12.0,0.0,2.0,0.0
+445,Commit,dankogai_p5-encode,2014-10-19 06:49:35,636c95fb8b50c37283b61c5c7767091038a072ca,0.0,0.0,0.0,0.0
+446,Commit,dankogai_p5-encode,2014-10-19 06:26:46,ddb1fd28d6ccb931a8c92add6bc481770a60be21,11.0,2.0,10.0,0.0
+447,Commit,dankogai_p5-encode,2014-10-02 01:05:03,5f0737ab20b7bd46cddaccdfff5a6f78b73f19e1,2.0,0.0,1.0,0.0
+448,Commit,dankogai_p5-encode,2014-05-31 12:14:09,acb3caeae84e8b05cc56e2384d5690e817619793,10.0,8.0,5.0,0.0
+449,Commit,dankogai_p5-encode,2014-05-31 12:02:57,4a11fe5df72637f71fcd8823c9fa85b2f83d1078,54.0,10.0,11.0,0.0
+450,Commit,dankogai_p5-encode,2014-05-31 09:50:24,e87b69c59bad61feea8840ef2f3ac590225d0983,7.0,7.0,5.0,0.0
+451,Commit,dankogai_p5-encode,2014-05-31 09:40:19,5beb18c6f289a5d0eb8b74d9472133db69ff5cda,1.0,0.0,1.0,0.0
+452,Commit,dankogai_p5-encode,2014-05-15 06:00:08,d53402fc1dc3ae49c2120f5b05e659ed2c7a9f1c,3.0,0.0,1.0,0.0
+453,Commit,dankogai_p5-encode,2014-05-13 04:58:40,05518b34302c96a7a65f0fd08b8fa848f0cbec61,18.0,4.0,2.0,0.0
+454,Commit,dankogai_p5-encode,2014-05-08 15:13:20,159e38541a3bffff9a3156878da30190f50a778e,1.0,1.0,1.0,0.0
+455,Commit,dankogai_p5-encode,2014-04-29 16:32:33,d66b186fcf0f62dc99e61c547c4347fd1d55fcc9,15.0,12.0,1.0,0.0
+456,Commit,dankogai_p5-encode,2014-04-29 16:30:09,4bb5d718b33a251132f88978a09dbcb681cb9b77,18.0,11.0,5.0,0.0
+457,Commit,dankogai_p5-encode,2014-04-29 16:08:53,65eed1e1169f8b69062fa7f428bc12a70d43467d,52.0,0.0,1.0,0.0
+458,Commit,dankogai_p5-encode,2014-04-29 15:51:12,671faba18eeea33dcba9e59d7fdaf5d0bbd329bb,9.0,17.0,12.0,0.0
+459,Commit,dankogai_p5-encode,2014-04-29 15:37:42,138d4a978f5dd93b35a144adcab06ca170d876db,4.0,1.0,2.0,0.0
+460,Commit,dankogai_p5-encode,2014-04-19 03:32:14,2df5baa17ebc983c6fdf7cfb2efa174f83a629f8,9.0,4.0,5.0,0.0
+461,Commit,dankogai_p5-encode,2014-04-06 17:32:58,37d612274297243894a5fac201fbb75d101a3e95,27.0,8.0,5.0,0.0
+462,Commit,dankogai_p5-encode,2014-04-06 17:10:48,f015cd2a22823d32bf30a1af1de9dbe8879b63d0,23.0,22.0,11.0,0.0
+463,Commit,dankogai_p5-encode,2014-03-28 02:41:11,a8e88b0e5c1fbea9ae5795fb8fcb8c538806654f,27.0,8.0,4.0,0.0
+464,Commit,dankogai_p5-encode,2014-03-28 02:09:57,656537067fadcd3f79c1505bc553d5b1b9077bf0,0.0,0.0,0.0,0.0
+465,Commit,dankogai_p5-encode,2014-03-26 18:13:11,408358d8cfdc6960bd5bb99b2b7785eafd30d1fb,10.0,10.0,10.0,0.0
+466,Commit,dankogai_p5-encode,2014-03-26 17:32:49,1cb0525901f51aab58adb401935039db667602fc,53.0,23.0,11.0,0.0
+467,Commit,dankogai_p5-encode,2014-02-02 11:16:57,87d0624e704911cfc14cab1bdbd2ee057e42e9ff,5.0,0.0,1.0,0.0
+468,Commit,dankogai_p5-encode,2014-02-02 11:15:13,ccaa6bfb89dce31f8b4cedd6b96706aa9e20e4e1,0.0,0.0,0.0,0.0
+469,Commit,dankogai_p5-encode,2014-02-02 09:54:20,83145ae017f47dc7e224502e4b8aa50badbfd774,13.0,2.0,1.0,0.0
+470,Commit,dankogai_p5-encode,2014-01-03 04:53:37,e0d51da9c0088b7085bee5a9536d5b621713d36d,8.0,5.0,3.0,0.0
+471,Commit,dankogai_p5-encode,2014-01-03 04:45:33,8f63be346c09a5679e853a40e2c6c5175cc69516,0.0,0.0,0.0,0.0
+472,Commit,dankogai_p5-encode,2013-12-31 17:22:41,cf8256686b01c88604108fef2b15fb20819e0f9e,14.0,9.0,2.0,0.0
+473,Commit,dankogai_p5-encode,2013-12-30 21:32:37,9810b3506b863999d7fbf56fb20849252fa37441,1.0,1.0,1.0,0.0
+474,Commit,dankogai_p5-encode,2013-12-22 13:40:54,0c6ff6a939050db610680542ffb5b542b82fa93d,8.0,8.0,7.0,0.0
+475,Commit,dankogai_p5-encode,2013-12-22 04:07:05,14307cf7e433056128727f5d738ee317ef05b016,12.0,3.0,3.0,0.0
+476,Commit,dankogai_p5-encode,2013-10-26 23:43:11,fdf153bca9a2684f336809faa0f6abbca362be4c,1.0,0.0,1.0,0.0
+477,Commit,dankogai_p5-encode,2013-09-14 07:54:45,7cd2bfe7c848bcfb8dc00cebb49022128b313ae9,46.0,24.0,19.0,0.0
+478,Commit,dankogai_p5-encode,2013-09-14 07:32:32,54d3939f5c07fbf5aa29bede020a1d32fd50caaa,20.0,0.0,1.0,0.0
+479,Commit,dankogai_p5-encode,2013-09-14 07:15:58,3df0847f76fc3f33bd5d4e86bb13586a8e785e57,0.0,0.0,0.0,0.0
+480,Commit,dankogai_p5-encode,2013-09-13 21:20:03,039b027dd3ee5fea86094b3c2aa908d6ae3816d8,15.0,14.0,13.0,0.0
+481,Commit,dankogai_p5-encode,2013-09-13 21:07:15,b95a1d92e41a7fd282ffee24698cc233ff250671,1.0,1.0,1.0,0.0
+482,Commit,dankogai_p5-encode,2013-09-13 19:34:27,93b3d593d85004c570e44f3f79db0ca3c08d89ea,4.0,2.0,2.0,0.0
+483,Commit,dankogai_p5-encode,2013-08-29 16:48:33,5519f83ce42489684f2b179b96382d3d36f3a9ea,7.0,7.0,5.0,0.0
+484,Commit,dankogai_p5-encode,2013-08-29 16:42:02,23db86f53a48c90c486fcda2e7466643a4389714,24.0,2.0,5.0,0.0
+485,Commit,dankogai_p5-encode,2013-08-29 16:16:05,c9be90a19a544ce71e3001a69cb84610c36d5e97,0.0,0.0,0.0,0.0
+486,Commit,dankogai_p5-encode,2013-08-29 16:06:43,0d0973e827c0a16bd5bb9abf9c84d86c78b9dfcb,22.0,0.0,1.0,0.0
+487,Commit,dankogai_p5-encode,2013-08-29 15:24:53,1f1e4218d48b0699eecad292153ccbc635bb7b4c,15.0,5.0,3.0,0.0
+488,Commit,dankogai_p5-encode,2013-08-29 14:46:40,8005a82d8aa83024d72b14e66d9eb97d82029eeb,0.0,0.0,0.0,0.0
+489,Commit,dankogai_p5-encode,2013-08-29 14:45:55,6b2f547deec02e54a53cc8ca0b1e7a4abab72564,0.0,0.0,0.0,0.0
+490,Commit,dankogai_p5-encode,2013-08-26 02:02:16,ff65c71aa64c0efd285e6905ac68ba4e2cb25541,0.0,1.0,1.0,0.0
+491,Commit,dankogai_p5-encode,2013-08-16 23:47:01,4acbe0e514520d29faee330dede8c45246a166d9,2.0,1.0,1.0,0.0
+492,Commit,dankogai_p5-encode,2013-08-14 11:18:33,f95214da301d361a07f89a163fa4ce0b1aee5e63,0.0,0.0,0.0,0.0
+493,Commit,dankogai_p5-encode,2013-08-14 11:14:49,0e15f55a079cb1837948e31446668be653f6c01a,5.0,0.0,1.0,0.0
+494,Commit,dankogai_p5-encode,2013-08-14 02:32:23,31f3456cc5c451c59131d9ec8df453041ebeaad2,34.0,34.0,30.0,0.0
+495,Commit,dankogai_p5-encode,2013-08-14 02:26:52,5a94c04911801697138be50be2ce4d737aaed272,1.0,0.0,1.0,0.0
+496,Commit,dankogai_p5-encode,2013-08-14 02:26:08,8414f1c97f84544ce400164bf605042a6400a4c1,332.0,0.0,21.0,0.0
+497,Commit,dankogai_p5-encode,2013-08-14 01:44:10,3b763bc7d255535cee70835594de2d261a04f660,5.0,2.0,2.0,0.0
+498,Commit,dankogai_p5-encode,2013-07-16 18:19:44,d60373e11568d339d999e78e90bfd10d9853a089,4.0,2.0,2.0,0.0
+499,Commit,dankogai_p5-encode,2013-07-16 18:11:42,e800b1d3cc678e29ae6e95c3f3916b65439fd99c,26.0,19.0,9.0,0.0
+500,Commit,dankogai_p5-encode,2013-05-30 05:30:13,41084a46b24b448540d3310b69c7f94504afa6ae,16.0,16.0,6.0,0.0
+501,Commit,dankogai_p5-encode,2013-04-29 22:20:16,53228e6888b84bef6ecd9f934ff47a3574898748,11.0,11.0,8.0,0.0
+502,Commit,dankogai_p5-encode,2013-04-29 22:08:12,1df4b8583549ba4238772ea71e3c9d521334e122,11.0,3.0,3.0,0.0
+503,Commit,dankogai_p5-encode,2013-04-26 18:34:05,9b355903a7cb6027ae8da1c3d241b47da6a9435e,14.0,14.0,10.0,0.0
+504,Commit,dankogai_p5-encode,2013-04-26 18:21:35,274673c289e7615e12e642ca54e48d8aac9d82db,16.0,0.0,2.0,0.0
+505,Commit,dankogai_p5-encode,2013-04-26 18:18:23,a352ec9d6e5e4bcdd6dde737c8a540774d87b26e,24.0,14.0,6.0,0.0
+506,Commit,dankogai_p5-encode,2013-04-26 17:09:40,ef311e59186d3434ced9e0a0244bc2b645d2f825,10.0,0.0,2.0,0.0
+507,Commit,dankogai_p5-encode,2013-04-26 16:56:13,342bc3b8de60c282e6d47571fe929cb126ec4a09,40.0,21.0,2.0,0.0
+508,Commit,dankogai_p5-encode,2013-03-05 03:35:16,95291a544c13eb9c01a96bc277d7f82b72f59f1d,19.0,14.0,12.0,0.0
+509,Commit,dankogai_p5-encode,2013-03-05 03:19:46,64b24f2825a2d71710d67362ff0b352039865cee,4.0,4.0,1.0,0.0
+510,Commit,dankogai_p5-encode,2013-02-18 02:44:30,47eec58ce650a3feabba6f3d4c7b5d152a195f9e,15.0,15.0,12.0,0.0
+511,Commit,dankogai_p5-encode,2013-02-18 02:23:05,bbe5efcf8bb846d281058fc1c0fe3daefa6afefd,54.0,8.0,13.0,0.0
+512,Commit,dankogai_p5-encode,2013-02-18 01:15:06,2b9ab89ed91114870f83e4804e14762f293527c6,2.0,2.0,1.0,0.0
+513,Commit,dankogai_p5-encode,2013-02-18 01:14:00,8a6b0f4f50290a7eca99d3811f4046ed951283b4,14.0,1.0,2.0,0.0
+514,Commit,dankogai_p5-encode,2012-08-26 12:33:21,0c9d463c216090f866a127da8e9a072dfc664f70,45.0,0.0,1.0,0.0
+515,Commit,dankogai_p5-encode,2012-08-26 11:37:37,7f45749044ae959825b1c3136fc6e9a3f3c3d478,6.0,0.0,1.0,0.0
+516,Commit,dankogai_p5-encode,2012-08-15 05:53:32,cf65ff9d927b4e758f826c157f0c3028a5cfdcc3,14.0,9.0,4.0,0.0
+517,Commit,dankogai_p5-encode,2012-08-15 05:22:09,813380696c2c8a2c9dc571c4914174b00b299162,15.0,3.0,3.0,0.0
+518,Commit,dankogai_p5-encode,2012-08-12 06:05:16,a0d59f4954848ba85b7959f54568b8db57d59fca,15.0,10.0,6.0,0.0
+519,Commit,dankogai_p5-encode,2012-08-05 23:23:20,61df761a9cc1f68d9f85402b00e31eef766d2ded,37.0,19.0,8.0,0.0
+520,Commit,dankogai_p5-encode,2011-11-11 16:10:39,5e2dc1d9eb6f3151d554d4a67b1950c4ffb72c80,95.0,67.0,2.0,0.0
+521,Commit,dankogai_p5-encode,2011-11-11 15:42:13,806080490fbd519d969329f7c24435ebea697c2a,70.0,12.0,3.0,0.0
+522,Commit,dankogai_p5-encode,2011-08-09 08:32:29,7eaed563f041b082fb174f73877cc61d76ca915f,31.0,16.0,7.0,0.0
+523,Commit,dankogai_p5-encode,2011-05-21 23:21:44,afba9c470f29883150737f94cb818e0fd998eb51,296.0,257.0,5.0,0.0
+524,Commit,dankogai_p5-encode,2010-12-31 22:59:40,31d16654f4cb56f88dc7a01ee1897f4ec8318c1a,37.0,11.0,4.0,0.0
+525,Commit,dankogai_p5-encode,2010-12-23 11:19:10,3d3f46628974399171dd05c41c39d11bffcc746c,11.0,11.0,9.0,0.0
+526,Commit,dankogai_p5-encode,2010-12-23 11:09:35,c1618383d1b874edb662817eafb43c8f0db8ce44,5.0,1.0,2.0,0.0
+527,Commit,dankogai_p5-encode,2010-11-27 12:54:37,31e4298bdb318c3c89e7a82aee17093b2e6c35f8,44.0,15.0,3.0,0.0
+528,Commit,dankogai_p5-encode,2010-09-18 18:50:06,64dedac5099f2886d25af7b20669455b0b7b338a,188.0,30.0,11.0,0.0
+529,Commit,dankogai_p5-encode,2010-05-28 03:47:51,bf6f09689945bb4f74ecf6721010c512a41ad7fa,8.0,1.0,1.0,0.0
+530,Commit,dankogai_p5-encode,2010-05-28 01:57:11,5a72f782e429925e829d30c2238772ee75ebb632,12.0,2.0,2.0,0.0
+531,Commit,dankogai_p5-encode,2009-11-26 09:28:45,482d302b9e77494db80c7eca8d188865daf64936,8.0,8.0,6.0,0.0
+532,Commit,dankogai_p5-encode,2009-11-26 09:21:49,33e36ea64524ccf1dfd5c59c8934365bdb313cdb,38.0,20.0,3.0,0.0
+533,Commit,dankogai_p5-encode,2009-11-16 17:03:57,dc22fe95c602083657376506ec1d77f81f58919b,5.0,12.0,5.0,0.0
+534,Commit,dankogai_p5-encode,2009-11-16 14:13:28,4a91df7603442216946f0f304049129305195ff3,82.0,27.0,14.0,0.0
+535,Commit,dankogai_p5-encode,2009-10-19 09:01:05,8be3ae6bafc15ddc33e0b0b788c5c1c9cddcea08,16.0,28.0,9.0,0.0
+536,Commit,dankogai_p5-encode,2009-09-07 16:53:14,ae64f83932750f9759037a6a81c50b96085dfb24,13.0,5.0,5.0,0.0
+537,Commit,dankogai_p5-encode,2009-09-06 15:25:19,e5c221008ac9fc94184bf12e8dc9df01016e190c,29.0,15.0,3.0,0.0
+538,Commit,dankogai_p5-encode,2009-09-06 15:24:19,2302a53147110802464e90613cd7c0cc87243442,15.0,29.0,3.0,0.0
+539,Commit,dankogai_p5-encode,2009-09-06 14:37:10,8722942b309a84010093a03c252ba6a924acdd5b,29.0,15.0,3.0,0.0
+540,Commit,dankogai_p5-encode,2009-09-06 09:05:35,94e5d6f09fc15d67995939823b581a4686606b59,12.0,5.0,3.0,0.0
+541,Commit,dankogai_p5-encode,2009-07-13 02:22:21,dd0f1da66816b3b0133b0e379f3d565e3451e6fb,12.0,7.0,4.0,0.0
+542,Commit,dankogai_p5-encode,2009-07-13 00:49:14,7084946eaab0d6f03d73602c643450bca6a69956,60.0,28.0,3.0,0.0
+543,Commit,dankogai_p5-encode,2009-07-08 13:50:20,7128891c0211632298707f2324629645fadcbf7e,2.0,2.0,1.0,0.0
+544,Commit,dankogai_p5-encode,2009-07-08 13:40:07,5dc912dc509c3e8612643b383a4b747bf8a9fddb,134.0,17.0,6.0,0.0
+545,Commit,dankogai_p5-encode,2009-03-26 16:37:06,730b8aabc83c51fb2905943d72aab0e0a7a43603,7.0,3.0,1.0,0.0
+546,Commit,dankogai_p5-encode,2009-03-26 15:08:30,a15d883e3dc2c626f20826e86c3d413144f83018,0.0,3.0,1.0,0.0
+547,Commit,dankogai_p5-encode,2009-03-25 08:14:22,2f5c8bda52578514a73ef051df2b38bd91ab68cb,12.0,5.0,3.0,0.0
+548,Commit,dankogai_p5-encode,2009-03-25 07:58:35,85fd993c56c36db1df49088d823ae727feb1443d,2.0,2.0,1.0,0.0
+549,Commit,dankogai_p5-encode,2009-03-07 07:47:30,352208ae5ec5986329d3e6f3a6ed20010e9bc71b,10.0,6.0,4.0,0.0
+550,Commit,dankogai_p5-encode,2009-03-05 10:35:12,e513ac9ce2907ccfb5a623b46d36742c0a2da844,8.0,0.0,2.0,0.0
+551,Commit,dankogai_p5-encode,2009-03-04 02:20:26,c2488d3fc58243864159a616e00357f987ce9e97,4.0,0.0,1.0,0.0
+552,Commit,dankogai_p5-encode,2009-02-16 06:22:02,f582515bfd43e5ebb32c24de17a2d36bd9459df3,11.0,6.0,4.0,0.0
+553,Commit,dankogai_p5-encode,2009-02-16 02:23:28,fba484a3e4ce0aabe671a7d8d7ea262bcfb38a2d,36.0,38.0,3.0,0.0
+554,Commit,dankogai_p5-encode,2009-02-16 01:25:01,499a0bd202bee2018584d1cdfc87e43aa9bc3b41,38.0,36.0,3.0,0.0
+555,Commit,dankogai_p5-encode,2009-02-15 17:49:08,d17a125887102ef746ac79eb1e40734423b33e77,12.0,8.0,6.0,0.0
+556,Commit,dankogai_p5-encode,2009-02-15 17:41:21,5481d4cd7e0800bd0020cecd585f2f312f347176,12.0,6.0,2.0,0.0
+557,Commit,dankogai_p5-encode,2009-02-09 10:05:02,3f415758936995e62ca044a22380df3f37f21149,1.0,1.0,1.0,0.0
+558,Commit,dankogai_p5-encode,2009-02-09 09:50:51,b09d9afab96f7bcc76f70e1738b6ef474ac2b98b,45.0,47.0,3.0,0.0
+559,Commit,dankogai_p5-encode,2009-02-01 13:21:38,22ca05a045f76cf6fb8af572b72b97fd3bcb43c9,12.0,7.0,5.0,0.0
+560,Commit,dankogai_p5-encode,2009-02-01 12:53:22,f01445ae06153f102ac47f5e985ec047fd224fae,1.0,1.0,1.0,0.0
+561,Commit,dankogai_p5-encode,2009-02-01 12:41:17,54a06921ae4cd999632f3c222e5aeb25f199900e,39.0,19.0,4.0,0.0
+562,Commit,dankogai_p5-encode,2009-01-21 23:09:17,efefd98b7dea22168b2e7eaad9640d982715e7b4,1.0,1.0,1.0,0.0
+563,Commit,dankogai_p5-encode,2009-01-21 23:02:49,b0c90d13360d10864c63a26fe42db13e5d8f5e44,51.0,23.0,11.0,0.0
+564,Commit,dankogai_p5-encode,2008-07-03 06:01:57,92ec30ab278a8323c11f2fff89255aaff978c0f1,280.0,199.0,4.0,0.0
+565,Commit,dankogai_p5-encode,2008-07-01 20:59:46,fb463d62b974f68fce79c672cb232c7484a47dc1,70.0,39.0,23.0,0.0
+566,Commit,dankogai_p5-encode,2008-05-10 17:59:00,ab673eda91d6530cf4a5aa2dca9c5e4ce8e86a6e,1.0,1.0,1.0,0.0
+567,Commit,dankogai_p5-encode,2008-05-07 21:01:24,b41267aa6e1c58baddf97d35bb95a9e1ee3bfaf5,42.0,33.0,22.0,0.0
+568,Commit,dankogai_p5-encode,2008-05-07 19:29:17,c3125613b19af9c45a5bab78037c5ebd649b34da,4.0,1.0,2.0,0.0
+569,Commit,dankogai_p5-encode,2008-05-07 19:20:50,8cf6ec5a953facb348e21af4c8f3a37ae8d37418,5.0,1.0,2.0,0.0
+570,Commit,dankogai_p5-encode,2008-04-12 19:07:07,aa1fdef85add72114ed7badf85e523cfdc9d6275,5.0,1.0,2.0,0.0
+571,Commit,dankogai_p5-encode,2008-03-12 10:03:43,e62b05350a365e151be7ef7903b55b0c092c8d3c,0.0,3924.0,10.0,0.0
+572,Commit,dankogai_p5-encode,2008-03-12 10:00:31,f872a5c3f52cb42bd288aa1ff77f02ae7e93d6e7,0.0,1944.0,5.0,0.0
+573,Commit,dankogai_p5-encode,2008-03-12 09:59:27,244948b6047dfb93eb793a8b484e71d99d92fb30,6178.0,34.0,26.0,0.0
+574,Commit,dankogai_p5-encode,2008-03-07 16:21:17,e9b08b52d6d4dd80add9259104a15e11b955d2a1,0.0,0.0,0.0,0.0
+575,Commit,dankogai_p5-encode,2008-02-15 17:00:00,2378738387a16429afb53c3065506fdc679050ac,1.0,1.0,1.0,0.0
+576,Commit,dankogai_p5-encode,2007-11-28 17:45:32,0524125057cc1ff08c0cf9329ab03a3a6da40fc4,4.0,1.0,2.0,0.0
+577,Commit,dankogai_p5-encode,2007-11-19 22:48:38,2dc492b550d7bd7bec8d43c0f62092b33c5b687b,3.0,0.0,1.0,0.0
+578,Commit,dankogai_p5-encode,2007-11-19 09:54:39,fb39441a1a9c124518e48dbd30c14a306fa64957,11.0,9.0,1.0,0.0
+579,Commit,dankogai_p5-encode,2007-11-19 09:48:19,1416e2ef72053785c8598e304e495176fd545d75,77.0,77.0,1.0,0.0
+580,Commit,dankogai_p5-encode,2007-11-19 09:27:56,3789c2aabcb35062a5d4c40bd8685e6bf8442f54,0.0,0.0,1.0,0.0
+581,Commit,dankogai_p5-encode,2007-11-18 10:38:13,a1852796910e7d9a411a9c123fa5390bb3761062,36.0,12.0,4.0,0.0
+582,Commit,dankogai_p5-encode,2007-11-18 10:16:11,8106c01862a9143868b9e90b62eb5c908c0cc291,288024.0,0.0,201.0,0.0
+0,forks,dankogai_p5-encode,2010-11-13 21:17:20+00:00,,,,,
+1,forks,dankogai_p5-encode,2010-11-17 16:32:10+00:00,,,,,
+2,forks,dankogai_p5-encode,2011-01-08 18:22:55+00:00,,,,,
+3,forks,dankogai_p5-encode,2012-10-18 01:01:49+00:00,,,,,
+4,forks,dankogai_p5-encode,2013-08-14 11:13:04+00:00,,,,,
+5,forks,dankogai_p5-encode,2013-08-26 02:02:37+00:00,,,,,
+6,forks,dankogai_p5-encode,2013-09-02 11:41:10+00:00,,,,,
+7,forks,dankogai_p5-encode,2013-09-15 10:38:58+00:00,,,,,
+8,forks,dankogai_p5-encode,2014-03-26 16:06:30+00:00,,,,,
+9,forks,dankogai_p5-encode,2014-05-28 07:31:32+00:00,,,,,
+10,forks,dankogai_p5-encode,2015-01-19 14:03:38+00:00,,,,,
+11,forks,dankogai_p5-encode,2015-01-22 00:32:27+00:00,,,,,
+12,forks,dankogai_p5-encode,2015-01-22 08:48:22+00:00,,,,,
+13,forks,dankogai_p5-encode,2015-01-25 03:34:50+00:00,,,,,
+14,forks,dankogai_p5-encode,2015-02-05 15:29:50+00:00,,,,,
+15,forks,dankogai_p5-encode,2015-02-24 05:54:13+00:00,,,,,
+16,forks,dankogai_p5-encode,2015-07-30 12:11:42+00:00,,,,,
+17,forks,dankogai_p5-encode,2015-09-12 00:32:36+00:00,,,,,
+18,forks,dankogai_p5-encode,2015-09-15 17:54:27+00:00,,,,,
+19,forks,dankogai_p5-encode,2015-12-09 22:33:26+00:00,,,,,
+20,forks,dankogai_p5-encode,2016-02-25 17:19:58+00:00,,,,,
+21,forks,dankogai_p5-encode,2016-03-10 21:20:22+00:00,,,,,
+22,forks,dankogai_p5-encode,2016-03-23 19:53:59+00:00,,,,,
+23,forks,dankogai_p5-encode,2016-04-11 12:27:37+00:00,,,,,
+24,forks,dankogai_p5-encode,2016-05-08 08:09:22+00:00,,,,,
+25,forks,dankogai_p5-encode,2016-07-09 22:38:36+00:00,,,,,
+26,forks,dankogai_p5-encode,2016-07-22 07:50:53+00:00,,,,,
+27,forks,dankogai_p5-encode,2016-07-27 04:35:55+00:00,,,,,
+28,forks,dankogai_p5-encode,2016-11-21 17:09:38+00:00,,,,,
+29,forks,dankogai_p5-encode,2017-08-29 16:15:32+00:00,,,,,
+30,forks,dankogai_p5-encode,2019-02-14 17:43:27+00:00,,,,,
+31,forks,dankogai_p5-encode,2019-06-19 15:17:27+00:00,,,,,
+32,forks,dankogai_p5-encode,2019-06-19 15:20:28+00:00,,,,,
+33,forks,dankogai_p5-encode,2020-02-06 14:26:16+00:00,,,,,
+34,forks,dankogai_p5-encode,2020-07-28 19:48:14+00:00,,,,,
+35,forks,dankogai_p5-encode,2020-10-04 11:28:06+00:00,,,,,
+36,forks,dankogai_p5-encode,2021-01-26 14:01:09+00:00,,,,,
+37,forks,dankogai_p5-encode,2021-07-17 18:34:00+00:00,,,,,
+38,forks,dankogai_p5-encode,2021-07-20 03:08:53+00:00,,,,,
+39,forks,dankogai_p5-encode,2021-10-13 07:33:44+00:00,,,,,
+40,forks,dankogai_p5-encode,2021-12-07 13:38:57+00:00,,,,,
+41,forks,dankogai_p5-encode,2022-01-12 19:04:37+00:00,,,,,
+42,forks,dankogai_p5-encode,2022-02-10 03:13:18+00:00,,,,,
+43,forks,dankogai_p5-encode,2022-03-06 13:15:06+00:00,,,,,
+44,forks,dankogai_p5-encode,2022-05-25 16:38:02+00:00,,,,,
+0,issues,dankogai_p5-encode,2013-03-03 18:41:49+00:00,,,,,
+1,issues,dankogai_p5-encode,2013-09-02 08:09:29+00:00,,,,,
+2,issues,dankogai_p5-encode,2013-09-02 08:29:05+00:00,,,,,
+3,issues,dankogai_p5-encode,2014-03-26 01:00:09+00:00,,,,,
+4,issues,dankogai_p5-encode,2014-04-29 11:24:09+00:00,,,,,
+5,issues,dankogai_p5-encode,2014-09-26 01:52:20+00:00,,,,,
+6,issues,dankogai_p5-encode,2015-01-21 07:20:35+00:00,,,,,
+7,issues,dankogai_p5-encode,2015-02-05 03:54:03+00:00,,,,,
+8,issues,dankogai_p5-encode,2015-03-04 10:52:23+00:00,,,,,
+9,issues,dankogai_p5-encode,2016-08-04 16:25:03+00:00,,,,,
+10,issues,dankogai_p5-encode,2016-08-10 16:54:17+00:00,,,,,
+11,issues,dankogai_p5-encode,2016-08-16 22:17:04+00:00,,,,,
+12,issues,dankogai_p5-encode,2016-11-20 09:55:01+00:00,,,,,
+13,issues,dankogai_p5-encode,2017-01-05 04:59:26+00:00,,,,,
+14,issues,dankogai_p5-encode,2017-05-31 12:59:34+00:00,,,,,
+15,issues,dankogai_p5-encode,2017-06-14 04:34:34+00:00,,,,,
+16,issues,dankogai_p5-encode,2017-06-19 10:57:55+00:00,,,,,
+17,issues,dankogai_p5-encode,2017-07-16 16:56:05+00:00,,,,,
+18,issues,dankogai_p5-encode,2017-07-17 09:38:12+00:00,,,,,
+19,issues,dankogai_p5-encode,2018-01-06 18:23:39+00:00,,,,,
+20,issues,dankogai_p5-encode,2018-02-10 22:51:36+00:00,,,,,
+21,issues,dankogai_p5-encode,2019-01-19 10:48:48+00:00,,,,,
+22,issues,dankogai_p5-encode,2019-02-01 15:20:00+00:00,,,,,
+23,issues,dankogai_p5-encode,2019-02-14 17:42:59+00:00,,,,,
+24,issues,dankogai_p5-encode,2019-05-23 09:15:00+00:00,,,,,
+25,issues,dankogai_p5-encode,2019-05-23 09:22:32+00:00,,,,,
+26,issues,dankogai_p5-encode,2020-02-06 02:29:55+00:00,,,,,
+27,issues,dankogai_p5-encode,2021-01-25 00:34:18+00:00,,,,,
+28,issues,dankogai_p5-encode,2021-02-15 01:40:33+00:00,,,,,
+29,issues,dankogai_p5-encode,2021-05-14 08:40:41+00:00,,,,,
+30,issues,dankogai_p5-encode,2021-07-08 11:53:37+00:00,,,,,
+31,issues,dankogai_p5-encode,2021-12-02 18:02:44+00:00,,,,,
+32,issues,dankogai_p5-encode,2022-02-13 20:34:30+00:00,,,,,
+0,pullRequests,dankogai_p5-encode,2010-11-19 23:52:20+00:00,,,,,
+1,pullRequests,dankogai_p5-encode,2011-01-08 18:35:24+00:00,,,,,
+2,pullRequests,dankogai_p5-encode,2011-01-13 14:24:31+00:00,,,,,
+3,pullRequests,dankogai_p5-encode,2011-06-07 14:13:54+00:00,,,,,
+4,pullRequests,dankogai_p5-encode,2011-11-11 15:19:56+00:00,,,,,
+5,pullRequests,dankogai_p5-encode,2012-01-12 21:02:24+00:00,,,,,
+6,pullRequests,dankogai_p5-encode,2012-10-18 01:03:27+00:00,,,,,
+7,pullRequests,dankogai_p5-encode,2013-08-14 11:15:00+00:00,,,,,
+8,pullRequests,dankogai_p5-encode,2013-08-16 23:49:38+00:00,,,,,
+9,pullRequests,dankogai_p5-encode,2013-08-26 02:05:55+00:00,,,,,
+10,pullRequests,dankogai_p5-encode,2013-08-29 16:07:48+00:00,,,,,
+11,pullRequests,dankogai_p5-encode,2013-09-13 21:56:35+00:00,,,,,
+12,pullRequests,dankogai_p5-encode,2013-09-14 23:16:02+00:00,,,,,
+13,pullRequests,dankogai_p5-encode,2013-12-30 21:35:30+00:00,,,,,
+14,pullRequests,dankogai_p5-encode,2014-02-02 09:56:48+00:00,,,,,
+15,pullRequests,dankogai_p5-encode,2014-03-26 18:20:21+00:00,,,,,
+16,pullRequests,dankogai_p5-encode,2014-10-02 01:08:21+00:00,,,,,
+17,pullRequests,dankogai_p5-encode,2014-10-19 06:29:00+00:00,,,,,
+18,pullRequests,dankogai_p5-encode,2014-10-21 22:52:26+00:00,,,,,
+19,pullRequests,dankogai_p5-encode,2014-10-25 02:31:48+00:00,,,,,
+20,pullRequests,dankogai_p5-encode,2015-01-19 14:41:55+00:00,,,,,
+21,pullRequests,dankogai_p5-encode,2015-01-22 00:43:47+00:00,,,,,
+22,pullRequests,dankogai_p5-encode,2015-01-22 09:00:48+00:00,,,,,
+23,pullRequests,dankogai_p5-encode,2015-01-31 21:51:50+00:00,,,,,
+24,pullRequests,dankogai_p5-encode,2015-02-03 16:00:57+00:00,,,,,
+25,pullRequests,dankogai_p5-encode,2015-02-05 15:35:04+00:00,,,,,
+26,pullRequests,dankogai_p5-encode,2015-02-05 15:39:53+00:00,,,,,
+27,pullRequests,dankogai_p5-encode,2015-02-24 06:16:41+00:00,,,,,
+28,pullRequests,dankogai_p5-encode,2015-03-11 16:17:55+00:00,,,,,
+29,pullRequests,dankogai_p5-encode,2015-03-28 23:57:08+00:00,,,,,
+30,pullRequests,dankogai_p5-encode,2015-03-31 22:34:41+00:00,,,,,
+31,pullRequests,dankogai_p5-encode,2015-07-31 00:10:55+00:00,,,,,
+32,pullRequests,dankogai_p5-encode,2015-08-31 17:47:20+00:00,,,,,
+33,pullRequests,dankogai_p5-encode,2015-09-24 13:53:31+00:00,,,,,
+34,pullRequests,dankogai_p5-encode,2015-10-22 20:00:11+00:00,,,,,
+35,pullRequests,dankogai_p5-encode,2015-11-07 11:50:36+00:00,,,,,
+36,pullRequests,dankogai_p5-encode,2015-11-29 01:12:10+00:00,,,,,
+37,pullRequests,dankogai_p5-encode,2015-12-09 22:37:36+00:00,,,,,
+38,pullRequests,dankogai_p5-encode,2016-02-05 23:30:43+00:00,,,,,
+39,pullRequests,dankogai_p5-encode,2016-02-25 17:50:35+00:00,,,,,
+40,pullRequests,dankogai_p5-encode,2016-03-10 21:21:43+00:00,,,,,
+41,pullRequests,dankogai_p5-encode,2016-03-21 23:04:05+00:00,,,,,
+42,pullRequests,dankogai_p5-encode,2016-03-29 18:56:34+00:00,,,,,
+43,pullRequests,dankogai_p5-encode,2016-04-01 18:51:18+00:00,,,,,
+44,pullRequests,dankogai_p5-encode,2016-04-11 12:55:14+00:00,,,,,
+45,pullRequests,dankogai_p5-encode,2016-05-08 09:18:34+00:00,,,,,
+46,pullRequests,dankogai_p5-encode,2016-07-09 23:04:34+00:00,,,,,
+47,pullRequests,dankogai_p5-encode,2016-07-22 07:56:27+00:00,,,,,
+48,pullRequests,dankogai_p5-encode,2016-07-27 05:17:01+00:00,,,,,
+49,pullRequests,dankogai_p5-encode,2016-08-08 18:04:46+00:00,,,,,
+50,pullRequests,dankogai_p5-encode,2016-08-11 21:14:46+00:00,,,,,
+51,pullRequests,dankogai_p5-encode,2016-08-16 21:35:14+00:00,,,,,
+52,pullRequests,dankogai_p5-encode,2016-08-20 09:01:21+00:00,,,,,
+53,pullRequests,dankogai_p5-encode,2016-09-22 12:51:45+00:00,,,,,
+54,pullRequests,dankogai_p5-encode,2016-09-28 15:14:13+00:00,,,,,
+55,pullRequests,dankogai_p5-encode,2016-10-21 20:45:52+00:00,,,,,
+56,pullRequests,dankogai_p5-encode,2016-10-22 10:59:06+00:00,,,,,
+57,pullRequests,dankogai_p5-encode,2016-10-26 22:58:32+00:00,,,,,
+58,pullRequests,dankogai_p5-encode,2016-10-26 23:12:15+00:00,,,,,
+59,pullRequests,dankogai_p5-encode,2016-10-26 23:58:47+00:00,,,,,
+60,pullRequests,dankogai_p5-encode,2016-10-27 07:38:32+00:00,,,,,
+61,pullRequests,dankogai_p5-encode,2016-10-28 01:36:32+00:00,,,,,
+62,pullRequests,dankogai_p5-encode,2016-11-01 20:58:54+00:00,,,,,
+63,pullRequests,dankogai_p5-encode,2016-11-09 17:04:09+00:00,,,,,
+64,pullRequests,dankogai_p5-encode,2016-11-19 20:42:28+00:00,,,,,
+65,pullRequests,dankogai_p5-encode,2016-11-19 23:27:23+00:00,,,,,
+66,pullRequests,dankogai_p5-encode,2016-11-22 12:14:54+00:00,,,,,
+67,pullRequests,dankogai_p5-encode,2016-11-23 08:57:08+00:00,,,,,
+68,pullRequests,dankogai_p5-encode,2016-11-23 18:46:27+00:00,,,,,
+69,pullRequests,dankogai_p5-encode,2016-11-29 21:56:27+00:00,,,,,
+70,pullRequests,dankogai_p5-encode,2016-12-08 22:27:38+00:00,,,,,
+71,pullRequests,dankogai_p5-encode,2016-12-09 10:12:17+00:00,,,,,
+72,pullRequests,dankogai_p5-encode,2016-12-12 12:51:54+00:00,,,,,
+73,pullRequests,dankogai_p5-encode,2016-12-16 22:51:33+00:00,,,,,
+74,pullRequests,dankogai_p5-encode,2017-01-13 20:57:53+00:00,,,,,
+75,pullRequests,dankogai_p5-encode,2017-01-14 11:31:35+00:00,,,,,
+76,pullRequests,dankogai_p5-encode,2017-02-11 18:42:21+00:00,,,,,
+77,pullRequests,dankogai_p5-encode,2017-03-16 23:00:23+00:00,,,,,
+78,pullRequests,dankogai_p5-encode,2017-03-21 19:38:12+00:00,,,,,
+79,pullRequests,dankogai_p5-encode,2017-03-26 16:52:47+00:00,,,,,
+80,pullRequests,dankogai_p5-encode,2017-03-27 16:34:43+00:00,,,,,
+81,pullRequests,dankogai_p5-encode,2017-04-04 19:53:46+00:00,,,,,
+82,pullRequests,dankogai_p5-encode,2017-04-20 16:23:06+00:00,,,,,
+83,pullRequests,dankogai_p5-encode,2017-05-08 10:12:31+00:00,,,,,
+84,pullRequests,dankogai_p5-encode,2017-05-08 11:33:48+00:00,,,,,
+85,pullRequests,dankogai_p5-encode,2017-05-15 08:53:54+00:00,,,,,
+86,pullRequests,dankogai_p5-encode,2017-05-16 16:02:50+00:00,,,,,
+87,pullRequests,dankogai_p5-encode,2017-05-25 17:36:07+00:00,,,,,
+88,pullRequests,dankogai_p5-encode,2017-05-29 19:21:07+00:00,,,,,
+89,pullRequests,dankogai_p5-encode,2017-05-30 15:48:34+00:00,,,,,
+90,pullRequests,dankogai_p5-encode,2017-05-31 21:18:07+00:00,,,,,
+91,pullRequests,dankogai_p5-encode,2017-06-06 21:09:45+00:00,,,,,
+92,pullRequests,dankogai_p5-encode,2017-06-07 21:01:57+00:00,,,,,
+93,pullRequests,dankogai_p5-encode,2017-06-08 22:15:32+00:00,,,,,
+94,pullRequests,dankogai_p5-encode,2017-06-09 15:31:28+00:00,,,,,
+95,pullRequests,dankogai_p5-encode,2017-06-10 10:05:00+00:00,,,,,
+96,pullRequests,dankogai_p5-encode,2017-06-19 12:35:41+00:00,,,,,
+97,pullRequests,dankogai_p5-encode,2017-07-07 21:05:30+00:00,,,,,
+98,pullRequests,dankogai_p5-encode,2017-07-17 09:45:20+00:00,,,,,
+99,pullRequests,dankogai_p5-encode,2017-07-17 15:32:54+00:00,,,,,
+100,pullRequests,dankogai_p5-encode,2017-09-01 13:24:14+00:00,,,,,
+101,pullRequests,dankogai_p5-encode,2017-09-05 13:06:36+00:00,,,,,
+102,pullRequests,dankogai_p5-encode,2017-09-12 22:38:16+00:00,,,,,
+103,pullRequests,dankogai_p5-encode,2017-09-30 11:18:33+00:00,,,,,
+104,pullRequests,dankogai_p5-encode,2017-10-02 23:50:11+00:00,,,,,
+105,pullRequests,dankogai_p5-encode,2017-12-28 23:08:54+00:00,,,,,
+106,pullRequests,dankogai_p5-encode,2018-01-03 13:02:11+00:00,,,,,
+107,pullRequests,dankogai_p5-encode,2018-02-07 19:58:37+00:00,,,,,
+108,pullRequests,dankogai_p5-encode,2018-02-15 01:50:54+00:00,,,,,
+109,pullRequests,dankogai_p5-encode,2018-03-10 12:54:31+00:00,,,,,
+110,pullRequests,dankogai_p5-encode,2018-03-10 17:46:15+00:00,,,,,
+111,pullRequests,dankogai_p5-encode,2018-03-14 20:48:57+00:00,,,,,
+112,pullRequests,dankogai_p5-encode,2018-06-28 10:44:10+00:00,,,,,
+113,pullRequests,dankogai_p5-encode,2018-08-12 07:30:50+00:00,,,,,
+114,pullRequests,dankogai_p5-encode,2019-01-30 13:10:26+00:00,,,,,
+115,pullRequests,dankogai_p5-encode,2019-01-31 08:47:27+00:00,,,,,
+116,pullRequests,dankogai_p5-encode,2019-04-05 13:28:00+00:00,,,,,
+117,pullRequests,dankogai_p5-encode,2019-05-10 09:30:46+00:00,,,,,
+118,pullRequests,dankogai_p5-encode,2019-06-19 15:22:59+00:00,,,,,
+119,pullRequests,dankogai_p5-encode,2020-02-06 14:34:44+00:00,,,,,
+120,pullRequests,dankogai_p5-encode,2020-03-02 03:55:27+00:00,,,,,
+121,pullRequests,dankogai_p5-encode,2020-07-25 12:46:17+00:00,,,,,
+122,pullRequests,dankogai_p5-encode,2020-07-28 20:03:30+00:00,,,,,
+123,pullRequests,dankogai_p5-encode,2020-07-28 23:44:06+00:00,,,,,
+124,pullRequests,dankogai_p5-encode,2020-10-01 16:35:19+00:00,,,,,
+125,pullRequests,dankogai_p5-encode,2020-10-04 11:29:05+00:00,,,,,
+126,pullRequests,dankogai_p5-encode,2021-01-26 14:29:35+00:00,,,,,
+127,pullRequests,dankogai_p5-encode,2021-06-17 05:44:08+00:00,,,,,
+128,pullRequests,dankogai_p5-encode,2021-07-08 13:49:33+00:00,,,,,
+129,pullRequests,dankogai_p5-encode,2021-10-07 20:41:08+00:00,,,,,
+130,pullRequests,dankogai_p5-encode,2021-10-13 07:59:24+00:00,,,,,
+131,pullRequests,dankogai_p5-encode,2021-12-07 13:58:58+00:00,,,,,
+132,pullRequests,dankogai_p5-encode,2022-01-12 19:05:36+00:00,,,,,
+133,pullRequests,dankogai_p5-encode,2022-03-06 13:27:35+00:00,,,,,
+134,pullRequests,dankogai_p5-encode,2022-04-06 04:51:21+00:00,,,,,
+135,pullRequests,dankogai_p5-encode,2022-06-24 22:06:59+00:00,,,,,
+0,stargazers,dankogai_p5-encode,2009-03-31 08:45:55+00:00,,,,,
+1,stargazers,dankogai_p5-encode,2009-03-31 08:45:55+00:00,,,,,
+2,stargazers,dankogai_p5-encode,2009-03-31 08:45:55+00:00,,,,,
+3,stargazers,dankogai_p5-encode,2009-03-31 08:45:55+00:00,,,,,
+4,stargazers,dankogai_p5-encode,2009-03-31 08:45:55+00:00,,,,,
+5,stargazers,dankogai_p5-encode,2009-03-31 08:45:55+00:00,,,,,
+6,stargazers,dankogai_p5-encode,2009-03-31 08:45:55+00:00,,,,,
+7,stargazers,dankogai_p5-encode,2009-03-31 08:45:55+00:00,,,,,
+8,stargazers,dankogai_p5-encode,2009-03-31 08:45:55+00:00,,,,,
+9,stargazers,dankogai_p5-encode,2009-04-30 05:41:57+00:00,,,,,
+10,stargazers,dankogai_p5-encode,2009-07-05 08:07:35+00:00,,,,,
+11,stargazers,dankogai_p5-encode,2010-03-20 12:02:22+00:00,,,,,
+12,stargazers,dankogai_p5-encode,2010-04-20 11:05:36+00:00,,,,,
+13,stargazers,dankogai_p5-encode,2010-10-25 09:00:10+00:00,,,,,
+14,stargazers,dankogai_p5-encode,2011-06-21 02:33:16+00:00,,,,,
+15,stargazers,dankogai_p5-encode,2012-12-02 15:12:39+00:00,,,,,
+16,stargazers,dankogai_p5-encode,2013-02-19 02:48:14+00:00,,,,,
+17,stargazers,dankogai_p5-encode,2013-08-29 17:05:45+00:00,,,,,
+18,stargazers,dankogai_p5-encode,2013-09-07 20:48:27+00:00,,,,,
+19,stargazers,dankogai_p5-encode,2013-09-18 00:08:17+00:00,,,,,
+20,stargazers,dankogai_p5-encode,2013-10-15 02:45:39+00:00,,,,,
+21,stargazers,dankogai_p5-encode,2013-12-24 05:52:18+00:00,,,,,
+22,stargazers,dankogai_p5-encode,2014-12-14 21:55:34+00:00,,,,,
+23,stargazers,dankogai_p5-encode,2015-12-09 22:25:06+00:00,,,,,
+24,stargazers,dankogai_p5-encode,2016-05-09 09:09:20+00:00,,,,,
+25,stargazers,dankogai_p5-encode,2016-08-23 14:53:10+00:00,,,,,
+26,stargazers,dankogai_p5-encode,2017-05-18 15:09:48+00:00,,,,,
+27,stargazers,dankogai_p5-encode,2019-01-21 16:28:35+00:00,,,,,
+28,stargazers,dankogai_p5-encode,2019-04-02 19:04:08+00:00,,,,,
+29,stargazers,dankogai_p5-encode,2019-12-22 08:58:36+00:00,,,,,
+30,stargazers,dankogai_p5-encode,2020-07-12 21:02:13+00:00,,,,,
+31,stargazers,dankogai_p5-encode,2020-12-07 02:51:44+00:00,,,,,
+32,stargazers,dankogai_p5-encode,2021-03-19 06:23:16+00:00,,,,,
+33,stargazers,dankogai_p5-encode,2021-05-18 07:49:08+00:00,,,,,
+34,stargazers,dankogai_p5-encode,2022-04-07 05:35:30+00:00,,,,,

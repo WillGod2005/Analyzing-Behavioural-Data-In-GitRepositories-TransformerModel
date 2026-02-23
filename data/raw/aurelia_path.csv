@@ -1,0 +1,682 @@
+,type,name,created_at,Hash,Add,Del,Files,Vuln
+4736,PushEvent,aurelia_path,2015-02-28 21:24:24 UTC,,,,,
+21957,PullRequestEvent,aurelia_path,2015-09-01 03:12:58 UTC,,,,,
+165028,PullRequestEvent,aurelia_path,2015-07-01 10:07:36 UTC,,,,,
+167539,PushEvent,aurelia_path,2015-05-05 00:57:51 UTC,,,,,
+195488,PushEvent,aurelia_path,2015-02-28 04:45:35 UTC,,,,,
+260298,PullRequestEvent,aurelia_path,2015-07-01 16:14:32 UTC,,,,,
+262425,ForkEvent,aurelia_path,2015-10-07 04:27:26 UTC,,,,,
+279065,WatchEvent,aurelia_path,2015-03-29 02:21:30 UTC,,,,,
+305910,PushEvent,aurelia_path,2015-10-23 03:35:55 UTC,,,,,
+305911,PushEvent,aurelia_path,2015-01-06 16:38:57 UTC,,,,,
+357518,PushEvent,aurelia_path,2015-07-29 20:47:33 UTC,,,,,
+398038,CreateEvent,aurelia_path,2015-09-04 19:15:33 UTC,,,,,
+424477,ForkEvent,aurelia_path,2015-04-30 11:45:37 UTC,,,,,
+442162,PullRequestEvent,aurelia_path,2015-02-11 16:20:50 UTC,,,,,
+457597,ReleaseEvent,aurelia_path,2015-02-28 21:24:59 UTC,,,,,
+483662,ForkEvent,aurelia_path,2015-07-01 17:27:42 UTC,,,,,
+498817,IssueCommentEvent,aurelia_path,2015-03-03 03:15:26 UTC,,,,,
+500631,CreateEvent,aurelia_path,2015-04-09 04:51:35 UTC,,,,,
+516670,ReleaseEvent,aurelia_path,2015-02-28 04:46:01 UTC,,,,,
+552573,PullRequestEvent,aurelia_path,2015-07-01 17:28:01 UTC,,,,,
+621177,IssueCommentEvent,aurelia_path,2015-07-01 19:21:12 UTC,,,,,
+631002,CreateEvent,aurelia_path,2015-11-16 21:01:57 UTC,,,,,
+714603,ReleaseEvent,aurelia_path,2015-11-16 21:01:56 UTC,,,,,
+717425,PushEvent,aurelia_path,2015-09-04 19:11:07 UTC,,,,,
+742234,ReleaseEvent,aurelia_path,2015-07-29 20:49:58 UTC,,,,,
+752321,ForkEvent,aurelia_path,2015-07-01 09:30:30 UTC,,,,,
+756966,PushEvent,aurelia_path,2015-06-30 18:34:26 UTC,,,,,
+762395,PullRequestEvent,aurelia_path,2015-08-21 20:39:35 UTC,,,,,
+777876,PullRequestEvent,aurelia_path,2015-09-01 15:10:04 UTC,,,,,
+780650,PushEvent,aurelia_path,2015-04-30 19:36:58 UTC,,,,,
+796538,PushEvent,aurelia_path,2015-01-30 16:02:52 UTC,,,,,
+819983,PushEvent,aurelia_path,2015-02-27 14:29:46 UTC,,,,,
+828209,PushEvent,aurelia_path,2015-07-02 03:37:13 UTC,,,,,
+868522,ReleaseEvent,aurelia_path,2015-01-30 16:28:09 UTC,,,,,
+883206,PushEvent,aurelia_path,2015-11-10 04:36:45 UTC,,,,,
+895618,CreateEvent,aurelia_path,2015-02-11 19:37:58 UTC,,,,,
+902747,PushEvent,aurelia_path,2015-03-03 03:15:15 UTC,,,,,
+927230,CreateEvent,aurelia_path,2015-06-09 00:30:39 UTC,,,,,
+938946,CreateEvent,aurelia_path,2015-01-30 16:28:10 UTC,,,,,
+962503,CreateEvent,aurelia_path,2015-07-29 20:49:58 UTC,,,,,
+980262,IssueCommentEvent,aurelia_path,2015-09-01 03:13:28 UTC,,,,,
+1038053,PullRequestEvent,aurelia_path,2015-04-30 19:33:16 UTC,,,,,
+1048289,PushEvent,aurelia_path,2015-04-30 19:33:16 UTC,,,,,
+1067055,IssueCommentEvent,aurelia_path,2015-04-30 15:08:44 UTC,,,,,
+1068159,PushEvent,aurelia_path,2015-06-09 00:30:20 UTC,,,,,
+1090590,IssueCommentEvent,aurelia_path,2015-04-30 14:11:38 UTC,,,,,
+1104819,PullRequestEvent,aurelia_path,2015-08-28 18:19:06 UTC,,,,,
+1131085,PushEvent,aurelia_path,2015-08-28 18:19:06 UTC,,,,,
+1157719,IssueCommentEvent,aurelia_path,2015-08-19 07:59:00 UTC,,,,,
+1163633,CreateEvent,aurelia_path,2015-04-30 19:42:23 UTC,,,,,
+1191916,PullRequestEvent,aurelia_path,2015-02-07 20:11:51 UTC,,,,,
+1247362,ReleaseEvent,aurelia_path,2015-04-09 04:51:34 UTC,,,,,
+1269987,PushEvent,aurelia_path,2015-09-01 15:10:04 UTC,,,,,
+1286348,CreateEvent,aurelia_path,2015-03-25 01:54:17 UTC,,,,,
+1287111,PullRequestEvent,aurelia_path,2015-08-27 06:21:13 UTC,,,,,
+1313004,PushEvent,aurelia_path,2015-01-22 07:25:10 UTC,,,,,
+1313005,PushEvent,aurelia_path,2015-07-01 17:48:09 UTC,,,,,
+1329615,WatchEvent,aurelia_path,2015-05-07 03:05:01 UTC,,,,,
+1384515,PushEvent,aurelia_path,2015-03-25 01:53:23 UTC,,,,,
+1405160,CreateEvent,aurelia_path,2015-02-28 21:24:59 UTC,,,,,
+1427351,IssueCommentEvent,aurelia_path,2015-02-09 20:57:37 UTC,,,,,
+1431781,ForkEvent,aurelia_path,2015-08-28 09:37:16 UTC,,,,,
+1435917,PushEvent,aurelia_path,2015-04-07 18:56:05 UTC,,,,,
+1439620,ForkEvent,aurelia_path,2015-08-23 21:01:40 UTC,,,,,
+1443515,ForkEvent,aurelia_path,2015-01-30 06:50:16 UTC,,,,,
+1508469,PullRequestEvent,aurelia_path,2015-08-28 05:23:09 UTC,,,,,
+1512194,ReleaseEvent,aurelia_path,2015-04-30 19:42:23 UTC,,,,,
+1530046,ForkEvent,aurelia_path,2015-01-30 14:32:25 UTC,,,,,
+1598389,WatchEvent,aurelia_path,2015-10-17 11:11:53 UTC,,,,,
+1601743,PushEvent,aurelia_path,2015-04-30 04:40:36 UTC,,,,,
+1669236,PushEvent,aurelia_path,2015-02-11 16:27:24 UTC,,,,,
+1718409,PullRequestEvent,aurelia_path,2015-07-01 13:20:19 UTC,,,,,
+1777491,ReleaseEvent,aurelia_path,2015-02-11 19:37:58 UTC,,,,,
+1800073,PushEvent,aurelia_path,2015-08-14 03:59:09 UTC,,,,,
+1804603,WatchEvent,aurelia_path,2015-09-08 13:52:43 UTC,,,,,
+1813421,PullRequestEvent,aurelia_path,2015-05-05 00:57:51 UTC,,,,,
+1848573,CreateEvent,aurelia_path,2015-01-06 16:39:34 UTC,,,,,
+1851850,PushEvent,aurelia_path,2015-02-11 19:23:26 UTC,,,,,
+1863806,PushEvent,aurelia_path,2015-09-01 03:12:59 UTC,,,,,
+1879035,ForkEvent,aurelia_path,2015-05-02 00:37:17 UTC,,,,,
+1881778,IssueCommentEvent,aurelia_path,2015-07-01 13:20:19 UTC,,,,,
+1883621,PushEvent,aurelia_path,2015-02-11 16:20:12 UTC,,,,,
+1922627,ForkEvent,aurelia_path,2015-06-11 01:15:49 UTC,,,,,
+1934382,PullRequestReviewCommentEvent,aurelia_path,2015-08-23 21:16:59 UTC,,,,,
+1969842,IssueCommentEvent,aurelia_path,2015-02-10 21:53:32 UTC,,,,,
+1979480,CreateEvent,aurelia_path,2015-10-13 07:29:12 UTC,,,,,
+1995767,ReleaseEvent,aurelia_path,2015-05-06 13:55:23 UTC,,,,,
+2007643,ReleaseEvent,aurelia_path,2015-06-09 00:30:39 UTC,,,,,
+2062060,PushEvent,aurelia_path,2015-01-30 13:03:12 UTC,,,,,
+2063222,ReleaseEvent,aurelia_path,2015-11-10 04:37:58 UTC,,,,,
+2079474,PullRequestEvent,aurelia_path,2015-07-01 17:48:09 UTC,,,,,
+2118702,CreateEvent,aurelia_path,2015-07-02 03:38:34 UTC,,,,,
+2149563,PushEvent,aurelia_path,2015-04-09 04:50:56 UTC,,,,,
+2150165,WatchEvent,aurelia_path,2015-05-03 18:21:07 UTC,,,,,
+2162052,CreateEvent,aurelia_path,2015-05-06 13:55:23 UTC,,,,,
+2178391,PullRequestEvent,aurelia_path,2015-03-02 23:12:42 UTC,,,,,
+2185760,CreateEvent,aurelia_path,2015-11-10 04:37:58 UTC,,,,,
+2193569,WatchEvent,aurelia_path,2015-01-31 20:24:04 UTC,,,,,
+2209455,WatchEvent,aurelia_path,2015-08-30 23:48:55 UTC,,,,,
+2237843,PullRequestEvent,aurelia_path,2015-08-28 18:19:06 UTC,,,,,
+2259004,IssueCommentEvent,aurelia_path,2015-08-19 14:27:31 UTC,,,,,
+2277133,PullRequestEvent,aurelia_path,2015-01-30 07:01:56 UTC,,,,,
+2279870,PushEvent,aurelia_path,2015-02-06 21:49:34 UTC,,,,,
+2306468,PullRequestReviewCommentEvent,aurelia_path,2015-08-23 20:15:17 UTC,,,,,
+2320218,ReleaseEvent,aurelia_path,2015-07-02 03:38:34 UTC,,,,,
+2358509,PushEvent,aurelia_path,2015-11-10 04:37:38 UTC,,,,,
+2365497,IssueCommentEvent,aurelia_path,2015-02-10 22:01:05 UTC,,,,,
+2387862,PullRequestEvent,aurelia_path,2015-05-02 00:38:41 UTC,,,,,
+2405837,PushEvent,aurelia_path,2015-07-02 03:37:49 UTC,,,,,
+2438509,CreateEvent,aurelia_path,2015-02-28 04:46:01 UTC,,,,,
+2439215,PullRequestEvent,aurelia_path,2015-07-01 19:20:37 UTC,,,,,
+2512129,PushEvent,aurelia_path,2015-10-13 07:28:44 UTC,,,,,
+2522914,IssueCommentEvent,aurelia_path,2015-02-11 16:20:50 UTC,,,,,
+2531247,ForkEvent,aurelia_path,2015-03-02 22:14:21 UTC,,,,,
+2531619,PushEvent,aurelia_path,2015-02-12 14:44:26 UTC,,,,,
+2575505,PushEvent,aurelia_path,2015-07-29 20:48:59 UTC,,,,,
+2578330,IssueCommentEvent,aurelia_path,2015-07-01 15:35:25 UTC,,,,,
+2584511,ReleaseEvent,aurelia_path,2015-01-22 07:25:41 UTC,,,,,
+2612148,ReleaseEvent,aurelia_path,2015-09-04 19:15:33 UTC,,,,,
+2614741,PushEvent,aurelia_path,2015-07-01 19:20:37 UTC,,,,,
+2660445,IssueCommentEvent,aurelia_path,2015-03-02 23:50:08 UTC,,,,,
+2673637,ForkEvent,aurelia_path,2015-02-07 10:26:01 UTC,,,,,
+2720807,PushEvent,aurelia_path,2015-11-16 05:52:43 UTC,,,,,
+2744104,ForkEvent,aurelia_path,2015-01-02 17:39:58 UTC,,,,,
+2748281,PushEvent,aurelia_path,2015-01-30 16:27:08 UTC,,,,,
+2785588,PullRequestEvent,aurelia_path,2015-01-30 16:02:52 UTC,,,,,
+2789187,ReleaseEvent,aurelia_path,2015-03-25 01:54:17 UTC,,,,,
+2800066,PushEvent,aurelia_path,2015-03-02 18:45:01 UTC,,,,,
+2809209,PullRequestEvent,aurelia_path,2015-01-30 13:03:12 UTC,,,,,
+2809210,PullRequestEvent,aurelia_path,2015-04-30 12:26:21 UTC,,,,,
+2832847,ReleaseEvent,aurelia_path,2015-01-06 16:39:34 UTC,,,,,
+2865267,IssueCommentEvent,aurelia_path,2015-08-30 06:16:34 UTC,,,,,
+2876419,PullRequestEvent,aurelia_path,2015-08-18 19:25:25 UTC,,,,,
+2880404,PullRequestEvent,aurelia_path,2015-01-30 14:57:57 UTC,,,,,
+2897784,PullRequestReviewCommentEvent,aurelia_path,2015-08-23 19:46:36 UTC,,,,,
+2905902,ForkEvent,aurelia_path,2015-08-18 17:22:47 UTC,,,,,
+2907054,WatchEvent,aurelia_path,2015-10-21 10:22:24 UTC,,,,,
+2941432,PushEvent,aurelia_path,2015-07-01 00:09:06 UTC,,,,,
+2966114,CreateEvent,aurelia_path,2015-01-22 07:25:41 UTC,,,,,
+2980126,IssueCommentEvent,aurelia_path,2015-08-23 21:26:58 UTC,,,,,
+3044379,ForkEvent,aurelia_path,2015-07-01 15:42:07 UTC,,,,,
+3048543,PushEvent,aurelia_path,2015-03-08 03:38:25 UTC,,,,,
+3092055,PushEvent,aurelia_path,2015-06-08 18:20:18 UTC,,,,,
+3093475,ReleaseEvent,aurelia_path,2015-10-13 07:29:12 UTC,,,,,
+3225428,IssueCommentEvent,aurelia_path,2015-08-28 18:36:40 UTC,,,,,
+3243523,PullRequestEvent,aurelia_path,2015-03-03 03:15:15 UTC,,,,,
+3277941,PushEvent,aurelia_path,2015-05-06 13:54:48 UTC,,,,,
+3313467,PushEvent,aurelia_path,2015-02-28 00:53:56 UTC,,,,,
+15461,IssueCommentEvent,aurelia_path,2016-02-19 05:01:52 UTC,,,,,
+42968,PullRequestEvent,aurelia_path,2016-10-04 05:46:39 UTC,,,,,
+62821,IssueCommentEvent,aurelia_path,2016-08-29 13:11:10 UTC,,,,,
+113644,IssueCommentEvent,aurelia_path,2016-09-14 19:17:48 UTC,,,,,
+152586,PushEvent,aurelia_path,2016-04-06 18:09:35 UTC,,,,,
+158297,PullRequestReviewCommentEvent,aurelia_path,2016-02-18 04:17:26 UTC,,,,,
+162069,PushEvent,aurelia_path,2016-04-06 18:00:30 UTC,,,,,
+170668,IssueCommentEvent,aurelia_path,2016-04-04 00:55:24 UTC,,,,,
+290051,IssueCommentEvent,aurelia_path,2016-10-04 04:51:55 UTC,,,,,
+307236,CreateEvent,aurelia_path,2016-07-27 14:15:10 UTC,,,,,
+315391,PullRequestReviewCommentEvent,aurelia_path,2016-02-18 04:31:28 UTC,,,,,
+325460,PushEvent,aurelia_path,2016-06-12 00:16:52 UTC,,,,,
+356060,IssueCommentEvent,aurelia_path,2016-01-22 05:48:01 UTC,,,,,
+367286,CreateEvent,aurelia_path,2016-06-17 00:38:07 UTC,,,,,
+377297,PullRequestEvent,aurelia_path,2016-11-08 14:38:59 UTC,,,,,
+385571,PushEvent,aurelia_path,2016-09-22 17:41:26 UTC,,,,,
+407797,PushEvent,aurelia_path,2016-01-28 23:31:52 UTC,,,,,
+410041,IssueCommentEvent,aurelia_path,2016-02-18 09:28:52 UTC,,,,,
+419445,IssueCommentEvent,aurelia_path,2016-09-15 12:30:53 UTC,,,,,
+465239,IssuesEvent,aurelia_path,2016-01-07 23:15:17 UTC,,,,,
+525464,IssuesEvent,aurelia_path,2016-02-16 12:16:05 UTC,,,,,
+531540,CreateEvent,aurelia_path,2016-09-22 17:43:27 UTC,,,,,
+549390,ForkEvent,aurelia_path,2016-11-08 04:43:07 UTC,,,,,
+571101,PullRequestReviewCommentEvent,aurelia_path,2016-02-18 04:32:25 UTC,,,,,
+588465,ReleaseEvent,aurelia_path,2016-09-22 17:43:27 UTC,,,,,
+641176,PushEvent,aurelia_path,2016-05-10 14:53:30 UTC,,,,,
+662258,IssueCommentEvent,aurelia_path,2016-04-06 18:05:23 UTC,,,,,
+672620,PushEvent,aurelia_path,2016-06-12 00:18:27 UTC,,,,,
+672621,PushEvent,aurelia_path,2016-03-22 19:19:19 UTC,,,,,
+706362,IssueCommentEvent,aurelia_path,2016-09-23 18:08:06 UTC,,,,,
+761225,WatchEvent,aurelia_path,2016-10-11 00:34:32 UTC,,,,,
+766185,IssueCommentEvent,aurelia_path,2016-04-06 00:42:01 UTC,,,,,
+772492,IssueCommentEvent,aurelia_path,2016-02-24 20:24:35 UTC,,,,,
+775533,IssueCommentEvent,aurelia_path,2016-04-06 14:54:41 UTC,,,,,
+890237,PushEvent,aurelia_path,2016-04-06 17:57:55 UTC,,,,,
+899641,PushEvent,aurelia_path,2016-03-01 05:34:54 UTC,,,,,
+908067,IssueCommentEvent,aurelia_path,2016-10-05 19:22:27 UTC,,,,,
+916512,PullRequestEvent,aurelia_path,2016-03-14 06:56:22 UTC,,,,,
+917919,PullRequestReviewCommentEvent,aurelia_path,2016-02-18 06:11:06 UTC,,,,,
+983006,PullRequestEvent,aurelia_path,2016-04-04 00:54:07 UTC,,,,,
+994214,PushEvent,aurelia_path,2016-09-07 14:36:41 UTC,,,,,
+1021718,IssueCommentEvent,aurelia_path,2016-04-04 02:19:06 UTC,,,,,
+1033364,ReleaseEvent,aurelia_path,2016-06-22 12:47:35 UTC,,,,,
+1064086,PushEvent,aurelia_path,2016-07-27 14:14:00 UTC,,,,,
+1075597,IssueCommentEvent,aurelia_path,2016-09-15 12:37:58 UTC,,,,,
+1085151,IssueCommentEvent,aurelia_path,2016-08-17 08:42:50 UTC,,,,,
+1166170,ReleaseEvent,aurelia_path,2016-06-13 15:17:58 UTC,,,,,
+1168398,PushEvent,aurelia_path,2016-02-24 20:24:23 UTC,,,,,
+1173833,IssueCommentEvent,aurelia_path,2016-04-04 01:20:41 UTC,,,,,
+1197758,ReleaseEvent,aurelia_path,2016-06-17 00:38:06 UTC,,,,,
+1255665,IssueCommentEvent,aurelia_path,2016-09-15 12:09:11 UTC,,,,,
+1329488,WatchEvent,aurelia_path,2016-09-27 03:18:07 UTC,,,,,
+1334269,IssueCommentEvent,aurelia_path,2016-08-24 11:16:45 UTC,,,,,
+1341610,PushEvent,aurelia_path,2016-06-22 12:46:23 UTC,,,,,
+1343743,IssueCommentEvent,aurelia_path,2016-02-19 05:18:45 UTC,,,,,
+1351483,WatchEvent,aurelia_path,2016-03-08 11:51:00 UTC,,,,,
+1362647,IssueCommentEvent,aurelia_path,2016-12-08 06:21:18 UTC,,,,,
+1406933,IssueCommentEvent,aurelia_path,2016-04-06 00:03:24 UTC,,,,,
+1475691,ReleaseEvent,aurelia_path,2016-07-27 14:15:10 UTC,,,,,
+1573828,PullRequestEvent,aurelia_path,2016-08-24 12:31:33 UTC,,,,,
+1713476,IssueCommentEvent,aurelia_path,2016-08-24 10:36:00 UTC,,,,,
+1765803,IssuesEvent,aurelia_path,2016-02-27 12:54:53 UTC,,,,,
+1801948,IssueCommentEvent,aurelia_path,2016-12-08 05:49:22 UTC,,,,,
+1855578,IssueCommentEvent,aurelia_path,2016-08-17 08:51:09 UTC,,,,,
+1882244,CreateEvent,aurelia_path,2016-06-22 12:47:35 UTC,,,,,
+1890021,IssueCommentEvent,aurelia_path,2016-11-08 14:38:59 UTC,,,,,
+1905459,IssueCommentEvent,aurelia_path,2016-04-06 18:05:02 UTC,,,,,
+1942267,ReleaseEvent,aurelia_path,2016-04-06 18:10:02 UTC,,,,,
+1972012,IssueCommentEvent,aurelia_path,2016-08-29 07:50:24 UTC,,,,,
+1990872,IssueCommentEvent,aurelia_path,2016-04-04 01:58:57 UTC,,,,,
+2003396,IssueCommentEvent,aurelia_path,2016-08-24 10:31:03 UTC,,,,,
+2009617,IssueCommentEvent,aurelia_path,2016-04-06 14:53:27 UTC,,,,,
+2060950,PushEvent,aurelia_path,2016-06-17 00:37:49 UTC,,,,,
+2063206,IssueCommentEvent,aurelia_path,2016-09-16 03:02:18 UTC,,,,,
+2067701,WatchEvent,aurelia_path,2016-09-28 19:58:38 UTC,,,,,
+2081991,IssueCommentEvent,aurelia_path,2016-01-08 00:35:07 UTC,,,,,
+2083018,PushEvent,aurelia_path,2016-10-04 05:46:40 UTC,,,,,
+2107371,IssueCommentEvent,aurelia_path,2016-02-19 05:48:07 UTC,,,,,
+2150739,ReleaseEvent,aurelia_path,2016-03-23 03:26:59 UTC,,,,,
+2182598,PullRequestEvent,aurelia_path,2016-04-06 18:00:30 UTC,,,,,
+2196332,IssueCommentEvent,aurelia_path,2016-04-06 14:46:52 UTC,,,,,
+2197936,CreateEvent,aurelia_path,2016-01-28 23:32:33 UTC,,,,,
+2201662,PullRequestEvent,aurelia_path,2016-04-06 17:57:54 UTC,,,,,
+2203209,ForkEvent,aurelia_path,2016-04-02 14:58:16 UTC,,,,,
+2215132,IssueCommentEvent,aurelia_path,2016-02-19 05:11:15 UTC,,,,,
+2217050,IssuesEvent,aurelia_path,2016-04-06 18:05:02 UTC,,,,,
+2225743,PushEvent,aurelia_path,2016-09-23 18:15:00 UTC,,,,,
+2249758,IssueCommentEvent,aurelia_path,2016-09-14 13:15:28 UTC,,,,,
+2270180,CreateEvent,aurelia_path,2016-05-10 14:53:56 UTC,,,,,
+2271705,IssueCommentEvent,aurelia_path,2016-04-04 01:20:11 UTC,,,,,
+2294142,CommitCommentEvent,aurelia_path,2016-04-07 00:49:29 UTC,,,,,
+2373188,ForkEvent,aurelia_path,2016-02-03 06:50:21 UTC,,,,,
+2380922,ReleaseEvent,aurelia_path,2016-05-10 14:53:53 UTC,,,,,
+2401939,PushEvent,aurelia_path,2016-07-14 17:03:44 UTC,,,,,
+2434580,ReleaseEvent,aurelia_path,2016-09-23 18:15:56 UTC,,,,,
+2455276,ForkEvent,aurelia_path,2016-03-14 05:40:39 UTC,,,,,
+2495606,IssueCommentEvent,aurelia_path,2016-04-06 00:39:14 UTC,,,,,
+2551562,IssuesEvent,aurelia_path,2016-08-19 10:40:45 UTC,,,,,
+2564308,IssuesEvent,aurelia_path,2016-03-14 06:55:10 UTC,,,,,
+2566498,PushEvent,aurelia_path,2016-06-12 00:17:28 UTC,,,,,
+2611254,CreateEvent,aurelia_path,2016-03-01 05:36:18 UTC,,,,,
+2625368,IssueCommentEvent,aurelia_path,2016-09-15 12:37:48 UTC,,,,,
+2634859,IssueCommentEvent,aurelia_path,2016-09-15 12:24:16 UTC,,,,,
+2676191,PullRequestReviewCommentEvent,aurelia_path,2016-02-18 04:33:24 UTC,,,,,
+2679020,IssueCommentEvent,aurelia_path,2016-09-15 12:36:40 UTC,,,,,
+2718755,IssuesEvent,aurelia_path,2016-10-05 04:22:32 UTC,,,,,
+2792842,ForkEvent,aurelia_path,2016-07-29 11:33:50 UTC,,,,,
+2827011,IssueCommentEvent,aurelia_path,2016-10-01 18:38:45 UTC,,,,,
+2832338,PullRequestEvent,aurelia_path,2016-02-24 20:24:23 UTC,,,,,
+2836462,IssueCommentEvent,aurelia_path,2016-09-09 09:54:07 UTC,,,,,
+2846087,CommitCommentEvent,aurelia_path,2016-04-06 18:06:59 UTC,,,,,
+2875910,WatchEvent,aurelia_path,2016-12-15 08:21:31 UTC,,,,,
+2880700,IssueCommentEvent,aurelia_path,2016-04-04 01:59:46 UTC,,,,,
+2925611,PushEvent,aurelia_path,2016-05-09 19:36:43 UTC,,,,,
+2931592,ForkEvent,aurelia_path,2016-08-24 09:48:22 UTC,,,,,
+2947653,PushEvent,aurelia_path,2016-05-04 20:33:21 UTC,,,,,
+2966089,ForkEvent,aurelia_path,2016-04-04 00:43:18 UTC,,,,,
+3086818,CreateEvent,aurelia_path,2016-06-13 15:17:58 UTC,,,,,
+3157960,PullRequestReviewCommentEvent,aurelia_path,2016-02-18 04:18:04 UTC,,,,,
+3177362,PushEvent,aurelia_path,2016-09-12 15:13:46 UTC,,,,,
+3187701,IssuesEvent,aurelia_path,2016-04-06 18:05:23 UTC,,,,,
+3191888,IssueCommentEvent,aurelia_path,2016-11-08 14:25:16 UTC,,,,,
+3191889,IssueCommentEvent,aurelia_path,2016-08-29 07:52:45 UTC,,,,,
+3214063,IssueCommentEvent,aurelia_path,2016-10-05 04:22:32 UTC,,,,,
+3215722,CreateEvent,aurelia_path,2016-09-23 18:15:56 UTC,,,,,
+3241559,PullRequestEvent,aurelia_path,2016-10-01 09:09:51 UTC,,,,,
+3271494,ForkEvent,aurelia_path,2016-03-08 11:51:01 UTC,,,,,
+3271886,PushEvent,aurelia_path,2016-09-16 03:02:50 UTC,,,,,
+3287161,PullRequestReviewCommentEvent,aurelia_path,2016-02-19 05:00:05 UTC,,,,,
+3308585,IssueCommentEvent,aurelia_path,2016-09-15 06:18:55 UTC,,,,,
+3328436,PushEvent,aurelia_path,2016-03-11 07:08:30 UTC,,,,,
+3362024,IssueCommentEvent,aurelia_path,2016-10-01 18:22:23 UTC,,,,,
+3403852,PushEvent,aurelia_path,2016-01-28 23:29:07 UTC,,,,,
+3416405,PushEvent,aurelia_path,2016-07-05 18:12:48 UTC,,,,,
+3436519,PullRequestEvent,aurelia_path,2016-04-04 01:19:03 UTC,,,,,
+3459715,IssueCommentEvent,aurelia_path,2016-09-16 07:50:53 UTC,,,,,
+3476626,PushEvent,aurelia_path,2016-09-22 14:02:56 UTC,,,,,
+3488311,IssueCommentEvent,aurelia_path,2016-09-23 17:25:36 UTC,,,,,
+3558552,PushEvent,aurelia_path,2016-06-20 00:49:47 UTC,,,,,
+3578443,PullRequestEvent,aurelia_path,2016-02-17 08:52:46 UTC,,,,,
+3585810,IssueCommentEvent,aurelia_path,2016-10-06 18:42:55 UTC,,,,,
+3613989,IssueCommentEvent,aurelia_path,2016-02-18 04:36:46 UTC,,,,,
+3645490,IssueCommentEvent,aurelia_path,2016-09-14 11:21:32 UTC,,,,,
+3649669,PushEvent,aurelia_path,2016-06-13 15:17:29 UTC,,,,,
+3680439,IssueCommentEvent,aurelia_path,2016-09-09 11:41:13 UTC,,,,,
+3685508,IssuesEvent,aurelia_path,2016-08-17 08:26:12 UTC,,,,,
+3719235,PushEvent,aurelia_path,2016-06-03 20:31:30 UTC,,,,,
+3730964,IssueCommentEvent,aurelia_path,2016-09-23 18:16:43 UTC,,,,,
+3736036,ReleaseEvent,aurelia_path,2016-01-28 23:32:33 UTC,,,,,
+3744587,PushEvent,aurelia_path,2016-06-12 00:20:01 UTC,,,,,
+3786984,PullRequestEvent,aurelia_path,2016-09-16 03:02:49 UTC,,,,,
+3794888,ForkEvent,aurelia_path,2016-11-08 04:58:48 UTC,,,,,
+3807899,PushEvent,aurelia_path,2016-09-23 18:14:00 UTC,,,,,
+3818723,PullRequestEvent,aurelia_path,2016-03-21 11:19:36 UTC,,,,,
+3829578,ForkEvent,aurelia_path,2016-06-17 13:29:17 UTC,,,,,
+3832118,IssueCommentEvent,aurelia_path,2016-08-29 13:12:59 UTC,,,,,
+3906128,CreateEvent,aurelia_path,2016-03-23 03:27:00 UTC,,,,,
+3969524,CreateEvent,aurelia_path,2016-04-06 18:10:02 UTC,,,,,
+3975176,PushEvent,aurelia_path,2016-03-21 11:19:37 UTC,,,,,
+3987793,PushEvent,aurelia_path,2016-07-14 19:28:09 UTC,,,,,
+4002496,IssueCommentEvent,aurelia_path,2016-10-05 20:18:14 UTC,,,,,
+4004504,ReleaseEvent,aurelia_path,2016-03-01 05:36:17 UTC,,,,,
+4006713,PushEvent,aurelia_path,2016-05-03 15:37:01 UTC,,,,,
+4046677,IssueCommentEvent,aurelia_path,2016-02-19 07:40:26 UTC,,,,,
+4069291,ForkEvent,aurelia_path,2016-02-17 08:36:49 UTC,,,,,
+136534,ForkEvent,aurelia_path,2017-08-09 11:32:39 UTC,,,,,
+254538,ForkEvent,aurelia_path,2017-12-14 18:42:19 UTC,,,,,
+282923,ForkEvent,aurelia_path,2017-03-17 12:47:27 UTC,,,,,
+575601,PushEvent,aurelia_path,2018-01-01 23:20:31 UTC,,,,,
+991209,WatchEvent,aurelia_path,2017-08-09 11:32:36 UTC,,,,,
+1180659,WatchEvent,aurelia_path,2017-08-21 14:38:31 UTC,,,,,
+1358296,WatchEvent,aurelia_path,2017-12-29 12:49:11 UTC,,,,,
+1406960,WatchEvent,aurelia_path,2017-12-14 18:42:15 UTC,,,,,
+2499419,PullRequestEvent,aurelia_path,2018-01-01 23:20:30 UTC,,,,,
+2879176,PullRequestEvent,aurelia_path,2018-01-01 22:05:04 UTC,,,,,
+199553,ForkEvent,aurelia_path,2018-12-13 07:16:35 UTC,,,,,
+222595,ForkEvent,aurelia_path,2018-03-06 01:23:27 UTC,,,,,
+258865,ForkEvent,aurelia_path,2018-05-17 16:12:32 UTC,,,,,
+442706,PushEvent,aurelia_path,2018-10-13 00:11:08 UTC,,,,,
+1843932,WatchEvent,aurelia_path,2018-03-24 12:41:24 UTC,,,,,
+2164807,IssuesEvent,aurelia_path,2018-05-18 15:15:38 UTC,,,,,
+3725033,IssueCommentEvent,aurelia_path,2018-05-27 07:07:14 UTC,,,,,
+26826,ReleaseEvent,aurelia_path,2019-09-10 01:39:10 UTC,,,,,
+32735,CommitCommentEvent,aurelia_path,2019-05-04 12:59:14 UTC,,,,,
+35531,ReleaseEvent,aurelia_path,2019-03-26 06:22:39 UTC,,,,,
+99843,ForkEvent,aurelia_path,2019-05-07 01:13:16 UTC,,,,,
+163538,ForkEvent,aurelia_path,2019-08-13 05:48:26 UTC,,,,,
+406941,PushEvent,aurelia_path,2019-09-10 01:43:45 UTC,,,,,
+457033,PushEvent,aurelia_path,2019-02-04 11:49:37 UTC,,,,,
+521686,PushEvent,aurelia_path,2019-10-15 23:45:19 UTC,,,,,
+542130,PushEvent,aurelia_path,2019-02-03 08:02:23 UTC,,,,,
+664305,PushEvent,aurelia_path,2019-08-23 01:39:22 UTC,,,,,
+699068,PushEvent,aurelia_path,2019-09-10 01:38:25 UTC,,,,,
+862148,PushEvent,aurelia_path,2019-03-26 06:25:11 UTC,,,,,
+876307,PushEvent,aurelia_path,2019-03-26 06:22:20 UTC,,,,,
+967735,PushEvent,aurelia_path,2019-02-04 11:52:47 UTC,,,,,
+1028837,PushEvent,aurelia_path,2019-02-03 08:15:17 UTC,,,,,
+1058966,PushEvent,aurelia_path,2019-02-03 06:08:14 UTC,,,,,
+1078517,PushEvent,aurelia_path,2019-02-03 05:59:19 UTC,,,,,
+1135790,PushEvent,aurelia_path,2019-09-10 01:33:58 UTC,,,,,
+1184126,PushEvent,aurelia_path,2019-10-15 23:40:56 UTC,,,,,
+2011267,WatchEvent,aurelia_path,2019-02-13 21:25:36 UTC,,,,,
+2045591,WatchEvent,aurelia_path,2020-01-08 02:03:51 UTC,,,,,
+2326746,CreateEvent,aurelia_path,2019-02-01 08:47:14 UTC,,,,,
+2356049,CreateEvent,aurelia_path,2019-03-26 06:20:13 UTC,,,,,
+2378998,CreateEvent,aurelia_path,2019-09-10 01:36:20 UTC,,,,,
+2380313,CreateEvent,aurelia_path,2019-05-31 06:04:49 UTC,,,,,
+2386164,CreateEvent,aurelia_path,2019-10-15 23:36:31 UTC,,,,,
+2390583,CreateEvent,aurelia_path,2019-08-28 19:33:42 UTC,,,,,
+2396118,CreateEvent,aurelia_path,2019-06-21 07:42:45 UTC,,,,,
+2400214,CreateEvent,aurelia_path,2019-02-01 08:47:11 UTC,,,,,
+2414491,CreateEvent,aurelia_path,2019-06-05 21:21:20 UTC,,,,,
+2541017,IssuesEvent,aurelia_path,2019-10-15 23:53:50 UTC,,,,,
+2577019,IssuesEvent,aurelia_path,2019-10-15 22:13:20 UTC,,,,,
+2577385,IssuesEvent,aurelia_path,2019-08-21 04:06:19 UTC,,,,,
+2587158,IssuesEvent,aurelia_path,2019-11-25 17:57:31 UTC,,,,,
+2627740,IssuesEvent,aurelia_path,2019-05-04 12:36:36 UTC,,,,,
+2700255,IssuesEvent,aurelia_path,2019-08-23 01:39:22 UTC,,,,,
+3131361,PullRequestEvent,aurelia_path,2019-08-23 01:39:21 UTC,,,,,
+3162216,PullRequestEvent,aurelia_path,2019-05-07 03:05:32 UTC,,,,,
+3204364,PullRequestEvent,aurelia_path,2019-05-07 02:07:01 UTC,,,,,
+3289375,PullRequestEvent,aurelia_path,2019-06-05 21:21:21 UTC,,,,,
+3370008,PullRequestEvent,aurelia_path,2019-08-28 19:33:43 UTC,,,,,
+3406934,PullRequestEvent,aurelia_path,2019-06-21 07:42:45 UTC,,,,,
+3424990,PullRequestEvent,aurelia_path,2019-05-31 06:04:50 UTC,,,,,
+3534036,PullRequestEvent,aurelia_path,2019-08-14 01:04:35 UTC,,,,,
+3885514,IssueCommentEvent,aurelia_path,2019-08-21 04:03:51 UTC,,,,,
+3946106,IssueCommentEvent,aurelia_path,2019-10-15 22:15:34 UTC,,,,,
+4034040,IssueCommentEvent,aurelia_path,2019-08-14 01:55:54 UTC,,,,,
+4122911,IssueCommentEvent,aurelia_path,2019-08-21 04:02:48 UTC,,,,,
+4143428,IssueCommentEvent,aurelia_path,2019-05-04 12:50:56 UTC,,,,,
+4179405,IssueCommentEvent,aurelia_path,2019-06-05 21:21:29 UTC,,,,,
+4363427,IssueCommentEvent,aurelia_path,2019-08-28 21:33:49 UTC,,,,,
+4556809,IssueCommentEvent,aurelia_path,2019-08-23 00:27:51 UTC,,,,,
+4795442,IssueCommentEvent,aurelia_path,2019-10-15 23:43:11 UTC,,,,,
+4900490,IssueCommentEvent,aurelia_path,2019-05-31 06:04:58 UTC,,,,,
+5049363,IssueCommentEvent,aurelia_path,2019-06-21 07:42:52 UTC,,,,,
+5100223,IssueCommentEvent,aurelia_path,2019-05-07 03:05:32 UTC,,,,,
+5238692,IssueCommentEvent,aurelia_path,2019-10-15 23:53:49 UTC,,,,,
+5480719,IssueCommentEvent,aurelia_path,2019-05-07 02:07:08 UTC,,,,,
+5481973,IssueCommentEvent,aurelia_path,2019-08-14 08:08:20 UTC,,,,,
+5600283,IssueCommentEvent,aurelia_path,2019-10-15 22:38:37 UTC,,,,,
+5691405,PullRequestReviewCommentEvent,aurelia_path,2019-05-07 02:32:29 UTC,,,,,
+5751345,PullRequestReviewCommentEvent,aurelia_path,2019-05-07 02:31:05 UTC,,,,,
+5945636,PullRequestReviewCommentEvent,aurelia_path,2019-05-07 02:59:14 UTC,,,,,
+6093144,PullRequestReviewCommentEvent,aurelia_path,2019-05-07 03:01:40 UTC,,,,,
+0,Commit,aurelia_path,2021-09-26 07:05:54,2905f8596128d0d8f2e9e79642c6c320c284dfc8,2.0,2.0,1.0,0.0
+1,Commit,aurelia_path,2021-09-26 04:07:29,3c674eff2ba3856f0f132503fec78597666b2b7e,63.0,55.0,17.0,0.0
+2,Commit,aurelia_path,2021-09-26 03:58:11,1877d0ab834ddc852412dd887ae1a0aa5e4f09e4,15.0,56.0,2.0,0.0
+3,Commit,aurelia_path,2021-06-19 05:41:07,d3bb6faa8180cf245a15f7754f52b5acd9178ef1,23.0,6.0,2.0,0.0
+4,Commit,aurelia_path,2021-06-09 07:01:51,a9906488fff20ea44883974dd279477d9b3d9a7a,10.0,1.0,1.0,0.0
+5,Commit,aurelia_path,2021-06-09 06:30:20,7c4e235433a4a2df9acc313fbe891758084fdec1,351.0,315.0,3.0,1.0
+6,Commit,aurelia_path,2021-06-09 06:29:52,4aa908839ed9c50ada7214807ec4fbbc5e668aff,15380.0,8650.0,43.0,0.0
+7,Commit,aurelia_path,2019-10-15 23:45:16,0624b03294ee95dfc08dd34054e4023f4fbff985,12.0,2.0,3.0,0.0
+8,Commit,aurelia_path,2019-10-15 23:45:16,86eee310acb0bca95099ff56b1bfd3b4378e3cb9,0.0,0.0,0.0,0.0
+9,Commit,aurelia_path,2019-10-15 23:40:53,ac538ac94b58135611f737b3d2af5cc840a60e9b,12.0,2.0,3.0,0.0
+10,Commit,aurelia_path,2019-09-10 01:43:42,080712c9480d7f808c3e3838369cce699f69d8b4,75.0,14.0,9.0,0.0
+11,Commit,aurelia_path,2019-09-10 01:43:42,fba3052bda38d766f3485a65abfaf593a5f15652,0.0,0.0,0.0,0.0
+12,Commit,aurelia_path,2019-09-10 01:38:22,d0fb4fa8ad36ac0707d2de598d9bae9b89fea371,64.0,9.0,6.0,0.0
+13,Commit,aurelia_path,2019-09-10 01:33:52,c3197fbf1a1ee3b972be52c15747e645864dbf2d,1.0,2.0,1.0,0.0
+14,Commit,aurelia_path,2019-08-23 00:25:44,742b7eb45432469407824b284e26c7fe140ad5c4,51.0,5.0,2.0,0.0
+15,Commit,aurelia_path,2019-03-26 06:25:08,0be13f7710ddc81def93edaafd6ad3d339077c1d,12.0,2.0,3.0,0.0
+16,Commit,aurelia_path,2019-03-26 06:25:08,85b5f8fe4e816f29497c765d1efbfffad31c4c5c,0.0,0.0,0.0,0.0
+17,Commit,aurelia_path,2019-03-26 06:22:17,cdc48df1eb162d0f3af72a3f359eefa08bde5e6e,19.0,3.0,4.0,0.0
+18,Commit,aurelia_path,2019-02-04 11:52:43,be8e99f3b60712c8669a2c76969b441adab4bdb6,304.0,383.0,3.0,0.0
+19,Commit,aurelia_path,2019-02-04 11:52:43,6ed9483f449abf9700b6c4c267458d5827758c1f,0.0,0.0,0.0,0.0
+20,Commit,aurelia_path,2019-02-04 11:49:31,f400922caed35201f5aa1d7723febaa8a91b408f,838.0,14.0,2.0,0.0
+21,Commit,aurelia_path,2019-02-03 08:15:14,133b70b4e23983a93079cd11d67fffed32e93e58,0.0,0.0,0.0,0.0
+22,Commit,aurelia_path,2019-02-03 08:15:14,f7340138a12e4db47c8d2bc23df1c6c93f75954b,0.0,0.0,0.0,0.0
+23,Commit,aurelia_path,2019-02-03 08:02:19,6f49ca3a0654d8741e7a03fa41cbb57c9a1520e8,5.0,0.0,1.0,0.0
+24,Commit,aurelia_path,2019-02-03 06:29:39,8e4e75f60332a34ad5ddbd0fdbc0b36f4a99a9e6,5.0,0.0,1.0,0.0
+25,Commit,aurelia_path,2019-02-03 06:29:39,c81a7c2dcf6cf8b98fcbf4cd097df1990cdbd180,0.0,0.0,0.0,0.0
+26,Commit,aurelia_path,2019-02-03 06:25:29,3a13e2f2ad6a3f18262b31c45c48646a0a264eb3,1.0,1.0,1.0,0.0
+27,Commit,aurelia_path,2019-02-03 06:08:11,84baf4dcff266121e3da475955ddb7d324f26531,2259.0,343.0,18.0,0.0
+28,Commit,aurelia_path,2019-02-03 06:08:11,dbdf4db7508ada140098b97a68c60033c5565061,0.0,0.0,0.0,0.0
+29,Commit,aurelia_path,2019-02-03 05:59:15,608b2c8a28e6a8388d2a00d0fb3cf3f419f02fd0,54.0,1421.0,17.0,0.0
+30,Commit,aurelia_path,2019-01-18 03:39:25,dd3942c888fe55c8eb216adc21f5acad5a02f13e,9124.0,10.0,11.0,0.0
+31,Commit,aurelia_path,2018-10-13 00:11:00,7466b01dc72a3b09da0e8481cfe896cf72dba80f,1.0,0.0,1.0,0.0
+32,Commit,aurelia_path,2018-01-01 21:47:32,b214dc4ab711ec61b507c94ca496197084e3d33c,1.0,1.0,1.0,0.0
+33,Commit,aurelia_path,2016-10-04 05:46:39,6a59e81db4c5ff5fa709e63b934903579abaa188,0.0,0.0,0.0,0.0
+34,Commit,aurelia_path,2016-10-01 09:09:42,a775861f44818569638a0b5eb2f73582966d18a6,0.0,16.0,1.0,0.0
+35,Commit,aurelia_path,2016-09-23 18:14:54,b2a67a5732a8c342ca6acb123a96b319f8808995,16.0,6.0,6.0,0.0
+36,Commit,aurelia_path,2016-09-23 18:13:18,fc600e58697481e794e4f43e356d7cc1ecbf456f,2.0,2.0,1.0,0.0
+37,Commit,aurelia_path,2016-09-22 17:41:20,6b98f0bbf616713a0798306e7e7f2f2b319ce15a,106.0,77.0,11.0,0.0
+38,Commit,aurelia_path,2016-09-22 14:02:50,3df14d03008715c7921406eebaa777619fb0fc32,2.0,2.0,1.0,0.0
+39,Commit,aurelia_path,2016-09-16 03:00:37,1506842f1b215974000fc4707d5ae95e53e5698c,0.0,0.0,0.0,0.0
+40,Commit,aurelia_path,2016-09-15 12:23:14,b58c6afa1dd0a3661eac20487343e9df4a56a01b,28.0,14.0,2.0,0.0
+41,Commit,aurelia_path,2016-09-12 15:13:42,a302d5f20d4fcf1e1126b854633af3fdf8c8455d,2.0,2.0,1.0,0.0
+42,Commit,aurelia_path,2016-09-07 14:36:35,1337870d023cdf651ede4b070b990e31a22fd517,1.0,1.0,1.0,0.0
+43,Commit,aurelia_path,2016-09-07 03:18:08,4f3f5f3e490e657f5da538f24dbd956bcd6b9b86,1.0,1.0,1.0,0.0
+44,Commit,aurelia_path,2016-07-27 14:13:56,f9694e6b629c2566353ecd98818dc619c5b058f8,7.0,2.0,3.0,0.0
+45,Commit,aurelia_path,2016-07-27 14:10:12,d003c91415a28c54c60f3e5222944371735a66bb,136.0,136.0,4.0,0.0
+46,Commit,aurelia_path,2016-07-27 14:08:24,adab19ad73e75abf391d739f1ff5e23543629bc4,14.0,14.0,1.0,0.0
+47,Commit,aurelia_path,2016-07-14 19:28:05,bcad130a9aeef8de3e1e495841e9a8c187a7e0cd,2.0,2.0,1.0,0.0
+48,Commit,aurelia_path,2016-07-14 17:03:41,737189be17e5f34c2605699cb22bb4b3991be74e,76.0,0.0,1.0,0.0
+49,Commit,aurelia_path,2016-07-05 18:12:42,e92a47e2548386fb24c7c2d4497ff413f972af88,0.0,7.0,1.0,0.0
+50,Commit,aurelia_path,2016-06-22 12:46:13,9bb4f5afd9ba8449a3f05c80c481f4c4704b3274,7.0,2.0,3.0,0.0
+51,Commit,aurelia_path,2016-06-22 12:42:06,5945e50113a99b7b550c985a8d3aad51422b9be5,11.0,3.0,1.0,0.0
+52,Commit,aurelia_path,2016-06-22 12:41:11,07f899ca2ff99ab8b9aaa30616d9682eb4a3a28b,8.0,8.0,1.0,0.0
+53,Commit,aurelia_path,2016-06-20 00:49:44,e8b3aa81680dfd40f4c34eba8d205053453faaf1,11.0,14.0,2.0,0.0
+54,Commit,aurelia_path,2016-06-17 00:37:44,107bf2824f76f40ca5037b5115829a1c4656dd50,6.0,2.0,3.0,0.0
+55,Commit,aurelia_path,2016-06-13 15:17:25,1a1c818f9166fb1d08a9b9c0b1cd51f58d5abffd,2.0,2.0,2.0,0.0
+56,Commit,aurelia_path,2016-06-12 00:19:50,bfdc1d4ac534b2f5db05f07720a34c9fefae2e62,1.0,0.0,1.0,0.0
+57,Commit,aurelia_path,2016-06-12 00:18:19,0746b54050c3fc03da20e815964133750eaae223,290.0,397.0,17.0,0.0
+58,Commit,aurelia_path,2016-06-12 00:17:21,875e8d21d2d18ee55523163a2a1ebd10c9f96f5c,24.0,10.0,1.0,0.0
+59,Commit,aurelia_path,2016-06-12 00:16:46,bab19babdc3d3e22d41a4423b5b93cc4f9f736b9,259.0,79.0,9.0,0.0
+60,Commit,aurelia_path,2016-06-03 20:31:25,762d6dd77200672080e6a24e6db9ab37b0dc6137,22.0,7.0,4.0,0.0
+61,Commit,aurelia_path,2016-05-10 14:53:25,aa71b649cb0bc70d32e3e0535d6db0aaabf62250,21.0,17.0,10.0,0.0
+62,Commit,aurelia_path,2016-05-09 19:36:37,f258960b1c2d6a379b3ba74569ed798471d96e74,2.0,0.0,1.0,0.0
+63,Commit,aurelia_path,2016-05-04 20:33:17,417c3220068b973c68ec1d5ac24421f2f7634dd8,4.0,3.0,1.0,0.0
+64,Commit,aurelia_path,2016-05-03 15:36:58,997964410c45bb54edd52bb0e1e42d15c4bb1d99,2.0,15.0,1.0,0.0
+65,Commit,aurelia_path,2016-04-06 18:09:30,5d81c7cd40966e2a12d496a6bf6ce02a32a52e0c,12.0,7.0,8.0,0.0
+66,Commit,aurelia_path,2016-04-06 18:00:21,3ab57779333bdabf7374d7b153ae5f6bcdea35f8,0.0,0.0,0.0,0.0
+67,Commit,aurelia_path,2016-04-06 18:00:10,f04a667879a7260fa36616a764bb30b3354fd7bc,0.0,0.0,0.0,0.0
+68,Commit,aurelia_path,2016-04-04 01:18:06,72cedf19ad9fd5f78d393a6e5bde87f40fba249a,3.0,0.0,1.0,0.0
+69,Commit,aurelia_path,2016-04-04 01:15:48,086ad823f7288fbc5ec610da497c9f6c29abeb82,3.0,0.0,1.0,0.0
+70,Commit,aurelia_path,2016-04-04 00:51:22,103583dfa23b32db1084a45c65135f111136dd35,1.0,1.0,1.0,0.0
+71,Commit,aurelia_path,2016-03-22 19:19:16,7761d116f1c3dcc0680983d845988f46fcc6cc42,199.0,240.0,9.0,0.0
+72,Commit,aurelia_path,2016-03-14 06:55:53,e6614d750101e417281cf148fe7fe93aae76f6c5,2.0,1.0,2.0,0.0
+73,Commit,aurelia_path,2016-03-11 07:08:24,527d7f9cc8faacc261fce4df98c73e96b8e322fa,74.0,46.0,4.0,0.0
+74,Commit,aurelia_path,2016-03-01 05:34:51,88dcaba11d18f87551801465c9cfa57a6de0202f,433.0,202.0,14.0,0.0
+75,Commit,aurelia_path,2016-02-19 07:38:44,94fce2b969c3e7c2c6e5b6f5ad4c5602eac91e80,11.0,12.0,1.0,0.0
+76,Commit,aurelia_path,2016-02-19 07:31:44,13429b097e7f65bd9ac15b5003da212bd0b73f1a,34.0,34.0,1.0,0.0
+77,Commit,aurelia_path,2016-02-19 06:58:02,2499dadf6f26eff47b9766a1a7c214ef02533fe8,132.0,62.0,2.0,0.0
+78,Commit,aurelia_path,2016-01-28 23:31:47,e76eb9301c1a2e4d0aaf756764efe23e6040234c,5.0,2.0,3.0,0.0
+79,Commit,aurelia_path,2016-01-28 23:29:02,ae44c4b8f52f71636ff9b0f8706f99e7da5ec447,8.0,7.0,2.0,0.0
+80,Commit,aurelia_path,2015-11-16 05:52:38,2bb966ffc371bc3a178589484cccad130f7a3e54,21.0,23.0,5.0,0.0
+81,Commit,aurelia_path,2015-11-10 04:37:34,231b50e4d88fa6b65270f544c477933125741661,5.0,2.0,3.0,0.0
+82,Commit,aurelia_path,2015-11-10 04:36:41,b9bc7ae6c97105e3add0e8d934239990bb89dafb,11.0,4.0,2.0,0.0
+83,Commit,aurelia_path,2015-10-23 03:35:51,689aa15b42761a649fca0e976ba15ca25ce466c3,142.0,0.0,9.0,0.0
+84,Commit,aurelia_path,2015-10-13 07:28:38,0cea95bf2c397865dafbfb4faae723d31e5cbc4c,87.0,37.0,4.0,0.0
+85,Commit,aurelia_path,2015-09-04 19:11:02,069444abb25a806d518f6ff77788fe368ab0723b,652.0,377.0,13.0,0.0
+86,Commit,aurelia_path,2015-09-01 15:09:54,557f223f4bb9db1969023ae64fb4a9e8d752231d,200.0,11.0,3.0,0.0
+87,Commit,aurelia_path,2015-09-01 15:05:20,3846404cd48f1c0aebbedc3d0f9cdc4130889f24,0.0,0.0,0.0,0.0
+88,Commit,aurelia_path,2015-08-30 06:06:09,d51d32b73c979430bdcc7501fe56cda29f79c278,38.0,3.0,2.0,0.0
+89,Commit,aurelia_path,2015-08-28 05:38:49,adccb98d3fe54ed562bb07589a932b939230a12a,122.0,53.0,4.0,0.0
+90,Commit,aurelia_path,2015-08-27 06:20:11,d99c08e79b03ad92225fe22420a879654d8e8597,100.0,90.0,4.0,0.0
+91,Commit,aurelia_path,2015-08-21 20:38:31,9362b8086e73d06180e7d11c1f5c0e57e38485db,40.0,7.0,3.0,0.0
+92,Commit,aurelia_path,2015-08-14 03:59:05,a823d839f294c62f63c18e5975428b5e6664ff89,3.0,3.0,1.0,0.0
+93,Commit,aurelia_path,2015-07-29 20:48:55,1da6736af9d6837f5121f379cc2ce2e42ab1ad6b,6.0,2.0,3.0,0.0
+94,Commit,aurelia_path,2015-07-29 20:47:29,bb6b7e8644fdaf8998c5f4664a0af97f58ad4af2,10.0,7.0,8.0,0.0
+95,Commit,aurelia_path,2015-07-02 03:37:44,ca072518897e43bfc017c8a4e07ca6dc770f9f2e,10.0,2.0,3.0,0.0
+96,Commit,aurelia_path,2015-07-02 03:37:10,61b9bef3b43bd812260ddad25d3e8eafc20561a3,1.0,1.0,1.0,0.0
+97,Commit,aurelia_path,2015-07-01 19:20:31,0fd6907c316b3d205cbd849c3b18592e54ecb2f9,61.0,86.0,10.0,0.0
+98,Commit,aurelia_path,2015-07-01 19:18:33,0d984bb2084c6a2ca3e4fab7efe288db8f6a8343,0.0,0.0,0.0,0.0
+99,Commit,aurelia_path,2015-07-01 17:48:07,53a68cf50c9c91e229b55885d4e6bc59d0f30d29,0.0,0.0,0.0,0.0
+100,Commit,aurelia_path,2015-07-01 17:27:57,53888961e68a50fa7a72b08eb7163ee60f00f7b8,2.0,2.0,1.0,0.0
+101,Commit,aurelia_path,2015-07-01 16:00:01,cd704c3332f98ac339908d1f1c44ab9d6b65c885,1.0,2.0,1.0,0.0
+102,Commit,aurelia_path,2015-07-01 15:54:02,9cddc110dc8879ee4f8280ef8213fe7b7be332ea,12.0,16.0,1.0,0.0
+103,Commit,aurelia_path,2015-07-01 00:09:04,379e53e071c3691e6fb8d289ff31cba998938d76,15.0,11.0,7.0,0.0
+104,Commit,aurelia_path,2015-06-30 18:34:22,61b9c19130108a7c6ae51fa001ba164dc855d995,226.0,14.0,12.0,0.0
+105,Commit,aurelia_path,2015-06-09 00:30:15,74b7c8f33a17f358b0ccafb2879c09c0953d0ce0,7.0,4.0,4.0,0.0
+106,Commit,aurelia_path,2015-06-08 16:51:23,37185d40cbe21973d7d75fbefc4e3ecdde010d22,26.0,3.0,3.0,0.0
+107,Commit,aurelia_path,2015-05-06 13:54:44,8b54149d466dbc525799c7d327ca61dc79c8d383,14.0,6.0,7.0,0.0
+108,Commit,aurelia_path,2015-05-02 00:38:06,3b772ff6efd01f0b84c208753effa7df06862c8f,1.0,1.0,1.0,0.0
+109,Commit,aurelia_path,2015-04-30 19:36:50,6a6018eff70ff3c8edaca1b1a61271aaaf1da836,16.0,10.0,5.0,0.0
+110,Commit,aurelia_path,2015-04-30 12:25:13,4662045269ee3e764efb2afc7e48b7ac68ca68e3,10.0,6.0,4.0,0.0
+111,Commit,aurelia_path,2015-04-30 12:25:12,3e7ed2005bf90d007e1742f9ff78965a99547623,10.0,2.0,2.0,0.0
+112,Commit,aurelia_path,2015-04-30 04:40:32,5a0adbb2ae7713136bad94436aa1ade029995d9f,8.0,3.0,4.0,0.0
+113,Commit,aurelia_path,2015-04-09 04:50:51,af2d0a068275b8d8c5fd9949b707cdcf128428b4,102.0,148.0,6.0,0.0
+114,Commit,aurelia_path,2015-04-07 18:55:55,191125de9da5ae4cf122068429c65ade7237454c,15.0,17.0,3.0,0.0
+115,Commit,aurelia_path,2015-03-25 01:53:19,c14994f068774c6a79153d86893cbd463086b0eb,16.0,7.0,8.0,0.0
+116,Commit,aurelia_path,2015-03-08 03:38:20,6fcd83a8aec787c55885a2df4ca1bb337858ac8d,3.0,1.0,2.0,0.0
+117,Commit,aurelia_path,2015-03-02 23:00:35,34655ae41d7d3495a84be25fce8866373e196c37,30.0,1.0,2.0,0.0
+118,Commit,aurelia_path,2015-03-02 18:44:57,e8fd83376e1a02b8bf83e1e194e4d1e8f85671f0,3.0,3.0,2.0,0.0
+119,Commit,aurelia_path,2015-02-28 21:24:19,f42e0dda8d666da6b7211b6b97edd3710589ad90,10.0,2.0,3.0,0.0
+120,Commit,aurelia_path,2015-02-28 21:23:49,a12623eb901ca130d1fcf1241976712a3d459570,2.0,2.0,1.0,0.0
+121,Commit,aurelia_path,2015-02-28 04:45:31,970efe3331f1e4af427756e6991a39d3c8ff9750,74.0,12.0,7.0,0.0
+122,Commit,aurelia_path,2015-02-28 00:53:44,4b816b3c95f46dc4885262d35dd60f6c993039db,8.0,8.0,4.0,0.0
+123,Commit,aurelia_path,2015-02-27 14:29:43,428db0b2c116c79e0c68aced3a11b379fa7eed97,25.0,0.0,1.0,0.0
+124,Commit,aurelia_path,2015-02-12 14:44:22,992fceaedcf4941adbf38c64286201b351a0eb27,17.0,2.0,3.0,0.0
+125,Commit,aurelia_path,2015-02-11 19:23:20,1a19b98e1e070ec6623ecc7d03b45709e68fe9f5,83.0,68.0,7.0,0.0
+126,Commit,aurelia_path,2015-02-11 16:26:55,869ab8ddac6aa73ca3006b0a03572bc32228f961,1.0,1.0,1.0,0.0
+127,Commit,aurelia_path,2015-02-11 16:20:02,e6d9ed334e2a3ad096c740996855213fee2c225d,40.0,42.0,1.0,0.0
+128,Commit,aurelia_path,2015-02-11 15:51:51,52b22de6747043742d5096be952780ab58732020,296.0,4.0,6.0,0.0
+129,Commit,aurelia_path,2015-02-06 21:49:31,b45288e508c183249b8999314af06eea7985e1cf,161.0,136.0,13.0,0.0
+130,Commit,aurelia_path,2015-01-30 16:27:03,17ea5da1de964296b39acfa4906c47d14e955db8,29.0,11.0,7.0,0.0
+131,Commit,aurelia_path,2015-01-30 14:54:44,4111cfef9d00e4b6fbd2d04241d0e7c48526387c,33.0,3.0,2.0,0.0
+132,Commit,aurelia_path,2015-01-30 06:44:35,862d84bc9072eabc7600d8445cc17a988957521d,3.0,4.0,2.0,0.0
+133,Commit,aurelia_path,2015-01-22 07:25:07,92c044848831d8a04fac08cac468972a5ac2d978,15.0,5.0,6.0,0.0
+134,Commit,aurelia_path,2015-01-06 16:38:53,e5910d7cd04e9dd701b0914378a0a43ddc4eca83,110.0,19.0,8.0,0.0
+135,Commit,aurelia_path,2015-01-06 16:37:41,470daf2ee2781aa5ad2f24af3cfcc471a2593b43,31.0,8.0,3.0,0.0
+136,Commit,aurelia_path,2014-12-31 05:31:16,2ac39fdcad3d0930e46d70060770aa1010d2ba82,2.0,2.0,2.0,0.0
+137,Commit,aurelia_path,2014-12-30 04:13:31,938accef9d289d39ec6eca6cdf7417838809c105,4.0,4.0,1.0,0.0
+138,Commit,aurelia_path,2014-12-30 01:50:43,cb42f7365808fe573c8ffe91f9402c50d400a7ed,11.0,1.0,2.0,0.0
+139,Commit,aurelia_path,2014-12-22 04:29:11,534c10d0535be0a2fd768bcd01ac214ce8f0b76d,2.0,0.0,2.0,0.0
+140,Commit,aurelia_path,2014-12-22 02:41:01,31a9c69e6b8493c0b3beff507d9b6e908a48c31c,8.0,6.0,2.0,0.0
+141,Commit,aurelia_path,2014-12-22 02:37:43,846fa9be12afaddf24ddfd8e9a4966c651197114,3.0,1.0,2.0,0.0
+142,Commit,aurelia_path,2014-12-18 06:40:14,74a0a6f7fa3e91ff06fddadbd51ecaf63e3b9010,75.0,0.0,1.0,0.0
+143,Commit,aurelia_path,2014-12-18 06:39:56,0a324f724fcfef2358b4bc833d1b9eed4ed387e4,90.0,100.0,6.0,0.0
+144,Commit,aurelia_path,2014-12-18 06:38:11,0114d322287e935c4e2731b9281890e3b31b5442,146.0,39.0,3.0,0.0
+145,Commit,aurelia_path,2014-12-17 19:52:13,0cfaeb13e7aee50d5f39e8385d32235facfa30b4,5.0,3.0,2.0,0.0
+146,Commit,aurelia_path,2014-12-17 07:35:21,c5b61b80ee7b4f8aa28d4680e76ff854d4746b09,9.0,1.0,1.0,0.0
+147,Commit,aurelia_path,2014-12-17 04:22:08,3b0d4dfcdb09174f936278acccc695930c73d937,24.0,9.0,2.0,0.0
+148,Commit,aurelia_path,2014-12-17 04:20:29,5727035f5fb2af904174e5abf05e7de23e861f15,15.0,1.0,1.0,0.0
+149,Commit,aurelia_path,2014-12-16 21:49:21,d1e83ffd2e7259c571829c7fafa6f71cbb21d70c,118.0,52.0,6.0,0.0
+150,Commit,aurelia_path,2014-12-16 21:45:03,61f7e5668e89a95d0ee6fd7aa2b6995eeecbeba6,31.0,7.0,4.0,0.0
+151,Commit,aurelia_path,2014-12-16 20:52:34,9342f179e548847f6c27d7e8a5b7fbb275f9c5b2,94.0,28.0,5.0,0.0
+152,Commit,aurelia_path,2014-12-11 06:53:55,0f64509fe2525461458da3a975882f12f5e913e8,3.0,5.0,2.0,0.0
+153,Commit,aurelia_path,2014-12-09 20:47:32,2859ec3276ac6de97eacb81c20d7788571672117,483.0,6.0,15.0,0.0
+154,Commit,aurelia_path,2014-12-09 19:54:58,4ad670afcbe2773488d04351fabad7233dc772cb,26.0,0.0,2.0,0.0
+0,forks,aurelia_path,2015-01-02 17:39:58+00:00,,,,,
+1,forks,aurelia_path,2015-01-30 06:50:16+00:00,,,,,
+2,forks,aurelia_path,2015-01-30 14:32:25+00:00,,,,,
+3,forks,aurelia_path,2015-02-07 10:26:01+00:00,,,,,
+4,forks,aurelia_path,2015-04-30 11:45:36+00:00,,,,,
+5,forks,aurelia_path,2015-05-02 00:37:17+00:00,,,,,
+6,forks,aurelia_path,2015-06-11 01:15:49+00:00,,,,,
+7,forks,aurelia_path,2015-07-01 15:42:07+00:00,,,,,
+8,forks,aurelia_path,2015-07-01 17:27:42+00:00,,,,,
+9,forks,aurelia_path,2015-08-18 17:22:47+00:00,,,,,
+10,forks,aurelia_path,2015-08-23 21:01:40+00:00,,,,,
+11,forks,aurelia_path,2015-08-28 09:37:16+00:00,,,,,
+12,forks,aurelia_path,2015-10-07 04:27:25+00:00,,,,,
+13,forks,aurelia_path,2016-03-08 11:51:01+00:00,,,,,
+14,forks,aurelia_path,2016-04-02 14:58:16+00:00,,,,,
+15,forks,aurelia_path,2016-06-17 13:29:17+00:00,,,,,
+16,forks,aurelia_path,2016-07-29 11:33:46+00:00,,,,,
+17,forks,aurelia_path,2016-08-24 09:48:22+00:00,,,,,
+18,forks,aurelia_path,2016-11-08 04:58:47+00:00,,,,,
+19,forks,aurelia_path,2017-08-09 11:32:39+00:00,,,,,
+20,forks,aurelia_path,2017-12-14 18:42:18+00:00,,,,,
+21,forks,aurelia_path,2018-05-17 16:12:32+00:00,,,,,
+22,forks,aurelia_path,2018-12-13 07:16:35+00:00,,,,,
+23,forks,aurelia_path,2020-12-03 18:07:24+00:00,,,,,
+24,forks,aurelia_path,2021-04-30 04:44:43+00:00,,,,,
+0,issues,aurelia_path,2016-01-07 23:15:16+00:00,,,,,
+1,issues,aurelia_path,2016-02-16 12:16:05+00:00,,,,,
+2,issues,aurelia_path,2016-03-14 06:55:10+00:00,,,,,
+3,issues,aurelia_path,2016-08-17 08:26:10+00:00,,,,,
+4,issues,aurelia_path,2016-08-19 10:40:45+00:00,,,,,
+5,issues,aurelia_path,2018-05-18 15:15:38+00:00,,,,,
+6,issues,aurelia_path,2019-01-29 15:52:28+00:00,,,,,
+7,issues,aurelia_path,2019-05-04 12:36:36+00:00,,,,,
+8,issues,aurelia_path,2019-10-15 22:13:19+00:00,,,,,
+9,issues,aurelia_path,2019-11-25 17:57:31+00:00,,,,,
+10,issues,aurelia_path,2021-05-14 09:04:12+00:00,,,,,
+0,pullRequests,aurelia_path,2015-01-30 07:01:56+00:00,,,,,
+1,pullRequests,aurelia_path,2015-01-30 14:57:57+00:00,,,,,
+2,pullRequests,aurelia_path,2015-02-07 20:11:51+00:00,,,,,
+3,pullRequests,aurelia_path,2015-03-02 23:12:41+00:00,,,,,
+4,pullRequests,aurelia_path,2015-04-30 12:26:21+00:00,,,,,
+5,pullRequests,aurelia_path,2015-05-02 00:38:40+00:00,,,,,
+6,pullRequests,aurelia_path,2015-07-01 10:07:35+00:00,,,,,
+7,pullRequests,aurelia_path,2015-07-01 16:14:32+00:00,,,,,
+8,pullRequests,aurelia_path,2015-07-01 17:28:01+00:00,,,,,
+9,pullRequests,aurelia_path,2015-08-18 19:25:24+00:00,,,,,
+10,pullRequests,aurelia_path,2015-08-21 20:39:34+00:00,,,,,
+11,pullRequests,aurelia_path,2015-08-27 06:21:13+00:00,,,,,
+12,pullRequests,aurelia_path,2015-08-28 05:23:06+00:00,,,,,
+13,pullRequests,aurelia_path,2016-02-17 08:52:46+00:00,,,,,
+14,pullRequests,aurelia_path,2016-03-14 06:56:22+00:00,,,,,
+15,pullRequests,aurelia_path,2016-04-04 00:54:07+00:00,,,,,
+16,pullRequests,aurelia_path,2016-04-04 01:19:03+00:00,,,,,
+17,pullRequests,aurelia_path,2016-08-24 12:31:32+00:00,,,,,
+18,pullRequests,aurelia_path,2016-10-01 09:09:50+00:00,,,,,
+19,pullRequests,aurelia_path,2016-11-08 05:39:10+00:00,,,,,
+20,pullRequests,aurelia_path,2018-01-01 22:05:04+00:00,,,,,
+21,pullRequests,aurelia_path,2018-12-13 07:24:28+00:00,,,,,
+22,pullRequests,aurelia_path,2019-05-07 02:07:01+00:00,,,,,
+23,pullRequests,aurelia_path,2019-05-31 06:04:50+00:00,,,,,
+24,pullRequests,aurelia_path,2019-06-05 21:21:21+00:00,,,,,
+25,pullRequests,aurelia_path,2019-06-21 07:42:44+00:00,,,,,
+26,pullRequests,aurelia_path,2019-08-14 01:04:35+00:00,,,,,
+27,pullRequests,aurelia_path,2019-08-28 19:33:43+00:00,,,,,
+28,pullRequests,aurelia_path,2020-09-07 07:28:21+00:00,,,,,
+29,pullRequests,aurelia_path,2020-11-24 23:42:02+00:00,,,,,
+30,pullRequests,aurelia_path,2020-12-11 01:21:00+00:00,,,,,
+31,pullRequests,aurelia_path,2021-03-30 16:02:08+00:00,,,,,
+32,pullRequests,aurelia_path,2021-05-09 21:36:50+00:00,,,,,
+33,pullRequests,aurelia_path,2021-06-09 06:31:33+00:00,,,,,
+34,pullRequests,aurelia_path,2022-04-10 00:20:27+00:00,,,,,
+35,pullRequests,aurelia_path,2022-06-02 11:37:45+00:00,,,,,
+36,pullRequests,aurelia_path,2022-06-02 11:37:47+00:00,,,,,
+37,pullRequests,aurelia_path,2022-06-02 11:38:13+00:00,,,,,
+0,releases,aurelia_path,2014-12-09 20:47:32+00:00,,,,,
+1,releases,aurelia_path,2014-12-11 06:53:55+00:00,,,,,
+2,releases,aurelia_path,2014-12-16 21:49:21+00:00,,,,,
+3,releases,aurelia_path,2014-12-17 04:22:08+00:00,,,,,
+4,releases,aurelia_path,2014-12-17 19:52:13+00:00,,,,,
+5,releases,aurelia_path,2014-12-18 06:40:14+00:00,,,,,
+6,releases,aurelia_path,2015-01-06 16:38:53+00:00,,,,,
+7,releases,aurelia_path,2015-01-22 07:25:07+00:00,,,,,
+8,releases,aurelia_path,2015-01-30 16:27:03+00:00,,,,,
+9,releases,aurelia_path,2015-02-11 19:23:20+00:00,,,,,
+10,releases,aurelia_path,2015-02-28 04:45:31+00:00,,,,,
+11,releases,aurelia_path,2015-02-28 21:24:19+00:00,,,,,
+12,releases,aurelia_path,2015-03-25 01:53:19+00:00,,,,,
+13,releases,aurelia_path,2015-04-09 04:50:51+00:00,,,,,
+14,releases,aurelia_path,2015-04-30 19:36:50+00:00,,,,,
+15,releases,aurelia_path,2015-05-06 13:54:44+00:00,,,,,
+16,releases,aurelia_path,2015-06-09 00:30:15+00:00,,,,,
+17,releases,aurelia_path,2015-07-02 03:37:44+00:00,,,,,
+18,releases,aurelia_path,2015-07-29 20:48:55+00:00,,,,,
+19,releases,aurelia_path,2015-09-04 19:11:02+00:00,,,,,
+20,releases,aurelia_path,2015-10-13 07:28:38+00:00,,,,,
+21,releases,aurelia_path,2015-11-10 04:37:34+00:00,,,,,
+22,releases,aurelia_path,2015-11-16 05:52:38+00:00,,,,,
+23,releases,aurelia_path,2016-01-28 23:31:47+00:00,,,,,
+24,releases,aurelia_path,2016-03-01 05:34:51+00:00,,,,,
+25,releases,aurelia_path,2016-03-22 19:19:16+00:00,,,,,
+26,releases,aurelia_path,2016-04-06 18:09:30+00:00,,,,,
+27,releases,aurelia_path,2016-05-10 14:53:25+00:00,,,,,
+28,releases,aurelia_path,2016-06-13 15:17:25+00:00,,,,,
+29,releases,aurelia_path,2016-06-17 00:37:44+00:00,,,,,
+30,releases,aurelia_path,2016-06-22 12:46:13+00:00,,,,,
+31,releases,aurelia_path,2016-07-27 14:13:56+00:00,,,,,
+32,releases,aurelia_path,2016-09-22 17:41:20+00:00,,,,,
+33,releases,aurelia_path,2016-09-23 18:14:54+00:00,,,,,
+34,releases,aurelia_path,2019-01-18 03:39:25+00:00,,,,,
+35,releases,aurelia_path,2019-02-04 11:52:43+00:00,,,,,
+36,releases,aurelia_path,2019-09-10 01:33:52+00:00,,,,,
+37,releases,aurelia_path,2021-09-26 04:07:29+00:00,,,,,
+0,stargazers,aurelia_path,2014-12-22 19:49:09+00:00,,,,,
+1,stargazers,aurelia_path,2015-01-31 20:24:02+00:00,,,,,
+2,stargazers,aurelia_path,2015-03-29 02:21:30+00:00,,,,,
+3,stargazers,aurelia_path,2015-05-03 18:21:07+00:00,,,,,
+4,stargazers,aurelia_path,2015-05-07 03:05:01+00:00,,,,,
+5,stargazers,aurelia_path,2015-08-30 23:48:55+00:00,,,,,
+6,stargazers,aurelia_path,2015-09-08 13:52:43+00:00,,,,,
+7,stargazers,aurelia_path,2015-10-17 11:11:53+00:00,,,,,
+8,stargazers,aurelia_path,2016-03-08 11:51:00+00:00,,,,,
+9,stargazers,aurelia_path,2016-09-27 03:18:07+00:00,,,,,
+10,stargazers,aurelia_path,2016-09-28 19:58:38+00:00,,,,,
+11,stargazers,aurelia_path,2016-10-11 00:34:31+00:00,,,,,
+12,stargazers,aurelia_path,2017-08-09 11:32:36+00:00,,,,,
+13,stargazers,aurelia_path,2017-08-21 14:38:31+00:00,,,,,
+14,stargazers,aurelia_path,2017-12-14 18:42:15+00:00,,,,,
+15,stargazers,aurelia_path,2017-12-29 12:49:11+00:00,,,,,
+16,stargazers,aurelia_path,2018-03-24 12:41:24+00:00,,,,,
+17,stargazers,aurelia_path,2019-02-13 21:25:36+00:00,,,,,
+18,stargazers,aurelia_path,2020-01-08 02:03:51+00:00,,,,,
+19,stargazers,aurelia_path,2021-02-08 20:23:03+00:00,,,,,

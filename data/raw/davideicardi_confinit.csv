@@ -1,0 +1,37 @@
+,type,name,created_at,Hash,Add,Del,Files,Vuln
+476945,PushEvent,davideicardi_confinit,2017-09-08 08:47:21 UTC,,,,,
+591018,PushEvent,davideicardi_confinit,2017-09-08 08:48:54 UTC,,,,,
+746858,PushEvent,davideicardi_confinit,2017-09-08 08:50:36 UTC,,,,,
+826372,PushEvent,davideicardi_confinit,2017-09-08 08:50:58 UTC,,,,,
+1911636,CreateEvent,davideicardi_confinit,2017-09-08 08:08:15 UTC,,,,,
+1956041,CreateEvent,davideicardi_confinit,2017-09-08 08:08:16 UTC,,,,,
+479738,PushEvent,davideicardi_confinit,2018-08-06 14:14:30 UTC,,,,,
+466527,PushEvent,davideicardi_confinit,2019-09-20 13:51:24 UTC,,,,,
+2384357,CreateEvent,davideicardi_confinit,2019-09-20 13:51:25 UTC,,,,,
+0,Commit,davideicardi_confinit,2021-08-17 08:41:44,c576e048a1e158a3efc5d367d54d689d688b57c8,2.0,2.0,2.0,0.0
+1,Commit,davideicardi_confinit,2021-08-17 08:40:25,2365cc5723bc88b563ef57915460750240b866fb,345.0,664.0,11.0,0.0
+2,Commit,davideicardi_confinit,2020-04-22 10:28:44,c2798dc9762b72a7e78b86eca8b73126bd3f70a9,2.0,2.0,2.0,0.0
+3,Commit,davideicardi_confinit,2020-04-22 10:28:32,c9c8119dfbc7eda3b276a34323bac1a6695c5b80,99.0,77.0,2.0,0.0
+4,Commit,davideicardi_confinit,2020-03-01 10:00:32,20ec31c5b09b6bf20151d1806a4d0eca68b106dd,2.0,2.0,2.0,0.0
+5,Commit,davideicardi_confinit,2020-03-01 09:59:42,a34e06ca5c1c8b047ef112ef188b2fe30d2a1eab,154.0,30.0,10.0,1.0
+6,Commit,davideicardi_confinit,2020-02-29 18:18:11,d6c022c35aaee0794494651a4341fadd2db2b471,816.0,46.0,7.0,0.0
+7,Commit,davideicardi_confinit,2019-09-20 13:51:02,8d3196029418516e5d66d24fbaacd48beca8f965,2.0,2.0,2.0,0.0
+8,Commit,davideicardi_confinit,2019-09-20 13:50:56,75841f29e629cedb86664f8c49149c2f88e017bb,131.0,153.0,2.0,0.0
+9,Commit,davideicardi_confinit,2018-08-06 14:14:22,529f91e4988d4af2f4ae79b593f87b2d40edf663,2.0,2.0,2.0,0.0
+10,Commit,davideicardi_confinit,2018-08-06 14:14:08,3224ae914be0fb3ef8bd800bcb9b868a5ed4fc06,177.0,87.0,7.0,0.0
+11,Commit,davideicardi_confinit,2017-09-08 08:50:54,04f13e2a6d5abf0575eaedac3158d1c924bbc0f0,1.0,1.0,1.0,0.0
+12,Commit,davideicardi_confinit,2017-09-08 08:50:33,1504d2577c200be4e92a21c845d4ca2983c6bc93,1.0,1.0,1.0,0.0
+13,Commit,davideicardi_confinit,2017-09-08 08:49:00,130df1a293748fe4c5d3f462f74f667b922110c4,2.0,2.0,2.0,0.0
+14,Commit,davideicardi_confinit,2017-09-08 08:48:50,f0d4fa247a2063db7fbe6200bf63ce7e5b043acd,2.0,1.0,1.0,0.0
+15,Commit,davideicardi_confinit,2017-09-08 08:47:17,9da49adeb3316418dc65fc30cc13df5b74a71b00,945.0,0.0,16.0,0.0
+16,Commit,davideicardi_confinit,2017-09-08 08:08:15,72dc3e92e8d985f1d87dcfa0ae36b97badeaaf5f,82.0,0.0,3.0,0.0
+0,forks,davideicardi_confinit,2021-06-29 09:56:47+00:00,,,,,
+0,issues,davideicardi_confinit,2020-02-17 11:43:11+00:00,,,,,
+0,pullRequests,davideicardi_confinit,2020-03-01 10:00:52+00:00,,,,,
+1,pullRequests,davideicardi_confinit,2020-07-19 17:44:38+00:00,,,,,
+2,pullRequests,davideicardi_confinit,2021-03-31 16:13:04+00:00,,,,,
+3,pullRequests,davideicardi_confinit,2021-05-11 05:06:36+00:00,,,,,
+4,pullRequests,davideicardi_confinit,2021-06-11 04:22:59+00:00,,,,,
+5,pullRequests,davideicardi_confinit,2021-08-10 19:11:31+00:00,,,,,
+6,pullRequests,davideicardi_confinit,2021-08-17 08:42:15+00:00,,,,,
+0,releases,davideicardi_confinit,2021-08-17 08:41:44+00:00,,,,,

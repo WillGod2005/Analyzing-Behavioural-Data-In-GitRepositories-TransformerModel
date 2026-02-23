@@ -1,0 +1,68 @@
+,type,name,created_at,Hash,Add,Del,Files,Vuln
+81999,ForkEvent,ambiot_amb1_sdk,2019-11-14 02:37:41 UTC,,,,,
+115738,ForkEvent,ambiot_amb1_sdk,2020-01-06 08:25:10 UTC,,,,,
+234899,ForkEvent,ambiot_amb1_sdk,2020-01-08 05:25:29 UTC,,,,,
+247818,ForkEvent,ambiot_amb1_sdk,2019-12-09 01:39:40 UTC,,,,,
+970774,PushEvent,ambiot_amb1_sdk,2019-10-24 09:28:38 UTC,,,,,
+1299484,WatchEvent,ambiot_amb1_sdk,2019-11-26 06:03:14 UTC,,,,,
+1338076,WatchEvent,ambiot_amb1_sdk,2019-12-09 01:39:10 UTC,,,,,
+1389135,WatchEvent,ambiot_amb1_sdk,2019-11-26 12:35:20 UTC,,,,,
+1413856,WatchEvent,ambiot_amb1_sdk,2019-12-16 08:58:23 UTC,,,,,
+1654305,WatchEvent,ambiot_amb1_sdk,2020-01-02 11:39:05 UTC,,,,,
+1685351,WatchEvent,ambiot_amb1_sdk,2020-01-06 08:25:07 UTC,,,,,
+2047754,WatchEvent,ambiot_amb1_sdk,2019-11-20 02:03:00 UTC,,,,,
+2268467,WatchEvent,ambiot_amb1_sdk,2019-12-19 15:34:01 UTC,,,,,
+0,Commit,ambiot_amb1_sdk,2022-11-23 07:17:06,808458eec488c90ec6c237e380f8b52cff9e9550,2.0,2.0,1.0,0.0
+1,Commit,ambiot_amb1_sdk,2022-07-22 07:36:48,a4db4b99fe00b4d9616b0b000f4ce4db3abe6ddd,1.0,0.0,1.0,0.0
+2,Commit,ambiot_amb1_sdk,2022-07-20 12:59:29,0705aecd1a660defae669e6cb2325c02cbd7b2fd,0.0,6818.0,3.0,0.0
+3,Commit,ambiot_amb1_sdk,2022-07-20 12:43:58,4a9de2e4f21239a2d4a6f6bf75ce4e6e916102ec,0.0,1378.0,6.0,0.0
+4,Commit,ambiot_amb1_sdk,2022-07-06 08:28:37,2b05fea57f447fef165fc0b763e26822836b4f48,111840.0,1958.0,540.0,0.0
+5,Commit,ambiot_amb1_sdk,2022-06-21 14:44:57,750b0bc2e4cadba10731382ee77a292de37bfd38,0.0,0.0,3.0,0.0
+6,Commit,ambiot_amb1_sdk,2022-06-20 07:11:17,284241d70308ff2519e40afd7b284ba892c730a3,0.0,0.0,1.0,0.0
+7,Commit,ambiot_amb1_sdk,2022-06-20 06:49:09,148cadb12fb5dea0e2c254514a4356034957feef,1.0,1.0,1.0,0.0
+8,Commit,ambiot_amb1_sdk,2022-06-08 15:16:58,6816e2f15bef1efc7403160d517161cd3361bf53,0.0,0.0,1.0,0.0
+9,Commit,ambiot_amb1_sdk,2022-06-08 04:11:05,390d855b97797a8158fc786bd05deb72af890d6c,3.0,0.0,1.0,0.0
+10,Commit,ambiot_amb1_sdk,2022-06-01 16:49:55,cd4ad52c77e031b2c1e7f9735084e6e3dc785875,4.0,4.0,2.0,0.0
+11,Commit,ambiot_amb1_sdk,2022-06-01 16:09:53,7d29a3e34f77cb9219e0b24bf82e0fe916ac64cc,0.0,0.0,4.0,0.0
+12,Commit,ambiot_amb1_sdk,2022-06-01 13:28:57,913d67262fe2646e3996dea18afd8351e01cef39,0.0,0.0,4.0,0.0
+13,Commit,ambiot_amb1_sdk,2022-03-11 06:41:08,4b73f58f32914d0081d79a79e53a3215c8c1ea56,475.0,51.0,2.0,1.0
+14,Commit,ambiot_amb1_sdk,2022-03-08 08:25:35,b71f3f7ad8d83fa01bdb57492e9e2daea62670a5,0.0,1377.0,6.0,0.0
+15,Commit,ambiot_amb1_sdk,2021-09-15 14:39:57,4527809cce5734c647d54bbe8ddc592cf465a1f2,0.0,0.0,4.0,0.0
+16,Commit,ambiot_amb1_sdk,2021-08-24 13:50:32,1b3f28cda795da8b77eb14885a8f31482e0968d0,0.0,0.0,4.0,0.0
+17,Commit,ambiot_amb1_sdk,2021-06-15 05:49:08,176dc0ef24838c1a0bb6dc24f968e0c224f099f0,0.0,0.0,4.0,0.0
+18,Commit,ambiot_amb1_sdk,2021-02-23 08:27:29,270dcb019a857030ca68c32586eefcdcf60dc194,0.0,0.0,4.0,0.0
+19,Commit,ambiot_amb1_sdk,2021-01-29 07:08:47,9837a5e62bda7b294776465caa1e97c007fc8b67,0.0,0.0,4.0,0.0
+20,Commit,ambiot_amb1_sdk,2021-01-07 09:28:52,63f4b90b991775cd5e3410cbc2c7c2cdb00cbc64,6.0,0.0,2.0,0.0
+21,Commit,ambiot_amb1_sdk,2021-01-06 15:22:28,2dc4fe31a1572015031e32621ac2f71f60318cfe,2.0,0.0,6.0,0.0
+22,Commit,ambiot_amb1_sdk,2020-10-12 15:30:06,d5f23f967aa4392600d378147dbee6ff1b039122,256.0,43.0,1.0,0.0
+23,Commit,ambiot_amb1_sdk,2020-10-12 03:38:31,05a00c87a1ba5297293528f59a4033a00c9c924d,3.0,1.0,6.0,0.0
+24,Commit,ambiot_amb1_sdk,2020-10-06 06:43:49,5c535762c476425ea5978af4142e214552ae91ca,8.0,2.0,3.0,0.0
+25,Commit,ambiot_amb1_sdk,2020-09-30 11:11:17,041bdc7f6badecc18670a345e0a4605754bb4ec5,207.0,207.0,1.0,0.0
+26,Commit,ambiot_amb1_sdk,2020-09-29 14:18:11,0c8da639b097f01c60e419405aecfafab1d08e43,0.0,0.0,2.0,0.0
+27,Commit,ambiot_amb1_sdk,2020-09-28 16:02:09,43e6a92c94a39b8cb678e16d7e6a20e2613c2472,24.0,7.0,2.0,0.0
+28,Commit,ambiot_amb1_sdk,2020-09-25 10:46:47,c350b8698593923270749ba9189428e5f73cbf8c,13.0,6.0,11.0,0.0
+29,Commit,ambiot_amb1_sdk,2020-09-24 14:02:06,b4de7db00017925b8f16ec9f820701688cd42483,853.0,796.0,13.0,0.0
+30,Commit,ambiot_amb1_sdk,2020-09-22 14:23:54,9cc231bb9f58a0126d53d53a56923401ccc6c4d3,2.0,2.0,2.0,0.0
+31,Commit,ambiot_amb1_sdk,2020-09-21 15:15:26,494b339b086f1cc98fb90564112ba3a828be66e0,12262.0,10460.0,22.0,0.0
+32,Commit,ambiot_amb1_sdk,2020-09-18 11:02:51,71e1fca9d78b2adb4829834ffd8f70c1ee59ed63,1.0,1.0,3.0,0.0
+33,Commit,ambiot_amb1_sdk,2020-09-18 10:32:51,aba4f6c684e54daaab5b987a538d7a9d22f8f3d4,5157.0,5144.0,5.0,0.0
+34,Commit,ambiot_amb1_sdk,2020-03-07 00:05:31,b96c944af4d350a2f8db32d2a0934d8eb382db8e,2.0,2.0,1.0,0.0
+35,Commit,ambiot_amb1_sdk,2020-02-25 09:45:30,bc5173d5d4faf6829074b0f1e1b242c12b7777a3,0.0,0.0,4.0,1.0
+36,Commit,ambiot_amb1_sdk,2019-10-24 09:26:07,e349e8870bdfc6f7ba7c53333811e7e711c907ee,2.0,0.0,6.0,0.0
+37,Commit,ambiot_amb1_sdk,2019-10-24 08:47:53,9ebc69a35ca4020e0a0a6cb8d71c26d3dd1191b6,1107420.0,0.0,3385.0,0.0
+0,forks,ambiot_amb1_sdk,2021-06-21 09:07:55+00:00,,,,,
+1,forks,ambiot_amb1_sdk,2022-01-15 14:22:10+00:00,,,,,
+2,forks,ambiot_amb1_sdk,2022-03-14 03:54:15+00:00,,,,,
+3,forks,ambiot_amb1_sdk,2022-04-13 02:12:59+00:00,,,,,
+4,forks,ambiot_amb1_sdk,2022-05-15 10:29:06+00:00,,,,,
+5,forks,ambiot_amb1_sdk,2022-07-04 09:35:07+00:00,,,,,
+0,issues,ambiot_amb1_sdk,2020-04-11 02:27:28+00:00,,,,,
+0,pullRequests,ambiot_amb1_sdk,2020-03-07 00:05:51+00:00,,,,,
+0,stargazers,ambiot_amb1_sdk,2021-02-03 19:02:57+00:00,,,,,
+1,stargazers,ambiot_amb1_sdk,2021-05-13 13:00:03+00:00,,,,,
+2,stargazers,ambiot_amb1_sdk,2021-05-20 07:44:35+00:00,,,,,
+3,stargazers,ambiot_amb1_sdk,2021-06-21 09:07:55+00:00,,,,,
+4,stargazers,ambiot_amb1_sdk,2021-07-22 15:08:49+00:00,,,,,
+5,stargazers,ambiot_amb1_sdk,2021-08-23 23:36:24+00:00,,,,,
+6,stargazers,ambiot_amb1_sdk,2022-01-15 05:48:57+00:00,,,,,
+7,stargazers,ambiot_amb1_sdk,2022-02-28 01:46:21+00:00,,,,,

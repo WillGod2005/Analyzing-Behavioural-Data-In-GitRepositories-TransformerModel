@@ -1,0 +1,481 @@
+,type,name,created_at,Hash,Add,Del,Files,Vuln
+149104,PushEvent,kamadak_exif-rs,2016-12-31 04:20:54 UTC,,,,,
+909653,CreateEvent,kamadak_exif-rs,2016-12-30 14:54:16 UTC,,,,,
+1322343,PushEvent,kamadak_exif-rs,2016-12-30 15:36:01 UTC,,,,,
+1411678,CreateEvent,kamadak_exif-rs,2016-12-30 14:51:30 UTC,,,,,
+103235,ForkEvent,kamadak_exif-rs,2017-10-30 18:33:54 UTC,,,,,
+125208,ForkEvent,kamadak_exif-rs,2017-07-07 11:45:44 UTC,,,,,
+277052,ForkEvent,kamadak_exif-rs,2017-06-20 18:41:21 UTC,,,,,
+366686,PushEvent,kamadak_exif-rs,2017-07-27 11:53:11 UTC,,,,,
+386626,PushEvent,kamadak_exif-rs,2017-07-23 12:47:23 UTC,,,,,
+425709,PushEvent,kamadak_exif-rs,2017-10-01 12:22:04 UTC,,,,,
+476942,PushEvent,kamadak_exif-rs,2017-06-17 14:13:11 UTC,,,,,
+500010,PushEvent,kamadak_exif-rs,2017-07-12 13:12:00 UTC,,,,,
+509610,PushEvent,kamadak_exif-rs,2017-07-04 12:01:09 UTC,,,,,
+544210,PushEvent,kamadak_exif-rs,2017-07-16 06:39:41 UTC,,,,,
+572385,PushEvent,kamadak_exif-rs,2017-03-27 11:14:03 UTC,,,,,
+585622,PushEvent,kamadak_exif-rs,2017-05-11 14:22:36 UTC,,,,,
+634828,PushEvent,kamadak_exif-rs,2017-07-02 13:53:48 UTC,,,,,
+653439,PushEvent,kamadak_exif-rs,2017-08-04 13:16:13 UTC,,,,,
+674458,PushEvent,kamadak_exif-rs,2017-07-02 03:54:01 UTC,,,,,
+693867,PushEvent,kamadak_exif-rs,2017-03-04 12:35:49 UTC,,,,,
+704919,PushEvent,kamadak_exif-rs,2017-04-08 11:33:23 UTC,,,,,
+708787,PushEvent,kamadak_exif-rs,2017-11-03 01:34:03 UTC,,,,,
+731887,PushEvent,kamadak_exif-rs,2017-08-21 12:16:33 UTC,,,,,
+735890,PushEvent,kamadak_exif-rs,2017-03-14 12:55:59 UTC,,,,,
+756119,PushEvent,kamadak_exif-rs,2017-07-11 15:25:18 UTC,,,,,
+806488,PushEvent,kamadak_exif-rs,2017-03-12 10:53:45 UTC,,,,,
+858323,PushEvent,kamadak_exif-rs,2017-10-22 09:38:49 UTC,,,,,
+881971,PushEvent,kamadak_exif-rs,2017-03-26 12:54:20 UTC,,,,,
+900557,PushEvent,kamadak_exif-rs,2017-01-14 02:54:33 UTC,,,,,
+927157,PushEvent,kamadak_exif-rs,2017-07-07 13:34:56 UTC,,,,,
+950000,PushEvent,kamadak_exif-rs,2017-02-25 14:00:40 UTC,,,,,
+1139083,WatchEvent,kamadak_exif-rs,2017-05-31 16:19:07 UTC,,,,,
+1233453,WatchEvent,kamadak_exif-rs,2017-04-28 12:32:42 UTC,,,,,
+1302493,WatchEvent,kamadak_exif-rs,2017-07-12 22:39:54 UTC,,,,,
+1554833,WatchEvent,kamadak_exif-rs,2017-10-18 22:39:34 UTC,,,,,
+1639844,WatchEvent,kamadak_exif-rs,2017-02-27 20:15:34 UTC,,,,,
+1755974,WatchEvent,kamadak_exif-rs,2017-03-16 17:12:01 UTC,,,,,
+1822652,WatchEvent,kamadak_exif-rs,2017-08-18 00:29:46 UTC,,,,,
+1838844,WatchEvent,kamadak_exif-rs,2017-10-03 09:09:37 UTC,,,,,
+1904031,WatchEvent,kamadak_exif-rs,2017-10-25 09:20:15 UTC,,,,,
+1925644,CreateEvent,kamadak_exif-rs,2017-03-27 11:14:08 UTC,,,,,
+1933158,CreateEvent,kamadak_exif-rs,2017-01-14 02:55:27 UTC,,,,,
+1940913,CreateEvent,kamadak_exif-rs,2017-01-14 02:55:27 UTC,,,,,
+1941551,CreateEvent,kamadak_exif-rs,2017-10-22 09:38:48 UTC,,,,,
+1941984,CreateEvent,kamadak_exif-rs,2017-03-12 10:53:53 UTC,,,,,
+1942616,CreateEvent,kamadak_exif-rs,2017-02-25 14:01:11 UTC,,,,,
+1958951,CreateEvent,kamadak_exif-rs,2017-06-17 14:13:11 UTC,,,,,
+1965353,CreateEvent,kamadak_exif-rs,2017-03-26 12:54:25 UTC,,,,,
+1976165,CreateEvent,kamadak_exif-rs,2017-07-16 06:39:41 UTC,,,,,
+2150619,IssuesEvent,kamadak_exif-rs,2017-06-20 07:11:57 UTC,,,,,
+2208825,IssuesEvent,kamadak_exif-rs,2017-07-12 13:47:59 UTC,,,,,
+2421912,IssuesEvent,kamadak_exif-rs,2017-08-17 12:40:03 UTC,,,,,
+3068348,IssueCommentEvent,kamadak_exif-rs,2017-07-15 08:56:33 UTC,,,,,
+3087685,IssueCommentEvent,kamadak_exif-rs,2017-07-16 06:10:40 UTC,,,,,
+3225953,IssueCommentEvent,kamadak_exif-rs,2017-06-20 15:41:46 UTC,,,,,
+3381932,IssueCommentEvent,kamadak_exif-rs,2017-07-16 19:33:23 UTC,,,,,
+3423092,IssueCommentEvent,kamadak_exif-rs,2017-07-16 08:14:41 UTC,,,,,
+3833147,IssueCommentEvent,kamadak_exif-rs,2017-07-12 14:00:13 UTC,,,,,
+3920344,IssueCommentEvent,kamadak_exif-rs,2017-06-20 16:39:46 UTC,,,,,
+4075939,IssueCommentEvent,kamadak_exif-rs,2017-08-17 12:40:03 UTC,,,,,
+67010,ForkEvent,kamadak_exif-rs,2018-04-16 19:10:08 UTC,,,,,
+119618,ForkEvent,kamadak_exif-rs,2018-06-29 06:22:15 UTC,,,,,
+356486,PushEvent,kamadak_exif-rs,2018-06-17 13:05:15 UTC,,,,,
+801352,PushEvent,kamadak_exif-rs,2018-04-17 14:39:36 UTC,,,,,
+891626,PushEvent,kamadak_exif-rs,2018-02-19 14:39:01 UTC,,,,,
+1237380,WatchEvent,kamadak_exif-rs,2018-06-22 19:13:33 UTC,,,,,
+1590230,WatchEvent,kamadak_exif-rs,2018-08-03 16:08:54 UTC,,,,,
+1609275,WatchEvent,kamadak_exif-rs,2018-05-10 20:48:47 UTC,,,,,
+1903764,CreateEvent,kamadak_exif-rs,2018-06-17 13:05:22 UTC,,,,,
+1911470,CreateEvent,kamadak_exif-rs,2018-06-10 13:36:30 UTC,,,,,
+2033212,DeleteEvent,kamadak_exif-rs,2018-06-17 13:15:34 UTC,,,,,
+2229467,IssuesEvent,kamadak_exif-rs,2018-06-17 13:11:54 UTC,,,,,
+2329091,IssuesEvent,kamadak_exif-rs,2018-12-12 21:15:36 UTC,,,,,
+2384402,IssuesEvent,kamadak_exif-rs,2018-06-09 08:58:44 UTC,,,,,
+2484359,PullRequestEvent,kamadak_exif-rs,2018-04-16 03:11:26 UTC,,,,,
+2516166,PullRequestEvent,kamadak_exif-rs,2018-04-17 14:48:52 UTC,,,,,
+2593025,PullRequestEvent,kamadak_exif-rs,2018-04-17 14:45:08 UTC,,,,,
+2869309,PullRequestEvent,kamadak_exif-rs,2018-04-16 19:11:13 UTC,,,,,
+2896996,IssueCommentEvent,kamadak_exif-rs,2018-06-17 13:11:54 UTC,,,,,
+3032217,IssueCommentEvent,kamadak_exif-rs,2018-06-09 10:27:06 UTC,,,,,
+3757921,IssueCommentEvent,kamadak_exif-rs,2018-04-17 14:48:52 UTC,,,,,
+3782280,IssueCommentEvent,kamadak_exif-rs,2018-12-15 01:30:13 UTC,,,,,
+4319730,IssueCommentEvent,kamadak_exif-rs,2018-04-17 14:45:08 UTC,,,,,
+4489627,IssueCommentEvent,kamadak_exif-rs,2018-06-10 13:42:15 UTC,,,,,
+66907,ForkEvent,kamadak_exif-rs,2019-12-03 13:56:10 UTC,,,,,
+107253,ForkEvent,kamadak_exif-rs,2019-03-16 05:46:13 UTC,,,,,
+333007,ForkEvent,kamadak_exif-rs,2019-08-11 10:57:23 UTC,,,,,
+370453,PushEvent,kamadak_exif-rs,2019-06-02 14:17:59 UTC,,,,,
+375489,PushEvent,kamadak_exif-rs,2019-12-15 12:36:09 UTC,,,,,
+492345,PushEvent,kamadak_exif-rs,2019-12-26 13:30:16 UTC,,,,,
+653053,PushEvent,kamadak_exif-rs,2019-10-22 04:48:00 UTC,,,,,
+653384,PushEvent,kamadak_exif-rs,2019-03-26 14:33:36 UTC,,,,,
+709250,PushEvent,kamadak_exif-rs,2019-04-01 12:15:04 UTC,,,,,
+941810,PushEvent,kamadak_exif-rs,2019-04-23 14:01:46 UTC,,,,,
+954933,PushEvent,kamadak_exif-rs,2019-05-13 12:21:54 UTC,,,,,
+991610,PushEvent,kamadak_exif-rs,2019-07-20 12:36:35 UTC,,,,,
+1000986,PushEvent,kamadak_exif-rs,2020-01-08 13:55:06 UTC,,,,,
+1034297,PushEvent,kamadak_exif-rs,2019-04-08 14:24:29 UTC,,,,,
+1169148,PushEvent,kamadak_exif-rs,2019-04-13 10:30:01 UTC,,,,,
+1274751,WatchEvent,kamadak_exif-rs,2019-10-02 15:29:03 UTC,,,,,
+1316584,WatchEvent,kamadak_exif-rs,2019-04-15 19:47:14 UTC,,,,,
+1335641,WatchEvent,kamadak_exif-rs,2019-11-24 02:35:15 UTC,,,,,
+1391526,WatchEvent,kamadak_exif-rs,2019-10-07 02:09:20 UTC,,,,,
+1545990,WatchEvent,kamadak_exif-rs,2019-04-30 15:28:42 UTC,,,,,
+1561540,WatchEvent,kamadak_exif-rs,2019-08-22 15:55:34 UTC,,,,,
+1734173,WatchEvent,kamadak_exif-rs,2019-04-25 04:19:47 UTC,,,,,
+1809567,WatchEvent,kamadak_exif-rs,2019-07-14 14:51:33 UTC,,,,,
+1895328,WatchEvent,kamadak_exif-rs,2019-11-19 12:21:40 UTC,,,,,
+1976992,WatchEvent,kamadak_exif-rs,2019-10-09 12:48:03 UTC,,,,,
+2111820,WatchEvent,kamadak_exif-rs,2019-03-14 16:45:40 UTC,,,,,
+2115634,WatchEvent,kamadak_exif-rs,2020-01-05 13:22:53 UTC,,,,,
+2209954,WatchEvent,kamadak_exif-rs,2019-07-04 13:26:56 UTC,,,,,
+2416915,CreateEvent,kamadak_exif-rs,2019-12-26 13:30:15 UTC,,,,,
+2625207,IssuesEvent,kamadak_exif-rs,2019-12-26 13:31:51 UTC,,,,,
+2810336,IssuesEvent,kamadak_exif-rs,2020-01-05 12:00:19 UTC,,,,,
+2865814,IssuesEvent,kamadak_exif-rs,2019-12-25 20:29:35 UTC,,,,,
+3282686,PullRequestEvent,kamadak_exif-rs,2019-03-26 14:38:37 UTC,,,,,
+3401386,PullRequestEvent,kamadak_exif-rs,2019-03-16 05:54:22 UTC,,,,,
+4143577,IssueCommentEvent,kamadak_exif-rs,2020-01-10 15:02:12 UTC,,,,,
+4357638,IssueCommentEvent,kamadak_exif-rs,2019-04-01 21:25:47 UTC,,,,,
+4360936,IssueCommentEvent,kamadak_exif-rs,2020-01-14 21:01:34 UTC,,,,,
+4801029,IssueCommentEvent,kamadak_exif-rs,2020-01-13 14:18:40 UTC,,,,,
+4820116,IssueCommentEvent,kamadak_exif-rs,2020-01-11 10:52:35 UTC,,,,,
+5086608,IssueCommentEvent,kamadak_exif-rs,2020-01-08 13:25:52 UTC,,,,,
+5220474,IssueCommentEvent,kamadak_exif-rs,2019-03-26 14:38:37 UTC,,,,,
+5252648,IssueCommentEvent,kamadak_exif-rs,2020-01-11 10:20:54 UTC,,,,,
+5465740,IssueCommentEvent,kamadak_exif-rs,2019-12-26 13:31:51 UTC,,,,,
+5479338,IssueCommentEvent,kamadak_exif-rs,2019-03-17 14:06:24 UTC,,,,,
+0,Commit,kamadak_exif-rs,2022-10-22 13:45:31,f8597d5e1f1ac77acb2bcc4291dc51582e3a89e5,1.0,1.0,1.0,0.0
+1,Commit,kamadak_exif-rs,2022-10-22 13:44:43,4e9873d5a04b2f9223f8c663865281f42379686a,4.0,0.0,1.0,0.0
+2,Commit,kamadak_exif-rs,2022-10-16 12:24:12,f66a427d003703a4af665ca32e63cb705f0de20d,24.0,28.0,1.0,0.0
+3,Commit,kamadak_exif-rs,2022-10-02 13:53:28,49db6d6e014c19aa565d16b24af73758351086fa,72.0,0.0,2.0,0.0
+4,Commit,kamadak_exif-rs,2022-09-07 13:55:41,1b44282a4a566e119bfa08a958897ec05e9373c3,9.0,0.0,1.0,0.0
+5,Commit,kamadak_exif-rs,2022-09-07 13:52:01,3f5bb96a327ae73edc2b30039afe8014811384ce,25.0,4.0,1.0,0.0
+6,Commit,kamadak_exif-rs,2021-12-15 14:21:50,ab77d185919e256e87fd271dd881ef84f10dff8d,2.0,2.0,1.0,0.0
+7,Commit,kamadak_exif-rs,2021-12-15 14:11:26,6db71de2fca2a71a95de15dc76310db01ee42212,1.0,0.0,1.0,0.0
+8,Commit,kamadak_exif-rs,2021-10-18 14:48:40,86eaa73be07a716b26e6f9c345466f75772059b3,1.0,3.0,1.0,0.0
+9,Commit,kamadak_exif-rs,2021-08-01 14:40:11,d65ccedc22749be022f8febb30483c7270bc50fe,18.0,0.0,1.0,0.0
+10,Commit,kamadak_exif-rs,2021-08-01 14:39:45,5b9bc48ba65970cff2d0ea35c0c10f46cb22b727,106.0,0.0,1.0,0.0
+11,Commit,kamadak_exif-rs,2021-06-05 10:32:24,7365bc564f26a4fd6a7657a500a825cc81e4ae3f,125.0,110.0,3.0,0.0
+12,Commit,kamadak_exif-rs,2021-05-04 13:12:47,8232c6cd5160413bf740c0af1fddadde369e5299,4.0,0.0,1.0,0.0
+13,Commit,kamadak_exif-rs,2021-05-04 12:54:44,8a9e10de60121ee96dae10d49cda63b23483031c,14.0,2.0,1.0,0.0
+14,Commit,kamadak_exif-rs,2021-05-04 12:42:26,17344addcb924f2890337eededbe239c9bfc0c2b,30.0,0.0,3.0,0.0
+15,Commit,kamadak_exif-rs,2021-04-03 14:34:25,8f7f8afc3569f7e732e879479666da2daa2366c5,4.0,14.0,1.0,0.0
+16,Commit,kamadak_exif-rs,2021-03-26 14:44:28,7de28fa4ae918ec098299d931cf3df36162878fd,1.0,1.0,1.0,0.0
+17,Commit,kamadak_exif-rs,2021-03-21 08:56:37,da36010bb920ce2c36f70c925d569c644e82add0,19.0,23.0,6.0,0.0
+18,Commit,kamadak_exif-rs,2021-02-23 13:31:32,117e26a715aab061349b4fab986639918b91ec36,1.0,1.0,1.0,0.0
+19,Commit,kamadak_exif-rs,2021-02-23 13:20:01,a2596027c884a6ac386f98fdaf477366be5f31e1,83.0,65.0,5.0,0.0
+20,Commit,kamadak_exif-rs,2021-02-04 13:38:42,180ac576b76a8dfdc875864a48eee4fe58777574,43.0,1.0,1.0,0.0
+21,Commit,kamadak_exif-rs,2021-01-24 10:40:04,4da1e340fc0ef92d10b2f78803e698db12c80f19,149.0,114.0,2.0,0.0
+22,Commit,kamadak_exif-rs,2021-01-24 10:38:31,6c08800089b79717ff33c0091ac445609501c552,18.0,6.0,3.0,0.0
+23,Commit,kamadak_exif-rs,2021-01-07 13:49:33,37001e4cba0a26ee6c32f81876b2230a13026288,1.0,2.0,1.0,0.0
+24,Commit,kamadak_exif-rs,2021-01-07 13:24:24,a5d8a3e618571aaeee23fb283f45406fe3eb2346,1.0,1.0,1.0,0.0
+25,Commit,kamadak_exif-rs,2021-01-05 08:55:31,1b05eab57e484cd7d576d4357b9cda7fdc57df8c,0.0,0.0,0.0,0.0
+26,Commit,kamadak_exif-rs,2021-01-05 08:49:15,7c643da1972b30dc70b31b4c10c5ed0444e36d53,1.0,1.0,1.0,0.0
+27,Commit,kamadak_exif-rs,2021-01-04 02:06:15,f21df24616ea611c5d5d0e0e2f8042eb74d5ff48,13.0,0.0,1.0,1.0
+28,Commit,kamadak_exif-rs,2020-12-14 12:12:19,f57a972e2d76d7d039f93c6b6f814ec62b4858c9,165.0,1.0,6.0,0.0
+29,Commit,kamadak_exif-rs,2020-12-08 10:35:57,ef78b2241bce7068a5ee07fbcca2b794d9ae892a,2.0,2.0,2.0,0.0
+30,Commit,kamadak_exif-rs,2020-12-02 12:48:40,a406139859a93c3495964610f3c1777bd8d5bd93,25.0,26.0,3.0,0.0
+31,Commit,kamadak_exif-rs,2020-11-21 11:01:08,386fb2cc8b2ca9150682ee1e91c4d4fceda1ce75,10.0,0.0,1.0,0.0
+32,Commit,kamadak_exif-rs,2020-09-06 06:23:36,7c113302decdfdef07a2f6cc0e4a67151ec1f66f,5.0,1.0,1.0,0.0
+33,Commit,kamadak_exif-rs,2020-08-12 14:35:00,4b18cbfe92d7912950be6b19556e217c76063eef,14.0,9.0,2.0,0.0
+34,Commit,kamadak_exif-rs,2020-08-07 12:41:30,0807862f0f8b77293a4ee41f37ea0a65252ecd05,1.0,1.0,1.0,0.0
+35,Commit,kamadak_exif-rs,2020-08-03 13:57:50,6e3c37d591f767bdd226c06ff037c49272ddb3e7,159.0,1.0,6.0,0.0
+36,Commit,kamadak_exif-rs,2020-02-29 10:11:48,b99c21236eb7ce7927ec5c14b0346f2a584f7b65,27.0,1.0,2.0,0.0
+37,Commit,kamadak_exif-rs,2020-02-29 10:10:41,8a853122acc790c3e0be5111012092600bfc01ef,1.0,10.0,1.0,0.0
+38,Commit,kamadak_exif-rs,2020-02-26 12:47:39,3d32b596de2b4e82c1e44d9812ece9c3b9d2d41c,1.0,1.0,1.0,0.0
+39,Commit,kamadak_exif-rs,2020-02-22 10:57:17,7de2ff0dddd3765b4c718c99344ee9c83f7c9103,55.0,0.0,3.0,0.0
+40,Commit,kamadak_exif-rs,2020-02-22 10:56:14,35e2ccc33b9d0dc5cc87b56521e466ea13a624b9,16.0,28.0,1.0,0.0
+41,Commit,kamadak_exif-rs,2020-02-15 12:36:41,8ee0bc6c83ecb9c005460b5368d0669712207cf8,1.0,1.0,1.0,0.0
+42,Commit,kamadak_exif-rs,2020-02-15 10:17:02,b1dfc310e9214e12ca3e321e935431352427bc0a,19.0,21.0,3.0,0.0
+43,Commit,kamadak_exif-rs,2020-02-15 10:10:54,4517a1a7712f415871cbcbe820c5764acee18058,48.0,38.0,1.0,0.0
+44,Commit,kamadak_exif-rs,2020-02-15 10:07:58,663a24de7923006b01ecff4409c2ba8f7db9796b,108.0,105.0,2.0,0.0
+45,Commit,kamadak_exif-rs,2020-02-13 12:06:27,22395fca2529e2ff82f16d906e42bf4dab5a08f1,2.0,1.0,1.0,0.0
+46,Commit,kamadak_exif-rs,2020-02-05 14:05:48,79cc94f6158e8aba082d642b4eae888af3182062,94.0,20.0,2.0,0.0
+47,Commit,kamadak_exif-rs,2020-02-05 14:05:31,04e2cf568ce467f61d80a0784ede43f7a168715e,29.0,1.0,2.0,0.0
+48,Commit,kamadak_exif-rs,2020-02-05 14:05:10,bc0053a2e73d5f8b537a2389a8f67b1b684c67be,2.0,1.0,1.0,0.0
+49,Commit,kamadak_exif-rs,2020-02-01 11:28:21,af94ad50b662819f057113065aab2ca2dd0288b2,27.0,9.0,4.0,0.0
+50,Commit,kamadak_exif-rs,2020-01-26 14:19:54,4621acaaabd6dfd0a4dfed54a6644f8fcd0ddd7e,2.0,2.0,2.0,0.0
+51,Commit,kamadak_exif-rs,2020-01-26 14:12:47,60c8e15b110cebbbc9173b08a8fc58288bbd4fd2,77.0,24.0,6.0,0.0
+52,Commit,kamadak_exif-rs,2020-01-26 10:21:18,1d683572be62c44ab0181156788c476f616544b4,4.0,4.0,3.0,0.0
+53,Commit,kamadak_exif-rs,2020-01-26 10:20:12,eec3791e1080f4343143e9025049b3ab47c10c3a,0.0,11.0,1.0,0.0
+54,Commit,kamadak_exif-rs,2020-01-26 10:19:50,904f4b577e439ad9741f19e4c2a7dcfcd2b3fbd7,8.0,0.0,1.0,0.0
+55,Commit,kamadak_exif-rs,2020-01-23 14:55:30,d6746c40043c316858b292e7b0f8af4b29f67777,1.0,1.0,1.0,0.0
+56,Commit,kamadak_exif-rs,2020-01-23 14:54:35,bd2602240ab7063a559eca78c50e225cc503a316,1.0,1.0,1.0,0.0
+57,Commit,kamadak_exif-rs,2020-01-22 12:24:29,6b461fd87afc3837a6c0c4c6c0e311928e952c39,47.0,17.0,1.0,0.0
+58,Commit,kamadak_exif-rs,2020-01-21 12:41:21,a49d2562d8f38f00705901723664e9038df8c546,4.0,2.0,1.0,0.0
+59,Commit,kamadak_exif-rs,2020-01-20 13:05:06,1568e3151f0f691c174e2d4b45f7516feb2b0cee,123.0,104.0,6.0,0.0
+60,Commit,kamadak_exif-rs,2020-01-20 13:04:32,ffabb8adc2aa8df81fa8087edb6db5923607674d,0.0,13.0,1.0,0.0
+61,Commit,kamadak_exif-rs,2020-01-20 13:02:26,ad07ca16993637a4da3f9c53c448f48ad2c0d9ca,0.0,0.0,0.0,0.0
+62,Commit,kamadak_exif-rs,2020-01-19 11:58:01,5219996fa423afd333e96fd54301b8b34ca29396,47.0,1.0,2.0,0.0
+63,Commit,kamadak_exif-rs,2020-01-19 11:48:04,0e398cd63a0e3366bfb55adcf37efd6e7e0b1a0e,494.0,3.0,6.0,0.0
+64,Commit,kamadak_exif-rs,2020-01-08 13:52:44,faefc756018208d804850514356963c59f3dd672,3.0,6.0,2.0,0.0
+65,Commit,kamadak_exif-rs,2019-12-22 13:28:48,3c928122ebf11d525e7b89d8fac65c0a61131adb,2.0,2.0,2.0,0.0
+66,Commit,kamadak_exif-rs,2019-12-22 13:20:49,3e8ed5449712f81e33def6a34a1d74704950191f,79.0,10.0,1.0,0.0
+67,Commit,kamadak_exif-rs,2019-12-22 12:08:20,5d5d995907d819a82e618e03acfa0b2cbfdc1c8f,1.0,1.0,1.0,0.0
+68,Commit,kamadak_exif-rs,2019-12-22 11:33:56,f90f5d885a5a53a8758f02d9c16c8c94cfb6472a,2.0,0.0,2.0,0.0
+69,Commit,kamadak_exif-rs,2019-12-22 11:33:18,9e4c996cdf6d4f3662717c3ccf1ebbeb01139452,1.0,1.0,1.0,0.0
+70,Commit,kamadak_exif-rs,2019-12-22 11:31:44,8825fcca62c217889899549cdf0daf84cfd1a669,28.0,85.0,4.0,0.0
+71,Commit,kamadak_exif-rs,2019-12-22 11:28:25,47ab7e47646aba4789c85cfa4b11db981d6e4c81,12.0,9.0,1.0,0.0
+72,Commit,kamadak_exif-rs,2019-12-15 12:11:20,fa34bc9895497b2fd35f5993fbe9bb23a3da55f9,2.0,2.0,2.0,0.0
+73,Commit,kamadak_exif-rs,2019-12-15 12:06:18,90bf02c02b57da8ace3ea1f12b59600f639d2659,0.0,0.0,0.0,0.0
+74,Commit,kamadak_exif-rs,2019-12-14 12:57:56,4276ed389bbe4436aaddaa0b059f381ef0e42704,41.0,78.0,5.0,0.0
+75,Commit,kamadak_exif-rs,2019-12-14 12:57:35,1bd083cbaed2f26c25ee0a4a0765e8401a506c7a,178.0,131.0,9.0,0.0
+76,Commit,kamadak_exif-rs,2019-10-21 14:53:43,1533be5a2ad5e23417f58d5f1dc9b12c253d0535,59.0,58.0,2.0,0.0
+77,Commit,kamadak_exif-rs,2019-10-21 14:30:46,23c2c189dad66907034245005c3bd04bae0d48de,1.0,1.0,1.0,0.0
+78,Commit,kamadak_exif-rs,2019-10-21 14:25:32,766822c7918c87ee5e072b70b2065e80966ffeb9,5.0,5.0,4.0,0.0
+79,Commit,kamadak_exif-rs,2019-10-21 14:12:58,f81d2f6e6a75f2be5eb8927dd2cd63b439987cf5,85.0,28.0,4.0,0.0
+80,Commit,kamadak_exif-rs,2019-07-20 12:30:30,b584930a786e8cc9e737f388c258fcc471bf6a6d,20.0,2.0,1.0,0.0
+81,Commit,kamadak_exif-rs,2019-06-02 14:16:18,8a7049c9b3df2e5bc8c6ef1eb791815ec6100f86,172.0,131.0,2.0,0.0
+82,Commit,kamadak_exif-rs,2019-05-08 14:09:03,8e9ff50ca8f3ed6558dcbe6c93c759f82d8190cd,41.0,21.0,4.0,0.0
+83,Commit,kamadak_exif-rs,2019-04-20 14:16:01,b9575efd0b28555eba6639c6991500ab83058713,174.0,110.0,8.0,0.0
+84,Commit,kamadak_exif-rs,2019-04-13 10:45:00,6c3ddddc96b7b068bde77c5a52a97e944e565bb0,0.0,1.0,1.0,0.0
+85,Commit,kamadak_exif-rs,2019-04-12 14:36:38,4829149cf7cfa79e61e20aa5e72f9a4568699a06,0.0,1.0,1.0,0.0
+86,Commit,kamadak_exif-rs,2019-04-12 14:35:28,e1e4800eea02f602c6f10d1f2376ed8e036e6511,45.0,45.0,4.0,0.0
+87,Commit,kamadak_exif-rs,2019-04-09 14:11:05,437b1a17509c10d3bd6dda8fdbdd61cd72f4822a,31.0,33.0,4.0,0.0
+88,Commit,kamadak_exif-rs,2019-04-07 12:11:14,2ffa449d9d9a022ea0fe0b6ba6024b9decee13da,448.0,18.0,8.0,0.0
+89,Commit,kamadak_exif-rs,2019-04-01 12:11:54,eb4723a8a9eb95336497b807036e05e4e2c550aa,36.0,36.0,10.0,0.0
+90,Commit,kamadak_exif-rs,2019-03-31 14:50:04,56106534cd218cf0f008cf602858f13a4f402098,20.0,41.0,6.0,0.0
+91,Commit,kamadak_exif-rs,2019-03-27 14:16:05,f9c4ff475b959c49540324bde49e72c7feb9a654,2.0,17.0,2.0,0.0
+92,Commit,kamadak_exif-rs,2019-03-26 14:25:46,d04939182db9736a2689975dee63baa1706b4b1a,1.0,1.0,1.0,0.0
+93,Commit,kamadak_exif-rs,2019-03-26 14:17:31,46510fef82750b59cfff708fc0616d68c6a6aa36,0.0,0.0,0.0,0.0
+94,Commit,kamadak_exif-rs,2019-03-26 14:05:08,03a7694c52087f9294e75941d89718d2850cbd2b,7.0,7.0,1.0,0.0
+95,Commit,kamadak_exif-rs,2019-03-26 14:02:34,34295873926d90207dc263f404401a64b4c1aafd,2.0,1.0,1.0,0.0
+96,Commit,kamadak_exif-rs,2019-03-17 14:55:10,288a7e85c58caa9f041d7ad6937867478ba780c4,25.0,30.0,4.0,0.0
+97,Commit,kamadak_exif-rs,2019-03-17 14:34:19,4874c69c249744415b96986440fe0ca4a0681564,1.0,1.0,1.0,0.0
+98,Commit,kamadak_exif-rs,2018-06-17 12:51:49,9a9a605a82622e27bcc0470efef9edcf0a5ca5ca,1.0,1.0,1.0,0.0
+99,Commit,kamadak_exif-rs,2018-06-17 12:34:56,8b06acb3dd72debddc9c40332e6daf49ceb8f7f7,7.0,4.0,1.0,0.0
+100,Commit,kamadak_exif-rs,2018-04-20 13:16:21,bbca6ea2290403e3f4d6a92a3ac46d823d833b25,4.0,6.0,2.0,0.0
+101,Commit,kamadak_exif-rs,2018-04-17 14:33:39,7fcd64b40b832416dac09df0803e85178117930f,3.0,3.0,1.0,0.0
+102,Commit,kamadak_exif-rs,2018-04-17 14:28:23,9c2440b7ebc177cb24b040c81d3e7ed2292a04c7,1.0,1.0,1.0,0.0
+103,Commit,kamadak_exif-rs,2018-04-17 14:21:40,9c45d1903ad7c1b726e39ac4a80b372bbe2a4fd8,126.0,126.0,7.0,0.0
+104,Commit,kamadak_exif-rs,2018-02-19 14:35:34,c2912228c933af49732cc31ad31b222f161cc858,2.0,2.0,1.0,0.0
+105,Commit,kamadak_exif-rs,2018-02-19 14:25:24,0f6698eb551a5e1189079b47f30e651c581a490f,5.0,5.0,1.0,0.0
+106,Commit,kamadak_exif-rs,2018-01-18 14:40:05,2ecdb77efeebd45adec6f75f55c95a27ba3a9e03,1.0,1.0,1.0,0.0
+107,Commit,kamadak_exif-rs,2018-01-15 14:01:10,827491a769fed0279a1f97323befa427760c04d5,1.0,1.0,1.0,0.0
+108,Commit,kamadak_exif-rs,2018-01-13 14:33:45,d882dce9a0822c2d5dbc6ddf26d10b10b36a47a3,51.0,7.0,8.0,0.0
+109,Commit,kamadak_exif-rs,2017-10-27 15:14:41,201f6887fd5da9f8597ce2244adb03e1aaaa460a,1.0,1.0,1.0,0.0
+110,Commit,kamadak_exif-rs,2017-10-22 07:19:18,2fab18947ab0270ce738bfe14b31f9d9c798596b,2.0,2.0,2.0,0.0
+111,Commit,kamadak_exif-rs,2017-10-22 07:13:30,63fa7373e648ae8949aa4ff8aef17be7372a02ec,0.0,7.0,1.0,0.0
+112,Commit,kamadak_exif-rs,2017-10-12 13:57:51,7046070a83d5204bae50f134c3fc89cdc3011cf9,1.0,1.0,1.0,0.0
+113,Commit,kamadak_exif-rs,2017-10-12 13:55:56,26a64361b39a6f79680d10d29aee3385ed2b1c43,77.0,65.0,8.0,0.0
+114,Commit,kamadak_exif-rs,2017-10-01 12:17:17,1ad83d8a82c7ebf71d1e75b46f9986807ec6bc6f,100.0,4.0,3.0,0.0
+115,Commit,kamadak_exif-rs,2017-10-01 12:16:05,836244fde3df5583188355fe47224618a892f79b,1.0,0.0,1.0,0.0
+116,Commit,kamadak_exif-rs,2017-08-21 12:13:36,98cb8b914c5c2f8695bb1720ac81885886f63b34,3.0,3.0,2.0,0.0
+117,Commit,kamadak_exif-rs,2017-08-04 12:15:19,078bfcdc78a293ca0ec10504d6380d340614d266,27.0,18.0,6.0,0.0
+118,Commit,kamadak_exif-rs,2017-07-27 11:42:29,eba51f05c7a948c7e26721eb22bb63f34a2334fd,35.0,34.0,1.0,0.0
+119,Commit,kamadak_exif-rs,2017-07-26 14:27:48,51bfc6b21fc283eed716e12d4f338ce5a91c0a5e,2.0,1.0,1.0,0.0
+120,Commit,kamadak_exif-rs,2017-07-23 12:43:02,561e801c88b3b97f8f4ade73cc9fa6dca1ba880c,32.0,5.0,2.0,0.0
+121,Commit,kamadak_exif-rs,2017-07-23 12:41:10,fab83f512f5e19e87280e3c333715f1cf44b6939,71.0,0.0,1.0,0.0
+122,Commit,kamadak_exif-rs,2017-07-18 13:42:45,a4f891ec259c2b0c87dd90646503a43140b99f05,16.0,9.0,4.0,0.0
+123,Commit,kamadak_exif-rs,2017-07-18 13:36:27,aa41b66838d9f05d9eb198e163f8c30aee0362b7,1.0,6.0,1.0,0.0
+124,Commit,kamadak_exif-rs,2017-07-16 06:28:28,c5f25db4fd33be84dc8fb84a8a45644499bbecbe,1.0,1.0,1.0,0.0
+125,Commit,kamadak_exif-rs,2017-07-16 06:16:56,8ffc5ced3f83013405a747210180e004c714659c,80.0,0.0,2.0,0.0
+126,Commit,kamadak_exif-rs,2017-07-12 12:37:13,0616fed48332379d551a0a33b8c393fd520a178f,16.0,0.0,1.0,0.0
+127,Commit,kamadak_exif-rs,2017-07-12 12:36:42,ad7ccec2f08a5dedadf6660b650b9b01f4f354f5,1.0,1.0,1.0,0.0
+128,Commit,kamadak_exif-rs,2017-07-11 14:36:28,caafd20aad328c46d562ddefebbea1e1ad8c3334,225.0,0.0,1.0,0.0
+129,Commit,kamadak_exif-rs,2017-07-11 14:33:14,f0a9297579ceae074f7589903027e38b049daad2,66.0,0.0,1.0,0.0
+130,Commit,kamadak_exif-rs,2017-07-11 14:30:48,165f95fc8e83b551d138a6966cb10dbfeee9e324,37.0,4.0,1.0,0.0
+131,Commit,kamadak_exif-rs,2017-07-11 14:29:26,db718fe75a30685a51bd4d2321a5327ab0c408ac,2.0,2.0,1.0,0.0
+132,Commit,kamadak_exif-rs,2017-07-07 13:21:44,b8aefa27229f59d8bee4c84b7ce34f613d2a7cb5,85.0,10.0,2.0,0.0
+133,Commit,kamadak_exif-rs,2017-07-07 13:20:09,d348ceb54bfb63920b96a75229d311ab8d68cfa6,5.0,5.0,1.0,0.0
+134,Commit,kamadak_exif-rs,2017-07-04 11:56:19,9eb8944833b0290d3eedd8ed229c905e68f636bb,128.0,0.0,1.0,0.0
+135,Commit,kamadak_exif-rs,2017-07-02 12:51:25,e8000ac50c47c87a428dbd11221bfbc855dc945f,13.0,0.0,1.0,0.0
+136,Commit,kamadak_exif-rs,2017-07-01 10:17:37,73bced6cbf1708f3e222957630c39c7dc2758256,418.0,5.0,3.0,0.0
+137,Commit,kamadak_exif-rs,2017-06-30 14:23:03,132c9e9d18e9543184f23661ef51a671e26ba596,175.0,0.0,2.0,0.0
+138,Commit,kamadak_exif-rs,2017-06-29 14:19:53,a49a8be4418ef59d399beef9d39475446fee0a22,46.0,0.0,1.0,0.0
+139,Commit,kamadak_exif-rs,2017-06-25 11:33:27,62bf989fa9712a84d76811db5a4a856eabddfc1b,2.0,2.0,2.0,0.0
+140,Commit,kamadak_exif-rs,2017-06-17 13:49:08,0949abc4acef56437a0e07fe773e41691ac8a3bc,1.0,1.0,1.0,0.0
+141,Commit,kamadak_exif-rs,2017-06-17 12:57:38,5a540228c3aadc3ced7fd18dc5d877824a230c1b,863.0,151.0,2.0,0.0
+142,Commit,kamadak_exif-rs,2017-06-17 12:47:27,7c61ddf3f9a23539eb3ace7770a4a48a30b984e7,32.0,0.0,1.0,0.0
+143,Commit,kamadak_exif-rs,2017-06-17 12:43:59,8f2ece2b01e93097745e5d47a9a1aaa1242dbc2b,18.0,0.0,1.0,0.0
+144,Commit,kamadak_exif-rs,2017-06-14 14:28:20,065276d5a104f8d533d0f22f1905e86af4d1ba10,68.0,0.0,1.0,0.0
+145,Commit,kamadak_exif-rs,2017-06-14 14:23:53,94e62181ebd2e91c9cb1b18e583ff9161c2741b4,2.0,0.0,1.0,0.0
+146,Commit,kamadak_exif-rs,2017-05-11 14:19:16,0d9551af0fab601c335d5812b26efedb570a434c,254.0,146.0,2.0,0.0
+147,Commit,kamadak_exif-rs,2017-05-11 14:18:33,3736693836aa5a77cf5310492784e918b1164696,5.0,5.0,1.0,0.0
+148,Commit,kamadak_exif-rs,2017-04-08 11:26:51,accc66f21a9521755f0e0eb1284fb5b7905266d4,12.0,0.0,1.0,0.0
+149,Commit,kamadak_exif-rs,2017-04-08 11:21:54,91ce94844c49552839cd335ad42f860fa9bf9313,72.0,0.0,1.0,0.0
+150,Commit,kamadak_exif-rs,2017-04-08 11:19:04,a83a0fc8ebb96d29772ff0a8625bb18051bd3df9,2.0,2.0,1.0,0.0
+151,Commit,kamadak_exif-rs,2017-03-27 11:05:26,0c34e29ecb4fddc8dd0e02a76f5bcd9d5d11dc59,1.0,1.0,1.0,0.0
+152,Commit,kamadak_exif-rs,2017-03-27 11:03:28,82a6b2ef7e3ca69bac2ef6386be3e3a8a24fbccd,1.0,1.0,1.0,0.0
+153,Commit,kamadak_exif-rs,2017-03-26 12:30:24,e4ac5ec3f2db46eac3c4d5014ef5087d44f08fd5,2.0,2.0,2.0,0.0
+154,Commit,kamadak_exif-rs,2017-03-26 12:29:33,9001103c88d8ac01e9225a352a8794fda772b03c,10.0,0.0,1.0,0.0
+155,Commit,kamadak_exif-rs,2017-03-24 14:32:12,2b663f35f3522a81699815c05e6d393195e199c7,11.0,4.0,1.0,0.0
+156,Commit,kamadak_exif-rs,2017-03-24 14:15:24,f11f3c306b1b0828b7d319ba4a012e6b5b81d521,0.0,63.0,2.0,0.0
+157,Commit,kamadak_exif-rs,2017-03-24 14:13:24,24b69ed85b5db953f811cd8d3bbb6d2cf2ea0216,3.0,3.0,1.0,0.0
+158,Commit,kamadak_exif-rs,2017-03-24 14:09:22,81b5efa7aaf55f53e8b7acd3859f07585d5cff04,1.0,5.0,5.0,0.0
+159,Commit,kamadak_exif-rs,2017-03-24 13:57:38,5600fb205f73357be21909db10cd917399b2899a,77.0,1.0,4.0,0.0
+160,Commit,kamadak_exif-rs,2017-03-24 13:46:26,7f66863d846d597a7f0374c20f2b3609976c0c66,368.0,146.0,2.0,0.0
+161,Commit,kamadak_exif-rs,2017-03-22 10:45:38,6a5355750ec689b5ef4c94d193b7b641ab8d0fa2,1.0,0.0,1.0,0.0
+162,Commit,kamadak_exif-rs,2017-03-15 14:42:14,c9ccdc343a2d3561c014046e8b8b0c3791601518,3.0,3.0,1.0,0.0
+163,Commit,kamadak_exif-rs,2017-03-14 12:53:48,61d78aa1979237ef1f0703973e9820c9cff2767c,24.0,0.0,3.0,0.0
+164,Commit,kamadak_exif-rs,2017-03-12 10:36:07,02525d42ed29264e5a5709aa23ac6033e29d54ec,2.0,2.0,2.0,0.0
+165,Commit,kamadak_exif-rs,2017-03-12 10:18:00,e939ef7fd6a564a5b69bda1f7d5439064283891b,28.0,19.0,3.0,0.0
+166,Commit,kamadak_exif-rs,2017-03-12 10:16:00,b66b47d1fd52810d80f1e449a11f8575deb8e956,18.0,0.0,2.0,0.0
+167,Commit,kamadak_exif-rs,2017-03-12 10:13:21,4f2e54a6b917c6ec52fa8d97dc473ce314adc67c,2.0,2.0,1.0,0.0
+168,Commit,kamadak_exif-rs,2017-03-12 10:09:02,bd5fa39ba96721185547a495305630e1865a0e01,3.0,3.0,1.0,0.0
+169,Commit,kamadak_exif-rs,2017-03-04 23:19:37,8d4d3d4df070a94fcc0813eda643da9499a11ef5,8.0,6.0,2.0,0.0
+170,Commit,kamadak_exif-rs,2017-03-04 23:18:53,ae70e71db6bbb664665574989c923301104f6973,3.0,1.0,1.0,0.0
+171,Commit,kamadak_exif-rs,2017-03-04 12:26:03,566eb477191eb2bcf95fcbe19250e52e2594ce5a,10.0,1.0,2.0,0.0
+172,Commit,kamadak_exif-rs,2017-03-02 13:38:47,3a1630c452523668a42cbc5325811110eea0d3de,10.0,1.0,1.0,0.0
+173,Commit,kamadak_exif-rs,2017-02-25 13:43:47,9ca277c3e52f9d0705f7a2d53a2f62ae12b94d94,2.0,2.0,2.0,0.0
+174,Commit,kamadak_exif-rs,2017-02-24 11:49:57,a8bb533128c5cac60472360d1dea09ff3f9d58eb,33.0,11.0,2.0,0.0
+175,Commit,kamadak_exif-rs,2017-02-24 11:48:38,74cd3435b8d37cef99885d30b5365f68fe54dc18,3.0,4.0,1.0,0.0
+176,Commit,kamadak_exif-rs,2017-02-24 11:46:50,1d5d9fdd384fe7214162ae10a47e8fd16c0ec2aa,2.0,0.0,2.0,0.0
+177,Commit,kamadak_exif-rs,2017-02-22 14:00:25,28930595684fba8d44f8e0e8d976843379a871e1,152.0,0.0,2.0,0.0
+178,Commit,kamadak_exif-rs,2017-01-12 13:06:26,dd2a068d3fa258c891c85ea2c53f64c78bd012aa,2.0,2.0,2.0,0.0
+179,Commit,kamadak_exif-rs,2017-01-12 13:01:47,b075a27d4ec92c217be2ab4583ec295370c42fe8,1.0,1.0,1.0,0.0
+180,Commit,kamadak_exif-rs,2017-01-12 12:52:31,00c369e0923bec5fd8566f60f090f172d869a8dd,1.0,1.0,1.0,0.0
+181,Commit,kamadak_exif-rs,2017-01-12 12:51:11,906a25cb3106a16f9dec77045367e0f78a39aef6,77.0,3.0,4.0,0.0
+182,Commit,kamadak_exif-rs,2017-01-02 23:21:00,e5ffcb23c45fb636bf6f3e68e74776396f734548,2.0,0.0,1.0,0.0
+183,Commit,kamadak_exif-rs,2016-12-30 14:46:33,52cd087113b6e8cff40a598bfb2a0542d300ddd2,6.0,0.0,1.0,0.0
+184,Commit,kamadak_exif-rs,2016-12-30 14:39:16,038078fa13fdc4a07ca354e2771a88d1954f8ed6,14.0,0.0,1.0,0.0
+185,Commit,kamadak_exif-rs,2016-12-30 14:22:13,9dce2590c31991111d720e766856eaed9861b63d,1.0,1.0,1.0,0.0
+186,Commit,kamadak_exif-rs,2016-12-30 14:19:02,2a0c4d9f6187130577cdb2168535b34ec9079b2e,3.0,3.0,1.0,0.0
+187,Commit,kamadak_exif-rs,2016-12-20 14:27:26,3e05fa1a09d1150c2d9a7ea3b04e0d46f20d74ca,17.0,0.0,1.0,0.0
+188,Commit,kamadak_exif-rs,2016-12-18 14:38:11,92a3c49bb26009e142c91d58b41ac86fb8f8a41e,14.0,0.0,2.0,0.0
+189,Commit,kamadak_exif-rs,2016-12-16 15:30:46,5d9190304f32414a22bdb4fdf66b6747adb10ae0,7.0,3.0,1.0,0.0
+190,Commit,kamadak_exif-rs,2016-12-14 13:08:51,de37fa8f002eccea37b0c2ef1c1ef7ba606aff87,21.0,0.0,1.0,0.0
+191,Commit,kamadak_exif-rs,2016-12-14 13:02:55,e894654d682abafdb9a96bd0b403d19d0cefa41b,18.0,8.0,1.0,0.0
+192,Commit,kamadak_exif-rs,2016-12-12 12:27:35,5cb98a8f1bbc28af5500a6ac1ff4c85b33a9b2c9,23.0,19.0,2.0,0.0
+193,Commit,kamadak_exif-rs,2016-12-06 13:08:47,05e585291839f43847e92cb2ef7eda8ab4e9d7c6,146.0,4.0,1.0,0.0
+194,Commit,kamadak_exif-rs,2016-12-06 13:05:43,66c92e044109b4ee1ba119f4ccff4b1050397df9,15.0,11.0,1.0,0.0
+195,Commit,kamadak_exif-rs,2016-11-24 13:23:05,d180bfbae8626db23495c1cdee8df1870ee24853,31.0,0.0,1.0,0.0
+196,Commit,kamadak_exif-rs,2016-11-23 10:06:38,6651b7d159435229c5676e9e97ee0636d66d9b66,136.0,11.0,3.0,0.0
+197,Commit,kamadak_exif-rs,2016-11-19 11:46:49,eaaad2418f644961b06d954a64286c2ccda4fb7d,52.0,0.0,2.0,0.0
+198,Commit,kamadak_exif-rs,2016-11-19 11:43:41,60b6455905de0beff55eddecfddd1d36d6094b7b,32.0,0.0,1.0,0.0
+199,Commit,kamadak_exif-rs,2016-11-19 11:28:17,2bb71cfefb5ae9b13d54eaeab229b37ec68eb92a,50.0,1.0,2.0,0.0
+200,Commit,kamadak_exif-rs,2016-11-19 11:21:08,0741492615b982d91328c4cbe21299a53acad3ae,29.0,0.0,1.0,0.0
+201,Commit,kamadak_exif-rs,2016-11-19 11:16:49,4acfa58e44cd1782e14de58501458a6d9b17062e,28.0,0.0,1.0,0.0
+202,Commit,kamadak_exif-rs,2016-11-19 11:10:12,2612b22d54346b147e9f6f3f233b6b76dd943e42,24.0,0.0,1.0,0.0
+203,Commit,kamadak_exif-rs,2016-11-17 12:32:17,471f9394c45bc454eccff540a5e2a80a1a149ea5,27.0,0.0,1.0,0.0
+204,Commit,kamadak_exif-rs,2016-11-17 12:14:07,3788c4548210936dafe5ced83deed26de4b6645d,52.0,0.0,2.0,0.0
+205,Commit,kamadak_exif-rs,2016-11-17 12:03:34,e84675d5a77005f41db770b2f862074496e6a419,29.0,0.0,1.0,0.0
+206,Commit,kamadak_exif-rs,2016-11-16 14:16:53,111a2fd34cf1744eebeea9fe9338f8722d60cc01,2.0,0.0,1.0,0.0
+207,Commit,kamadak_exif-rs,2016-11-16 14:13:29,a8620a1ff68d41c82efd0f0be61c4f2d24f12550,1.0,1.0,1.0,0.0
+208,Commit,kamadak_exif-rs,2016-11-04 13:11:57,6225236870d5024c4227b54519450dbee91a49bf,2.0,2.0,1.0,0.0
+209,Commit,kamadak_exif-rs,2016-11-03 10:52:18,b86c74856cb70f10c21036db17861c65e94bc1a6,15.0,0.0,1.0,0.0
+210,Commit,kamadak_exif-rs,2016-11-03 10:49:10,8bff68fccc0fb91ac96d6352d54b2536824bfa7c,24.0,0.0,1.0,0.0
+211,Commit,kamadak_exif-rs,2016-11-03 09:58:32,4175aa5bc40f98976ff81179a08acc97d61f6f2a,11.0,0.0,1.0,0.0
+212,Commit,kamadak_exif-rs,2016-11-03 09:51:54,6f9be2c2a933aef4e618f7bf7d0c93aad9aad7ab,6.0,6.0,2.0,0.0
+213,Commit,kamadak_exif-rs,2016-10-27 20:37:39,2940079ae9b3d45297c5344150a0f17db85a69b2,14.0,2.0,1.0,0.0
+214,Commit,kamadak_exif-rs,2016-10-27 11:53:07,f99eae06caccb4540fa9e2776651280e634b8842,26.0,0.0,1.0,0.0
+215,Commit,kamadak_exif-rs,2016-10-27 11:48:38,3df4f323d76848ba5b9b5c0981297923a1d9f432,9.0,3.0,1.0,0.0
+216,Commit,kamadak_exif-rs,2016-10-26 13:46:20,0e9512472c41056c6877929aee4e177980e530a3,340.0,0.0,5.0,0.0
+217,Commit,kamadak_exif-rs,2016-10-22 11:22:06,1eb79a16140f8b123a5b9af684e290584381ee7b,58.0,0.0,2.0,0.0
+218,Commit,kamadak_exif-rs,2016-10-09 00:11:10,a0621d2ebe8d6734c22624e5de240c67256b126e,87.0,0.0,3.0,0.0
+219,Commit,kamadak_exif-rs,2016-10-06 13:36:23,e6e759af11e6ed143d04bf981069ad99865226e9,247.0,6.0,4.0,0.0
+220,Commit,kamadak_exif-rs,2016-09-04 14:31:06,a7d79b3f01af6567700837a6b5abc05d21526f48,10.0,0.0,2.0,0.0
+0,forks,kamadak_exif-rs,2017-07-07 11:45:44+00:00,,,,,
+1,forks,kamadak_exif-rs,2017-10-30 18:33:54+00:00,,,,,
+2,forks,kamadak_exif-rs,2018-04-16 19:10:08+00:00,,,,,
+3,forks,kamadak_exif-rs,2019-03-16 05:46:13+00:00,,,,,
+4,forks,kamadak_exif-rs,2019-12-03 13:56:09+00:00,,,,,
+5,forks,kamadak_exif-rs,2020-01-18 08:47:03+00:00,,,,,
+6,forks,kamadak_exif-rs,2020-01-19 07:52:20+00:00,,,,,
+7,forks,kamadak_exif-rs,2020-02-19 13:06:38+00:00,,,,,
+8,forks,kamadak_exif-rs,2020-06-15 17:09:55+00:00,,,,,
+9,forks,kamadak_exif-rs,2021-02-09 14:16:33+00:00,,,,,
+10,forks,kamadak_exif-rs,2021-03-16 11:17:27+00:00,,,,,
+11,forks,kamadak_exif-rs,2021-04-16 21:31:16+00:00,,,,,
+12,forks,kamadak_exif-rs,2021-07-27 09:35:51+00:00,,,,,
+13,forks,kamadak_exif-rs,2021-12-11 17:44:58+00:00,,,,,
+14,forks,kamadak_exif-rs,2022-01-19 07:50:33+00:00,,,,,
+15,forks,kamadak_exif-rs,2022-01-22 21:24:13+00:00,,,,,
+16,forks,kamadak_exif-rs,2022-02-07 20:58:43+00:00,,,,,
+17,forks,kamadak_exif-rs,2022-03-06 23:02:23+00:00,,,,,
+18,forks,kamadak_exif-rs,2022-03-21 05:06:22+00:00,,,,,
+19,forks,kamadak_exif-rs,2022-06-29 16:47:02+00:00,,,,,
+20,forks,kamadak_exif-rs,2022-06-30 09:26:00+00:00,,,,,
+0,issues,kamadak_exif-rs,2017-06-20 07:11:57+00:00,,,,,
+1,issues,kamadak_exif-rs,2017-07-12 13:47:59+00:00,,,,,
+2,issues,kamadak_exif-rs,2018-06-09 08:58:44+00:00,,,,,
+3,issues,kamadak_exif-rs,2018-12-12 21:15:35+00:00,,,,,
+4,issues,kamadak_exif-rs,2019-12-25 20:29:34+00:00,,,,,
+5,issues,kamadak_exif-rs,2020-01-05 12:00:18+00:00,,,,,
+6,issues,kamadak_exif-rs,2020-02-12 22:31:46+00:00,,,,,
+7,issues,kamadak_exif-rs,2020-05-16 14:06:25+00:00,,,,,
+8,issues,kamadak_exif-rs,2020-07-31 20:28:53+00:00,,,,,
+9,issues,kamadak_exif-rs,2020-09-15 22:00:47+00:00,,,,,
+10,issues,kamadak_exif-rs,2020-11-27 01:57:39+00:00,,,,,
+11,issues,kamadak_exif-rs,2020-12-31 21:20:15+00:00,,,,,
+12,issues,kamadak_exif-rs,2022-01-03 21:14:01+00:00,,,,,
+13,issues,kamadak_exif-rs,2022-04-17 04:51:08+00:00,,,,,
+14,issues,kamadak_exif-rs,2022-06-30 21:12:55+00:00,,,,,
+0,pullRequests,kamadak_exif-rs,2018-04-16 03:11:26+00:00,,,,,
+1,pullRequests,kamadak_exif-rs,2018-04-16 19:11:13+00:00,,,,,
+2,pullRequests,kamadak_exif-rs,2019-03-16 05:54:21+00:00,,,,,
+3,pullRequests,kamadak_exif-rs,2020-02-19 13:39:45+00:00,,,,,
+4,pullRequests,kamadak_exif-rs,2020-06-15 17:12:06+00:00,,,,,
+5,pullRequests,kamadak_exif-rs,2021-03-16 11:18:35+00:00,,,,,
+6,pullRequests,kamadak_exif-rs,2021-12-11 17:56:07+00:00,,,,,
+0,stargazers,kamadak_exif-rs,2017-02-27 20:15:34+00:00,,,,,
+1,stargazers,kamadak_exif-rs,2017-04-28 12:32:42+00:00,,,,,
+2,stargazers,kamadak_exif-rs,2017-05-31 16:19:07+00:00,,,,,
+3,stargazers,kamadak_exif-rs,2017-07-12 22:39:54+00:00,,,,,
+4,stargazers,kamadak_exif-rs,2017-08-18 00:29:46+00:00,,,,,
+5,stargazers,kamadak_exif-rs,2017-10-03 09:09:37+00:00,,,,,
+6,stargazers,kamadak_exif-rs,2017-10-18 22:39:34+00:00,,,,,
+7,stargazers,kamadak_exif-rs,2017-10-25 09:20:14+00:00,,,,,
+8,stargazers,kamadak_exif-rs,2018-05-10 20:48:46+00:00,,,,,
+9,stargazers,kamadak_exif-rs,2018-06-09 10:25:01+00:00,,,,,
+10,stargazers,kamadak_exif-rs,2018-06-22 19:13:33+00:00,,,,,
+11,stargazers,kamadak_exif-rs,2018-07-30 13:24:15+00:00,,,,,
+12,stargazers,kamadak_exif-rs,2018-08-03 16:08:54+00:00,,,,,
+13,stargazers,kamadak_exif-rs,2019-03-14 16:45:40+00:00,,,,,
+14,stargazers,kamadak_exif-rs,2019-04-15 19:47:14+00:00,,,,,
+15,stargazers,kamadak_exif-rs,2019-04-25 04:19:47+00:00,,,,,
+16,stargazers,kamadak_exif-rs,2019-04-30 15:28:42+00:00,,,,,
+17,stargazers,kamadak_exif-rs,2019-07-04 13:26:56+00:00,,,,,
+18,stargazers,kamadak_exif-rs,2019-07-14 14:51:33+00:00,,,,,
+19,stargazers,kamadak_exif-rs,2019-08-22 15:55:34+00:00,,,,,
+20,stargazers,kamadak_exif-rs,2019-10-02 15:29:03+00:00,,,,,
+21,stargazers,kamadak_exif-rs,2019-10-07 02:09:20+00:00,,,,,
+22,stargazers,kamadak_exif-rs,2019-10-09 12:48:03+00:00,,,,,
+23,stargazers,kamadak_exif-rs,2019-11-19 12:21:40+00:00,,,,,
+24,stargazers,kamadak_exif-rs,2019-11-24 02:35:15+00:00,,,,,
+25,stargazers,kamadak_exif-rs,2020-01-05 13:22:53+00:00,,,,,
+26,stargazers,kamadak_exif-rs,2020-01-30 16:39:03+00:00,,,,,
+27,stargazers,kamadak_exif-rs,2020-02-11 21:02:08+00:00,,,,,
+28,stargazers,kamadak_exif-rs,2020-02-23 13:46:21+00:00,,,,,
+29,stargazers,kamadak_exif-rs,2020-02-28 20:22:27+00:00,,,,,
+30,stargazers,kamadak_exif-rs,2020-03-24 15:54:09+00:00,,,,,
+31,stargazers,kamadak_exif-rs,2020-04-28 11:23:20+00:00,,,,,
+32,stargazers,kamadak_exif-rs,2020-06-14 22:59:27+00:00,,,,,
+33,stargazers,kamadak_exif-rs,2020-06-18 14:14:25+00:00,,,,,
+34,stargazers,kamadak_exif-rs,2020-06-25 04:03:21+00:00,,,,,
+35,stargazers,kamadak_exif-rs,2020-07-06 00:17:51+00:00,,,,,
+36,stargazers,kamadak_exif-rs,2020-08-13 15:33:07+00:00,,,,,
+37,stargazers,kamadak_exif-rs,2020-08-14 11:52:56+00:00,,,,,
+38,stargazers,kamadak_exif-rs,2020-10-21 18:50:38+00:00,,,,,
+39,stargazers,kamadak_exif-rs,2020-10-21 20:57:33+00:00,,,,,
+40,stargazers,kamadak_exif-rs,2020-11-12 13:38:19+00:00,,,,,
+41,stargazers,kamadak_exif-rs,2020-11-14 01:44:06+00:00,,,,,
+42,stargazers,kamadak_exif-rs,2020-11-22 10:57:55+00:00,,,,,
+43,stargazers,kamadak_exif-rs,2021-01-02 19:54:43+00:00,,,,,
+44,stargazers,kamadak_exif-rs,2021-01-03 15:52:46+00:00,,,,,
+45,stargazers,kamadak_exif-rs,2021-02-21 21:02:36+00:00,,,,,
+46,stargazers,kamadak_exif-rs,2021-03-03 06:05:23+00:00,,,,,
+47,stargazers,kamadak_exif-rs,2021-03-16 14:38:28+00:00,,,,,
+48,stargazers,kamadak_exif-rs,2021-03-17 02:32:55+00:00,,,,,
+49,stargazers,kamadak_exif-rs,2021-04-02 20:38:52+00:00,,,,,
+50,stargazers,kamadak_exif-rs,2021-04-04 01:39:52+00:00,,,,,
+51,stargazers,kamadak_exif-rs,2021-04-24 14:10:33+00:00,,,,,
+52,stargazers,kamadak_exif-rs,2021-04-24 14:50:52+00:00,,,,,
+53,stargazers,kamadak_exif-rs,2021-05-19 15:58:54+00:00,,,,,
+54,stargazers,kamadak_exif-rs,2021-06-04 21:33:43+00:00,,,,,
+55,stargazers,kamadak_exif-rs,2021-06-22 00:00:22+00:00,,,,,
+56,stargazers,kamadak_exif-rs,2021-07-03 13:45:13+00:00,,,,,
+57,stargazers,kamadak_exif-rs,2021-07-15 10:48:40+00:00,,,,,
+58,stargazers,kamadak_exif-rs,2021-07-16 10:46:50+00:00,,,,,
+59,stargazers,kamadak_exif-rs,2021-08-01 11:40:32+00:00,,,,,
+60,stargazers,kamadak_exif-rs,2021-09-06 17:24:05+00:00,,,,,
+61,stargazers,kamadak_exif-rs,2021-09-13 11:52:10+00:00,,,,,
+62,stargazers,kamadak_exif-rs,2021-10-24 21:54:19+00:00,,,,,
+63,stargazers,kamadak_exif-rs,2021-11-06 04:23:56+00:00,,,,,
+64,stargazers,kamadak_exif-rs,2021-11-18 12:16:10+00:00,,,,,
+65,stargazers,kamadak_exif-rs,2021-11-29 07:18:58+00:00,,,,,
+66,stargazers,kamadak_exif-rs,2021-12-10 00:58:18+00:00,,,,,
+67,stargazers,kamadak_exif-rs,2021-12-23 13:25:42+00:00,,,,,
+68,stargazers,kamadak_exif-rs,2021-12-28 01:07:21+00:00,,,,,
+69,stargazers,kamadak_exif-rs,2022-01-13 19:32:54+00:00,,,,,
+70,stargazers,kamadak_exif-rs,2022-01-30 22:27:53+00:00,,,,,
+71,stargazers,kamadak_exif-rs,2022-02-03 00:33:30+00:00,,,,,
+72,stargazers,kamadak_exif-rs,2022-02-12 15:40:40+00:00,,,,,
+73,stargazers,kamadak_exif-rs,2022-02-16 08:02:39+00:00,,,,,
+74,stargazers,kamadak_exif-rs,2022-03-04 03:10:31+00:00,,,,,
+75,stargazers,kamadak_exif-rs,2022-03-05 04:10:43+00:00,,,,,
+76,stargazers,kamadak_exif-rs,2022-03-06 17:57:47+00:00,,,,,
+77,stargazers,kamadak_exif-rs,2022-03-07 12:04:40+00:00,,,,,
+78,stargazers,kamadak_exif-rs,2022-03-07 12:14:07+00:00,,,,,
+79,stargazers,kamadak_exif-rs,2022-03-08 02:07:06+00:00,,,,,
+80,stargazers,kamadak_exif-rs,2022-03-08 11:09:28+00:00,,,,,
+81,stargazers,kamadak_exif-rs,2022-03-23 01:09:04+00:00,,,,,
+82,stargazers,kamadak_exif-rs,2022-04-20 19:45:07+00:00,,,,,
+83,stargazers,kamadak_exif-rs,2022-06-06 17:47:35+00:00,,,,,
+84,stargazers,kamadak_exif-rs,2022-06-18 23:15:19+00:00,,,,,
+85,stargazers,kamadak_exif-rs,2022-06-19 02:45:19+00:00,,,,,
+86,stargazers,kamadak_exif-rs,2022-07-03 21:02:34+00:00,,,,,
+87,stargazers,kamadak_exif-rs,2022-07-08 08:24:46+00:00,,,,,
