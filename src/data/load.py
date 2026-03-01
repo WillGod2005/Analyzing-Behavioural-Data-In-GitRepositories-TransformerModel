@@ -4,6 +4,7 @@ import pandas as pd
 
 #Retrieves the csvs from the data/raw folder 
 def get_csvs():
+    #When the function is called it loads all csvs from the data folderfrom the base dir
     script_dir = Path(__file__).parent.absolute()
     data_path = script_dir.parent.parent / "data" / "raw" 
     

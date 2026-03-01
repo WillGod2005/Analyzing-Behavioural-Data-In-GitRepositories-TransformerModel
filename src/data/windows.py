@@ -1,6 +1,4 @@
 import numpy as np
-from features import tokenizer
-from load import get_csvs
 
 def make_windows(type_ids, num_feats, labels, L, mode):
     #"""arrays containing windows of L size for every single possible value where x_type is an array of

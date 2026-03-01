@@ -4,6 +4,10 @@ import pandas as pd
 
 
 def tokenizer(dataframes):
+    #"""This function creates a dictionary entry per csv and turns each row into a token containing its type, label and features. I.E. How many files were
+    # Deleted, Added, Files and log_time.
+    # This function takes a dictionary of dataframes """
+    
     # Every Unique Type in a dictionary for type mapping
     types = {
         "Commit": 1,
