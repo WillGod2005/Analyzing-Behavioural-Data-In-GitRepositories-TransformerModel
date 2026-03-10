@@ -6,6 +6,7 @@ from keras.layers import BatchNormalization
 from keras.layers import Dense, LSTM, Input, Flatten, MaxPool1D
 from keras.layers import Dense, LSTM, GRU, BatchNormalization
 from keras.layers import  Convolution1D
+from keras.layers import Layer
 from keras.optimizers import SGD, Adam, RMSprop, Adagrad
 from keras import Sequential
 from keras.models import Sequential
@@ -20,6 +21,7 @@ from keras.layers import Activation
 from keras.layers import Bidirectional
 from keras import Input
 from keras.models import Model
+
 
 def lstm(xshape1, xshape2, optimizer):
     lstm = Sequential()
@@ -442,13 +444,23 @@ def conv1d(xshape1, xshape2, optimizer):
     return model1
 
 
+
+@tf.keras.utils.register_keras_serializable()
+class CenterTokenPooling(Layer):
+    def call(self, inputs):
+        center_index = tf.shape(inputs)[1] // 2
+        return inputs[:, center_index, :]
+
+    def get_config(self):
+        return super().get_config()
+
 def transformer(
     xshape1,
     xshape2,
     optimizer=None,
     d_model=64,
     num_heads=4,
-    ff_dim=128,
+    ff_dim=256,
     num_layers=2,
     dropout=0.2,
 ):
@@ -460,20 +472,23 @@ def transformer(
         Dropout,
         LayerNormalization,
         MultiHeadAttention,
-        GlobalAveragePooling1D,
         Add,
+        Lambda,
     )
     from keras.models import Model
-    from keras.optimizers import Adam
+    from keras.optimizers import AdamW
 
     inputs = Input(shape=(xshape1, xshape2))
 
+    # project raw features to model dimension
     x = Dense(d_model)(inputs)
 
+    # learned positional embeddings
     positions = tf.range(start=0, limit=xshape1, delta=1)
     pos_embed = keras.layers.Embedding(input_dim=xshape1, output_dim=d_model)(positions)
     x = x + pos_embed
 
+    # pre-norm transformer encoder blocks
     for _ in range(num_layers):
         attn_input = LayerNormalization(epsilon=1e-6)(x)
         attn_output = MultiHeadAttention(
@@ -492,7 +507,14 @@ def transformer(
         x = Add()([x, ffn_output])
 
     x = LayerNormalization(epsilon=1e-6)(x)
-    x = GlobalAveragePooling1D()(x)
+
+    # centre-token pooling
+    center_index = xshape1 // 2
+    x = CenterTokenPooling()(x)
+
+    # stronger classifier head
+    x = Dropout(dropout)(x)
+    x = Dense(128, activation="relu")(x)
     x = Dropout(dropout)(x)
     x = Dense(64, activation="relu")(x)
     x = Dropout(dropout)(x)
@@ -501,7 +523,7 @@ def transformer(
     model = Model(inputs=inputs, outputs=outputs)
     model.compile(
         loss="binary_crossentropy",
-        optimizer=Adam(learning_rate=1e-3),
+        optimizer=AdamW(learning_rate=1e-4, weight_decay=1e-4),
         metrics=["accuracy"],
     )
     return model

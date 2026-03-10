@@ -10,7 +10,7 @@ import random
 import coloredlogs
 import numpy as np
 import tensorflow as tf
-from keras.callbacks import ModelCheckpoint
+from keras.callbacks import ModelCheckpoint, EarlyStopping
 from keras.optimizers import Adam
 from matplotlib import pyplot
 from sklearn.metrics import roc_curve, auc, confusion_matrix
@@ -63,6 +63,13 @@ def train_model(
         mode="max",
     )
 
+    es = EarlyStopping(
+        monitor="val_accuracy",
+        patience=8,
+        mode="max",
+        restore_best_weights=True,
+    )
+
     verbose = 1 if logger.level < logging.CRITICAL else 0
     history = model.fit(
         X_train,
@@ -72,7 +79,7 @@ def train_model(
         shuffle=True,
         batch_size=batch_size,
         validation_data=(X_val, y_val),
-        callbacks=[mcp_save],
+        callbacks=[mcp_save, es],
     )
 
     pyplot.figure()
@@ -85,7 +92,10 @@ def train_model(
     pyplot.savefig(os.path.join("figs", f"{exp_name}_{model_name}_accuracy.png"))
     pyplot.close()
 
-    return tf.keras.models.load_model(best_model_path)
+    return tf.keras.models.load_model(
+    best_model_path,
+    custom_objects={"CenterTokenPooling": models.CenterTokenPooling},
+)
 
 
 def check_results(X_test, y_test, pred, model, exp_name, model_name, save=False):
@@ -158,7 +168,7 @@ def parse_args():
 
 
 def init():
-    seed = 42
+    seed = 555
 
     os.environ["PYTHONHASHSEED"] = str(seed)
 
