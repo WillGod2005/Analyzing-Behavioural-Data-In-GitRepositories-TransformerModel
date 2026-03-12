@@ -168,7 +168,7 @@ def parse_args():
 
 
 def init():
-    seed = 555
+    seed = 42
 
     os.environ["PYTHONHASHSEED"] = str(seed)
 

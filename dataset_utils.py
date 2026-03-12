@@ -168,7 +168,7 @@ def get_event_window(cur_repo_data, event, aggr_options, days=10, hours=10, back
         res = cur_repo_data[event[1] - backs : event[1] + backs]
 
     elif aggr_options == Aggregate.only_before:
-        res = cur_repo_data[event[1] - backs - 1 : event[1] - 1]
+        res = cur_repo_data[event[1] - backs : event[1] + 1]
 
     elif aggr_options == Aggregate.none:
         res = (

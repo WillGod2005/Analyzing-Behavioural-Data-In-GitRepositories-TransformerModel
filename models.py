@@ -454,6 +454,14 @@ class CenterTokenPooling(Layer):
     def get_config(self):
         return super().get_config()
 
+@tf.keras.utils.register_keras_serializable()
+class LastTokenPooling(Layer):
+    def call(self, inputs):
+        return inputs[:, -1, :]
+
+    def get_config(self):
+        return super().get_config()
+
 def transformer(
     xshape1,
     xshape2,
@@ -463,6 +471,7 @@ def transformer(
     ff_dim=256,
     num_layers=2,
     dropout=0.2,
+    pooling = "last"
 ):
     import tensorflow as tf
     from tensorflow import keras
@@ -509,8 +518,12 @@ def transformer(
     x = LayerNormalization(epsilon=1e-6)(x)
 
     # centre-token pooling
-    center_index = xshape1 // 2
-    x = CenterTokenPooling()(x)
+    if pooling == "center":
+        x = CenterTokenPooling()(x)
+    elif pooling == "last":
+        x = LastTokenPooling()(x)
+    else:
+        raise ValueError(f"Unsupported pooling mode: {pooling}")
 
     # stronger classifier head
     x = Dropout(dropout)(x)
