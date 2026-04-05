@@ -1,28 +1,81 @@
-*.pyc
-*.bak
-.ipynb_checkpoints/*
-*.csv
-/.idea/*
-/figs/*
-/found_vulns.docx
-/models/*
-/output/*
-/output.zip
-/results/*
-*.ipynb
-/ready_data/*
-.vscode/launch.json
-false_positives/*
-notes.md
-run.bat
-tuner1/*
-tuner2/*
-tuner3/*
-tuner4/*
-2/*
-hypertune/*
-data_collection/*
-venv/
-.venv/
+# Python
 __pycache__/
 *.pyc
+*.pyo
+*.egg-info/
+venv/
+.venv/
+
+# IDE
+.idea/
+.vscode/
+.ruff_cache/
+
+# Trained models (large, ~1.5GB)
+/models/
+
+# Processed datasets (large, ~11GB+)
+/ready_data/
+/Test_data/
+
+# Generated figures/plots (regenerable from scripts)
+/figs/
+/figures/
+
+# Improvements notes
+improvements.txt
+
+# Database files
+*.db
+
+# Logs (generated output, multi-GB)
+*_log.txt
+*_log2.txt
+scrape_log.txt
+
+# Result text files (generated output)
+/results/
+results.txt
+cvefixes_evaluation_results.txt
+cvefixes_window_results.txt
+
+# Pickled files
+*.pkl
+
+# Jupyter notebooks
+*.ipynb
+.ipynb_checkpoints/
+
+# Reference PDFs (not your code)
+*.pdf
+
+# Data collection (large, ~12GB scraped JSON)
+/data_collection/
+
+# Original/reference code (not yours)
+/original code/
+
+# Guide/overview docs (working notes, not code)
+/guide/
+/overview/
+
+# Dissertation writeup (separate from code)
+/dissertation_doc/
+
+# Misc generated/old
+/output/
+/output.zip
+/found_vulns.docx
+false_positives/
+notes.md
+run.bat
+tuner*/
+hypertune/
+2/
+last_run.log
+*.bak
+*.csv
+
+# Claude config (project-specific, not code)
+CLAUDE.md
+.claude/
