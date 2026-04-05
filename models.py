@@ -4,11 +4,11 @@ models.py — Neural network architecture definitions for security patch detecti
 This module defines all model architectures used in the project:
 
 PRIMARY MODELS (used in experiments):
-  - transformer():  Pre-norm Transformer Encoder (~180K params) — our main
+  - transformer():  Pre-norm Transformer Encoder (~147K params) — our main
                     contribution. Uses self-attention over event windows to
                     detect behavioral patterns around security patches.
-  - conv1d():       Farhi's original Conv1D baseline architecture. Kept
-                    unchanged for fair comparison.
+  - conv1d():       Farhi's original Conv1D baseline architecture with added
+                    class weights and reduce-on-plateau scheduling in training.
 
 ALTERNATIVE MODELS (available but not primary):
   - lstm, gru, bilstm, bigru:  Recurrent architectures
@@ -407,9 +407,9 @@ def conv1d(xshape1, xshape2, optimizer):
         - steps_per_execution=100 — reduces Python overhead by running
           100 training steps per graph execution call
 
-    This architecture is kept UNCHANGED from Farhi's code so that any
-    performance differences in our experiments are due to the transformer
-    architecture and new features, not baseline modifications.
+    The model architecture is unchanged from Farhi's code.  Training
+    procedure improvements (class weights, reduce-on-plateau LR scheduling,
+    early stopping) are applied in train.py.
     """
     model1 = Sequential()
     DROPOUT = 0.3
@@ -808,7 +808,7 @@ def transformer(
         temporal_focus:  If True and columns provided, use temporal-focus variant.
 
     Returns:
-        Compiled Keras Model ready for training (~180K parameters).
+        Compiled Keras Model ready for training (~147K parameters).
     """
     inputs = Input(shape=(xshape1, xshape2))
 

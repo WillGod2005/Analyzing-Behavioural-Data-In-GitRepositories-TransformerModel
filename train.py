@@ -436,7 +436,7 @@ def train_model(
     # Learning rate schedule differs by model type
     if is_transformer:
         # Cosine warmup schedule: 3-epoch linear warmup, then cosine decay
-        # peak_lr=1e-4 is conservative for the small ~180K param transformer
+        # peak_lr=1e-4 is conservative for the small ~147K param transformer
         steps_per_epoch = max(1, len(X_train) // batch_size)
         total_steps = steps_per_epoch * epochs
         warmup_steps = steps_per_epoch * 3  # 3 epochs of warmup
