@@ -29,9 +29,11 @@ improvements.txt
 *.db
 
 # Logs (generated output, multi-GB)
+/logs/
 *_log.txt
 *_log2.txt
 scrape_log.txt
+*.log
 
 # Result text files (generated output)
 /results/
@@ -54,6 +56,7 @@ cvefixes_window_results.txt
 
 # Original/reference code (not yours)
 /original code/
+/original_code/
 
 # Guide/overview docs (working notes, not code)
 /guide/

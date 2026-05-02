@@ -601,8 +601,15 @@ def check_results(X_test, y_test, pred, exp_name, model_name, save=False):
     max_f1, f1_thresh = find_best_f1(pred, used_y_test)[:2]
     max_acc, acc_thresh, _ = find_best_accuracy(pred, used_y_test)
 
+    try:
+        from sklearn.metrics import roc_auc_score
+        auc_val = float(roc_auc_score(used_y_test, pred))
+    except Exception:
+        auc_val = float("nan")
+
     logger.critical(f"F1 - {max_f1}, {f1_thresh}")
     logger.critical(f"Acc - {max_acc}, {acc_thresh}")
+    logger.critical(f"AUC - {auc_val}")
 
     if save:
         # Write detailed results to text file

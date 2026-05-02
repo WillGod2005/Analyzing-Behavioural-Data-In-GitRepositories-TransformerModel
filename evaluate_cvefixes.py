@@ -499,6 +499,9 @@ def main():
                         help="Use enriched CSVs from cvefixes_test/enriched/")
     parser.add_argument("--realistic", action="store_true",
                         help="Test on ALL commits (natural imbalance, no 1:1 sampling)")
+    parser.add_argument("--exclude-train-overlap", action="store_true",
+                        help="Drop CVEfixes test repos whose flat name (case-insensitive) "
+                             "matches any training repo CSV in data_collection/gh_cve_proccessed/.")
     args = parser.parse_args()
 
     # Select seeds: all 5 experimental seeds or just the specified one
@@ -544,6 +547,63 @@ def main():
         if f.endswith(".csv")
     ])
     print(f"Found {len(csv_files)} test repo CSVs")
+
+    # Optional: exclude any CVEfixes test repo that overlaps with training, where
+    # overlap is detected by either (a) case-insensitive name match (catches
+    # casing-only GitHub renames such as 'facebookresearch_ParlAI' vs training
+    # 'facebookresearch_parlai'), or (b) commit-hash intersection (catches owner
+    # renames such as 'util-linux_util-linux' vs training 'karelzak_util-linux'
+    # — same repo, different owner). The hash check uses a 1% overlap threshold
+    # against a sample of 10k training hashes to keep memory bounded.
+    if args.exclude_train_overlap:
+        import csv as _csv
+        train_dir = os.path.join("data_collection", "gh_cve_proccessed")
+        train_files = [f for f in os.listdir(train_dir) if f.endswith(".csv")]
+        train_lc = {f[:-4].lower() for f in train_files}
+
+        # Build training hash set (any commit hash from any training CSV).
+        print("Building training-hash index for owner-rename detection...")
+        train_hashes = set()
+        for tfile in train_files:
+            with open(os.path.join(train_dir, tfile), errors="ignore") as fh:
+                for row in _csv.DictReader(fh):
+                    h = (row.get("Hash", "") or row.get("hash", "")).strip()
+                    if h and len(h) >= 7:
+                        train_hashes.add(h)
+        print(f"  Indexed {len(train_hashes)} distinct training commit hashes")
+
+        before = len(csv_files)
+        kept = []
+        dropped_name = 0
+        dropped_hash = []
+        HASH_OVERLAP_THRESHOLD = 0.01  # 1% of test hashes also in training => same repo
+        for p in csv_files:
+            name = os.path.basename(p)[:-4]
+            if name.lower() in train_lc:
+                dropped_name += 1
+                continue
+            # Check commit-hash overlap with training
+            test_hashes = set()
+            with open(p, errors="ignore") as fh:
+                for row in _csv.DictReader(fh):
+                    h = (row.get("Hash", "") or row.get("hash", "")).strip()
+                    if h and len(h) >= 7:
+                        test_hashes.add(h)
+            if test_hashes:
+                ov = len(test_hashes & train_hashes) / len(test_hashes)
+                if ov >= HASH_OVERLAP_THRESHOLD:
+                    dropped_hash.append((name, ov, len(test_hashes & train_hashes)))
+                    continue
+            kept.append(p)
+        csv_files = kept
+        print(f"Excluded {dropped_name} repos by case-insensitive name match")
+        if dropped_hash:
+            print(f"Excluded {len(dropped_hash)} repos by hash overlap >= "
+                  f"{HASH_OVERLAP_THRESHOLD:.0%} (owner-rename detection):")
+            for n, ov, cnt in dropped_hash:
+                print(f"    {n}: {ov:.1%} ({cnt} commit hashes shared with training)")
+        print(f"Total excluded: {before - len(csv_files)}. "
+              f"Remaining: {len(csv_files)} truly-unseen repos.")
 
     # ---- Realistic mode: per-repo processing ----
     if args.realistic:

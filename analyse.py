@@ -1179,9 +1179,11 @@ def main():
     )
     repos, num_vulns = pad_and_fix(repos)
 
-    # Split: 80% train+val, 10%+10% test (by vuln count, respecting repo boundaries)
+    # Split: 80% train + 10% val + 10% test (matches train.py: GroupKFold runs on
+    # train+val pool of 90%, the remaining 10% is held out as the test set).
     train_size = int(0.8 * num_vulns)
-    train_repos, test_repos, _ = split_repos(repos, train_size)
+    validation_size = int(0.1 * num_vulns)
+    train_repos, test_repos, _ = split_repos(repos, train_size + validation_size)
     X_all, y_all = split_into_x_and_y(train_repos)
     X_test, y_test = split_into_x_and_y(test_repos)
     groups = build_group_labels(train_repos)
