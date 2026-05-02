@@ -121,7 +121,7 @@ bash run_comparison.sh
 bash run_comparison_extra_seeds.sh
 ```
 
-Total wall time on a single RTX 3060 Laptop: ~25–35 hours. Each individual run takes 15–30 minutes.
+Total wall time on a single RTX 3060 Laptop: ~25–35 hours. Each individual training run takes 15–30 minutes. Each full run including dataset prep takes ~1 hour 20 minutes
 
 ### 3. Statistical analysis and figures
 
