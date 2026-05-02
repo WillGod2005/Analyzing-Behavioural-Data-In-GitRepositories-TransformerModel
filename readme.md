@@ -77,23 +77,23 @@ The CVEfixes external validation set is derived from [CVEfixes v1.0.7](https://z
 
 ```bash
 # Transformer, symmetric window B=20, 10-fold GroupKFold, seed 42
-python train.py -a before_cve --model transformer -k 10 --metadata -B 20 -s 42
+python train.py -a before --model transformer -k 10 --metadata -B 20 -s 42
 
 # Conv1D baseline, same configuration
-python train.py -a before_cve --model conv1d -k 10 --metadata -B 20 -s 42
+python train.py -a before --model conv1d -k 10 --metadata -B 20 -s 42
 
 # Causal (pre-commit only) window — deployment-realistic
 python train.py -a only_before --model transformer -k 10 --metadata -B 20 -s 42
 
 # Different seed
-python train.py -a before_cve --model transformer -k 10 --metadata -B 20 -s 123
+python train.py -a before --model transformer -k 10 --metadata -B 20 -s 123
 ```
 
 **Key arguments** (`python train.py --help` for full list):
 
 | Flag | Description | Default |
 |------|-------------|---------|
-| `-a` | Aggregation/window mode: `before_cve` (symmetric) or `only_before` (causal) | required |
+| `-a` | Aggregation/window mode: `before` (symmetric) or `only_before` (causal) | required |
 | `--model` | `transformer` or `conv1d` | required |
 | `-k` | Number of GroupKFold folds | 10 |
 | `-B` / `--backs` | Window size (events on each side, or before, depending on `-a`) | 10 |
@@ -129,16 +129,16 @@ After all 80 runs are saved under `results/`:
 
 ```bash
 # Full statistical suite (paired t-test, Wilcoxon, bootstrap CI, Cohen's d, ablation, permutation importance)
-python analyse.py -a before_cve --model transformer --metadata -B 20 -s 42
+python analyse.py -a before --model transformer --metadata -B 20 -s 42
 
 # Confusion matrix figures (single panels + grouped grids)
 python generate_confusion_matrices.py
 
 # Per-head attention specialisation (requires saved transformer model)
-python generate_attention_perhead.py -a before_cve -B 20 --metadata -s 42
+python generate_attention_perhead.py -a before -B 20 --metadata -s 42
 
 # Aggregated attention heatmaps
-python generate_attention_heatmap.py -a before_cve -B 20 --metadata -s 42
+python generate_attention_heatmap.py -a before -B 20 --metadata -s 42
 
 # Standalone paired-fold significance from saved results
 python compute_paired_stats.py
@@ -158,13 +158,13 @@ python scrape_cvefixes_repos.py
 python enrich_cvefixes_events.py
 
 # Step 4a: evaluate on the full 212-repository near-domain set (1:1 balanced sampling)
-python evaluate_cvefixes.py -a before_cve --model transformer --backs 20 --meta --enriched --seed 42
+python evaluate_cvefixes.py -a before --model transformer --backs 20 --meta --enriched --seed 42
 
 # Step 4b: evaluate on the truly-unseen subset (29 repos, no name match + <1% commit-hash overlap with training)
-python evaluate_cvefixes.py -a before_cve --model transformer --backs 20 --meta --enriched --seed 42 --exclude-train-overlap
+python evaluate_cvefixes.py -a before --model transformer --backs 20 --meta --enriched --seed 42 --exclude-train-overlap
 
 # Step 4c: realistic mode — natural class imbalance (test on ALL commits per repo, no benign subsampling)
-python evaluate_cvefixes.py -a before_cve --model transformer --backs 20 --meta --enriched --seed 42 --realistic
+python evaluate_cvefixes.py -a before --model transformer --backs 20 --meta --enriched --seed 42 --realistic
 ```
 
 Sweep across all 16 (architecture × window × mode) cells on the truly-unseen subset:
@@ -195,12 +195,12 @@ The main reported numbers correspond to specific commands:
 
 | Result | Command |
 |--------|---------|
-| Best held-out: 87.0% / 87.6% F1 (seed 42, $B=20$ sym, transformer ensemble) | `python train.py -a before_cve --model transformer -k 10 --metadata -B 20 -s 42` |
+| Best held-out: 87.0% / 87.6% F1 (seed 42, $B=20$ sym, transformer ensemble) | `python train.py -a before --model transformer -k 10 --metadata -B 20 -s 42` |
 | Conv1D collapse at causal $B=5$ (0.694 ± 0.024) | `python train.py -a only_before --model conv1d -k 10 --metadata -B 5 -s 42` (and other seeds via `run_comparison_extra_seeds.sh`) |
-| Statistical significance ($p=0.002$, $d=1.36$) | `python analyse.py -a before_cve --model transformer --metadata -B 20 -s 42` |
-| CVEfixes near-domain 88.4% / 89.3% (seed 42, $B=20$ sym) | `python evaluate_cvefixes.py -a before_cve --model transformer --backs 20 --meta --enriched --seed 42` |
+| Statistical significance ($p=0.002$, $d=1.36$) | `python analyse.py -a before --model transformer --metadata -B 20 -s 42` |
+| CVEfixes near-domain 88.4% / 89.3% (seed 42, $B=20$ sym) | `python evaluate_cvefixes.py -a before --model transformer --backs 20 --meta --enriched --seed 42` |
 | Truly-unseen causal $B=20$ headline (90.7% / 91.4% / 97.4%) | `python evaluate_cvefixes.py -a only_before --model transformer --backs 20 --meta --enriched --seed 42 --exclude-train-overlap` |
-| Natural-imbalance ROC-AUC at $B=20$ sym | `python evaluate_cvefixes.py -a before_cve --model transformer --backs 20 --meta --enriched --seed 42 --realistic` |
+| Natural-imbalance ROC-AUC at $B=20$ sym | `python evaluate_cvefixes.py -a before --model transformer --backs 20 --meta --enriched --seed 42 --realistic` |
 
 ## Citation
 
