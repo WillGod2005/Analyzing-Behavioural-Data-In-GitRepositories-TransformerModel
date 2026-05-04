@@ -71,6 +71,29 @@ Place the per-repository CSVs under `data_collection/gh_cve_proccessed/`. Reposi
 
 The CVEfixes external validation set is derived from [CVEfixes v1.0.7](https://zenodo.org/record/7029359) (Bhandari et al., 2021). The `convert_cvefixes.py → scrape_cvefixes_repos.py → enrich_cvefixes_events.py` pipeline produces enriched CSVs in `data_collection/cvefixes_test/enriched/`.
 
+### Pre-built artefacts (GitHub Release)
+
+To skip the multi-hour scrape and training steps, download the dissertation's actual scraped data and trained model weights from the [`data-v1` release](https://github.com/WillGod2005/Analyzing-Behavioural-Data-In-GitRepositories-TransformerModel/releases/tag/data-v1):
+
+| Asset | Size | Extract to |
+|---|---:|---|
+| `datasets.zip` | 24 MB | `data_collection/datasets/` |
+| `cvefixes_test.zip` | 158 MB | `data_collection/cvefixes_test/` |
+| `graphql.zip` | 173 MB | `data_collection/graphql/` |
+| `json_commits.zip` | 445 MB | `data_collection/json_commits/` |
+| `models.zip` | 1.2 GB | `models/` |
+
+Together with the upstream Kaggle CSVs and the CVEfixes Zenodo download, these assets reproduce every number in the dissertation without re-running GitHub API scrapes or the 25-hour training sweep. Quick setup:
+
+```bash
+gh release download data-v1 --repo WillGod2005/Analyzing-Behavioural-Data-In-GitRepositories-TransformerModel
+unzip datasets.zip      -d data_collection/
+unzip cvefixes_test.zip -d data_collection/
+unzip graphql.zip       -d data_collection/
+unzip json_commits.zip  -d data_collection/
+unzip models.zip
+```
+
 ## Usage
 
 ### 1. Train a single model
