@@ -52,10 +52,9 @@ cd SecurityPatchDetection
 python3.12 -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
-pip install tensorflow coloredlogs
 ```
 
-Tested with Python 3.12 and TensorFlow 2.16+. GPU recommended (the dissertation experiments used an NVIDIA RTX 3060 Laptop with 6 GB VRAM); CPU-only runs work but are 10–20× slower.
+Tested with Python 3.12 and TensorFlow 2.20.0 (the exact pinned versions in `requirements.txt`). GPU recommended (the dissertation experiments used an NVIDIA RTX 3060 Laptop with 6 GB VRAM); CPU-only runs work but are 10–20× slower.
 
 ### Determinism
 
