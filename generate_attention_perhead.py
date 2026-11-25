@@ -13,13 +13,13 @@ sys.path.insert(0, '.')
 from models import CenterTokenPooling, LastTokenPooling, PaddingMask
 from dataset_utils import extract_dataset, pad_and_fix, split_repos, split_into_x_and_y, Aggregate
 
-MODEL_PATH = "models/Aggregate.before_cve_R1_B20_meta/transformer.keras"
+MODEL_PATH = "models/Aggregate.before_cve_R1_B20_meta_s999/transformer.keras"
 model = tf.keras.models.load_model(MODEL_PATH, custom_objects={
     'CenterTokenPooling': CenterTokenPooling, 'LastTokenPooling': LastTokenPooling, 'PaddingMask': PaddingMask,
 })
 seq_len = model.input_shape[1]
 
-np.random.seed(42); tf.random.set_seed(42); random.seed(42); os.environ['PYTHONHASHSEED']='42'
+np.random.seed(999); tf.random.set_seed(999); random.seed(999); os.environ['PYTHONHASHSEED']='999'
 all_repos, _, columns = extract_dataset(aggr_options=Aggregate.before_cve, backs=20, metadata=True, cache=True)
 all_repos, num_vulns = pad_and_fix(all_repos)
 _, test_repos, _ = split_repos(all_repos, int(0.8*num_vulns)+int(0.1*num_vulns))
@@ -86,7 +86,7 @@ for h in range(num_heads):
         ax_bot.set_ylabel('Query position')
     plt.colorbar(im2, ax=ax_bot, fraction=0.046, pad=0.04)
 
-plt.suptitle('Per-Head Attention Patterns (Layer 1, B=20 Symmetric, Seed 42)\n'
+plt.suptitle('Per-Head Attention Patterns (Layer 1, B=20 Symmetric, Seed 999)\n'
              'Top: Vulnerable samples | Bottom: Difference (Vulnerable − Benign, red = more attention for vulnerable)',
              fontsize=13, y=1.01)
 plt.tight_layout()

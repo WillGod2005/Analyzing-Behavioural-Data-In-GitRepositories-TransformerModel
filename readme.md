@@ -13,6 +13,8 @@ Security patches are frequently committed without public disclosure, leaving dow
 - External validation on 212 CVEfixes repositories (88.4% / 89.3% F1, seed 42, $B=20$ symmetric near-domain) and on a 29-repository truly-unseen subset (90.7% accuracy / 91.4% F1 / 97.4% recall at causal $B=20$)
 - 19 methodological corrections to the inherited codebase, most notably replacing standard k-fold with repository-grouped GroupKFold (k=10), which removed ~6 percentage points of leakage-inflated accuracy
 
+> **Note on the figures above.** They are the original dissertation results, where the decision threshold was chosen by sweeping on the test labels. The code now also supports a leakage-free protocol (threshold chosen on validation data only, full 10-fold ensemble on the external set); see [Leakage-free evaluation](#leakage-free-evaluation).
+
 ## Project Structure
 
 ```
@@ -33,6 +35,12 @@ Security patches are frequently committed without public disclosure, leaving dow
 ├── scrape_cvefixes_repos.py        # Step 2: scrape GitHub events for CVEfixes repos
 ├── enrich_cvefixes_events.py       # Step 3: enrich CVEfixes CSVs with additional event types via GraphQL
 ├── evaluate_cvefixes.py            # Step 4: evaluate trained models on CVEfixes (balanced + realistic modes)
+│
+├── leakage_free_eval.py            # Threshold chosen on validation predictions, applied to test
+├── model_outputs.py                # Pre-sigmoid logits (avoids float32 ties at probability 1.0)
+├── operational_metrics.py          # Precision at fixed alert budgets under natural class imbalance
+├── provenance.py                   # Recovers repo, commit hash and event type for each model input row
+├── ablation.py                     # Removes a named feature group (GraphQL / derived temporal / both)
 │
 ├── run_comparison.sh               # Seed 42: 4 windows × 2 modes × 2 models = 16 training runs
 ├── run_comparison_extra_seeds.sh   # Repeat across seeds 123, 7, 256, 999
@@ -127,7 +135,7 @@ bash run_cvefixes_windows.sh
 
 **Attention figures (load saved weights, hardcoded paths):**
 
-`generate_attention_perhead.py` and `generate_attention_heatmap.py` take no CLI arguments — they hardcode `models/Aggregate.before_cve_R1_B20_meta/transformer.keras` (seed 42, B=20, symmetric, with metadata). Edit the `MODEL_PATH` constant at the top of each file to point at a different config.
+`generate_attention_perhead.py` and `generate_attention_heatmap.py` take no CLI arguments. They hardcode a model path (`generate_attention_perhead.py` uses `models/Aggregate.before_cve_R1_B20_meta_s999/transformer.keras`, seed 999; `generate_attention_heatmap.py` uses the seed-42 folder). Edit the `MODEL_PATH` constant at the top of each file to point at a different config.
 
 ```bash
 python generate_attention_perhead.py
@@ -281,6 +289,37 @@ The main reported numbers correspond to specific commands:
 | CVEfixes near-domain 88.4% / 89.3% (seed 42, $B=20$ sym) | `python evaluate_cvefixes.py -a before --model transformer --backs 20 --meta --enriched --seed 42` |
 | Truly-unseen causal $B=20$ headline (90.7% / 91.4% / 97.4%) | `python evaluate_cvefixes.py -a only_before --model transformer --backs 20 --meta --enriched --seed 42 --exclude-train-overlap` |
 | Natural-imbalance ROC-AUC at $B=20$ sym | `python evaluate_cvefixes.py -a before --model transformer --backs 20 --meta --enriched --seed 42 --realistic` |
+
+## Leakage-free evaluation
+
+In the original pipeline, `train.py` reported accuracy and F1 at the threshold that scored best on the test labels, which is optimistically biased. The current code keeps those numbers for comparison but also reports a leakage-free result:
+
+- `train.py` pools the validation predictions of all 10 folds, picks the threshold `tau_val` on them (`leakage_free_eval.py`), applies it to the test ensemble, and prints a `[LEAKAGE-FREE]` line. Scores, labels and `tau_val` are saved to `results/preds_<exp>_<model>.npz`. Every fold model is kept in `models/<exp>/<model>_folds/fold_{0..9}.keras`.
+- `evaluate_cvefixes.py --tau-from-npz results/preds_<exp>_<model>.npz` scores the external set with the 10-fold ensemble at that same threshold, so nothing is tuned on external labels. `--save-preds` writes the external scores and labels to an `.npz`.
+- `run_cvefixes_windows.sh` and `run_unseen_sweep.sh` use this protocol and write to `rerun_logs/external/`.
+
+Further options used in the final runs:
+
+| Script | Flag | Description |
+|--------|------|-------------|
+| `train.py` | `--benign-commit-only --comment commitonly` | Draw benign targets from Commit events only, so both classes are commits (event-type matched) |
+| `evaluate_cvefixes.py` | `--benign-commit-only --model-comment commitonly` | The same for the external set; must be paired with Commit-only models |
+| `train.py` | `--model gru` / `--model bilstm` | Recurrent baselines |
+| `train.py` | `--ablate {no_new,no_graphql,no_temporal} --columns-file <file>` | Feature-group ablation (`ablation.py`); needs a verified column list for the cache |
+| `evaluate_cvefixes.py` | `--sample-seed N` | Seed for the per-repository benign sample on the external set |
+| `evaluate_cvefixes.py` | `--realistic --pad-batches --reload-every N` | Full-corpus scoring with bounded GPU memory; scores are unchanged |
+
+Example (Transformer, causal, B=20, no metadata, event-type matched):
+
+```bash
+python train.py -a only_before --model transformer -k 10 -b 20 --seed 42 \
+    --benign-commit-only --comment commitonly
+python evaluate_cvefixes.py -a only_before --model transformer --backs 20 --enriched --seed 42 \
+    --exclude-train-overlap --benign-commit-only --model-comment commitonly \
+    --tau-from-npz results/preds_Aggregate.only_before_R1_B20_commitonly_transformer.npz
+```
+
+The final runs used TensorFlow 2.21.0 / Keras 3.14.1. `requirements.txt` still pins the TensorFlow 2.20.0 used for the original dissertation runs.
 
 ## Citation
 

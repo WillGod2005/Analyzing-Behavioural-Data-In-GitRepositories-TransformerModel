@@ -43,6 +43,7 @@ import sys
 import logging
 import math
 import random
+import json
 
 import coloredlogs
 import numpy as np
@@ -61,6 +62,8 @@ from dataset_utils import (
     split_into_x_and_y,
 )
 from helper import find_best_accuracy, find_best_f1, EnumAction, safe_mkdir
+from model_outputs import predict_logits          # RUNBOOK_v2 s3: pre-sigmoid logits
+from provenance import recover, repo_details       # RUNBOOK_v2 s3: repo + hash per row
 
 logger = logging.getLogger(__name__)
 coloredlogs.install(fmt="%(asctime)s %(levelname)s %(message)s")
@@ -567,6 +570,7 @@ def train_model(
             "GatherFeatures": models.GatherFeatures,
             "ExtractStatic": models.ExtractStatic,
         },
+        compile=False
     )
 
 
@@ -574,7 +578,7 @@ def train_model(
 # check_results — Evaluation and reporting
 # =============================================================================
 
-def check_results(X_test, y_test, pred, exp_name, model_name, save=False):
+def check_results(X_test, y_test, pred, exp_name, model_name, save=True):
     """Evaluate predictions via threshold sweep and optionally save results.
 
     Uses find_best_f1() and find_best_accuracy() to sweep 100 thresholds
@@ -688,6 +692,8 @@ def parse_args():
     parser.add_argument("-m", "--model", action="store", type=str, default="conv1d")
     parser.add_argument("-k", "--kfold", type=int, default=10)
     parser.add_argument("--comment", action="store", type=str, default="")
+    parser.add_argument("--benign-commit-only", action="store_true",
+                        help="rerun_v3: draw benign targets only from Commit events (needs 'commitonly' in --comment)")
     parser.add_argument("--batch", type=int, default=32)
     parser.add_argument("--metadata", action="store_true")
     parser.add_argument("--data-location", action="store", default="data_collection")
@@ -750,6 +756,18 @@ def parse_args():
         type=int,
         default=42,
         help="random seed for reproducibility (default: 42)",
+    )
+    # RUNBOOK_v2 Task 3 ablation (ablation.py). Off by default: without it nothing below changes.
+    parser.add_argument(
+        "--ablate",
+        choices=["no_new", "no_graphql", "no_temporal"],
+        default=None,
+        help="remove a feature group after loading (needs --columns-file); outputs get an _ablate-<group> suffix",
+    )
+    parser.add_argument(
+        "--columns-file",
+        default=None,
+        help="VERIFIED column list for this cache (runs_v2/03_feature_check/reconstruct_and_verify_columns.py)",
     )
     return parser.parse_args()
 
@@ -856,11 +874,23 @@ def main():
         comment=comment,
         data_location=args.data_location,
         cache_location=args.cache_location,
+        benign_commit_only=args.benign_commit_only,
     )
 
     # ---- Step 2: Global padding ----
     # Pad all repos' windows to the same sequence length across the dataset
     all_repos, num_of_vulns = pad_and_fix(all_repos)
+
+    # RUNBOOK_v2 Task 3 ablation: remove one feature group (no RNG use, so the split is unchanged).
+    if args.ablate:
+        from ablation import read_verified_columns, drop_feature_group
+        if not args.columns_file:
+            raise SystemExit("--ablate needs --columns-file")
+        verified = read_verified_columns(args.columns_file, os.path.join(args.cache_location, exp_name))
+        kept = drop_feature_group(all_repos, args.ablate, verified)
+        logger.critical(f"[ABLATION] {args.ablate}: removed {len(verified) - len(kept)} of {len(verified)} "
+                        f"features, {len(kept)} kept (columns from {args.columns_file})")
+        exp_name = f"{exp_name}_ablate-{args.ablate}"
 
     # ---- Step 3: Train/val/test split by vuln count ----
     # 80% train, 10% validation, 10% test (measured by vuln sample count)
@@ -877,6 +907,10 @@ def main():
     X_all, y_all = split_into_x_and_y(train_and_val_repos)
     # Build group labels so GroupKFold keeps each repo in one fold only
     groups = build_group_labels(train_and_val_repos)
+    # RUNBOOK_v2 s3: provenance tuples aligned row-for-row with X_all / y_all
+    details_all = repo_details(train_and_val_repos)
+    if len(details_all) != len(y_all):
+        raise RuntimeError(f"provenance rows {len(details_all)} != samples {len(y_all)}")
 
     # ---- Step 4: GroupKFold cross-validation ----
     # Limit folds to available repos (if fewer repos than k)
@@ -887,6 +921,12 @@ def main():
     best_val_accuracy = 0
     fold_models = []       # All fold models for ensemble
     fold_accuracies = []   # Val accuracy per fold
+    val_pred_pool = []     # ADD (leakage-free patch): pooled val preds across folds
+    val_y_pool = []        # ADD (leakage-free patch): pooled val labels across folds
+    val_fold_pool = []     # RUNBOOK_v2 s3: fold index (0-9) for every pooled val row
+    val_idx_pool = []      # RUNBOOK_v2 s3: X_all row index for every pooled val row
+    fold_model_dir = os.path.join("models", exp_name, f"{args.model}_folds")
+    os.makedirs(fold_model_dir, exist_ok=True)
     fold = 0
 
     for train_idx, val_idx in gkf.split(X_all, y_all, groups):
@@ -920,16 +960,25 @@ def main():
         )
 
         fold_models.append(model)
+        # RUNBOOK_v2 s3: keep every fold model (not only the last checkpoint)
+        model.save(os.path.join(fold_model_dir, f"fold_{fold - 1}.keras"))
 
         # Evaluate this fold's model on its validation set
         pred = model.predict(X_val, verbose=0).reshape(-1)
         acc = check_results(X_val, y_val, pred, exp_name, args.model)
         fold_accuracies.append(acc)
+        val_pred_pool.append(pred)              # ADD (leakage-free patch)
+        val_y_pool.append(np.asarray(y_val))    # ADD (leakage-free patch)
+        val_fold_pool.append(np.full(len(val_idx), fold - 1, dtype=np.int64))  # RUNBOOK_v2 s3
+        val_idx_pool.append(np.asarray(val_idx))                                # RUNBOOK_v2 s3
 
         # Track the best single model across all folds
         if acc > best_val_accuracy:
             best_model = model
             best_val_accuracy = acc
+    
+    with open(f"fold_accuracies_{exp_name}_{args.model}_{args.aggr.name}.json", "w") as f:
+        json.dump(fold_accuracies, f)
 
     if best_model is None:
         raise RuntimeError("No model was successfully trained.")
@@ -939,22 +988,81 @@ def main():
 
     # Ensemble prediction: average predictions from ALL k fold models.
     # This reduces variance and typically outperforms any single model.
+    # (Accumulation kept exactly as before so ensemble_pred is bit-identical;
+    #  RUNBOOK_v2 s3 additionally keeps each fold's probabilities and logits.)
     ensemble_pred = np.zeros(len(y_test), dtype=np.float32)
+    test_pred_folds = []
+    test_logit_folds = []
     for m in fold_models:
-        ensemble_pred += m.predict(X_test, verbose=0).reshape(-1)
+        fold_pred = m.predict(X_test, verbose=0).reshape(-1)
+        ensemble_pred += fold_pred
+        test_pred_folds.append(fold_pred)
+        test_logit_folds.append(predict_logits(m, X_test))
     ensemble_pred /= len(fold_models)
+    test_pred_folds = np.stack(test_pred_folds)              # (n_folds, n_test)
+    test_logit = np.stack(test_logit_folds).mean(axis=0)     # ensemble mean logit
 
     # Report both single-best and ensemble results
     logging.critical(f"Best val accuracy: {best_val_accuracy}")
 
     # Single best model evaluation (the model with highest fold val accuracy)
     pred_single = best_model.predict(X_test, verbose=0).reshape(-1)
-    acc_single = check_results(X_test, y_test, pred_single, exp_name, args.model)
-    logging.critical(f"Single best test accuracy: {acc_single}")
 
-    # Ensemble evaluation (save=True writes results file and ROC plot)
+    # ---- LEAKAGE-FREE PATCH ----
+    # (os and numpy already imported at module scope; do NOT re-import here —
+    # a function-scope `import` makes the name local for the entire function
+    # and shadows the module-level binding earlier in the function body.)
+    from leakage_free_eval import leakage_free_report
+    # OLD, biased, kept only for transparency (threshold swept on test):
+    acc_single = check_results(X_test, y_test, pred_single, exp_name, args.model)
+    logging.critical(f"[OPTIMISTIC, threshold-on-test] single best acc: {acc_single}")
+
+    # CORRECTED: threshold selected on pooled validation, applied to test.
+    val_pred_all = np.concatenate(val_pred_pool)
+    val_y_all = np.concatenate(val_y_pool)
+    rep = leakage_free_report(val_pred_all, val_y_all, ensemble_pred, y_test,
+                              metric_for_threshold="f1")
+    c = rep["corrected"]
+    logging.critical(
+        f"[LEAKAGE-FREE] tau(val)={rep['tau_val']:.2f} "
+        f"acc={c['accuracy']:.4f} f1={c['f1']:.4f} "
+        f"roc_auc={c['roc_auc']:.4f} ap={c['avg_precision']:.4f}")
+    logging.critical(
+        f"[INFLATION] accuracy +{rep['accuracy_inflation']*100:.2f}pp, "
+        f"f1 +{rep['f1_inflation']*100:.2f}pp from test-set thresholding")
+
+    # Save per-commit predictions so re-thresholding never needs a retrain.
+    # RUNBOOK_v2 s3: provenance (repo, commit hash) for every test and val row.
+    val_idx_all = np.concatenate(val_idx_pool)
+    prov_trainval = recover(details_all, args.data_location)
+    prov_test = recover(repo_details(test_repos), args.data_location)
+    if len(prov_test.repo) != len(y_test):
+        raise RuntimeError(f"test provenance rows {len(prov_test.repo)} != {len(y_test)}")
+    logging.critical(f"[PROVENANCE] test: {prov_test.summary()}")
+    logging.critical(f"[PROVENANCE] train+val: {prov_trainval.summary()}")
+
+    os.makedirs("results", exist_ok=True)
+    np.savez(f"results/preds_{exp_name}_{args.model}.npz",
+             test_pred=ensemble_pred, test_y=np.asarray(y_test),
+             val_pred=val_pred_all, val_y=val_y_all, tau_val=rep["tau_val"],
+             # RUNBOOK_v2 s3 keys
+             test_logit=test_logit,
+             test_pred_folds=test_pred_folds,
+             val_fold=np.concatenate(val_fold_pool),
+             test_repo=prov_test.repo, test_hash=prov_test.hash,
+             val_repo=prov_trainval.repo[val_idx_all], val_hash=prov_trainval.hash[val_idx_all],
+             # extra provenance (not requested; kept for auditing)
+             test_event_type=prov_test.event_type, test_created_at=prov_test.created_at,
+             test_event_idx=prov_test.event_idx, test_prov_verified=prov_test.verified,
+             val_event_type=prov_trainval.event_type[val_idx_all],
+             val_created_at=prov_trainval.created_at[val_idx_all],
+             val_event_idx=prov_trainval.event_idx[val_idx_all],
+             val_prov_verified=prov_trainval.verified[val_idx_all],
+             val_row_index=val_idx_all)
+
+    # Ensemble evaluation (save=True writes results file and ROC plot — kept for continuity)
     acc_ensemble = check_results(X_test, y_test, ensemble_pred, exp_name, args.model, save=True)
-    logging.critical(f"Ensemble test accuracy ({len(fold_models)} models): {acc_ensemble}")
+    logging.critical(f"[OPTIMISTIC, threshold-on-test] ensemble ({len(fold_models)} models) acc: {acc_ensemble}")
 
 
 if __name__ == "__main__":

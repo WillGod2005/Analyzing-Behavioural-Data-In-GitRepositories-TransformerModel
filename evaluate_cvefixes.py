@@ -69,6 +69,9 @@ from dataset_utils import (
     add_graphql_features,
 )
 from helper import Repository, safe_mkdir, EnumAction, add_metadata
+from model_outputs import predict_logits                 # RUNBOOK_v2: logits
+from provenance import ordered_events_from_frame, lookup  # RUNBOOK_v2: repo + hash
+import hashlib
 
 logger = logging.getLogger(__name__)
 coloredlogs.install(fmt="%(asctime)s %(levelname)s %(message)s")
@@ -82,7 +85,7 @@ CVEFIXES_DIR = CVEFIXES_DIR_BASE  # May be overridden by --enriched flag
 # Model path helper
 # =============================================================================
 
-def make_model_dir_name(aggr, backs, metadata, seed=42):
+def make_model_dir_name(aggr, backs, metadata, seed=42, comment=""):
     """Construct the model checkpoint directory name from training parameters.
 
     Must match the naming convention used by train.py so we load the correct
@@ -101,9 +104,88 @@ def make_model_dir_name(aggr, backs, metadata, seed=42):
     name = f"{aggr}_R1_B{backs}"
     if metadata:
         name += "_meta"
+    if comment:  # rerun_v3 (Commit-only benign targets): same order as train.py / make_new_dir_name
+        name += f"_{comment}"
     if seed != 42:
         name += f"_s{seed}"
     return name
+
+
+N_FOLDS = 10
+
+
+def load_ensemble(model_dir, model_name, legacy_last_fold=False):
+    """RUNBOOK_v2 Task 1: load all 10 fold models of a run (models/<dir>/<model>_folds/fold_k.keras).
+
+    Missing fold models are a hard error: the last-fold model must not be used
+    on its own.  --legacy-last-fold reproduces the pre-RUNBOOK_v2 behaviour
+    (single models/<dir>/<model>.keras) for comparison only.
+    """
+    if legacy_last_fold:
+        paths = [os.path.join("models", model_dir, f"{model_name}.keras")]
+    else:
+        paths = [os.path.join("models", model_dir, f"{model_name}_folds", f"fold_{k}.keras")
+                 for k in range(N_FOLDS)]
+    missing = [p for p in paths if not os.path.exists(p)]
+    if missing:
+        print(f"FATAL: missing model files: {missing}")
+        sys.exit(3)
+    print(f"[ENSEMBLE] {'LEGACY last-fold model' if legacy_last_fold else f'{len(paths)} fold models'}: "
+          f"{os.path.dirname(paths[0])}")
+    return [tf.keras.models.load_model(p, compile=False) for p in paths]
+
+
+def ensemble_predict(fold_models, X):
+    """Mean probability, mean logit, and per-fold probabilities (n_folds, n)."""
+    probs = np.stack([m.predict(X, verbose=0).reshape(-1) for m in fold_models])
+    logits = np.stack([predict_logits(m, X) for m in fold_models])
+    return probs.mean(axis=0), logits.mean(axis=0), probs
+
+
+def reload_ensemble(fold_models, model_dir, args):
+    """--reload-every: drop the fold models, their logit sub-models and every compiled GPU program, then load the
+    same fold model files again. Batches are unchanged, so scores are unchanged; memory used by programs compiled
+    for earlier repo sizes is freed (runs_v2/NOTES.md s9, s11). Checked on the GPU first
+    (runs_v2/12_oom_fix/reload_check.py)."""
+    import gc
+    import model_outputs
+    del fold_models
+    model_outputs._PARTS_CACHE.clear()
+    tf.keras.backend.clear_session()
+    gc.collect()
+    return load_ensemble(model_dir, args.model, args.legacy_last_fold)
+
+
+def ensemble_predict_padded(fold_models, X, multiple=256):
+    """ensemble_predict on X padded with zero rows to a multiple of `multiple`, padded rows dropped (--pad-batches).
+
+    Every predict call then sees the same batch shapes (predict: batches of 32; logits: 256), so the GPU compiles
+    each model once instead of once per repo size (runs_v2/NOTES.md s9). Rows are scored independently; the
+    padding rows are discarded. Checked on the GPU before use (runs_v2/12_oom_fix/pad_check.py).
+    """
+    n = len(X)
+    m = -(-n // multiple) * multiple
+    if m != n:
+        X = np.concatenate([X, np.zeros((m - n,) + X.shape[1:], dtype=X.dtype)])
+    pred, logit, probs = ensemble_predict(fold_models, X)
+    return pred[:n], logit[:n], probs[:, :n]
+
+
+def commit_list_fingerprint(prov, labels):
+    """sha256 over sorted (repo, created_at, event_idx, label) -- identical sets give identical hashes."""
+    rows = sorted(zip(prov["repo"], prov["created_at"], [int(i) for i in prov["event_idx"]],
+                      [int(l) for l in labels]))
+    return hashlib.sha256(repr(rows).encode()).hexdigest()
+
+
+def stack_provenance(prov_rows):
+    """prov_rows: list of (repo, hash, event_type, created_at, event_idx, verified) tuples."""
+    keys = ["repo", "hash", "event_type", "created_at", "event_idx", "prov_verified"]
+    cols = list(zip(*prov_rows)) if prov_rows else [[]] * len(keys)
+    out = {k: np.asarray(c) for k, c in zip(keys, cols)}
+    out["event_idx"] = out["event_idx"].astype(np.int64)
+    out["prov_verified"] = out["prov_verified"].astype(bool)
+    return out
 
 
 # =============================================================================
@@ -111,8 +193,9 @@ def make_model_dir_name(aggr, backs, metadata, seed=42):
 # =============================================================================
 
 def process_repo(csv_path, aggr_options, backs, metadata_dict, language_vocab,
-                 benign_vuln_ratio=1, realistic=False):
+                 benign_vuln_ratio=1, realistic=False, sample_seed=0, benign_commit_only=False):
     """Load a repo CSV and extract event windows for vuln + benign commits.
+    rerun_v3: benign_commit_only=True keeps only Commit events as benign targets (balanced and realistic).
 
     Applies the same feature engineering pipeline as the training data:
     metadata enrichment → GraphQL features → fix_repo_shape() → window extraction.
@@ -160,6 +243,8 @@ def process_repo(csv_path, aggr_options, backs, metadata_dict, language_vocab,
     if "Hash" in cur_repo.columns:
         cur_repo["Hash"] = cur_repo["Hash"].fillna("")
     cur_repo = cur_repo.fillna(0)
+    # RUNBOOK_v2: raw copy for provenance (repo, hash) recovery after windowing
+    prov_raw = cur_repo[["created_at", "type", "Hash", "Vuln"]].copy()
 
     # Skip repos with no vulnerability-fixing commits
     number_of_vulns = cur_repo[cur_repo["Vuln"] != 0].shape[0]
@@ -197,6 +282,10 @@ def process_repo(csv_path, aggr_options, backs, metadata_dict, language_vocab,
     # Add GraphQL recency/churn features (7 columns)
     cur_repo = add_graphql_features(cur_repo, CVEFIXES_DIR, repo_name)
 
+    # rerun_v3 (Commit-only benign targets): row marker before fix_repo_shape drops "type"; not a feature
+    if benign_commit_only:
+        cur_repo["_target_is_commit"] = (cur_repo["type"].astype(str) == "Commit").astype(float)
+
     # Feature engineering: derive 16 temporal features + z-score normalisation
     all_set = set()
     cur_repo = fix_repo_shape(all_set, cur_repo, metadata=use_metadata)
@@ -207,13 +296,19 @@ def process_repo(csv_path, aggr_options, backs, metadata_dict, language_vocab,
         logger.info(f"Skipping {repo_name}: no vuln commits after processing")
         return None, None, repo_name
 
+    benign_mask = cur_repo["Vuln"] == 0
+    if benign_commit_only:  # rerun_v3 (Commit-only benign targets): candidates restricted to Commit events
+        benign_mask = benign_mask & (cur_repo["_target_is_commit"] == 1)
+        cur_repo = cur_repo.drop(["_target_is_commit"], axis=1)
     if realistic:
         # REALISTIC mode: test on ALL non-vuln commits (natural class imbalance)
-        benigns = cur_repo.index[cur_repo["Vuln"] == 0].tolist()
+        benigns = cur_repo.index[benign_mask].tolist()
     else:
         # BALANCED mode: sample benign commits at the specified ratio
-        benigns = cur_repo.index[cur_repo["Vuln"] == 0].tolist()
-        random.shuffle(benigns)
+        benigns = cur_repo.index[benign_mask].tolist()
+        # RUNBOOK_v2: fixed, per-repo seeded sample so the external commit list is
+        # identical across every seed/model/mode (previously unseeded random.shuffle).
+        random.Random(f"{sample_seed}:{repo_name}").shuffle(benigns)
         benigns = benigns[:benign_vuln_ratio * len(vulns)]
 
     # Drop label column before window extraction
@@ -227,22 +322,24 @@ def process_repo(csv_path, aggr_options, backs, metadata_dict, language_vocab,
         ).set_index("idx")
 
     # Extract windows for vulnerability-fixing commits
-    vuln_windows = []
+    vuln_windows, vuln_kept = [], []
     for event_idx in vulns:
         try:
             res = get_event_window(cur_repo, event_idx, aggr_options, backs=backs)
             if res is not None and len(res) > 0:
                 vuln_windows.append(res)
+                vuln_kept.append(event_idx)
         except Exception:
             continue  # Skip windows that fail (e.g. too close to sequence boundary)
 
     # Extract windows for benign commits
-    benign_windows = []
+    benign_windows, benign_kept = [], []
     for event_idx in benigns:
         try:
             res = get_event_window(cur_repo, event_idx, aggr_options, backs=backs)
             if res is not None and len(res) > 0:
                 benign_windows.append(res)
+                benign_kept.append(event_idx)
         except Exception:
             continue
 
@@ -254,15 +351,22 @@ def process_repo(csv_path, aggr_options, backs, metadata_dict, language_vocab,
     windows = vuln_windows + benign_windows
     labels = [1] * len(vuln_windows) + [0] * len(benign_windows)
 
-    return list(zip(windows, labels)), len(vuln_windows), repo_name
+    # RUNBOOK_v2: provenance per window, verified against timestamp + label
+    targets = [(e[0], e[1], lab) for e, lab in zip(vuln_kept + benign_kept, labels)]
+    events = ordered_events_from_frame(prov_raw, CVEFIXES_DIR, repo_name)
+    hashes, types, oks = lookup(events, targets)
+    prov = [(repo_name, h, t, str(e[0]), int(e[1]), ok)
+            for h, t, ok, e in zip(hashes, types, oks, vuln_kept + benign_kept)]
+
+    return list(zip(windows, labels, prov)), len(vuln_windows), repo_name
 
 
 # =============================================================================
-# _pad_and_predict — Pad windows and run model inference
+# _pad_windows — Pad windows to the model's input shape
 # =============================================================================
 
-def _pad_and_predict(model, windows, expected_seq, expected_features):
-    """Pad a list of variable-length windows and run model prediction.
+def _pad_windows(windows, expected_seq, expected_features):
+    """Pad a list of variable-length windows to the model's input shape.
 
     Handles dimension mismatches between the test data and the model's
     expected input shape.  Windows may have different sequence lengths
@@ -312,7 +416,7 @@ def _pad_and_predict(model, windows, expected_seq, expected_features):
             # Test windows longer — keep only the last expected_seq timesteps
             X = X[:, -expected_seq:, :]
 
-    return model.predict(X, verbose=0).reshape(-1)
+    return X
 
 
 # =============================================================================
@@ -343,30 +447,31 @@ def _run_realistic(csv_files, args, metadata_dict, language_vocab, seeds):
     """
     # Load model for the first seed
     seed = seeds[0]
-    model_dir = make_model_dir_name(args.aggregate, args.backs, args.meta, seed)
-    model_path = os.path.join("models", model_dir, f"{args.model}.keras")
-
-    if not os.path.exists(model_path):
-        print(f"Model not found: {model_path}")
-        return
-
-    print(f"Loading model: {model_path}")
-    model = tf.keras.models.load_model(model_path, compile=False)
-    expected_features = model.input_shape[-1]
-    expected_seq = model.input_shape[1]
+    model_dir = make_model_dir_name(args.aggregate, args.backs, args.meta, seed, args.model_comment)
+    if not args.merge_chunks:
+        fold_models = load_ensemble(model_dir, args.model, args.legacy_last_fold)
+        expected_features = fold_models[0].input_shape[-1]
+        expected_seq = fold_models[0].input_shape[1]
+    lo, hi = (int(x) for x in args.repo_range.split(":")) if args.repo_range else (0, len(csv_files))
 
     # Process repos one at a time to manage memory
     all_preds = []
+    all_logits = []
     all_labels = []
+    all_samples_prov = []
     repos_processed = 0
     repos_skipped = 0
     total_vulns = 0
     total_benigns = 0
 
     for i, csv_path in enumerate(csv_files):
+        if args.merge_chunks or not lo <= i < hi:
+            continue  # --repo-range: another process scores this repo; --merge-chunks: all already scored
+        if args.reload_every and i > 0 and i % args.reload_every == 0:
+            fold_models = reload_ensemble(fold_models, model_dir, args)
         samples, n_vulns, repo_name = process_repo(
             csv_path, args.aggregate, args.backs, metadata_dict, language_vocab,
-            realistic=True,
+            realistic=True, sample_seed=args.sample_seed, benign_commit_only=args.benign_commit_only,
         )
         if samples is None or len(samples) == 0:
             repos_skipped += 1
@@ -378,8 +483,11 @@ def _run_realistic(csv_files, args, metadata_dict, language_vocab, seeds):
         n_benign = len(labels) - n_vulns
 
         # Run inference for this repo's windows
-        pred = _pad_and_predict(model, windows, expected_seq, expected_features)
+        X_repo = _pad_windows(windows, expected_seq, expected_features)
+        pred, logit, _ = (ensemble_predict_padded if args.pad_batches else ensemble_predict)(fold_models, X_repo)
         all_preds.extend(pred.tolist())
+        all_logits.extend(logit.tolist())
+        all_samples_prov.extend(s[2] for s in samples)  # provenance only, not windows
         all_labels.extend(labels)
         total_vulns += n_vulns
         total_benigns += n_benign
@@ -389,6 +497,36 @@ def _run_realistic(csv_files, args, metadata_dict, language_vocab, seeds):
         if (i + 1) % 20 == 0:
             print(f"  [{i+1}/{len(csv_files)}] {repos_processed} repos, "
                   f"{total_vulns} vuln + {total_benigns} benign commits so far")
+
+    if args.repo_range:  # chunk process: save the raw per-repo results; the merge run reports
+        import pickle
+        with open(args.chunk_out, "wb") as f:
+            pickle.dump({"range": (lo, hi), "csv_files": [os.path.basename(c) for c in csv_files], "preds": all_preds,
+                         "logits": all_logits, "labels": all_labels, "prov": all_samples_prov,
+                         "repos_processed": repos_processed, "repos_skipped": repos_skipped,
+                         "total_vulns": total_vulns, "total_benigns": total_benigns}, f)
+        print(f"[CHUNK] repos {lo}:{hi} of {len(csv_files)}: {repos_processed} processed, {repos_skipped} skipped, "
+              f"{len(all_labels)} samples -> {args.chunk_out}")
+        return
+    if args.merge_chunks:  # same lists, in the same repo order, as one process would have built
+        import pickle
+        chunks = []
+        for path in args.merge_chunks.split(","):
+            with open(path, "rb") as f:
+                chunks.append(pickle.load(f))
+        chunks.sort(key=lambda c: c["range"][0])
+        names = [os.path.basename(c) for c in csv_files]
+        edges = [c["range"] for c in chunks]
+        if edges[0][0] != 0 or edges[-1][1] != len(csv_files) or any(a[1] != b[0] for a, b in zip(edges, edges[1:])) \
+                or any(c["csv_files"] != names for c in chunks):
+            print(f"[MERGE] ERROR: chunks {edges} do not cover repos 0:{len(csv_files)} exactly, or list differs")
+            sys.exit(4)
+        for c in chunks:
+            all_preds += c["preds"]; all_logits += c["logits"]; all_labels += c["labels"]
+            all_samples_prov += c["prov"]
+            repos_processed += c["repos_processed"]; repos_skipped += c["repos_skipped"]
+            total_vulns += c["total_vulns"]; total_benigns += c["total_benigns"]
+        print(f"[MERGE] {len(chunks)} chunks {edges} -> {len(all_labels)} samples")
 
     print(f"\nProcessed {repos_processed} repos, skipped {repos_skipped}")
     print(f"Total: {len(all_labels)} samples ({total_vulns} vuln, {total_benigns} benign)")
@@ -422,9 +560,19 @@ def _run_realistic(csv_files, args, metadata_dict, language_vocab, seeds):
     print(f"  Mean prob (benign): {pred[y_test == 0].mean():.4f}")
     print()
 
-    # Threshold sweep: find the optimal operating point for F1
-    # Tests coarse grid (0.30–0.95 in 0.05 steps) then refines around best
-    print("=== THRESHOLD SWEEP ===")
+    prov = stack_provenance(all_samples_prov)
+    print(f"[PROVENANCE] {len(prov['repo'])} rows, {int(prov['prov_verified'].sum())} verified, "
+          f"{int((prov['hash'] != '').sum())} with a commit hash")
+    print(f"[COMMIT-LIST] n={len(y_test)} sha256={commit_list_fingerprint(prov, y_test)}")
+    if args.save_preds:
+        np.savez(args.save_preds, scores=pred, logits=np.array(all_logits), labels=y_test.astype(int),
+                 threshold=args.threshold, **prov)
+        print(f"Saved external predictions to {args.save_preds}")
+
+    # Threshold sweep on the EXTERNAL labels. Leakage-free patch: this is kept only
+    # as a diagnostic (it tunes the threshold on the test labels). The reportable
+    # numbers are the ones above, at the fixed/validation threshold.
+    print("=== THRESHOLD SWEEP [DIAGNOSTIC ONLY - tuned on external labels, do not report] ===")
     print(f"{'Thr':>5} {'Acc':>7} {'Prec':>7} {'Rec':>7} {'F1':>7} {'FPR':>7}  TP     FP     FN")
     print("-" * 75)
     best_f1, best_thr = 0, 0.5
@@ -447,7 +595,7 @@ def _run_realistic(csv_files, args, metadata_dict, language_vocab, seeds):
         if t_f1 > best_f1:
             best_f1, best_thr = t_f1, thr
 
-    print(f"\nBest F1: {best_f1:.4f} at threshold={best_thr:.2f}")
+    print(f"\n[DIAGNOSTIC ONLY] Best F1 on external labels: {best_f1:.4f} at threshold={best_thr:.2f}")
 
     # Final summary
     print()
@@ -458,9 +606,11 @@ def _run_realistic(csv_files, args, metadata_dict, language_vocab, seeds):
     print(f"  Imbalance: 1:{total_benigns / max(total_vulns, 1):.1f}")
     print(f"  ROC-AUC:   {auc:.4f}")
     print(f"  Avg Prec:  {ap:.4f}")
-    print(f"  Recall@0.5:    {rec:.4f} (catches {tp} of {total_vulns} vuln commits)")
-    print(f"  Precision@0.5: {prec:.4f} ({tp} true alerts out of {tp + fp} total alerts)")
-    print(f"  Best F1: {best_f1:.4f} at threshold={best_thr:.2f}")
+    thr = args.threshold
+    print(f"  [LEAKAGE-FREE] threshold={thr:.2f}  F1={f1:.4f}  Acc={acc:.4f}")
+    print(f"  Recall@{thr:.2f}:    {rec:.4f} (catches {tp} of {total_vulns} vuln commits)")
+    print(f"  Precision@{thr:.2f}: {prec:.4f} ({tp} true alerts out of {tp + fp} total alerts)")
+    print(f"  [DIAGNOSTIC ONLY, tuned on external labels] Best F1: {best_f1:.4f} at threshold={best_thr:.2f}")
 
 
 # =============================================================================
@@ -494,15 +644,59 @@ def main():
     # Evaluation parameters
     parser.add_argument("--seed", type=int, default=42)
     parser.add_argument("--threshold", type=float, default=0.5)
+    # Leakage-free patch: take the decision threshold from the internal validation
+    # pool saved by train.py (results/preds_<exp>_<model>.npz, key tau_val) instead
+    # of choosing it on the external labels.
+    parser.add_argument("--tau-from-npz", type=str, default=None,
+                        help="Read tau_val from a train.py preds .npz and use it as --threshold")
+    parser.add_argument("--save-preds", type=str, default=None,
+                        help="Save external scores+labels to this .npz (re-thresholding without re-running)")
     parser.add_argument("--all-seeds", action="store_true")
+    parser.add_argument("--benign-commit-only", action="store_true",
+                        help="rerun_v3: benign targets only from Commit events (needs 'commitonly' in --model-comment)")
+    parser.add_argument("--model-comment", default="",
+                        help="rerun_v3: the train.py --comment of the models (e.g. commitonly); seed suffix added as in training")
+    parser.add_argument("--sample-seed", type=int, default=0,
+                        help="RUNBOOK_v2: seed for the per-repo benign sample (balanced mode)")
+    parser.add_argument("--legacy-last-fold", action="store_true",
+                        help="Use only models/<dir>/<model>.keras (pre-RUNBOOK_v2; comparison only)")
     parser.add_argument("--enriched", action="store_true",
                         help="Use enriched CSVs from cvefixes_test/enriched/")
+    parser.add_argument("--repo-range", default=None,
+                        help="realistic mode: score only repos A:B (0-based, end excluded) and save the raw results "
+                             "to --chunk-out; a later --merge-chunks run reports (memory fix, runs_v2/NOTES.md s12)")
+    parser.add_argument("--chunk-out", default=None, help="output .pkl for --repo-range")
+    parser.add_argument("--merge-chunks", default=None,
+                        help="realistic mode: comma-separated --chunk-out files; no scoring, the results are joined in "
+                             "repo order and reported exactly as a single run")
+    parser.add_argument("--reload-every", type=int, default=0,
+                        help="realistic mode: reload the fold models every N repos to free compiled GPU programs "
+                             "(memory fix, runs_v2/NOTES.md s11); scores unchanged; 0 = never")
+    parser.add_argument("--pad-batches", action="store_true",
+                        help="realistic mode: pad each repo's windows to a multiple of 256 rows so the GPU compiles "
+                             "each model once (memory fix, runs_v2/NOTES.md s9); padded rows are dropped")
     parser.add_argument("--realistic", action="store_true",
                         help="Test on ALL commits (natural imbalance, no 1:1 sampling)")
     parser.add_argument("--exclude-train-overlap", action="store_true",
                         help="Drop CVEfixes test repos whose flat name (case-insensitive) "
                              "matches any training repo CSV in data_collection/gh_cve_proccessed/.")
     args = parser.parse_args()
+    # rerun_v3 (Commit-only benign targets): Commit-only models and Commit-only targets always go together
+    if args.benign_commit_only != ("commitonly" in args.model_comment):
+        print(f"FATAL: --benign-commit-only={args.benign_commit_only} but --model-comment={args.model_comment!r}")
+        sys.exit(2)
+    if args.benign_commit_only:
+        print(f"[COMMIT-ONLY] benign targets restricted to Commit events; models from *_{args.model_comment}*")
+
+    if args.tau_from_npz:
+        if not os.path.exists(args.tau_from_npz):
+            print(f"FATAL: --tau-from-npz file not found: {args.tau_from_npz}")
+            sys.exit(2)
+        args.threshold = float(np.load(args.tau_from_npz)["tau_val"])
+        print(f"[LEAKAGE-FREE] threshold = tau_val = {args.threshold:.4f} "
+              f"(selected on internal validation, from {args.tau_from_npz})")
+    else:
+        print(f"[THRESHOLD] fixed threshold = {args.threshold:.2f} (not tuned on external labels)")
 
     # Select seeds: all 5 experimental seeds or just the specified one
     seeds = [42, 123, 7, 256, 999] if args.all_seeds else [args.seed]
@@ -622,6 +816,7 @@ def main():
     for csv_path in csv_files:
         samples, n_vulns, repo_name = process_repo(
             csv_path, args.aggregate, args.backs, metadata_dict, language_vocab,
+            sample_seed=args.sample_seed, benign_commit_only=args.benign_commit_only,
         )
         if samples is None or len(samples) == 0:
             repos_skipped += 1
@@ -633,8 +828,8 @@ def main():
         logger.info(f"  {repo_name}: {n_vulns} vuln + {len(samples) - n_vulns} benign windows")
 
     print(f"\nProcessed {repos_processed} repos, skipped {repos_skipped}")
-    n_vuln_samples = sum(1 for _, l in all_samples if l == 1)
-    n_benign_samples = sum(1 for _, l in all_samples if l == 0)
+    n_vuln_samples = sum(1 for s in all_samples if s[1] == 1)
+    n_benign_samples = sum(1 for s in all_samples if s[1] == 0)
     print(f"Total samples: {len(all_samples)} ({n_vuln_samples} vuln, {n_benign_samples} benign)")
 
     if not all_samples:
@@ -659,6 +854,11 @@ def main():
     y_test = np.array(labels, dtype=np.float32)
 
     print(f"Test array shape: {X_test.shape}")
+    prov = stack_provenance([s[2] for s in all_samples])
+    print(f"[PROVENANCE] {len(prov['repo'])} rows, {int(prov['prov_verified'].sum())} verified, "
+          f"{int((prov['hash'] != '').sum())} with a commit hash")
+    print(f"[COMMIT-LIST] n={len(y_test)} vuln={n_vuln_samples} benign={n_benign_samples} "
+          f"sha256={commit_list_fingerprint(prov, y_test)}")
     print()
 
     # ---- Run inference for each seed ----
@@ -666,17 +866,10 @@ def main():
 
     for seed in seeds:
         # Locate the model checkpoint for this seed
-        model_dir = make_model_dir_name(args.aggregate, args.backs, args.meta, seed)
-        model_path = os.path.join("models", model_dir, f"{args.model}.keras")
-
-        if not os.path.exists(model_path):
-            print(f"Model not found: {model_path} — skipping seed {seed}")
-            continue
-
+        model_dir = make_model_dir_name(args.aggregate, args.backs, args.meta, seed, args.model_comment)
         print(f"--- Seed {seed} ---")
-        print(f"Loading: {model_path}")
-
-        model = tf.keras.models.load_model(model_path, compile=False)
+        fold_models = load_ensemble(model_dir, args.model, args.legacy_last_fold)
+        model = fold_models[0]  # only used for input-shape checks below
 
         # Handle feature dimensionality mismatch between test data and model.
         # This can occur if test repos have different metadata/language features.
@@ -703,7 +896,7 @@ def main():
                 X_eval = X_eval[:, -expected_seq:, :]
 
         # Run model inference and binarise at threshold
-        pred = model.predict(X_eval, verbose=0).reshape(-1)
+        pred, logit, pred_folds = ensemble_predict(fold_models, X_eval)
         y_pred = (pred >= args.threshold).astype(int)
 
         # Compute standard classification metrics
@@ -718,11 +911,24 @@ def main():
         print(f"  Recall:    {rec:.4f}")
         print(f"  F1 Score:  {f1:.4f}")
         print(f"  Confusion: TN={tn} FP={fp} FN={fn} TP={tp}")
+        if n_benign_samples > 0 and n_vuln_samples > 0:
+            # Threshold-free, so unaffected by threshold choice
+            print(f"  ROC-AUC:   {roc_auc_score(y_test, pred):.4f}")
+            print(f"  Avg Precision (AP): {average_precision_score(y_test, pred):.4f}")
+        if args.save_preds:
+            out = args.save_preds if len(seeds) == 1 else args.save_preds.replace(".npz", f"_s{seed}.npz")
+            np.savez(out, scores=pred, logits=logit, pred_folds=pred_folds, labels=y_test.astype(int),
+                     threshold=args.threshold, **prov)
+            print(f"  Saved external predictions to {out}")
         print(f"  Mean prob (vuln):   {pred[y_test == 1].mean():.4f}")
         if n_benign_samples > 0:
             print(f"  Mean prob (benign): {pred[y_test == 0].mean():.4f}")
         print()
 
+        auc_v = roc_auc_score(y_test, pred) if n_benign_samples and n_vuln_samples else float("nan")
+        ap_v = average_precision_score(y_test, pred) if n_benign_samples and n_vuln_samples else float("nan")
+        print(f"[RESULT] seed={seed} n={len(y_test)} tau={args.threshold:.4f} acc={acc:.4f} prec={prec:.4f} "
+              f"rec={rec:.4f} f1={f1:.4f} roc_auc={auc_v:.4f} ap={ap_v:.4f}")
         all_results.append({
             "seed": seed, "acc": acc, "prec": prec, "rec": rec, "f1": f1,
             "tn": tn, "fp": fp, "fn": fn, "tp": tp,
@@ -735,7 +941,8 @@ def main():
         f1s = [r["f1"] for r in all_results]
         recs = [r["rec"] for r in all_results]
         print("=" * 60)
-        print(f"SUMMARY (BALANCED 1:1): {args.model} | {args.aggregate.value} | B={args.backs} | meta={args.meta}")
+        print(f"SUMMARY (BALANCED 1:1): {args.model} | {args.aggregate.value} | B={args.backs} | meta={args.meta}"
+              f" | threshold={args.threshold:.2f}{' (tau_val)' if args.tau_from_npz else ''}")
         print(f"  Seeds evaluated: {len(all_results)}")
         print(f"  Accuracy:  {np.mean(accs):.4f} +/- {np.std(accs):.4f}")
         print(f"  Precision: {np.mean(precs):.4f} +/- {np.std(precs):.4f}")

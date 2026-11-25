@@ -243,6 +243,13 @@ def add_graphql_features(cur_repo, data_path, file):
     cur_repo["created_at"] = pd.to_datetime(cur_repo["created_at"], format="mixed", utc=True)
     cur_repo = cur_repo.sort_values("created_at")
 
+    # pandas 2.x can infer different datetime resolutions (us vs ns) for the two
+    # sides, and merge_asof refuses mismatched key dtypes. Cast both to ns;
+    # timestamps are unchanged, only the storage resolution is unified.
+    cur_repo["created_at"] = cur_repo["created_at"].astype("datetime64[ns, UTC]")
+    gql_features = gql_features.assign(
+        commit_date=gql_features["commit_date"].astype("datetime64[ns, UTC]"))
+
     # merge_asof: for each event in cur_repo, find the most recent GraphQL
     # commit snapshot that occurred at or before the event's timestamp.
     # This ensures no future data leakage — each event only sees GraphQL
@@ -576,7 +583,14 @@ def fix_repo_shape(all_set, cur_repo, metadata=False, update=lambda cur: None):
     # PR reviews, and commits in a short time span).
     # Uses np.searchsorted for O(n log n) efficiency instead of O(n²).
     timestamps = cur_repo.index.get_level_values("created_at")
-    ts_seconds = np.sort(timestamps.astype(np.int64) / 1e9)
+    # RUNBOOK_v2 (2026-11-13, option B): pin the historical behaviour.  Every
+    # with-metadata cache and model was built from datetime64[us] timestamps,
+    # for which `int64 / 1e9` is NOT seconds: the "+-3600" window is really
+    # +-3.6e6 s (about +-1000 h, +-42 days).  Converting to "us" first makes the
+    # result independent of pandas' datetime resolution (the 2026-11-12 ns cast
+    # in add_graphql_features had silently switched some repos to a true +-1 h).
+    # See runs_v2/NOTES.md s4.
+    ts_seconds = np.sort(timestamps.as_unit("us").astype(np.int64) / 1e9)
     right_idx = np.searchsorted(ts_seconds, ts_seconds + 3600, side="right")
     left_idx = np.searchsorted(ts_seconds, ts_seconds - 3600, side="left")
     burst_rates = (right_idx - left_idx - 1).clip(min=0).astype(float)
@@ -752,8 +766,11 @@ def create_dataset(
     backs,
     metadata=False,
     comment="",
+    benign_commit_only=False,
 ):
     """Process all repo CSVs into model-ready Repository objects.
+    # rerun_v3 (Commit-only benign targets): benign_commit_only=True draws benign targets only from events of
+    type "Commit" (every vulnerable target is a Commit). Default False = unchanged behaviour.
 
     This is the main dataset construction function.  For each repo CSV file
     in the data directory, it:
@@ -899,6 +916,11 @@ def create_dataset(
         tqdm_update("graphql features")
         cur_repo = add_graphql_features(cur_repo, data_path, file)
 
+        # rerun_v3 (Commit-only benign targets): row marker, set before fix_repo_shape drops "type";
+        # it is not a feature (dropped with "Vuln" below, before any window is cut).
+        if benign_commit_only:
+            cur_repo["_target_is_commit"] = (cur_repo["type"].astype(str) == "Commit").astype(float)
+
         # ---- Feature engineering: derive 16 temporal features + normalise ----
         tqdm_update("fix_repo_shape")
         cur_repo = fix_repo_shape(all_set, cur_repo, metadata=metadata, update=tqdm_update)
@@ -911,12 +933,17 @@ def create_dataset(
 
         # Benign commits: randomly sample (ratio × num_vulns) from non-vuln events.
         # This controls class balance — ratio=1 gives 1:1 vuln:benign per repo.
-        benigns = cur_repo.index[cur_repo["Vuln"] == 0].tolist()
+        if benign_commit_only:  # rerun_v3 (Commit-only benign targets): same draw, candidates restricted to Commit events
+            benigns = cur_repo.index[(cur_repo["Vuln"] == 0) & (cur_repo["_target_is_commit"] == 1)].tolist()
+        else:
+            benigns = cur_repo.index[cur_repo["Vuln"] == 0].tolist()
         random.shuffle(benigns)
         benigns = benigns[: benign_vuln_ratio * len(vulns)]
 
         # Drop the label column before window extraction (model shouldn't see it)
         cur_repo = cur_repo.drop(["Vuln"], axis=1)
+        if benign_commit_only:
+            cur_repo = cur_repo.drop(["_target_is_commit"], axis=1)
 
         # ---- Extract event windows ----
         tqdm_update("extract_window")
@@ -999,6 +1026,7 @@ def extract_dataset(
     comment="",
     data_location="data_collection",
     cache_location=DATASET_DIRNAME,
+    benign_commit_only=False,
 ):
     """Load a cached dataset or create a new one from raw CSV files.
 
@@ -1028,6 +1056,10 @@ def extract_dataset(
     """
     dirname = make_new_dir_name(aggr_options, backs, benign_vuln_ratio, days, hours, resample, metadata, comment)
     path_name = os.path.join(cache_location, dirname)
+    # rerun_v3 (Commit-only benign targets): the flag and the cache name must agree
+    if benign_commit_only != ("commitonly" in (comment or "")):
+        raise ValueError(f"benign_commit_only={benign_commit_only} but cache comment is {comment!r}: "
+                         "Commit-only caches must carry 'commitonly' in their name, and only they may")
 
     if (
         cache
@@ -1063,6 +1095,7 @@ def extract_dataset(
                 backs,
                 metadata=metadata,
                 comment=comment,
+                benign_commit_only=benign_commit_only,
             )
     else:
         # No cache available — create dataset from raw CSV files
@@ -1077,6 +1110,7 @@ def extract_dataset(
             backs,
             metadata=metadata,
             comment=comment,
+            benign_commit_only=benign_commit_only,
         )
 
     return all_repos, dirname, column_names

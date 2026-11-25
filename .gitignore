@@ -82,3 +82,16 @@ last_run.log
 # Claude config (project-specific, not code)
 CLAUDE.md
 .claude/
+
+# Organised workspace (2026-11-13): archives, deliverables, docs are local only
+/archive/
+/deliverables/
+/docs/
+
+# Experiment run folders, logs and packages (tens of GB, local only)
+/runs_v2/
+/rerun_v3/
+/rerun_logs/
+*.docx
+*.npz
+*.zip
